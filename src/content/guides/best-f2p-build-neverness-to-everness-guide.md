@@ -27,6 +27,10 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1Ssmziwf_d_-NI8IYuoc39EjMPo2PJ2rD8TH2TwpYEKgbBbdFVNJGUY1nyMpz512T36X7AKe--4iPyT2mYolX83YmlkUPNi0LP_CtMgXV24PnAhFhUp_hBa1WxYf9Wr1oyvXOn7U95A9Nxn9Cb_NUnhXJp4cxfTx"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhbuVf2uGRV3-YQvCUxcytj2_YA4YUmGdoAQB2qHpMwVh-ZqAvsgQ5dWQ6UnzrCmIakRk4NtcphjDM_5cymMz_b2rXx2HAOgOx80YG5XLpiQ2VQEhcqQLlIXEZAg5WHNZufb6JRqN9-nNenF_a6rSPq6f02o2qLTzUolpB"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKYQ61ilo-a88hxL2yXI_2H8gKJaUTr9RU-hZ8ouRsy6oF9Luaf-tBC7Lhox_EeeRXX1kfx0LodBhBZGsiWJjPG5Ma6idbWiFEUEWOJQeJwDQ8w_IhPxDjlSUBcnCIWjPvvBJt7Fpg4YA_X1LlYG24JJOhP3UWpTtKf0e5lTaDiConEpfE6m-cMg=="
+hero_image: /img/best-f2p-build-neverness-to-everness-guide/hero.png
+inline_images:
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-1.png
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-2.png
 ---
 
 With the highly anticipated launch of Neverness to Everness (NTE) on April 29, 2026, players are diving into the neon-soaked streets of Hethereau City to uncover anomalies and master the supernatural Esper system.

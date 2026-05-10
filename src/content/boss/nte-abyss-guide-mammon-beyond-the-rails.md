@@ -16,6 +16,10 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI-lOcO52h3HMxevaCsn0x054JKTm2LlJWbEaxLnWwqBLgN5mjiPq4Mmss-93Ozx7lFN-MQPnbFgIghx4pdumZNT2bTiULfSiXOgPxfY18iBLOY6iagCrBBdBOBDMPvQSTTuc7RA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQUnxN_shb3xQyAWsbVtdeAOiclFxMVXfgn5kIlGqm4InUMrS5DH_3YcEHMyJSef_hOOXeouQKX4QCCVRKmRJfWvkVf9RjatmWHNWzGuLdMEVME6LFjpyx2szHzk2FO6KtmYsKBw73cyTiNpZfJDQENzUL_Yz5rSblIYbRuyoLjgju8YtichiRcXe3qqM6FsGhdC4Tpv0rMA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0938fbDZSNmP3EDMoIdVpdDp0YjprQ_ZPy-AJkYlly2qWS2jglKTAR1MQs1X4mgm66hZgPoOiycTAtLMMGfE9Jb1mp_uX8Bx93vOIkkhrBG9alv8F1EqWZpBZfJ_6ClJC6_x1y977h536BK0giIO3zaD5n_kmaDzjeKHOWOxkqfMxX2_DObRJGMZlgw=="
+hero_image: /img/nte-abyss-guide-mammon-beyond-the-rails/hero.png
+inline_images:
+  - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-1.png
+  - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-2.png
 ---
 
 Mastering the endgame of Neverness to Everness (NTE) requires more than just high-level characters; it demands a deep understanding of the Esper Cycle and boss-specific mechanics.
