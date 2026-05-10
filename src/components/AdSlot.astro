@@ -8,7 +8,8 @@ interface Props {
   style?: string;
 }
 const { slot = "", format = "auto", style = "" } = Astro.props;
-const pubId = import.meta.env.PUBLIC_ADSENSE_PUB_ID || "";
+const pubId =
+  import.meta.env.PUBLIC_ADSENSE_PUB_ID || "pub-5523706123080113";
 const enabled = pubId && pubId !== "pending";
 ---
 

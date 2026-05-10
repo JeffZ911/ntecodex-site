@@ -19,6 +19,16 @@ Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is 
 
 ## Question Restated
 
+<div class="ad-slot my-8" data-ad-pos="top">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5523706123080113"
+     data-ad-slot="1111111111"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 Players transitioning from other major gacha titles often find themselves asking: how does the pity system work in Neverness to Everness (NTE)? Unlike traditional systems that rely on a simple counter, NTE utilizes a unique "Scarborough Fair" board game mechanic that visually represents your progress toward S-class pulls.
 
 This system raises several specific questions for the community:
@@ -35,6 +45,16 @@ The Scarborough Fair system can look intimidating at first glance. Instead of a 
 In gacha games, "pity" refers to the safety net that guarantees a high-rarity item after a certain number of unsuccessful attempts. In the context of NTE's urban setting, this system is designed to be more transparent and player-friendly than its competitors. By removing the "50/50" gamble and introducing a visual "Board Modification" at the soft pity mark, the game provides a clearer path to obtaining featured characters like Nanally or Hotori.
 
 [Infographic showing the 70-pull soft pity (Board Modification) and 90-pull hard pity for NTE characters.]
+
+<div class="ad-slot my-8" data-ad-pos="mid">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5523706123080113"
+     data-ad-slot="2222222222"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 
 ## Direct Answer
 
@@ -147,6 +167,16 @@ Because of the 50-pull guarantee and the S-class selector on the Standard Board,
 
 ### Understanding Awakening (Duplicates)
 Pulling a duplicate character grants "Awakening" materials. Each Esper has six Awakening levels that provide significant stat boosts or mechanical changes to their kit. While S-class characters are fully functional at Awakening 0, A-class characters often become competitive with S-classes once they reach Awakening 4 or 6.
+
+<div class="ad-slot my-8" data-ad-pos="end">
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5523706123080113"
+     data-ad-slot="3333333333"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 
 ## Sources
 - neverness.gg — https://neverness.gg

@@ -20,7 +20,10 @@ const {
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site || "https://ntecodex.com").toString();
-const adsensePub = import.meta.env.PUBLIC_ADSENSE_PUB_ID || "";
+// AdSense publisher id is public (also lives in /ads.txt). Default it
+// here so build does not depend on .env being present.
+const adsensePub =
+  import.meta.env.PUBLIC_ADSENSE_PUB_ID || "pub-5523706123080113";
 const adsClient = adsensePub
   ? (adsensePub.startsWith("ca-") ? adsensePub : `ca-${adsensePub}`)
   : "";
