@@ -29,6 +29,8 @@ const dateStr = publishedAt ? new Date(publishedAt).toISOString().slice(0, 10) :
   <article class="card h-full flex flex-col">
     {heroImage && (
       <img src={heroImage} alt=""
+           width="640" height="360"
+           loading="lazy" decoding="async"
            class="aspect-video w-full rounded-lg object-cover mb-3 -mt-1" />
     )}
     <div class="flex items-center gap-2 text-xs">

@@ -18,9 +18,9 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2KY1PIG2DrzZ49396oH_ZpZeusvIs4ncTV6umUCHZbo-Y966sIa0ImfYiX5lBe3U-DhDTe1hTdidSdS24gkcxjRsfhrQOHzCuM9JjiVuvDjrHrQYPy1N8RfxGMKs1_V4bgNTqUfpvW4l5YK7nHvIjlsXU4FOJAicyOwowE7NKPkOR76BYYbQKxWGrTmKLL3WV1BQgoZixiLIHoAmgVzR6aM_i9TvR20engkzZsXz-xMVoi2qtrlYX4ra40ibQY1XaPOWwgNVj8I2BhdzituY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCFHZ5O-XRTRoS_wdz6eLjAvBxdjt3G-suxaDF4WH9vx1doqTJ-rHxEr4mupiCZ6G3Bp5zk-QqXUth69LOxsn1deaVwf1L77W_aP69Bdd3YuUubDTMzX8bzg3xrr4jgQ5ARzxJNZp9tTRLFQbVVmgqge4rp3SIZnutV0U4tcgV-sg="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbo17nbO4ti9B4CWzYY-HAeJm5HE4l2-BeROFbN4jZskGaaKMo-RDMbCewiEvbrtCMRX9LKIrXCEY8_SNzvIzGjFu8MoUM_0Z2TY_p7FnGEmDhvMmcCTMYoGXMxOu_T6ZmPynjG8s9qRccVZVom7TNJYXM"
-hero_image: /img/neverness-to-everness-reroll-guide/hero.png
+hero_image: /img/neverness-to-everness-reroll-guide/hero.webp
 inline_images:
-  - /img/neverness-to-everness-reroll-guide/inline-1.png
+  - /img/neverness-to-everness-reroll-guide/inline-1.webp
 ---
 
 Starting your journey in Hethereau with the right team can be the difference between struggling against anomalies and breezing through the urban supernatural world of Neverness to Everness. With the launch of Hotta Studio's latest open-world RPG, optimizing your initial pulls is the best way to secure a competitive edge without spending a dime.

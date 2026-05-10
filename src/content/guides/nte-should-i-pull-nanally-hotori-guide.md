@@ -29,10 +29,10 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK8sLOik1_NJRkPWyjLlyuVcv1zTucRh178zK9VXkOmBiCk5gpGu5GABhd546u4MH_3BYkI5C9tNn2HfaaEWH8273zEaF9-iyFCM7Kh6t8j42_VgVloYTyJYP4LH1d8sttRO7MrHsqwn_iGXCj9Y8WvIOUWqu80uN_8B3BjV-aByHQqs7omXbf76zXl8DvfiKVpJtWpjrTGQVM"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0XCyfdzr0Xsg8EubQ7T4JM44_aKMn7RDuTosJz2-i5L2rOe1Kkp0wmP_dxragsLeeLobXTEll2i-WeRUtJfS-c5fnKFlGTLmUK6BoHhPOoej45ofRDamHQTSj6Nb0pm0tR3a6UAyybMr7fIBnO8yxWkonWowx-0iMSxd_"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4aW3g1eKBOCKynjHlE2s6EzqY4k_rvSQAZKGBa5wrgn3Mw5CULLSyba0DdaPfbrmyJRuoALii6CDOrefXxSocYljCQ7rQb1Xue8DVsNJtWqR01qOQehCGauFEdWoaRlDGqIChf0yRc3cvqsDrfj6JyVHCVSsQMIewfXMbGM931NRsseRexsZGUg=="
-hero_image: /img/nte-should-i-pull-nanally-hotori-guide/hero.png
+hero_image: /img/nte-should-i-pull-nanally-hotori-guide/hero.webp
 inline_images:
-  - /img/nte-should-i-pull-nanally-hotori-guide/inline-1.png
-  - /img/nte-should-i-pull-nanally-hotori-guide/inline-2.png
+  - /img/nte-should-i-pull-nanally-hotori-guide/inline-1.webp
+  - /img/nte-should-i-pull-nanally-hotori-guide/inline-2.webp
 ---
 
 With the supernatural streets of Hethereau finally open to the public, the first major dilemma for every anomaly investigator has arrived: do you spend your hard-earned Solid Dice on the current limited banner or save them for the next update? 

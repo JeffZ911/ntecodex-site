@@ -30,7 +30,10 @@ const initial = displayName.charAt(0).toUpperCase();
   <div class="card h-full">
     <div class="flex items-start gap-3">
       {heroImage ? (
-        <img src={heroImage} alt="" class="h-16 w-16 rounded-lg object-cover" />
+        <img src={heroImage} alt=""
+             width="64" height="64"
+             loading="lazy" decoding="async"
+             class="h-16 w-16 rounded-lg object-cover" />
       ) : (
         <div class="flex h-16 w-16 items-center justify-center rounded-lg bg-primary-700/40 text-2xl font-bold text-primary-100">
           {initial}

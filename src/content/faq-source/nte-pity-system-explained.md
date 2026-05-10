@@ -7,10 +7,10 @@ word_count: 1833
 published_at: "2026-05-10T13:04:58.349589+00:00"
 published_url: /faq
 sources: []
-hero_image: /img/nte-pity-system-explained/hero.png
+hero_image: /img/nte-pity-system-explained/hero.webp
 inline_images:
-  - /img/nte-pity-system-explained/inline-1.png
-  - /img/nte-pity-system-explained/inline-2.png
+  - /img/nte-pity-system-explained/inline-1.webp
+  - /img/nte-pity-system-explained/inline-2.webp
 ---
 
 Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is the first step toward building a powerful team of Espers without wasting precious resources.
