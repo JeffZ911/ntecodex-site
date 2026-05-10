@@ -4,10 +4,16 @@ import ArticleLayout from "../../layouts/ArticleLayout.astro";
 
 export async function getStaticPaths() {
   const all = await getCollection("guides");
-  return all.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
+  return all.map((entry) => {
+    // PublishAgent writes reroll articles to `guides/reroll/<slug>` with
+    // published_url=/guides/reroll/<slug>. Astro auto-slug strips that
+    // subdirectory, so derive the catch-all param from published_url
+    // (after `/guides/`) when present.
+    const purl = entry.data.published_url || "";
+    const m = purl.match(/^\/guides\/(.+)\/?$/);
+    const param = m ? m[1].replace(/\/$/, "") : entry.slug;
+    return { params: { slug: param }, props: { entry } };
+  });
 }
 
 interface Props { entry: CollectionEntry<"guides"> }
