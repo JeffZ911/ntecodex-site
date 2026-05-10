@@ -1,0 +1,31 @@
+---
+// AdSense placeholder. Real <ins> tags activate when PUBLIC_ADSENSE_PUB_ID is set
+// AND not the literal "pending" sentinel.
+interface Props {
+  slot?: string;
+  format?: string;
+  layout?: string;
+  style?: string;
+}
+const { slot = "", format = "auto", style = "" } = Astro.props;
+const pubId = import.meta.env.PUBLIC_ADSENSE_PUB_ID || "";
+const enabled = pubId && pubId !== "pending";
+---
+
+{enabled ? (
+  <ins
+    class="adsbygoogle block"
+    style={`display:block; ${style}`}
+    data-ad-client={pubId.startsWith("ca-") ? pubId : `ca-${pubId}`}
+    data-ad-slot={slot}
+    data-ad-format={format}
+    data-full-width-responsive="true"
+  ></ins>
+  <script is:inline>
+    (window.adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+) : (
+  <div class="my-6 rounded-lg border border-dashed border-white/10 bg-bg-soft/40 p-6 text-center text-xs text-gray-500">
+    [ AdSense slot — pending publisher approval ]
+  </div>
+)}

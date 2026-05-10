@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+
+const all = await getCollection("news");
+const items = all.map((e) => ({
+  href: `/news/${e.slug}`,
+  title: e.data.title,
+  articleType: e.data.article_type,
+  qaScore: e.data.qa_score,
+  wordCount: e.data.word_count,
+  publishedAt: e.data.published_at,
+  heroImage: e.data.hero_image,
+}));
+---
+
+<BaseLayout title="NTE News" description="Latest patch notes and meta shifts.">
+  <h1>News</h1>
+  {items.length > 0 ? (
+    <div class="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {items.map((g) => <ArticleCard {...g} />)}
+    </div>
+  ) : (
+    <p class="text-gray-400 mt-2">No news posts yet.</p>
+  )}
+</BaseLayout>

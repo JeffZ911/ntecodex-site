@@ -1,0 +1,41 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="About — NTE Codex" description="Why this site exists and how the AI-driven content pipeline works.">
+  <h1>About NTE Codex</h1>
+  <div class="prose-game max-w-prose">
+    <p>
+      NTE Codex is an unofficial fan database for <strong>Neverness to Everness</strong>,
+      a 2026 urban-supernatural gacha RPG by Hotta Studio (published by Perfect World).
+      We are not affiliated with the developer or publisher.
+    </p>
+
+    <h2>How content is made</h2>
+    <p>
+      Every article on this site goes through a multi-stage AI pipeline:
+    </p>
+    <ul>
+      <li><strong>KeywordSelector</strong> picks tomorrow's article from a curated keyword pool, balancing search demand against content-type diversity.</li>
+      <li><strong>OutlineAgent</strong> drafts the structure using Google Search grounding so the article maps to the latest community knowledge.</li>
+      <li><strong>WritingAgent</strong> produces the body in Markdown with required tables and source citations.</li>
+      <li><strong>QAAgent</strong> independently scores the result on six dimensions including <em>factual_accuracy</em>: any unverifiable proper noun is flagged and the article rewrites.</li>
+      <li><strong>PublishAgent</strong> writes the file to the site repo with frontmatter, sources, and a quality score.</li>
+    </ul>
+    <p>
+      We publish QA scores transparently on every article so readers can see exactly
+      how confident the system is in each piece of content.
+    </p>
+
+    <h2>What we're <em>not</em></h2>
+    <ul>
+      <li>Not the official wiki — for the canonical word, visit Hotta Studio's channels.</li>
+      <li>Not a replacement for community guides on Reddit or Discord — we link to those whenever they're the best source.</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>
+      Found an error? See the <a href="/contact">contact page</a>.
+    </p>
+  </div>
+</BaseLayout>

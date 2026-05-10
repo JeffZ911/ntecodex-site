@@ -1,0 +1,35 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CharacterCard from "../../components/CharacterCard.astro";
+
+const all = await getCollection("characters");
+const entries = all.map((c) => ({
+  slug: c.slug,
+  title: c.data.title,
+  characterId: c.data.character_data?.character_id,
+  rarity: c.data.character_data?.rarity ?? null,
+  element: c.data.character_data?.element,
+  weaponType: c.data.character_data?.weapon_type,
+  tier: c.data.character_data?.tier,
+  role: c.data.character_data?.role,
+  heroImage: c.data.hero_image,
+}));
+---
+
+<BaseLayout
+  title="NTE Character Database — All Espers"
+  description="Browse every playable character in Neverness to Everness with builds, skills and team recommendations."
+>
+  <h1>Character Database</h1>
+  <p class="text-gray-400 mt-2">
+    {entries.length} {entries.length === 1 ? "character" : "characters"} catalogued so far. New entries land daily.
+  </p>
+  {entries.length > 0 ? (
+    <div class="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {entries.map((c) => <CharacterCard {...c} />)}
+    </div>
+  ) : (
+    <p class="mt-6 text-gray-500">No characters yet — check back tomorrow.</p>
+  )}
+</BaseLayout>

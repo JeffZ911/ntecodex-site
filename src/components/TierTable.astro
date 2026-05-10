@@ -1,0 +1,68 @@
+---
+import CharacterCard from "./CharacterCard.astro";
+
+interface Entry {
+  slug: string;
+  title: string;
+  characterId?: string;
+  rarity?: number | null;
+  element?: string;
+  weaponType?: string;
+  tier?: string;
+  role?: string[];
+  heroImage?: string;
+}
+interface Props {
+  entries: Entry[];
+  filter?: string; // role filter: All | DPS | Sub-DPS | Support | Healer | Tank
+}
+const { entries, filter = "All" } = Astro.props;
+
+const TIER_ORDER = ["S+", "S", "A", "B", "C"];
+const TIER_META: Record<string, { label: string; subtitle: string; cls: string }> = {
+  "S+": { label: "S+ Tier", subtitle: "Meta-defining, must-have", cls: "border-tier-splus/40" },
+  "S":  { label: "S Tier",  subtitle: "Top tier, irreplaceable", cls: "border-tier-s/40" },
+  "A":  { label: "A Tier",  subtitle: "Strong, situational",     cls: "border-tier-a/40" },
+  "B":  { label: "B Tier",  subtitle: "Solid mid-game",          cls: "border-tier-b/40" },
+  "C":  { label: "C Tier",  subtitle: "Underperforming",         cls: "border-tier-c/40" },
+};
+
+function inFilter(e: Entry): boolean {
+  if (filter === "All") return true;
+  return Array.isArray(e.role) && e.role.includes(filter);
+}
+
+const grouped: Record<string, Entry[]> = {};
+for (const e of entries.filter(inFilter)) {
+  const t = e.tier && TIER_ORDER.includes(e.tier) ? e.tier : "C";
+  (grouped[t] ||= []).push(e);
+}
+---
+
+<div class="space-y-8">
+  {TIER_ORDER.map((tier) => {
+    const list = grouped[tier] || [];
+    return (
+      <section class={`rounded-xl border-l-4 ${TIER_META[tier].cls} bg-bg-soft/30 p-4`}>
+        <div class="flex items-baseline justify-between">
+          <h2 class="m-0 text-2xl font-bold">{TIER_META[tier].label}</h2>
+          <p class="m-0 text-sm text-gray-400">{TIER_META[tier].subtitle}</p>
+        </div>
+        {list.length > 0 ? (
+          <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {list.map((e) => (
+              <CharacterCard
+                slug={e.slug} title={e.title}
+                characterId={e.characterId} rarity={e.rarity ?? undefined}
+                element={e.element} weaponType={e.weaponType}
+                tier={e.tier} role={e.role} heroImage={e.heroImage}
+              />
+            ))}
+          </div>
+        ) : (
+          <p class="mt-3 text-sm text-gray-500 italic">More characters coming soon — site is in early launch.</p>
+        )}
+      </section>
+    );
+  })}
+</div>

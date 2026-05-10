@@ -1,0 +1,62 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const entries = await getCollection("faq-source");
+
+// Render each FAQ source's body for the accordion
+const items = await Promise.all(
+  entries.map(async (e) => {
+    const { Content } = await e.render();
+    return {
+      slug: e.slug,
+      title: e.data.title,
+      Content,
+      sources: e.data.sources,
+    };
+  })
+);
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: items.map((it) => ({
+    "@type": "Question",
+    name: it.title,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: `See ${it.title} for the detailed answer at https://ntecodex.com/faq#${it.slug}`,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="NTE FAQ — Frequently Asked Questions"
+  description="Common questions about Neverness to Everness — pity system, banner schedule, gacha mechanics and more."
+  jsonLd={jsonLd}
+>
+  <h1>Frequently Asked Questions</h1>
+  <p class="text-gray-400 mt-2">{items.length} entr{items.length === 1 ? "y" : "ies"}.</p>
+
+  {items.length > 0 ? (
+    <div class="mt-8 space-y-3">
+      {items.map((it) => (
+        <details id={it.slug} class="rounded-xl border border-white/5 bg-bg-soft/40 p-5 group">
+          <summary class="cursor-pointer text-lg font-semibold text-white list-none flex items-start gap-3">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" class="mt-1 transition-transform group-open:rotate-90 shrink-0">
+              <path d="m9 18 6-6-6-6"/>
+            </svg>
+            <span>{it.title}</span>
+          </summary>
+          <div class="mt-4 prose-game">
+            <it.Content />
+          </div>
+        </details>
+      ))}
+    </div>
+  ) : (
+    <p class="mt-6 text-gray-500">No FAQ entries yet.</p>
+  )}
+</BaseLayout>

@@ -1,0 +1,33 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("guides");
+  return all.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props { entry: CollectionEntry<"guides"> }
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  publishedAt={entry.data.published_at}
+  qaScore={entry.data.qa_score}
+  wordCount={entry.data.word_count}
+  articleType={entry.data.article_type}
+  heroImage={entry.data.hero_image}
+  sources={entry.data.sources}
+  crumbs={[
+    { href: "/", label: "Home" },
+    { href: "/guides", label: "Guides" },
+    { label: entry.data.title },
+  ]}
+>
+  <Content />
+</ArticleLayout>

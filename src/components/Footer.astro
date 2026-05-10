@@ -1,0 +1,65 @@
+---
+const cols = [
+  {
+    title: "Guides",
+    links: [
+      { href: "/tier-list", label: "Tier List" },
+      { href: "/guides", label: "All Guides" },
+      { href: "/boss", label: "Boss Guides" },
+      { href: "/guides/reroll", label: "Reroll" },
+    ],
+  },
+  {
+    title: "Database",
+    links: [
+      { href: "/characters", label: "Characters" },
+      { href: "/weapons", label: "Weapons / Arcs" },
+      { href: "/banners/current", label: "Current Banners" },
+    ],
+  },
+  {
+    title: "Help",
+    links: [
+      { href: "/faq", label: "FAQ" },
+      { href: "/contact", label: "Contact" },
+    ],
+  },
+  {
+    title: "Site",
+    links: [
+      { href: "/about", label: "About" },
+      { href: "/privacy", label: "Privacy" },
+      { href: "/terms", label: "Terms" },
+    ],
+  },
+];
+---
+
+<footer class="mt-24 border-t border-white/5 bg-bg-soft/30">
+  <div class="container-page py-10">
+    <div class="grid gap-8 md:grid-cols-4">
+      {cols.map((col) => (
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-wider text-primary-300 mt-0">
+            {col.title}
+          </h3>
+          <ul class="mt-3 space-y-2 list-none p-0">
+            {col.links.map((l) => (
+              <li>
+                <a href={l.href} class="text-sm text-gray-400 hover:text-white no-underline">
+                  {l.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+    <div class="mt-10 flex flex-col items-start justify-between gap-3 border-t border-white/5 pt-6 text-xs text-gray-500 md:flex-row">
+      <p>© {new Date().getFullYear()} NTE Codex. Unofficial fan site. Not affiliated with Hotta Studio or Perfect World.</p>
+      <p>
+        Game data sourced from public community sites. Article quality scored by AI peer review.
+      </p>
+    </div>
+  </div>
+</footer>

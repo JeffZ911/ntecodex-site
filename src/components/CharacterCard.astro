@@ -1,0 +1,65 @@
+---
+interface Props {
+  slug: string;
+  title: string;
+  characterId?: string;
+  rarity?: number | null;
+  element?: string;
+  weaponType?: string;
+  tier?: string;
+  role?: string[];
+  heroImage?: string;
+}
+const {
+  slug, title, characterId, rarity, element, weaponType, tier, role, heroImage,
+} = Astro.props;
+
+const tierClass: Record<string, string> = {
+  "S+": "badge-tier-splus",
+  "S": "badge-tier-s",
+  "A": "badge-tier-a",
+  "B": "badge-tier-b",
+  "C": "badge-tier-c",
+};
+const tierBadge = tier && tierClass[tier] ? tierClass[tier] : "badge-tier-a";
+const displayName = (characterId || slug.split("-")[0] || title).replace(/-/g, " ");
+const initial = displayName.charAt(0).toUpperCase();
+---
+
+<a href={`/characters/${slug}`} class="block no-underline group">
+  <div class="card h-full">
+    <div class="flex items-start gap-3">
+      {heroImage ? (
+        <img src={heroImage} alt="" class="h-16 w-16 rounded-lg object-cover" />
+      ) : (
+        <div class="flex h-16 w-16 items-center justify-center rounded-lg bg-primary-700/40 text-2xl font-bold text-primary-100">
+          {initial}
+        </div>
+      )}
+      <div class="min-w-0 flex-1">
+        <div class="flex items-center gap-2">
+          <h3 class="m-0 text-lg font-semibold capitalize text-white group-hover:text-primary-200">
+            {displayName}
+          </h3>
+          {tier && <span class={`badge ${tierBadge}`}>{tier}</span>}
+        </div>
+        <div class="mt-1.5 flex flex-wrap items-center gap-1.5 text-xs text-gray-400">
+          {rarity != null && (
+            <span class="text-gold">{"★".repeat(rarity)}</span>
+          )}
+          {element && (
+            <span class="rounded bg-primary-700/30 px-1.5 py-0.5 text-primary-100">
+              {element}
+            </span>
+          )}
+          {weaponType && (
+            <span class="rounded bg-bg-soft px-1.5 py-0.5">{weaponType}</span>
+          )}
+          {role && role.map((r) => (
+            <span class="rounded border border-white/10 px-1.5 py-0.5">{r}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</a>

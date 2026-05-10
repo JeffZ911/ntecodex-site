@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    font-family: theme('fontFamily.sans');
+    background: theme('colors.bg.DEFAULT');
+    color: rgb(229, 231, 235);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply min-h-screen bg-bg text-gray-100;
+  }
+
+  ::selection {
+    background: theme('colors.primary.500');
+    color: white;
+  }
+
+  a {
+    @apply text-primary-300 hover:text-primary-200 underline-offset-2;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl font-extrabold tracking-tight;
+  }
+  h2 {
+    @apply text-2xl md:text-3xl font-bold tracking-tight mt-10 mb-4;
+  }
+  h3 {
+    @apply text-xl md:text-2xl font-semibold mt-6 mb-3;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .card {
+    @apply rounded-xl border border-white/5 bg-bg-elev/60 backdrop-blur p-5
+           hover:border-primary-400/40 hover:shadow-glow-primary
+           transition;
+  }
+
+  .badge {
+    @apply inline-block px-2 py-0.5 rounded-md text-xs font-semibold;
+  }
+  .badge-tier-splus { @apply bg-tier-splus/15 text-tier-splus border border-tier-splus/40; }
+  .badge-tier-s     { @apply bg-tier-s/15     text-tier-s     border border-tier-s/40; }
+  .badge-tier-a     { @apply bg-tier-a/15     text-tier-a     border border-tier-a/40; }
+  .badge-tier-b     { @apply bg-tier-b/15     text-tier-b     border border-tier-b/40; }
+  .badge-tier-c     { @apply bg-tier-c/15     text-tier-c     border border-tier-c/40; }
+
+  /* Markdown article body styling */
+  .prose-game {
+    @apply text-gray-200 leading-relaxed;
+  }
+  .prose-game p { @apply my-4; }
+  .prose-game ul { @apply list-disc pl-6 my-4 space-y-1; }
+  .prose-game ol { @apply list-decimal pl-6 my-4 space-y-1; }
+  .prose-game blockquote {
+    @apply border-l-4 border-primary-500 pl-4 italic text-gray-300 my-4;
+  }
+  .prose-game code {
+    @apply bg-bg-soft px-1.5 py-0.5 rounded text-primary-200 text-sm;
+  }
+  .prose-game pre {
+    @apply bg-bg-soft p-4 rounded-lg overflow-x-auto my-4;
+  }
+  .prose-game pre code {
+    @apply bg-transparent p-0;
+  }
+  .prose-game a {
+    @apply text-primary-300 hover:text-primary-200 underline decoration-primary-400/40 hover:decoration-primary-300;
+  }
+  .prose-game strong { @apply text-white font-semibold; }
+  .prose-game em { @apply text-primary-200 not-italic; }
+  .prose-game table {
+    @apply w-full my-6 border-collapse;
+  }
+  .prose-game thead {
+    @apply bg-primary-700/30 border-b-2 border-primary-500/40;
+  }
+  .prose-game th {
+    @apply px-3 py-2 text-left text-sm font-semibold text-white;
+  }
+  .prose-game td {
+    @apply px-3 py-2 text-sm border-t border-white/5;
+  }
+  .prose-game tr:hover td {
+    @apply bg-white/5;
+  }
+  .prose-game hr {
+    @apply my-8 border-white/10;
+  }
+}

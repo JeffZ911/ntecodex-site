@@ -1,0 +1,78 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TierTable from "../components/TierTable.astro";
+import AdSlot from "../components/AdSlot.astro";
+
+const characters = await getCollection("characters");
+const entries = characters.map((c) => ({
+  slug: c.slug,
+  title: c.data.title,
+  characterId: c.data.character_data?.character_id,
+  rarity: c.data.character_data?.rarity ?? null,
+  element: c.data.character_data?.element,
+  weaponType: c.data.character_data?.weapon_type,
+  tier: c.data.character_data?.tier,
+  role: c.data.character_data?.role,
+  heroImage: c.data.hero_image,
+}));
+
+const lastUpdated = characters
+  .map((c) => c.data.published_at)
+  .filter(Boolean)
+  .sort()
+  .pop();
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "NTE Tier List — Best Characters Ranked",
+  url: "https://ntecodex.com/tier-list",
+  about: {
+    "@type": "VideoGame",
+    name: "Neverness to Everness",
+  },
+  dateModified: lastUpdated,
+};
+---
+
+<BaseLayout
+  title="NTE Tier List — Best Characters Ranked (Updated)"
+  description="The complete Neverness to Everness tier list. Every Esper ranked S+ to C with role tags, build links and recent meta-shift commentary."
+  jsonLd={jsonLd}
+>
+  <div class="mb-6">
+    <h1 class="m-0">NTE Tier List</h1>
+    <p class="mt-2 text-gray-400">
+      Last updated: <span class="text-white">{lastUpdated ? new Date(lastUpdated).toISOString().slice(0, 10) : "—"}</span>
+      · Aggregated from <span class="text-white">{entries.length}</span> character {entries.length === 1 ? "entry" : "entries"}.
+    </p>
+  </div>
+
+  <!-- Role filter (visual only for now; static page) -->
+  <div class="mb-8 flex flex-wrap gap-2 text-sm">
+    {["All", "DPS", "Sub-DPS", "Support", "Healer", "Tank"].map((r, i) => (
+      <span class={`rounded-md px-3 py-1.5 ${i === 0 ? 'bg-primary-600 text-white' : 'bg-bg-soft text-gray-400 border border-white/10'}`}>
+        {r}
+      </span>
+    ))}
+  </div>
+
+  <TierTable entries={entries} filter="All" />
+
+  <AdSlot />
+
+  <section class="mt-12 prose-game">
+    <h2>Why this ranking?</h2>
+    <p>
+      Tier placements reflect performance in <strong>Beyond the Rails</strong> and <strong>Fracture Circle</strong>
+      endgame content, weighted across DPS output, elemental application uptime,
+      utility, and resource efficiency at low Resonance. Rankings shift with each
+      patch — see the per-character pages for current build advice.
+    </p>
+    <p class="text-sm text-gray-400">
+      This is an early launch — the database expands daily as new content goes live.
+      Each entry below is independently QA-scored against grounded search results.
+    </p>
+  </section>
+</BaseLayout>

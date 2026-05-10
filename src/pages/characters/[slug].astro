@@ -1,0 +1,87 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("characters");
+  return all.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props { entry: CollectionEntry<"characters"> }
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const cd = entry.data.character_data ?? {};
+
+const description = entry.data.title
+  ? `${entry.data.title} — build, skills, ascension materials, and recommended team comps for Neverness to Everness.`
+  : undefined;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: entry.data.title,
+  about: { "@type": "VideoGame", name: "Neverness to Everness" },
+  mainEntity: {
+    "@type": "Person",
+    name: cd.character_id || entry.slug,
+    additionalType: "GameCharacter",
+  },
+  datePublished: entry.data.published_at,
+};
+
+const TIER_BADGE: Record<string, string> = {
+  "S+": "badge-tier-splus",
+  "S": "badge-tier-s",
+  "A": "badge-tier-a",
+  "B": "badge-tier-b",
+  "C": "badge-tier-c",
+};
+const tierClass = cd.tier && TIER_BADGE[cd.tier as string] ? TIER_BADGE[cd.tier as string] : "badge-tier-a";
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={description}
+  publishedAt={entry.data.published_at}
+  qaScore={entry.data.qa_score}
+  wordCount={entry.data.word_count}
+  articleType="character_db"
+  heroImage={entry.data.hero_image}
+  sources={entry.data.sources}
+  crumbs={[
+    { href: "/", label: "Home" },
+    { href: "/characters", label: "Characters" },
+    { label: entry.data.title },
+  ]}
+>
+  <!-- Character info card (rendered before the markdown body) -->
+  {cd && Object.keys(cd).length > 0 && (
+    <aside class="mb-6 rounded-xl border border-white/5 bg-card-gradient p-5">
+      <div class="flex flex-wrap items-center gap-3">
+        {cd.tier && <span class={`badge ${tierClass} text-sm`}>{cd.tier} Tier</span>}
+        {cd.rarity != null && <span class="text-gold">{"★".repeat(Number(cd.rarity))}</span>}
+        {cd.element && (
+          <span class="rounded bg-primary-700/30 px-2 py-0.5 text-sm text-primary-100">
+            {cd.element}
+          </span>
+        )}
+        {cd.weapon_type && (
+          <span class="rounded bg-bg-soft px-2 py-0.5 text-sm">{cd.weapon_type}</span>
+        )}
+        {Array.isArray(cd.role) && cd.role.map((r: string) => (
+          <span class="rounded border border-white/10 px-2 py-0.5 text-sm">{r}</span>
+        ))}
+      </div>
+      {cd.release_banner && (
+        <p class="mt-3 mb-0 text-xs text-gray-400">
+          Release banner: <span class="text-white">{cd.release_banner}</span>
+        </p>
+      )}
+    </aside>
+  )}
+
+  <Content />
+</ArticleLayout>

@@ -1,0 +1,34 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+
+const all = await getCollection("boss");
+const items = all
+  .map((e) => ({
+    href: `/boss/${e.slug}`,
+    title: e.data.title,
+    articleType: e.data.article_type,
+    qaScore: e.data.qa_score,
+    wordCount: e.data.word_count,
+    publishedAt: e.data.published_at,
+    heroImage: e.data.hero_image,
+  }))
+  .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""));
+---
+
+<BaseLayout
+  title="NTE Boss Guides"
+  description="Step-by-step strategies to clear every endgame boss in Neverness to Everness."
+>
+  <h1>Boss Guides</h1>
+  <p class="text-gray-400 mt-2">{items.length} entr{items.length === 1 ? "y" : "ies"}.</p>
+
+  {items.length > 0 ? (
+    <div class="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {items.map((g) => <ArticleCard {...g} />)}
+    </div>
+  ) : (
+    <p class="mt-6 text-gray-500">No boss guides yet.</p>
+  )}
+</BaseLayout>
