@@ -33,6 +33,13 @@ hero_image: /img/nte-should-i-pull-nanally-hotori-guide/hero.webp
 inline_images:
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-1.webp
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-2.webp
+  - /img/nte-should-i-pull-nanally-hotori-guide/inline-3.webp
+  - /img/nte-should-i-pull-nanally-hotori-guide/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 With the supernatural streets of Hethereau finally open to the public, the first major dilemma for every anomaly investigator has arrived: do you spend your hard-earned Solid Dice on the current limited banner or save them for the next update? 
@@ -42,6 +49,9 @@ With the supernatural streets of Hethereau finally open to the public, the first
 Deciding how to allocate your resources in the early days of a gacha game can define your experience for months to come. In *Neverness to Everness* (NTE), the stakes are slightly different than in other titles due to the unique "No 50/50" rule and the board-game-inspired Scarborough Fair system. Currently, players are faced with the debut of [Nanally](/characters/nanally-guide-nte/), a high-octane Plasma DPS, while the shadow of the time-manipulating Hotori looms just two weeks away.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/nte-should-i-pull-nanally-hotori-guide/inline-1.webp)
+
 
 If you are looking for a quick answer, here is the breakdown of the launch meta decisions:
 
@@ -60,6 +70,9 @@ For those willing to invest, Nanally’s banner is high-value due to the launch 
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/nte-should-i-pull-nanally-hotori-guide/inline-2.webp)
+
+
 To help you visualize where these characters fit into the current NTE meta, here is a comparison of the top units currently available or announced for Version 1.0.
 
 | Character | Rarity | Faction | Element | Primary Role | Pull Priority |
@@ -75,6 +88,9 @@ To help you visualize where these characters fit into the current NTE meta, here
 [Infographic comparing Nanally and Hotori's elemental types, roles, and key strengths side-by-side.]
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/nte-should-i-pull-nanally-hotori-guide/inline-3.webp)
+
 
 To understand whether you should pull now or wait, we need to look at the mechanical "guts" of both characters. NTE combat relies heavily on "Esper Cycles" and "Break" efficiency, and both Nanally and Hotori interact with these systems in radically different ways.
 
@@ -117,6 +133,9 @@ However, F2P players should be aware of **Good Boy's Grand Adventure**. This S-R
 [Screenshot of the Scarborough Fair gacha board showing the S-Rank tiles and the Board Modification visual effect.]
 
 ## Recommendation
+
+![Recommendation](/img/nte-should-i-pull-nanally-hotori-guide/inline-4.webp)
+
 
 The decision ultimately comes down to your current roster and your long-term goals in *Neverness to Everness*.
 

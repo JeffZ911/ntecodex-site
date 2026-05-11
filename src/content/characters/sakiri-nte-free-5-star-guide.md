@@ -27,6 +27,17 @@ hero_image: /img/sakiri-nte-free-5-star-guide/hero.webp
 inline_images:
   - /img/sakiri-nte-free-5-star-guide/inline-1.webp
   - /img/sakiri-nte-free-5-star-guide/inline-2.webp
+  - /img/sakiri-nte-free-5-star-guide/inline-3.webp
+  - /img/sakiri-nte-free-5-star-guide/inline-4.webp
+  - /img/sakiri-nte-free-5-star-guide/inline-5.webp
+  - /img/sakiri-nte-free-5-star-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Skills"
+  - "Materials"
+  - "Best Build"
+  - "Teams"
+  - "Free 5-Star Selector Guide"
 ---
 
 Choosing the right S-class unit from your launch rewards is the most significant decision you will make in the early hours of Neverness to Everness. While the temptation to grab a flashy DPS is high, Sakiri stands out as the ultimate long-term investment for any F2P or low-spending account.
@@ -37,6 +48,9 @@ Navigating the neon-soaked streets of Hethereau requires more than just raw powe
 
 ## Overview
 
+![Overview](/img/sakiri-nte-free-5-star-guide/inline-1.webp)
+
+
 Sakiri is widely considered the top-tier recommendation for the free S-class selector given at launch. Unlike many standard characters who eventually fall off as limited banners introduce stronger DPS units, Sakiri functions as a universal buffer and the game's premier crowd control specialist. Her value lies not in her personal damage numbers, but in how she enables high-tier carries like [Nanally](/characters/nanally-guide-nte/) to reach their maximum potential.
 
 Players can obtain Sakiri for free through two primary methods:
@@ -46,6 +60,9 @@ Players can obtain Sakiri for free through two primary methods:
 Sakiri’s kit revolves around her autonomous demon-hammer, Kiroumaru. This weapon isn't just for swinging; it acts as a gravity-manipulating entity that can swallow smaller enemies whole, remove environmental barriers, and pin elite bosses to the ground with "Gravity Slurry." Whether you are clearing waves of mobs in the open world or trying to survive a high-difficulty Anomaly, Sakiri provides the breathing room necessary for your team to execute their rotations.
 
 ## Skills
+
+![Skills](/img/sakiri-nte-free-5-star-guide/inline-2.webp)
+
 
 Sakiri’s playstyle is defined by "Eating Mode," a unique mechanic that blends exploration utility with combat grouping. Her skills focus on gathering enemies into a tight cluster before applying a massive suppression effect that triggers powerful elemental reactions.
 
@@ -66,6 +83,9 @@ The Ultimate, **Feast of Gluttony**, provides a massive team-wide ATK buff that 
 
 ## Materials
 
+![Materials](/img/sakiri-nte-free-5-star-guide/inline-3.webp)
+
+
 To maximize Sakiri's effectiveness, you must prioritize leveling her base ATK. Since her "Impish Trick" passive scales off her base stats, neglecting her level will directly result in a weaker buff for your main DPS.
 
 ### Ascension Requirements
@@ -78,6 +98,9 @@ Early ascension is relatively straightforward, focusing on resources found withi
 Players should focus on reaching Hunter Level 20 and completing the first Breakthrough quest to unlock Sakiri's level 40 cap as quickly as possible. This unlocks her first major passive upgrade, significantly increasing her energy regeneration during the "Eating Mode" transition.
 
 ## Best Build
+
+![Best Build](/img/sakiri-nte-free-5-star-guide/inline-4.webp)
+
 
 The goal when building Sakiri is to ensure she can cast her Ultimate as often as possible. Because her personal damage contribution is secondary to her utility, your focus should be on Cycle Intensity and Energy Recharge.
 
@@ -100,6 +123,9 @@ For her weapon, **Good Boy's Grand Adventure** is the undisputed signature choic
 
 ## Teams
 
+![Teams](/img/sakiri-nte-free-5-star-guide/inline-5.webp)
+
+
 Sakiri is a "plug-and-play" unit that fits into almost any composition requiring crowd control or attack amplification. However, she truly shines in teams that can capitalize on the "Hexed" and "Scorch" Esper Cycles.
 
 ### Team 1: Hyper-Carry Anima
@@ -117,6 +143,9 @@ This is currently the most popular meta team. Sakiri pairs perfectly with Nanall
 This team focuses on Damage-over-Time (DoT). Sakiri synergizes with Baicang in Scorch-based teams due to her ability to group enemies into Baicang’s "Power Word" zones. Sakiri's presence increases the DoT taken by enemies by up to 25% for each active debuff, making the Scorch status significantly more lethal. Daffodil provides the Chaos element needed to trigger the reaction while Sakiri handles the grouping and defense reduction.
 
 ## Free 5-Star Selector Guide
+
+![Free 5-Star Selector Guide](/img/sakiri-nte-free-5-star-guide/inline-6.webp)
+
 
 Choosing Sakiri from your selector is a decision based on long-term account health. While other characters offer immediate power, Sakiri provides a foundation for future teams.
 

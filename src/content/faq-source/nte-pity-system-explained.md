@@ -11,6 +11,13 @@ hero_image: /img/nte-pity-system-explained/hero.webp
 inline_images:
   - /img/nte-pity-system-explained/inline-1.webp
   - /img/nte-pity-system-explained/inline-2.webp
+  - /img/nte-pity-system-explained/inline-3.webp
+  - /img/nte-pity-system-explained/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is the first step toward building a powerful team of Espers without wasting precious resources.
@@ -18,6 +25,9 @@ Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is 
 # NTE Pity System Explained: Neverness to Everness Gacha Guide
 
 ## Question Restated
+
+![Question Restated](/img/nte-pity-system-explained/inline-1.webp)
+
 
 Players transitioning from other major gacha titles often find themselves asking: how does the pity system work in Neverness to Everness (NTE)? Unlike traditional systems that rely on a simple counter, NTE utilizes a unique "Scarborough Fair" board game mechanic that visually represents your progress toward S-class pulls.
 
@@ -37,6 +47,9 @@ In gacha games, "pity" refers to the safety net that guarantees a high-rarity it
 [Infographic showing the 70-pull soft pity (Board Modification) and 90-pull hard pity for NTE characters.]
 
 ## Direct Answer
+
+![Direct Answer](/img/nte-pity-system-explained/inline-2.webp)
+
 
 The Neverness to Everness pity system is built on a 90-pull hard guarantee, but most players will secure their target much earlier due to the Board Modification mechanic.
 
@@ -68,6 +81,9 @@ To participate in the Scarborough Fair, you need specific dice:
 *   **Annulith:** The primary premium currency. 160 Annulith equals 1 Die or 1 Tri-Key.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/nte-pity-system-explained/inline-3.webp)
+
 
 The Scarborough Fair isn't just a menu; it's a mini-game that dictates your rewards. You move your Chuppa piece across a circular board. Each tile you land on provides a reward, ranging from upgrade materials to the characters themselves.
 
@@ -123,6 +139,9 @@ It is vital to understand that **Cosmetic Milestones do NOT carry over**. If you
 | B-Class/Materials | 75.15% | 65.41% | 0% |
 
 ## Related
+
+![Related](/img/nte-pity-system-explained/inline-4.webp)
+
 
 Navigating the gacha is only half the battle; knowing who to pull for and when to save is equally important.
 

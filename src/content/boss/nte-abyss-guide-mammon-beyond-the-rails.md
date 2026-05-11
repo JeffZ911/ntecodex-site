@@ -20,6 +20,15 @@ hero_image: /img/nte-abyss-guide-mammon-beyond-the-rails/hero.webp
 inline_images:
   - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-1.webp
   - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-2.webp
+  - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-3.webp
+  - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-4.webp
+  - /img/nte-abyss-guide-mammon-beyond-the-rails/inline-5.webp
+inline_image_sections:
+  - "Boss Stats"
+  - "Attack Patterns"
+  - "Step-by-Step Strategy"
+  - "Recommended Team"
+  - "Loot"
 ---
 
 Mastering the endgame of Neverness to Everness (NTE) requires more than just high-level characters; it demands a deep understanding of the Esper Cycle and boss-specific mechanics.
@@ -29,6 +38,9 @@ Mastering the endgame of Neverness to Everness (NTE) requires more than just hig
 Defeating Mammon in the Beyond the Rails mode is the ultimate test for any Hunter looking to maximize their weekly Fons income and secure high-tier upgrade materials. As the primary gatekeeper of the "Outbound" arena, Mammon utilizes a deceptive mix of lumbering physical strikes and lightning-fast repositioning that can easily catch players off guard. This guide breaks down the essential strategies, team compositions, and elemental reactions needed to conquer this golden anomaly.
 
 ## Boss Stats
+
+![Boss Stats](/img/nte-abyss-guide-mammon-beyond-the-rails/inline-1.webp)
+
 
 Mammon is the primary endgame boss encountered in the "Beyond the Rails" mode (NTE's version of the Abyss) and the "Realm of Greed" Anomaly. Unlike standard overworld threats, Mammon in the Abyss features significantly higher Stagger Resistance and a Break Gauge that scales aggressively as you progress through higher Stops.
 
@@ -54,6 +66,9 @@ Mammon’s primary elemental weakness is **Lakshana**. Utilizing Lakshana-attrib
 
 ## Attack Patterns
 
+![Attack Patterns](/img/nte-abyss-guide-mammon-beyond-the-rails/inline-2.webp)
+
+
 Mammon’s combat style is characterized by "Erratic Melee Aggression." He often alternates between slow, heavy slams and sudden lunges that can traverse half the arena in a single frame.
 
 ### Phase 1: Melee Aggression
@@ -72,6 +87,9 @@ Success in the NTE Abyss depends on identifying visual cues instantly.
 *   **Red Aura:** Indicates an unblockable/unparryable attack. Focus on timing your Dodge to gain the "Perfect Dodge" buff.
 
 ## Step-by-Step Strategy
+
+![Step-by-Step Strategy](/img/nte-abyss-guide-mammon-beyond-the-rails/inline-3.webp)
+
 
 To beat Mammon within the Beyond the Rails time limit, you must master the Esper Cycle mechanics. The fight is a race to trigger the "Remora" and "Charge" reactions to keep Mammon controlled and your Ultimates ready.
 
@@ -92,6 +110,9 @@ Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is you
 In Beyond the Rails mode, your rewards are tied to the "Time Remaining" target. If the timer is running low, prioritize the **Charge reaction (Lakshana + Cosmos + Anima)**. When a target marked by Remora is hit by an Anima effect, your active character generates massive amounts of Ultimate energy, allowing you to chain Ultimates and freeze the countdown timer during the animations.
 
 ## Recommended Team
+
+![Recommended Team](/img/nte-abyss-guide-mammon-beyond-the-rails/inline-4.webp)
+
 
 Building a team around the **Lakshana Meta** is currently the most effective way to clear Stop 10 of the Abyss.
 
@@ -120,6 +141,9 @@ Choosing the right Arcs (weapons) can significantly reduce your clear times.
 For a more detailed breakdown of character-specific equipment, see our Hathor team comps guide.
 
 ## Loot
+
+![Loot](/img/nte-abyss-guide-mammon-beyond-the-rails/inline-5.webp)
+
 
 Defeating Mammon isn't just about the challenge; it's the primary way to progress your city management and character power.
 

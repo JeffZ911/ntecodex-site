@@ -21,6 +21,16 @@ sources:
 hero_image: /img/neverness-to-everness-reroll-guide/hero.webp
 inline_images:
   - /img/neverness-to-everness-reroll-guide/inline-1.webp
+  - /img/neverness-to-everness-reroll-guide/inline-2.webp
+  - /img/neverness-to-everness-reroll-guide/inline-3.webp
+  - /img/neverness-to-everness-reroll-guide/inline-4.webp
+  - /img/neverness-to-everness-reroll-guide/inline-5.webp
+inline_image_sections:
+  - "Why Reroll"
+  - "How to Reroll"
+  - "Best Starters"
+  - "Time Estimate"
+  - "FAQ"
 ---
 
 Starting your journey in Hethereau with the right team can be the difference between struggling against anomalies and breezing through the urban supernatural world of Neverness to Everness. With the launch of Hotta Studio's latest open-world RPG, optimizing your initial pulls is the best way to secure a competitive edge without spending a dime.
@@ -30,6 +40,9 @@ Starting your journey in Hethereau with the right team can be the difference bet
 Rerolling in Neverness to Everness (NTE) is a highly effective strategy for players who want to start their adventure with the strongest possible roster. Since the game's release on April 29, 2026, the community has identified a specific "god start" that involves securing the limited S-Rank [Nanally](/characters/nanally-guide-nte/) while using the standard selector to round out a meta-defining team. This guide covers everything you need to know to master the reroll process and which characters are worth the effort.
 
 ## Why Reroll
+
+![Why Reroll](/img/neverness-to-everness-reroll-guide/inline-1.webp)
+
 
 While every character in NTE can eventually be leveled to clear content, the power gap between a standard starter and a "rerolled" account is significant. Rerolling allows you to bypass the early-game resource scarcity and jump straight into high-level exploration and Tycoon management.
 
@@ -56,6 +69,9 @@ The "Strange Encounters" standard banner features a unique mechanic: your first 
 
 ## How to Reroll
 
+![How to Reroll](/img/neverness-to-everness-reroll-guide/inline-2.webp)
+
+
 The reroll process in Neverness to Everness is relatively streamlined compared to other open-world gachas. The tutorial is dense with lore, but for the sake of efficiency, you will want to skip as much as possible.
 
 *   **The Salting Method:** Use the "email+1@gmail.com" trick. Most modern gacha systems treat `yourname+1@gmail.com` and `yourname+2@gmail.com` as separate accounts, but all verification emails go to your primary `yourname@gmail.com` inbox.
@@ -81,6 +97,9 @@ On PC, the process is faster due to shorter loading times and easier navigation 
 
 ## Best Starters
 
+![Best Starters](/img/neverness-to-everness-reroll-guide/inline-3.webp)
+
+
 The current meta for May 2026 is dominated by Anima and Incantation synergies. When rerolling, you are looking for a "Main DPS" to carry your damage and a "Gather/Support" to group enemies for efficient clearing.
 
 ### Reroll Tier List (May 2026)
@@ -105,6 +124,9 @@ The current meta for May 2026 is dominated by Anima and Incantation synergies. W
 Always aim for the limited character (Nanally) first. Limited characters in NTE do not have a 50/50 system; if you hit an S-Rank on the limited board, it is **guaranteed** to be the featured character. This makes rerolling for Nanally much more rewarding than in other games.
 
 ## Time Estimate
+
+![Time Estimate](/img/neverness-to-everness-reroll-guide/inline-4.webp)
+
 
 Rerolling is a marathon, not a sprint, but efficiency can cut your time in half.
 
@@ -136,6 +158,9 @@ The fastest way to reach the gacha is to ignore all side NPCs in Hethereau. Foll
 Stop rerolling once you have **Nanally** plus at least one other S-Rank from the standard banner (ideally Sakiri or Jiuyuan). If you are exhausted, a single Nanally start is still considered a "Win" because of her limited availability. For more on how to build her, check our Nanally Build Guide.
 
 ## FAQ
+
+![FAQ](/img/neverness-to-everness-reroll-guide/inline-5.webp)
+
 
 ### Quick-Reference FAQ Table
 

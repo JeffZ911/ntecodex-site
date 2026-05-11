@@ -31,6 +31,17 @@ hero_image: /img/best-f2p-build-neverness-to-everness-guide/hero.webp
 inline_images:
   - /img/best-f2p-build-neverness-to-everness-guide/inline-1.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-2.webp
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-3.webp
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-4.webp
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-5.webp
+  - /img/best-f2p-build-neverness-to-everness-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 With the highly anticipated launch of Neverness to Everness (NTE) on April 29, 2026, players are diving into the neon-soaked streets of Hethereau City to uncover anomalies and master the supernatural Esper system.
@@ -38,6 +49,9 @@ With the highly anticipated launch of Neverness to Everness (NTE) on April 29, 2
 # Neverness to Everness Best F2P Build Guide: Characters, Arcs, and Teams
 
 ## Overview
+
+![Overview](/img/best-f2p-build-neverness-to-everness-guide/inline-1.webp)
+
 
 The free-to-play (F2P) experience in Neverness to Everness is surprisingly robust, offering a path to high-tier power without requiring a single pull on the limited banners. Unlike many contemporary gacha titles, NTE provides a full, viable team through story progression and side activities like the City Tycoon management sim. To succeed as an F2P player, you must master the "Elemental Lane" system—a hexagonal reaction wheel that dictates how your characters interact during combat.
 
@@ -70,6 +84,9 @@ You start with Zero, an S-Rank Cosmos unit with high versatility. However, the r
 
 ## Best Weapons
 
+![Best Weapons](/img/best-f2p-build-neverness-to-everness-guide/inline-2.webp)
+
+
 In Neverness to Everness, weapons are known as **Arcs**. These are classified by their physical state: **Solid, Plasma, Gas, Liquid, and Synthesis**. For an F2P player, the goal is to secure S-Rank Arcs that are farmable through Anomaly Commissions and world bosses, rather than relying on the "Arc Research" (gacha) system.
 
 ### Top Farmable S-Rank Arcs
@@ -98,6 +115,9 @@ Before you can farm S-Rank Arcs, you will rely on A-Rank "bridge" weapons.
 | **The Rain That Shook the World** | S | [info unavailable] | Cosmos DMG +42%; CRIT Rate +22% | Standard Banner |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/best-f2p-build-neverness-to-everness-guide/inline-3.webp)
+
 
 NTE uses a gear system called **Console Architecture**, which consists of **Cartridges** (the set) and **Modules** (the individual pieces). To build a top-tier F2P character, you must farm the **Rabbit Hole Anomaly Zone** in Cape Square to acquire the right Cartridge sets.
 
@@ -133,6 +153,9 @@ Supports like Adler and Haniel should focus on sets that provide team-wide buffs
 
 ## Team Comp
 
+![Team Comp](/img/best-f2p-build-neverness-to-everness-guide/inline-4.webp)
+
+
 Building the best F2P team in Neverness to Everness requires balancing the Elemental Lane to ensure you can trigger reactions on every swap. If you use the Neverness to Everness tier list as a reference, you will see that even free units rank highly when paired correctly.
 
 ### The Ultimate F2P Starter Team
@@ -165,6 +188,9 @@ Once you unlock **Chiz** from City Tycoon and use your **S-Rank Selector**, you 
 
 ## Rotation
 
+![Rotation](/img/best-f2p-build-neverness-to-everness-guide/inline-5.webp)
+
+
 The key to high damage in NTE isn't just pressing buttons; it's managing the **Glow** mechanic. You should rarely stay on one character for more than 10 seconds.
 
 ### The Core Combat Loop
@@ -180,6 +206,9 @@ The key to high damage in NTE isn't just pressing buttons; it's managing the **G
 Every boss has a **Break Meter** (white bar under HP). Use **Adler’s parry** (switching to him just as the enemy's red circle closes) to instantly fill his meter and deal massive Break damage. Once the boss is Staggered, dump all Ultimates. If you have the right components, you can trigger **Discord** (Incantation + Chaos + Psyche) to extend the stagger duration and shred the boss's defense.
 
 ## FAQ
+
+![FAQ](/img/best-f2p-build-neverness-to-everness-guide/inline-6.webp)
+
 
 **Who should I pick from the S-Rank Selector as an F2P player?**
 We recommend **Sakiri** or **Fadia**. Sakiri is a top-tier buffer who fits perfectly into the Incantation slot, while Fadia offers unparalleled survivability by redirecting team damage to herself, which is vital for high-level Anomalies. Check our NTE reroll guide if you want to aim for a specific starting account.

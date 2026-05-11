@@ -9,8 +9,17 @@ published_url: /tier-list
 sources: []
 hero_image: /img/best-starter-characters-nte-tier-list/hero.webp
 inline_images:
-  - /img/best-starter-characters-nte-tier-list/inline-1.webp
   - /img/best-starter-characters-nte-tier-list/inline-2.webp
+  - /img/best-starter-characters-nte-tier-list/inline-3.webp
+  - /img/best-starter-characters-nte-tier-list/inline-4.webp
+  - /img/best-starter-characters-nte-tier-list/inline-5.webp
+  - /img/best-starter-characters-nte-tier-list/inline-6.webp
+inline_image_sections:
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Choosing the right team members in Hethereau can mean the difference between a smooth urban exploration and getting overwhelmed by Strange Encounters. Since the global launch on April 29, 2026, players have been testing various combinations to find the most efficient ways to clear anomaly commissions and progress through the City Tycoon ranks.
@@ -58,6 +67,9 @@ Building a team isn't just about picking four S-Tier units; it’s about how the
 
 ## S Tier
 
+![S Tier](/img/best-starter-characters-nte-tier-list/inline-2.webp)
+
+
 The S Tier consists of the most powerful units currently available in Neverness to Everness. These characters define the meta and provide the highest return on investment.
 
 ### Nanally (Anima - Main DPS)
@@ -85,6 +97,9 @@ Chiz is arguably the most important character for F2P players. Available via Cit
 
 ## A Tier
 
+![A Tier](/img/best-starter-characters-nte-tier-list/inline-3.webp)
+
+
 A-Tier characters are highly capable and can clear all current content. While they may lack the overwhelming power of S-Tier units, they are often easier to build or provide niche utility that is vital for specific encounters.
 
 ### Esper Zero (Cosmos - Balanced)
@@ -111,6 +126,9 @@ Hathor is an S-Class mobility specialist. She uses a motorcycle in combat to per
 
 ## B Tier
 
+![B Tier](/img/best-starter-characters-nte-tier-list/inline-4.webp)
+
+
 B-Tier characters are functional but generally outclassed by those in higher tiers. They often require more investment or specific team comps to shine.
 
 | Character | Attribute | Pros | Cons |
@@ -130,12 +148,18 @@ Aurelia is a solid addition to any team lacking a secondary damage dealer. Since
 
 ## C Tier
 
+![C Tier](/img/best-starter-characters-nte-tier-list/inline-5.webp)
+
+
 Characters in this tier are currently underperforming due to low multipliers or mechanics that don't fit the current fast-paced meta.
 
 *   **Skia (Lakshana - Sub-DPS):** Skia struggles to find a place because Hathor does everything she does, but better. Her damage is lower, and her mobility is less impactful.
 *   **Edgar (Anima - Sustain):** Edgar provides healing, but in a game where shields (Adler) and crowd control (Sakiri) are more effective at preventing damage, a pure healer is often a wasted slot.
 
 ## Recent Changes
+
+![Recent Changes](/img/best-starter-characters-nte-tier-list/inline-6.webp)
+
 
 The meta in Neverness to Everness is evolving quickly following the April 29 launch. Developers have already been active in balancing the roster and announcing new content.
 

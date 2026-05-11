@@ -25,6 +25,15 @@ hero_image: /img/nanally-guide-nte/hero.webp
 inline_images:
   - /img/nanally-guide-nte/inline-1.webp
   - /img/nanally-guide-nte/inline-2.webp
+  - /img/nanally-guide-nte/inline-3.webp
+  - /img/nanally-guide-nte/inline-4.webp
+  - /img/nanally-guide-nte/inline-5.webp
+inline_image_sections:
+  - "Overview"
+  - "Skills and Combat Mechanics"
+  - "Ascension and Talent Materials"
+  - "Best Build: Arcs and Cartridges"
+  - "Team Compositions and Synergies"
 ---
 
 As the debut limited S-Rank character in the neon-soaked world of Hethereau, Nanally has quickly established herself as the gold standard for sustained damage and vertical mobility. This guide provides everything you need to master her high-frequency follow-up kit and dominate the current meta.
@@ -35,6 +44,9 @@ Nanally is the centerpiece of the version 1.0 update in Neverness to Everness (N
 
 ## Overview
 
+![Overview](/img/nanally-guide-nte/inline-1.webp)
+
+
 Nanally is more than just a brawler; she is the "Ichi-daime" (first-generation leader) of her gang and brings that authoritative presence to the battlefield. Her playstyle revolves around maintaining her unique buff state, **Ichi-daime's Authority**, which transforms her from a standard melee fighter into a whirlwind of Anima energy and coordinated strikes.
 
 **Key Strengths:**
@@ -44,6 +56,9 @@ Nanally is more than just a brawler; she is the "Ichi-daime" (first-generation l
 *   **Autonomous Summon:** Her Ultimate summons the "Underboss," a spectral entity that mirrors her attacks, effectively doubling her hit count for a burst window.
 
 ## Skills and Combat Mechanics
+
+![Skills and Combat Mechanics](/img/nanally-guide-nte/inline-2.webp)
+
 
 To play Nanally effectively, you must understand the rhythm of her basic attack branching and the importance of her buff uptime. She is not a "burst and swap" character; she requires field time to stack her damage modifiers.
 
@@ -78,6 +93,9 @@ Nanally deals 7 instances of Anima DMG and summons the **Underboss** for 6 secon
 
 ## Ascension and Talent Materials
 
+![Ascension and Talent Materials](/img/nanally-guide-nte/inline-3.webp)
+
+
 To keep Nanally competitive against high-level Anomalies, you will need to farm materials primarily found in the industrial districts and Anima-rich zones of Hethereau.
 
 **Ascension Requirements:**
@@ -99,6 +117,9 @@ To keep Nanally competitive against high-level Anomalies, you will need to farm 
 4.  **Ultimate / Skill:** These are important but function primarily as enablers for her passives.
 
 ## Best Build: Arcs and Cartridges
+
+![Best Build: Arcs and Cartridges](/img/nanally-guide-nte/inline-4.webp)
+
 
 Nanally’s build focuses heavily on Critical stats. Because her Redirect Skill provides a flat 30% Crit DMG buff, your goal with gear is to push her Crit Rate as close to 100% as possible to ensure every hit of her high-frequency combo is a critical strike.
 
@@ -122,6 +143,9 @@ The **Fireflies and the Forest** set is designed specifically for Anima DPS char
 To reach the Crit Rate "sweet spot," players should utilize the remaining 8 slots in the Console UI for **Type II Modules**. These provide an additional 3% Crit Rate each, totaling a 24% increase. This, combined with the Zero best weapons often found on her supports, ensures a consistent damage floor.
 
 ## Team Compositions and Synergies
+
+![Team Compositions and Synergies](/img/nanally-guide-nte/inline-5.webp)
+
 
 Nanally shines brightest when paired with characters who can trigger rapid **Esper Cycle** reactions. Because her "Fair Duel" passive triggers a follow-up attack whenever a teammate deals Cycle damage, you want allies with high off-field application.
 
