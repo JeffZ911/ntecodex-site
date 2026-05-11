@@ -33,16 +33,6 @@ As the debut limited S-Rank character in the neon-soaked world of Hethereau, Nan
 
 Nanally is the centerpiece of the version 1.0 update in Neverness to Everness (NTE), released on April 29, 2026. As an Anima-element Main DPS, she specializes in "follow-up" mechanics, where her damage output scales exponentially based on the hit frequency of her team. Beyond her raw combat prowess, she offers unparalleled exploration utility through her ability to manipulate gravity, allowing her to sprint up the sides of skyscrapers and across ceilings during her combat state.
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## Overview
 
 Nanally is more than just a brawler; she is the "Ichi-daime" (first-generation leader) of her gang and brings that authoritative presence to the battlefield. Her playstyle revolves around maintaining her unique buff state, **Ichi-daime's Authority**, which transforms her from a standard melee fighter into a whirlwind of Anima energy and coordinated strikes.
@@ -50,18 +40,8 @@ Nanally is more than just a brawler; she is the "Ichi-daime" (first-generation l
 **Key Strengths:**
 *   **High-Frequency DPS:** Her kit is designed to trigger constant follow-up attacks, making her the best user of reaction-based teams.
 *   **Vertical Mobility:** Her Redirect Skill allows her to ignore gravity, which is as useful for dodging ground-based boss AoEs as it is for reaching hidden chests in Hethereau’s rooftops.
-*   **Exceptional Scaling:** With massive innate Crit DMG buffs, she scales harder with endgame gear than almost any other character in the current [Neverness to Everness tier list](#TODO:keyword:nte-tier-list).
+*   **Exceptional Scaling:** With massive innate Crit DMG buffs, she scales harder with endgame gear than almost any other character in the current Neverness to Everness tier list.
 *   **Autonomous Summon:** Her Ultimate summons the "Underboss," a spectral entity that mirrors her attacks, effectively doubling her hit count for a burst window.
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Skills and Combat Mechanics
 
@@ -139,7 +119,7 @@ The **Fireflies and the Forest** set is designed specifically for Anima DPS char
 *   **Sub-stat Priority:** Crit Rate > Crit DMG > ATK% > DMG%.
 
 **Console Optimization:**
-To reach the Crit Rate "sweet spot," players should utilize the remaining 8 slots in the Console UI for **Type II Modules**. These provide an additional 3% Crit Rate each, totaling a 24% increase. This, combined with the [Zero best weapons](#TODO:keyword:zero-guide-nte) often found on her supports, ensures a consistent damage floor.
+To reach the Crit Rate "sweet spot," players should utilize the remaining 8 slots in the Console UI for **Type II Modules**. These provide an additional 3% Crit Rate each, totaling a 24% increase. This, combined with the Zero best weapons often found on her supports, ensures a consistent damage floor.
 
 ## Team Compositions and Synergies
 
@@ -151,7 +131,7 @@ Nanally shines brightest when paired with characters who can trigger rapid **Esp
 *   **Sub-DPS/Support:** Zero
 *   **Support/Utility:** Sakiri
 
-This is the current "meta" team for Nanally. **Zero** provides instant Esper Cycle gauge fills and triggers the **Blossom** reaction (Anima + Cosmos). **Jiuyuan** is critical here because she increases the maximum number of Blossoms allowed on the field simultaneously, effectively doubling the reaction damage. Finally, **Sakiri** provides the **Hexed** reaction, which records a percentage of Nanally's damage over a short window and then "detonates" it for a massive burst. For more on her best partner, see our [Jiuyuan build guide](#TODO:keyword:jiuyuan-guide-nte).
+This is the current "meta" team for Nanally. **Zero** provides instant Esper Cycle gauge fills and triggers the **Blossom** reaction (Anima + Cosmos). **Jiuyuan** is critical here because she increases the maximum number of Blossoms allowed on the field simultaneously, effectively doubling the reaction damage. Finally, **Sakiri** provides the **Hexed** reaction, which records a percentage of Nanally's damage over a short window and then "detonates" it for a massive burst. For more on her best partner, see our Jiuyuan build guide.
 
 ### 2. F2P Friendly Cycle
 *   **Main DPS:** Nanally
@@ -168,16 +148,6 @@ This team utilizes the free characters provided at launch. **Zero** remains a st
 *   **Utility:** Adler
 
 This team focuses on the **Discord** enhancement. By layering Sakiri’s grouping with Haniel’s massive ATK buffs, Nanally can clear entire waves of enemies during a single Underboss window. Adler provides shields, ensuring Nanally isn't interrupted while performing her long "Heavy Hitter!" animations.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Sources
 - neverness.gg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xL4z9exLfIj2oQ8JXmerjL8zf3m2miEgMjSiyHJKvMvOQJpKC0hs6BZLLiRrwjH2Dx9CmoY37voNDGT8WMu9VNTRk5BFj5Bi6n2fV-klin4yD3DPdDqNP34Cnn-mvjsmlA==

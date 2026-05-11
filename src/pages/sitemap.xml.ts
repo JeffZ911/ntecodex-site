@@ -24,21 +24,23 @@ export const GET: APIRoute = async () => {
   const weapons = await getCollection("weapons");
 
   const dynamic: { url: string; lastmod?: string }[] = [];
-  for (const c of characters) {
-    dynamic.push({ url: `/characters/${c.slug}`, lastmod: c.data.published_at });
-  }
-  for (const g of guides) {
-    dynamic.push({ url: `/guides/${g.slug}`, lastmod: g.data.published_at });
-  }
-  for (const b of boss) {
-    dynamic.push({ url: `/boss/${b.slug}`, lastmod: b.data.published_at });
-  }
-  for (const n of news) {
-    dynamic.push({ url: `/news/${n.slug}`, lastmod: n.data.published_at });
-  }
-  for (const w of weapons) {
-    dynamic.push({ url: `/weapons/${w.slug}`, lastmod: w.data.published_at });
-  }
+
+  // Prefer entry.data.published_url (authoritative — matches what
+  // PublishAgent wrote and what the [...slug] route resolves to). Falls back
+  // to the directory-derived form when missing.
+  const pushEntry = (
+    fallbackPrefix: string,
+    e: { slug: string; data: { published_url?: string; published_at?: string } }
+  ) => {
+    const url = e.data.published_url || `/${fallbackPrefix}/${e.slug}`;
+    dynamic.push({ url, lastmod: e.data.published_at });
+  };
+
+  for (const c of characters) pushEntry("characters", c);
+  for (const g of guides)     pushEntry("guides",     g);
+  for (const b of boss)       pushEntry("boss",       b);
+  for (const n of news)       pushEntry("news",       n);
+  for (const w of weapons)    pushEntry("weapons",    w);
 
   const today = new Date().toISOString().slice(0, 10);
   const all: { url: string; lastmod: string }[] = [

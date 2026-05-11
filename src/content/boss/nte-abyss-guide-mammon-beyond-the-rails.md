@@ -28,16 +28,6 @@ Mastering the endgame of Neverness to Everness (NTE) requires more than just hig
 
 Defeating Mammon in the Beyond the Rails mode is the ultimate test for any Hunter looking to maximize their weekly Fons income and secure high-tier upgrade materials. As the primary gatekeeper of the "Outbound" arena, Mammon utilizes a deceptive mix of lumbering physical strikes and lightning-fast repositioning that can easily catch players off guard. This guide breaks down the essential strategies, team compositions, and elemental reactions needed to conquer this golden anomaly.
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## Boss Stats
 
 Mammon is the primary endgame boss encountered in the "Beyond the Rails" mode (NTE's version of the Abyss) and the "Realm of Greed" Anomaly. Unlike standard overworld threats, Mammon in the Abyss features significantly higher Stagger Resistance and a Break Gauge that scales aggressively as you progress through higher Stops.
@@ -62,16 +52,6 @@ Mammon’s primary elemental weakness is **Lakshana**. Utilizing Lakshana-attrib
 *   **Anima:** 100% Damage (Neutral)
 *   **Other Elements:** 75% Damage (Reduced Efficiency)
 
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## Attack Patterns
 
 Mammon’s combat style is characterized by "Erratic Melee Aggression." He often alternates between slow, heavy slams and sudden lunges that can traverse half the arena in a single frame.
@@ -93,7 +73,7 @@ Success in the NTE Abyss depends on identifying visual cues instantly.
 
 ## Step-by-Step Strategy
 
-To beat Mammon within the Beyond the Rails time limit, you must master the [Esper Cycle mechanics](#TODO:keyword:nte-combat-guide). The fight is a race to trigger the "Remora" and "Charge" reactions to keep Mammon controlled and your Ultimates ready.
+To beat Mammon within the Beyond the Rails time limit, you must master the Esper Cycle mechanics. The fight is a race to trigger the "Remora" and "Charge" reactions to keep Mammon controlled and your Ultimates ready.
 
 ### Step 1: Build the Esper Cycle Meter
 Start the fight with your active character (usually your Cycle Battery or Sub-DPS) and use basic attacks and successful parries to fill the Esper Meter. A successful parry against Mammon's golden swipe will instantly fill a large portion of the bar.
@@ -105,11 +85,11 @@ Once your Lakshana and Cosmos characters have full meters, swap between them to 
 Use Lakshana-attribute skills during the golden flash windows. Characters like Hathor excel here, as their Lakshana damage is specifically tuned to shred the Break Gauge of anomalies like Mammon.
 
 ### Step 4: Maximizing the Stagger Window
-Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is your "Downed" window. Immediately swap to your Main DPS (such as [Nanally](#TODO:keyword:nte-nanally-build)) and unleash your Ultimate. 
+Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is your "Downed" window. Immediately swap to your Main DPS (such as Nanally) and unleash your Ultimate. 
 *   **Rotation Tip:** Swap to Lakshana -> Trigger Remora -> Swap to Main DPS -> Use Ultimate.
 
 ### Step 5: Time Management in Beyond the Rails
-In [Beyond the Rails mode](#TODO:keyword:nte-beyond-the-rails-guide), your rewards are tied to the "Time Remaining" target. If the timer is running low, prioritize the **Charge reaction (Lakshana + Cosmos + Anima)**. When a target marked by Remora is hit by an Anima effect, your active character generates massive amounts of Ultimate energy, allowing you to chain Ultimates and freeze the countdown timer during the animations.
+In Beyond the Rails mode, your rewards are tied to the "Time Remaining" target. If the timer is running low, prioritize the **Charge reaction (Lakshana + Cosmos + Anima)**. When a target marked by Remora is hit by an Anima effect, your active character generates massive amounts of Ultimate energy, allowing you to chain Ultimates and freeze the countdown timer during the animations.
 
 ## Recommended Team
 
@@ -137,7 +117,7 @@ Choosing the right Arcs (weapons) can significantly reduce your clear times.
 | Zero | Solid-type Arcs | Increases Esper Meter generation rate |
 | Edgar | [information unavailable] | Enhances healing based on Max HP |
 
-For a more detailed breakdown of character-specific equipment, see our [Hathor team comps guide](#TODO:keyword:nte-hathor-guide).
+For a more detailed breakdown of character-specific equipment, see our Hathor team comps guide.
 
 ## Loot
 
@@ -161,16 +141,6 @@ There is a rare chance for Mammon to drop **"Gluttonous Eye" components**. These
 2.  Elite Hunter Guides
 3.  Covetous Coins (if not capped)
 4.  Chaotic Dyes
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Sources
 

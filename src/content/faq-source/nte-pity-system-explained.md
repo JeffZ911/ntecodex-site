@@ -19,16 +19,6 @@ Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is 
 
 ## Question Restated
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 Players transitioning from other major gacha titles often find themselves asking: how does the pity system work in Neverness to Everness (NTE)? Unlike traditional systems that rely on a simple counter, NTE utilizes a unique "Scarborough Fair" board game mechanic that visually represents your progress toward S-class pulls.
 
 This system raises several specific questions for the community:
@@ -45,16 +35,6 @@ The Scarborough Fair system can look intimidating at first glance. Instead of a 
 In gacha games, "pity" refers to the safety net that guarantees a high-rarity item after a certain number of unsuccessful attempts. In the context of NTE's urban setting, this system is designed to be more transparent and player-friendly than its competitors. By removing the "50/50" gamble and introducing a visual "Board Modification" at the soft pity mark, the game provides a clearer path to obtaining featured characters like Nanally or Hotori.
 
 [Infographic showing the 70-pull soft pity (Board Modification) and 90-pull hard pity for NTE characters.]
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Direct Answer
 
@@ -109,7 +89,7 @@ Weapon banners, known as Arc Research, operate on a slightly different logic.
 1.  **S-class Guarantee:** You are guaranteed an S-class Arc every 60 pulls.
 2.  **Featured Guarantee:** There is a 25% base chance that any S-class you pull is the featured weapon. However, the system has a hard cap at 80 pulls. If you have not received the featured S-class Arc by your 80th pull, the next S-class is guaranteed to be the featured one.
 
-This makes the weapon banner significantly more F2P-friendly than in other games, especially since weapons are vital for maximizing the potential of characters found on the [NTE character tier list](#TODO:keyword:nte-tier-list).
+This makes the weapon banner significantly more F2P-friendly than in other games, especially since weapons are vital for maximizing the potential of characters found on the NTE character tier list.
 
 ### Standard Board Perks and the S-Class Selector
 The Standard Board, which uses Solid Dice, offers a permanent "Beginner's Path" bonus.
@@ -151,7 +131,7 @@ The launch version of Neverness to Everness features a packed schedule to kick o
 *   **Version 1.0 Phase 1 (April 29 - May 20):** Nanally (S-class Limited). Nanally is a premier Physical/Anomalous DPS who excels in the early game.
 *   **Version 1.0 Phase 2 (May 20 - June 10):** Hotori (S-class Limited). Hotori brings high-tech utility and elemental synergy to team compositions.
 
-For a full look at the future, check the [Neverness to Everness banner schedule](#TODO:keyword:nte-banner-schedule).
+For a full look at the future, check the Neverness to Everness banner schedule.
 
 ### Top 3 Characters for the Standard Selector
 If you are unsure who to pick from your 50-pull guarantee, these three are currently dominating the meta:
@@ -160,23 +140,13 @@ If you are unsure who to pick from your 50-pull guarantee, these three are curre
 3.  **Fadia:** While others offer more damage, Fadia’s mobility makes navigating the open world of Hethereau much faster.
 
 ### Maximizing Warp Pieces in the Fair Exchange Shop
-Every pull grants Warp Pieces. These should primarily be used to buy more Fabricated Dice. In the "Fair Exchange" tab of the shop, you can find a monthly allotment of discounted dice. Savvy players will prioritize these over upgrade materials, as you can learn [how to get more Annulith](#TODO:keyword:nte-annulith-farming) through in-game activities like city commissions and anomaly investigations.
+Every pull grants Warp Pieces. These should primarily be used to buy more Fabricated Dice. In the "Fair Exchange" tab of the shop, you can find a monthly allotment of discounted dice. Savvy players will prioritize these over upgrade materials, as you can learn how to get more Annulith through in-game activities like city commissions and anomaly investigations.
 
 ### NTE Reroll Guide: Is it worth it?
 Because of the 50-pull guarantee and the S-class selector on the Standard Board, rerolling is less necessary in NTE than in other games. However, if you are determined to start with both a Limited S-class (like Nanally) and your favorite Standard S-class, you should aim to use your initial Annulith on the Limited Board first. If you hit Nanally within your first 20-30 pulls, that account is a "keeper."
 
 ### Understanding Awakening (Duplicates)
 Pulling a duplicate character grants "Awakening" materials. Each Esper has six Awakening levels that provide significant stat boosts or mechanical changes to their kit. While S-class characters are fully functional at Awakening 0, A-class characters often become competitive with S-classes once they reach Awakening 4 or 6.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Sources
 - neverness.gg — https://neverness.gg

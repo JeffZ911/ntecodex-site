@@ -33,17 +33,7 @@ Choosing the right S-class unit from your launch rewards is the most significant
 
 # Sakiri: Best Free 5-Star Character Guide in Neverness to Everness
 
-Navigating the neon-soaked streets of Hethereau requires more than just raw power; it requires utility, crowd control, and the ability to amplify your team's damage. Sakiri, an S-class Incantation support, delivers all three. Since her release on April 29, 2026, she has cemented her place at the top of the [NTE character tier list](#TODO:keyword:nte-tier-list) due to her unique "Eating Mode" and a team-wide ATK buff that remains relevant even in the deepest endgame cycles.
-
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+Navigating the neon-soaked streets of Hethereau requires more than just raw power; it requires utility, crowd control, and the ability to amplify your team's damage. Sakiri, an S-class Incantation support, delivers all three. Since her release on April 29, 2026, she has cemented her place at the top of the NTE character tier list due to her unique "Eating Mode" and a team-wide ATK buff that remains relevant even in the deepest endgame cycles.
 
 ## Overview
 
@@ -54,16 +44,6 @@ Players can obtain Sakiri for free through two primary methods:
 2.  **Launch Gift Box:** As part of the May 3rd launch celebration, a special gift box containing an S-class selector was distributed to all players who reached Hunter Level 10.
 
 Sakiri’s kit revolves around her autonomous demon-hammer, Kiroumaru. This weapon isn't just for swinging; it acts as a gravity-manipulating entity that can swallow smaller enemies whole, remove environmental barriers, and pin elite bosses to the ground with "Gravity Slurry." Whether you are clearing waves of mobs in the open world or trying to survive a high-difficulty Anomaly, Sakiri provides the breathing room necessary for your team to execute their rotations.
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Skills
 
@@ -127,7 +107,7 @@ Sakiri is a "plug-and-play" unit that fits into almost any composition requiring
 *   **Support:** Sakiri
 *   **Healer/Buffer:** Haniel
 
-This is currently the most popular meta team. Sakiri pairs perfectly with Nanally, the first limited 5-star, to amplify her high-speed basic attacks. By using Sakiri’s Ultimate to pin enemies, Nanally can safely execute her "Underboss" rotation without fear of being interrupted. The "Hexed" reaction triggered between Incantation and Anima elements causes a massive burst of damage based on the total damage dealt during the reaction window. For more on the carry in this team, see our [Nanally best build guide](#TODO:keyword:nanally-nte-build).
+This is currently the most popular meta team. Sakiri pairs perfectly with Nanally, the first limited 5-star, to amplify her high-speed basic attacks. By using Sakiri’s Ultimate to pin enemies, Nanally can safely execute her "Underboss" rotation without fear of being interrupted. The "Hexed" reaction triggered between Incantation and Anima elements causes a massive burst of damage based on the total damage dealt during the reaction window. For more on the carry in this team, see our Nanally best build guide.
 
 ### Team 2: F2P Scorch Team
 *   **Main DPS:** Baicang
@@ -151,17 +131,7 @@ Sakiri's long-term value as a buffer makes her the most efficient pick for F2P p
 
 To maximize your roster, you should wait to use your selector until after you have exhausted your initial 169 free standard pulls. If you happen to pull Sakiri naturally, you can use the selector to obtain her first awakening (which further boosts her energy regen) or pick up Daffodil to complete your Scorch team. Additionally, you can eventually obtain a second free S-class selector through the **City Tycoon management mode** by reaching Tycoon Level 30, allowing you to fill any remaining gaps in your elemental coverage.
 
-If you find yourself struggling with the early-game difficulty, check out our guide on [how to reroll in Neverness to Everness](#TODO:keyword:nte-reroll-guide) to ensure you start with both Sakiri and a top-tier DPS like Nanally.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+If you find yourself struggling with the early-game difficulty, check out our guide on how to reroll in Neverness to Everness to ensure you start with both Sakiri and a top-tier DPS like Nanally.
 
 ## Sources
 - icy-veins.com — https://www.icy-veins.com/nte/sakiri-guide-best-builds/

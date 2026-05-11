@@ -39,16 +39,6 @@ With the highly anticipated launch of Neverness to Everness (NTE) on April 29, 2
 
 ## Overview
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 The free-to-play (F2P) experience in Neverness to Everness is surprisingly robust, offering a path to high-tier power without requiring a single pull on the limited banners. Unlike many contemporary gacha titles, NTE provides a full, viable team through story progression and side activities like the City Tycoon management sim. To succeed as an F2P player, you must master the "Elemental Lane" system—a hexagonal reaction wheel that dictates how your characters interact during combat.
 
 At the heart of any F2P build is the **Esper Cycle**. This mechanic rewards you for swapping characters when their portraits "glow," triggering unique Esper Skills that lead into powerful elemental reactions. For those starting their journey, the game provides a solid foundation with **Zero (the MC)**, **Mint**, **Adler**, and **Haniel**, eventually culminating in the acquisition of **Chiz**, an S-Rank powerhouse who serves as the cornerstone of the best F2P damage build.
@@ -77,16 +67,6 @@ You start with Zero, an S-Rank Cosmos unit with high versatility. However, the r
 *   **Bottom Trio (Force/Mind):** Incantation ↔ Chaos ↔ Psyche
 
 *(Note: Reactions like **Charge** occur when the Top Trio is completed, while **Discord** occurs via the Bottom Trio.)*
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Best Weapons
 
@@ -153,7 +133,7 @@ Supports like Adler and Haniel should focus on sets that provide team-wide buffs
 
 ## Team Comp
 
-Building the best F2P team in Neverness to Everness requires balancing the Elemental Lane to ensure you can trigger reactions on every swap. If you use the [Neverness to Everness tier list](#TODO:keyword:nte-tier-list) as a reference, you will see that even free units rank highly when paired correctly.
+Building the best F2P team in Neverness to Everness requires balancing the Elemental Lane to ensure you can trigger reactions on every swap. If you use the Neverness to Everness tier list as a reference, you will see that even free units rank highly when paired correctly.
 
 ### The Ultimate F2P Starter Team
 
@@ -202,26 +182,16 @@ Every boss has a **Break Meter** (white bar under HP). Use **Adler’s parry** (
 ## FAQ
 
 **Who should I pick from the S-Rank Selector as an F2P player?**
-We recommend **Sakiri** or **Fadia**. Sakiri is a top-tier buffer who fits perfectly into the Incantation slot, while Fadia offers unparalleled survivability by redirecting team damage to herself, which is vital for high-level Anomalies. Check our [NTE reroll guide](#TODO:keyword:neverness-to-everness-reroll) if you want to aim for a specific starting account.
+We recommend **Sakiri** or **Fadia**. Sakiri is a top-tier buffer who fits perfectly into the Incantation slot, while Fadia offers unparalleled survivability by redirecting team damage to herself, which is vital for high-level Anomalies. Check our NTE reroll guide if you want to aim for a specific starting account.
 
 **Can I beat endgame Anomalies with only free Arcs?**
 Yes. Arcs like **Day Off** and **Hethereau's Keeper** are competitive with signature weapons when fully refined (Rank 5). Focus on clearing your daily commissions to get the materials needed for refinement.
 
 **How do I get more Tri-Keys for Arc Research without spending?**
-Tri-Keys are primarily earned through Hunter Level rewards, clearing the **Fracture Circle** (NTE’s version of a battle tower), and redeeming [active NTE codes](#TODO:keyword:neverness-to-everness-codes).
+Tri-Keys are primarily earned through Hunter Level rewards, clearing the **Fracture Circle** (NTE’s version of a battle tower), and redeeming active NTE codes.
 
 **Is the Male or Female Zero better?**
 The choice is purely cosmetic. Both versions share the same Cosmos element, base stats, and skill multipliers. Pick the one whose design you prefer for your urban exploration.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Sources
 

@@ -95,37 +95,10 @@ const gaId =
     </main>
     <Footer />
 
-    <!-- Lightweight cookie notice (no JS framework needed) -->
-    <div
-      id="cookie-notice"
-      class="fixed bottom-4 right-4 left-4 sm:left-auto z-50 max-w-md rounded-lg border border-white/10 bg-bg-soft p-4 text-xs text-gray-300 shadow-glow-primary hidden"
-    >
-      <p class="m-0">
-        We use cookies for analytics and ads. By continuing you accept our
-        <a href="/privacy" class="underline">privacy policy</a>.
-      </p>
-      <button
-        id="cookie-ok"
-        class="mt-2 rounded-md bg-primary-600 px-3 py-1.5 font-semibold text-white hover:bg-primary-500"
-      >
-        Got it
-      </button>
-    </div>
-    <script is:inline>
-      (function () {
-        try {
-          if (!localStorage.getItem("cookie-ok")) {
-            const el = document.getElementById("cookie-notice");
-            if (el) el.classList.remove("hidden");
-          }
-          const btn = document.getElementById("cookie-ok");
-          btn && btn.addEventListener("click", function () {
-            localStorage.setItem("cookie-ok", "1");
-            const el = document.getElementById("cookie-notice");
-            if (el) el.classList.add("hidden");
-          });
-        } catch (e) {}
-      })();
-    </script>
+    <!-- Cookie consent is handled by Google's CMP (Consent Management
+         Platform) which is injected by the AdSense loader. We previously had
+         a hand-rolled banner here; that's been removed so it doesn't shadow
+         the CMP's GDPR-compliant Consent / Manage / Decline dialog. -->
+
   </body>
 </html>

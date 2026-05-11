@@ -41,16 +41,6 @@ With the supernatural streets of Hethereau finally open to the public, the first
 
 Deciding how to allocate your resources in the early days of a gacha game can define your experience for months to come. In *Neverness to Everness* (NTE), the stakes are slightly different than in other titles due to the unique "No 50/50" rule and the board-game-inspired Scarborough Fair system. Currently, players are faced with the debut of Nanally, a high-octane Plasma DPS, while the shadow of the time-manipulating Hotori looms just two weeks away.
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## TL;DR Verdict
 
 If you are looking for a quick answer, here is the breakdown of the launch meta decisions:
@@ -67,16 +57,6 @@ For Free-to-Play (F2P) players, Nanally is an excellent "account starter." Becau
 For those willing to invest, Nanally’s banner is high-value due to the launch celebration bonuses. Pulling for Nanally also puts you on the path to obtaining the **Phoenix Kick** outfit and the **Tiger Incoming! M1000** vehicle livery. Since pity carries over between limited boards, spenders can safely pull for Nanally and use any leftover "Board Modification" progress to secure Hotori later.
 
 [Official Nanally 'The Ichi-Daime' banner art showing Nanally, Mint, Edgar, and Adler with the Scarborough Fair board background.]
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Side-by-Side Table
 
@@ -157,17 +137,7 @@ Don't forget that NTE offers a **Standard S-Rank Selector** after your first 50 
 
 If you pull **Nanally**, you should use your selector on **Sakiri**. Sakiri’s Incantation-based buffs and crowd control pair perfectly with Nanally’s aggression. If you decide to wait for **Hotori**, using the selector on **Jiuyuan** provides a strong DPS that Hotori can support with her time-manipulation abilities.
 
-For more help building your squad, check out our [Neverness to Everness Tier List](#TODO:keyword:nte-tier-list) or dive into our [NTE Beginner Guide](#TODO:keyword:nte-beginner-guide) to master the Scarborough Fair mechanics. If you're short on dice, make sure to claim all [Active NTE Codes](#TODO:keyword:nte-codes) before they expire. And if your first few rolls didn't go as planned, our [NTE Reroll Guide](#TODO:keyword:nte-reroll-guide) can help you start fresh.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+For more help building your squad, check out our Neverness to Everness Tier List or dive into our NTE Beginner Guide to master the Scarborough Fair mechanics. If you're short on dice, make sure to claim all Active NTE Codes before they expire. And if your first few rolls didn't go as planned, our NTE Reroll Guide can help you start fresh.
 
 ## Sources
 

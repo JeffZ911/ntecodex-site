@@ -3,7 +3,6 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import CharacterCard from "../components/CharacterCard.astro";
-import AdSlot from "../components/AdSlot.astro";
 
 const guides = await getCollection("guides");
 const boss = await getCollection("boss");
@@ -37,11 +36,44 @@ const featuredCharacters = characters
   }))
   .sort((a, b) => (TIER_ORDER[a.tier ?? "C"] ?? 9) - (TIER_ORDER[b.tier ?? "C"] ?? 9))
   .slice(0, 6);
+
+// WebSite + ItemList JSON-LD so Google rich results have something to chew
+// on for the root page.
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      url: "https://ntecodex.com/",
+      name: "NTE Codex",
+      description:
+        "The complete fan database for Neverness to Everness — tier list, builds, boss guides and gacha mechanics.",
+      inLanguage: "en",
+      publisher: { "@type": "Organization", name: "NTE Codex" },
+      potentialAction: {
+        "@type": "SearchAction",
+        target: "https://ntecodex.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string",
+      },
+    },
+    {
+      "@type": "ItemList",
+      name: "Featured characters",
+      itemListElement: featuredCharacters.slice(0, 6).map((c, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `https://ntecodex.com/characters/${c.slug}/`,
+        name: c.title,
+      })),
+    },
+  ],
+};
 ---
 
 <BaseLayout
   title="NTE Codex — Neverness to Everness Tier List, Builds & Guides"
   description="The complete fan database for Neverness to Everness: tier list, character builds, boss strategies, reroll guide and gacha mechanics, all peer-reviewed by AI."
+  jsonLd={jsonLd}
 >
   <!-- Hero -->
   <section class="relative -mx-4 sm:-mx-6 lg:-mx-8 overflow-hidden bg-hero-gradient">
@@ -83,7 +115,6 @@ const featuredCharacters = characters
     )}
   </section>
 
-  <AdSlot />
 
   <!-- Recent articles -->
   <section class="mt-16">

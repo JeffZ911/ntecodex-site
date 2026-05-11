@@ -2,7 +2,6 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import TierTable from "../components/TierTable.astro";
-import AdSlot from "../components/AdSlot.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 
 const characters = await getCollection("characters");
@@ -79,7 +78,6 @@ const jsonLd = {
 
   <TierTable entries={entries} filter="All" />
 
-  <AdSlot />
 
   {editorialItems.length > 0 && (
     <section class="mt-16">

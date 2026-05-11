@@ -29,16 +29,6 @@ Starting your journey in Hethereau with the right team can be the difference bet
 
 Rerolling in Neverness to Everness (NTE) is a highly effective strategy for players who want to start their adventure with the strongest possible roster. Since the game's release on April 29, 2026, the community has identified a specific "god start" that involves securing the limited S-Rank Nanally while using the standard selector to round out a meta-defining team. This guide covers everything you need to know to master the reroll process and which characters are worth the effort.
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## Why Reroll
 
 While every character in NTE can eventually be leveled to clear content, the power gap between a standard starter and a "rerolled" account is significant. Rerolling allows you to bypass the early-game resource scarcity and jump straight into high-level exploration and Tycoon management.
@@ -63,18 +53,6 @@ Technically, no. Neverness to Everness is designed to be accessible, and you rec
 
 ### The Value of the 50-Pull Standard Selector
 The "Strange Encounters" standard banner features a unique mechanic: your first 50 pulls are discounted by 20%. This means a 10-pull only costs 8 Fabricated Dice. Once you reach 50 total pulls (costing only 40 Dice), you unlock a selector that lets you choose any of the six standard S-Ranks: Sakiri, Jiuyuan, Daffodill, Fadia, Baicang, or Hathor. By rerolling to get one of these early, you can use the selector to snag their best teammate.
-
-![A high-quality splash art comparison of Nanally and Sakiri, highlighting their S-Rank status and roles.](https://example.com/nte-nanally-sakiri-comparison.jpg)
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## How to Reroll
 
@@ -101,8 +79,6 @@ You should spend your limited currency (Solid Dice or Annulith) on **The Ichi-da
 ### How to Reset on Mobile vs. PC
 On PC, the process is faster due to shorter loading times and easier navigation of the "User Center." On mobile, you may need to clear the game's cache if you want to completely remove account data, though the salting method avoids the need for a full re-download.
 
-![Infographic showing the 'Salting' process for email accounts and the location of the 'Skip' button in the tutorial.](https://example.com/nte-reroll-infographic.jpg)
-
 ## Best Starters
 
 The current meta for May 2026 is dominated by Anima and Incantation synergies. When rerolling, you are looking for a "Main DPS" to carry your damage and a "Gather/Support" to group enemies for efficient clearing.
@@ -118,7 +94,7 @@ The current meta for May 2026 is dominated by Anima and Incantation synergies. W
 | **A (Sustain)** | **Fadia** | Sustain | Psyche / [information unavailable] | Redirects damage and heals; makes the game "comfy." |
 
 ### S-Tier: The 'God Start' Targets
-*   **Nanally (S-Rank, Anima):** She is the gold standard for rerolling. Her skill, "Colucci Howling Technique," allows her to enter a state that ignores gravity and boosts Crit DMG. She is currently the strongest character in the [Neverness to Everness Tier List](#TODO:keyword:neverness-to-everness-tier-list).
+*   **Nanally (S-Rank, Anima):** She is the gold standard for rerolling. Her skill, "Colucci Howling Technique," allows her to enter a state that ignores gravity and boosts Crit DMG. She is currently the strongest character in the Neverness to Everness Tier List.
 *   **Sakiri (S-Rank, Incantation):** Sakiri is arguably the most valuable long-term unit. Her companion, Kiroumaru, can swallow enemies whole and pin them with gravity. She is essential for the "AoE Burst" meta.
 
 ### A-Tier: Solid Alternatives
@@ -157,7 +133,7 @@ Rerolling is a marathon, not a sprint, but efficiency can cut your time in half.
 The fastest way to reach the gacha is to ignore all side NPCs in Hethereau. Follow the gold quest marker exclusively. During combat tutorials, don't just mash basic attacks; use the "Perfect Dodge" to trigger slow-motion effects, which allows you to clear waves of "Oddities" faster.
 
 ### When to Stop Rerolling
-Stop rerolling once you have **Nanally** plus at least one other S-Rank from the standard banner (ideally Sakiri or Jiuyuan). If you are exhausted, a single Nanally start is still considered a "Win" because of her limited availability. For more on how to build her, check our [Nanally Build Guide](#TODO:keyword:nanally-build).
+Stop rerolling once you have **Nanally** plus at least one other S-Rank from the standard banner (ideally Sakiri or Jiuyuan). If you are exhausted, a single Nanally start is still considered a "Win" because of her limited availability. For more on how to build her, check our Nanally Build Guide.
 
 ## FAQ
 
@@ -177,17 +153,7 @@ Once you land your "God Account," go to the "User Center" immediately and bind i
 ### Cross-Platform Rerolling (PS5/Mobile/PC)
 Neverness to Everness features full cross-progression. However, it is easiest to reroll on PC or Mobile and then log into that account on your PS5. Rerolling directly on a console is difficult because accounts are often tied to your PSN ID, making "salting" impossible without creating multiple PSN profiles.
 
-If you are new to the game and want to learn more about the mechanics beyond the gacha, visit our [NTE Beginner Guide](#TODO:keyword:neverness-to-everness-beginner-guide).
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+If you are new to the game and want to learn more about the mechanics beyond the gacha, visit our NTE Beginner Guide.
 
 ## Sources
 - Sports Rant — https://www.sportsrant.com/neverness-to-everness-banner-schedule-may-june-2026/

@@ -19,16 +19,6 @@ Choosing the right team members in Hethereau can mean the difference between a s
 
 The launch of Neverness to Everness (NTE) introduces a diverse roster of characters, each utilizing unique elemental attributes like Anima, Cosmos, and Incantation. With the first limited banner featuring Nanally and the availability of a free S-Class Selector, making the right choice early on is vital for long-term account health. This guide breaks down the current meta to help you decide which characters deserve your resources and who should stay on the bench.
 
-<div class="ad-slot my-8" data-ad-pos="top">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="1111111111"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
-
 ## Methodology
 
 Ranking characters in NTE requires looking beyond simple damage numbers. Because the game blends open-world traversal with high-speed combat, we evaluate units based on their utility in both combat scenarios and exploration. The following criteria form the basis of our launch tier list:
@@ -57,26 +47,14 @@ Ranking characters in NTE requires looking beyond simple damage numbers. Because
 | **Skia** | A-Class | Lakshana | Sub-DPS | **C** |
 | **Edgar** | A-Class | Anima | Sustain | **C** |
 
-![A high-quality banner featuring Nanally, Sakiri, and Jiuyuan standing in the neon-lit streets of Hethereau.](https://placehold.co/1920x1080?text=Nanally,+Sakiri,+and+Jiuyuan+in+Hethereau)
-
 ### Combat Efficiency and Scaling
 In the current v1.0 meta, combat efficiency is defined by how quickly a character can trigger elemental reactions and deplete an enemy's "Break" gauge. Characters like Nanally and Jiuyuan excel here because their Anima-based attacks have high multi-hit counts, which rapidly builds up status effects. As players move into the higher tiers of Anomaly Commissions, scaling becomes the primary concern. Characters with percentage-based buffs or unique mechanics like "Instant Cycle" tend to outperform those who rely purely on flat base stats.
 
 ### Accessibility for F2P Players
-NTE is relatively generous at launch, providing several high-tier units for free. Esper Zero is a powerhouse protagonist who remains relevant throughout the early and mid-game. Chiz, an S-Class Cosmos DPS, can be earned by reaching Level 18 in the City Tycoon system, making her a staple for players who do not wish to spend money on the gacha. Additionally, the [NTE reroll guide](#TODO:keyword:nte-reroll-guide) highlights how players can use their initial pulls to secure a strong foundation.
+NTE is relatively generous at launch, providing several high-tier units for free. Esper Zero is a powerhouse protagonist who remains relevant throughout the early and mid-game. Chiz, an S-Class Cosmos DPS, can be earned by reaching Level 18 in the City Tycoon system, making her a staple for players who do not wish to spend money on the gacha. Additionally, the NTE reroll guide highlights how players can use their initial pulls to secure a strong foundation.
 
 ### Synergy and Team Flexibility
-Building a team isn't just about picking four S-Tier units; it’s about how their skills interact. For example, Sakiri’s ability to pull enemies together with her "Impish Trick" sets the stage perfectly for Nanally’s "Colucci Ultimate Technique." Finding these synergies is essential for clearing timed challenges. We recommend checking our guide on [best team compositions](#TODO:keyword:nte-team-comps) to see how to pair these starter characters effectively.
-
-<div class="ad-slot my-8" data-ad-pos="mid">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="2222222222"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+Building a team isn't just about picking four S-Tier units; it’s about how their skills interact. For example, Sakiri’s ability to pull enemies together with her "Impish Trick" sets the stage perfectly for Nanally’s "Colucci Ultimate Technique." Finding these synergies is essential for clearing timed challenges. We recommend checking our guide on best team compositions to see how to pair these starter characters effectively.
 
 ## S Tier
 
@@ -162,23 +140,13 @@ Characters in this tier are currently underperforming due to low multipliers or 
 The meta in Neverness to Everness is evolving quickly following the April 29 launch. Developers have already been active in balancing the roster and announcing new content.
 
 ### The Impact of the Nanally Banner
-Nanally has set a high bar for future DPS units. Her ability to ignore certain terrain obstacles and her massive synergy with the "Underboss" summon has made her the most sought-after unit. Players are currently using [Neverness to Everness codes](#TODO:keyword:nte-codes) to scrape together enough currency to pull for her before her banner ends.
+Nanally has set a high bar for future DPS units. Her ability to ignore certain terrain obstacles and her massive synergy with the "Underboss" summon has made her the most sought-after unit. Players are currently using Neverness to Everness codes to scrape together enough currency to pull for her before her banner ends.
 
 ### Hotori Preview: How She Might Shake Up the Tier List
 Scheduled for release on May 13, 2026, **Hotori** is an upcoming Cosmos character. Early data suggests she will feature a time-stop mechanic, which could potentially push her into the S-Tier. If she can consistently freeze enemies in place, she will become a must-have for high-level Anomaly Commissions.
 
 ### Selector Strategy for New Players
 Every new player receives an S-Class Selector. **The best strategy is to wait.** Do not use your selector immediately. Instead, perform your first 50 pulls on the standard banner. Once you see which S-Class character you pull naturally, use the selector to pick a unit that complements them. For example, if you pull Jiuyuan, you might want to use your selector on Sakiri to create a top-tier Anima/Incantation core.
-
-<div class="ad-slot my-8" data-ad-pos="end">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5523706123080113"
-     data-ad-slot="3333333333"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
 
 ## Sources
 - Neverness to Everness Official Site — https://nte.perfectworld.com/

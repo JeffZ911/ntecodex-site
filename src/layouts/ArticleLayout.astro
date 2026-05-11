@@ -2,7 +2,6 @@
 import BaseLayout from "./BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 import SourceList from "../components/SourceList.astro";
-import AdSlot from "../components/AdSlot.astro";
 import CommentSection from "../components/CommentSection.astro";
 
 interface Crumb { href?: string; label: string }
@@ -80,7 +79,6 @@ const jsonLd = {
         {slug && <CommentSection articleSlug={slug} />}
       </div>
       <aside class="space-y-6 lg:sticky lg:top-20 self-start">
-        <AdSlot />
         <div class="card text-sm">
           <h3 class="mt-0 text-xs font-semibold uppercase tracking-wider text-primary-300">
             About this guide
