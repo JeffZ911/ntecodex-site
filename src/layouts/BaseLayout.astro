@@ -27,6 +27,11 @@ const adsensePub =
 const adsClient = adsensePub
   ? (adsensePub.startsWith("ca-") ? adsensePub : `ca-${adsensePub}`)
   : "";
+
+// GA4 measurement id is public (visible in page source on every analytics
+// site). Default for build without .env, override via CF Pages env.
+const gaId =
+  import.meta.env.PUBLIC_GA_MEASUREMENT_ID || "G-FBQDFV7CXF";
 ---
 
 <!DOCTYPE html>
@@ -69,6 +74,18 @@ const adsClient = adsensePub
         src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsClient}`}
         crossorigin="anonymous"
       ></script>
+    )}
+
+    {gaId && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+        <script is:inline set:html={`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${gaId}', { anonymize_ip: true });
+        `}></script>
+      </>
     )}
   </head>
   <body class="font-sans antialiased">

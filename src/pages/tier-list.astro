@@ -3,8 +3,27 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import TierTable from "../components/TierTable.astro";
 import AdSlot from "../components/AdSlot.astro";
+import ArticleCard from "../components/ArticleCard.astro";
 
 const characters = await getCollection("characters");
+
+// Editorial tier-list articles (article_type='tier_list') are stored in the
+// `tier-list-source` content collection and aggregated below. They do NOT
+// get their own pages — they're embedded here for readers who want the
+// long-form ranking commentary alongside the auto-aggregated character grid.
+const tierListArticles = await getCollection("tier-list-source");
+const editorialItems = tierListArticles
+  .map((e) => ({
+    href: `#editorial-${e.slug}`,
+    title: e.data.title,
+    articleType: "tier_list",
+    qaScore: e.data.qa_score,
+    wordCount: e.data.word_count,
+    publishedAt: e.data.published_at,
+    heroImage: e.data.hero_image,
+    body: e,
+  }))
+  .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""));
 const entries = characters.map((c) => ({
   slug: c.slug,
   title: c.data.title,
@@ -61,6 +80,41 @@ const jsonLd = {
   <TierTable entries={entries} filter="All" />
 
   <AdSlot />
+
+  {editorialItems.length > 0 && (
+    <section class="mt-16">
+      <h2 class="mb-4">Editorial Tier Lists</h2>
+      <p class="text-sm text-gray-400 mb-6">
+        Long-form ranking commentary from the editorial pipeline. These are
+        produced as standalone articles and aggregated here.
+      </p>
+      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {editorialItems.map((it) => (
+          <ArticleCard
+            href={it.href}
+            title={it.title}
+            articleType="tier_list"
+            qaScore={it.qaScore}
+            wordCount={it.wordCount}
+            publishedAt={it.publishedAt}
+            heroImage={it.heroImage}
+          />
+        ))}
+      </div>
+
+      <div class="mt-10 space-y-12">
+        {editorialItems.map(async (it) => {
+          const { Content } = await it.body.render();
+          return (
+            <article id={`editorial-${it.body.slug}`} class="prose-game">
+              <h3 class="mt-0">{it.title}</h3>
+              <Content />
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  )}
 
   <section class="mt-12 prose-game">
     <h2>Why this ranking?</h2>

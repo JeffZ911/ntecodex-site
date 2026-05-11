@@ -2,36 +2,106 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<BaseLayout title="Privacy Policy — NTE Codex" description="How NTE Codex handles cookies, analytics and advertising.">
+<BaseLayout
+  title="Privacy Policy — NTE Codex"
+  description="How NTE Codex handles cookies, analytics, advertising and reader comments."
+>
   <h1>Privacy Policy</h1>
-  <p class="text-sm text-gray-400">Last updated: 2026-05-10</p>
+  <p class="text-sm text-gray-400">Last updated: 2026-05-11</p>
 
   <div class="prose-game max-w-prose">
+    <p>
+      NTE Codex is operated by an independent creator. This page explains what
+      data the site collects, why, and how to ask for its removal.
+    </p>
+
     <h2>What we collect</h2>
     <ul>
-      <li><strong>Analytics:</strong> Google Analytics 4 records page visits, referrer, device, and rough geolocation. Data is aggregated.</li>
-      <li><strong>Advertising:</strong> Once Google AdSense is approved, ad serving and frequency capping use cookies. AdSense may personalize ads based on your prior browsing across sites.</li>
-      <li><strong>No accounts.</strong> We do not have user logins or comments, so we never collect emails, passwords, or profile data.</li>
+      <li>
+        <strong>Analytics:</strong> Google Analytics 4 records page visits,
+        referrer, device type, and approximate geolocation (city / region).
+        Data is aggregated; we don't identify individual readers.
+      </li>
+      <li>
+        <strong>Advertising:</strong> Google AdSense (once approved) serves
+        ads and uses cookies for frequency capping and (optionally)
+        personalised ads based on your prior browsing across sites.
+      </li>
+      <li>
+        <strong>Reader comments &amp; contact form:</strong> if you submit a
+        comment or contact message we store:
+        <ul>
+          <li><em>Name</em> — optional; an empty name renders as "Anonymous".</li>
+          <li><em>Message content</em> — required, up to 2000 characters.</li>
+          <li><em>IP address</em> — kept for 30 days as an anti-abuse signal.</li>
+          <li><em>User agent</em> — same purpose; 30 days.</li>
+          <li>
+            <em>Cloudflare Turnstile token</em> — used once to confirm you're
+            not a bot, then discarded.
+          </li>
+        </ul>
+        <strong>All comments are reviewed before publishing.</strong> Approved
+        comments stay public until you ask for removal (see below).
+      </li>
+      <li><strong>No accounts.</strong> The site has no login system.</li>
     </ul>
 
     <h2>Cookies</h2>
     <p>
-      The cookie banner stores a single localStorage flag (<code>cookie-ok</code>) so we
-      don't show it twice. AdSense and GA4 set their own cookies when you continue browsing.
+      The cookie banner stores a single <code>localStorage</code> flag
+      (<code>cookie-ok</code>) so it doesn't show twice. AdSense and GA4 set
+      their own cookies once you continue browsing.
     </p>
 
-    <h2>Your rights</h2>
+    <h2>Removing your data</h2>
     <p>
-      EU/UK users can opt out of personalised ads via the standard
-      <a href="https://www.youronlinechoices.com/" rel="noopener" target="_blank">YourOnlineChoices</a>
-      page. California residents can request data deletion via <a href="/contact">contact</a>.
+      To delete a comment you wrote, submit a new comment on the same article
+      with the subject line "Delete request" and enough detail to identify
+      the original (rough timestamp + a phrase from the text is fine). We
+      process delete requests within 7 days.
     </p>
+    <p>
+      For analytics opt-out: EU/UK users can use
+      <a href="https://www.youronlinechoices.com/" rel="noopener" target="_blank">YourOnlineChoices</a>;
+      US users can use
+      <a href="https://optout.aboutads.info/" rel="noopener" target="_blank">AdChoices</a>.
+      Or use a browser-level "Do Not Track" / tracker-blocking extension.
+    </p>
+
+    <h2>Data retention</h2>
+    <ul>
+      <li>IP addresses + user agents on messages: <strong>30 days</strong>.</li>
+      <li>Approved comment text + name: indefinitely (until delete request).</li>
+      <li>Rejected / spam-flagged messages: 90 days, then purged.</li>
+      <li>Analytics: standard GA4 retention (default 2 months on this site).</li>
+    </ul>
 
     <h2>Third-party services</h2>
     <ul>
-      <li>Google Analytics — see <a href="https://policies.google.com/privacy" rel="noopener" target="_blank">Google's privacy policy</a>.</li>
-      <li>Google AdSense — see <a href="https://policies.google.com/technologies/ads" rel="noopener" target="_blank">Google ads policy</a>.</li>
-      <li>Cloudflare — used for hosting and DDoS mitigation. See <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener" target="_blank">Cloudflare privacy</a>.</li>
+      <li>
+        Google Analytics — see
+        <a href="https://policies.google.com/privacy" rel="noopener" target="_blank">Google's privacy policy</a>.
+      </li>
+      <li>
+        Google AdSense — see
+        <a href="https://policies.google.com/technologies/ads" rel="noopener" target="_blank">Google ads policy</a>.
+      </li>
+      <li>
+        Cloudflare — site hosting, DDoS mitigation, and Turnstile bot
+        verification. See
+        <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener" target="_blank">Cloudflare privacy</a>.
+      </li>
+      <li>
+        Supabase — backend storage for the comment moderation queue. See
+        <a href="https://supabase.com/privacy" rel="noopener" target="_blank">Supabase privacy</a>.
+      </li>
     </ul>
+
+    <h2>Changes</h2>
+    <p>
+      The "Last updated" date at the top reflects the current revision. We do
+      not email readers about policy changes (we have no mailing list); please
+      re-read this page if you've left a comment recently.
+    </p>
   </div>
 </BaseLayout>

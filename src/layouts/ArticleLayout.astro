@@ -3,6 +3,7 @@ import BaseLayout from "./BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 import SourceList from "../components/SourceList.astro";
 import AdSlot from "../components/AdSlot.astro";
+import CommentSection from "../components/CommentSection.astro";
 
 interface Crumb { href?: string; label: string }
 interface Props {
@@ -15,11 +16,13 @@ interface Props {
   heroImage?: string;
   sources?: any[];
   crumbs: Crumb[];
+  /** Article slug — used to scope the comment section to this article. */
+  slug?: string;
 }
 
 const {
   title, description, publishedAt, qaScore, wordCount,
-  articleType, heroImage, sources = [], crumbs,
+  articleType, heroImage, sources = [], crumbs, slug,
 } = Astro.props;
 
 const dateStr = publishedAt
@@ -32,12 +35,11 @@ const jsonLd = {
   headline: title,
   datePublished: publishedAt,
   dateModified: publishedAt,
-  author: { "@type": "Organization", name: "NTE Codex" },
-  publisher: {
-    "@type": "Organization",
-    name: "NTE Codex",
-    logo: { "@type": "ImageObject", url: "https://ntecodex.com/favicon.svg" },
-  },
+  // E-E-A-T-friendly independent-creator pattern: a named editorial Person
+  // as author, NTE Codex as a lightweight publisher Organization (no logo
+  // / no address / no fictional corporate claim).
+  author: { "@type": "Person", name: "NTE Codex Editorial" },
+  publisher: { "@type": "Organization", name: "NTE Codex" },
   description: description,
   ...(heroImage ? { image: heroImage } : {}),
 };
@@ -75,6 +77,7 @@ const jsonLd = {
       <div class="min-w-0">
         <slot />
         <SourceList sources={sources} />
+        {slug && <CommentSection articleSlug={slug} />}
       </div>
       <aside class="space-y-6 lg:sticky lg:top-20 self-start">
         <AdSlot />

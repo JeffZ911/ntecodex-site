@@ -23,6 +23,7 @@ const { Content } = await entry.render();
   articleType={entry.data.article_type}
   heroImage={entry.data.hero_image}
   sources={entry.data.sources}
+  slug={entry.slug}
   crumbs={[
     { href: "/", label: "Home" },
     { href: "/weapons", label: "Weapons" },

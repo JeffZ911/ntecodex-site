@@ -1,0 +1,203 @@
+---
+/* Inline comment block rendered at the bottom of every article.
+
+   Server-side: fetches approved comments for the current slug via Supabase
+   PostgREST using the public anon key (RLS lets anon SELECT *only* approved
+   rows are visible by querying with status='approved' filter, but the RLS
+   policy in migration 003 doesn't grant anon SELECT — so we use the
+   service_role key at build time via a Pages Function instead.
+
+   Simpler approach for now: render an empty "loading" stub server-side and
+   hydrate via a tiny fetch to `/api/comments?article_slug=<slug>` after
+   page load. That way no service_role exposure on the static HTML.
+*/
+
+interface Props {
+  articleSlug: string;
+}
+const { articleSlug } = Astro.props;
+
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "";
+---
+
+<section
+  class="mt-12 border-t border-white/5 pt-8"
+  data-comment-section
+  data-article-slug={articleSlug}
+>
+  <h2 class="mt-0">Comments</h2>
+
+  <!-- List (hydrated client-side from /api/comments?article_slug=...) -->
+  <div
+    id="comments-list"
+    class="space-y-4 text-sm text-gray-300"
+    aria-live="polite"
+  >
+    <p class="text-gray-500" data-comments-empty>Loading comments…</p>
+  </div>
+
+  <!-- Compose form -->
+  <form
+    id="comment-form"
+    class="mt-8 space-y-3 rounded-xl border border-white/5 bg-bg-soft/40 p-5"
+    novalidate
+  >
+    <h3 class="m-0 text-base">Leave a comment</h3>
+    <p class="text-xs text-gray-500 mt-0">
+      All comments are reviewed before publishing. No email needed.
+    </p>
+
+    <div>
+      <label for="c-name" class="block text-sm font-medium text-gray-300">
+        Name <span class="text-gray-500">(optional)</span>
+      </label>
+      <input
+        type="text" id="c-name" name="name" maxlength="80" autocomplete="name"
+        class="mt-1 w-full rounded-lg border border-white/10 bg-bg px-3 py-2 text-gray-100 placeholder-gray-500 focus:border-primary-400 focus:outline-none focus:ring-1 focus:ring-primary-400"
+        placeholder="Anonymous"
+      />
+    </div>
+
+    <div>
+      <label for="c-content" class="block text-sm font-medium text-gray-300">
+        Comment <span class="text-red-400">*</span>
+      </label>
+      <textarea
+        id="c-content" name="content" rows="4" required minlength="3" maxlength="2000"
+        class="mt-1 w-full rounded-lg border border-white/10 bg-bg px-3 py-2 text-gray-100 placeholder-gray-500 focus:border-primary-400 focus:outline-none focus:ring-1 focus:ring-primary-400"
+        placeholder="Share a tip, correction, or build idea…"
+      ></textarea>
+    </div>
+
+    {turnstileSiteKey && (
+      <div class="cf-turnstile" data-sitekey={turnstileSiteKey} data-theme="dark"></div>
+    )}
+
+    <button
+      type="submit"
+      class="rounded-lg bg-primary-600 px-4 py-2 text-sm font-semibold text-white hover:bg-primary-500 disabled:cursor-not-allowed disabled:opacity-50"
+    >
+      Post comment
+    </button>
+    <p id="c-status" class="text-sm" role="status" aria-live="polite"></p>
+  </form>
+
+  {turnstileSiteKey && (
+    <script is:inline async defer
+      src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+    ></script>
+  )}
+</section>
+
+<script is:inline>
+  (function () {
+    const section = document.querySelector("[data-comment-section]");
+    if (!section) return;
+    const slug = section.getAttribute("data-article-slug");
+    const list = document.getElementById("comments-list");
+    const form = document.getElementById("comment-form");
+    const status = document.getElementById("c-status");
+
+    function relTime(ts) {
+      const diff = (Date.now() - new Date(ts).getTime()) / 1000;
+      if (diff < 60) return "just now";
+      if (diff < 3600) return Math.floor(diff / 60) + " min ago";
+      if (diff < 86400) return Math.floor(diff / 3600) + " hours ago";
+      if (diff < 86400 * 7) return Math.floor(diff / 86400) + " days ago";
+      return new Date(ts).toISOString().slice(0, 10);
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    async function loadComments() {
+      try {
+        const r = await fetch(
+          "/api/comments?article_slug=" + encodeURIComponent(slug),
+          { headers: { Accept: "application/json" } }
+        );
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const data = await r.json();
+        const items = (data.items || []).filter(
+          (c) => c.status === "approved" && c.article_slug === slug
+        );
+        if (items.length === 0) {
+          list.innerHTML =
+            '<p class="text-gray-500">No comments yet — be the first.</p>';
+          return;
+        }
+        list.innerHTML = items
+          .map(
+            (c) =>
+              '<article class="rounded-lg border border-white/5 bg-bg-soft/30 p-4">' +
+              '<header class="flex items-center justify-between text-xs text-gray-500">' +
+              '<span class="font-semibold text-gray-200">' +
+              escapeHtml(c.user_name || "Anonymous") +
+              "</span>" +
+              "<time>" +
+              relTime(c.created_at) +
+              "</time></header>" +
+              '<div class="mt-2 whitespace-pre-wrap text-gray-200">' +
+              escapeHtml(c.content) +
+              "</div></article>"
+          )
+          .join("");
+      } catch (e) {
+        list.innerHTML =
+          '<p class="text-gray-500">Comments could not load right now.</p>';
+      }
+    }
+    loadComments();
+
+    if (form) {
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const btn = form.querySelector('button[type="submit"]');
+        btn.disabled = true;
+        status.textContent = "Posting…";
+        status.className = "text-sm text-gray-300";
+
+        const fd = new FormData(form);
+        const payload = {
+          message_type: "comment",
+          article_slug: slug,
+          name: (fd.get("name") || "").toString().trim(),
+          content: (fd.get("content") || "").toString().trim(),
+          turnstile_token: (fd.get("cf-turnstile-response") || "").toString(),
+        };
+
+        try {
+          const r = await fetch("/api/comments", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+          });
+          const j = await r.json().catch(() => ({}));
+          if (r.ok && j.success) {
+            status.textContent =
+              "Thanks — your comment is awaiting review.";
+            status.className = "text-sm text-emerald-400";
+            form.reset();
+            if (window.turnstile) {
+              const el = form.querySelector(".cf-turnstile");
+              if (el) window.turnstile.reset(el);
+            }
+          } else {
+            status.textContent = j.error || "Submission failed.";
+            status.className = "text-sm text-red-400";
+          }
+        } catch (err) {
+          status.textContent = "Network error. Please retry.";
+          status.className = "text-sm text-red-400";
+        } finally {
+          btn.disabled = false;
+        }
+      });
+    }
+  })();
+</script>

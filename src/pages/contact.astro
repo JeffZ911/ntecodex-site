@@ -1,22 +1,127 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "";
 ---
 
-<BaseLayout title="Contact — NTE Codex" description="How to reach the NTE Codex team.">
+<BaseLayout
+  title="Contact — NTE Codex"
+  description="Send feedback, report errors, or request a takedown — your message reaches the editor through a moderated queue."
+>
   <h1>Contact</h1>
+
   <div class="prose-game max-w-prose">
     <p>
-      Found a factual error, a broken link, or content that needs taking down?
-      Drop us a line.
+      Got feedback, found a factual error, or need to request a takedown?
+      Leave a message below — it goes straight to the editor's review queue
+      and is read within a few days. No email address required.
     </p>
-    <ul>
-      <li><strong>General &amp; corrections:</strong> <a href="mailto:hello@ntecodex.com">hello@ntecodex.com</a></li>
-      <li><strong>Privacy / data requests:</strong> <a href="mailto:privacy@ntecodex.com">privacy@ntecodex.com</a></li>
-      <li><strong>DMCA / takedown:</strong> <a href="mailto:legal@ntecodex.com">legal@ntecodex.com</a></li>
-    </ul>
-    <p>
-      Please include the URL of the page in question and a short description.
-      We aim to respond within 3 business days.
+    <p class="text-sm text-gray-400">
+      For DMCA / takedown requests, please include the URL of the page in
+      question and a clear description of the issue.
     </p>
   </div>
+
+  <form
+    id="contact-form"
+    class="mt-6 max-w-prose space-y-4 rounded-xl border border-white/5 bg-bg-soft/40 p-5"
+    novalidate
+  >
+    <div>
+      <label for="name" class="block text-sm font-medium text-gray-300">
+        Name <span class="text-gray-500">(optional)</span>
+      </label>
+      <input
+        type="text" id="name" name="name" maxlength="80" autocomplete="name"
+        class="mt-1 w-full rounded-lg border border-white/10 bg-bg px-3 py-2 text-gray-100 placeholder-gray-500 focus:border-primary-400 focus:outline-none focus:ring-1 focus:ring-primary-400"
+        placeholder="Anonymous"
+      />
+    </div>
+
+    <div>
+      <label for="message" class="block text-sm font-medium text-gray-300">
+        Message <span class="text-red-400">*</span>
+      </label>
+      <textarea
+        id="message" name="message" rows="6" required minlength="10" maxlength="2000"
+        class="mt-1 w-full rounded-lg border border-white/10 bg-bg px-3 py-2 text-gray-100 placeholder-gray-500 focus:border-primary-400 focus:outline-none focus:ring-1 focus:ring-primary-400"
+        placeholder="What's on your mind?"
+      ></textarea>
+      <p class="mt-1 text-xs text-gray-500">10–2000 characters.</p>
+    </div>
+
+    {turnstileSiteKey && (
+      <div class="cf-turnstile" data-sitekey={turnstileSiteKey} data-theme="dark"></div>
+    )}
+
+    <button
+      type="submit"
+      class="rounded-lg bg-primary-600 px-5 py-2.5 font-semibold text-white shadow-glow-primary hover:bg-primary-500 disabled:cursor-not-allowed disabled:opacity-50"
+    >
+      Send message
+    </button>
+
+    <p id="contact-status" class="text-sm" role="status" aria-live="polite"></p>
+  </form>
+
+  <p class="mt-8 text-xs text-gray-500">
+    Submissions are reviewed before any publication. We retain your IP for 30 days
+    purely as an anti-abuse signal — see the <a href="/privacy">privacy policy</a>.
+  </p>
+
+  {turnstileSiteKey && (
+    <script is:inline async defer
+      src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+    ></script>
+  )}
+
+  <script is:inline>
+    (function () {
+      const form = document.getElementById("contact-form");
+      const status = document.getElementById("contact-status");
+      if (!form) return;
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const btn = form.querySelector('button[type="submit"]');
+        btn.disabled = true;
+        status.textContent = "Sending…";
+        status.className = "text-sm text-gray-300";
+
+        const fd = new FormData(form);
+        const payload = {
+          message_type: "contact",
+          article_slug: null,
+          name: (fd.get("name") || "").toString().trim(),
+          content: (fd.get("message") || "").toString().trim(),
+          turnstile_token: (fd.get("cf-turnstile-response") || "").toString(),
+        };
+
+        try {
+          const r = await fetch("/api/comments", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+          });
+          const j = await r.json().catch(() => ({}));
+          if (r.ok && j.success) {
+            status.textContent = "Thanks — your message is in the review queue.";
+            status.className = "text-sm text-emerald-400";
+            form.reset();
+            if (window.turnstile) {
+              const el = form.querySelector(".cf-turnstile");
+              if (el) window.turnstile.reset(el);
+            }
+          } else {
+            status.textContent = j.error || "Submission failed. Please try again.";
+            status.className = "text-sm text-red-400";
+          }
+        } catch (err) {
+          status.textContent = "Network error. Please retry.";
+          status.className = "text-sm text-red-400";
+        } finally {
+          btn.disabled = false;
+        }
+      });
+    })();
+  </script>
 </BaseLayout>
