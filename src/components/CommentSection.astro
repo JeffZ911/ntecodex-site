@@ -17,7 +17,11 @@ interface Props {
 }
 const { articleSlug } = Astro.props;
 
-const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "";
+// Turnstile site key is public — it's rendered into the DOM as a data
+// attribute and exposed to every visitor. Default it here so a build
+// without the env var still produces a working widget.
+const turnstileSiteKey =
+  import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "0x4AAAAAADM08-ygJBMR__JG";
 ---
 
 <section

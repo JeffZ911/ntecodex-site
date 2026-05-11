@@ -1,7 +1,10 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "";
+// Turnstile site key is public (visible in DOM). Default it here so a build
+// without the env var still wires the widget.
+const turnstileSiteKey =
+  import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || "0x4AAAAAADM08-ygJBMR__JG";
 ---
 
 <BaseLayout
