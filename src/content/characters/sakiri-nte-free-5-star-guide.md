@@ -37,7 +37,7 @@ Navigating the neon-soaked streets of Hethereau requires more than just raw powe
 
 ## Overview
 
-Sakiri is widely considered the top-tier recommendation for the free S-class selector given at launch. Unlike many standard characters who eventually fall off as limited banners introduce stronger DPS units, Sakiri functions as a universal buffer and the game's premier crowd control specialist. Her value lies not in her personal damage numbers, but in how she enables high-tier carries like Nanally to reach their maximum potential.
+Sakiri is widely considered the top-tier recommendation for the free S-class selector given at launch. Unlike many standard characters who eventually fall off as limited banners introduce stronger DPS units, Sakiri functions as a universal buffer and the game's premier crowd control specialist. Her value lies not in her personal damage numbers, but in how she enables high-tier carries like [Nanally](/characters/nanally-guide-nte/) to reach their maximum potential.
 
 Players can obtain Sakiri for free through two primary methods:
 1.  **The Standard Board Selector:** After performing 50 pulls on the "Strange Encounters" standard banner (which only costs 40 pulls due to the 20% beginner discount), you can choose one of the six standard S-class characters.

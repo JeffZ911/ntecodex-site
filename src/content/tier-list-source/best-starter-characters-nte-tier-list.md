@@ -17,7 +17,7 @@ Choosing the right team members in Hethereau can mean the difference between a s
 
 # Best Starter Characters in Neverness to Everness (NTE): Launch Tier List
 
-The launch of Neverness to Everness (NTE) introduces a diverse roster of characters, each utilizing unique elemental attributes like Anima, Cosmos, and Incantation. With the first limited banner featuring Nanally and the availability of a free S-Class Selector, making the right choice early on is vital for long-term account health. This guide breaks down the current meta to help you decide which characters deserve your resources and who should stay on the bench.
+The launch of Neverness to Everness (NTE) introduces a diverse roster of characters, each utilizing unique elemental attributes like Anima, Cosmos, and Incantation. With the first limited banner featuring [Nanally](/characters/nanally-guide-nte/) and the availability of a free S-Class Selector, making the right choice early on is vital for long-term account health. This guide breaks down the current meta to help you decide which characters deserve your resources and who should stay on the bench.
 
 ## Methodology
 
@@ -25,7 +25,7 @@ Ranking characters in NTE requires looking beyond simple damage numbers. Because
 
 *   **Combat Efficiency and Scaling:** We prioritize characters who maintain high DPS or utility as they level up. Characters that fall off in late-game Anomaly Commissions are ranked lower than those who scale with better gear.
 *   **Accessibility for F2P Players:** Special weight is given to characters available through progression, such as Chiz (unlocked via City Tycoon) and the protagonist, Esper Zero.
-*   **Synergy and Team Flexibility:** A character's ability to fit into multiple team archetypes is a major factor. Support units like Sakiri rank highly because they enhance almost any DPS they are paired with.
+*   **Synergy and Team Flexibility:** A character's ability to fit into multiple team archetypes is a major factor. Support units like [Sakiri](/characters/sakiri-nte-free-5-star-guide/) rank highly because they enhance almost any DPS they are paired with.
 *   **Investment Value:** This measures how well a character performs in the "Mind Royale" and other endgame modes where specialized builds are required.
 
 ### Tier List Overview: May 2026

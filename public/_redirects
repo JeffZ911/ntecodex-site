@@ -1,0 +1,5 @@
+# Legacy slug for the reroll guide — published briefly with the wrong path
+# before the publish-agent slug fix. 301 to canonical location so any
+# external links / cached SERP entries don't waste link equity.
+/guides/neverness-to-everness-reroll-guide        /guides/reroll/neverness-to-everness-reroll-guide/  301
+/guides/neverness-to-everness-reroll-guide/       /guides/reroll/neverness-to-everness-reroll-guide/  301

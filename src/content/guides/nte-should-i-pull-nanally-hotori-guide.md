@@ -39,7 +39,7 @@ With the supernatural streets of Hethereau finally open to the public, the first
 
 # Neverness to Everness: Should You Pull Nanally or Wait for Hotori?
 
-Deciding how to allocate your resources in the early days of a gacha game can define your experience for months to come. In *Neverness to Everness* (NTE), the stakes are slightly different than in other titles due to the unique "No 50/50" rule and the board-game-inspired Scarborough Fair system. Currently, players are faced with the debut of Nanally, a high-octane Plasma DPS, while the shadow of the time-manipulating Hotori looms just two weeks away.
+Deciding how to allocate your resources in the early days of a gacha game can define your experience for months to come. In *Neverness to Everness* (NTE), the stakes are slightly different than in other titles due to the unique "No 50/50" rule and the board-game-inspired Scarborough Fair system. Currently, players are faced with the debut of [Nanally](/characters/nanally-guide-nte/), a high-octane Plasma DPS, while the shadow of the time-manipulating Hotori looms just two weeks away.
 
 ## TL;DR Verdict
 
@@ -66,7 +66,7 @@ To help you visualize where these characters fit into the current NTE meta, here
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Nanally** | S-Rank | Anima | Plasma | Main DPS | High |
 | **Hotori** | S-Rank | Cosmos | Solid | DPS/Buff/CC | Very High |
-| **Sakiri** | S-Rank | Incantation | Incantation | Support/CC | Standard Pool |
+| **[Sakiri](/characters/sakiri-nte-free-5-star-guide/)** | S-Rank | Incantation | Incantation | Support/CC | Standard Pool |
 | **Jiuyuan** | S-Rank | Anima | Anima | Burst DPS | Standard Pool |
 | **Mint** | A-Rank | Anima | Anima | Sub-DPS/Support | Featured A-Rank |
 | **Adler** | A-Rank | Incantation | Incantation | Shielder | Featured A-Rank |

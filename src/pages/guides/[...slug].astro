@@ -19,6 +19,21 @@ export async function getStaticPaths() {
 interface Props { entry: CollectionEntry<"guides"> }
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+// Guides may live in subfolders (e.g. guides/reroll/). Slot the
+// subfolder name into the breadcrumb so /guides/reroll/<slug> reads
+// as Home > Guides > Reroll > <title>.
+const SUBFOLDER_LABELS: Record<string, string> = {
+  reroll: "Reroll",
+};
+const subKey = entry.slug.includes("/") ? entry.slug.split("/", 1)[0] : null;
+const subLabel = subKey ? SUBFOLDER_LABELS[subKey] : null;
+const crumbs = [
+  { href: "/", label: "Home" },
+  { href: "/guides", label: "Guides" },
+  ...(subLabel && subKey ? [{ href: `/guides/${subKey}`, label: subLabel }] : []),
+  { label: entry.data.title },
+];
 ---
 
 <ArticleLayout
@@ -30,11 +45,7 @@ const { Content } = await entry.render();
   heroImage={entry.data.hero_image}
   sources={entry.data.sources}
   slug={entry.slug}
-  crumbs={[
-    { href: "/", label: "Home" },
-    { href: "/guides", label: "Guides" },
-    { label: entry.data.title },
-  ]}
+  crumbs={crumbs}
 >
   <Content />
 </ArticleLayout>

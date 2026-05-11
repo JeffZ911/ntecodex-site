@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
 import TierTable from "../components/TierTable.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 
@@ -59,6 +60,7 @@ const jsonLd = {
   description="The complete Neverness to Everness tier list. Every Esper ranked S+ to C with role tags, build links and recent meta-shift commentary."
   jsonLd={jsonLd}
 >
+  <Breadcrumb crumbs={[{ href: "/", label: "Home" }, { label: "Tier List" }]} />
   <div class="mb-6">
     <h1 class="m-0">NTE Tier List</h1>
     <p class="mt-2 text-gray-400">

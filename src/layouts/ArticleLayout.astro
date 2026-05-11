@@ -3,6 +3,7 @@ import BaseLayout from "./BaseLayout.astro";
 import Breadcrumb from "../components/Breadcrumb.astro";
 import SourceList from "../components/SourceList.astro";
 import CommentSection from "../components/CommentSection.astro";
+import RelatedGuides from "../components/RelatedGuides.astro";
 
 interface Crumb { href?: string; label: string }
 interface Props {
@@ -74,6 +75,7 @@ const jsonLd = {
 
     <div class="min-w-0">
       <slot />
+      {slug && <RelatedGuides currentSlug={slug} articleType={articleType} />}
       <SourceList sources={sources} />
       {slug && <CommentSection articleSlug={slug} />}
     </div>

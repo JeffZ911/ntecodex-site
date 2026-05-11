@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumb from "../components/Breadcrumb.astro";
 
 const entries = await getCollection("faq-source");
 
@@ -36,6 +37,7 @@ const jsonLd = {
   description="Common questions about Neverness to Everness — pity system, banner schedule, gacha mechanics and more."
   jsonLd={jsonLd}
 >
+  <Breadcrumb crumbs={[{ href: "/", label: "Home" }, { label: "FAQ" }]} />
   <h1>Frequently Asked Questions</h1>
   <p class="text-gray-400 mt-2">{items.length} entr{items.length === 1 ? "y" : "ies"}.</p>
 

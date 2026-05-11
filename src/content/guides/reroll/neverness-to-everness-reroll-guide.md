@@ -1,6 +1,6 @@
 ---
 title: "Neverness to Everness Reroll Guide: Best Characters & How-To"
-slug: neverness-to-everness-reroll-guide
+slug: reroll/neverness-to-everness-reroll-guide
 article_type: reroll
 qa_score: 9.2
 word_count: 1883
@@ -27,14 +27,14 @@ Starting your journey in Hethereau with the right team can be the difference bet
 
 # Neverness to Everness Reroll Guide: The Ultimate Starter Strategy
 
-Rerolling in Neverness to Everness (NTE) is a highly effective strategy for players who want to start their adventure with the strongest possible roster. Since the game's release on April 29, 2026, the community has identified a specific "god start" that involves securing the limited S-Rank Nanally while using the standard selector to round out a meta-defining team. This guide covers everything you need to know to master the reroll process and which characters are worth the effort.
+Rerolling in Neverness to Everness (NTE) is a highly effective strategy for players who want to start their adventure with the strongest possible roster. Since the game's release on April 29, 2026, the community has identified a specific "god start" that involves securing the limited S-Rank [Nanally](/characters/nanally-guide-nte/) while using the standard selector to round out a meta-defining team. This guide covers everything you need to know to master the reroll process and which characters are worth the effort.
 
 ## Why Reroll
 
 While every character in NTE can eventually be leveled to clear content, the power gap between a standard starter and a "rerolled" account is significant. Rerolling allows you to bypass the early-game resource scarcity and jump straight into high-level exploration and Tycoon management.
 
 *   **Securing Nanally:** As the first limited S-Rank DPS, Nanally is the primary target for any serious reroll attempt. Her Plasma-element attacks and high raw damage scaling make her the best carry for the first several patches of the game.
-*   **Optimizing the Standard Selector:** NTE provides a character selector at 50 pulls on the "Strange Encounters" banner. Rerolling allows you to land an S-Rank naturally within your first 30–40 pulls, meaning you can save the selector for a synergy pick (like Sakiri for crowd control or Fadia for sustain) rather than using it on a "must-have" carry you missed.
+*   **Optimizing the Standard Selector:** NTE provides a character selector at 50 pulls on the "Strange Encounters" banner. Rerolling allows you to land an S-Rank naturally within your first 30–40 pulls, meaning you can save the selector for a synergy pick (like [Sakiri](/characters/sakiri-nte-free-5-star-guide/) for crowd control or Fadia for sustain) rather than using it on a "must-have" carry you missed.
 *   **Early Game Velocity:** Starting with a top-tier support like Sakiri or a burst DPS like Jiuyuan significantly speeds up Hethereau exploration and Tycoon Level progression. Faster clears mean faster access to the "Beyond the Rails" endgame mode.
 *   **Resource Conservation:** Getting your desired S-Rank early allows you to save your precious Annulith for future banners like Hotori (releasing May 13) or Lacrimosa.
 

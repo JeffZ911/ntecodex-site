@@ -32,7 +32,7 @@ This system raises several specific questions for the community:
 The Scarborough Fair system can look intimidating at first glance. Instead of a standard "pull" button, you roll dice to move a "Chuppa" piece across a board filled with various reward tiles. This lead to early confusion regarding whether "steps" on the board equaled "pulls" in the pity count. In NTE, every die used counts as one pull toward your pity milestones, regardless of where your Chuppa lands on the board.
 
 ### Defining Pity in the Context of Urban Open-World RPGs
-In gacha games, "pity" refers to the safety net that guarantees a high-rarity item after a certain number of unsuccessful attempts. In the context of NTE's urban setting, this system is designed to be more transparent and player-friendly than its competitors. By removing the "50/50" gamble and introducing a visual "Board Modification" at the soft pity mark, the game provides a clearer path to obtaining featured characters like Nanally or Hotori.
+In gacha games, "pity" refers to the safety net that guarantees a high-rarity item after a certain number of unsuccessful attempts. In the context of NTE's urban setting, this system is designed to be more transparent and player-friendly than its competitors. By removing the "50/50" gamble and introducing a visual "Board Modification" at the soft pity mark, the game provides a clearer path to obtaining featured characters like [Nanally](/characters/nanally-guide-nte/) or Hotori.
 
 [Infographic showing the 70-pull soft pity (Board Modification) and 90-pull hard pity for NTE characters.]
 
@@ -97,7 +97,7 @@ The Standard Board, which uses Solid Dice, offers a permanent "Beginner's Path" 
 *   **S-Class Selector:** Upon completing these 50 pulls, players can choose one S-class character from the standard pool.
 
 **Standard S-Class Selector Options:**
-*   **Sakiri:** A powerful DPS with supernatural fire abilities.
+*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide/):** A powerful DPS with supernatural fire abilities.
 *   **Daffodil:** A versatile support unit.
 *   **Baicang:** A tank-oriented character with high survivability.
 *   **Jiuyuan:** Focuses on crowd control and area-of-effect damage.

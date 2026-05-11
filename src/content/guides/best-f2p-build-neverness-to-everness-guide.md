@@ -49,7 +49,7 @@ The Elemental Lane consists of six core attributes: **Cosmos, Anima, Incantation
 
 ### The Power of Free S-Rank Characters
 
-You start with Zero, an S-Rank Cosmos unit with high versatility. However, the real game-changer for F2P players is the **S-Rank Selector Box**, typically awarded after 50 pulls on the standard banner. This allows you to hand-pick a meta-defining unit like Sakiri or Fadia to round out your free roster. Additionally, reaching Level 18 in the **City Tycoon** mode unlocks Chiz, arguably the strongest F2P-accessible main DPS in the game at launch.
+You start with Zero, an S-Rank Cosmos unit with high versatility. However, the real game-changer for F2P players is the **S-Rank Selector Box**, typically awarded after 50 pulls on the standard banner. This allows you to hand-pick a meta-defining unit like [Sakiri](/characters/sakiri-nte-free-5-star-guide/) or Fadia to round out your free roster. Additionally, reaching Level 18 in the **City Tycoon** mode unlocks Chiz, arguably the strongest F2P-accessible main DPS in the game at launch.
 
 ### F2P Character Roster
 

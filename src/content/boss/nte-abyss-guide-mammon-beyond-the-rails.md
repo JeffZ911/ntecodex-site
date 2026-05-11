@@ -85,7 +85,7 @@ Once your Lakshana and Cosmos characters have full meters, swap between them to 
 Use Lakshana-attribute skills during the golden flash windows. Characters like Hathor excel here, as their Lakshana damage is specifically tuned to shred the Break Gauge of anomalies like Mammon.
 
 ### Step 4: Maximizing the Stagger Window
-Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is your "Downed" window. Immediately swap to your Main DPS (such as Nanally) and unleash your Ultimate. 
+Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is your "Downed" window. Immediately swap to your Main DPS (such as [Nanally](/characters/nanally-guide-nte/)) and unleash your Ultimate. 
 *   **Rotation Tip:** Swap to Lakshana -> Trigger Remora -> Swap to Main DPS -> Use Ultimate.
 
 ### Step 5: Time Management in Beyond the Rails
@@ -104,7 +104,7 @@ Building a team around the **Lakshana Meta** is currently the most effective way
 ### F2P Alternative
 *   **Main DPS: Zero (Cosmos)** – While usually a battery, Zero can be built for damage in early Abyss Stops.
 *   **Weakness Breaker: Hathor (Lakshana)** – Even at base investment, her elemental advantage is too good to pass up.
-*   **Utility: Sakiri (Anima)** – Provides crowd control and helps trigger the Charge reaction for energy generation.
+*   **Utility: [Sakiri](/characters/sakiri-nte-free-5-star-guide/) (Anima)** – Provides crowd control and helps trigger the Charge reaction for energy generation.
 *   **Sustain: Edgar (Cosmos)** – The most accessible healer for high-difficulty content.
 
 ### Best Arcs for Bossing

@@ -2,6 +2,19 @@
 interface Crumb { href?: string; label: string }
 interface Props { crumbs: Crumb[] }
 const { crumbs } = Astro.props;
+
+// JSON-LD BreadcrumbList so Google can render breadcrumbs in SERP.
+const SITE = "https://ntecodex.com";
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: c.label,
+    ...(c.href ? { item: c.href.startsWith("http") ? c.href : SITE + c.href } : {}),
+  })),
+};
 ---
 
 <nav aria-label="Breadcrumb" class="mb-4 text-sm text-gray-400">
@@ -20,3 +33,4 @@ const { crumbs } = Astro.props;
     ))}
   </ol>
 </nav>
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
