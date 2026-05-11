@@ -1,17 +1,67 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+
+// Until we ship a real banner-schedule scraper, surface every article
+// tagged article_type='news' so the page stops looking empty.
+// (News articles include banner debut tracking, pull-strategy guides,
+// pity-transfer mechanics, etc. — see scripts/seed_banner_keywords.py.)
+const news = await getCollection("news").catch(() => []);
+const guides = await getCollection("guides");
+// Plus any guide whose title contains "banner" — cheap soft-match.
+const bannerGuides = guides.filter((g) =>
+  /banner/i.test(g.data.title || "") || /\bbanner\b/i.test(g.slug || "")
+);
+
+const items = [
+  ...news.map((e) => ({ ...e, href: `/news/${e.slug}/`, collection: "news" })),
+  ...bannerGuides.map((e) => ({ ...e, href: `/guides/${e.slug}/`, collection: "guides" })),
+].sort((a, b) => {
+  const da = a.data.published_at ? Date.parse(a.data.published_at) : 0;
+  const db = b.data.published_at ? Date.parse(b.data.published_at) : 0;
+  return db - da;
+});
 ---
 
 <BaseLayout
-  title="NTE Current Banner"
-  description="Currently active banners in Neverness to Everness."
-  noindex
+  title="NTE Current Banner Coverage"
+  description="The latest banner news, schedules and pull-strategy guides for Neverness to Everness."
 >
-  <h1>Current Banner</h1>
-  <div class="prose-game max-w-prose">
-    <p class="text-gray-400">
-      Banner tracking goes live once we ship the data collector — for now,
-      cross-reference the official launcher.
-    </p>
-  </div>
+  <Breadcrumb crumbs={[
+    { href: "/", label: "Home" },
+    { label: "Banners" },
+  ]} />
+
+  <h1 class="m-0">Current & Recent Banners</h1>
+  <p class="mt-2 text-gray-400">
+    Every banner-related article we've published. Pull strategy, pity mechanics,
+    debut tracking — all in one feed.
+  </p>
+
+  {items.length > 0 ? (
+    <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {items.map((e) => (
+        <ArticleCard
+          href={e.href}
+          title={e.data.title}
+          articleType={e.data.article_type}
+          qaScore={e.data.qa_score}
+          wordCount={e.data.word_count}
+          publishedAt={e.data.published_at}
+          heroImage={e.data.hero_image}
+        />
+      ))}
+    </div>
+  ) : (
+    <div class="mt-8 rounded-xl border border-white/5 bg-bg-soft/40 p-6">
+      <p class="text-gray-300 m-0">
+        Banner coverage is being built out — first articles drop within days.
+        Bookmark this page or check the
+        {" "}<a href="/guides" class="text-primary-300 hover:text-primary-200">guides feed</a>{" "}
+        in the meantime.
+      </p>
+    </div>
+  )}
 </BaseLayout>

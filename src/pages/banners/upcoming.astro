@@ -1,8 +1,22 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumb from "../../components/Breadcrumb.astro";
 ---
 
-<BaseLayout title="NTE Upcoming Banners" description="Confirmed upcoming banners." noindex>
+<BaseLayout
+  title="NTE Upcoming Banners"
+  description="Confirmed and rumored upcoming Neverness to Everness banners."
+>
+  <Breadcrumb crumbs={[
+    { href: "/", label: "Home" },
+    { href: "/banners/current", label: "Banners" },
+    { label: "Upcoming" },
+  ]} />
+
   <h1>Upcoming Banners</h1>
-  <p class="text-gray-400">Banner roadmap will land here once the data pipeline is wired.</p>
+  <p class="text-gray-400">
+    Roadmap coverage is rolling out — see
+    {" "}<a href="/banners/current" class="text-primary-300 hover:text-primary-200">current banners</a>{" "}
+    for the live feed.
+  </p>
 </BaseLayout>
