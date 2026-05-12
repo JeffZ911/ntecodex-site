@@ -1,5 +1,6 @@
 ---
 title: "Sakiri: Best Free 5-Star Character Guide | NTE"
+game: nte
 slug: sakiri-nte-free-5-star-guide
 article_type: character_db
 qa_score: 7.9

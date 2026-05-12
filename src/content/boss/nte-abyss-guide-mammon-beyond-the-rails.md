@@ -1,5 +1,6 @@
 ---
 title: "NTE Abyss Guide: How to Beat Mammon in Beyond the Rails"
+game: nte
 slug: nte-abyss-guide-mammon-beyond-the-rails
 article_type: boss_guide
 qa_score: 8.3

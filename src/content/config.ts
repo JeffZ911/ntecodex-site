@@ -11,6 +11,11 @@ const sourceSchema = z.union([
 // then exposes it as entry.slug).
 const baseFrontmatter = {
   title: z.string(),
+  // Multi-game tag (Phase 2.3, 2026-05-12). Backfilled to "nte" for
+  // every pre-pivot article. New articles inherit it from
+  // articles.outline.game (set by the orchestrator) → frontmatter via
+  // PublishAgent.
+  game: z.string().default("nte"),
   article_type: z.string(),
   qa_score: z.number().optional(),
   word_count: z.number().optional(),
@@ -19,6 +24,7 @@ const baseFrontmatter = {
   sources: z.array(sourceSchema).optional(),
   hero_image: z.string().optional(),
   inline_images: z.array(z.string()).optional(),
+  inline_image_sections: z.array(z.string()).optional(),
 };
 
 // Long-form article types live under their own folder.

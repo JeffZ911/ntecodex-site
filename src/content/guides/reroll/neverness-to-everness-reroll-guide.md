@@ -1,5 +1,6 @@
 ---
 title: "Neverness to Everness Reroll Guide: Best Characters & How-To"
+game: nte
 slug: reroll/neverness-to-everness-reroll-guide
 article_type: reroll
 qa_score: 9.2

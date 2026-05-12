@@ -36,10 +36,10 @@ const jsonLd = {
   datePublished: publishedAt,
   dateModified: publishedAt,
   // E-E-A-T-friendly independent-creator pattern: a named editorial Person
-  // as author, NTE Codex as a lightweight publisher Organization (no logo
+  // as author, Gacha Codex as a lightweight publisher Organization (no logo
   // / no address / no fictional corporate claim).
-  author: { "@type": "Person", name: "NTE Codex Editorial" },
-  publisher: { "@type": "Organization", name: "NTE Codex" },
+  author: { "@type": "Person", name: "Gacha Codex Editorial" },
+  publisher: { "@type": "Organization", name: "Gacha Codex" },
   description: description,
   ...(heroImage ? { image: heroImage } : {}),
 };

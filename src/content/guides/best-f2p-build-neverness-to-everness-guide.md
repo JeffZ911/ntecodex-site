@@ -1,5 +1,6 @@
 ---
 title: "Best F2P Build in Neverness to Everness: Top Teams & Arcs"
+game: nte
 slug: best-f2p-build-neverness-to-everness-guide
 article_type: build
 qa_score: 7.5

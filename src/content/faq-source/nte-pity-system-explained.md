@@ -1,5 +1,6 @@
 ---
 title: "NTE Pity System Explained: Neverness to Everness Gacha Guide"
+game: nte
 slug: nte-pity-system-explained
 article_type: faq
 qa_score: 7.5

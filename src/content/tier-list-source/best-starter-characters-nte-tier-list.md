@@ -1,5 +1,6 @@
 ---
 title: Best Starter Characters in Neverness to Everness (NTE) Tier List
+game: nte
 slug: best-starter-characters-nte-tier-list
 article_type: tier_list
 qa_score: 7.1

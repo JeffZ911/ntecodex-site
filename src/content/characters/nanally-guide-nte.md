@@ -1,5 +1,6 @@
 ---
 title: "Nanally Guide NTE: Best Build, Skills, and Teams"
+game: nte
 slug: nanally-guide-nte
 article_type: character_db
 qa_score: 8.3
