@@ -26,6 +26,35 @@
 
   a {
     @apply text-primary-300 hover:text-primary-200 underline-offset-2;
+    /* Long URLs (grounding redirects, share links, hash strings)
+       without whitespace blow out mobile viewports — break inside
+       the token instead of overflowing horizontally. */
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* Mobile-overflow guardrails for article body (P0 2026-05-13). Any
+     block can spill horizontally on a 375px viewport unless explicitly
+     contained: tables get their own scroll wrapper, pre/code wrap,
+     and unbroken URLs in bullets break inside the token. */
+  .prose-game table {
+    @apply block max-w-full overflow-x-auto;
+  }
+  .prose-game pre,
+  .prose-game code {
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+    max-width: 100%;
+  }
+  .prose-game img,
+  .prose-game video {
+    max-width: 100%;
+    height: auto;
+  }
+  .prose-game p,
+  .prose-game li {
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   h1 {
