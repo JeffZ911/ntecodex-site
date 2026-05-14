@@ -18,6 +18,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGah1G_7E1nffWRl4FnGTvBR8v5Y_Oe4SNp906YdzH5g1dGBDAPJ58gUzPqHV_vc5WO5QDEHX_D59DmypubGaFz14M4QMrpI2Afo1KaBA40_ZUfs-G2Bortq5C4oFyVCNJPd8aWnJ3SbHx3xXPFSEPE3w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEamFJbpO8-9LeHqnhQePaQNFJrsyJfQ9hK_f-ymve_8VmcyweC5YBo-bVHdncGXiIV1wQR0di7qY5ueVRd6E8W8rXrzzQHs1Dd9m-GLpfi-Sa8rUBgUQG60NhE5SxjTMxC-oQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA5LKFzV-M4oe0VeGvzCUBIHJQDUBh1vj37u0A-yKuI_Z-KqmCAq-npA-VgOs9FL8mV5c9AHHIBarovb6qP5MRAniYpQ8cSzw-z4KHFXfTGmR8oe_W1UwfPp6tQmQsIno9MPQ="
+hero_image: /img/how-to-get-more-primogems-fast-genshin-impact/hero.webp
+inline_images:
+  - /img/how-to-get-more-primogems-fast-genshin-impact/inline-1.webp
+  - /img/how-to-get-more-primogems-fast-genshin-impact/inline-2.webp
+  - /img/how-to-get-more-primogems-fast-genshin-impact/inline-3.webp
+  - /img/how-to-get-more-primogems-fast-genshin-impact/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 With a new character banner always on the horizon, every Traveler needs to know how to maximize their pull currency without reaching for a credit card.
@@ -28,6 +39,9 @@ Efficiency is the name of the game when it comes to gathering Primogems in Teyva
 
 ## Question Restated
 
+![Question Restated](/img/how-to-get-more-primogems-fast-genshin-impact/inline-1.webp)
+
+
 When players ask how to get Primogems fast, they are usually looking for three specific things:
 
 *   **What are the fastest ways to accumulate Primogems for limited-time banners?** Players often need a "burst" of income when a surprise rerun or a highly anticipated new character is announced.
@@ -35,6 +49,9 @@ When players ask how to get Primogems fast, they are usually looking for three s
 *   **Which activities provide the highest 'gems-per-hour' ratio for new and veteran players?** Time is a limited resource, so focusing on high-density reward areas like Archon Quests and specific exploration zones is a priority.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-to-get-more-primogems-fast-genshin-impact/inline-2.webp)
+
 
 The fastest way to get Primogems in Genshin Impact is a combination of Daily Commissions (60 per day), Limited-Time Events (averaging 1,200+ per patch), and clearing the Spiral Abyss and Imaginarium Theater (up to 1,800 combined per month). For immediate "burst" income, players should focus on Archon Quests, which now offer a 500-Primogem time-limited bonus, and high-density exploration in regions like Natlan and Nod-Krai using Treasure Compasses.
 
@@ -56,6 +73,9 @@ Additionally, always redeem active promo codes from version livestreams and part
 *Note: This table excludes limited-time events, which typically add another 1,200 to 2,000 Primogems per version cycle.*
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-get-more-primogems-fast-genshin-impact/inline-3.webp)
+
 
 To farm Primogems effectively, you must distinguish between renewable (recurring) and non-renewable (one-time) sources. Renewable sources provide the foundation of your long-term savings, while non-renewable sources are your "emergency funds" for hitting pity on a specific banner.
 
@@ -122,6 +142,9 @@ External sources are the lowest effort way to farm.
 For players willing to spend a small amount, the **Blessing of the Welkin Moon** is the gold standard for value. It provides 3,000 Primogems over 30 days for $4.99, which is a 600% value increase over buying Genesis Crystals directly. The **Battle Pass (Gnostic Hymn)** provides 680 Primogems and 4 Intertwined Fates, but its primary value lies in the massive amount of leveling resources it provides, allowing you to focus your resin on other activities.
 
 ## Related
+
+![Related](/img/how-to-get-more-primogems-fast-genshin-impact/inline-4.webp)
+
 
 Understanding how to spend your Primogems is just as important as knowing how to get them.
 
