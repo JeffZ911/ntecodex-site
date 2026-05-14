@@ -8,6 +8,17 @@ word_count: 1722
 published_at: "2026-05-13T02:35:05.295367+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-to-get-more-astrites-wuthering-waves/hero.webp
+inline_images:
+  - /img/how-to-get-more-astrites-wuthering-waves/inline-1.webp
+  - /img/how-to-get-more-astrites-wuthering-waves/inline-2.webp
+  - /img/how-to-get-more-astrites-wuthering-waves/inline-3.webp
+  - /img/how-to-get-more-astrites-wuthering-waves/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Maximizing your currency income is the most important part of building a powerful team of Resonators in Wuthering Waves. This guide provides every reliable method to secure more Astrites, ensuring you never miss a limited-time banner.
@@ -18,6 +29,9 @@ Maximizing your currency income is the most important part of building a powerfu
 
 ## Question Restated
 
+![Question Restated](/img/how-to-get-more-astrites-wuthering-waves/inline-1.webp)
+
+
 Players often ask what the most efficient ways to farm Astrites are in Wuthering Waves. Because the game features a pity system for its limited banners, understanding how to maximize your income is the difference between securing a 5-star character and missing out.
 
 Free-to-play (F2P) players need to focus on both daily consistency and long-term exploration. While many sources provide a one-time influx of currency, such as the Main Quest and regional exploration, other modes offer recurring rewards that reset periodically. Identifying which modes reset—like the Tower of Adversity and the Depths of Illusive Realm—is the key to a sustainable Astrite income.
@@ -25,6 +39,9 @@ Free-to-play (F2P) players need to focus on both daily consistency and long-term
 This guide covers every available avenue for gathering Astrites, from the initial "honeymoon" phase of exploration to the rigorous endgame grind.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-to-get-more-astrites-wuthering-waves/inline-2.webp)
+
 
 Astrites serve as the primary premium currency in Wuthering Waves. You use them to purchase Tides, which are the items required to perform "Convenes" (pulls) on the game's various banners. The standard conversion rate is 160 Astrites for one Tide.
 
@@ -43,6 +60,9 @@ The following table summarizes the primary Astrite sources available in the game
 | **Periodic** | Depths of Illusive Realm | 1000+ per major update | Per Update |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-get-more-astrites-wuthering-waves/inline-3.webp)
+
 
 ### Daily Activity and the Guidebook
 
@@ -130,6 +150,9 @@ For players willing to spend a small amount of money, there are two high-efficie
 2.  **Pioneer Podcast:** This is the Wuthering Waves Battle Pass. The paid "Insider Channel" provides a mix of Astrites and Radiant Tides, along with a massive amount of character development resources.
 
 ## Related
+
+![Related](/img/how-to-get-more-astrites-wuthering-waves/inline-4.webp)
+
 
 ### What to Spend Astrites On
 
