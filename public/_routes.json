@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "description": "Force CF Pages to use built static files and 404.html — disable SPA fallback. Only /api/* hits Pages Functions; everything else is static or 404.",
+  "include": ["/api/*"],
+  "exclude": ["/*"]
+}

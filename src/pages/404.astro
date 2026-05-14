@@ -1,0 +1,44 @@
+---
+// P0 fix (2026-05-13): explicit 404 page so Cloudflare Pages stops doing
+// SPA-fallback-to-index for missing routes.
+//
+// Why this is critical: without a 404.html in dist/, CF Pages was serving
+// the homepage HTML for any unmatched URL (e.g. /guides/how-to-build-anby-
+// demara-zzz/ before that article was committed). Googlebot then sees the
+// homepage at 200 OK under dozens of distinct URLs → soft-404 + duplicate-
+// content signals → indexing collapses.
+//
+// Astro builds this file to dist/404.html. CF Pages serves that file with
+// a real 404 status for any path that isn't a built static asset.
+
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout
+  title="Not found — Gacha Codex"
+  description="The page you were looking for doesn't exist."
+>
+  <section class="mx-auto max-w-2xl px-4 py-16 text-center">
+    <p class="text-sm uppercase tracking-wider text-zinc-500">404</p>
+    <h1 class="mt-2 text-3xl font-semibold text-zinc-100">
+      That page hasn't shipped yet.
+    </h1>
+    <p class="mt-4 text-zinc-400">
+      The URL you opened doesn't match any guide on Gacha Codex. It may
+      have been renamed, or the article hasn't been generated yet.
+    </p>
+    <div class="mt-8 flex justify-center gap-3">
+      <a
+        href="/"
+        class="rounded-md bg-emerald-500/15 px-4 py-2 text-emerald-300 hover:bg-emerald-500/25"
+      >
+        Home
+      </a>
+      <a
+        href="/guides"
+        class="rounded-md border border-zinc-700 px-4 py-2 text-zinc-200 hover:bg-zinc-800"
+      >
+        All guides
+      </a>
+    </div>
+  </section>
+</BaseLayout>
