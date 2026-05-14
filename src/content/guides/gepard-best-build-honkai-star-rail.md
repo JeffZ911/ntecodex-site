@@ -8,6 +8,21 @@ word_count: 2470
 published_at: "2026-05-14T05:47:25.252262+00:00"
 published_url: /guides/gepard-best-build-honkai-star-rail
 sources: []
+hero_image: /img/gepard-best-build-honkai-star-rail/hero.webp
+inline_images:
+  - /img/gepard-best-build-honkai-star-rail/inline-1.webp
+  - /img/gepard-best-build-honkai-star-rail/inline-2.webp
+  - /img/gepard-best-build-honkai-star-rail/inline-3.webp
+  - /img/gepard-best-build-honkai-star-rail/inline-4.webp
+  - /img/gepard-best-build-honkai-star-rail/inline-5.webp
+  - /img/gepard-best-build-honkai-star-rail/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 As a stalwart protector of Belobog and a cornerstone of any high-durability team, Gepard remains one of the most reliable solo-sustain units in the game. This guide provides everything needed to optimize his build, ensuring your party stays behind an impenetrable wall of ice.
@@ -19,6 +34,9 @@ As a stalwart protector of Belobog and a cornerstone of any high-durability team
 Gepard Landau is the Captain of the Silvermane Guards and a 5-star Ice character following the Path of Preservation. While many newer sustain units have been introduced, Gepard’s ability to provide a massive, team-wide shield through his Ultimate makes him a unique asset for players tackling difficult endgame content like Memory of Chaos and Pure Fiction. Unlike other Preservation units that rely on damage reduction or single-target shields, Gepard focuses on raw defensive stats to absorb incoming damage for the entire party.
 
 ## Overview
+
+![Overview](/img/gepard-best-build-honkai-star-rail/inline-1.webp)
+
 
 Gepard serves as a "pure tank." His kit is designed around high survivability and crowd control. His primary value is his Ultimate, "Vow of Protection," which applies a shield to all allies for three turns. Because this shield scales directly with Gepard's DEF stat, building him involves stacking as much Defense as possible while maintaining enough Speed to refresh the shield before it expires.
 
@@ -51,6 +69,9 @@ His Freeze mechanic serves as a secondary layer of defense. By freezing an elite
 
 ## Best Weapons
 
+![Best Weapons](/img/gepard-best-build-honkai-star-rail/inline-2.webp)
+
+
 Selecting the right Light Cone for Gepard is a balance between increasing his DEF and managing enemy aggro. Since Gepard has a naturally high Taunt value, Light Cones that further increase the likelihood of him being attacked are beneficial, as they help him generate Energy faster.
 
 ### Top 5-Star Light Cones
@@ -76,6 +97,9 @@ Selecting the right Light Cone for Gepard is a balance between increasing his DE
 | Trend of the Universal Market | 4-Star | DEF% & Burn Debuff | Essential for Acheron teams to generate stacks. |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/gepard-best-build-honkai-star-rail/inline-3.webp)
+
 
 To maximize Gepard’s utility, you must focus on the Knight of Purity Palace set. Currently, no other relic set provides the same level of direct synergy with his kit.
 
@@ -106,6 +130,9 @@ Gepard’s stat requirements are strict. You need enough Speed to act often, eno
 
 ## Team Comp
 
+![Team Comp](/img/gepard-best-build-honkai-star-rail/inline-4.webp)
+
+
 Gepard is a flexible unit that can fit into almost any team needing a sustain. However, he has specific synergies that elevate him from a "good tank" to a "best-in-slot" partner.
 
 ### The Yanqing-Gepard Core
@@ -135,6 +162,9 @@ In this team, Gepard uses his Basic ATK most of the time to generate Skill Point
 
 ## Rotation
 
+![Rotation](/img/gepard-best-build-honkai-star-rail/inline-5.webp)
+
+
 Mastering Gepard requires understanding the rhythm of combat. He is a Skill Point (SP) positive character, meaning he usually generates more points than he consumes.
 
 ### Pre-battle: Technique
@@ -160,6 +190,9 @@ The most common mistake with Gepard is "over-shielding." Do not immediately pres
 5.  **Repeat:** Maintain the 3-turn rotation of Basic ATKs while monitoring the shield duration on your teammates.
 
 ## FAQ
+
+![FAQ](/img/gepard-best-build-honkai-star-rail/inline-6.webp)
+
 
 ### Is Gepard's E1 worth it?
 Yes, Gepard’s first Eidolon (E1) is one of the best in the game for a standard character. It increases the base chance of his Skill to Freeze enemies by an additional 35%, bringing the total base chance to 100%. This allows him to reliably lock down bosses, provided you have a decent amount of Effect Hit Rate from your gear.

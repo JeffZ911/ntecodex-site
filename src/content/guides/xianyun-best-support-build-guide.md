@@ -8,6 +8,21 @@ word_count: 2191
 published_at: "2026-05-14T01:51:47.806900+00:00"
 published_url: /guides/xianyun-best-support-build-guide
 sources: []
+hero_image: /img/xianyun-best-support-build-guide/hero.webp
+inline_images:
+  - /img/xianyun-best-support-build-guide/inline-1.webp
+  - /img/xianyun-best-support-build-guide/inline-2.webp
+  - /img/xianyun-best-support-build-guide/inline-3.webp
+  - /img/xianyun-best-support-build-guide/inline-4.webp
+  - /img/xianyun-best-support-build-guide/inline-5.webp
+  - /img/xianyun-best-support-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Xianyun, the human form of the Adeptus Cloud Retainer, has transformed the tactical landscape of Genshin Impact by making plunge attacks a viable playstyle for every character in the game. This guide provides a detailed breakdown of the best weapons, artifacts, and team compositions to maximize her potential as a premier Anemo support.
@@ -17,6 +32,9 @@ Xianyun, the human form of the Adeptus Cloud Retainer, has transformed the tacti
 
 
 ## Overview
+
+![Overview](/img/xianyun-best-support-build-guide/inline-1.webp)
+
 
 Xianyun is a 5-star Anemo Catalyst user who first appeared in Version 4.4. While she is known in Liyue lore as the haughty yet caring Cloud Retainer, her gameplay role is that of a highly specialized support and healer. Her primary contribution to a team is her ability to enable high-jumping for active characters, allowing anyone—from Diluc to Hu Tao—to perform plunging attacks that were previously restricted to specific characters like Xiao or niche mechanics like "Dragonstriking."
 
@@ -57,6 +75,9 @@ In the current meta, Xianyun occupies a unique niche as a "Plunge Enabler." Befo
 
 ## Best Weapons
 
+![Best Weapons](/img/xianyun-best-support-build-guide/inline-2.webp)
+
+
 Choosing the right weapon for Xianyun involves balancing her high Energy Recharge (ER) requirements with her need for high Base ATK. Because her A4 passive buff scales off her total ATK, weapons with high base stats and ATK% substats are generally preferred, provided you can meet her ER targets through artifacts.
 
 ### Top Tier: 5-Star Options
@@ -92,6 +113,9 @@ The Fontaine craftable catalyst is a solid F2P option if you missed Oathsworn Ey
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/xianyun-best-support-build-guide/inline-3.webp)
+
+
 Xianyun's artifact choices are flexible depending on the team composition. Because she is an Anemo catalyst user, she can easily trigger the Viridescent Venerer set, but she also has access to newer sets designed for healers.
 
 ### Recommended Artifact Sets
@@ -125,6 +149,9 @@ Xianyun’s Burst is expensive. Failing to have it ready every rotation severely
 *   **Triple Anemo (Xiao + Faruzan):** 130% – 150% ER.
 
 ## Team Comp
+
+![Team Comp](/img/xianyun-best-support-build-guide/inline-4.webp)
+
 
 Xianyun's arrival has created several "Premium" teams that sit at the top of the current meta. Her ability to facilitate plunging allows characters with high plunging multipliers to shine.
 
@@ -164,6 +191,9 @@ For Hu Tao, plunging allows her to bypass the stamina issues associated with her
 
 ## Rotation
 
+![Rotation](/img/xianyun-best-support-build-guide/inline-5.webp)
+
+
 To maximize Xianyun's buffs and ensure her Burst is active for the full duration of your DPS's field time, follow a strict rotation.
 
 ### Standard Support Rotation
@@ -179,6 +209,9 @@ Xianyun can use her Skill up to three times in the air. However, for support rol
 Xianyun's Burst lasts for 16 seconds, which is quite long. However, the "Adeptal Assistance" stacks (the jumps) are limited to 8. If you are playing a character with very fast plunges, be mindful of the stack count. In Xiao teams, ensure you are using his Burst after Xianyun's to cover his entire 15-second duration.
 
 ## FAQ
+
+![FAQ](/img/xianyun-best-support-build-guide/inline-6.webp)
+
 
 ### Is Xianyun better than Jean?
 In most scenarios involving Furina, Xianyun is superior. While Jean provides a massive "instant" heal, Xianyun provides continuous team-wide healing and the ability to shred RES with VV while also buffing plunging damage. Jean is only preferred if you specifically need her "Sunfire" interaction with Bennett or if you do not care about plunging attacks at all.

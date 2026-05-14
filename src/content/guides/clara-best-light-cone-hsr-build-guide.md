@@ -8,6 +8,21 @@ word_count: 2125
 published_at: "2026-05-14T04:50:30.741158+00:00"
 published_url: /guides/clara-best-light-cone-hsr-build-guide
 sources: []
+hero_image: /img/clara-best-light-cone-hsr-build-guide/hero.webp
+inline_images:
+  - /img/clara-best-light-cone-hsr-build-guide/inline-1.webp
+  - /img/clara-best-light-cone-hsr-build-guide/inline-2.webp
+  - /img/clara-best-light-cone-hsr-build-guide/inline-3.webp
+  - /img/clara-best-light-cone-hsr-build-guide/inline-4.webp
+  - /img/clara-best-light-cone-hsr-build-guide/inline-5.webp
+  - /img/clara-best-light-cone-hsr-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Clara and Svarog remain one of the most unique and enduring duos in Honkai: Star Rail’s meta, offering a reactive playstyle that turns enemy aggression into massive Physical damage. Choosing the right equipment for this pair is essential, as her performance scales drastically with her ability to draw fire and retaliate with Svarog’s powerful follow-up attacks.
@@ -17,6 +32,9 @@ Clara and Svarog remain one of the most unique and enduring duos in Honkai: Star
 
 
 ## Overview
+
+![Overview](/img/clara-best-light-cone-hsr-build-guide/inline-1.webp)
+
 
 Clara is a 5-star Physical character following the Path of Destruction. Unlike traditional damage dealers who rely on high Speed to take as many turns as possible, Clara thrives on the enemy's turn. Her kit is built entirely around Svarog’s "Mark of Counter," a mechanic that triggers a powerful follow-up attack whenever Clara or her allies (under the effects of her Ultimate) are struck by an opponent.
 
@@ -45,6 +63,9 @@ Clara’s gameplay revolves around the Talent "Because We're Family." When Clara
 Aggro determines the likelihood of a character being targeted. As a Destruction unit, Clara has a base Taunt value of 125, which is higher than Hunt or Erudition characters but lower than Preservation units. To maximize Svarog's counters, you must inflate this number through her Ultimate, specific Light Cones, or teammate abilities. Without high aggro, Clara becomes a passive observer rather than a carry.
 
 ## Best Weapons
+
+![Best Weapons](/img/clara-best-light-cone-hsr-build-guide/inline-2.webp)
+
 
 The Light Cone selection for Clara has evolved significantly since the game's launch. While her signature weapon remains a solid choice, newer options designed for follow-up attackers have pushed her damage ceiling even higher.
 
@@ -84,6 +105,9 @@ Testing indicates that an S5 *On the Fall of an Aeon* generally performs within 
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/clara-best-light-cone-hsr-build-guide/inline-3.webp)
+
+
 Selecting the right Relics for Clara involves maximizing her Physical damage and ensuring she has enough Crit consistency to make every Svarog swing count.
 
 ### Best Relic Sets for Physical DMG
@@ -118,6 +142,9 @@ Clara is one of the few DPS units where **Speed is a detriment**. If Clara is to
 
 ## Team Comp
 
+![Team Comp](/img/clara-best-light-cone-hsr-build-guide/inline-4.webp)
+
+
 Clara’s performance is heavily dependent on her teammates providing the energy, aggro, and damage amplification she needs to shine.
 
 ### The Premium Follow-Up Attack Team
@@ -144,6 +171,9 @@ Lynx’s Skill, "Salt-and-Pepper Pill," increases the Max HP of Destruction or P
 
 ## Rotation
 
+![Rotation](/img/clara-best-light-cone-hsr-build-guide/inline-5.webp)
+
+
 Mastering Clara requires understanding the timing of her Ultimate, "Promise, Not Command." This ability reduces damage taken by Clara and enhances the next two counters launched by Svarog. These enhanced counters trigger even if an *ally* is hit, and they deal splash damage to adjacent targets.
 
 ### Ultimate Timing and Energy Management
@@ -163,6 +193,9 @@ With Tingyun’s Ultimate (50 Energy) and a few hits from enemies, Clara can com
 In most scenarios, Clara should use her Skill every turn if Skill Points (SP) allow. Her Skill deals significant AoE damage and benefits from the "Mark of Counter." However, if you are running an SP-hungry support like Bronya or Sparkle, Clara is perfectly capable of playing SP-neutral (alternating Skill and Basic) or even SP-positive, as the majority of her damage comes from Svarog's out-of-turn counters.
 
 ## FAQ
+
+![FAQ](/img/clara-best-light-cone-hsr-build-guide/inline-6.webp)
+
 
 **Should I use Speed or ATK boots on Clara?**
 ATK boots are almost always better. High Speed causes Clara to "run out" of her Ultimate buffs and Robin’s buffs too quickly. By staying slow, she remains under the protection of her damage reduction for more enemy attacks.

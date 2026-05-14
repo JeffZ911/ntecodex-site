@@ -8,6 +8,21 @@ word_count: 1828
 published_at: "2026-05-14T05:47:27.534789+00:00"
 published_url: /guides/best-support-build-nte
 sources: []
+hero_image: /img/best-support-build-nte/hero.webp
+inline_images:
+  - /img/best-support-build-nte/inline-1.webp
+  - /img/best-support-build-nte/inline-2.webp
+  - /img/best-support-build-nte/inline-3.webp
+  - /img/best-support-build-nte/inline-4.webp
+  - /img/best-support-build-nte/inline-5.webp
+  - /img/best-support-build-nte/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Maximizing team-wide damage and survivability in Neverness to Everness (NTE) requires a deep understanding of how support characters manipulate the Esper Cycle and the break system. While high-tier DPS units like [Nanally](/characters/nanally-guide-nte) often take the spotlight, the effectiveness of any build is ultimately determined by the buffers and sustain units that enable them to perform.
@@ -15,6 +30,9 @@ Maximizing team-wide damage and survivability in Neverness to Everness (NTE) req
 # Best Support Build in Neverness to Everness (NTE)
 
 ## Overview
+
+![Overview](/img/best-support-build-nte/inline-1.webp)
+
 
 Support characters in Neverness to Everness are the backbone of any successful squad, particularly when tackling high-level Hethereau anomalies or timed challenges in the urban landscape. Unlike damage dealers who focus on personal output, supports are categorized into three distinct functional roles. Buffers like [Sakiri](/characters/sakiri-nte-free-5-star-guide) and Haniel focus on increasing the ATK and DMG percentages of the active character. Sustain units, including Fadia and Adler, provide the healing and shielding necessary to survive aggressive enemy patterns. Finally, Cyclers like Esper Zero focus on energy regeneration, ensuring the team can trigger the Esper Cycle as frequently as possible.
 
@@ -38,6 +56,9 @@ The current roster offers a variety of support options depending on your current
 
 ## Best Weapons
 
+![Best Weapons](/img/best-support-build-nte/inline-2.webp)
+
+
 In Neverness to Everness, weapons are referred to as Arcs. For support units, the choice of Arc is rarely about the weapon's base attack power. Instead, you must look at the passive effects that trigger when the character is off-field or when they use their ultimate. The goal is to select an Arc that provides a team-wide benefit, such as an ATK percentage increase or a boost to the team's energy regeneration.
 
 ### Top S-Rank Arcs for Buffers
@@ -59,6 +80,9 @@ Free-to-play players have excellent options in the B-Rank and A-Rank categories.
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/best-support-build-nte/inline-3.webp)
+
+
 The gear system in NTE utilizes "Cartridges" which are slotted into a character's Console. These function as the primary way to customize stats. For supports, the set bonuses provided by 2-piece and 4-piece configurations are more important than the raw stats of the individual Cartridges.
 
 ### The Speedy Hedgehog Meta
@@ -78,6 +102,9 @@ While Speedy Hedgehog is the general choice, specific characters benefit from mo
 *   **Sub-stats:** Charge Efficiency > HP% > ATK% > Flat HP
 
 ## Team Comp
+
+![Team Comp](/img/best-support-build-nte/inline-4.webp)
+
 
 A support build is only as good as the team it enables. In NTE, team composition revolves around elemental reactions and the synergy between the Main DPS and their enablers.
 
@@ -108,6 +135,9 @@ This team focuses on high Break damage and triggering "Nova" reactions. Haniel p
 
 ## Rotation
 
+![Rotation](/img/best-support-build-nte/inline-5.webp)
+
+
 The order in which you use your skills is critical. A common mistake is swapping to the Main DPS before the support buffs have been fully applied, leading to a significant loss in potential damage.
 
 ### Optimizing the Esper Cycle
@@ -125,6 +155,9 @@ A standard rotation for a high-end support team, specifically the Nanally-Sakiri
 One of the most frequent errors is using a healer's Ultimate when the team is at full health just to trigger a buff. If you are using Fadia, it is often better to save the Ultimate for emergency recovery unless you are certain you can recharge it before the next major boss mechanic. Additionally, ensure that you are holding Sakiri's skill rather than just tapping it; the hold version provides significantly better grouping, which is essential for maximizing the efficiency of Nanally's attacks.
 
 ## FAQ
+
+![FAQ](/img/best-support-build-nte/inline-6.webp)
+
 
 **Who is the best healer in NTE?**
 Fadia is currently the only pure healer in the game. While other characters have minor self-sustain, Fadia is the only one capable of healing the entire party reliably. However, many high-level players prefer Adler for his superior shielding, which prevents damage from occurring in the first place.

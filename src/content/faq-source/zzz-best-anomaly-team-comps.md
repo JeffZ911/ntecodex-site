@@ -8,6 +8,17 @@ word_count: 2031
 published_at: "2026-05-14T04:50:31.126023+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/zzz-best-anomaly-team-comps/hero.webp
+inline_images:
+  - /img/zzz-best-anomaly-team-comps/inline-1.webp
+  - /img/zzz-best-anomaly-team-comps/inline-2.webp
+  - /img/zzz-best-anomaly-team-comps/inline-3.webp
+  - /img/zzz-best-anomaly-team-comps/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Mastering the elemental chaos of New Eridu requires more than just raw power; it demands a deep understanding of how different attributes collide to create devastating reactions.
@@ -17,6 +28,9 @@ Mastering the elemental chaos of New Eridu requires more than just raw power; it
 
 
 ## Question Restated
+
+![Question Restated](/img/zzz-best-anomaly-team-comps/inline-1.webp)
+
 
 As Zenless Zone Zero (ZZZ) evolves, the meta has shifted significantly from the early days of simple Attack and Stun compositions. While traditional teams rely on stunning an enemy to deal burst damage during a window of vulnerability, Anomaly teams operate on a different rhythm. These compositions focus on rapidly filling the Anomaly Buildup bars of enemies to trigger elemental effects like Burn, Shock, or Assault.
 
@@ -36,6 +50,9 @@ Anomaly teams are built around Agents belonging to the Anomaly Fighting Style. U
 Disorder is the "reaction" of Zenless Zone Zero. When you apply a new Attribute Anomaly to an enemy already suffering from a different one, the existing Anomaly is consumed instantly. This triggers "Disorder," which deals a massive chunk of damage based on a multiplier of the remaining damage the previous Anomaly would have dealt. This allows for "bursting" damage that is usually spread out over 10 seconds into a single frame, making it the most efficient way to clear high-HP bosses.
 
 ## Direct Answer
+
+![Direct Answer](/img/zzz-best-anomaly-team-comps/inline-2.webp)
+
 
 The current landscape of Zenless Zone Zero favors multi-element Anomaly setups that can cycle through Disorder triggers every few seconds. While single-element teams are viable for specific elemental weaknesses, the highest damage ceilings are found in dual-element "Disorder" compositions.
 
@@ -60,6 +77,9 @@ F2P players should not feel left out, as Piper remains one of the most effective
 [Infographic showing the five elemental anomalies (Burn, Shock, Freeze, Corruption, Assault) and the Disorder trigger icon.]
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/zzz-best-anomaly-team-comps/inline-3.webp)
+
 
 To truly master Anomaly team comps, one must understand the underlying math that separates a mediocre build from a meta-defining one. The two most important stats for any Anomaly Agent are Anomaly Mastery and Anomaly Proficiency.
 
@@ -116,6 +136,9 @@ Optimizing gear is non-negotiable for high-level Shiyu Defense.
 | Grace | Electric | Fast Builder | Anomaly Mastery > Proficiency |
 
 ## Related
+
+![Related](/img/zzz-best-anomaly-team-comps/inline-4.webp)
+
 
 Understanding how Anomaly teams compare to other styles is vital for long-term account planning.
 

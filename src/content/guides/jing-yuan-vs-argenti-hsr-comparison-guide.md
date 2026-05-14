@@ -8,6 +8,17 @@ word_count: 1869
 published_at: "2026-05-14T01:51:47.493930+00:00"
 published_url: /guides/jing-yuan-vs-argenti-hsr-comparison-guide
 sources: []
+hero_image: /img/jing-yuan-vs-argenti-hsr-comparison-guide/hero.webp
+inline_images:
+  - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-1.webp
+  - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-2.webp
+  - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-3.webp
+  - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the Arbiter-General of the Xianzhou Luofu and the Knight of Beauty requires understanding the fundamental shift in how Erudition characters handle the game's toughest challenges. While both specialize in area-of-effect damage, their reliance on specific supports and their performance across different game modes creates a distinct divide in their long-term value.
@@ -15,6 +26,9 @@ Choosing between the Arbiter-General of the Xianzhou Luofu and the Knight of Bea
 # Jing Yuan vs. Argenti: The Ultimate Erudition Comparison in Honkai: Star Rail
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-1.webp)
+
 
 Deciding between Jing Yuan and Argenti often comes down to whether you prioritize consistency across all game modes or absolute dominance in one.
 
@@ -31,6 +45,9 @@ Deciding between Jing Yuan and Argenti often comes down to whether you prioritiz
 [Image Placeholder: Infographic showing Jing Yuan and Argenti's key strengths and weaknesses side-by-side.]
 
 ## Side-by-Side Table
+
+![Side-by-Side Table](/img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-2.webp)
+
 
 To understand how these two Erudition giants stack up, we must look at their base stats and the fundamental mechanics that drive their damage output.
 
@@ -50,6 +67,9 @@ To understand how these two Erudition giants stack up, we must look at their bas
 The difference between Lightning and Physical break effects is significant. Jing Yuan's Lightning break provides a minor delay and a Shock DoT, which is generally considered average. Argenti's Physical break, however, deals a percentage of the enemy's Max HP as Bleed damage, making him slightly more effective at chunking down high-HP elite enemies during a break window.
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-3.webp)
+
 
 The debate between Jing Yuan and Argenti is essentially a debate between "Back-loaded" and "Front-loaded" damage profiles.
 
@@ -91,6 +111,9 @@ For Jing Yuan, the **Signature Light Cone (Before Dawn)** is almost non-negotiab
 For Argenti, his **E1 (A Lacuna in Kingdom of Aesthetics)** is a massive power spike, providing up to 40% extra Critical Damage through his Apotheosis stacks. His signature Light Cone, "An Instant Before A Gaze," is very strong (providing Ultimate DMG based on Max Energy), but Argenti can perform at 90% capacity with high-superimposition 4-star options, making his vertical investment path slightly more flexible for low-spenders.
 
 ## Recommendation
+
+![Recommendation](/img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-4.webp)
+
 
 Choosing between these two depends on the current state of your roster and your specific needs in Honkai: Star Rail's endgame.
 

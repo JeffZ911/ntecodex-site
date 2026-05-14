@@ -8,6 +8,17 @@ word_count: 1749
 published_at: "2026-05-14T04:01:14.146191+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-to-get-s-rank-agents-zzz/hero.webp
+inline_images:
+  - /img/how-to-get-s-rank-agents-zzz/inline-1.webp
+  - /img/how-to-get-s-rank-agents-zzz/inline-2.webp
+  - /img/how-to-get-s-rank-agents-zzz/inline-3.webp
+  - /img/how-to-get-s-rank-agents-zzz/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Finding the strongest characters in Zenless Zone Zero is the top priority for any Proxy looking to conquer the difficult challenges of the Hollows. S-Rank Agents represent the peak of combat efficiency, offering superior stats, unique passive abilities, and flashy Ultimate attacks that can clear entire waves of Ethereals in seconds.
@@ -15,6 +26,9 @@ Finding the strongest characters in Zenless Zone Zero is the top priority for an
 # How to Get S-Rank Agents in Zenless Zone Zero (ZZZ)
 
 ## Question Restated
+
+![Question Restated](/img/how-to-get-s-rank-agents-zzz/inline-1.webp)
+
 
 Acquiring S-Rank Agents is a central goal for players, but the process can seem complex due to the various currencies and systems involved. New and veteran players often ask:
 
@@ -26,6 +40,9 @@ Obtaining these elite units requires a mix of resource management, understanding
 
 ## Direct Answer
 
+![Direct Answer](/img/how-to-get-s-rank-agents-zzz/inline-2.webp)
+
+
 S-Rank Agents are primarily obtained through the "Signal Search" gacha system by spending Master Tapes or Encrypted Master Tapes. Each pull has a small chance to yield an S-Rank character, but the game includes several "Pity" mechanics to guarantee rewards.
 
 A "Hard Pity" system guarantees an S-Rank Agent every 90 pulls on both the Exclusive (Limited) and Stable (Standard) channels. For new players, Zenless Zone Zero offers a significant head start: you are guaranteed an S-Rank Agent within your first 50 pulls on the Stable Channel at a discounted rate of 8 Master Tapes for every 10-pull.
@@ -33,6 +50,9 @@ A "Hard Pity" system guarantees an S-Rank Agent every 90 pulls on both the Exclu
 Furthermore, a one-time S-Rank Agent selector becomes available after you reach 300 total pulls on the Stable Channel, allowing you to choose any one of the six standard S-Rank Agents. Limited-time S-Rank Agents, which are often the most powerful in the current meta, are exclusive to the "Exclusive Channel" and require Encrypted Master Tapes, which are primarily purchased with Polychromes.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-get-s-rank-agents-zzz/inline-3.webp)
+
 
 The Signal Search system is the heart of character acquisition in Zenless Zone Zero. To efficiently hunt for S-Rank Agents, you must understand how the different "Channels" interact and how the probability of success changes as you pull.
 
@@ -87,6 +107,9 @@ Every time you pull a duplicate character or a W-Engine, you earn secondary curr
 When you first start Zenless Zone Zero, the Stable Channel features a "Newbie" promotion. For the first 50 pulls, you get a 20% discount on 10-pulls (meaning it only costs 8 Master Tapes to do a 10-pull). You are guaranteed to receive one of the six standard S-Rank Agents within these first 50 pulls. Once you receive your first S-Rank from this banner, the discount disappears, and the counter switches to the standard 90-pull pity and the 300-pull selector progress.
 
 ## Related
+
+![Related](/img/how-to-get-s-rank-agents-zzz/inline-4.webp)
+
 
 Securing S-Rank Agents is only half the battle. To truly master the game, you need to equip them properly and understand how to sustain your Polychrome income for future banners.
 

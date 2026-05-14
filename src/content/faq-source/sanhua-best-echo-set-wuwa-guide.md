@@ -8,6 +8,17 @@ word_count: 2015
 published_at: "2026-05-14T04:01:14.638731+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/sanhua-best-echo-set-wuwa-guide/hero.webp
+inline_images:
+  - /img/sanhua-best-echo-set-wuwa-guide/inline-1.webp
+  - /img/sanhua-best-echo-set-wuwa-guide/inline-2.webp
+  - /img/sanhua-best-echo-set-wuwa-guide/inline-3.webp
+  - /img/sanhua-best-echo-set-wuwa-guide/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Sanhua remains one of the most efficient Sub-DPS units in Wuthering Waves due to her rapid Concerto generation and powerful Basic Attack DMG buffs. To maximize her utility, choosing the right Echo set is vital for balancing her personal Glacio damage with her role as a premier team support.
@@ -17,6 +28,9 @@ Sanhua remains one of the most efficient Sub-DPS units in Wuthering Waves due to
 
 
 ## Question Restated
+
+![Question Restated](/img/sanhua-best-echo-set-wuwa-guide/inline-1.webp)
+
 
 Sanhua is a 4-star Glacio Resonator who excels at quick-swap rotations, making her a staple in teams that rely on Basic Attack damage. Because she spends very little time on the field, players often struggle to decide whether to build her for maximum personal burst damage or to lean into her supportive capabilities. Choosing the best Echo set for Sanhua requires answering a few specific questions:
 
@@ -36,6 +50,9 @@ In Wuthering Waves, Echoes provide both raw stats and powerful set bonuses. For 
 
 ## Direct Answer
 
+![Direct Answer](/img/sanhua-best-echo-set-wuwa-guide/inline-2.webp)
+
+
 The best overall Echo set for Sanhua is the **5-piece Moonlit Clouds** set. This set is widely considered her "Best-in-Slot" (BiS) because it complements her fast rotation speed and enhances her primary role as a support for high-tier DPS characters.
 
 For players who want to use Sanhua as a primary Glacio damage dealer or in a "Double DPS" composition where team buffs are less critical, the **5-piece Freezing Frost** set is the best alternative.
@@ -52,6 +69,9 @@ The 5-piece Moonlit Clouds set is the superior choice for 90% of Sanhua builds. 
 Freezing Frost should only be used if you have already achieved 140%+ Energy Regeneration through sub-stats and specifically want Sanhua to deal higher individual numbers during her Forte Circuit detonations.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/sanhua-best-echo-set-wuwa-guide/inline-3.webp)
+
 
 ### Deep Dive: Moonlit Clouds for Sub-DPS Support
 
@@ -117,6 +137,9 @@ To farm the Moonlit Clouds and Freezing Frost sets efficiently, you should focus
 For the Main Echo (Impermanence Heron), you can find it as a World Boss in the **Desorock Highland** region. The Lampylumen Myriad is located in the icy caverns beneath **Tiger's Lair**.
 
 ## Related
+
+![Related](/img/sanhua-best-echo-set-wuwa-guide/inline-4.webp)
+
 
 Beyond Echoes, Sanhua requires the right equipment and team synergy to truly shine. Her effectiveness is directly tied to the character that follows her in the rotation.
 

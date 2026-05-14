@@ -8,6 +8,21 @@ word_count: 2009
 published_at: "2026-05-13T23:55:59.524255+00:00"
 published_url: /guides/zzz-qingyi-best-build-guide
 sources: []
+hero_image: /img/zzz-qingyi-best-build-guide/hero.webp
+inline_images:
+  - /img/zzz-qingyi-best-build-guide/inline-1.webp
+  - /img/zzz-qingyi-best-build-guide/inline-2.webp
+  - /img/zzz-qingyi-best-build-guide/inline-3.webp
+  - /img/zzz-qingyi-best-build-guide/inline-4.webp
+  - /img/zzz-qingyi-best-build-guide/inline-5.webp
+  - /img/zzz-qingyi-best-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Maximize your team's damage potential by mastering the mechanical precision and overwhelming Daze application of New Eridu’s most efficient Public Security officer.
@@ -19,6 +34,9 @@ Maximize your team's damage potential by mastering the mechanical precision and 
 Qingyi is an S-Rank Electric Agent within the Stun specialty, serving as a cornerstone for high-tier team compositions in Zenless Zone Zero. As a member of the Criminal Investigation Special Response Team (PubSec), her kit is designed around high field time, rapid-fire strikes, and a unique debuff mechanic that significantly amplifies the damage enemies take while stunned. Unlike traditional stunners who may swap out quickly, Qingyi demands more active play to maximize her "Subjugation" stacks, making her a "Main Stunner" who bridges the gap between support and damage dealer.
 
 ## Overview
+
+![Overview](/img/zzz-qingyi-best-build-guide/inline-1.webp)
+
 
 Qingyi’s kit revolves around the "Flash Connect Voltage" mechanic. By performing her multi-hit Basic Attacks—specifically the third hit of her combo—she builds up a Voltage meter. Once this meter exceeds 75%, she can unleash her "Enchanted Moonlit Blossoms" attack by holding the Basic Attack button. This move is her primary tool for applying "Subjugation" stacks to enemies. Each stack increases the Stun DMG Multiplier, allowing your Attack-type Agents to deal devastating damage once the enemy finally breaks.
 
@@ -55,6 +73,9 @@ To optimize your resources, focus on upgrading Qingyi’s skills in the followin
 
 ## Best Weapons
 
+![Best Weapons](/img/zzz-qingyi-best-build-guide/inline-2.webp)
+
+
 Choosing the right W-Engine for Qingyi is critical for reaching her Impact thresholds. Her passive ability, "Archaic Enticement," converts her Impact stat into a flat Attack bonus, capping at 600 ATK when she reaches 220 Impact. Therefore, any W-Engine that boosts Impact is inherently superior.
 
 ### Top Tier: S-Rank W-Engines
@@ -81,6 +102,9 @@ Anby’s signature weapon is a solid budget choice. It increases Electric DMG an
 | Demara Battery | A | 594 | Electric DMG (15%) | Increases Energy Regen and Daze after Electric hits. |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/zzz-qingyi-best-build-guide/inline-3.webp)
+
 
 Drive Discs are essential for fine-tuning Qingyi’s stats. Because her primary job is to stun enemies as quickly as possible, the **Shockstar Disco** set is mandatory.
 
@@ -112,6 +136,9 @@ When farming for Drive Discs, prioritize the following main stats:
 
 ## Team Comp
 
+![Team Comp](/img/zzz-qingyi-best-build-guide/inline-4.webp)
+
+
 Qingyi is a versatile Stunner, but she shines brightest when paired with Agents who can capitalize on the massive Stun DMG Multiplier she provides.
 
 ### Zhu Yuan PubSec Synergy
@@ -139,6 +166,9 @@ The most powerful team for Qingyi currently consists of **Zhu Yuan (Attack)** an
 
 ## Rotation
 
+![Rotation](/img/zzz-qingyi-best-build-guide/inline-5.webp)
+
+
 Using Qingyi effectively requires understanding how to stay on the field without taking damage. Her combos have built-in "Dodge Offsets," meaning you can dodge an incoming attack and then immediately continue your Basic Attack sequence without starting from the first hit.
 
 ### The Flash Connect Combo
@@ -159,6 +189,9 @@ The goal is to have the enemy reach 100% Daze (Stun) just as you reach the maxim
 *   **Step 5:** Unleash your Attacker's ultimate and skills while the 80% multiplier is active.
 
 ## FAQ
+
+![FAQ](/img/zzz-qingyi-best-build-guide/inline-6.webp)
+
 
 **Is Qingyi better than Anby?**
 Yes. While Anby is a fantastic F2P unit, Qingyi offers significantly faster Daze accumulation and a unique Stun DMG Multiplier debuff that Anby cannot replicate. Qingyi also has better defensive utility through her long invulnerability frames during her EX Special and Chain attacks.

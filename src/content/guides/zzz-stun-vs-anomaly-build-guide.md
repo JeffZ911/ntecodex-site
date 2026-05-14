@@ -8,6 +8,17 @@ word_count: 1366
 published_at: "2026-05-14T01:51:47.183751+00:00"
 published_url: /guides/zzz-stun-vs-anomaly-build-guide
 sources: []
+hero_image: /img/zzz-stun-vs-anomaly-build-guide/hero.webp
+inline_images:
+  - /img/zzz-stun-vs-anomaly-build-guide/inline-1.webp
+  - /img/zzz-stun-vs-anomaly-build-guide/inline-2.webp
+  - /img/zzz-stun-vs-anomaly-build-guide/inline-3.webp
+  - /img/zzz-stun-vs-anomaly-build-guide/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Determining whether to prioritize Daze-heavy Stun compositions or status-driven Anomaly builds is the most critical decision you will make when optimizing your Hollow Zero and Shiyu Defense teams. While traditional Attack-based teams rely on opening windows of vulnerability, Anomaly teams rewrite the rules of combat by turning elemental status effects into your primary source of damage.
@@ -15,6 +26,9 @@ Determining whether to prioritize Daze-heavy Stun compositions or status-driven 
 # ZZZ Stun vs Anomaly Build Guide: Daze Mechanics vs. Attribute Reactions
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/zzz-stun-vs-anomaly-build-guide/inline-1.webp)
+
 
 Choosing between a Stun build and an Anomaly build depends entirely on your roster's "engine." Stun builds are the reliable backbone of traditional burst damage, while Anomaly builds offer a high-investment, high-reward alternative that scales exceptionally well against late-game bosses with massive HP pools.
 
@@ -32,6 +46,9 @@ Anomaly builds ignore the traditional "Stun then Burst" cycle. Instead, they foc
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/zzz-stun-vs-anomaly-build-guide/inline-2.webp)
+
+
 The following table breaks down the fundamental differences between these two playstyles.
 
 | Mechanic | Primary Stat | Core Goal | Best Drive Discs | Example Agents |
@@ -43,6 +60,9 @@ The following table breaks down the fundamental differences between these two pl
 | **Defense** | Impact / HP / DEF | Survival and Interruption | [Information not yet publicly available as of 2026-05-14] | Ben, Seth, Caesar |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/zzz-stun-vs-anomaly-build-guide/inline-3.webp)
+
 
 To understand which build is right for your current account progress, we must look at the math behind the mechanics.
 
@@ -71,6 +91,9 @@ Traditional teams follow the **Stun -> Support -> Attack** rotation. You use you
 The **Disorder Meta** functions differently. A typical Disorder team might feature two different Anomaly attributes (e.g., Jane Doe for Physical/Assault and Burnice for Fire/Burn). You apply Burn first, then quickly swap to Jane Doe to trigger Assault. The moment Assault triggers, it consumes the remaining Burn duration to deal **Disorder damage**, which is a massive instantaneous burst. This cycle can be repeated much faster than a Stun bar can be refilled.
 
 ## Recommendation
+
+![Recommendation](/img/zzz-stun-vs-anomaly-build-guide/inline-4.webp)
+
 
 Choosing between these builds often comes down to which S-Rank Agents you have pulled from the Signal Search.
 

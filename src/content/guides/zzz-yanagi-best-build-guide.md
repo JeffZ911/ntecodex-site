@@ -8,6 +8,21 @@ word_count: 2193
 published_at: "2026-05-13T23:56:00.577646+00:00"
 published_url: /guides/zzz-yanagi-best-build-guide
 sources: []
+hero_image: /img/zzz-yanagi-best-build-guide/hero.webp
+inline_images:
+  - /img/zzz-yanagi-best-build-guide/inline-1.webp
+  - /img/zzz-yanagi-best-build-guide/inline-2.webp
+  - /img/zzz-yanagi-best-build-guide/inline-3.webp
+  - /img/zzz-yanagi-best-build-guide/inline-4.webp
+  - /img/zzz-yanagi-best-build-guide/inline-5.webp
+  - /img/zzz-yanagi-best-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Tsukishiro Yanagi brings a revolutionary shift to the Anomaly meta in Zenless Zone Zero, offering a high-octane playstyle that redefines how Disorder damage is calculated and applied. As the deputy chief of Section 6, her technical "stance-dancing" mechanics allow players to shred through enemy resistances while maintaining constant elemental pressure.
@@ -17,6 +32,9 @@ Tsukishiro Yanagi brings a revolutionary shift to the Anomaly meta in Zenless Zo
 
 
 ## Overview
+
+![Overview](/img/zzz-yanagi-best-build-guide/inline-1.webp)
+
 
 Tsukishiro Yanagi is an S-Rank Electric Anomaly Agent who functions as a primary on-field damage dealer or a quick-swap Disorder enabler. Unlike previous Anomaly characters who focus on a single elemental proc, Yanagi is designed to exploit the "Disorder" mechanic—the massive burst of damage that occurs when a second elemental anomaly is applied to an enemy already suffering from one. 
 
@@ -58,6 +76,9 @@ Polarity Disorder is Yanagi's unique contribution to the ZZZ combat system. Norm
 
 ## Best Weapons
 
+![Best Weapons](/img/zzz-yanagi-best-build-guide/inline-2.webp)
+
+
 Selecting the right W-Engine for Yanagi requires balancing Anomaly Proficiency, which increases the damage of her procs, and Anomaly Mastery, which increases the speed at which those procs occur. Because she is an S-Rank character designed for the Section 6 faction, her signature engine is significantly ahead of most 4-star options.
 
 ### Top Tier: Signature and S-Rank Options
@@ -88,6 +109,9 @@ Available through the Battle Pass (New Eridu City Fund), this engine is tailor-m
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/zzz-yanagi-best-build-guide/inline-3.webp)
+
+
 Drive Discs for Yanagi should focus on enhancing her Electric DMG and her ability to trigger Disorder. Because she has a high frequency of off-field damage potential and specific stance-based buffs, the newer sets introduced in version 1.3 are generally superior to the launch sets.
 
 ### Optimal 4-Piece Sets
@@ -114,6 +138,9 @@ If you are still farming for a perfect 4-piece Chaos Jazz set, you can mix and m
 *Note: Crit Rate and Crit DMG are low priority for Yanagi, as Anomaly procs and Disorder damage cannot crit.*
 
 ## Team Comp
+
+![Team Comp](/img/zzz-yanagi-best-build-guide/inline-4.webp)
+
 
 Yanagi thrives in environments where she can interact with other elements to trigger Disorder. While she can function in a Mono-Electric setup, her true potential is unlocked alongside another Anomaly Agent.
 
@@ -148,6 +175,9 @@ This is a highly accessible team. Piper acts as the Physical Anomaly builder wit
 
 ## Rotation
 
+![Rotation](/img/zzz-yanagi-best-build-guide/inline-5.webp)
+
+
 Playing Yanagi effectively requires more than just button mashing. You must manage her "Shinrabanshou" state and time your stance switches to ensure you are always benefiting from the correct buffs.
 
 ### Step-by-Step Combat Flowchart
@@ -167,6 +197,9 @@ The most common mistake is dodging too frequently. Yanagi’s 3rd, 4th, and 5th 
 To get the most out of Polarity Disorder, ensure your teammate (like Burnice or Piper) has already applied their elemental status. Yanagi’s EX Special will then trigger the Disorder damage based on that element, but because of her "Lunar Eclipse" passive, the enemy will remain Burned or Assaulted, allowing Yanagi to immediately follow up with a Shock proc for a *second* traditional Disorder.
 
 ## FAQ
+
+![FAQ](/img/zzz-yanagi-best-build-guide/inline-6.webp)
+
 
 **Is Yanagi better than Grace Howard?**
 Yanagi generally has a higher damage ceiling due to her Polarity Disorder mechanic and higher base stats. While Grace is excellent for consistent, long-distance Shock application, Yanagi excels at burst damage and multi-element team compositions.

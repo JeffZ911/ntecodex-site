@@ -22,6 +22,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhS_I-oErT773uNTLTEiVTbP-S3hYZGHk7Vz7tnehODjCj9KCxH8tndSjWkDC-36dViYaWu8S5L5a50Z00QksohxcDRPShcJrfVX0mTiTUdCYiumGqwnIs_Q8drvd2Ode8n3MRx5IePE_3bo_7_Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW-E8Mc4eZ3PBZ9x37Sx1Y6_JkIZz7OPrq1XCbHnRHkXgYhEIp85nXiAhfCcOPwSi2JExCQHQ4Vk-zOELxD6KIWoUSzuhLI86rx72824IVyuSnb93GSr7DiLAP37HwMr07ZT8oUfA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9mLy5QVOk_k5sBH2v9xU6s-ugFai5_fkuu9vrioLjjqVtKpmgFr6KvTTRuUPir9tdot62rWKzVGRNRM6AXJDutrMxWYt-4B6z4dKw8FHaX1ocyX3L41EcJD5wkTM_YbJxShBxbBeIl04Zg4FzlVN-90Y6P1UcxwGYCik9CX3OYG-2Z6yy5XnFtLif"
+hero_image: /img/zzz-how-to-trigger-anomaly/hero.webp
+inline_images:
+  - /img/zzz-how-to-trigger-anomaly/inline-1.webp
+  - /img/zzz-how-to-trigger-anomaly/inline-2.webp
+  - /img/zzz-how-to-trigger-anomaly/inline-3.webp
+  - /img/zzz-how-to-trigger-anomaly/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Mastering the Anomaly system is the difference between struggling against elite Ethereals and melting them in seconds. This guide breaks down exactly how to trigger Attribute Anomalies, optimize your buildup stats, and execute the devastating Disorder combo.
@@ -29,6 +40,9 @@ Mastering the Anomaly system is the difference between struggling against elite 
 # How to Trigger Anomaly in Zenless Zone Zero
 
 ## Question Restated
+
+![Question Restated](/img/zzz-how-to-trigger-anomaly/inline-1.webp)
+
 
 Understanding the Anomaly system is vital for any Proxy looking to tackle late-game challenges like Shiyu Defense or the Battle Tower. But what exactly is an Attribute Anomaly in Zenless Zone Zero? Simply put, it is a powerful status effect and damage burst triggered when an enemy is subjected to enough elemental pressure.
 
@@ -43,6 +57,9 @@ Triggering an Anomaly is not just about spamming attacks; it is about managing a
 
 ## Direct Answer
 
+![Direct Answer](/img/zzz-how-to-trigger-anomaly/inline-2.webp)
+
+
 Triggering an Anomaly in Zenless Zone Zero requires dealing consistent Attribute damage—Fire, Electric, Ice, Physical, or Ether—to an enemy until their Anomaly Buildup gauge is full. This circular gauge is located to the right of the enemy's health bar. As you land elemental attacks, the gauge fills with a color corresponding to that element (e.g., yellow for Electric, red for Fire).
 
 Once the gauge is completely filled, the corresponding Attribute Anomaly triggers. This results in an immediate burst of damage and applies a unique status effect, such as Burn or Shock, which persists for a set duration.
@@ -53,6 +70,9 @@ Key rules for triggering Anomalies include:
 *   **Internal Cooldowns:** Most Anomalies have a short internal cooldown (typically 3 seconds) before the same attribute can be triggered again on the same target.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/zzz-how-to-trigger-anomaly/inline-3.webp)
+
 
 The Anomaly system is a multi-layered mechanic involving buildup, scaling, and elemental interactions. To maximize your DPS, you must understand how these hidden numbers translate into battlefield results.
 
@@ -116,6 +136,9 @@ However, certain buffs only apply if the character is on-field during the "pop."
 Every time you trigger a specific Anomaly on an enemy, they gain a permanent 2% resistance to that specific attribute's buildup. This effect caps at 20% (after 10 triggers). This means that in very long fights, it becomes progressively harder to "spam" the same Anomaly. This mechanic further encourages the use of Disorder teams, as you can alternate between two different elements to delay the impact of this resistance scaling.
 
 ## Related
+
+![Related](/img/zzz-how-to-trigger-anomaly/inline-4.webp)
+
 
 The Anomaly system does not exist in a vacuum; it interacts heavily with the Stun mechanic and your gear choices.
 

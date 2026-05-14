@@ -8,6 +8,17 @@ word_count: 1692
 published_at: "2026-05-14T04:01:15.057941+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/zzz-impact-stat-explained-guide/hero.webp
+inline_images:
+  - /img/zzz-impact-stat-explained-guide/inline-1.webp
+  - /img/zzz-impact-stat-explained-guide/inline-2.webp
+  - /img/zzz-impact-stat-explained-guide/inline-3.webp
+  - /img/zzz-impact-stat-explained-guide/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Breaking through the defenses of a powerful Ethereal requires more than just raw damage; it requires a deep understanding of how to exploit the Daze gauge. The Impact stat is the engine that drives this mechanic, allowing specialized Agents to shatter enemy poise and open windows for devastating Chain Attacks.
@@ -17,6 +28,9 @@ Breaking through the defenses of a powerful Ethereal requires more than just raw
 In the high-octane combat of Zenless Zone Zero (ZZZ), players often notice a yellow bar steadily filling beneath an enemy's health points. This is the Daze gauge, and the speed at which it fills is directly dictated by your character's Impact stat. Mastering this mechanic is the difference between a grueling five-minute slog and a clean, efficient boss clear. This guide breaks down exactly how Impact works, which characters benefit most from it, and how to optimize your gear to stun enemies faster.
 
 ## Question Restated
+
+![Question Restated](/img/zzz-impact-stat-explained-guide/inline-1.webp)
+
 
 When players first enter New Eridu, the sheer variety of combat statistics can be overwhelming. Among Attack, Crit Rate, and Anomaly Proficiency, the "Impact" stat often causes confusion. To master ZZZ, you must answer three fundamental questions:
 
@@ -32,6 +46,9 @@ In the ZZZ combat flow, your goal is to fill the enemy's yellow Daze bar to 100%
 
 ## Direct Answer
 
+![Direct Answer](/img/zzz-impact-stat-explained-guide/inline-2.webp)
+
+
 Impact is a base combat stat that determines the amount of Daze an Agent inflicts on an enemy with their attacks. It acts as the primary scaling factor for the Daze mechanic, which is central to the game's "Stun" loop.
 
 *   **Higher Impact values** allow you to fill the enemy's Daze gauge (the yellow bar under their HP) significantly faster.
@@ -41,6 +58,9 @@ Impact is a base combat stat that determines the amount of Daze an Agent inflict
 To optimize a team, you generally want at least one character—your "Stunner"—to stack as much Impact as possible through W-Engines and Drive Discs. This ensures that the enemy spends the maximum amount of time incapacitated, allowing your "Attack" specialty Agents to safely unload their highest-damage skills.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/zzz-impact-stat-explained-guide/inline-3.webp)
+
 
 The combat rhythm of Zenless Zone Zero is built around the "Stun Phase." To understand why Impact is so valuable, we must look at the mathematical and mechanical relationship between Impact, Daze, and the resulting Stun state.
 
@@ -104,6 +124,9 @@ A common mistake is trying to make a Stun Agent deal high raw damage. While some
 If you find yourself struggling to finish a stage within the time limit, check your Stunner's Impact stat. If it is too low, you are likely spending 80% of the fight chasing an active boss rather than attacking a stationary, vulnerable one.
 
 ## Related
+
+![Related](/img/zzz-impact-stat-explained-guide/inline-4.webp)
+
 
 Understanding Impact is just the first step in mastering the ZZZ combat loop. Once an enemy is Dazed, several other mechanics come into play that determine your total damage output.
 

@@ -8,6 +8,17 @@ word_count: 1717
 published_at: "2026-05-14T05:47:29.798945+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-to-farm-disk-drives-zzz/hero.webp
+inline_images:
+  - /img/how-to-farm-disk-drives-zzz/inline-1.webp
+  - /img/how-to-farm-disk-drives-zzz/inline-2.webp
+  - /img/how-to-farm-disk-drives-zzz/inline-3.webp
+  - /img/how-to-farm-disk-drives-zzz/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Maximizing your Agent's potential in New Eridu requires more than just leveling up; you must master the Disk Drive system to optimize stats and set bonuses. This guide details every method for acquiring these essential items, from high-stakes Routine Cleanup missions to precision tuning at the Bardic Needle music store.
@@ -17,6 +28,9 @@ Maximizing your Agent's potential in New Eridu requires more than just leveling 
 
 
 ## Question Restated
+
+![Question Restated](/img/how-to-farm-disk-drives-zzz/inline-1.webp)
+
 
 Players often find themselves hitting a progression wall where simple character levels are no longer enough to clear difficult Hollow Zero or Shiyu Defense stages. This leads to several common questions regarding the equipment system:
 
@@ -38,6 +52,9 @@ Bardic Needle, on the other hand, is a "passive" or "crafting" system. You do no
 
 ## Direct Answer
 
+![Direct Answer](/img/how-to-farm-disk-drives-zzz/inline-2.webp)
+
+
 The most reliable way to farm Disk Drives is through Routine Cleanup missions at Scott Outpost. These missions cost 60 Battery Charge per run and reward specific Disk Drive sets based on the stage selected. Secondary farming occurs at the Bardic Needle music store on Sixth Street via "Tuning" using Master Copies. S-Rank Disk Drives begin dropping at Inter-Knot Level 35, with guaranteed double drops becoming possible at higher levels (IKL 50+).
 
 | Activity | Location | Cost | Primary Rewards | Best For |
@@ -48,6 +65,9 @@ The most reliable way to farm Disk Drives is through Routine Cleanup missions at
 | **Hollow Zero** | Scott Outpost | Z-Merits | Master Copies, Tuning Calibrators | Supplementing farm |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-farm-disk-drives-zzz/inline-3.webp)
+
 
 Farming Disk Drives is a multi-layered process that evolves as your Inter-Knot Level increases. To build a "perfect" Agent, you must balance your daily stamina usage with the precision crafting tools provided by Elfy at the Bardic Needle.
 
@@ -100,6 +120,9 @@ The golden rule of Zenless Zone Zero progression is to avoid "hard farming" Disk
 Once your main team of three Agents is fully promoted and their skills are leveled, you can transition into Routine Cleanup. If you farm too early, you will end up with a collection of A-Rank (Purple) disks that will eventually be replaced by S-Rank (Gold) versions, effectively wasting the stamina you could have used for guaranteed character power increases.
 
 ## Related
+
+![Related](/img/how-to-farm-disk-drives-zzz/inline-4.webp)
+
 
 Farming the disks is only half the battle; you also need the materials to upgrade them and a strategy for which ones to keep.
 
