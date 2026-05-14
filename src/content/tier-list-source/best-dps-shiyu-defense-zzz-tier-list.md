@@ -8,6 +8,21 @@ word_count: 1918
 published_at: "2026-05-13T02:34:35.263120+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/best-dps-shiyu-defense-zzz-tier-list/hero.webp
+inline_images:
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-1.webp
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-2.webp
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-3.webp
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-4.webp
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-5.webp
+  - /img/best-dps-shiyu-defense-zzz-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Achieving an S-Rank clear in the later stages of Shiyu Defense requires a deep understanding of the current elemental meta and the specific burst windows of your primary damage dealers.
@@ -19,6 +34,9 @@ Achieving an S-Rank clear in the later stages of Shiyu Defense requires a deep u
 Shiyu Defense remains the ultimate testing ground for any Proxy’s roster in Zenless Zone Zero. As the game has evolved through Version 2.7 and into the 2.8 previews, the requirements for clearing Critical Nodes have shifted from simple "un-ga bun-ga" damage to precise Anomaly management and synergy-heavy team compositions. This guide breaks down the best DPS agents for Shiyu Defense based on their performance in the current high-difficulty rotation.
 
 ## Methodology
+
+![Methodology](/img/best-dps-shiyu-defense-zzz-tier-list/inline-1.webp)
+
 
 To provide an accurate ranking, we evaluate agents based on their performance within the Critical Nodes of Shiyu Defense, specifically looking at Version 2.7+ data. The following criteria are used to determine an agent's placement:
 
@@ -48,6 +66,9 @@ The meta has shifted toward a "Disorder" focus. Traditional Attack agents rely o
 
 ## S Tier
 
+![S Tier](/img/best-dps-shiyu-defense-zzz-tier-list/inline-2.webp)
+
+
 Agents in the S Tier are the gold standard for Shiyu Defense. They possess the highest damage ceilings in the game and can often ignore elemental resistances through sheer force.
 
 ### [Information not yet publicly available as of 2026-05-12]: The Physical King
@@ -74,6 +95,9 @@ Hoshimi Miyabi remains the premier Ice-adjacent carry. Her unique "Fallen Frost"
 
 ## A Tier
 
+![A Tier](/img/best-dps-shiyu-defense-zzz-tier-list/inline-3.webp)
+
+
 A-Tier agents are highly effective and more than capable of achieving S-Rank clears, though they may require more specific team builds or higher investment in Drive Discs compared to S-Tier units.
 
 ### The Legacy Carries: Zhu Yuan & Ellen Joe
@@ -87,6 +111,9 @@ Ellen Joe remains the best "Attack" role agent for Ice teams. Her mobility is un
 Jane Doe is still a "Disorder" powerhouse. While newer Physical units have slightly higher multipliers, Jane’s ability to enter the "Passion" state and rapidly proc Assault remains one of the most reliable ways to clear Shiyu Defense. She is particularly valuable for players who do not have [Information not yet publicly available as of 2026-05-12], as she can serve as a primary carry or a high-impact Sub-DPS.
 
 ## B Tier
+
+![B Tier](/img/best-dps-shiyu-defense-zzz-tier-list/inline-4.webp)
+
 
 B-Tier agents are viable alternatives, particularly for F2P players or those who lack the latest limited-banner characters. They can clear Critical Nodes but will likely cut the timer close.
 
@@ -102,6 +129,9 @@ A new trend in the meta is the use of "Awakened" units like [Information not yet
 
 ## C Tier
 
+![C Tier](/img/best-dps-shiyu-defense-zzz-tier-list/inline-5.webp)
+
+
 C-Tier agents are generally not recommended for Shiyu Defense Critical Nodes unless you have extremely high-level investment or specific niche strategies.
 
 ### Why These Agents Struggle in Shiyu Defense
@@ -116,6 +146,9 @@ The primary issue for characters like Billy Kid, Anton, and Corin is **scaling**
 Ben Bigger remains useful not for his damage, but for his ability to provide a shield and crit rate buff. In Shiyu Defense nodes where survival is more difficult than the timer, Ben can be the difference between a failed run and a B-Rank clear. However, he will almost never contribute to an S-Rank clear speed.
 
 ## Recent Changes
+
+![Recent Changes](/img/best-dps-shiyu-defense-zzz-tier-list/inline-6.webp)
+
 
 The Zenless Zone Zero meta is constantly shifting. The following changes in Version 2.7 and 2.8 have had the biggest impact on the DPS rankings.
 
