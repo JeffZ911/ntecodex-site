@@ -8,6 +8,17 @@ word_count: 1528
 published_at: "2026-05-13T02:48:44.922557+00:00"
 published_url: /guides/baizhi-vs-verina-wuthering-waves-comparison
 sources: []
+hero_image: /img/baizhi-vs-verina-wuthering-waves-comparison/hero.webp
+inline_images:
+  - /img/baizhi-vs-verina-wuthering-waves-comparison/inline-1.webp
+  - /img/baizhi-vs-verina-wuthering-waves-comparison/inline-2.webp
+  - /img/baizhi-vs-verina-wuthering-waves-comparison/inline-3.webp
+  - /img/baizhi-vs-verina-wuthering-waves-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the two primary healers in Wuthering Waves often comes down to whether you have been lucky enough to pull a 5-star unit or if you are relying on the game’s generous free-to-play options.
@@ -19,6 +30,9 @@ Choosing between the two primary healers in Wuthering Waves often comes down to 
 In the high-intensity combat of Wuthering Waves, your choice of support character determines more than just how often you see a "Game Over" screen; it dictates your team's total damage output and rotation fluidity. While both Baizhi and Verina serve as Rectifier-wielding healers, they operate on different tiers of efficiency and utility. As the game evolves toward more difficult endgame content like the Tower of Adversity, understanding the nuance between these two Spectro and Glacio supports is essential for any Rover looking to optimize their roster.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/baizhi-vs-verina-wuthering-waves-comparison/inline-1.webp)
+
 
 If you are looking for a quick answer: **Verina is the superior choice in almost every scenario.** As a 5-star character, her kit is designed to provide massive team-wide offensive buffs with minimal field time. However, Baizhi remains a mandatory unit for players pushing endgame content where multiple teams are required.
 
@@ -35,6 +49,9 @@ Baizhi should be your go-to healer when Verina is already occupied on another te
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/baizhi-vs-verina-wuthering-waves-comparison/inline-2.webp)
+
+
 To understand how these two compare at a glance, we must look at their elemental alignment, scaling, and the specific buffs they bring to the field.
 
 | Feature | Verina | Baizhi |
@@ -49,6 +66,9 @@ To understand how these two compare at a glance, we must look at their elemental
 | **Special Utility** | Death Prevention (Cheat Death) | Revive (at S6) |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/baizhi-vs-verina-wuthering-waves-comparison/inline-3.webp)
+
 
 To truly master rotations in Wuthering Waves, one must look past the green numbers of healing and analyze how these characters interact with the "Concerto" system and the specific needs of a "Hypercarry" DPS.
 
@@ -77,6 +97,9 @@ Verina’s Resonance Chains are powerful but harder to obtain:
 *   **S4 (Blossom of Life):** Increases the Spectro DMG of the entire team, making her the perfect partner for future Spectro DPS units.
 
 ## Recommendation
+
+![Recommendation](/img/baizhi-vs-verina-wuthering-waves-comparison/inline-4.webp)
+
 
 While Verina is objectively the stronger unit, the structure of Wuthering Waves' endgame ensures that Baizhi remains a vital part of your account.
 
