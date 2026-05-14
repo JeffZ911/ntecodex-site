@@ -23,6 +23,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGkKsRFTtyL9d9MkQFIeRkDHOu3P9pPARe6z7QMdvGuMKrxiI54FWIp1H1-WNqqHE2GAVQcx0l1yYeW1o_Tq3CHH2j3BHxO8D86fdSdovKeUlODyUtaRrMuZ4AV2asVjLqtkU9EnFzHiEjy6ac4UpG"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEukOKrHP5qph9200Eo1dWT1AWTkYRJQT37a0BSfQJiaI_fHpcJkia6QZDFaFzhrrAZpacRjns7Hbpy6QbCvq9P_8ohyf5ENYdExwJZjqGf5SAPltxbqnZqeRPUImGPwR6SY_jBquDHA53sGx7dHzDiua0V-L7rHpCrMng5SkX_a495"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86SVpeeK1yt0r1PHKU73TVzOJnWr01kRfdJoGHT_EmM-qQywrHwickag1d5Q1GKIBDGjiEPRhCCpxM0fbPkLLwo6u0YFTDz-Fa-7U0QNnTBI4AbuTSxw3ZKPY4yVI78-oDISSPF7oQtENNMSX6gCpGYakEx8ku0CodH82pGeNOurKNC3IkVRNfD0VQ9raMjJ6qpV0UvaJ4eQ8eEXAx8Q="
+hero_image: /img/how-to-level-up-echoes-wuthering-waves/hero.webp
+inline_images:
+  - /img/how-to-level-up-echoes-wuthering-waves/inline-1.webp
+  - /img/how-to-level-up-echoes-wuthering-waves/inline-2.webp
+  - /img/how-to-level-up-echoes-wuthering-waves/inline-3.webp
+  - /img/how-to-level-up-echoes-wuthering-waves/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 In Wuthering Waves, your combat efficiency is dictated more by the quality of your Echoes than almost any other equipment system. Mastering the nuances of how to level up Echoes and optimize their sub-stats is the difference between struggling against Hologram bosses and clearing the Tower of Adversity with ease.
@@ -32,6 +43,9 @@ In Wuthering Waves, your combat efficiency is dictated more by the quality of yo
 
 
 ## Question Restated
+
+![Question Restated](/img/how-to-level-up-echoes-wuthering-waves/inline-1.webp)
+
 
 Echoes serve as the primary gear system for every Resonator in Wuthering Waves, providing essential stat boosts and unique active skills. However, unlike traditional RPG gear where you simply equip a higher-rarity item, Echoes require a multi-stage investment process to reach their full potential. Players often find themselves asking: how do you increase the level of Echoes efficiently?
 
@@ -46,6 +60,9 @@ Leveling an Echo primarily boosts its Main Stats, such as Attack, HP, or Element
 The most frequent hurdle is the "Tuner Bottleneck." While Sealed Tubes (EXP) can be found through exploration and various shops, Premium Tuners are a finite resource heavily tied to Tacet Field farming and events. Another challenge is the Data Bank level. Since your Data Bank determines the maximum rarity of Echoes you can absorb, many players waste resources leveling Purple Echoes to level 20, only to unlock Gold Echoes shortly after. Learning when to stop investing in "transitional" gear is a hallmark of an optimized account.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-to-level-up-echoes-wuthering-waves/inline-2.webp)
+
 
 To level up Echoes in Wuthering Waves, you must navigate to the **Resonator** screen, select the **Echo** tab, and click on a specific Echo to open the **Upgrade** menu. You will then use **Sealed Tubes** to provide EXP and **Shell Credits** to pay for the enhancement.
 
@@ -70,6 +87,9 @@ The maximum level an Echo can reach is strictly determined by its rarity (Rank).
 *   **Shell Credits:** The standard currency used for almost all upgrades in Solaris-3. Since Version 1.1, the cost of Echo leveling has been reduced by approximately 75%, making the process much more accessible.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-level-up-echoes-wuthering-waves/inline-3.webp)
+
 
 The Echo system is designed to be a long-term progression mechanic. While the basics are straightforward, optimizing your resources requires understanding the EXP values, the Tuning RNG, and the most efficient farming routes.
 
@@ -122,6 +142,9 @@ If you have a leveled Echo that you no longer need (perhaps you found a better o
 For high-level Gold Echoes, **Recycling via the bag is generally preferred** because Tuners are often the primary bottleneck for endgame builds.
 
 ## Related
+
+![Related](/img/how-to-level-up-echoes-wuthering-waves/inline-4.webp)
+
 
 Leveling your Echoes is only half the battle. To truly optimize a Resonator, you must understand how Echoes interact with each other and the character's kit.
 
