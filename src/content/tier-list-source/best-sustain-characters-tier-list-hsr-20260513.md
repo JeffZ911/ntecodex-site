@@ -14,6 +14,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCnml5RCHT2KYnl0MPJuvDNsUstpKW1qg53DT97xoT28y2bReR_SyaCgurApMm6EVo4iLPODqttMNEm114ua6Rp9_2YppgBkiElajjE4B9z-4e5WsXVWaGOokeCopqiSeAyc87n81Wv01Unzs="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG26GfeoUZF-FLa2BL2NzX4sOAVFdp8QH0i-e1naTpISdecQ3WNnZcxEFqlebVlQNvaGSxh7DvEURT25bwPF9ey7tyu-rxoYGm_lO5fyiXgzijkZlpy0Ef0DWiq8VLjD8A0n-bS1w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbcU4S-ZpV2shRHtOAjjZmC0H_zkpWN8k8LdjRg_om1BwmLQD_mDqd0afi4tyV1TOJOdC4JDC0brEjHqa19bt10L-lmCViDG84ZE1HECcBt14TWRtHuitRuAr1IxOn7MqG0vpYoUoPUQuyc4qVXnnNWrs19rdVLa0pYNxee8_KoawW_zEzyCja8bylsw=="
+hero_image: /img/best-sustain-characters-tier-list-hsr-20260513/hero.webp
+inline_images:
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-1.webp
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-2.webp
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-3.webp
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-4.webp
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-5.webp
+  - /img/best-sustain-characters-tier-list-hsr-20260513/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 With the release of Version 4.2 and the arrival of the Amphoreus arc, the survival requirements for endgame content have reached an all-time high. Choosing the right protector is no longer just about staying alive; it is about enabling the complex summon-based mechanics of the Remembrance path and the high-frequency Follow-Up Attacks (FUA) of the Elation meta.
@@ -23,6 +38,9 @@ With the release of Version 4.2 and the arrival of the Amphoreus arc, the surviv
 The sustain landscape in Honkai: Star Rail has undergone a seismic shift since the game's launch. While early-game titans like Fu Xuan and Luocha remain viable, the introduction of "Memosprites"—summoned entities that act independently on the Action Bar—has redefined what a "best-in-slot" sustain unit looks like. In the current Version 4.2 meta, the most effective characters do more than heal or shield; they manipulate the action economy, buff Max HP thresholds, and contribute significant toughness reduction through their summoned companions.
 
 ## Methodology
+
+![Methodology](/img/best-sustain-characters-tier-list-hsr-20260513/inline-1.webp)
+
 
 This tier list evaluates every Preservation and Abundance character (alongside the new Remembrance-path sustains) based on their performance in the three primary endgame modes: Memory of Chaos (MoC), Pure Fiction (PF), and the high-intensity boss rushes of Apocalyptic Shadow (AS).
 
@@ -51,6 +69,9 @@ Skill Point (SP) efficiency remains a critical metric. Top-tier sustains must be
 
 ## S Tier
 
+![S Tier](/img/best-sustain-characters-tier-list-hsr-20260513/inline-2.webp)
+
+
 The S-Tier consists of characters who define the current meta. These units are almost universal in their application and provide unique offensive or defensive mechanics that cannot be easily replaced.
 
 ### Hyacine: The New Queen of Remembrance
@@ -77,6 +98,9 @@ Huohuo’s position in the S-Tier was solidified by her "Novaflare" enhancement 
 
 ## A Tier
 
+![A Tier](/img/best-sustain-characters-tier-list-hsr-20260513/inline-3.webp)
+
+
 A-Tier characters are exceptionally strong and can clear all endgame content, but they may have slight limitations in versatility or require specific team archetypes to outperform S-Tier units.
 
 ### Lingsha and the Break Meta
@@ -92,6 +116,9 @@ Luocha is the definition of "comfort." He requires zero Skill Points to maintain
 Gallagher is arguably the best 4-star unit in the game. At E6, he provides 20% increased Break Damage and becomes a staple for Firefly teams. His ability to generate Skill Points while providing "Besotted" debuffs—which heal allies when they attack—allows him to function as a pseudo-5-star. He is ranked in the A-Tier because he lacks the raw defensive stats and team-wide damage mitigation of the premium Preservation units.
 
 ## B Tier
+
+![B Tier](/img/best-sustain-characters-tier-list-hsr-20260513/inline-4.webp)
+
 
 B-Tier sustains are functional and can clear endgame content with high investment, but they are generally outclassed by the "hybrid" utility of the A and S-Tier characters.
 
@@ -112,6 +139,9 @@ The debate between Lynx and Bailu has largely been settled in favor of Lynx for 
 
 ## C Tier
 
+![C Tier](/img/best-sustain-characters-tier-list-hsr-20260513/inline-5.webp)
+
+
 C-Tier characters are baseline units that are typically replaced as soon as a player pulls a limited 5-star sustain.
 
 ### Why Early Game Sustains Fall Off
@@ -121,6 +151,9 @@ Characters like Natasha and March 7th struggle in the 2026 meta because their ki
 Players should look to replace Natasha as soon as they obtain Gallagher or Lynx. March 7th can still be useful in very niche "Remembrance Freeze" builds, but once a player obtains Aventurine or Fu Xuan, her role as a primary sustain becomes obsolete. The Fire Trailblazer, while useful for their Taunt mechanic, provides negligible shielding that cannot sustain a team through more than a few cycles of MoC 12.
 
 ## Recent Changes
+
+![Recent Changes](/img/best-sustain-characters-tier-list-hsr-20260513/inline-6.webp)
+
 
 The meta in May 2026 is defined by the "Novaflare" update and the transition to the Amphoreus arc. These changes have shifted the focus from "staying alive" to "aggressive sustain."
 
