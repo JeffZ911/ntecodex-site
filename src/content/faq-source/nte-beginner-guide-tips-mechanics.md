@@ -8,6 +8,17 @@ word_count: 1796
 published_at: "2026-05-13T02:26:13.843331+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/nte-beginner-guide-tips-mechanics/hero.webp
+inline_images:
+  - /img/nte-beginner-guide-tips-mechanics/inline-1.webp
+  - /img/nte-beginner-guide-tips-mechanics/inline-2.webp
+  - /img/nte-beginner-guide-tips-mechanics/inline-3.webp
+  - /img/nte-beginner-guide-tips-mechanics/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Step into the neon-drenched streets of Hethereau and prepare for a supernatural experience that blends high-speed racing with intense elemental combat.
@@ -20,6 +31,9 @@ Since its release on April 29, 2026, Neverness to Everness (NTE) has redefined t
 
 ## Question Restated
 
+![Question Restated](/img/nte-beginner-guide-tips-mechanics/inline-1.webp)
+
+
 As a new player in Neverness to Everness, you likely have several pressing questions regarding the game's multifaceted systems. The most common inquiries involve the following areas:
 
 *   **What are the essential mechanics every new player needs to understand in Neverness to Everness?** Beyond basic movement and combat, you must master the Esper Cycle and the interplay between your character's supernatural abilities and the urban environment. Understanding how to manage your Esper Meter and the timing of parries is the difference between victory and a quick defeat in the city's Anomaly zones.
@@ -29,6 +43,9 @@ As a new player in Neverness to Everness, you likely have several pressing quest
 ![An infographic showing the Esper Cycle wheel with Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche elements.](https://placehold.co/1600x900?text=Esper+Cycle+Elemental+Wheel+Infographic)
 
 ## Direct Answer
+
+![Direct Answer](/img/nte-beginner-guide-tips-mechanics/inline-2.webp)
+
 
 Neverness to Everness (NTE) is a supernatural urban open-world RPG where players balance high-octane combat with a deep "City Tycoon" lifestyle simulation. You play as an "Appraiser" or "Esper" tasked with investigating supernatural anomalies throughout the city of Hethereau.
 
@@ -49,6 +66,9 @@ To ensure a smooth start in Hethereau, follow this checklist during your first s
 5.  **Daily Commissions:** Unlock the "Hethereau Daily Bulletin" to start earning Beetle Coins and Fons (the lifestyle currency) immediately.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/nte-beginner-guide-tips-mechanics/inline-3.webp)
+
 
 The depth of Neverness to Everness can be overwhelming at first. To master the game, you need to understand the synergy between combat, the gacha economy, and the city simulation.
 
@@ -143,6 +163,9 @@ You don't need to spend money to have a viable team. The free characters provide
 A common early-game rotation is: **Nanally (Group) -> Hotori (Burn) -> Protagonist (Finish).** This simple cycle handles almost all open-world content in Chapter 1.
 
 ## Related
+
+![Related](/img/nte-beginner-guide-tips-mechanics/inline-4.webp)
+
 
 To further optimize your experience in Hethereau, explore our other specialized resources:
 

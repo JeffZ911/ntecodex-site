@@ -8,6 +8,19 @@ word_count: 1658
 published_at: "2026-05-13T02:26:29.228129+00:00"
 published_url: /weapons/best-disks-nte-guide
 sources: []
+hero_image: /img/best-disks-nte-guide/hero.webp
+inline_images:
+  - /img/best-disks-nte-guide/inline-1.webp
+  - /img/best-disks-nte-guide/inline-2.webp
+  - /img/best-disks-nte-guide/inline-3.webp
+  - /img/best-disks-nte-guide/inline-4.webp
+  - /img/best-disks-nte-guide/inline-5.webp
+inline_image_sections:
+  - "Stats"
+  - "Effect"
+  - "Best On (Characters)"
+  - "How to Get"
+  - "Comparison"
 ---
 
 Equipping the right Arcs is the difference between struggling against urban Anomalies and dominating the streets of Hethereau. This comprehensive guide breaks down the best Disks (Arcs) in Neverness to Everness to help you optimize your Espers for the endgame.
@@ -19,6 +32,9 @@ Equipping the right Arcs is the difference between struggling against urban Anom
 In Neverness to Everness (NTE), weapons are referred to as Arcs (or Disks). These high-tech devices act as the primary source of raw power for your Espers, dictating not only their base damage but also their playstyle through unique Arc Skills and Passive Perks. Choosing the right Arc requires a deep understanding of scaling, compatibility types, and the specific needs of your team composition.
 
 ## Stats
+
+![Stats](/img/best-disks-nte-guide/inline-1.webp)
+
 
 Arcs serve as the foundation of an Esper's combat capabilities. Every Arc in NTE features a primary Base ATK stat and a secondary substat. As of the 1.0 launch version, the level cap for Arcs is 90. S-Rank Arcs are the gold standard for damage dealers, reaching a maximum Base ATK of approximately 666 at level 90, whereas A-Rank Arcs typically cap out around [information unavailable].
 
@@ -52,6 +68,9 @@ When leveling your Arcs, you must prioritize the correct substat for the charact
 
 ## Effect
 
+![Effect](/img/best-disks-nte-guide/inline-2.webp)
+
+
 The true power of an Arc lies in its effects, which are divided into two layers: Passive Perks and Arc Skills. Unlike the raw stats, these effects provide transformative gameplay changes that can alter how an Esper interacts with the environment and enemies.
 
 ### Passive Perks vs. Active Arc Skills
@@ -74,6 +93,9 @@ Refinement (R1 through R5) is the process of consuming duplicate Arcs to upgrade
 5.  **Day Off:** Increases movement speed and provides a stacking ATK buff while in the open world.
 
 ## Best On (Characters)
+
+![Best On (Characters)](/img/best-disks-nte-guide/inline-3.webp)
+
 
 Matching the right Arc to your Esper is the most important part of team building. While S-Rank signature Arcs are usually the best-in-slot (BiS), several A-Rank and farmable options provide excellent results. For more on character rankings, check out our [NTE character tier list](#TODO:keyword:best-characters-nte).
 
@@ -102,6 +124,9 @@ Understanding how these weapons interact with [elemental reactions guide](#TODO:
 
 ## How to Get
 
+![How to Get](/img/best-disks-nte-guide/inline-4.webp)
+
+
 Acquiring Arcs in Neverness to Everness involves a mix of Gacha mechanics, world exploration, and urban management.
 
 ### Gacha Rates and Pity Mechanics
@@ -121,6 +146,9 @@ Not all powerful Arcs are locked behind the Gacha. Several S-Rank Arcs can be fa
 If you are just starting and want to maximize your early pulls, see our [Neverness to Everness reroll guide](#TODO:keyword:reroll-guide-nte).
 
 ## Comparison
+
+![Comparison](/img/best-disks-nte-guide/inline-5.webp)
+
 
 Deciding whether to pull for a signature S-Rank Arc or stick with an A-Rank alternative is a common dilemma for players.
 

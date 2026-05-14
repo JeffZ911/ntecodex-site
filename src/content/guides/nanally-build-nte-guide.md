@@ -8,6 +8,21 @@ word_count: 1707
 published_at: "2026-05-13T02:25:57.279394+00:00"
 published_url: /guides/nanally-build-nte-guide
 sources: []
+hero_image: /img/nanally-build-nte-guide/hero.webp
+inline_images:
+  - /img/nanally-build-nte-guide/inline-1.webp
+  - /img/nanally-build-nte-guide/inline-2.webp
+  - /img/nanally-build-nte-guide/inline-3.webp
+  - /img/nanally-build-nte-guide/inline-4.webp
+  - /img/nanally-build-nte-guide/inline-5.webp
+  - /img/nanally-build-nte-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 [Nanally](/characters/nanally-guide-nte) has quickly established herself as the premier Anima-element powerhouse since the game's launch on April 29, 2026. This guide breaks down the optimal setups to maximize her devastating follow-up damage and unique summon mechanics.
@@ -19,6 +34,9 @@ sources: []
 Nanally is an S-Rank Anima-element Main DPS who serves as a cornerstone of the Eibon Antique Shop faction. Her playstyle is defined by high-octane physical-arc combat, where she swings a massive Plasma Arc to crush enemies while commanding her spectral "Underboss" to perform coordinated follow-up attacks. Unlike other DPS characters who rely on a single burst window, Nanally excels at sustained damage, making her the definitive benchmark for Patch 1.0 content.
 
 ## Overview
+
+![Overview](/img/nanally-build-nte-guide/inline-1.webp)
+
 
 Nanally functions as a "Follow-up Specialist." Her kit is designed to reward players who can maintain high uptime on her specialized combat states. While her base stats are impressive, her true power lies in the synergy between her elemental application and her summon, the Underboss. This spectral entity mirrors her movements, effectively doubling her hit count and allowing her to trigger elemental reactions like Blossom with incredible frequency.
 
@@ -48,6 +66,9 @@ To get the most out of Nanally, you should prioritize your resources on her Ulti
 
 ## Best Weapons
 
+![Best Weapons](/img/nanally-build-nte-guide/inline-2.webp)
+
+
 Choosing the right Plasma Arc is critical for Nanally, as her kit scales aggressively with Crit Rate. Because her Underboss summons inherit 100% of her Crit stats, any investment in her weapon pays off twice over.
 
 | Weapon Name | Rarity | Substat | Key Effect |
@@ -67,6 +88,9 @@ For players who skipped the weapon banner, Song of the Whale is the premier free
 If you are just starting out, Oraora! is a fantastic A-Rank choice. Nanally hits very quickly during her Authority state, meaning she can max out the 10-stack ATK buff in less than three seconds. It is a reliable, high-floor weapon that remains viable until you pull an S-Rank Plasma Arc.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/nanally-build-nte-guide/inline-3.webp)
+
 
 Disks function as the primary equipment system in Neverness to Everness. For a Main DPS like Nanally, the goal is to maximize her Anima DMG and ensure her critical hits are as impactful as possible.
 
@@ -107,6 +131,9 @@ When arranging your modules on the Disk console, prioritize the "Triangle" confi
 
 ## Team Comp
 
+![Team Comp](/img/nanally-build-nte-guide/inline-4.webp)
+
+
 Nanally shines brightest when paired with characters who can accelerate her Esper Cycle or provide off-field elemental application to trigger reactions.
 
 | Team Name | Characters | Synergy Focus |
@@ -128,6 +155,9 @@ Check our [NTE Character Tier List](#TODO:keyword:neverness-to-everness-tier-lis
 
 ## Rotation
 
+![Rotation](/img/nanally-build-nte-guide/inline-5.webp)
+
+
 To maximize Nanally's damage, you must coordinate her Ultimate with her Authority state. The goal is to have the Underboss active while Nanally is in her empowered form.
 
 ### Step-by-Step Combat Flowchart
@@ -139,6 +169,9 @@ To maximize Nanally's damage, you must coordinate her Ultimate with her Authorit
 6.  **Refresh:** Once the Underboss vanishes, swap back to your supports to regenerate energy and restart the cycle.
 
 ## FAQ
+
+![FAQ](/img/nanally-build-nte-guide/inline-6.webp)
+
 
 **Is Nanally worth pulling?**
 Yes. Nanally is the definitive Patch 1.0 DPS benchmark. Her ability to deal sustained damage without relying on complex animation cancels makes her both beginner-friendly and incredibly potent in the late game.

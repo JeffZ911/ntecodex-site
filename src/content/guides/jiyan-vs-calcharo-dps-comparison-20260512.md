@@ -8,6 +8,17 @@ word_count: 1660
 published_at: "2026-05-13T02:33:28.086297+00:00"
 published_url: /guides/jiyan-vs-calcharo-dps-comparison-20260512
 sources: []
+hero_image: /img/jiyan-vs-calcharo-dps-comparison-20260512/hero.webp
+inline_images:
+  - /img/jiyan-vs-calcharo-dps-comparison-20260512/inline-1.webp
+  - /img/jiyan-vs-calcharo-dps-comparison-20260512/inline-2.webp
+  - /img/jiyan-vs-calcharo-dps-comparison-20260512/inline-3.webp
+  - /img/jiyan-vs-calcharo-dps-comparison-20260512/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the two strongest Broadblade users in Wuthering Waves often comes down to a choice between comfort and complexity. While both characters occupy the Main DPS role, their paths to maximum damage output are fundamentally different.
@@ -19,6 +30,9 @@ Choosing between the two strongest Broadblade users in Wuthering Waves often com
 Deciding whether to invest resources into Jiyan or Calcharo is a pivotal choice for any Rover looking to clear the Tower of Adversity. Both characters utilize the Broadblade and serve as the primary damage dealers for their respective teams, but they offer vastly different gameplay experiences. Jiyan is a limited 5-star Aero powerhouse known for his massive reach and ease of use, while Calcharo is a standard 5-star Electro unit who rewards high-skill execution and precise timing. This comparison breaks down their stats, mechanics, and team synergies to help you determine which one fits your account best as of May 12, 2026.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/jiyan-vs-calcharo-dps-comparison-20260512/inline-1.webp)
+
 
 If you want a character that can clear waves of enemies with minimal effort and high consistency, Jiyan is the superior choice. His ability to group enemies and deal massive Aero damage through his Resonance Liberation makes him the king of multi-target scenarios. On the other hand, Calcharo is the go-to for players who enjoy "sweaty" gameplay. While his floor is lower than Jiyan’s, his single-target ceiling remains competitive, especially when paired with the right sub-DPS to enable his complex rotations.
 
@@ -40,6 +54,9 @@ If you want a character that can clear waves of enemies with minimal effort and 
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/jiyan-vs-calcharo-dps-comparison-20260512/inline-2.webp)
+
+
 To understand the raw power of these two units, we must look at their baseline capabilities. Interestingly, at level 90, both characters share identical base Attack stats, meaning their performance delta comes entirely from their kits, multipliers, and how well they utilize their signature weapons.
 
 | Attribute | Jiyan | Calcharo |
@@ -57,6 +74,9 @@ To understand the raw power of these two units, we must look at their baseline c
 | **Best Echo Set** | Sierra Gale (5-pc) | Void Thunder (5-pc) |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/jiyan-vs-calcharo-dps-comparison-20260512/inline-3.webp)
+
 
 The gap between Jiyan and Calcharo isn't just about numbers; it's about how those numbers are delivered. Jiyan is a "sustained" DPS who stays on field and pummels everything in a wide radius. Calcharo is a "burst" DPS who relies on a very specific window of time to unleash his most powerful attacks, often requiring the player to manipulate character swap mechanics to bypass long animation frames.
 
@@ -88,6 +108,9 @@ Both characters benefit immensely from their signature 5-star weapons, but the d
 For Echoes, Jiyan utilizes the **Sierra Gale** set with the **Feilian Knight** as the primary Echo. The Feilian Knight provides an Aero DMG and Heavy Attack DMG boost upon using its skill. Calcharo uses the **Void Thunder** set with either **Thundering Mephis** or **Tempest Mephis**. The Thundering Mephis is generally preferred for its Electro and Liberation DMG buffs, though the animation is notoriously long, often requiring another swap-cancel to avoid DPS loss.
 
 ## Recommendation
+
+![Recommendation](/img/jiyan-vs-calcharo-dps-comparison-20260512/inline-4.webp)
+
 
 The choice between Jiyan and Calcharo often depends on your current roster and your patience for learning complex rotations. As the meta has evolved toward the mid-2026 landscape, Jiyan remains the more "future-proof" unit due to the sheer utility of his grouping and the ease with which he can be slotted into various Aero teams.
 
