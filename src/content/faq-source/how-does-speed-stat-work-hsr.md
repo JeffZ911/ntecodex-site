@@ -8,6 +8,17 @@ word_count: 1931
 published_at: "2026-05-13T02:36:43.132228+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-does-speed-stat-work-hsr/hero.webp
+inline_images:
+  - /img/how-does-speed-stat-work-hsr/inline-1.webp
+  - /img/how-does-speed-stat-work-hsr/inline-2.webp
+  - /img/how-does-speed-stat-work-hsr/inline-3.webp
+  - /img/how-does-speed-stat-work-hsr/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Success in the turn-based combat of the Astral Express requires more than just high damage numbers; it requires a mastery over time itself.
@@ -18,6 +29,9 @@ The Speed (SPD) stat in Honkai: Star Rail is often the deciding factor between a
 
 ## Question Restated
 
+![Question Restated](/img/how-does-speed-stat-work-hsr/inline-1.webp)
+
+
 Players frequently encounter several points of confusion regarding the SPD stat and how it translates to gameplay performance.
 
 ### The Mystery of the SPD Stat
@@ -27,6 +41,9 @@ What exactly does the Speed (SPD) stat do in Honkai: Star Rail? On the surface, 
 Why are specific numbers like 134 or 161 considered "breakpoints" for endgame content? Many players build their characters to reach 134 SPD because they are told it is the "golden standard," yet they may not understand why that specific integer is significant. Furthermore, there is often confusion regarding how SPD interacts with the Action Value (AV) numbers seen on the turn order bar. Does having more SPD always mean you go first in every wave, or are there other factors, like "Action Advance" or "Base SPD," that override your total stats?
 
 ## Direct Answer
+
+![Direct Answer](/img/how-does-speed-stat-work-hsr/inline-2.webp)
+
 
 In Honkai: Star Rail, SPD determines how frequently a character takes a turn by reducing their Action Value (AV). While SPD is the stat you see on your character sheet, AV is the actual measurement of "time" used by the game's engine to determine the turn order.
 
@@ -42,6 +59,9 @@ The simplest way to view SPD is as a multiplier for your character's total actio
 In endgame modes like Memory of Chaos (MoC), you are fighting against a cycle timer. SPD is used to secure multiple actions within a single cycle's time limit. If your DPS character is too slow, they may only attack once per cycle, whereas a high-speed DPS could attack twice. This effectively doubles your damage output without changing your Attack or Critical Hit stats. Similarly, high SPD on supports ensures they generate enough Skill Points to keep the team functioning and charge their Ultimates faster through more frequent basic attacks and skills.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-does-speed-stat-work-hsr/inline-3.webp)
+
 
 To master speed tuning, you must look past the character screen and understand how the game processes every tick of combat time.
 
@@ -98,6 +118,9 @@ Speed tuning is the process of ensuring your characters act in a specific order.
 *   **The "Bronya/Sparkle" Tuning:** A common strategy is to make your DPS slightly faster than Bronya (e.g., DPS 135 SPD, Bronya 134 SPD). The DPS acts, then Bronya immediately uses her skill to Advance the DPS, allowing them to act again instantly.
 
 ## Related
+
+![Related](/img/how-does-speed-stat-work-hsr/inline-4.webp)
+
 
 Beyond the basic math, SPD interacts with specific gear and character kits in unique ways.
 
