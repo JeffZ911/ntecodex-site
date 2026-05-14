@@ -8,6 +8,19 @@ word_count: 1821
 published_at: "2026-05-13T02:36:00.472219+00:00"
 published_url: /guides/reroll/zzz-reroll-guide-beginners-20260513
 sources: []
+hero_image: /img/zzz-reroll-guide-beginners-20260513/hero.webp
+inline_images:
+  - /img/zzz-reroll-guide-beginners-20260513/inline-1.webp
+  - /img/zzz-reroll-guide-beginners-20260513/inline-2.webp
+  - /img/zzz-reroll-guide-beginners-20260513/inline-3.webp
+  - /img/zzz-reroll-guide-beginners-20260513/inline-4.webp
+  - /img/zzz-reroll-guide-beginners-20260513/inline-5.webp
+inline_image_sections:
+  - "Why Reroll"
+  - "How to Reroll"
+  - "Best Starters"
+  - "Time Estimate"
+  - "FAQ"
 ---
 
 Getting a top-tier S-Rank Agent at the start of Zenless Zone Zero can significantly smooth out your progression through New Eridu’s toughest Hollows. While the process requires patience, securing a powerful starter ensures your resources are invested in characters that remain relevant long into the endgame.
@@ -19,6 +32,9 @@ Getting a top-tier S-Rank Agent at the start of Zenless Zone Zero can significan
 Rerolling is a common practice in HoYoverse games, and Zenless Zone Zero (ZZZ) is no exception. Because S-Rank Agents have significantly higher base stats and more complex skill kits than their A-Rank counterparts, starting with the right unit can save you weeks of grinding or hundreds of dollars in Polychromes. This guide details the most efficient paths to maximize your starting roster.
 
 ## Why Reroll
+
+![Why Reroll](/img/zzz-reroll-guide-beginners-20260513/inline-1.webp)
+
 
 The primary motivation for rerolling in Zenless Zone Zero is the massive power spike provided by S-Rank Agents. These characters are the backbone of high-level team compositions, offering unique utility or overwhelming damage that A-Rank characters struggle to match.
 
@@ -52,6 +68,9 @@ Starting with a character like Lycaon or Rina is considered "future-proof" becau
 
 ## How to Reroll
 
+![How to Reroll](/img/zzz-reroll-guide-beginners-20260513/inline-2.webp)
+
+
 Rerolling in Zenless Zone Zero is more time-consuming than in some other gacha games because there is no "Guest Account" option. Every reroll attempt requires a unique HoYoverse ID, which means you must register a new email address for every run.
 
 ### The Salted Email Strategy
@@ -84,6 +103,9 @@ Using these resources, you should have enough to perform roughly 30 to 40 pulls 
 
 ## Best Starters
 
+![Best Starters](/img/zzz-reroll-guide-beginners-20260513/inline-3.webp)
+
+
 When rerolling, your goal depends on whether you are aiming for a standard S-Rank or the current limited-time character on the "Exclusive Channel."
 
 ### S-Tier: The Must-Haves (Lycaon & Ellen Joe)
@@ -113,6 +135,9 @@ A standard effective team usually consists of **1 Attacker + 1 Stunner + 1 Suppo
 
 ## Time Estimate
 
+![Time Estimate](/img/zzz-reroll-guide-beginners-20260513/inline-4.webp)
+
+
 Rerolling in Zenless Zone Zero is a test of endurance. Unlike games with a 5-minute tutorial, ZZZ has a heavy narrative focus that slows down the process.
 
 ### Quick Reroll (25 Mins) vs. Full Reroll (45 Mins)
@@ -136,6 +161,9 @@ Rerolling in Zenless Zone Zero is a test of endurance. Unlike games with a 5-min
 For most players, rerolling is **not strictly necessary**. The game provides several powerful A-Rank characters for free, such as Anby (Stun) and Soukaku (Support), who can clear most content. However, if you are a competitive player or want to ensure you have the best possible start for the "Shiyu Defense" (endgame challenge), spending a few hours to secure Lycaon or Rina is a wise move.
 
 ## FAQ
+
+![FAQ](/img/zzz-reroll-guide-beginners-20260513/inline-5.webp)
+
 
 ### Can I get banned for rerolling?
 Manual rerolling is generally safe. HoYoverse has historically not banned players for creating multiple accounts to reroll. However, using automated scripts or third-party "reroll bots" is a violation of the Terms of Service and will likely result in a permanent ban. Also, avoid buying "starter accounts" from third-party sites, as these are often reclaimed or banned.
