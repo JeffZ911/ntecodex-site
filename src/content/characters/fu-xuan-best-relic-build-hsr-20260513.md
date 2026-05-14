@@ -9,6 +9,21 @@ published_at: "2026-05-13T02:35:18.518643+00:00"
 published_url: /characters/fu-xuan-best-relic-build-hsr-20260513
 sources: []
 character_data: {"h1": "Fu Xuan Best Relic Build HSR Guide", "game": "hsr", "role": ["Tank", "Support"], "slug": "fu-xuan-best-relic-build-hsr", "tier": "S+", "teams": [{"name": "Mono-Quantum", "members": ["Fu Xuan", "Seele", "Silver Wolf", "Sparkle"]}, {"name": "Blade Hypercarry", "members": ["Fu Xuan", "Blade", "Bronya", "Pela"]}, {"name": "F2P Friendly Sustain", "members": ["Fu Xuan", "Dan Heng", "Serval", "Asta"]}], "title": "Fu Xuan Best Relic Build HSR: Best Light Cones, Teams, and Materials", "rarity": 5, "skills": {"skill": {"name": "Known by Stars, Shown by Hearts", "description": "Activates Matrix of Prescience for 3 turns. Allies distribute 65% of the DMG they receive to Fu Xuan. All allies gain Knowledge, increasing Max HP by 3%–6.6% of Fu Xuan's Max HP and Crit Rate by 6%–13.2%.", "cooldown_sec": null}, "passives": [{"name": "Bleak Breeds Bliss", "description": "While Fu Xuan is active, Misfortune Avoidance is applied to the team, reducing DMG taken by 10%–19.6%. When Fu Xuan's HP falls to 50% or less, she restores 80%–92% of her missing HP."}, {"name": "Taiyi, the Macrocosmic", "description": "When Matrix of Prescience is active, Fu Xuan regenerates 20 extra Energy when she uses her Skill."}, {"name": "Dunjia, the Metamystic", "description": "When Fu Xuan's Ultimate is used, it heals all other allies by 5% of Fu Xuan's Max HP plus 133."}, {"name": "Liuren, the Sexagenary", "description": "If an enemy applies Crowd Control debuffs while Matrix of Prescience is active, all allies resist all CC debuffs applied during that action. Can trigger once per Skill activation."}], "ultimate": {"name": "Woes of Many Morphed to One", "description": "Deals Quantum DMG equal to 60%–108% of Fu Xuan's Max HP to all enemies and obtains 1 trigger count for the HP Restore effect granted by her Talent.", "energy_cost": 135}, "basic_attack": {"name": "Novaburst", "description": "Deals Quantum DMG equal to 25%–55% of Fu Xuan's Max HP to a single enemy."}}, "element": "Quantum", "_sources": [{"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpe-2KegJwXPetpFNgevdJPDmapCRtXNH7APAT_CIrxRQgCQwagCwt1Cot-__zZbJzp1TYEQ0OZ6pHjOIX5dBdq_cHh1ywHCXTeXTuhSZ4rl1KbMfGS1bAbr1BTzIw9VUm1vXijILInSSL0XNNKj3meSn2aundLy4Z9DI2i37frMcGexPbFQDxHv84vuIiDVX5VG2SiQ==", "title": "eurogamer.net"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOcIYLec6-y73yeHWI_109Z6-X0fundQEdUzHSWPhFiUEfkMQ3UbTznKcduJLcV0KkeKmglG_fLwX2Lzdq-Ri3KeqaSer50Oh0s6wMgfyUfAj827zkS2xuSMg9yCcIM1sJZVz_w4Yl3hK6GK3GP-1UchGUD4=", "title": "icy-veins.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx6ZIjgmqmxUtgNcUZFGO63lk7yn3xcgpQ35n75tjuVJ1a6rBW6WTav1Fnw-MB9tLBaVi8O77MX3DXVg4HA-KrIFrLJmd_HK9J71bUe_knrGehEdVotDwTmyijtdUf4vxTNBLe8ysDkvWuxW5e1fdrvyknYw==", "title": "mobalytics.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQaUWfzmmY-A8wdqBMAW33_EsnLWIauDp4Wgv16YHKEWX8n_V-xeeZPMgNnW1NCtQ7HazRxqhN3qFkeyrXJbBQFNAZ1Qzsw3yVvlGOwGztwS1oR33kfdeLxMpYwZYm9DDAhEneOttHPUZSjwAbmrzoiGPmejIwIkBCQnsKu1MJqx1lFcQPk_ePIDhivb2KN22U61sJ", "title": "ign.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9LjIkVQZ_PbtNmTBvuhFwou_CMID2L665yB2WrXJRPXzcfL7uifktC_HlDrmaULGF74N0f_kx56HSVdRFEMyWVA2bdW5-7xOx7On6NTHSYyqaO9Qq9CDM6xjmS-VcYTIB5ltz20TInFtxwTUK1F2IcP_LLfguLZI5x2Rtc2xZLdBoBdOFoF65mNUsRjF7TTHMwopGxyP4cj6hzgubWTdcS0q_", "title": "reddit.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw6iiq9s6TdeoXCqYP5_BECStxoTCw66h1AAOJldFkyXdbNnpn7vmtvWfnTqs8ztJCFcpSLceI1RNqKsOEIsY4bE553bldTqM-eKc1aWpGn7SzK7SfiNDJyDMwyCi3QHUQdQ_TPTgjcTwRN-4zq8I_Ukqv6MW5GRxM-vEPFw==", "title": "dbltap.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd3wWil-DPiexBI0zebCqk0gVOVHQpXSqjtqQtPndS-7wJCiOL6OqXcqKefpreWzKFy5-SKvwMpB5VxGXk5RqrQec6yNCF0hkYikMh4jot0Z5viqAuRGSp7yBAe87FpXiuH2OALkWt4WF2qGZb4DrNgKi0-8NazLxNfK72bpvKta-83QnkGD6UspLsjoGIDcnOnw==", "title": "earlygame.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDIg-0O6UJRyR_UJFfb2IAn8daErqxUOqS_AMsx03n6qjQGPJ3GJRVkRGvUfI3C0IdBjCi61U4UzfZ4UvL1L6f2DQHKHp987qxlFr1JYTIu5Jn9X6uagl-K0tqsCDF3loE3z3ajRZSwq-qaDqLqwqG3g==", "title": "pockettactics.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeeeDuwTx8CvaUZgBfJOdpgNvvNT35KGA_jSsxoQ6EDBV0xlRombGW0vawtbmz4oRKczUpejqCq8vZ65USRuB7puZts9Q-T1DZ48qUEOV4vheOPlRn-GFYx320U81NQHq3msanPByiWSdEOsbOMblxzZZrdlolTBxRS_G7LyQ8e-VaiTbYJtVHKYUzVyUhnu6CVw==", "title": "gamerant.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT7-cyjWiLrijkF3enUL6GvKG1Gle9mwY4CYgf7l5raMWlSgJ88Agm2v1Dc6JdP7OFYR1pg_eC04iN_aeF2VcoxAQt1CVqajjlHkuw5L2TVNxDjkTsnrBxBAzMf_NvvcqadLI=", "title": "hoyolab.com"}], "sections": [{"h2": "Fu Xuan Overview: The Master Diviner", "key_points": ["Fu Xuan is a 5-star Quantum Preservation character who sustains by absorbing damage rather than shielding.", "She provides significant offensive buffs, including Max HP and Crit Rate increases for the entire team.", "Her self-healing talent makes her incredibly durable in long-form content like Memory of Chaos."], "data_required": []}, {"h2": "Fu Xuan Skills & Trace Priority", "key_points": ["Prioritize Skill and Talent for maximum damage reduction and team survivability.", "Ultimate is essential for recharging her self-heal stacks.", "Unlock Major Traces (A2, A4, A6) as soon as possible for energy and CC resistance."], "data_required": ["skills table"]}, {"h2": "Ascension and Trace Materials", "key_points": ["Farm the Stagnant Shadow: Shape of Abomination for Nail of the Ape.", "Collect Artifex materials from Entranced Ingenia enemies on the Xianzhou Luofu.", "Endurance of Bronze series is required for Preservation Trace leveling."], "data_required": ["materials table"]}, {"h2": "Best Relic and Planar Ornament Build", "key_points": ["The 2pc Longevous + 2pc Guard combo offers the best balance of HP and Damage Reduction.", "Speed boots are vital to ensure she can refresh her Matrix of Prescience before it expires.", "Energy Regeneration Rate rope is mandatory to maintain Ultimate uptime for healing charges."], "data_required": ["build table"]}, {"h2": "Top Light Cones for Fu Xuan", "key_points": ["She Already Shut Her Eyes is her BiS, providing HP, ERR, and team-wide DMG buffs.", "Texture of Memories (Herta Store) is the best F2P option for increased survivability.", "Landau's Choice is excellent for drawing aggro away from squishy DPS units."], "data_required": []}, {"h2": "Best Team Compositions", "key_points": ["Fu Xuan is the cornerstone of the Mono-Quantum team, enabling Silver Wolf's weakness implant.", "She synergizes perfectly with Blade, as she allows him to take damage for his stacks without dying.", "Her Crit Rate buff makes her a universal support for any Crit-based hypercarry."], "data_required": []}], "best_build": {"disks": [{"set": "2pc Longevous Disciple + 2pc Guard of Wuthering Snow", "main_stats": {"feet": "Speed", "head": "HP (Fixed)", "rope": "Energy Regeneration Rate", "chest": "HP%", "sphere": "HP%"}, "sub_priority": ["HP%", "Speed", "Effect RES", "DEF%"]}, {"set": "Planar: Broken Keel", "main_stats": {"rope": "Energy Regeneration Rate", "sphere": "HP%"}, "sub_priority": ["Effect RES (to 30%)", "HP%", "Speed"]}], "weapons": ["She Already Shut Her Eyes", "Texture of Memories", "Landau's Choice", "Day One of My New Life"]}, "image_specs": [{"position": "hero", "description": "Fu Xuan standing in the Divination Commission with the Matrix of Prescience active.", "aspect_ratio": "16:9"}, {"position": "build_section", "description": "Infographic showing Longevous Disciple and Guard of Wuthering Snow relic sets.", "aspect_ratio": "4:3"}], "weapon_type": "Unknown", "article_type": "character_db", "character_id": "fu xuan", "internal_links": [{"anchor_text": "Honkai Star Rail Tier List", "target_keyword": "hsr tier list"}, {"anchor_text": "Best Sparkle Build", "target_keyword": "sparkle best build hsr"}, {"anchor_text": "Silver Wolf Guide", "target_keyword": "silver wolf hsr build"}], "release_banner": "Foreknowledge and Forethought", "meta_description": "Master the best Fu Xuan build in Honkai: Star Rail. Discover top relics, planar ornaments, light cones, and team comps for the Master Diviner of the Xianzhou Luofu.", "ascension_materials": [{"items": ["Artifex's Module x5", "Credits x4000"], "level": 20}, {"items": ["Artifex's Module x10", "Credits x16000"], "level": 40}, {"items": ["Artifex's Cogwheel x6", "Nail of the Ape x3", "Credits x40000"], "level": 50}, {"items": ["Artifex's Cogwheel x9", "Nail of the Ape x7", "Credits x80000"], "level": 60}, {"items": ["Artifex's Gyreheart x6", "Nail of the Ape x20", "Credits x160000"], "level": 70}, {"items": ["Artifex's Gyreheart x9", "Nail of the Ape x35", "Credits x308000"], "level": 80}], "estimated_word_count": 1850}
+hero_image: /img/fu-xuan-best-relic-build-hsr-20260513/hero.webp
+inline_images:
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-1.webp
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-2.webp
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-3.webp
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-4.webp
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-5.webp
+  - /img/fu-xuan-best-relic-build-hsr-20260513/inline-6.webp
+inline_image_sections:
+  - "Fu Xuan Overview: The Master Diviner"
+  - "Fu Xuan Skills & Trace Priority"
+  - "Ascension and Trace Materials"
+  - "Best Relic and Planar Ornament Build"
+  - "Top Light Cones for Fu Xuan"
+  - "Best Team Compositions"
 ---
 
 Mastering Fu Xuan requires a deep understanding of her unique damage-mitigation mechanics and HP-scaling capabilities to ensure your team survives the toughest challenges in Honkai: Star Rail. As the Master Diviner of the Xianzhou Luofu’s Divination Commission, she stands as a premier S+ tier Preservation unit capable of solo-sustaining an entire party through damage redirection and significant offensive buffs.
@@ -20,6 +35,9 @@ Mastering Fu Xuan requires a deep understanding of her unique damage-mitigation 
 Fu Xuan changed the meta of Honkai: Star Rail upon her release, introducing a "tanking" style that moves away from traditional shielding. Instead of providing a flat shield like Gepard or Aventurine, Fu Xuan utilizes the Matrix of Prescience to absorb a massive portion of the damage her allies would otherwise take. This guide provides the definitive look at her best relic builds, light cones, and team compositions to maximize her potential in the current endgame.
 
 ## Fu Xuan Overview: The Master Diviner
+
+![Fu Xuan Overview: The Master Diviner](/img/fu-xuan-best-relic-build-hsr-20260513/inline-1.webp)
+
 
 Fu Xuan is a 5-star Quantum character following the Path of Preservation. Unlike other Preservation units that focus on preventing damage via shields, Fu Xuan excels at damage redirection and mitigation. When her Skill is active, she takes 65% of the damage intended for her teammates, effectively acting as a lightning rod for the party.
 
@@ -33,6 +51,9 @@ One of the primary reasons Fu Xuan is considered a "must-pull" or high-tier unit
 Because she scales entirely off Max HP, building her is relatively straightforward but requires hitting specific "breakpoints" for Speed and Energy Regeneration to ensure her Matrix of Prescience never expires.
 
 ## Fu Xuan Skills & Trace Priority
+
+![Fu Xuan Skills & Trace Priority](/img/fu-xuan-best-relic-build-hsr-20260513/inline-2.webp)
+
 
 Understanding Fu Xuan’s kit is essential for managing her "Matrix of Prescience" uptime. Her gameplay loop generally follows a "Skill-Basic-Basic" rotation to remain Skill Point (SP) positive while keeping her buffs active.
 
@@ -62,6 +83,9 @@ To maximize her efficiency, you should prioritize her traces in the following or
 
 ## Ascension and Trace Materials
 
+![Ascension and Trace Materials](/img/fu-xuan-best-relic-build-hsr-20260513/inline-3.webp)
+
+
 To reach Level 80 and max out her Traces, you will need to farm materials primarily found on the Xianzhou Luofu.
 
 ### Ascension Materials Table
@@ -79,6 +103,9 @@ To reach Level 80 and max out her Traces, you will need to farm materials primar
 For her Trace leveling, you will need the **Endurance of Bronze**, **Iron Guard's Spilled Blood**, and **Safeguard of Amber** series, which are the standard Preservation materials. Additionally, she requires the **Regret of Infinite Ochema** (dropped by Phantylia the Undying) for high-level Trace nodes and Tracks of Destiny.
 
 ## Best Relic and Planar Ornament Build
+
+![Best Relic and Planar Ornament Build](/img/fu-xuan-best-relic-build-hsr-20260513/inline-4.webp)
+
 
 The goal for a Fu Xuan build is to reach a high enough HP pool to survive redirected damage while maintaining enough Speed to refresh her Skill and Ultimate.
 
@@ -121,6 +148,9 @@ The most consistent build for Fu Xuan is a combination of 2-piece sets rather th
 
 ## Top Light Cones for Fu Xuan
 
+![Top Light Cones for Fu Xuan](/img/fu-xuan-best-relic-build-hsr-20260513/inline-5.webp)
+
+
 Fu Xuan’s Light Cone options vary significantly between premium and F2P choices.
 
 1.  **She Already Shut Her Eyes (5-star Signature)**
@@ -133,6 +163,9 @@ Fu Xuan’s Light Cone options vary significantly between premium and F2P choice
     Increases the wearer's DEF by 16%–24% and increases All-Type RES for all allies by 8%–12%. This is a solid "set it and forget it" support option that buffs the whole team’s bulk.
 
 ## Best Team Compositions
+
+![Best Team Compositions](/img/fu-xuan-best-relic-build-hsr-20260513/inline-6.webp)
+
 
 Fu Xuan is a universal sustain unit, but she shines in specific archetypes that benefit from her Crit Rate buff and Quantum element.
 
