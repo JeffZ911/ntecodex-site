@@ -8,6 +8,21 @@ word_count: 1942
 published_at: "2026-05-13T02:34:21.356651+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/hsr-best-harmony-characters-tier-list/hero.webp
+inline_images:
+  - /img/hsr-best-harmony-characters-tier-list/inline-1.webp
+  - /img/hsr-best-harmony-characters-tier-list/inline-2.webp
+  - /img/hsr-best-harmony-characters-tier-list/inline-3.webp
+  - /img/hsr-best-harmony-characters-tier-list/inline-4.webp
+  - /img/hsr-best-harmony-characters-tier-list/inline-5.webp
+  - /img/hsr-best-harmony-characters-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Building a powerful team in Honkai: Star Rail requires more than just a strong damage dealer; the Harmony Path provides the essential buffs that turn a good DPS into a god-tier carry.
@@ -19,6 +34,9 @@ Building a powerful team in Honkai: Star Rail requires more than just a strong d
 The Harmony Path is widely considered the most influential Path in Honkai: Star Rail. Unlike Nihility characters who focus on debuffing enemies, Harmony units provide direct stat increases, turn manipulation, and energy restoration to your own team. With the release of Version 2.2, the meta has shifted significantly with the introduction of the Harmony Trailblazer and Robin, expanding the viability of Break Effect and Follow-up Attack (FUA) compositions.
 
 ## Methodology
+
+![Methodology](/img/hsr-best-harmony-characters-tier-list/inline-1.webp)
+
 
 This tier list evaluates Harmony characters based on their performance in the game's two primary endgame modes: Memory of Chaos (MoC) and Pure Fiction (PF). While MoC favors high single-target burst and efficiency, Pure Fiction rewards speed and team-wide area-of-effect (AoE) buffs.
 
@@ -69,6 +87,9 @@ Version 2.2 marks a turning point for the Harmony Path. The introduction of Robi
 
 ## S Tier
 
+![S Tier](/img/hsr-best-harmony-characters-tier-list/inline-2.webp)
+
+
 ### Ruan Mei: The Universal Support
 
 Ruan Mei remains the most versatile Harmony character in Honkai: Star Rail. Her kit revolves around her "Overtone" buff, which provides a 50% increase to Weakness Break Efficiency. This is a unique multiplier that allows your team to deplete enemy Toughness bars significantly faster, leading to more frequent breaks and delayed enemy actions.
@@ -107,6 +128,9 @@ Super Break damage scales primarily with Break Effect and the Toughness-reducing
 
 ## A Tier
 
+![A Tier](/img/hsr-best-harmony-characters-tier-list/inline-3.webp)
+
+
 ### Asta: The Speed Demon
 
 Asta is the premier choice for players looking to hit high SPD breakpoints. Her Ultimate provides a massive flat SPD increase to the entire team, which is crucial for reaching the 160+ SPD threshold required for extra actions in MoC and Pure Fiction.
@@ -121,6 +145,9 @@ Hanya also provides a significant SPD and ATK% buff to a single ally based on he
 
 ## B Tier
 
+![B Tier](/img/hsr-best-harmony-characters-tier-list/inline-4.webp)
+
+
 ### Yukong: High Risk, High Reward
 
 Yukong possesses some of the highest raw stat buffs in the game. Her "Roaring Bowstrings" state can provide nearly 80% ATK, and her Ultimate adds massive Crit Rate and Crit DMG on top of that. However, Yukong is notoriously difficult to use because her buffs only last for the two ally turns immediately following her own.
@@ -129,6 +156,9 @@ To use Yukong effectively, your team must be "speed-tuned" so that your DPS acts
 
 ## C Tier
 
+![C Tier](/img/hsr-best-harmony-characters-tier-list/inline-5.webp)
+
+
 ### Why No Harmony Characters are Truly 'Bad'
 
 As of Version 2.2, there are no Harmony characters that fall into a traditional "C-tier" or "useless" category. The Harmony Path is currently the most balanced and high-value Path in the game. Even 4-star characters like Yukong or Asta can outperform 5-star units in specific scenarios or with high Eidolon levels.
@@ -136,6 +166,9 @@ As of Version 2.2, there are no Harmony characters that fall into a traditional 
 Every Harmony character released so far provides a unique utility that cannot be fully ignored. If a character were to be placed here, it would only be due to being strictly outclassed in every scenario, but currently, each unit has a "best-in-slot" team where they shine.
 
 ## Recent Changes
+
+![Recent Changes](/img/hsr-best-harmony-characters-tier-list/inline-6.webp)
+
 
 ### The Impact of Robin
 
