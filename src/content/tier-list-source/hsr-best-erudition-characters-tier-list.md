@@ -8,6 +8,21 @@ word_count: 1853
 published_at: "2026-05-14T20:35:28.232000+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/hsr-best-erudition-characters-tier-list/hero.webp
+inline_images:
+  - /img/hsr-best-erudition-characters-tier-list/inline-1.webp
+  - /img/hsr-best-erudition-characters-tier-list/inline-2.webp
+  - /img/hsr-best-erudition-characters-tier-list/inline-3.webp
+  - /img/hsr-best-erudition-characters-tier-list/inline-4.webp
+  - /img/hsr-best-erudition-characters-tier-list/inline-5.webp
+  - /img/hsr-best-erudition-characters-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 The Erudition Path has seen a massive resurgence in the Honkai: Star Rail meta as multi-target endgame modes continue to dominate the landscape.
@@ -19,6 +34,9 @@ The Erudition Path has seen a massive resurgence in the Honkai: Star Rail meta a
 In the current state of Honkai: Star Rail, the Erudition Path is no longer just a niche choice for clearing waves of minor enemies; it is the backbone of high-score runs in Pure Fiction and a competitive force in the Memory of Chaos. With the introduction of specialized supports and new mechanics that reward high attack frequency, Erudition units have moved from being "specialists" to "staples." This tier list evaluates the current roster based on their performance across all endgame modes, with a heavy emphasis on their efficiency in clearing the latest 4.x content.
 
 ## Methodology
+
+![Methodology](/img/hsr-best-erudition-characters-tier-list/inline-1.webp)
+
 
 This tier list is designed to provide a realistic look at character power for the average player. To ensure the rankings are applicable to the widest range of accounts, the following criteria were used for evaluation:
 
@@ -51,6 +69,9 @@ In the current meta, Pure Fiction remains the "home" of the Erudition Path. A ch
 
 ## S Tier
 
+![S Tier](/img/hsr-best-erudition-characters-tier-list/inline-2.webp)
+
+
 The S Tier is reserved for characters who define the meta. These units are not just powerful; they are transformative, often allowing players to ignore certain mechanics or clear content with significantly less effort than other paths.
 
 ### [Information not yet publicly available as of 2026-05-14]: The New Gold Standard
@@ -62,6 +83,9 @@ The S Tier is reserved for characters who define the meta. These units are not j
 [Information not yet publicly available as of 2026-05-14]
 
 ## A Tier
+
+![A Tier](/img/hsr-best-erudition-characters-tier-list/inline-3.webp)
+
 
 A-Tier characters are exceptionally strong and can clear all endgame content. They often require slightly more specific team compositions or higher investment in relics to match the raw output of S-tier units, but they remain top-tier choices for any account.
 
@@ -88,6 +112,9 @@ Rappa’s strength lies in her ability to handle Imaginary-weak waves in Pure Fi
 
 ## B Tier
 
+![B Tier](/img/hsr-best-erudition-characters-tier-list/inline-4.webp)
+
+
 B-Tier characters are specialized units. They are often the "kings and queens" of a specific element or game mode but struggle when moved outside of their comfort zone.
 
 ### Herta: The 4-Star MVP
@@ -103,6 +130,9 @@ Himeko has enjoyed a long tenure in the meta thanks to the frequent Fire-weaknes
 While Himeko is excellent in PF, she suffers from the same issues as Herta in boss-heavy content. If you cannot break enemy weaknesses quickly, her damage output drops significantly. However, for Fire-weak content, the Himeko + Herta "dual follow-up" team remains one of the most cost-effective ways to secure a max score.
 
 ## C Tier
+
+![C Tier](/img/hsr-best-erudition-characters-tier-list/inline-5.webp)
+
 
 Characters in the C Tier have largely been affected by power creep. While they are still capable of clearing content, they require significantly more investment (relics, eidolons, or specific supports) to achieve the same results as units in higher tiers.
 
@@ -127,6 +157,9 @@ Qingque is a "Hidden 5-Star" in the eyes of many players due to her high damage 
 Serval is rarely seen in the current endgame meta. Her scaling is lower than other 4-star options like Herta, and her role as a Lightning DoT (Damage over Time) hybrid is performed better by Nihility units like Kafka or Black Swan. While she can serve as a budget breaker for Lightning-weak content, she generally lacks the raw power needed for Version 4.x content.
 
 ## Recent Changes
+
+![Recent Changes](/img/hsr-best-erudition-characters-tier-list/inline-6.webp)
+
 
 The transition into Version 4.x has introduced several mechanical shifts that have redefined character value.
 

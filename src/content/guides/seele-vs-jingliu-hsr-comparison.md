@@ -8,6 +8,15 @@ word_count: 1593
 published_at: "2026-05-13T02:49:58.749157+00:00"
 published_url: /guides/seele-vs-jingliu-hsr-comparison
 sources: []
+hero_image: /img/seele-vs-jingliu-hsr-comparison/hero.webp
+inline_images:
+  - /img/seele-vs-jingliu-hsr-comparison/inline-2.webp
+  - /img/seele-vs-jingliu-hsr-comparison/inline-3.webp
+  - /img/seele-vs-jingliu-hsr-comparison/inline-4.webp
+inline_image_sections:
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the first limited five-star character and the legendary swordmaster of the High-Cloud Quintet defines the account progression for many Trailblazers.
@@ -35,6 +44,9 @@ Pull for **Jingliu** if you need a reliable primary DPS who can brute-force cont
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/seele-vs-jingliu-hsr-comparison/inline-2.webp)
+
+
 The following table compares the foundational stats and mechanics of both characters at Level 80 with Level 10 Traces.
 
 | Feature | Seele | Jingliu |
@@ -58,6 +70,9 @@ For Jingliu, her **Talent (Crescent Transmigration)** is the absolute priority, 
 
 ## Detailed Comparison
 
+![Detailed Comparison](/img/seele-vs-jingliu-hsr-comparison/inline-3.webp)
+
+
 ### Combat Mechanics and Playstyle
 Seele’s gameplay revolves around the **Resurgence** mechanic. When Seele reduces an enemy's HP to zero with any attack, she immediately gains an extra action and enters a "Buffed" state, increasing her DMG by 80% (at Level 10). This extra turn does not consume a turn count for the purposes of status effects or cycle limits, making her a "speed demon" in Memory of Chaos. However, Seele’s effectiveness drops significantly if she cannot secure a kill, as she lacks any innate AoE capabilities.
 
@@ -79,6 +94,9 @@ In **Memory of Chaos (MoC)**, Jingliu currently holds a slight edge. Most MoC st
 In **Pure Fiction**, the roles are reversed. Seele's Resurgence allows her to chain kills against waves of low-HP enemies, potentially taking five or more actions before the enemies even move. Jingliu is still effective here, but her "downtime" (the turns spent building Syzygy stacks) can result in lost points compared to Seele’s constant resets.
 
 ## Recommendation
+
+![Recommendation](/img/seele-vs-jingliu-hsr-comparison/inline-4.webp)
+
 
 The choice between Seele and Jingliu often comes down to your current roster and your willingness to farm high-end relics.
 

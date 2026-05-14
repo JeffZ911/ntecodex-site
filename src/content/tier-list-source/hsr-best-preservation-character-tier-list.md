@@ -8,6 +8,21 @@ word_count: 1982
 published_at: "2026-05-14T19:02:24.696090+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/hsr-best-preservation-character-tier-list/hero.webp
+inline_images:
+  - /img/hsr-best-preservation-character-tier-list/inline-1.webp
+  - /img/hsr-best-preservation-character-tier-list/inline-2.webp
+  - /img/hsr-best-preservation-character-tier-list/inline-3.webp
+  - /img/hsr-best-preservation-character-tier-list/inline-4.webp
+  - /img/hsr-best-preservation-character-tier-list/inline-5.webp
+  - /img/hsr-best-preservation-character-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Survival in the higher levels of the Simulated Universe and Memory of Chaos requires more than just high damage output; it necessitates a robust defensive backbone.
@@ -19,6 +34,9 @@ Survival in the higher levels of the Simulated Universe and Memory of Chaos requ
 Selecting the right Preservation character can be the difference between a flawless victory and a total party wipe. As the meta shifts toward characters who provide both survivability and offensive utility, understanding the nuances of shields, damage redirection, and crowd control resistance is essential for any player looking to clear endgame content. This guide ranks every Preservation unit currently available in Honkai: Star Rail as of May 2024.
 
 ## Methodology
+
+![Methodology](/img/hsr-best-preservation-character-tier-list/inline-1.webp)
+
 
 Ranking Preservation characters requires looking beyond simple defense statistics. While a high Defense (DEF) stat is the foundation for most of these units, their true value lies in how they interact with the rest of the team and the specific mechanics of the enemies they face.
 
@@ -58,6 +76,9 @@ Getting "frozen," "imprisoned," or "dominated" can lead to a quick defeat if you
 
 ## S Tier
 
+![S Tier](/img/hsr-best-preservation-character-tier-list/inline-2.webp)
+
+
 The S-Tier represents the gold standard of Preservation. These characters can solo-sustain the hardest content in the game while providing massive offensive boosts to the team.
 
 ### Aventurine: The Follow-Up Attack Specialist
@@ -78,6 +99,9 @@ For Aventurine, his signature Light Cone, "Inherently Unjust Destiny," is the be
 
 ## A Tier
 
+![A Tier](/img/hsr-best-preservation-character-tier-list/inline-3.webp)
+
+
 A-Tier characters are highly capable of sustaining a team through endgame content but lack the offensive utility or ease of use found in the S-Tier.
 
 ### Gepard: The Reliable Standard Shielder
@@ -91,6 +115,9 @@ To keep Gepard viable in the current meta, players must prioritize an ERR Link R
 Gepard has seen a resurgence in popularity thanks to the release of Acheron. When equipped with the 4-star Light Cone "Trend of the Universal Market," Gepard becomes a debuff-generating machine. Since he has a high natural aggro, enemies frequently hit him, which triggers the Light Cone's effect to Burn the enemy. Each Burn counts as a debuff, giving Acheron a stack for her Ultimate. This synergy makes Gepard arguably more valuable than some S-tier sustains in specific Acheron-centric compositions.
 
 ## B Tier
+
+![B Tier](/img/hsr-best-preservation-character-tier-list/inline-4.webp)
+
 
 B-Tier characters are functional and often free-to-play friendly but usually require a secondary sustain or very specific team builds to handle the highest difficulty content.
 
@@ -106,6 +133,9 @@ Fire Trailblazer is best used in teams where you need a consistent debuff (via T
 
 ## C Tier
 
+![C Tier](/img/hsr-best-preservation-character-tier-list/inline-5.webp)
+
+
 C-Tier characters are highly situational and are generally outperformed by the rest of the roster in general play.
 
 ### March 7th: The Niche Counter Specialist
@@ -119,6 +149,9 @@ However, March 7th struggles in the modern "AOE-heavy" meta. Because her shield 
 Despite her ranking in general content, March 7th is an S-Tier goddess within the Simulated Universe when using the Path of Remembrance. Her Ultimate has a high base chance to Freeze all enemies. When combined with Remembrance blessings that reduce enemy Freeze resistance and trigger "Dissociation" damage, March 7th can effectively "perm-freeze" bosses, preventing them from ever taking a turn. For this strategy, players should stack as much Effect Hit Rate as possible to ensure the Freeze lands consistently.
 
 ## Recent Changes
+
+![Recent Changes](/img/hsr-best-preservation-character-tier-list/inline-6.webp)
+
 
 The Preservation landscape has shifted significantly in the first half of 2024, moving away from "pure defense" and toward "defensive offense."
 
