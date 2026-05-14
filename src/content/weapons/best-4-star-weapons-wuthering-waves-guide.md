@@ -8,6 +8,19 @@ word_count: 1835
 published_at: "2026-05-13T02:49:44.214221+00:00"
 published_url: /weapons/best-4-star-weapons-wuthering-waves-guide
 sources: []
+hero_image: /img/best-4-star-weapons-wuthering-waves-guide/hero.webp
+inline_images:
+  - /img/best-4-star-weapons-wuthering-waves-guide/inline-1.webp
+  - /img/best-4-star-weapons-wuthering-waves-guide/inline-2.webp
+  - /img/best-4-star-weapons-wuthering-waves-guide/inline-3.webp
+  - /img/best-4-star-weapons-wuthering-waves-guide/inline-4.webp
+  - /img/best-4-star-weapons-wuthering-waves-guide/inline-5.webp
+inline_image_sections:
+  - "Stats"
+  - "Effect"
+  - "Best On (Characters)"
+  - "How to Get"
+  - "Comparison"
 ---
 
 Securing a powerful 5-star weapon in Wuthering Waves often requires significant luck or a heavy investment of Astrite, but many 4-star alternatives offer competitive performance for both early-game progression and endgame challenges. Understanding which 4-star weapons provide the best stat scaling and passive effects is essential for optimizing your Resonators without depleting your premium resources.
@@ -19,6 +32,9 @@ Securing a powerful 5-star weapon in Wuthering Waves often requires significant 
 While 5-star weapons like the Emerald of Genesis or Lustrous Razor boast the highest raw numbers, the 4-star weapon pool in Wuthering Waves contains several "hidden gems" that, when synthesized to higher ranks, can rival their legendary counterparts. This guide breaks down the best 4-star options, their stats, and which Resonators benefit most from their unique mechanics.
 
 ## Stats
+
+![Stats](/img/best-4-star-weapons-wuthering-waves-guide/inline-1.webp)
+
 
 The effectiveness of a 4-star weapon is determined by two primary factors: its Base ATK scaling and its Secondary Stat. In Wuthering Waves, 4-star weapons are generally divided into two tiers of Base ATK. High-tier 4-stars typically reach 459 Base ATK at Level 90, while utility or free-to-play options may cap at 412 or 337.
 
@@ -47,6 +63,9 @@ Support Resonators like Verina or Baizhi do not rely on raw damage. For these ch
 
 ## Effect
 
+![Effect](/img/best-4-star-weapons-wuthering-waves-guide/inline-2.webp)
+
+
 A weapon's passive effect can often be more impactful than its raw stats. In Wuthering Waves, these effects trigger based on specific actions, such as casting a Resonance Skill, performing Basic Attacks, or dodging.
 
 ### Top Offensive Passives for Main DPS
@@ -68,6 +87,9 @@ Synthesizing (refining) a 4-star weapon to Rank 5 (R5) can sometimes make it mor
 3.  **Low Priority:** Craftable weapons with niche triggers. Unless you have an abundance of materials, focus your resources on Gacha or Battle Pass refinements first.
 
 ## Best On (Characters)
+
+![Best On (Characters)](/img/best-4-star-weapons-wuthering-waves-guide/inline-3.webp)
+
 
 Matching the right weapon to the right Resonator is the key to clearing the Tower of Adversity. Below are the optimal 4-star pairings for the current roster.
 
@@ -93,6 +115,9 @@ Matching the right weapon to the right Resonator is the key to clearing the Towe
 
 ## How to Get
 
+![How to Get](/img/best-4-star-weapons-wuthering-waves-guide/inline-4.webp)
+
+
 Acquiring 4-star weapons involves a mix of luck, persistence, and strategic resource management.
 
 ### Gacha: Weapon Permanent and Event Banners
@@ -110,6 +135,9 @@ The craftable "Series#18" or "Series#41" weapons are decent placeholders but gen
 The "Insider Channel" of the Pioneer Podcast allows you to choose one 4-star weapon upon reaching Level 30. These weapons (Autumntrace, Lumingloss, Augment, Stonard, and Thunderbolt) are unique because they are the only 4-star weapons that provide a Crit Rate secondary stat. For players looking to optimize their Main DPS, the Pioneer Podcast is the most reliable way to secure a top-tier 4-star weapon.
 
 ## Comparison
+
+![Comparison](/img/best-4-star-weapons-wuthering-waves-guide/inline-5.webp)
+
 
 Deciding whether to invest in a 4-star weapon or hold out for a 5-star depends on your account's current needs and your willingness to refine.
 
