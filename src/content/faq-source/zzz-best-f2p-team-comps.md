@@ -8,6 +8,17 @@ word_count: 1523
 published_at: "2026-05-13T02:33:41.608966+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/zzz-best-f2p-team-comps/hero.webp
+inline_images:
+  - /img/zzz-best-f2p-team-comps/inline-1.webp
+  - /img/zzz-best-f2p-team-comps/inline-2.webp
+  - /img/zzz-best-f2p-team-comps/inline-3.webp
+  - /img/zzz-best-f2p-team-comps/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Building a powerful roster in Zenless Zone Zero doesn't require a massive budget if you understand how to leverage the game's synergy mechanics and free-to-play characters. By utilizing the guaranteed agents provided through the story and events, you can clear even the most difficult endgame challenges without spending Polychromes on the limited banners.
@@ -18,6 +29,9 @@ Building a powerful roster in Zenless Zone Zero doesn't require a massive budget
 
 ## Question Restated
 
+![Question Restated](/img/zzz-best-f2p-team-comps/inline-1.webp)
+
+
 What are the most effective team compositions for free-to-play (F2P) players in Zenless Zone Zero? As players progress through New Eridu, identifying which characters provide the highest value without requiring a financial investment is crucial for resource management. 
 
 Which characters can be obtained for free through the story, events, and pre-registration? New players often overlook guaranteed rewards that can form the backbone of a meta-relevant squad. Understanding the acquisition path for agents like Soukaku or Ben Bigger allows for better long-term planning.
@@ -25,6 +39,9 @@ Which characters can be obtained for free through the story, events, and pre-reg
 How do F2P teams perform in endgame content like Shiyu Defense? Many players worry that A-Rank agents cannot keep up with S-Rank powerhouses in the later stages of the Frontier or Stable Nodes. However, with the correct W-Engines and Drive Disc configurations, free-to-play compositions are more than capable of achieving S-Rank clears.
 
 ## Direct Answer
+
+![Direct Answer](/img/zzz-best-f2p-team-comps/inline-2.webp)
+
 
 The best F2P team in ZZZ is the "Cunning Hares" starter trio, consisting of Anby (Stun), Billy (Attack), and Nicole (Support). This team is provided to every player during the prologue and features perfect faction synergy, which activates all three characters' "Additional Abilities" for maximum combat efficiency.
 
@@ -46,6 +63,9 @@ Characters like Soukaku and Nicole are considered "hidden S-tiers" due to their 
 | Soukaku | Support | Ice | Section 6 | Shiyu Defense / Permanent Event |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/zzz-best-f2p-team-comps/inline-3.webp)
+
 
 Success in Zenless Zone Zero's combat system relies on a specific rhythm: building Daze to stun the enemy, applying buffs or debuffs, and then unleashing a high-damage burst window. This "Holy Trinity" of Stunner, Support, and Attack is the foundation of every successful F2P team.
 
@@ -111,6 +131,9 @@ To succeed, you must split your free characters effectively. A common strategy i
 Focus your limited resources on leveling your two main Attackers (Billy and Corin/Anton) to the maximum level first. Support and Stun units can function effectively even if they are 10 levels behind, as long as their Core Passives and W-Engines are upgraded.
 
 ## Related
+
+![Related](/img/zzz-best-f2p-team-comps/inline-4.webp)
+
 
 *   Zenless Zone Zero Character Tier List
 *   How to Get Free Master Tapes and Polychromes

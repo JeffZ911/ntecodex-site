@@ -19,6 +19,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdP5xGgUPkkYAhgB73IxF-vV5mDbE3sU2VKFhVAQ6QBKPvbMFZwUSiBwCfauiwtmEtEZWQzPx1Mtogfn8aJneWdvKef5VHzcz-n_cByzW2B21kYk3msEcqAUIF_DotF4D7WMzaMF8Ag_n2n5r2KzXZqBCI28n6qQF-NA3hVKlWSQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF383dhKPBMOqBRDgmys3ENww1yWikeflfa2F5t426vaZaCZbbu3NICzE52Cl-PRv0GxUcj-eUXWMKEHaB_JXYuIIzSqejZ8Fi8vnSV2uHhrhWfylR4hYaNeh4CaDpuVaXJZBKcg2CcfNZW4NJLAgPmfTxvKd_PwKAEqoR-NaRRLwIRs2TWoqrkcYjLX2iVQhjkJIPg_lccfiMPpwgg2qHdfYj1ch4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHcGacOyT2cEjbJVDEP6uwRJuHjf6hWjoFZphQp59nfyY85_2MQx6h-3WAs7Jt5nZNSQH7oKFALHCOPYEtHzNfLkckBtIW4qYLFwgYIY1GmChi88Hbt_WEZbZPxbXMQlEPt6CtolaUiPJLtXp006-C9D0LJRP1Xjc="
+hero_image: /img/nanally-vs-hotori-nte-comparison-guide/hero.webp
+inline_images:
+  - /img/nanally-vs-hotori-nte-comparison-guide/inline-1.webp
+  - /img/nanally-vs-hotori-nte-comparison-guide/inline-2.webp
+  - /img/nanally-vs-hotori-nte-comparison-guide/inline-3.webp
+  - /img/nanally-vs-hotori-nte-comparison-guide/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 With the global launch of Neverness to Everness (NTE) finally here as of April 29, 2026, players are facing the first major dilemma of the 1.0 meta: choosing between the two debut S-Rank powerhouses.
@@ -30,6 +41,9 @@ With the global launch of Neverness to Everness (NTE) finally here as of April 2
 The Hethereau skyline is currently dominated by two distinct playstyles hailing from the Eibon Antique Shop faction. [Nanally](/characters/nanally-guide-nte), the high-energy Anima brawler, and [Hotori](/characters/hotori-best-team-nte), the methodical Cosmos time-controller, represent the pinnacle of the version 1.0 "Scarborough Fair" banners. While both characters are top-tier additions to any roster, their roles in combat and exploration couldn't be more different. Choosing between them requires a deep look at whether your account needs a foundational "carry" or a strategic force multiplier that breaks the rules of the game’s instance timers.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/nanally-vs-hotori-nte-comparison-guide/inline-1.webp)
+
 
 If you are looking for a quick decision to spend your Solid Dice, the choice boils down to your current roster needs and technical preference.
 
@@ -47,6 +61,9 @@ Hotori operates on a more technical level. As a Cosmos-element Solid-type Arc us
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/nanally-vs-hotori-nte-comparison-guide/inline-2.webp)
+
+
 Before diving into the mechanical nuances, here is how these two Eibon members stack up statistically and fundamentally.
 
 | Attribute | Nanally | Hotori |
@@ -62,6 +79,9 @@ Before diving into the mechanical nuances, here is how these two Eibon members s
 | **Banner Phase** | Version 1.0, Phase 1 | Version 1.0, Phase 2 |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/nanally-vs-hotori-nte-comparison-guide/inline-3.webp)
+
 
 To truly understand which character fits your playstyle, we must look at how they function when the "Esper Cycle" begins and the anomalies start appearing.
 
@@ -86,6 +106,9 @@ While this guide compares them, it is worth noting that Nanally and Hotori are a
 Nanally’s high hit frequency from her Vita Pistils and Underboss follow-ups helps build "Esper Cycle" energy rapidly. Hotori can then record Nanally’s "More Than Passionate" support skill (which fires 10 rapid shots) and replay it during the Time Stop window. This creates a loop where Nanally deals sustained damage, and Hotori provides the "finisher" burst that ensures no enemy survives the rotation. If you are lucky enough to pull both through the [Scarborough Fair gacha system](#TODO:keyword:nte-gacha-guide), you will have the strongest 1.0 duo currently available.
 
 ## Recommendation
+
+![Recommendation](/img/nanally-vs-hotori-nte-comparison-guide/inline-4.webp)
+
 
 Choosing who to pull depends heavily on your current resources (Solid Dice and Annulith) and what your account currently lacks.
 

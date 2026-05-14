@@ -8,6 +8,17 @@ word_count: 2294
 published_at: "2026-05-13T02:28:11.593500+00:00"
 published_url: /news/nte-1-1-patch-release-date-banners-leaks
 sources: []
+hero_image: /img/nte-1-1-patch-release-date-banners-leaks/hero.webp
+inline_images:
+  - /img/nte-1-1-patch-release-date-banners-leaks/inline-1.webp
+  - /img/nte-1-1-patch-release-date-banners-leaks/inline-2.webp
+  - /img/nte-1-1-patch-release-date-banners-leaks/inline-3.webp
+  - /img/nte-1-1-patch-release-date-banners-leaks/inline-4.webp
+inline_image_sections:
+  - "What Happened"
+  - "Key Changes"
+  - "Player Reactions"
+  - "What's Next"
 ---
 
 The supernatural urban landscape of Hethereau is about to expand as Hotta Studio prepares for its first major content update following a massive global launch. As players stabilize their teams and explore the anomalies of the city, the focus shifts toward the upcoming NTE 1.1 patch release date and the high-octane content arriving with it.
@@ -19,6 +30,9 @@ The supernatural urban landscape of Hethereau is about to expand as Hotta Studio
 The launch of Neverness to Everness on April 29, 2026, marked a significant milestone for open-world RPGs, blending urban lifestyle simulation with high-stakes supernatural combat. With the first month of service nearing its conclusion, the community is looking ahead to the Version 1.1 update. This update is not merely a bug-fix patch; it represents the first major expansion of the Hethereau experience, introducing highly anticipated characters like Lacrimosa and Chaos, alongside a prestigious partnership with Porsche.
 
 ## What Happened
+
+![What Happened](/img/nte-1-1-patch-release-date-banners-leaks/inline-1.webp)
+
 
 Since its debut, Neverness to Everness has maintained a brisk pace of content delivery. The initial launch period, known as Version 1.0, was designed to introduce the core mechanics of the Bureau of Anomaly Control and the daily life of an urban esper. The game’s debut was structured around two distinct banner phases, allowing players to focus their resources on specific S-Rank anchors.
 
@@ -45,6 +59,9 @@ A pivotal moment in the 1.0 cycle occurred on May 3, 2026. In response to minor 
 | **Version 1.1** | **Lacrimosa / Chaos** | **June 4, 2026** | **TBA** | **Chaos / Various** |
 
 ## Key Changes
+
+![Key Changes](/img/nte-1-1-patch-release-date-banners-leaks/inline-2.webp)
+
 
 Version 1.1 is set to be a transformative update for Neverness to Everness. While 1.0 established the world, 1.1 aims to deepen the systems that make Hethereau feel like a living city. The headline additions are the two new S-Rank characters, but the systemic changes to monetization and housing are equally significant for the game's long-term health.
 
@@ -89,6 +106,9 @@ Finally, Hotta Studio is addressing the "AI Asset" controversy. During the 1.0 l
 
 ## Player Reactions
 
+![Player Reactions](/img/nte-1-1-patch-release-date-banners-leaks/inline-3.webp)
+
+
 The community response to the upcoming 1.1 update has been a mix of high-speed hype and cautious observation. As with any major live-service launch, the "honeymoon phase" is beginning to transition into a more critical evaluation of the game's systems and long-term viability.
 
 ### The AI Asset Controversy Fallout
@@ -121,6 +141,9 @@ Ongoing discussions regarding technical performance continue to dominate the off
 | **Optimization** | Negative | Shader stuttering and high CPU usage on PC. |
 
 ## What's Next
+
+![What's Next](/img/nte-1-1-patch-release-date-banners-leaks/inline-4.webp)
+
 
 Beyond the immediate horizon of Version 1.1, leaks and official teasers have already begun to paint a picture of the game's future. Hotta Studio appears to have a roadmap that extends well into the end of 2026, with plans for new districts, multiplayer expansions, and platform-specific optimizations.
 
