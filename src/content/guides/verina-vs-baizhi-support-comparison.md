@@ -8,6 +8,17 @@ word_count: 1776
 published_at: "2026-05-13T02:48:59.757757+00:00"
 published_url: /guides/verina-vs-baizhi-support-comparison
 sources: []
+hero_image: /img/verina-vs-baizhi-support-comparison/hero.webp
+inline_images:
+  - /img/verina-vs-baizhi-support-comparison/inline-1.webp
+  - /img/verina-vs-baizhi-support-comparison/inline-2.webp
+  - /img/verina-vs-baizhi-support-comparison/inline-3.webp
+  - /img/verina-vs-baizhi-support-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing the right support character is the most important decision for your account progression in Wuthering Waves, as these units determine how effectively your Main DPS can clear endgame content like the Tower of Adversity.
@@ -19,6 +30,9 @@ Choosing the right support character is the most important decision for your acc
 In the current Wuthering Waves meta, team compositions almost always follow a "Main DPS / Sub-DPS / Support" structure. While damage dealers like Jiyan or Jinshi often take the spotlight, the effectiveness of these units is directly tied to the buffs and healing provided by their support. Currently, the two primary dedicated healers in the game are Verina, a 5-star Spectro Rectifier user, and Baizhi, a 4-star Glacio Rectifier user. While they share similar roles, their efficiency, buff durations, and resource requirements differ significantly.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/verina-vs-baizhi-support-comparison/inline-1.webp)
+
 
 If you are looking for the absolute best support to maximize your damage and minimize field time, Verina is the winner. However, because the Tower of Adversity requires three separate teams for the final stages, Baizhi remains a mandatory investment for most players.
 
@@ -38,6 +52,9 @@ Despite Verina’s superiority, Baizhi is not obsolete. Wuthering Waves' endgame
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/verina-vs-baizhi-support-comparison/inline-2.webp)
+
+
 The following table breaks down the technical differences between Verina and Baizhi to help you understand their scaling and utility.
 
 | Stat/Mechanic | Verina | Baizhi |
@@ -55,6 +72,9 @@ The following table breaks down the technical differences between Verina and Bai
 Verina’s scaling with ATK is a double-edged sword; while it makes her healing powerful and allows her to contribute minor chip damage, she is inherently squishier than Baizhi. Baizhi scales entirely with HP, meaning a properly built Baizhi can survive heavy hits in the Tower of Adversity that might one-shot a lower-level Verina.
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/verina-vs-baizhi-support-comparison/inline-3.webp)
+
 
 To understand why Verina sits at the top of every tier list while Baizhi remains a solid "A-Tier" alternative, we must examine their specific mechanics, energy generation, and how they interact with the game's "Deepen" damage multiplier.
 
@@ -93,6 +113,9 @@ For the Main Echo slot, the **Bell-Borne Geochelone** is the universal choice. I
 4.  **Rectifier#25 (3-Star):** A decent F2P starter weapon for Baizhi due to the HP sub-stat.
 
 ## Recommendation
+
+![Recommendation](/img/verina-vs-baizhi-support-comparison/inline-4.webp)
+
 
 Choosing between Verina and Baizhi usually isn't a matter of "who is better," but rather "who goes on which team." 
 
