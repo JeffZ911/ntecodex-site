@@ -8,6 +8,17 @@ word_count: 1708
 published_at: "2026-05-13T02:33:01.122941+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-to-farm-echoes-wuwa/hero.webp
+inline_images:
+  - /img/how-to-farm-echoes-wuwa/inline-1.webp
+  - /img/how-to-farm-echoes-wuwa/inline-2.webp
+  - /img/how-to-farm-echoes-wuwa/inline-3.webp
+  - /img/how-to-farm-echoes-wuwa/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Maximizing your Resonator’s combat potential in Wuthering Waves requires a deep understanding of the Echo system, the game’s unique equipment mechanic that allows you to absorb the powers of defeated monsters. Unlike traditional gear systems, farming Echoes involves an active hunt across the overworld, strategic use of Waveplates in Tacet Fields, and careful management of your Data Bank level to ensure the highest rarity drops.
@@ -17,6 +28,9 @@ Maximizing your Resonator’s combat potential in Wuthering Waves requires a dee
 
 
 ## Question Restated
+
+![Question Restated](/img/how-to-farm-echoes-wuwa/inline-1.webp)
+
 
 Efficiently farming Echoes is the most consistent way to increase your Union Level and improve your character builds. Players often find themselves asking: what is the most efficient way to farm Echoes in Wuthering Waves? Because Echoes provide both primary stats and powerful active abilities, knowing where to find specific monsters and how to manipulate drop rates is essential for end-game progression.
 
@@ -38,6 +52,9 @@ Because Gold Echoes offer significantly higher base stats and allow for five "Tu
 
 ## Direct Answer
 
+![Direct Answer](/img/how-to-farm-echoes-wuwa/inline-2.webp)
+
+
 Echo farming in Wuthering Waves is primarily executed by defeating enemies in the overworld and absorbing their remains. To maximize efficiency, you must level up your Data Bank by capturing new types of Echoes and higher-rarity versions of existing ones; this increases both the Echo drop rate and the chance of receiving 5-star (Gold) rarity.
 
 For targeted farming, Tacet Fields are the most reliable source for specific Echo sets and the necessary materials for leveling (Sealed Tubes) and unlocking sub-stats (Tuners). While overworld mobs respawn daily, bosses (4-cost Echoes) respawn every 2 minutes. For players who have exhausted their own world’s resources, Co-op mode allows you to join other players' worlds to continue farming, effectively bypassing daily respawn limits.
@@ -51,6 +68,9 @@ For targeted farming, Tacet Fields are the most reliable source for specific Ech
 | **Echo Gallery Tracking** | Finding specific monsters | 0 Waveplates | Targeted Echo drops |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-farm-echoes-wuwa/inline-3.webp)
+
 
 ### Maximizing Your Data Bank Level Fast
 
@@ -98,6 +118,9 @@ The "Data Merge" feature (accessible through the Data Bank menu) allows you to r
 If you have cleared your map of specific 3-cost enemies (like the Cyan-Feathered Heron), you can join a friend's world. If both players are present when a monster dies, both players can see and absorb their own individual Echo drop. This is the most efficient way to farm 3-cost Echoes with specific elemental damage bonuses, as it bypasses the 24-hour overworld respawn timer.
 
 ## Related
+
+![Related](/img/how-to-farm-echoes-wuwa/inline-4.webp)
+
 
 ### How to Level and Tune Your Echoes
 

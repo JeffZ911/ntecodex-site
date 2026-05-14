@@ -8,6 +8,21 @@ word_count: 1913
 published_at: "2026-05-13T02:24:59.710862+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/nte-tier-list-best-characters--archived-20260510/hero.webp
+inline_images:
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-1.webp
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-2.webp
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-3.webp
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-4.webp
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-5.webp
+  - /img/nte-tier-list-best-characters--archived-20260510/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Mastering the urban anomalies of Hethereau requires a team of Espers capable of handling high-speed combat and complex elemental synergies. This Neverness to Everness (NTE) tier list ranks every character available at launch to help you prioritize your resources for the most challenging content in Beyond the Rails and Fracture Circle.
@@ -21,6 +36,9 @@ With the official release of Neverness to Everness on April 29, 2026, players ha
 Whether you are looking to optimize your first limited banner pulls or trying to build a viable free-to-play team using story units, understanding the current meta is essential. This guide evaluates characters based on their performance in endgame anomaly containment, their ease of use in the open world, and their long-term investment value.
 
 ## Methodology
+
+![Methodology](/img/nte-tier-list-best-characters--archived-20260510/inline-1.webp)
+
 
 The rankings in this tier list are derived from extensive testing during the launch window of May 2026. We prioritize characters who excel in the "Beyond the Rails" endgame mode, where enemy Break meters are high and survival depends on efficient rotation management.
 
@@ -55,6 +73,9 @@ The core of NTE combat revolves around the six elemental attributes: **Anima, Ch
 ---
 
 ## S Tier
+
+![S Tier](/img/nte-tier-list-best-characters--archived-20260510/inline-2.webp)
+
 
 The characters in S Tier are the current gold standard for NTE. They possess kits that are either mathematically superior in damage or provide utility that cannot be easily replaced by other units.
 
@@ -97,6 +118,9 @@ Daffodill (**Chaos**) is the game's premier "Breaker." In NTE, bosses have a **B
 
 ## A Tier
 
+![A Tier](/img/nte-tier-list-best-characters--archived-20260510/inline-3.webp)
+
+
 A-Tier characters are highly effective and can clear all current content. However, they may require more investment (better weapons or specific team compositions) to match the raw efficiency of S-Tier units.
 
 ### Baicang and the Scorch Meta
@@ -125,6 +149,9 @@ Fadia (**Psyche**) belongs to the **Bureau of Anomaly Control (ETD-4)**. She is 
 
 ## B Tier
 
+![B Tier](/img/nte-tier-list-best-characters--archived-20260510/inline-4.webp)
+
+
 B-Tier characters are generally outclassed by the units above but remain viable for early-to-mid-game progression or as placeholders while you wait for better pulls.
 
 ### Mint: The Story-Starter's Ceiling
@@ -147,6 +174,9 @@ Aurelia (**Psyche**) is provided as a 3-day login reward. She offers basic heali
 
 ## C Tier
 
+![C Tier](/img/nte-tier-list-best-characters--archived-20260510/inline-5.webp)
+
+
 C-Tier characters currently struggle to find a place in the meta due to low numbers or kits that don't synergize well with the current elemental reactions.
 
 ### Why Edgar Struggles in the Current Meta
@@ -157,6 +187,9 @@ Edgar (**Cosmos**) is currently the lowest-performing unit. As a sustain-oriente
 Unless you are missing a Cosmos unit entirely for specific puzzle requirements in the open world, Edgar is generally safe to leave at Level 1. You are better off spending your resources on [best weapons in NTE](#TODO:keyword:nte-best-weapons) for your S-tier units.
 
 ## Recent Changes
+
+![Recent Changes](/img/nte-tier-list-best-characters--archived-20260510/inline-6.webp)
+
 
 The meta in Neverness to Everness is evolving rapidly as players uncover new "Triple Cycle" synergies. These involve rotating through three specific elements to keep multiple reactions active simultaneously.
 

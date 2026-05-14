@@ -8,6 +8,19 @@ word_count: 2123
 published_at: "2026-05-13T02:25:15.764459+00:00"
 published_url: /guides/reroll/nte-reroll-guide
 sources: []
+hero_image: /img/nte-reroll-guide/hero.webp
+inline_images:
+  - /img/nte-reroll-guide/inline-1.webp
+  - /img/nte-reroll-guide/inline-2.webp
+  - /img/nte-reroll-guide/inline-3.webp
+  - /img/nte-reroll-guide/inline-4.webp
+  - /img/nte-reroll-guide/inline-5.webp
+inline_image_sections:
+  - "Why Reroll"
+  - "How to Reroll"
+  - "Best Starters"
+  - "Time Estimate"
+  - "FAQ"
 ---
 
 Starting your journey in the supernatural urban sprawl of Hethereau with a top-tier S-Rank character ensures you can clear difficult Oddity encounters and speed through the early story chapters. This guide provides the most efficient methods to secure elite units like [Nanally](/characters/nanally-guide-nte) or Hathor during the launch window of Neverness to Everness (NTE).
@@ -19,6 +32,9 @@ Starting your journey in the supernatural urban sprawl of Hethereau with a top-t
 In a game where urban exploration and high-octane combat collide, having a strong foundation is the difference between struggling with early-game bosses and breezing through the streets of Hethereau. Neverness to Everness features a diverse cast of Espers, each with unique elemental affinities and mobility options that drastically change how you interact with the open world.
 
 ## Why Reroll
+
+![Why Reroll](/img/nte-reroll-guide/inline-1.webp)
+
 
 Rerolling is the practice of resetting your account progress early on to use your initial free summons to pull for the highest-tier characters. In Neverness to Everness, this is particularly valuable due to the power gap between standard A-Rank units and the specialized S-Rank Espers available at launch.
 
@@ -47,6 +63,9 @@ Every player eventually gets an S-Rank selector after 50 pulls on the beginner/s
 | **Standard (Post-50)** | 90 Pulls | Random S-Rank | Fabricated Dice |
 
 ## How to Reroll
+
+![How to Reroll](/img/nte-reroll-guide/inline-2.webp)
+
 
 The reroll process in Neverness to Everness is straightforward but requires a bit of patience during the initial tutorial sequence. To maximize your efficiency, you should use a PC if possible, as the loading times and menu navigation are significantly faster than on mobile devices.
 
@@ -80,6 +99,9 @@ Ensure you use these codes before heading to the Fair to maximize your pulls:
 *   **HETHEREAU2026:** 100 Annulith, 3x Upgrade Materials.
 
 ## Best Starters
+
+![Best Starters](/img/nte-reroll-guide/inline-3.webp)
+
 
 Knowing who to aim for is just as important as the reroll itself. The current meta favors high-mobility DPS units and characters who can "Break" enemy defenses quickly.
 
@@ -116,6 +138,9 @@ For a more detailed breakdown of every unit in the game, check out our [NTE Tier
 
 ## Time Estimate
 
+![Time Estimate](/img/nte-reroll-guide/inline-4.webp)
+
+
 Rerolling is a game of statistics. Depending on your luck, you might finish in one try or twenty. However, understanding the time investment helps you decide when to settle for a "good enough" account.
 
 ### Average Duration per Cycle
@@ -135,6 +160,9 @@ Expect to spend 2-3 hours if you are strictly aiming for a specific limited char
 *   **45 Minutes:** 50 Pulls (Standard) + Selector. Best for players who want a guaranteed S-Rank and are willing to play a bit longer.
 
 ## FAQ
+
+![FAQ](/img/nte-reroll-guide/inline-5.webp)
+
 
 **Does NTE have a 50/50?**
 No, limited banners in Neverness to Everness do not have a 50/50 mechanic. If you trigger an S-Rank pull on a featured banner, you are 100% guaranteed to get the featured character.
