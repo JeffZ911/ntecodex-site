@@ -20,6 +20,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3jr4OufmIhu08B-skkQSXC6PrgsoIQu7yABeo1QfYouJRZLVyGDKWy4ihOMFMrEAfcRdmjgrq-Yv5NqMF0c1IczMiQR7LX1fac56qcoOxloPTo1FeqVTq6LCGRvK4oRI-Yp8poQPLbMzzG-uYP1CwmG-ilr6v9S_NdxxIWNkMc4bJgISi-aAy6MQX7gM9b3nhp_biUUPJ7WKcPsR1WAfwybxndw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP01JjHQhSsP-uLW3kC0O7Z4TtSj4FYkAaokRguZsjlcPNQAOn_uYS_10Iz6XBXcI9JzG3dR25k-2XBBUGxtWNelqNhoQsXtJMD0G1paQJ7V0RX-WFbTJLWdDQ7CaYrQyNhFo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExP5v_vuY0qOc4vOcdg6w20MWgfZSD1ajQy2mcErFjEqGPAVdqgC-uPwXS6LGLwm13GT9Cmprd7NH-MA1f4Hffv1jTLDe3lxpdyiMxaXtQsORhY9FkRvrokPcar0zyrVMNZ_V2ulY="
+hero_image: /img/arlecchino-vs-hu-tao-dps-comparison/hero.webp
+inline_images:
+  - /img/arlecchino-vs-hu-tao-dps-comparison/inline-1.webp
+  - /img/arlecchino-vs-hu-tao-dps-comparison/inline-2.webp
+  - /img/arlecchino-vs-hu-tao-dps-comparison/inline-3.webp
+  - /img/arlecchino-vs-hu-tao-dps-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Since the arrival of the Fourth Fatui Harbinger, the "Pyro Queen" title in Genshin Impact has been split between two polearm-wielders with vastly different philosophies. While one relies on the brink of death to fuel her funeral rites, the other uses a blood-debt mechanic to sustain a relentless offensive.
@@ -29,6 +40,9 @@ Since the arrival of the Fourth Fatui Harbinger, the "Pyro Queen" title in Gensh
 Choosing between Arlecchino and Hu Tao often comes down to a choice between comfort and a high-skill ceiling. Both characters occupy the top tier of the Pyro element, but their performance varies significantly depending on the encounter type—whether you are facing a single massive boss in the Spiral Abyss or waves of elite enemies.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/arlecchino-vs-hu-tao-dps-comparison/inline-1.webp)
+
 
 *   **Arlecchino** provides superior AoE (Area of Effect) and significantly higher ease of use. Her infusion remains accessible as long as her Bond of Life is high, making her less punished by rotation errors or early character swaps.
 *   **Hu Tao** maintains her status as the premier single-target Vaporize specialist. When paired with a "Double Hydro" core (Yelan and Xingqiu) or the Furina/Xianyun plunge shell, her ceiling for boss-killing remains slightly higher than Arlecchino's at equal investment.
@@ -45,6 +59,9 @@ For Free-to-Play (F2P) players, Arlecchino is generally the more "complete" unit
 The shift toward Arlecchino in the current meta is driven by her "sustained" damage profile. Unlike Hu Tao, whose damage is strictly confined to a 9-second window followed by a cooldown, Arlecchino’s Pyro infusion is tied to her Bond of Life. If you swap Arlecchino out to refresh a support's buff, she does not lose her ability to deal Pyro damage when she returns, provided her Bond of Life is still above the 30% threshold. This flexibility is invaluable in modern Abyss cycles where enemies often spawn in waves or have invulnerability phases that can waste a Hu Tao skill window.
 
 ## Side-by-Side Table
+
+![Side-by-Side Table](/img/arlecchino-vs-hu-tao-dps-comparison/inline-2.webp)
+
 
 The following table compares the baseline stats and core build requirements for both characters at Level 90.
 
@@ -71,6 +88,9 @@ Arlecchino's kit revolves around the **Bond of Life** mechanic. Her Elemental Sk
 Hu Tao's kit is simpler but more restrictive. She consumes 30% of her current HP to enter the **Paramita Papilio** state, gaining an ATK bonus based on her Max HP. During this state, her Charged Attacks deal massive Pyro damage and apply the **Blood Blossom** effect. To maximize her damage, she must stay below 50% HP to trigger her **Sanguine Rogue** passive, which grants a 33% Pyro DMG Bonus.
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/arlecchino-vs-hu-tao-dps-comparison/inline-3.webp)
+
 
 To understand who fits your account better, we must look at how these mechanics translate into actual gameplay.
 
@@ -112,6 +132,9 @@ If you are considering investing in constellations, the C1 comparison is vital.
 **Arlecchino's C1** is a pure power boost. It increases her Masque of the Red Death damage multiplier by an additional 100% and, more importantly, grants her complete resistance to interruption during her Normal Attacks. This allows her to play without a shielder in many scenarios, significantly increasing her team-building flexibility.
 
 ## Recommendation
+
+![Recommendation](/img/arlecchino-vs-hu-tao-dps-comparison/inline-4.webp)
+
 
 The decision between these two Pyro titans depends on your current roster and your preference for mechanical depth.
 
