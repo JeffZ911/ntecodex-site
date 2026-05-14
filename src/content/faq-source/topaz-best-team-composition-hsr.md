@@ -8,6 +8,17 @@ word_count: 1917
 published_at: "2026-05-13T02:36:56.588164+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/topaz-best-team-composition-hsr/hero.webp
+inline_images:
+  - /img/topaz-best-team-composition-hsr/inline-1.webp
+  - /img/topaz-best-team-composition-hsr/inline-2.webp
+  - /img/topaz-best-team-composition-hsr/inline-3.webp
+  - /img/topaz-best-team-composition-hsr/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Topaz & Numby have evolved from a niche sub-DPS into the cornerstone of the most dominant archetype in Honkai: Star Rail: the Follow-Up Attack (FUA) meta. By providing a unique vulnerability debuff that specifically amplifies follow-up damage, Topaz acts as both a damage dealer and a specialized support for the game's most powerful strikers.
@@ -15,6 +26,9 @@ Topaz & Numby have evolved from a niche sub-DPS into the cornerstone of the most
 # Topaz Best Team Composition HSR: The Ultimate Follow-Up Guide
 
 ## Question Restated
+
+![Question Restated](/img/topaz-best-team-composition-hsr/inline-1.webp)
+
 
 When building a team around Topaz & Numby, players often focus on three primary questions to maximize their investment:
 
@@ -28,6 +42,9 @@ Unlike traditional Hunt characters like Seele, who demand all the team's resourc
 Not all follow-up attacks are created equal. Topaz prefers partners who trigger follow-ups frequently rather than one large hit per cycle. This frequent triggering accelerates Numby’s action, creating a feedback loop of continuous attacks.
 
 ## Direct Answer
+
+![Direct Answer](/img/topaz-best-team-composition-hsr/inline-2.webp)
+
 
 The absolute best team composition for Topaz & Numby is the **Premium IPC Team**, consisting of **Dr. Ratio (Main DPS), Robin (Harmony), and Aventurine (Preservation)**. This team leverages the synergy between Topaz’s debuffs, Dr. Ratio’s high-frequency follow-ups, Robin’s team-wide Action Advance, and Aventurine’s defense-scaling follow-up attacks.
 
@@ -48,6 +65,9 @@ F2P players who missed the premium IPC units can still find great success pairin
 | **Hypercarry** | Topaz + Robin + Ruan Mei + Aventurine | Main DPS |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/topaz-best-team-composition-hsr/inline-3.webp)
+
 
 The power of Topaz & Numby stems from their unique interaction with the "Proof of Debt" status. Understanding how this mechanic interacts with the rest of the roster is key to mastering her team compositions.
 
@@ -100,6 +120,9 @@ While Robin and Aventurine are the best-in-slot choices, other units perform adm
 *   **Lingsha:** A newer sustain unit who features her own follow-up attacks, making her a direct upgrade over Gallagher in FUA-centric compositions.
 
 ## Related
+
+![Related](/img/topaz-best-team-composition-hsr/inline-4.webp)
+
 
 Optimizing Topaz goes beyond just picking the right teammates; she requires specific gear to facilitate the high-frequency attack loops her teams rely on.
 
