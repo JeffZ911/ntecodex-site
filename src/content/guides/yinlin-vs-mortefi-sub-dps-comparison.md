@@ -8,6 +8,17 @@ word_count: 1650
 published_at: "2026-05-13T02:36:30.018323+00:00"
 published_url: /guides/yinlin-vs-mortefi-sub-dps-comparison
 sources: []
+hero_image: /img/yinlin-vs-mortefi-sub-dps-comparison/hero.webp
+inline_images:
+  - /img/yinlin-vs-mortefi-sub-dps-comparison/inline-1.webp
+  - /img/yinlin-vs-mortefi-sub-dps-comparison/inline-2.webp
+  - /img/yinlin-vs-mortefi-sub-dps-comparison/inline-3.webp
+  - /img/yinlin-vs-mortefi-sub-dps-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Selecting the right Sub-DPS can drastically alter the performance of your team in Wuthering Waves, especially when tackling high-level content like the Tower of Adversity. While both Yinlin and Mortefi provide coordinated attacks and powerful damage amplifications, they cater to fundamentally different playstyles and Main DPS partners.
@@ -17,6 +28,9 @@ Selecting the right Sub-DPS can drastically alter the performance of your team i
 
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/yinlin-vs-mortefi-sub-dps-comparison/inline-1.webp)
+
 
 Choosing between Yinlin and Mortefi depends almost entirely on which Main DPS character you intend to build your team around. Yinlin is a premium 5-star unit designed to maximize Electro damage and Resonance Liberation damage, making her the perfect partner for characters like Calcharo and Xiangli Yao. Mortefi, a 4-star unit, specializes in augmenting Heavy Attack damage, which cements him as the essential companion for Jiyan.
 
@@ -35,6 +49,9 @@ If you have pulled for limited 5-star Electro characters or enjoy the hybrid pla
 For players just starting their journey or looking to optimize their first two teams for the Tower of Adversity, priority should be given based on weapon availability. If you possess a 5-star Rectifier like Stringmaster, Yinlin’s value skyrockets. If you have the 5-star Pistols (Static Mist), Mortefi becomes a much more attractive investment due to the high Energy Regeneration and ATK buffs that weapon provides to the team.
 
 ## Side-by-Side Table
+
+![Side-by-Side Table](/img/yinlin-vs-mortefi-sub-dps-comparison/inline-2.webp)
+
 
 The following table breaks down the core differences in their kits, buffs, and intended roles within a team composition.
 
@@ -56,6 +73,9 @@ Yinlin functions as a "burst" sub-DPS. Her goal is to enter the field, quickly b
 Mortefi is more of a traditional "battery and buffer." His value is concentrated in his Resonance Liberation, Violent Finale. While active, the on-field character triggers Mortefi's Marcato shots. The frequency of these shots is directly tied to the on-field character's attack speed and type, with Heavy Attacks triggering double the coordinated strikes. This specific interaction is why he pairs so effectively with Jiyan’s ultimate state.
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/yinlin-vs-mortefi-sub-dps-comparison/inline-3.webp)
+
 
 ### Kit Mechanics and Coordinated Attacks
 
@@ -92,6 +112,9 @@ For both characters, the **Moonlit Clouds** 5-piece Echo set is generally the be
 3.  **Novaburst (4-star):** A decent placeholder for pure damage scaling.
 
 ## Recommendation
+
+![Recommendation](/img/yinlin-vs-mortefi-sub-dps-comparison/inline-4.webp)
+
 
 ### When to Choose Yinlin
 
