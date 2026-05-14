@@ -8,6 +8,17 @@ word_count: 1681
 published_at: "2026-05-13T02:33:14.291607+00:00"
 published_url: /guides/ruan-mei-vs-robin-support-hsr-comparison
 sources: []
+hero_image: /img/ruan-mei-vs-robin-support-hsr-comparison/hero.webp
+inline_images:
+  - /img/ruan-mei-vs-robin-support-hsr-comparison/inline-1.webp
+  - /img/ruan-mei-vs-robin-support-hsr-comparison/inline-2.webp
+  - /img/ruan-mei-vs-robin-support-hsr-comparison/inline-3.webp
+  - /img/ruan-mei-vs-robin-support-hsr-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Deciding between Ruan Mei and Robin is the most common dilemma for players looking to optimize their endgame performance in Honkai: Star Rail. Both characters sit comfortably at the top of the Harmony Path tier list, yet they enable fundamentally different playstyles and team archetypes.
@@ -19,6 +30,9 @@ Deciding between Ruan Mei and Robin is the most common dilemma for players looki
 Choosing between these two powerhouses often determines whether your account excels in the "Break Meta" or the "Follow-up Attack (FUA) Meta." While Ruan Mei focuses on efficiency, delay, and universal resistance penetration, Robin provides unparalleled action economy and raw offensive stats.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/ruan-mei-vs-robin-support-hsr-comparison/inline-1.webp)
+
 
 If you are looking for a quick answer to which character deserves your Stellar Jades, the decision usually comes down to your primary DPS units.
 
@@ -37,6 +51,9 @@ As of May 2026, the meta is split between the high-floor reliability of Break te
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/ruan-mei-vs-robin-support-hsr-comparison/inline-2.webp)
+
+
 The following table breaks down the core differences in their kits, utility, and resource management.
 
 | Feature | Ruan Mei | Robin |
@@ -52,6 +69,9 @@ The following table breaks down the core differences in their kits, utility, and
 | **F2P Light Cone** | Meshing Cogs / Memories of the Past | For Tomorrow's Journey |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/ruan-mei-vs-robin-support-hsr-comparison/inline-3.webp)
+
 
 Understanding the nuances of Ruan Mei and Robin requires looking at how their buffs interact with the game's hidden mechanics, specifically regarding the toughness bar and the turn order.
 
@@ -76,6 +96,9 @@ In a standard Hypercarry setup (one DPS, two Supports), the choice depends on th
 *   **Use Robin** if the DPS is a traditional crit-based attacker (like Yunli or Argenti). The 100% Action Advance is effectively a 2x multiplier on your DPS's output for that cycle, which usually outweighs Ruan Mei’s RES PEN in short fights.
 
 ## Recommendation
+
+![Recommendation](/img/ruan-mei-vs-robin-support-hsr-comparison/inline-4.webp)
+
 
 Both units are essential for a complete roster, but your current character box should dictate your priority.
 

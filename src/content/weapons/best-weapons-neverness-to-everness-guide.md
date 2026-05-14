@@ -8,6 +8,19 @@ word_count: 2021
 published_at: "2026-05-13T02:25:29.917533+00:00"
 published_url: /weapons/best-weapons-neverness-to-everness-guide
 sources: []
+hero_image: /img/best-weapons-neverness-to-everness-guide/hero.webp
+inline_images:
+  - /img/best-weapons-neverness-to-everness-guide/inline-1.webp
+  - /img/best-weapons-neverness-to-everness-guide/inline-2.webp
+  - /img/best-weapons-neverness-to-everness-guide/inline-3.webp
+  - /img/best-weapons-neverness-to-everness-guide/inline-4.webp
+  - /img/best-weapons-neverness-to-everness-guide/inline-5.webp
+inline_image_sections:
+  - "Stats"
+  - "Effect"
+  - "Best On (Characters)"
+  - "How to Get"
+  - "Comparison"
 ---
 
 Choosing the right gear in Hethereau City can mean the difference between a clean Anomaly suppression and a total squad wipe. This guide breaks down the top-performing Arcs in the current meta to ensure your Espers are equipped for the toughest challenges.
@@ -19,6 +32,9 @@ Choosing the right gear in Hethereau City can mean the difference between a clea
 Optimizing your characters in Neverness to Everness (NTE) requires a deep understanding of Arcs—the specialized weapons that channel Esper abilities. With the game's release on April 29, 2026, the meta has quickly stabilized around high-performance S-Rank Arcs that provide massive stat boosts and game-changing passive effects. Whether you are a F2P player farming World Bosses or a collector pulling on limited banners, knowing which Arcs to prioritize is essential for progression.
 
 ## Stats
+
+![Stats](/img/best-weapons-neverness-to-everness-guide/inline-1.webp)
+
 
 The raw power of an Esper is dictated largely by the base stats of their equipped Arc. In NTE, Arcs are categorized by rarity (S, A, and B) and type (Plasma, Solid, Gas, Liquid, and Synthesis). To maximize a character's potential, you must match the Arc type to the Esper's preferred style to trigger synergy bonuses, which often include flat percentage increases to damage or energy regeneration.
 
@@ -55,6 +71,9 @@ For Main DPS characters, the priority is almost always CRIT Rate > CRIT DMG > AT
 
 ## Effect
 
+![Effect](/img/best-weapons-neverness-to-everness-guide/inline-2.webp)
+
+
 While stats provide the foundation, the "Arc Skill" defines the weapon's identity. These are unique passives or active triggers that can fundamentally change how an Esper plays. Refinement levels (Rank 1 through 5) allow players to enhance these effects by consuming duplicate Arcs. At Rank 5, most percentage-based bonuses are doubled, making some farmable A-Rank Arcs highly competitive with Rank 1 S-Ranks.
 
 ### Top Tier Offensive Effects
@@ -79,6 +98,9 @@ Refinement is the primary way to bridge the gap between F2P and "whale" accounts
 
 ## Best On (Characters)
 
+![Best On (Characters)](/img/best-weapons-neverness-to-everness-guide/inline-3.webp)
+
+
 Pairing the right Arc with the right Esper is the core of team building. While some Arcs are generalists, the "Signature" Arcs are designed specifically to complement the kits of S-Rank Espers. If you are looking to optimize your roster, refer to our [NTE character tier list](#TODO:keyword:nte-tier-list) to see where these pairings rank in the current meta.
 
 ### Best Arcs for Main DPS Espers
@@ -97,6 +119,9 @@ Pairing the right Arc with the right Esper is the core of team building. While s
 For advanced players, combining **Camellia Society** with characters who have self-damage mechanics (like some of the newer Anomaly-corrupted Espers) can result in the highest damage ceiling in the game. However, this requires a dedicated healer to prevent accidental KOs.
 
 ## How to Get
+
+![How to Get](/img/best-weapons-neverness-to-everness-guide/inline-4.webp)
+
 
 Acquiring S-Rank Arcs in Neverness to Everness involves a mix of luck, persistence, and exploration. While the gacha banner is the fastest route, many of the game's best weapons are hidden behind world activities or challenging boss fights.
 
@@ -127,6 +152,9 @@ The **Day Off** Arc is a unique reward that cannot be pulled from the gacha. To 
 ***
 
 ## Comparison
+
+![Comparison](/img/best-weapons-neverness-to-everness-guide/inline-5.webp)
+
 
 With so many options available, players often struggle to decide between a farmable Arc and a gacha-exclusive one. The gap is often smaller than it appears, especially when refinement levels are factored in.
 

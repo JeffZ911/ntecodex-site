@@ -8,6 +8,21 @@ word_count: 1908
 published_at: "2026-05-13T02:25:43.548016+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/nte-dps-tier-list/hero.webp
+inline_images:
+  - /img/nte-dps-tier-list/inline-1.webp
+  - /img/nte-dps-tier-list/inline-2.webp
+  - /img/nte-dps-tier-list/inline-3.webp
+  - /img/nte-dps-tier-list/inline-4.webp
+  - /img/nte-dps-tier-list/inline-5.webp
+  - /img/nte-dps-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Dominating the neon-lit streets of Hethereau requires more than just a fast car; you need a team of Espers capable of shredding Anomaly cores. With the game's launch meta finally settling, choosing the right damage dealer is the difference between clearing high-level hunts and hitting a hard progression wall.
@@ -19,6 +34,9 @@ Dominating the neon-lit streets of Hethereau requires more than just a fast car;
 Success in Neverness to Everness hinges on your ability to manage the "Esper Cycle" and exploit elemental weaknesses. While every character can clear the main story, the endgame Anomaly Hunts and timed challenges demand high efficiency. This tier list ranks the current roster based on their performance in the 1.0 launch version, focusing specifically on their output as primary or secondary damage dealers.
 
 ## Methodology
+
+![Methodology](/img/nte-dps-tier-list/inline-1.webp)
+
 
 Ranking characters in NTE involves more than looking at raw attack stats. The combat system is multi-layered, requiring a balance between sustained pressure and burst windows. Our evaluation follows five primary pillars:
 
@@ -59,6 +77,9 @@ Arcs act as your primary weapons. S-Rank characters typically have "Signature Ar
 
 ## S Tier
 
+![S Tier](/img/nte-dps-tier-list/inline-2.webp)
+
+
 S-Tier characters are the current gold standard. They possess high base stats, exceptional scaling, and kits that define the 1.0 meta.
 
 ### Nanally: The Anima Powerhouse
@@ -83,6 +104,9 @@ If you didn't pull for Nanally, Jiuyuan is your best alternative. Available on t
 [Sakiri](/characters/sakiri-nte-free-5-star-guide) brings the "Kiroumaru" companion to the fight, providing a constant source of Incantation damage even when she isn't the active character. Her ability to transition from high-speed motorcycle attacks to precise Incantation AoE makes her incredibly versatile. While her raw single-target DPS is slightly lower than Nanally’s, her field presence and ability to group enemies make her indispensable for timed arena challenges.
 
 ## A Tier
+
+![A Tier](/img/nte-dps-tier-list/inline-3.webp)
+
 
 A-Tier characters are powerful and can clear all current content, but they often require more specific team compositions or tighter execution than S-Tier units.
 
@@ -114,6 +138,9 @@ The protagonist (Esper Zero) is surprisingly potent in NTE. As a Cosmos attribut
 
 ## B Tier
 
+![B Tier](/img/nte-dps-tier-list/inline-4.webp)
+
+
 B-Tier characters are often A-Rank (4-star equivalent) units. They are excellent for the early-to-mid game but begin to show their limitations in late-game Anomaly Hunts.
 
 ### Mint: The CSU-2 Speedster
@@ -135,6 +162,9 @@ As shown, the gap widens as you progress. If you are a new player, refer to a [N
 
 ## C Tier
 
+![C Tier](/img/nte-dps-tier-list/inline-5.webp)
+
+
 C-Tier characters currently struggle to find a place in the meta due to clunky mechanics or poor scaling.
 
 ### Edgar: Niche Cosmos Applications
@@ -144,6 +174,9 @@ Edgar’s kit revolves around slow, telegraphed Cosmos blasts. While he can brea
 Aurelia is given to players for free very early. She uses the Psyche attribute and is essential for solving world puzzles in Hethereau. Unfortunately, her combat numbers are the lowest in the game, and she is outclassed as a damage dealer as soon as you pull any other character from the gacha.
 
 ## Recent Changes
+
+![Recent Changes](/img/nte-dps-tier-list/inline-6.webp)
+
 
 The 1.0 launch of Neverness to Everness has established a very clear "Anima" meta. This is largely due to the synergy between Nanally and the game's initial gear sets, which favor high hit-counts and follow-up damage.
 
