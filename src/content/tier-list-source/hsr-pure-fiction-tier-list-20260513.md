@@ -24,6 +24,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuaIVTAEawCwxJ3xabnQB-pFyaY1HwVSDuzREJK0oPLVTPPVIQftOYks4nxuBAxXmSLgH5gm9aifc58dhiHaW7wKAxb-ecrWYeZKONH5TB9P4bwuehGzg05-6Ex9NOdXWGQiysYWXf1qNdtdPuyOa3py47gRC_vW64guc="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPiWpHKIaTbXCOamGKoTyS1Nx8IAdqA50DTNFPPLfi20STAd4C4ViDiAzSLYIvcjFWWyT1J52XGoVvUjdM_OYcyX9jDDNaGRRp53Luos4R68Uo5V9cObaBi584NBSXZqruOJNEMiTm2f777MFa18yPA6IRWSiP"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFflZxuc_w-0XSE6fqDcLIiQTnY5LBnrKSCsLlMa5ReJLnWL69io97W3RacM1WjxUPBQ711kAmeu_wW-jM-tjIULxrATbEhpoKAcPHBW2VFcRdSNSa7kZ778TbWaOpkKlXDJD6m-4ZKj4UruOZHahpjiyP3pyCHzk4wdVsJyEPCWQ=="
+hero_image: /img/hsr-pure-fiction-tier-list-20260513/hero.webp
+inline_images:
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-1.webp
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-2.webp
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-3.webp
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-4.webp
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-5.webp
+  - /img/hsr-pure-fiction-tier-list-20260513/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 With the release of Version 4.1, the Pure Fiction meta has undergone its most significant shift since the game's launch, largely due to the introduction of the "Grit" mechanic and the arrival of the highly anticipated 5-star variant, The Herta.
@@ -33,6 +48,9 @@ With the release of Version 4.1, the Pure Fiction meta has undergone its most si
 Pure Fiction remains the ultimate test of a character's multi-target efficiency and energy economy. Unlike Memory of Chaos, which favors high single-target burst, Pure Fiction demands consistent, wide-reaching attacks to clear waves of respawning enemies within a strict cycle limit. In the current "Virtual Made Manifest" rotation, the meta has pivoted toward high-frequency follow-up attacks and Ultimate-centric compositions that can exploit the new Grit Value system.
 
 ## Methodology
+
+![Methodology](/img/hsr-pure-fiction-tier-list-20260513/inline-1.webp)
+
 
 The rankings in this May 2026 tier list are specifically tailored to the Version 4.1 "Virtual Made Manifest" rotation. We evaluate characters based on their ability to hit the maximum score of 40,000 points per half in Stage 4.
 
@@ -60,6 +78,9 @@ In Version 4.1, the "Grit" mechanic is the primary driver of high scores. When a
 For this tier list, we assume all DPS units are equipped with +15 Relics featuring optimal main stats (typically CRIT Rate/DMG bodies and ATK% or SPD boots). Support units are assumed to have sufficient Speed (134 or 160 breakpoints) to ensure they can cycle their buffs before the DPS takes action. We also consider the use of the "Commotion" or "Streets Abuzz" whimsicality buffs, which are standard for the current rotation.
 
 ## S Tier
+
+![S Tier](/img/hsr-pure-fiction-tier-list-20260513/inline-2.webp)
+
 
 The characters in S Tier are the absolute peak of the Pure Fiction meta. These units can often solo-carry a half to a 40,000-point clear with minimal support, or they provide such overwhelming utility that they make high-score chasing trivial.
 
@@ -90,6 +111,9 @@ The characters in S Tier are the absolute peak of the Pure Fiction meta. These u
 
 ## A Tier
 
+![A Tier](/img/hsr-pure-fiction-tier-list-20260513/inline-3.webp)
+
+
 A Tier characters are highly reliable and can easily achieve 30,000 to 35,000 points. While they may require more specific team building or high-investment relics compared to S Tier, they are the backbone of most players' rosters.
 
 ### A Tier Character Table
@@ -117,6 +141,9 @@ The **Kafka and Black Swan** duo remains the most consistent DoT (Damage over Ti
 
 ## B Tier
 
+![B Tier](/img/hsr-pure-fiction-tier-list-20260513/inline-4.webp)
+
+
 B Tier characters are situational. They can perform well if the elemental weaknesses align perfectly, but they often struggle to keep up with the rapid respawn rates of Pure Fiction compared to the dedicated Erudition meta.
 
 ### B Tier Character Table
@@ -142,6 +169,9 @@ B Tier characters are situational. They can perform well if the elemental weakne
 
 ## C Tier
 
+![C Tier](/img/hsr-pure-fiction-tier-list-20260513/inline-5.webp)
+
+
 Characters in C Tier are generally not recommended for Pure Fiction. Their kits are designed for single-target boss encounters, and using them in a wave-clear mode often results in failing to meet the minimum score requirements.
 
 ### C Tier Character Table
@@ -162,6 +192,9 @@ Characters in C Tier are generally not recommended for Pure Fiction. Their kits 
 **Silver Wolf** suffers a similar fate. Her DEF shred is incredibly powerful but only applies to one enemy. In Pure Fiction, you are much better off using **Pela**, whose Ultimate provides an AoE DEF shred that benefits the entire team's wave-clearing efforts.
 
 ## Recent Changes
+
+![Recent Changes](/img/hsr-pure-fiction-tier-list-20260513/inline-6.webp)
+
 
 The transition to Version 4.1 has fundamentally changed how players approach team building for Pure Fiction. The "Virtual Made Manifest" update moved away from simple "Follow-up" buffs and introduced a more complex interaction between Ultimates and the Grit system.
 
