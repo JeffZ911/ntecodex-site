@@ -8,6 +8,21 @@ word_count: 2217
 published_at: "2026-05-13T02:36:15.864390+00:00"
 published_url: /guides/wuwa-beginner-tips-and-tricks-build-guide-20260513
 sources: []
+hero_image: /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/hero.webp
+inline_images:
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-1.webp
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-2.webp
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-3.webp
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-4.webp
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-5.webp
+  - /img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Mastering the fast-paced combat and intricate progression of Wuthering Waves requires more than just quick reflexes; it demands a solid understanding of the game's unique Echo system and character synergies. This guide provides the essential strategies and the best starter build for the Rover to ensure your journey through Solaris-3 begins on the strongest possible footing.
@@ -17,6 +32,9 @@ Mastering the fast-paced combat and intricate progression of Wuthering Waves req
 
 
 ## Overview
+
+![Overview](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-1.webp)
+
 
 Wuthering Waves (WuWa) arrived on May 23, 2024, introducing a complex open-world environment where combat fluidity and monster absorption are the primary focuses. Unlike many other titles in the genre, your power is not solely determined by your character's level or the quality of your gacha pulls. Instead, the "Data Bank" serves as the backbone of your progression, dictating the quality of the "Echoes" (monsters) you can capture and equip.
 
@@ -50,6 +68,9 @@ Exploration in Wuthering Waves is highly vertical. To save stamina and move fast
 
 ## Best Weapons
 
+![Best Weapons](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-2.webp)
+
+
 For the early game, the Spectro Rover serves as your primary damage dealer. As a Sword user, the Rover benefits most from weapons that provide Crit Rate, ATK%, or Energy Regen. While 5-star weapons are naturally superior, several 4-star and even 3-star options provide enough power to clear the main story and early Tower of Adversary floors.
 
 ### Top Tier: 5-Star Sword Rankings
@@ -75,6 +96,9 @@ Do not overlook the **Sword of Night**. As a 3-star weapon, it is incredibly eas
 | Lunar Cutter | 4-Star | ATK% | +ATK% stacks based on remaining HP |
 
 ## Best Disks (Echoes)
+
+![Best Disks (Echoes)](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-3.webp)
+
 
 In Wuthering Waves, "Disks" are officially called Echoes. These are the primary way to customize your character's stats. Each Echo belongs to a "Sonata Effect" (set bonus) and has a "Cost" (1, 3, or 4). Your character has a maximum Echo Cost limit that increases with your Data Bank level, eventually capping at 12.
 
@@ -109,6 +133,9 @@ You must level up an Echo using Sealed Tubes before you can "Tune" it. Tuning re
 
 ## Team Comp
 
+![Team Comp](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-4.webp)
+
+
 A balanced team in Wuthering Waves typically follows the "Main DPS / Sub-DPS / Support" triangle. This structure ensures you have high on-field damage, buffs to sustain that damage, and healing to survive boss encounters.
 
 ### The F2P Friendly Core
@@ -136,6 +163,9 @@ While elemental "reactions" like those in other RPGs don't exist in the same way
 
 ## Rotation
 
+![Rotation](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-5.webp)
+
+
 Combat in Wuthering Waves is built around the "Concerto Gauge" and the "Forte Circuit." Efficient rotations involve filling these bars as quickly as possible to maximize damage windows.
 
 ### Building Concerto Energy
@@ -160,6 +190,9 @@ The Rover’s Forte Circuit is called "World in a Grain of Sand." When the bar a
 Successful combat relies on "Parrying." Many boss attacks feature a "gold ring" indicator. Attacking during this window parries the enemy, dealing massive "Vibration Strength" (stagger) damage. Once an enemy's white bar under their health is depleted, they enter a "Downed" state, taking increased damage. This is the optimal time to unleash your Resonance Liberation.
 
 ## FAQ
+
+![FAQ](/img/wuwa-beginner-tips-and-tricks-build-guide-20260513/inline-6.webp)
+
 
 ### Gacha and Pity System Explained
 
