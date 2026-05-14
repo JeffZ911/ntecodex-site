@@ -8,6 +8,17 @@ word_count: 1486
 published_at: "2026-05-13T02:34:49.472049+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/wuwa-endgame-tower-of-adversity-guide/hero.webp
+inline_images:
+  - /img/wuwa-endgame-tower-of-adversity-guide/inline-1.webp
+  - /img/wuwa-endgame-tower-of-adversity-guide/inline-2.webp
+  - /img/wuwa-endgame-tower-of-adversity-guide/inline-3.webp
+  - /img/wuwa-endgame-tower-of-adversity-guide/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Success in the Wuthering Waves endgame requires more than just high-level Resonators; it demands a deep understanding of the Tower of Adversity's shifting mechanics and Vigor constraints. This guide covers everything you need to master the Hazard Zone and secure your bi-weekly Astrite income as of May 2026.
@@ -18,6 +29,9 @@ Success in the Wuthering Waves endgame requires more than just high-level Resona
 
 ## Question Restated
 
+![Question Restated](/img/wuwa-endgame-tower-of-adversity-guide/inline-1.webp)
+
+
 The Tower of Adversity (ToA) serves as the primary combat testing ground for players in Wuthering Waves. It is a multi-tiered challenge mode that pits your best Resonator teams against waves of increasingly difficult enemies and high-health bosses. Unlike standard overworld exploration, the Tower of Adversity is timed, rewarding players with stars based on how quickly they can clear each stage.
 
 To access this endgame content, players must first reach Union Level 15 and complete the main story up to Chapter 1, Act 4, "Clashing Blades." Once these requirements are met, the tutorial quest "Alone in the Abyss" becomes available. This quest introduces you to the Tower's location—a mysterious structure situated on an island off the coast of Jinzhou—and explains the fundamental rules of engagement.
@@ -25,6 +39,9 @@ To access this endgame content, players must first reach Union Level 15 and comp
 The Tower of Adversity functions as the ultimate benchmark for character progression. It is divided into permanent sections for one-time rewards and a rotating "Hazard Zone" designed for recurring endgame play. In this Hazard Zone, the enemies, environmental buffs (known as Interferences), and rewards reset on a fixed schedule, typically twice per month. This reset allows players to earn a fresh batch of Astrites and Hazard Records, making it the most consistent source of premium currency for veteran players.
 
 ## Direct Answer
+
+![Direct Answer](/img/wuwa-endgame-tower-of-adversity-guide/inline-2.webp)
+
 
 The Tower of Adversity is Wuthering Waves' equivalent to a "boss rush" or "spiral abyss" mode, consisting of the Stable Zone, Experimental Zone, and Hazard Zone. While the first two zones provide permanent rewards to help players build their accounts, the Hazard Zone is the true endgame, resetting periodically to challenge players with new enemy lineups and specialized buffs.
 
@@ -37,6 +54,9 @@ Success in the Tower hinges on the "Vigor" system. Each Resonator possesses 10 V
 | **Hazard Zone** | Periodic (Bi-monthly) | 10 (3 Towers) | 700 Astrites, Hazard Records |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/wuwa-endgame-tower-of-adversity-guide/inline-3.webp)
+
 
 ### How to Unlock the Tower of Adversity
 Unlocking the Tower is a straightforward process but requires some initial investment in the main story. Follow these steps:
@@ -95,6 +115,9 @@ The meta for Version 3.3 emphasizes high synergy between Sub-DPS units and Main 
 When building your teams, ensure your supports (Verina, Shorekeeper, Baizhi) have enough Energy Regen to use their Ultimates every rotation, as the healing and buffs are vital for surviving Level 100+ enemies.
 
 ## Related
+
+![Related](/img/wuwa-endgame-tower-of-adversity-guide/inline-4.webp)
+
 
 ### Other Wuthering Waves Endgame Modes
 While the Tower of Adversity is the primary source of Astrites, other modes offer essential progression materials:
