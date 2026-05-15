@@ -8,6 +8,17 @@ word_count: 1643
 published_at: "2026-05-13T09:57:53.055417+00:00"
 published_url: /guides/ruan-mei-vs-robin-support-comparison-hsr
 sources: []
+hero_image: /img/ruan-mei-vs-robin-support-comparison-hsr/hero.webp
+inline_images:
+  - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-1.webp
+  - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-2.webp
+  - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-3.webp
+  - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the two most powerful Harmony units in Honkai: Star Rail can define the ceiling of your account's performance in endgame content like Memory of Chaos and Pure Fiction.
@@ -17,6 +28,9 @@ Choosing between the two most powerful Harmony units in Honkai: Star Rail can de
 The Harmony Path contains the most influential characters in Honkai: Star Rail, but Ruan Mei and Robin stand at the absolute peak of the meta. While both offer massive team-wide buffs, they serve fundamentally different archetypes. Ruan Mei is the cornerstone of Break-based strategies and generalist comfort, while Robin is the high-octane engine for Follow-Up Attack (FUA) teams and competitive turn-manipulation. Deciding which one to prioritize depends heavily on your current roster of Damage Dealers (DPS) and your preferred playstyle.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-1.webp)
+
 
 If you are looking for a quick answer, the choice usually comes down to whether you prefer the "Break Meta" or the "Follow-Up Meta."
 
@@ -37,6 +51,9 @@ If you are looking for a quick answer, the choice usually comes down to whether 
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-2.webp)
+
+
 To understand how these two titans differ, we must look at their specific kit numbers and how they scale. Ruan Mei focuses on the enemy's Toughness bar, while Robin focuses on her allies' Action Value.
 
 | Feature | Ruan Mei | Robin |
@@ -51,6 +68,9 @@ To understand how these two titans differ, we must look at their specific kit nu
 | **Signature LC** | Past Self in Mirror | Flowing Nightglow |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-3.webp)
+
 
 The choice between Ruan Mei and Robin isn't just about who provides a bigger number; it is about how they interact with the game's core mechanics.
 
@@ -90,6 +110,9 @@ Ruan Mei is famously F2P-friendly. Her best-in-slot F2P Light Cone is "Meshing C
 Robin is slightly more demanding. She requires a very high ATK stat (usually 4000+) to maximize her Ultimate's buff. While the event Light Cone "For Tomorrow's Journey" is an excellent F2P option, players who missed that event may find her harder to build. She also heavily favors the "Fleet of the Ageless" or "Lushaka, the Sunken Seas" [Information not yet publicly available as of 2026-05-13] ornaments to boost her ATK and Energy.
 
 ## Recommendation
+
+![Recommendation](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-4.webp)
+
 
 Both Ruan Mei and Robin are "must-pull" tier characters, but the priority depends on your current roster needs.
 
