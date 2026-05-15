@@ -8,6 +8,17 @@ word_count: 355
 published_at: "2026-05-13T06:26:11.889572+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/what-is-effect-hit-rate-hsr/hero.webp
+inline_images:
+  - /img/what-is-effect-hit-rate-hsr/inline-1.webp
+  - /img/what-is-effect-hit-rate-hsr/inline-2.webp
+  - /img/what-is-effect-hit-rate-hsr/inline-3.webp
+  - /img/what-is-effect-hit-rate-hsr/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Success in turn-based combat often hinges on a single debuff landing at the right moment.
@@ -17,6 +28,9 @@ Success in turn-based combat often hinges on a single debuff landing at the righ
 
 
 ## Question Restated
+
+![Question Restated](/img/what-is-effect-hit-rate-hsr/inline-1.webp)
+
 
 Effect Hit Rate (EHR) is a core combat stat in Honkai: Star Rail that determines the probability of a character successfully applying status effects to enemies. Whether it is Pela’s defense shred, Kafka’s Shock, or March 7th’s Freeze, EHR acts as the primary tool to overcome an enemy's natural defenses against debuffs.
 
