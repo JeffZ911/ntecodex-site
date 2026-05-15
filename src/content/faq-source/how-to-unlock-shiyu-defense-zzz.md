@@ -8,6 +8,17 @@ word_count: 1565
 published_at: "2026-05-13T06:26:11.378945+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-to-unlock-shiyu-defense-zzz/hero.webp
+inline_images:
+  - /img/how-to-unlock-shiyu-defense-zzz/inline-1.webp
+  - /img/how-to-unlock-shiyu-defense-zzz/inline-2.webp
+  - /img/how-to-unlock-shiyu-defense-zzz/inline-3.webp
+  - /img/how-to-unlock-shiyu-defense-zzz/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Shiyu Defense stands as the premier endgame challenge for Proxies looking to test their combat prowess and team synergy in Zenless Zone Zero. This high-difficulty mode requires players to clear waves of enemies within strict time limits to earn premium rewards, including Polychromes and rare enhancement materials.
@@ -18,6 +29,9 @@ Shiyu Defense stands as the premier endgame challenge for Proxies looking to tes
 
 ## Question Restated
 
+![Question Restated](/img/how-to-unlock-shiyu-defense-zzz/inline-1.webp)
+
+
 Players often find themselves looking for the Shiyu Defense entrance early in their journey, only to find the terminal inactive or the location inaccessible. To access this mode, you must satisfy several progression milestones. Specifically, Proxies need to know:
 
 *   What are the specific requirements to unlock Shiyu Defense in Zenless Zone Zero?
@@ -27,6 +41,9 @@ Players often find themselves looking for the Shiyu Defense entrance early in th
 Unlocking this mode is not just about reaching a certain point in the narrative; it also involves a specific Inter-Knot level and the completion of a dedicated tutorial commission that introduces the mechanics of the Scott Outpost hub.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-to-unlock-shiyu-defense-zzz/inline-2.webp)
+
 
 To unlock Shiyu Defense in Zenless Zone Zero, you must meet the following requirements:
 
@@ -39,6 +56,9 @@ To unlock Shiyu Defense in Zenless Zone Zero, you must meet the following requir
 Once these steps are completed, the Shiyu Defense interface will be permanently available via the Scott Outpost terminal or the fast-travel menu.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-unlock-shiyu-defense-zzz/inline-3.webp)
+
 
 The path to Shiyu Defense has evolved as the game has expanded. While early versions of the game allowed entry at lower levels, current balancing ensures that players are sufficiently geared before tackling these high-pressure combat scenarios.
 
@@ -97,6 +117,9 @@ The primary motivation for clearing Shiyu Defense is the Polychrome yield.
 The Critical Nodes reset exactly at 4:00 AM server time on the 1st and 16th of each month. Any stages not cleared before this time will be lost as the nodes rotate to new enemy configurations and buffs.
 
 ## Related
+
+![Related](/img/how-to-unlock-shiyu-defense-zzz/inline-4.webp)
+
 
 ### Shiyu Defense vs. Hollow Zero
 
