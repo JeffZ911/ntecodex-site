@@ -8,6 +8,15 @@ word_count: 1782
 published_at: "2026-05-13T05:34:40.587168+00:00"
 published_url: /guides/jiyan-vs-calcharo-dps-comparison-20260513
 sources: []
+hero_image: /img/jiyan-vs-calcharo-dps-comparison-20260513/hero.webp
+inline_images:
+  - /img/jiyan-vs-calcharo-dps-comparison-20260513/inline-2.webp
+  - /img/jiyan-vs-calcharo-dps-comparison-20260513/inline-3.webp
+  - /img/jiyan-vs-calcharo-dps-comparison-20260513/inline-4.webp
+inline_image_sections:
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the General of Midnight Rangers and the mercenary leader of the Ghost Hounds defines the early-to-mid-game experience for many Rovers. 
@@ -35,6 +44,9 @@ However, if you already own Yinlin and enjoy the "sweaty" playstyle of a technic
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/jiyan-vs-calcharo-dps-comparison-20260513/inline-2.webp)
+
+
 The following table compares the core attributes and requirements for both characters to provide a quick overview of their differences.
 
 | Attribute | Jiyan | Calcharo |
@@ -50,6 +62,9 @@ The following table compares the core attributes and requirements for both chara
 | **Single-Target Burst** | High | Very High |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/jiyan-vs-calcharo-dps-comparison-20260513/inline-3.webp)
+
 
 To understand why these two characters occupy such different niches in the Wuthering Waves meta, we must look at how their kits function in practice. While they share a weapon class, their "rhythm" in combat is fundamentally different.
 
@@ -99,6 +114,9 @@ Since Calcharo is a standard character, you are more likely to pull copies of hi
 Jiyan’s Sequences are much more powerful at lower levels but harder to obtain. His S1 provides an extra charge of his Resonance Skill, significantly helping with mobility and energy generation. His S3 and S6 turn him into a literal god of the battlefield, increasing his Crit Rate and multiplying the damage of his Qingloong strikes to absurd levels. However, as a limited character, achieving these requires a heavy investment of Astrite or Tides.
 
 ## Recommendation
+
+![Recommendation](/img/jiyan-vs-calcharo-dps-comparison-20260513/inline-4.webp)
+
 
 The "best" DPS is subjective based on your roster and your comfort with the game's combat system. However, based on the current state of Wuthering Waves in 2026, we can categorize the recommendations.
 
