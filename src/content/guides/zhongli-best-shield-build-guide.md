@@ -8,6 +8,21 @@ word_count: 2117
 published_at: "2026-05-13T15:02:56.590897+00:00"
 published_url: /guides/zhongli-best-shield-build-guide
 sources: []
+hero_image: /img/zhongli-best-shield-build-guide/hero.webp
+inline_images:
+  - /img/zhongli-best-shield-build-guide/inline-1.webp
+  - /img/zhongli-best-shield-build-guide/inline-2.webp
+  - /img/zhongli-best-shield-build-guide/inline-3.webp
+  - /img/zhongli-best-shield-build-guide/inline-4.webp
+  - /img/zhongli-best-shield-build-guide/inline-5.webp
+  - /img/zhongli-best-shield-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Zhongli remains the undisputed king of survivability in Genshin Impact, offering a shield that is practically impossible for most enemies to penetrate. Whether you are facing the weekly bosses or the deepest floors of the Spiral Abyss, a properly built Zhongli ensures your main damage dealers stay protected and uninterrupted.
@@ -17,6 +32,9 @@ Zhongli remains the undisputed king of survivability in Genshin Impact, offering
 
 
 ## Overview
+
+![Overview](/img/zhongli-best-shield-build-guide/inline-1.webp)
+
 
 Since his release on September 28, 2020, Zhongli has defined the defensive meta of Genshin Impact. While he can be built as a Physical DPS or a Burst Support, his most effective and low-investment role is the "Shield Bot." In this role, Zhongli focuses entirely on maximizing his Health Points (HP) to strengthen his Jade Shield.
 
@@ -70,6 +88,9 @@ Zhongli’s passives further solidify his role as a tank:
 
 ## Best Weapons
 
+![Best Weapons](/img/zhongli-best-shield-build-guide/inline-2.webp)
+
+
 Choosing a weapon for a shield build is simple because the most effective option is actually a 3-star polearm. This makes Zhongli one of the most F2P-friendly (Free-to-Play) characters in the game.
 
 ### Weapon Comparison Table
@@ -94,6 +115,9 @@ If you want to balance your shield strength with high burst damage, the Staff of
 In teams where your main DPS struggles with Energy Recharge (ER), such as Xiao or certain mono-element teams, the Favonius Lance is often better than an HP weapon. While your shield will be slightly weaker, the ability to generate white energy particles for the whole team provides much higher overall team utility. Note that you will need some Crit Rate substats on your artifacts to trigger the passive consistently.
 
 ## Best Artifacts
+
+![Best Artifacts](/img/zhongli-best-shield-build-guide/inline-3.webp)
+
 
 The goal for artifacts is to maximize HP while providing team-wide buffs.
 
@@ -128,6 +152,9 @@ A "Hybrid" build uses HP/Geo DMG/Crit. This provides a respectable shield (aroun
 
 ## Team Comp
 
+![Team Comp](/img/zhongli-best-shield-build-guide/inline-4.webp)
+
+
 Zhongli is the most versatile support in Genshin Impact. He can fit into almost any team that has a free slot.
 
 ### Synergy Chart
@@ -154,6 +181,9 @@ Pairing Zhongli with another Geo unit (like Albedo, Gorou, or Itto) activates **
 
 ## Rotation
 
+![Rotation](/img/zhongli-best-shield-build-guide/inline-5.webp)
+
+
 Using Zhongli correctly is vital for maintaining the Tenacity of the Millelith buff and ensuring shield uptime.
 
 ### Standard Support Rotation
@@ -175,6 +205,9 @@ The 4-piece Tenacity of the Millelith effect only lasts for 3 seconds after the 
 Planet Befall petrifies enemies for 3.1 to 4.0 seconds (depending on talent level). While this is excellent for stopping aggressive enemies like Shadowy Husks or Rifthounds, the animation for the Burst is quite long (about 2 seconds). In time-sensitive content like the Spiral Abyss, many high-end players skip using the Burst entirely unless they need the invincibility frames (i-frames) to dodge a massive attack, as the animation time often results in a net DPS loss.
 
 ## FAQ
+
+![FAQ](/img/zhongli-best-shield-build-guide/inline-6.webp)
+
 
 ### How much HP does Zhongli need for a 'perfect' shield?
 
