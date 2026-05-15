@@ -8,6 +8,17 @@ word_count: 1984
 published_at: "2026-05-13T06:54:03.546317+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/best-dendro-reaction-team-comps-genshin-impact/hero.webp
+inline_images:
+  - /img/best-dendro-reaction-team-comps-genshin-impact/inline-1.webp
+  - /img/best-dendro-reaction-team-comps-genshin-impact/inline-2.webp
+  - /img/best-dendro-reaction-team-comps-genshin-impact/inline-3.webp
+  - /img/best-dendro-reaction-team-comps-genshin-impact/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Since its introduction in the Sumeru cycle, the Dendro element has fundamentally reshaped the combat landscape of Teyvat, offering some of the highest damage floors for both F2P players and whales alike.
@@ -17,6 +28,9 @@ Since its introduction in the Sumeru cycle, the Dendro element has fundamentally
 
 
 ## Question Restated
+
+![Question Restated](/img/best-dendro-reaction-team-comps-genshin-impact/inline-1.webp)
+
 
 Understanding the current state of the elemental meta requires looking at how Dendro interacts with Hydro, Electro, and Pyro to produce high-frequency damage numbers. As of the 2026 meta, players are looking for the most efficient ways to clear the Spiral Abyss and high-level Natlan challenges using these green-number-heavy reactions. 
 
@@ -45,6 +59,9 @@ To master these teams, one must understand the "Dendro Core" system. When Dendro
 
 ## Direct Answer
 
+![Direct Answer](/img/best-dendro-reaction-team-comps-genshin-impact/inline-2.webp)
+
+
 The current meta favors teams that can maintain consistent elemental application while providing defensive utility. Hyperbloom remains the most accessible and high-floor team, typically featuring Nahida, Kuki Shinobu, and a Hydro enabler like Xingqiu or Yelan. This "golden trio" provides off-field Dendro application, consistent healing/Electro triggering, and rapid Hydro application.
 
 Nilou Bloom has remained a staple for multi-target content, and it has evolved with the addition of [Information not yet publicly available as of 2026-05-13], introducing the "[Information not yet publicly available as of 2026-05-13]" variant which allows Blooms to Crit for massive AoE damage. Burning teams have also surged in popularity following the release of Kinich and Emilie, supported by Mavuika for consistent Pyro application and damage buffing.
@@ -62,6 +79,9 @@ Spread and Aggravate (Catalyze) teams led by Alhaitham or Tighnari provide the h
 | **Burgeon Vanguard** | Nahida | Xingqiu | Mavuika | Baizhu | Burgeon |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/best-dendro-reaction-team-comps-genshin-impact/inline-3.webp)
+
 
 ### The Hyperbloom Gold Standard: Nahida and Kuki Shinobu
 
@@ -123,6 +143,9 @@ You do not need a full roster of 5-star characters to utilize Dendro. The "F2P H
 | Dendro Traveler | Lea-Lotus Lamp | Standard ICD |
 
 ## Related
+
+![Related](/img/best-dendro-reaction-team-comps-genshin-impact/inline-4.webp)
+
 
 ### Essential Artifact Sets for Dendro Teams
 
