@@ -8,6 +8,21 @@ word_count: 1779
 published_at: "2026-05-13T12:01:42.242416+00:00"
 published_url: /guides/nanally-build-nte-guide-20260513
 sources: []
+hero_image: /img/nanally-build-nte-guide-20260513/hero.webp
+inline_images:
+  - /img/nanally-build-nte-guide-20260513/inline-1.webp
+  - /img/nanally-build-nte-guide-20260513/inline-2.webp
+  - /img/nanally-build-nte-guide-20260513/inline-3.webp
+  - /img/nanally-build-nte-guide-20260513/inline-4.webp
+  - /img/nanally-build-nte-guide-20260513/inline-5.webp
+  - /img/nanally-build-nte-guide-20260513/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 [Nanally](/characters/nanally-guide-nte) has quickly established herself as the premier Anima-element DPS in Version 1.0 of Neverness to Everness, combining unmatched urban traversal with devastating follow-up attack damage. As the definitive damage benchmark for the game's launch period, mastering her kit is essential for clearing high-level Esper Cycle challenges.
@@ -17,6 +32,9 @@ sources: []
 
 
 ## Overview
+
+![Overview](/img/nanally-build-nte-guide-20260513/inline-1.webp)
+
 
 Nanally is an S-Rank Anima-element Main DPS who utilizes Plasma-type weapons, known in-game as Arcs. As a core member of the Eibon Antique Shop affiliation, her gameplay style is aggressive, fast-paced, and heavily reliant on her ability to summon external assistance during combat. She is currently considered the gold standard for damage dealers in Patch 1.0 due to her high Utility-to-Damage (UTD) ratio, which allows her to maintain high DPS while providing unique environmental advantages.
 
@@ -39,6 +57,9 @@ In combat, her effectiveness is tied to her follow-up attack specialization. Thr
 Upgrading Nanally requires focusing on her Basic Attack first. Because her "Underboss" window relies on her performing "Heavy Hitter!" combos (Hold Basic Attack), the scaling on her normal strings provides the highest overall damage increase. The Ultimate is the second priority as it dictates the base damage of her coordinated attacks. Her Passive should be leveled third to improve the efficiency of her Anima-element reactions, specifically the Blossom reaction.
 
 ## Best Weapons
+
+![Best Weapons](/img/nanally-build-nte-guide-20260513/inline-2.webp)
+
 
 Nanally requires Arcs that provide high offensive stats, specifically Crit Rate and ATK%, to capitalize on her built-in Crit DMG buffs. Because her kit features frequent hits through follow-up attacks, weapons that trigger effects on-hit or provide permanent buffs are highly valued.
 
@@ -67,6 +88,9 @@ For players who do not pull for her signature weapon, there are several viable a
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/nanally-build-nte-guide-20260513/inline-3.webp)
+
+
 In Neverness to Everness, character builds are defined by Cartridges (set bonuses) and Modules (individual stat blocks) within the Console system. Nanally benefits most from sets that enhance her Anima DMG and her critical hit consistency.
 
 ### Top Cartridge Sets
@@ -93,6 +117,9 @@ Nanally’s Console features a unique optimization mechanic. She gains a hidden 
 
 ## Team Comp
 
+![Team Comp](/img/nanally-build-nte-guide-20260513/inline-4.webp)
+
+
 Nanally’s combat potential is maximized when she is placed in a team that can trigger the **Blossom** reaction. This reaction occurs when Anima and Cosmos elements interact, triggering "Vita Pistil" follow-up attacks that deal AoE damage based on the Main DPS's ATK.
 
 ### The Blossom Meta: Nanally + Jiuyuan
@@ -117,6 +144,9 @@ For players without a full S-Rank roster, Nanally remains highly effective when 
 
 ## Rotation
 
+![Rotation](/img/nanally-build-nte-guide-20260513/inline-5.webp)
+
+
 To achieve maximum damage output, Nanally requires a specific setup to ensure all her buffs are active before her Underboss window begins.
 
 ### Burst Window Execution
@@ -132,6 +162,9 @@ To achieve maximum damage output, Nanally requires a specific setup to ensure al
 The Esper Cycle is the shared ultimate meter for the team. Because Nanally's damage is so heavily weighted toward her Ultimate window, you must ensure you aren't wasting the meter on support Ultimates unless absolutely necessary for survival. Always prioritize Nanally's Ultimate once the Blossom reaction (Anima + Cosmos) is primed on the target.
 
 ## FAQ
+
+![FAQ](/img/nanally-build-nte-guide-20260513/inline-6.webp)
+
 
 **How do I walk on walls with Nanally?**
 Wall-walking is not a permanent passive; it is tied to her Skill. You must activate "Colucci Howling Technique" to enable the 12-second traversal buff. While active, simply run toward a vertical surface to begin climbing/walking.
