@@ -8,6 +8,17 @@ word_count: 1683
 published_at: "2026-05-13T05:34:43.002095+00:00"
 published_url: /guides/yelan-vs-xingqiu-hydro-comparison
 sources: []
+hero_image: /img/yelan-vs-xingqiu-hydro-comparison/hero.webp
+inline_images:
+  - /img/yelan-vs-xingqiu-hydro-comparison/inline-1.webp
+  - /img/yelan-vs-xingqiu-hydro-comparison/inline-2.webp
+  - /img/yelan-vs-xingqiu-hydro-comparison/inline-3.webp
+  - /img/yelan-vs-xingqiu-hydro-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the two strongest Hydro off-fielders in Genshin Impact often feels like deciding between a sharp sword and a powerful bow, as both Yelan and Xingqiu offer indispensable value to almost any account. While they share similar roles, their differences in damage scaling, defensive utility, and elemental application determine which one will truly elevate your specific team composition.
@@ -17,6 +28,9 @@ Choosing between the two strongest Hydro off-fielders in Genshin Impact often fe
 
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/yelan-vs-xingqiu-hydro-comparison/inline-1.webp)
+
 
 If you are looking for a quick answer, the choice between Yelan and Xingqiu depends on whether you prioritize raw offensive power or team comfort and survivability.
 
@@ -32,6 +46,9 @@ If you are looking for a quick answer, the choice between Yelan and Xingqiu depe
 | **Investment Level** | High (Needs 5-star weapons/C1 for peak) | Low to Medium (Great at C0, God-tier at C6) |
 
 ## Side-by-Side Table
+
+![Side-by-Side Table](/img/yelan-vs-xingqiu-hydro-comparison/inline-2.webp)
+
 
 To understand how these two compare at a fundamental level, we must look at their base stats and core mechanics. Yelan is a 5-star character designed for high-ceiling damage, while Xingqiu is a 4-star character whose kit is packed with "hidden" utility that often rivals 5-star units.
 
@@ -49,6 +66,9 @@ To understand how these two compare at a fundamental level, we must look at thei
 | **Overworld Utility** | High (Fastest movement skill) | Low |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/yelan-vs-xingqiu-hydro-comparison/inline-3.webp)
+
 
 While both characters use an Elemental Burst that triggers coordinated Hydro attacks with the active character's Normal Attacks, the nuance of how those attacks function—and what they provide—varies significantly.
 
@@ -92,6 +112,9 @@ The "Yelan vs. Xingqiu" debate changes drastically based on Constellations.
 *   **Yelan C6:** [Information not yet publicly available as of 2026-05-13] regarding any recent nerfs or adjustments, but historically, her C6 turns her into a Main DPS capable of clearing Abyss floors in seconds by turning her Normal Attacks into "Mastermind" arrows.
 
 ## Recommendation
+
+![Recommendation](/img/yelan-vs-xingqiu-hydro-comparison/inline-4.webp)
+
 
 Choosing between them isn't always about who is "better," but about who fits the current needs of your roster.
 
