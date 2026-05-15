@@ -8,6 +8,17 @@ word_count: 1852
 published_at: "2026-05-13T05:34:45.552674+00:00"
 published_url: /guides/neuvillette-vs-ayato-dps-comparison
 sources: []
+hero_image: /img/neuvillette-vs-ayato-dps-comparison/hero.webp
+inline_images:
+  - /img/neuvillette-vs-ayato-dps-comparison/inline-1.webp
+  - /img/neuvillette-vs-ayato-dps-comparison/inline-2.webp
+  - /img/neuvillette-vs-ayato-dps-comparison/inline-3.webp
+  - /img/neuvillette-vs-ayato-dps-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the two most prominent "Hydro Husbandos" in Genshin Impact often comes down to a choice between overwhelming raw power and versatile team utility. While both characters occupy the Main DPS slot, their mechanical execution and the way they interact with the game's elemental systems differ significantly.
@@ -15,6 +26,9 @@ Choosing between the two most prominent "Hydro Husbandos" in Genshin Impact ofte
 # Neuvillette vs. Ayato: The Ultimate Hydro DPS Comparison
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/neuvillette-vs-ayato-dps-comparison/inline-1.webp)
+
 
 When comparing Neuvillette and Kamisato Ayato, the distinction is clear: Neuvillette is a specialized hypercarry designed to maximize personal damage, while Ayato is a flexible driver designed to facilitate team-wide elemental reactions. Neuvillette currently sits at the top of the meta due to his massive self-sufficiency and high damage floor, whereas Ayato remains a solid choice for players who enjoy variety in their team building.
 
@@ -37,6 +51,9 @@ Ayato has seen a slight decline in usage because his role as a Hydro enabler is 
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/neuvillette-vs-ayato-dps-comparison/inline-2.webp)
+
+
 | Feature | Neuvillette | Kamisato Ayato |
 | :--- | :--- | :--- |
 | **Weapon Type** | Catalyst | Sword |
@@ -52,6 +69,9 @@ Ayato has seen a slight decline in usage because his role as a Hydro enabler is 
 [Comparison chart of Neuvillette's Charged Attack range vs. Ayato's Elemental Skill AoE.]
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/neuvillette-vs-ayato-dps-comparison/inline-3.webp)
+
 
 ### Damage Output and Scaling Mechanics
 
@@ -94,6 +114,9 @@ Neuvillette has one of the most impactful C1 constellations in the game. His C1,
 Ayato’s constellations are generally linear damage increases. His C1 and C2 provide extra damage against low-HP enemies and increase his Namisen stack cap, respectively. His C6 is a significant burst of power, adding two extra slashes to his initial Skill attack, but it does not fundamentally change his playstyle the way Neuvillette’s C1 does. For low-spending players, Neuvillette at C1 offers a much higher power spike than Ayato at the same level of investment.
 
 ## Recommendation
+
+![Recommendation](/img/neuvillette-vs-ayato-dps-comparison/inline-4.webp)
+
 
 The choice between Neuvillette and Ayato depends on your current roster and your goals for your account. If you are struggling to clear the Spiral Abyss and need a powerhouse who can carry one side with minimal support, Neuvillette is the clear choice. If you already have a strong roster and want a character who can fill gaps in multiple team archetypes while being easy to play, Ayato is a fantastic addition.
 
