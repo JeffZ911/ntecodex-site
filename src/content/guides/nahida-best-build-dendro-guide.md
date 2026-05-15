@@ -8,6 +8,21 @@ word_count: 2137
 published_at: "2026-05-13T12:01:40.143185+00:00"
 published_url: /guides/nahida-best-build-dendro-guide
 sources: []
+hero_image: /img/nahida-best-build-dendro-guide/hero.webp
+inline_images:
+  - /img/nahida-best-build-dendro-guide/inline-1.webp
+  - /img/nahida-best-build-dendro-guide/inline-2.webp
+  - /img/nahida-best-build-dendro-guide/inline-3.webp
+  - /img/nahida-best-build-dendro-guide/inline-4.webp
+  - /img/nahida-best-build-dendro-guide/inline-5.webp
+  - /img/nahida-best-build-dendro-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Since her release, Nahida has redefined the elemental meta of Genshin Impact, serving as the cornerstone for almost every high-performing Dendro team. As the Dendro Archon, her ability to provide consistent off-field elemental application and massive team-wide buffs makes her an indispensable unit for players looking to master the game's complex reaction system.
@@ -17,6 +32,9 @@ Since her release, Nahida has redefined the elemental meta of Genshin Impact, se
 Nahida functions as a unique hybrid between a dedicated support and a high-damage sub-DPS. While many characters excel in either providing utility or dealing damage, Nahida manages to do both simultaneously through her Elemental Mastery (EM) scaling. Whether you are using her to trigger Hyperbloom cores or to boost the damage of an Electro DPS in a Spread team, understanding her stat priorities and gear requirements is essential for maximizing her potential.
 
 ## Overview
+
+![Overview](/img/nahida-best-build-dendro-guide/inline-1.webp)
+
 
 Nahida is a 5-star Dendro Catalyst user who scales primarily with Elemental Mastery. Unlike many other supports, her personal damage is significant, coming from her "Tri-Karma Purification" triggers. When Nahida uses her Elemental Skill, she marks enemies; any time an elemental reaction is triggered on a marked enemy, they take Dendro damage based on Nahida’s ATK and EM. 
 
@@ -47,6 +65,9 @@ To build Nahida correctly, you must understand her two core passive talents:
 
 ## Best Weapons
 
+![Best Weapons](/img/nahida-best-build-dendro-guide/inline-2.webp)
+
+
 Choosing the right catalyst for Nahida depends on whether she is playing off-field (support) or on-field (DPS/Driver). Her signature weapon is generally the best, but several 4-star and even 3-star options perform remarkably well due to her heavy reliance on Elemental Mastery.
 
 ### Top 5-Star Catalysts
@@ -71,6 +92,9 @@ Choosing the right catalyst for Nahida depends on whether she is playing off-fie
 | Magic Guide | 3-Star | 187 EM | Best low-cost F2P option. |
 
 ## Best Artifacts
+
+![Best Artifacts](/img/nahida-best-build-dendro-guide/inline-3.webp)
+
 
 Artifact selection for Nahida is a choice between team utility and personal damage. Because her passive "Awakening Elucidated" scales so heavily with EM, your primary goal is reaching the 1,000 EM target through a combination of weapon, ascension stats, and artifact main stats.
 
@@ -102,6 +126,9 @@ If Nahida is off-field, she benefits most from a high EM build because her A1 pa
 If Nahida is on-field, she will likely receive EM buffs from her own Burst or other teammates (like Sucrose or Albedo). In this case, you can afford to run a Dendro DMG Goblet or a Crit Circlet because her "effective" EM during combat will still reach 1,000.
 
 ## Team Comp
+
+![Team Comp](/img/nahida-best-build-dendro-guide/inline-4.webp)
+
 
 Nahida is the most versatile unit in the game for elemental reactions. She fits into four primary archetypes: Hyperbloom, Nilou Bloom, Quicken (Spread/Aggravate), and Burgeon.
 
@@ -137,6 +164,9 @@ These teams focus on the Quicken reaction to boost Electro and Dendro damage.
 
 ## Rotation
 
+![Rotation](/img/nahida-best-build-dendro-guide/inline-5.webp)
+
+
 Using Nahida correctly involves managing her "Seed of Skandha" marks. If enemies are not marked, she provides zero off-field damage and zero Dendro application.
 
 ### Off-Field Support Rotation
@@ -158,6 +188,9 @@ Using Nahida correctly involves managing her "Seed of Skandha" marks. If enemies
 The Seed of Skandha lasts for 25 seconds, which is longer than most rotations. However, the Tri-Karma Purification only triggers when an elemental reaction occurs. If your team stops producing reactions (e.g., your Hydro application runs out), Nahida’s damage stops. Always ensure your off-field elemental applicators have enough Energy Recharge to keep their abilities active.
 
 ## FAQ
+
+![FAQ](/img/nahida-best-build-dendro-guide/inline-6.webp)
+
 
 ### Does Nahida need 1,000 EM?
 
