@@ -8,6 +8,17 @@ word_count: 1975
 published_at: "2026-05-13T10:23:21.050124+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/best-artifacts-for-main-dps-genshin-impact/hero.webp
+inline_images:
+  - /img/best-artifacts-for-main-dps-genshin-impact/inline-1.webp
+  - /img/best-artifacts-for-main-dps-genshin-impact/inline-2.webp
+  - /img/best-artifacts-for-main-dps-genshin-impact/inline-3.webp
+  - /img/best-artifacts-for-main-dps-genshin-impact/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Optimizing a character's damage output requires a deep understanding of how modern artifact sets interact with region-specific mechanics like Natlan’s Nightsoul’s Blessing and the latest gameplay shifts in Version 6.x.
@@ -15,6 +26,9 @@ Optimizing a character's damage output requires a deep understanding of how mode
 # Best Artifacts for Main DPS in Genshin Impact (2026 Guide)
 
 ## Question Restated
+
+![Question Restated](/img/best-artifacts-for-main-dps-genshin-impact/inline-1.webp)
+
 
 As Genshin Impact enters the later stages of its regional cycle in 2026, players are often left wondering: what are the absolute best artifact sets for a Main DPS character in the current meta? The answer has become increasingly complex as the game moves away from universal attack-scaling sets toward highly specialized kits that reward specific elemental reactions and regional movement mechanics.
 
@@ -37,6 +51,9 @@ In the 2026 meta, the "Main DPS" is no longer defined simply by who stays on the
 Early Genshin Impact artifacts like Gladiator’s Finale provided generic 18% Attack bonuses. Modern sets have evolved to provide massive "hidden" stats. For example, the Obsidian Codex provides a staggering 40% CRIT Rate, which is nearly double the value of a standard CRIT Rate circlet. This shift means that building a Main DPS in 2026 is less about finding "good pieces" and more about completing 4-piece sets that fundamentally change the character’s stat ceiling.
 
 ## Direct Answer
+
+![Direct Answer](/img/best-artifacts-for-main-dps-genshin-impact/inline-2.webp)
+
 
 The "best" artifact set for a Main DPS in 2026 depends entirely on the character's regional mechanic: Obsidian Codex is the premier choice for Natlan characters, [Information not yet publicly available as of 2026-05-13] is the standard for [Information not yet publicly available as of 2026-05-13] characters, and Marechaussee Hunter remains the gold standard for Fontaine characters.
 
@@ -63,6 +80,9 @@ The current "Big Three" domains for Main DPS farming are the Sanctum of Rainbow 
 Mixed sets (e.g., 2-piece +18% ATK and 2-piece +15% Elemental DMG) are generally considered "transitional" in 2026. You should only use mixed sets if your substats are significantly better (at least 4-5 high-value rolls better) than your 4-piece options. The only exception is for niche scaling characters, such as those who benefit from pure Elemental Mastery (EM), where 2-piece Gilded Dreams and 2-piece Wanderer’s Troupe can still compete in specific reaction-heavy teams.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/best-artifacts-for-main-dps-genshin-impact/inline-3.webp)
+
 
 ### The Natlan Meta: Obsidian Codex and Nightsoul
 The Obsidian Codex has redefined the CRIT ratio standards for Main DPS characters. The 2-piece set provides a 15% DMG increase while the character is in the Nightsoul’s Blessing state and on the field. The 4-piece set is where the true power lies: whenever the character consumes 1 Nightsoul point while on the field, their CRIT Rate is increased by 40% for 7 seconds.
@@ -99,6 +119,9 @@ In the 2026 meta, the priority for Main DPS substats has shifted toward "Stat Ba
 As of Version 6.x, many Main DPS characters have "Energy Hungry" Bursts. For example, Mavuika typically requires roughly 130-140% ER if she is the solo Pyro unit, while Raiden Shogun still targets 250%+ to maximize the Emblem of Severed Fate bonus. Always prioritize meeting your ER threshold before chasing higher CRIT numbers.
 
 ## Related
+
+![Related](/img/best-artifacts-for-main-dps-genshin-impact/inline-4.webp)
+
 
 ### Best Artifacts for Sub-DPS
 The 2026 meta relies heavily on off-field damage. The Golden Troupe set remains the best for Skill-based Sub-DPS like Fischl and Furina, providing up to 70% Skill DMG bonus. For newer off-fielders, the [Information not yet publicly available as of 2026-05-13] set has become a staple for [Information not yet publicly available as of 2026-05-13] teams.
