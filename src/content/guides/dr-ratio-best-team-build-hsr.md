@@ -8,6 +8,21 @@ word_count: 2498
 published_at: "2026-05-13T11:34:11.190954+00:00"
 published_url: /guides/dr-ratio-best-team-build-hsr
 sources: []
+hero_image: /img/dr-ratio-best-team-build-hsr/hero.webp
+inline_images:
+  - /img/dr-ratio-best-team-build-hsr/inline-1.webp
+  - /img/dr-ratio-best-team-build-hsr/inline-2.webp
+  - /img/dr-ratio-best-team-build-hsr/inline-3.webp
+  - /img/dr-ratio-best-team-build-hsr/inline-4.webp
+  - /img/dr-ratio-best-team-build-hsr/inline-5.webp
+  - /img/dr-ratio-best-team-build-hsr/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Dr. Ratio remains the premier single-target DPS for players who enjoy surgical precision and devastating follow-up attacks. As a cornerstone of the follow-up attack (FUA) meta, mastering his debuff-centric mechanics is essential for clearing the game's toughest endgame challenges.
@@ -17,6 +32,9 @@ Dr. Ratio remains the premier single-target DPS for players who enjoy surgical p
 
 
 ## Overview
+
+![Overview](/img/dr-ratio-best-team-build-hsr/inline-1.webp)
+
 
 Dr. Ratio is a 5-star Imaginary character following the Path of The Hunt, specializing in single-target follow-up attacks. Unlike traditional DPS characters who rely solely on their own stats, Dr. Ratio's effectiveness is directly tied to the number of debuffs present on his target. This unique mechanic makes him a "thinking man's" carry, requiring specific team compositions to unlock his full potential.
 
@@ -46,6 +64,9 @@ Furthermore, the Trace **Inference** gives his Skill a 100% base chance to reduc
 
 ## Best Weapons
 
+![Best Weapons](/img/dr-ratio-best-team-build-hsr/inline-2.webp)
+
+
 Selecting the right Light Cone for Dr. Ratio is a choice between maximizing his follow-up frequency or boosting his raw critical stats. Because he hits multiple times through his follow-up attacks, Light Cones that provide unconditional Crit stats or DEF ignore are highly valued.
 
 ### Top 5 Light Cones for Dr. Ratio
@@ -72,6 +93,9 @@ For players who did not pull for a 5-star signature Light Cone, **Cruising in th
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/dr-ratio-best-team-build-hsr/inline-3.webp)
+
+
 Dr. Ratio's Relic choices have evolved with the introduction of new sets. Because he relies heavily on debuffs and follow-up attacks, players should look for sets that capitalize on these specific mechanics.
 
 ### Top Relic Sets
@@ -96,6 +120,9 @@ Dr. Ratio's Relic choices have evolved with the introduction of new sets. Becaus
 **Substat Priority:** Crit DMG > Crit Rate > SPD > ATK% > Effect Hit Rate (minimal amounts are okay for his Trace debuffs).
 
 ## Team Comp
+
+![Team Comp](/img/dr-ratio-best-team-build-hsr/inline-4.webp)
+
 
 Dr. Ratio is not a self-sufficient hypercarry in the same way some Destruction characters are; he requires teammates who can apply debuffs consistently to ensure his follow-up attacks trigger.
 
@@ -135,6 +162,9 @@ For F2P players, building a team around Dr. Ratio is quite accessible.
 
 ## Rotation
 
+![Rotation](/img/dr-ratio-best-team-build-hsr/inline-5.webp)
+
+
 The goal of a Dr. Ratio rotation is to maintain 100% follow-up trigger rates while maximizing the "Wiseman's Folly" stacks from his Ultimate.
 
 ### Skill and Ultimate Priority
@@ -160,6 +190,9 @@ In a Robin team, Dr. Ratio should ideally be around 134-136 SPD. This allows him
 4.  **Allies:** Attack the target to trigger the 2 extra FUAs from Wiseman's Folly.
 
 ## FAQ
+
+![FAQ](/img/dr-ratio-best-team-build-hsr/inline-6.webp)
+
 
 **How many debuffs does Dr. Ratio need?**
 Dr. Ratio needs 3 debuffs on a target to guarantee a 100% chance for his follow-up attack to trigger. However, he needs 5 debuffs to maximize the damage bonus from his "Target" Trace and 6 debuffs to fully stack his "Summation" Trace.
