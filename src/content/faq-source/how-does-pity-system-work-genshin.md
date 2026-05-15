@@ -8,6 +8,17 @@ word_count: 1962
 published_at: "2026-05-13T09:57:55.158457+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/how-does-pity-system-work-genshin/hero.webp
+inline_images:
+  - /img/how-does-pity-system-work-genshin/inline-1.webp
+  - /img/how-does-pity-system-work-genshin/inline-2.webp
+  - /img/how-does-pity-system-work-genshin/inline-3.webp
+  - /img/how-does-pity-system-work-genshin/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Navigating the gacha mechanics of Teyvat requires more than just luck; it requires a firm grasp of the hidden math that governs every wish you make. Understanding the pity system is the single most important factor in managing your Primogems and ensuring you actually get the characters you want.
@@ -15,6 +26,9 @@ Navigating the gacha mechanics of Teyvat requires more than just luck; it requir
 # How Does the Pity System Work in Genshin Impact?
 
 ## Question Restated
+
+![Question Restated](/img/how-does-pity-system-work-genshin/inline-1.webp)
+
 
 The "pity system" is a foundational mechanic in Genshin Impact designed to ensure that players eventually receive high-rarity items, even if they have poor luck. Without this system, a player could theoretically spend thousands of Primogems and never see a 5-star character. For Free-to-Play (F2P) players and low spenders, the pity system is the only reliable way to plan for future character releases and manage a limited budget of Intertwined Fates.
 
@@ -31,6 +45,9 @@ The pity system tracks every pull you make on each specific banner type. Every t
 Knowing your current pity count prevents "rage pulling" and helps you decide when to stop. For example, if you know you are 75 pulls into a banner without a 5-star, you are in the "soft pity" range where a 5-star is imminent. If you don't actually want the currently featured 5-star character, you should stop immediately to avoid "wasting" your guarantee. By tracking these numbers, you can effectively "save" a guaranteed pull for a character you truly desire, rather than leaving it to chance.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-does-pity-system-work-genshin/inline-2.webp)
+
 
 The pity system is a safety net that guarantees a 5-star item after a set number of pulls: 90 for character banners and 80 for weapon banners. If you reach these "Hard Pity" numbers without seeing a gold flash, the very next pull is 100% guaranteed to be a 5-star.
 
@@ -49,6 +66,9 @@ Key rules of the system include:
 | **Chronicled Wish** | 10 Pulls | 74 Pulls | 90 Pulls |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-does-pity-system-work-genshin/inline-3.webp)
+
 
 While the hard numbers (90 and 80) are the absolute guarantees, the internal mechanics of the pity system are more nuanced. The community has discovered through millions of data points that the probability of pulling a 5-star is not linear.
 
@@ -108,6 +128,9 @@ Every 10 pulls, you are guaranteed at least one 4-star item.
 | 5-Star Weapon (Guaranteed via 5.0 Fate Point) | 160 | 25,600 |
 
 ## Related
+
+![Related](/img/how-does-pity-system-work-genshin/inline-4.webp)
+
 
 Understanding the mechanics is the first step; managing them is the second. Many players find themselves confused because the game does not provide a live "pity counter" on the screen.
 
