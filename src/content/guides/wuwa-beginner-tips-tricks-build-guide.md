@@ -8,6 +8,21 @@ word_count: 2410
 published_at: "2026-05-13T11:34:09.507498+00:00"
 published_url: /guides/wuwa-beginner-tips-tricks-build-guide
 sources: []
+hero_image: /img/wuwa-beginner-tips-tricks-build-guide/hero.webp
+inline_images:
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-1.webp
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-2.webp
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-3.webp
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-4.webp
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-5.webp
+  - /img/wuwa-beginner-tips-tricks-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Starting your journey in Solaris-3 requires more than just fast reflexes; it demands a deep understanding of how to build your Resonators and manage your world progression. This guide provides the essential knowledge to master the early game and optimize your starter team for maximum efficiency.
@@ -15,6 +30,9 @@ Starting your journey in Solaris-3 requires more than just fast reflexes; it dem
 # Wuthering Waves Beginner Tips: The Ultimate Starter Build & Guide
 
 ## Overview
+
+![Overview](/img/wuwa-beginner-tips-tricks-build-guide/inline-1.webp)
+
 
 Wuthering Waves (WuWa) distinguishes itself from other open-world RPGs by providing a protagonist, the Rover, who remains a competitive high-tier unit throughout the game. Unlike many free-to-play (F2P) titles where the starting character is quickly outclassed, the Rover—specifically in their Spectro and later Havoc forms—serves as a cornerstone for many endgame team compositions. 
 
@@ -49,6 +67,9 @@ During your first 20 hours, you will receive a large influx of "Fuel," an item t
 
 ## Best Weapons
 
+![Best Weapons](/img/wuwa-beginner-tips-tricks-build-guide/inline-2.webp)
+
+
 Choosing the right weapon for the Rover and your sub-DPS characters can drastically change your damage output. In Wuthering Waves, weapons provide a Base ATK stat, a secondary stat (like Crit Rate or ATK%), and a passive ability. For the Rover, who uses a Sword, you want to prioritize weapons that offer Crit Rate or Energy Regen to ensure their Resonance Liberation (Ultimate) is available as often as possible.
 
 ### Top 5-Star Weapon Picks
@@ -73,6 +94,9 @@ At Union Level 45, you will receive a 5-star weapon box. It is generally advised
 | Sword#18 | 3-Star | ATK% | +10% ATK when HP is above 80% |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/wuwa-beginner-tips-tricks-build-guide/inline-3.webp)
+
 
 In Wuthering Waves, the gear system is known as the **Echo System**. While some players refer to them as "Disks" or "Artifacts," the official term is Echoes. These are the spirits of monsters you defeat in the world. Echoes provide stat bonuses and a unique "Echo Skill" that allows you to transform into the monster to perform an attack or gain a buff.
 
@@ -103,6 +127,9 @@ You do not need Waveplates to farm Echoes; you simply need to find and defeat en
 
 ## Team Comp
 
+![Team Comp](/img/wuwa-beginner-tips-tricks-build-guide/inline-4.webp)
+
+
 Building a team in Wuthering Waves follows a "Golden Trio" logic: one Main DPS, one Sub-DPS/Buffer, and one Healer/Sustain. This ensures that your main attacker receives the buffs and healing necessary to stay on the field while maximizing damage during swap windows.
 
 ### The Best F2P Starter Team
@@ -132,6 +159,9 @@ Through the Novice Convene and the Beginner's Choice Convene, you will eventuall
 
 ## Rotation
 
+![Rotation](/img/wuwa-beginner-tips-tricks-build-guide/inline-5.webp)
+
+
 Combat in Wuthering Waves is fast-paced and rewards proactive swapping. You should never stay on one character for too long. Instead, you should rotate through your team to build Concerto Energy and trigger Intro/Outro skills.
 
 ### Mastering Concerto Energy & Swapping
@@ -153,6 +183,9 @@ Elite enemies and bosses have a white "Vibration Strength" bar below their healt
 *   **Heavy Attacks:** Certain characters deal more stagger damage with charged or heavy attacks.
 
 ## FAQ
+
+![FAQ](/img/wuwa-beginner-tips-tricks-build-guide/inline-6.webp)
+
 
 **How do I level up my Data Bank quickly?**
 The fastest way is to hunt "Phantom" Echoes (shiny versions) and to ensure you have captured every monster type at least once. If you are stuck, use the "Data Merge" feature in the Data Bank menu to combine low-rarity Echoes into new ones. This grants experience for any new Echoes generated.
