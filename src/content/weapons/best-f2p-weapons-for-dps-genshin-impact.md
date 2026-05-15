@@ -8,6 +8,19 @@ word_count: 2033
 published_at: "2026-05-13T11:34:07.967478+00:00"
 published_url: /weapons/best-f2p-weapons-for-dps-genshin-impact
 sources: []
+hero_image: /img/best-f2p-weapons-for-dps-genshin-impact/hero.webp
+inline_images:
+  - /img/best-f2p-weapons-for-dps-genshin-impact/inline-1.webp
+  - /img/best-f2p-weapons-for-dps-genshin-impact/inline-2.webp
+  - /img/best-f2p-weapons-for-dps-genshin-impact/inline-3.webp
+  - /img/best-f2p-weapons-for-dps-genshin-impact/inline-4.webp
+  - /img/best-f2p-weapons-for-dps-genshin-impact/inline-5.webp
+inline_image_sections:
+  - "Stats"
+  - "Effect"
+  - "Best On (Characters)"
+  - "How to Get"
+  - "Comparison"
 ---
 
 Building a powerful team in Genshin Impact does not require a massive stash of Primogems or a lucky streak on the Epitomized Path. While 5-star signature weapons offer the highest stat ceilings, many 4-star craftable and 3-star chest-exclusive options provide competitive damage for the game's toughest challenges, including the Spiral Abyss.
@@ -19,6 +32,9 @@ Building a powerful team in Genshin Impact does not require a massive stash of P
 In Genshin Impact, a "Free-to-Play" (F2P) weapon is defined as any gear obtainable without using Intertwined Fates or Genesis Crystals. This includes weapons from the forging system, fishing associations, world quests, and those found within Liyue’s precious chests. Selecting the right weapon involves balancing raw Base ATK with substats that complement a character's specific scaling, whether they rely on Critical hits, Elemental Mastery, or Attack percentages.
 
 ## Stats
+
+![Stats](/img/best-f2p-weapons-for-dps-genshin-impact/inline-1.webp)
+
 
 The effectiveness of a DPS weapon begins with its stat budget. In Genshin Impact, weapons follow specific scaling tiers. For example, a 4-star weapon with a high Base ATK (565 at Level 90) will typically have a lower secondary substat (27.6%), whereas a weapon with a lower Base ATK (454 at Level 90) offers a significantly higher substat value (55.1%).
 
@@ -53,6 +69,9 @@ For Catalysts, Flowing Purity offers the high 565 Base ATK tier, which is excell
 
 ## Effect
 
+![Effect](/img/best-f2p-weapons-for-dps-genshin-impact/inline-2.webp)
+
+
 A weapon’s passive effect often determines its viability more than its raw stats. F2P weapons are particularly valuable because they can be "Refined" to Level 5 (R5) using materials gathered through gameplay, often outperforming R1 gacha 4-stars.
 
 ### The Catch: The F2P King
@@ -81,6 +100,9 @@ These weapons are designed for the "healer meta" and provide some of the highest
 
 ## Best On (Characters)
 
+![Best On (Characters)](/img/best-f2p-weapons-for-dps-genshin-impact/inline-3.webp)
+
+
 Matching a weapon to a character's kit is essential for maximizing DPS. Some F2P weapons are so effective they are considered "Best-in-Slot" (BiS) among all 4-star options.
 
 ### Best F2P Weapons for Sword DPS
@@ -105,6 +127,9 @@ Matching a weapon to a character's kit is essential for maximizing DPS. Some F2P
 *   **Yanfei/Ningguang:** Flowing Purity or Mappa Mare. Flowing Purity offers higher raw damage, while Mappa Mare is better for Yanfei in Vaporize teams.
 
 ## How to Get
+
+![How to Get](/img/best-f2p-weapons-for-dps-genshin-impact/inline-4.webp)
+
 
 Acquiring these weapons requires a mix of exploration, questing, and resource management.
 
@@ -134,6 +159,9 @@ Some weapons are one-time rewards from specific storylines:
 The **White Tassel** is only found in Exquisite, Precious, or Luxurious chests within Liyue and Chenyu Vale. Because these chests do not respawn, it is vital to lock at least five copies of this weapon to reach R5. Many players accidentally use them as weapon XP fodder and lose the ability to obtain them later.
 
 ## Comparison
+
+![Comparison](/img/best-f2p-weapons-for-dps-genshin-impact/inline-5.webp)
+
 
 The question for many players is whether to settle for an F2P option or pull for a 5-star weapon.
 
