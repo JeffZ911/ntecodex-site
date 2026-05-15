@@ -8,6 +8,17 @@ word_count: 2034
 published_at: "2026-05-13T05:49:56.879318+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/zzz-best-f2p-team-comps-20260513/hero.webp
+inline_images:
+  - /img/zzz-best-f2p-team-comps-20260513/inline-1.webp
+  - /img/zzz-best-f2p-team-comps-20260513/inline-2.webp
+  - /img/zzz-best-f2p-team-comps-20260513/inline-3.webp
+  - /img/zzz-best-f2p-team-comps-20260513/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Mastering the urban combat of New Eridu does not require a massive investment of Polychrome, as the game provides several high-tier agents for free through story progression and events. By understanding elemental synergies and faction bonuses, players can clear even the most difficult endgame content using entirely budget-friendly squads.
@@ -17,6 +28,9 @@ Mastering the urban combat of New Eridu does not require a massive investment of
 
 
 ## Question Restated
+
+![Question Restated](/img/zzz-best-f2p-team-comps-20260513/inline-1.webp)
+
 
 What are the most effective team compositions in Zenless Zone Zero for players who do not want to spend money (F2P)? This is a common concern for newcomers who want to ensure their resources are spent wisely on characters that remain viable in the late game. While S-rank agents like Ellen Joe or Zhu Yuan often dominate the spotlight, the fundamental question is how free-to-play characters like Anby, Billy, and Nicole stack up against these premium units in the current meta.
 
@@ -37,6 +51,9 @@ In the context of this guide, "Free-to-Play" characters include:
 *   **Accessible A-Ranks:** While technically obtained via the Signal Search (Gacha), A-rank agents like Anton, Piper, and Lucy have higher drop rates and are frequently featured on banners, making them highly accessible to the budget player.
 
 ## Direct Answer
+
+![Direct Answer](/img/zzz-best-f2p-team-comps-20260513/inline-2.webp)
+
 
 The most effective F2P team compositions focus on exploiting the Stun mechanic to create massive damage windows. The best overall F2P team is the "Cunning Hares" starter trio: Anby (Stun), Billy (Attack), and Nicole (Support). This team is perfectly balanced, offering reliable daze generation, crowd control, and burst damage.
 
@@ -60,6 +77,9 @@ Every player starts their journey with Anby, Billy, and Nicole. Anby serves as t
 Nicole is equally important as she provides one of the rarest debuffs in the game: DEF Shred. By grouping enemies with her EX Special Attack and reducing their defense, she allows your Attack agents to deal maximum damage. Billy and Corin serve as your primary damage dealers, with Billy excelling in AOE (Area of Effect) situations and Corin specializing in single-target "boss killing" during stun windows.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/zzz-best-f2p-team-comps-20260513/inline-3.webp)
+
 
 ### Team 1: The Cunning Hares (Anby / Billy / Nicole)
 
@@ -116,6 +136,9 @@ To maximize F2P team efficiency, you must follow a specific rotation:
 4.  **The Burst Window:** Once the enemy is stunned, dump all Energy with your Attack agent (Billy's EX Special or Corin's held EX Special).
 
 ## Related
+
+![Related](/img/zzz-best-f2p-team-comps-20260513/inline-4.webp)
+
 
 ### How to Get More Free Characters in ZZZ
 
