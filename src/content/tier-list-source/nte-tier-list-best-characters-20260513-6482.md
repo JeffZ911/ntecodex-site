@@ -8,6 +8,21 @@ word_count: 1835
 published_at: "2026-05-13T09:57:57.267107+00:00"
 published_url: /tier-list
 sources: []
+hero_image: /img/nte-tier-list-best-characters-20260513-6482/hero.webp
+inline_images:
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-1.webp
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-2.webp
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-3.webp
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-4.webp
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-5.webp
+  - /img/nte-tier-list-best-characters-20260513-6482/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Mastering the urban anomalies of Hethereau requires a perfectly balanced team of Espers capable of both high-octane combat and efficient city management. This Neverness to Everness (NTE) tier list ranks every character available as of the Version 1.0.1 update to help you prioritize your resources.
@@ -17,6 +32,9 @@ Mastering the urban anomalies of Hethereau requires a perfectly balanced team of
 Success in Neverness to Everness depends on your ability to navigate the dual nature of the game: intense real-time combat against Anomalies and the complex management of the City Tycoon system. This tier list evaluates characters based on their performance in the current endgame meta, specifically focusing on their efficiency in clearing high-level Anomalous Zones and their utility in Hethereau’s urban activities.
 
 ## Methodology
+
+![Methodology](/img/nte-tier-list-best-characters-20260513-6482/inline-1.webp)
+
 
 Ranking Espers in NTE involves more than just looking at raw damage numbers. Our evaluation process considers three primary pillars of gameplay: combat efficiency, elemental synergy within the "Esper Cycle," and "City Tycoon" utility.
 
@@ -45,6 +63,9 @@ The current meta revolves around maximizing the uptime of elemental reactions. F
 
 ## S Tier
 
+![S Tier](/img/nte-tier-list-best-characters-20260513-6482/inline-2.webp)
+
+
 S-Tier characters are the "must-pull" units of Neverness to Everness. They define the current meta and remain effective even in the most difficult Anomalous Zones.
 
 ### Nanally: The Coluccis' Powerhouse
@@ -70,6 +91,9 @@ The protagonist of NTE, Esper Zero, is a rare example of a free starting unit re
 
 ## A Tier
 
+![A Tier](/img/nte-tier-list-best-characters-20260513-6482/inline-3.webp)
+
+
 A-Tier characters are excellent units that can clear all current content. They typically require a bit more team synergy or specific Arcs to match the raw power of S-Tier units.
 
 ### High-Value Standard Units
@@ -92,6 +116,9 @@ Fadia is generally preferred for long-duration fights in Anomalous Zones due to 
 
 ## B Tier
 
+![B Tier](/img/nte-tier-list-best-characters-20260513-6482/inline-4.webp)
+
+
 B-Tier characters are solid for early to mid-game progression but often struggle in the Version 1.0.1 endgame meta due to lower scaling or clunky mechanics.
 
 ### Niche Specialists and Starter Units
@@ -105,6 +132,9 @@ Mint is the first character you receive in the story. She is perfectly viable fo
 
 ## C Tier
 
+![C Tier](/img/nte-tier-list-best-characters-20260513-6482/inline-5.webp)
+
+
 C-Tier characters are currently underperforming and are generally not recommended for heavy investment unless they are your only options for a specific element.
 
 *   **Aurelia (Psyche/Support):** Her buffs have a very short duration (4-6 seconds), which does not align well with the 10-12 second burst windows of the top-tier DPS units.
@@ -113,6 +143,9 @@ C-Tier characters are currently underperforming and are generally not recommende
 Avoid spending "Character Pixels" on these units early on. It is better to save your stamina for farming Arcs or leveling up your A-Rank supports like Haniel or Fadia.
 
 ## Recent Changes
+
+![Recent Changes](/img/nte-tier-list-best-characters-20260513-6482/inline-6.webp)
+
 
 The transition to Version 1.0.1 on May 13, 2026, brought several significant shifts to the meta. The most notable change is the introduction of Hotori, who has provided a new peak for the Cosmos-attribute meta.
 
