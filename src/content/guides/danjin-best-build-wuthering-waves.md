@@ -8,6 +8,21 @@ word_count: 2112
 published_at: "2026-05-13T12:01:44.399143+00:00"
 published_url: /guides/danjin-best-build-wuthering-waves
 sources: []
+hero_image: /img/danjin-best-build-wuthering-waves/hero.webp
+inline_images:
+  - /img/danjin-best-build-wuthering-waves/inline-1.webp
+  - /img/danjin-best-build-wuthering-waves/inline-2.webp
+  - /img/danjin-best-build-wuthering-waves/inline-3.webp
+  - /img/danjin-best-build-wuthering-waves/inline-4.webp
+  - /img/danjin-best-build-wuthering-waves/inline-5.webp
+  - /img/danjin-best-build-wuthering-waves/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Danjin represents the peak of high-risk, high-reward combat in Wuthering Waves, offering a damage ceiling that rivals many 5-star Resonators for players who can master her HP-draining mechanics.
@@ -17,6 +32,9 @@ Danjin represents the peak of high-risk, high-reward combat in Wuthering Waves, 
 
 
 ## Overview
+
+![Overview](/img/danjin-best-build-wuthering-waves/inline-1.webp)
+
 
 Danjin is a 4-star Havoc Resonator who utilizes a Sword to deliver rapid, devastating strikes at the cost of her own survivability. As a member of the Midnight Rangers, her lore reflects her intense personality—a trait that translates directly into her "Berserker" playstyle. Every time Danjin uses her Resonance Skill, she consumes a portion of her own health to fuel her attacks, making her one of the most fragile yet hardest-hitting characters in the game.
 
@@ -49,6 +67,9 @@ To maximize Danjin's effectiveness, you must prioritize her skill upgrades corre
 
 ## Best Weapons
 
+![Best Weapons](/img/danjin-best-build-wuthering-waves/inline-2.webp)
+
+
 Danjin benefits most from weapons that provide Critical stats or flat Attack increases to complement her high base scaling. Because she drains her own HP, weapons that offer defensive utility or healing are niche but can be useful for players struggling with her survival.
 
 ### Top Tier: 5-Star Sword Options
@@ -74,6 +95,9 @@ For a more defensive approach, the craftable **Sword#18** offers a unique passiv
 | **Sword#18** | 4-Star | ATK% | Heals when HP is low | 3/5 (F2P) |
 
 ## Best Echoes (Artifacts)
+
+![Best Echoes (Artifacts)](/img/danjin-best-build-wuthering-waves/inline-3.webp)
+
 
 Choosing the right Echo set is vital for Danjin, as her damage is split between sustained Havoc pressure and buffing her teammates.
 
@@ -110,6 +134,9 @@ To reach her maximum potential, Danjin requires a traditional DPS stat spread. Y
 
 ## Team Comp
 
+![Team Comp](/img/danjin-best-build-wuthering-waves/inline-4.webp)
+
+
 Danjin thrives in environments where she can either be the star of the show or the ultimate enabler for another Havoc unit.
 
 ### The Havoc Duo: Danjin and Havoc Rover
@@ -134,6 +161,9 @@ Because Danjin spends most of her time at low HP, a healer is almost mandatory f
 A highly effective F2P team consists of **Danjin (Main DPS)**, **Havoc Rover (Sub-DPS)**, and **Baizhi (Healer)**. This team has perfect elemental synergy and allows you to swap between the two DPS units depending on who has their Forte or Liberation ready.
 
 ## Rotation
+
+![Rotation](/img/danjin-best-build-wuthering-waves/inline-5.webp)
+
 
 Mastering Danjin requires understanding her "Sanguine Pulse" combos and how they interact with her Forte bar.
 
@@ -160,6 +190,9 @@ The goal of Danjin's field time is to fill the Ruby Blossom bar as quickly as po
 8.  **Outro Skill:** Switch to your Main DPS (e.g., Havoc Rover) to pass the 23% Havoc Deepen buff.
 
 ## FAQ
+
+![FAQ](/img/danjin-best-build-wuthering-waves/inline-6.webp)
+
 
 ### Is Danjin better than 5-star characters?
 In terms of raw single-target damage, Danjin can outperform several 5-star characters, especially if she has high Resonance Chain (Sequence) levels. However, her lack of survivability and small attack range mean she requires much higher player skill to achieve those results compared to a character like Jiyan or Calcharo.

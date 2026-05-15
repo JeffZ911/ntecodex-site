@@ -8,6 +8,19 @@ word_count: 1737
 published_at: "2026-05-15T20:30:08.969044+00:00"
 published_url: /boss/how-to-beat-phantylia-hsr
 sources: []
+hero_image: /img/how-to-beat-phantylia-hsr/hero.webp
+inline_images:
+  - /img/how-to-beat-phantylia-hsr/inline-1.webp
+  - /img/how-to-beat-phantylia-hsr/inline-2.webp
+  - /img/how-to-beat-phantylia-hsr/inline-3.webp
+  - /img/how-to-beat-phantylia-hsr/inline-4.webp
+  - /img/how-to-beat-phantylia-hsr/inline-5.webp
+inline_image_sections:
+  - "Boss Stats"
+  - "Attack Patterns"
+  - "Step-by-Step Strategy"
+  - "Recommended Team"
+  - "Loot"
 ---
 
 Overcoming the Lord Ravager Phantylia requires a deep understanding of her three-phase elemental shift and the ability to manage her debilitating HP-reduction debuffs. This guide provides the tactical breakdown and team compositions necessary to conquer the Echo of War: Divine Seed challenge.
@@ -19,6 +32,9 @@ Overcoming the Lord Ravager Phantylia requires a deep understanding of her three
 Phantylia the Undying serves as the climactic encounter of the Xianzhou Luofu main story arc and remains one of the most mechanically demanding Echo of War bosses. Unlike earlier bosses that rely on pure damage, Phantylia utilizes a unique "Prana-Siphon" mechanic that permanently reduces your team's maximum health until cleansed. To farm her advanced Trace materials efficiently, players must balance offensive pressure with high-frequency cleansing.
 
 ## Boss Stats
+
+![Boss Stats](/img/how-to-beat-phantylia-hsr/inline-1.webp)
+
 
 Phantylia is a three-phase boss found in the Scalegorge Waterscape. Each phase represents a different Path—Abundance, Destruction, and finally, a combination of both. Her stats scale significantly across the six difficulty levels of the Echo of War.
 
@@ -48,6 +64,9 @@ The fight is divided into three distinct HP bars. When a bar is depleted, Phanty
 3.  **Phase 3 (The Undying):** Combines both elements and summons both types of Lotuses. She gains the ability to use Imaginary DMG for her ultimate attacks.
 
 ## Attack Patterns
+
+![Attack Patterns](/img/how-to-beat-phantylia-hsr/inline-2.webp)
+
 
 Understanding the Lotuses is the most important part of the Phantylia fight. She rarely acts alone, relying on these summons to cripple your team's resources and health pools.
 
@@ -82,6 +101,9 @@ Phase 3 is a chaotic combination of the previous two. Phantylia summons two Abun
 
 ## Step-by-Step Strategy
 
+![Step-by-Step Strategy](/img/how-to-beat-phantylia-hsr/inline-3.webp)
+
+
 Success in this battle depends on how you handle the "Cloudhymn Roar" assist and your cleansing priority.
 
 ### How to Handle the Lotus Summons
@@ -107,6 +129,9 @@ During the story version and the Echo of War version of this fight, you have acc
 *   **Best Use Case:** Save the Cloudhymn Roar for Phase 3 when Phantylia has four lotuses on the field. Using it when the Destruction Lotuses are in their "Bloom" state will often Break all of them simultaneously, protecting your team from a massive damage spike.
 
 ## Recommended Team
+
+![Recommended Team](/img/how-to-beat-phantylia-hsr/inline-4.webp)
+
 
 Because Phantylia hits multiple targets and applies Max HP debuffs, a "Solo Sustain" setup requires a very well-built healer. For players still gearing up, a "Double Sustain" (Healer + Tank) approach is safer.
 
@@ -140,6 +165,9 @@ If you have access to 5-star characters, the fight becomes significantly faster.
 | **Lynx** | Healer | F2P friendly; her Ultimate cleanses the entire team of Prana-Siphon. |
 
 ## Loot
+
+![Loot](/img/how-to-beat-phantylia-hsr/inline-5.webp)
+
 
 Defeating Phantylia is necessary for high-level character progression. You can claim rewards from the Echo of War three times per week (shared across all Echo of War bosses).
 
