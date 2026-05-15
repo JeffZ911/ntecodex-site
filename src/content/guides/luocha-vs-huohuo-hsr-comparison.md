@@ -8,6 +8,15 @@ word_count: 1754
 published_at: "2026-05-13T06:54:05.739293+00:00"
 published_url: /guides/luocha-vs-huohuo-hsr-comparison
 sources: []
+hero_image: /img/luocha-vs-huohuo-hsr-comparison/hero.webp
+inline_images:
+  - /img/luocha-vs-huohuo-hsr-comparison/inline-1.webp
+  - /img/luocha-vs-huohuo-hsr-comparison/inline-2.webp
+  - /img/luocha-vs-huohuo-hsr-comparison/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Recommendation"
 ---
 
 Choosing between the galaxy's most efficient merchant and the IPC’s most reluctant Ten-Lords Commission judge-in-training is one of the most common dilemmas for players looking to optimize their sustain slot. While both Luocha and Huohuo belong to the Path of Abundance, they offer fundamentally different approaches to keeping a team alive and enhancing their combat performance.
@@ -19,6 +28,9 @@ Choosing between the galaxy's most efficient merchant and the IPC’s most reluc
 Deciding which of these five-star healers to pull for or invest in depends heavily on your team’s Skill Point (SP) consumption and your need for offensive utility. In the current Honkai: Star Rail meta, the gap between "just surviving" and "clearing content within turn limits" is often bridged by the specific utility your healer brings to the table.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/luocha-vs-huohuo-hsr-comparison/inline-1.webp)
+
 
 If you are looking for a quick answer, the choice usually boils down to whether you value comfort and Skill Points or raw offensive power.
 
@@ -42,6 +54,9 @@ Luocha’s greatest strength is his passivity. He is designed to keep your team 
 Huohuo functions more like a Harmony character who happens to heal. While she requires more attention to her Skill Point usage, the trade-off is a significant boost to your team's damage output. Her Ultimate does not heal; instead, it restores Energy to all allies and grants a substantial ATK buff. In high-level content like Memory of Chaos (MoC) or Apocalyptic Shadow, Huohuo’s ability to speed up Ultimate rotations often results in faster clear times than Luocha can provide.
 
 ## Side-by-Side Table
+
+![Side-by-Side Table](/img/luocha-vs-huohuo-hsr-comparison/inline-2.webp)
+
 
 To understand how these two compare at a fundamental level, we must look at their base stats and core kit mechanics.
 
@@ -90,6 +105,9 @@ Luocha’s 100 Energy cost is very manageable. With a Post-Op Conversation Light
 Huohuo’s 140 Energy cost is a significant hurdle. Without her signature Light Cone, "Night of Fright," or a high-superimposition "Shared Feeling," she may struggle to get her Ultimate back in time to maintain the ATK buff. This high cost is the "tax" players pay for the incredible utility her Ultimate provides.
 
 ## Recommendation
+
+![Recommendation](/img/luocha-vs-huohuo-hsr-comparison/inline-4.webp)
+
 
 The "better" healer is the one that solves the specific problems your current roster is facing.
 

@@ -24,6 +24,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2dj1Vi_BD8doUTPgYfax3_Q3N-QSYHFe8vF-x5JxsdtMChC7WtkbvcIt_0xlessOjdpgrgyzFZ9zEEHtSGU3p-ZyuiNvPCMjtEedHxQbkI0viDUP0ORT5ns4-awUYhO36pgS2xCaMSzlA_trJ-uKbbz7MFaCjF2WZgfbGLDcajXJumH9IDttvMBvjP9g3_Vkp1Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtsEAZFGtbDy_PUj66hLl6vTh9du0w1B3xATffeK8juuI00ySkpvFblz-53rZxyWXTH8AwUGkVuza8rTkAnf7eKPRH2wyrOGYnBlPwRdmFA4RYVmvCLqcncQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj64eypwIPAGHJhykkOY8BmGEg2Bpsap6Bf4WIRDzfIbtFvNtuOyPR3e7M_l_GlspfVwKGBHqf0DrTWRpvNCMySgGlZoepwrB2owrBgtvVx_1_R63T2x6zFP8PZIny2pyvBnIFbH9ArNaDr5xttnARtIlkZnUHuwZ09jfTtw2uiZRxz2SFmPVVtefL3tXIJt0V"
+hero_image: /img/best-disk-sets-nte-dps-tier-list/hero.webp
+inline_images:
+  - /img/best-disk-sets-nte-dps-tier-list/inline-1.webp
+  - /img/best-disk-sets-nte-dps-tier-list/inline-2.webp
+  - /img/best-disk-sets-nte-dps-tier-list/inline-3.webp
+  - /img/best-disk-sets-nte-dps-tier-list/inline-4.webp
+  - /img/best-disk-sets-nte-dps-tier-list/inline-5.webp
+  - /img/best-disk-sets-nte-dps-tier-list/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 Mastering the supernatural streets of Hethereau requires more than just fast cars and flashy Espers; it demands a deep understanding of the Console system to maximize your combat efficiency.
@@ -35,6 +50,9 @@ Mastering the supernatural streets of Hethereau requires more than just fast car
 In Neverness to Everness (NTE), your character’s power is defined by their Console—a specialized gear board where you slot Cartridges (Disk Sets) and Modules to activate powerful combat bonuses. Unlike traditional gear systems, NTE uses a Tetris-style grid where the shape and type of your equipment are just as important as the raw statistics they provide. As of May 15, 2026, the meta has shifted significantly toward defense-shredding and reaction-based damage, making certain Legendary Cartridges indispensable for high-level "Rabbit Hole" challenges.
 
 ## Methodology
+
+![Methodology](/img/best-disk-sets-nte-dps-tier-list/inline-1.webp)
+
 
 Ranking the best Disk Sets for DPS characters requires analyzing how the Console system interacts with the three core components of a build: the Cartridge's 4-piece bonus, Module specialization, and elemental synergy. In the current 1.0.2 environment, raw Attack (ATK) is often overshadowed by Defense (DEF) Ignore and Critical Damage (CRIT DMG) multipliers that scale better into the endgame.
 
@@ -55,6 +73,9 @@ Modules come in various shapes and types (Type I, II, III, and IV). While every 
 While it is tempting to hunt for "god-roll" sub-stats immediately, the 4-piece Legendary set bonuses in NTE provide massive, build-defining multipliers that sub-stats cannot replicate. For instance, a 25% DEF ignore or a 56% CRIT DMG boost provides a higher total damage ceiling than a few extra ATK% rolls. Early in your progression, prioritize completing the required Module pattern to activate the 4-piece bonus, even if the individual Modules have suboptimal sub-stats.
 
 ## S Tier
+
+![S Tier](/img/best-disk-sets-nte-dps-tier-list/inline-2.webp)
+
 
 The S Tier consists of Cartridges that offer universal or highly accessible damage multipliers that remain effective across all endgame content, including the difficult "Beyond the Rails" floors.
 
@@ -81,6 +102,9 @@ With the rise of the "Stain" meta, **Devil's Blood: Curse** has climbed to S Tie
 When paired with a support like **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** or **Hathor**, who can consistently apply the required status effects, the 36% total DMG multiplier is the highest unconditional damage boost currently available in the game. It is the best-in-slot (BiS) option for any Psyche-based damage dealer.
 
 ## A Tier
+
+![A Tier](/img/best-disk-sets-nte-dps-tier-list/inline-3.webp)
+
 
 A-Tier sets are incredibly powerful but often restricted to specific elements or require more setup than the S-Tier options.
 
@@ -118,6 +142,9 @@ Its simplicity is its strength. Since every DPS character uses their Skill as pa
 
 ## B Tier
 
+![B Tier](/img/best-disk-sets-nte-dps-tier-list/inline-4.webp)
+
+
 B-Tier sets are situational. They are often outperformed by A-Tier sets unless you have specific character synergies or lack the correct Module shapes for a higher-tier set.
 
 ### Diabolos: Chaos RES Shredding
@@ -152,6 +179,9 @@ This set is situational and primarily used when your main DPS is consistently be
 
 ## C Tier
 
+![C Tier](/img/best-disk-sets-nte-dps-tier-list/inline-5.webp)
+
+
 C-Tier sets should generally be avoided for primary damage dealers. They either focus on outdated mechanics or provide defensive stats that do not contribute to clearing timed content.
 
 ### Quiet Manor: Why Basic Attack Focus is Falling Off
@@ -180,6 +210,9 @@ If you obtain S-rarity versions of these sets with poor sub-stats, it is often b
 | **B-Class (Rare)** | 1x Low-Grade Chip |
 
 ## Recent Changes
+
+![Recent Changes](/img/best-disk-sets-nte-dps-tier-list/inline-6.webp)
+
 
 The May 2026 update (Version 1.0.2) brought several balance adjustments that reshaped the tier list. The most significant change was the overhaul of the **Chaos RES ignore** values for the Diabolos set, which were increased from 15% to 24% to help Daffodil compete with the Anima-heavy meta.
 
