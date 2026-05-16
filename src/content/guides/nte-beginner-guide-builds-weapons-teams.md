@@ -31,6 +31,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-LOho21PhV3vUaWWOaI3rc_e6NxcfhS_FlKxmUADYyhqVh9Ajb8OqflBhElimzcdtI2kB3L5IArunq3cM3ilGMcSLZkcfcIjbLFdKZlKZUfPh5ovRDXey5M1rwsOK4uCRjNtrG_ugj4mNv7LVrv_6_VaQXzJXZQQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9wFEMYzNcpNTSjSeCcu0r9uNTsBN06LzI41q6dvI118XEpIpH9KXmgPcGLXkjNfkzTZtxB5IHjrVSIBEWCAeddWrR4ir--qvtL-6l8C4xdZlTw32ORiylYFU2hGUH2T2aReYDAE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCjCInvQYUbh5f-PoFbuLSoLThlMqbWoPZNRSdzHqGeYNJlu7J01zH9GAQzPcI_xLoJU-Pb1MpMpPcU9-VCKbAd8-RN_lhM7IPysV3JMgb6H63V6_1DNlAuDu8Eahag9dcFphI0vhVNCfMXAy3yNfdyagGSu6Y5TSybA9DW5ekp0wo"
+hero_image: /img/nte-beginner-guide-builds-weapons-teams/hero.webp
+inline_images:
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-1.webp
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-2.webp
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-3.webp
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-4.webp
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-5.webp
+  - /img/nte-beginner-guide-builds-weapons-teams/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Hethereau is a city where every neon sign hides an anomaly, and every alleyway is a potential battleground for those brave enough to look beneath the surface.
@@ -42,6 +57,9 @@ Hethereau is a city where every neon sign hides an anomaly, and every alleyway i
 Neverness to Everness (NTE) officially launched on April 29, 2026, introducing players to a sprawling urban open-world RPG where the line between reality and the supernatural is razor-thin. As an "unlicensed" Anomaly Hunter operating out of the Eibon antique shop hub, you are tasked with investigating urban legends and containing anomalies that threaten the city. Mastering the game requires a deep understanding of its unique combat systems, specifically the Esper Cycle, and knowing how to optimize your characters with the right Arcs and Console configurations.
 
 ## Overview
+
+![Overview](/img/nte-beginner-guide-builds-weapons-teams/inline-1.webp)
+
 
 In Neverness to Everness, combat revolves around a group of supernatural individuals known as Espers. Each character is attuned to one of six elements, and your success depends on how you cycle through these elements to trigger devastating reactions. The game follows the story of the protagonist, Esper Zero, a versatile Cosmos-attribute carry who serves as the foundation for most early-game rosters.
 
@@ -79,6 +97,9 @@ Your Hunter Level increases as you complete missions and explore Hethereau, but 
 
 ## Best Weapons
 
+![Best Weapons](/img/nte-beginner-guide-builds-weapons-teams/inline-2.webp)
+
+
 In Neverness to Everness, weapons are known as "Arcs." They are categorized into five types: Plasma, Solid, Gas, Liquid, and Synthesis. A character can only equip an Arc that matches their compatibility type. Arcs provide not only base stats like ATK and CRIT but also unique passives that can be enhanced through "Mixing" (refining) using duplicate copies.
 
 ### Top DPS Arcs
@@ -104,6 +125,9 @@ For F2P players, **Umbrella** is a reliable A-Rank choice for defensive utility,
 | Day Off | Synthesis | ATK% | Restores 10 Ultimate Energy per enemy defeated during Eclipse. |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/nte-beginner-guide-builds-weapons-teams/inline-3.webp)
+
 
 The "Console" system is NTE’s version of gear or artifacts. It consists of a grid where you place "Modules"—Tetris-like puzzle pieces that provide raw stats—and "Cartridges," which provide set bonuses.
 
@@ -131,6 +155,9 @@ The **Lost Radiance** set is the go-to for Cosmos DPS characters like Esper Zero
 
 ## Team Comp
 
+![Team Comp](/img/nte-beginner-guide-builds-weapons-teams/inline-4.webp)
+
+
 Effective team building in NTE relies on the "Elemental Lane" concept. You want to pair characters whose elements are adjacent on the Esper Wheel to ensure you can trigger Duo and Triple Cycle reactions constantly.
 
 ### Top-Tier Meta Teams
@@ -154,6 +181,9 @@ New players should focus on the **Standard Starter Team**: Esper Zero (Main DPS)
 
 ## Rotation
 
+![Rotation](/img/nte-beginner-guide-builds-weapons-teams/inline-5.webp)
+
+
 Combat in NTE is a rhythmic dance of filling meters and swapping characters at the exact right moment. Every character has an Esper Meter next to their portrait. Once this meter is full, the portrait will glow—this is your **Switch Signal**.
 
 ### Executing the Esper Cycle
@@ -175,6 +205,9 @@ Every elite enemy and boss has a white "Stun Meter" (Break bar) below their heal
 Maintaining momentum is key. Use **Redirect Skills** to parry incoming attacks; a successful parry instantly fills a character’s entire Esper Meter. If you cannot parry, a "Critical Dodge" will still grant a significant burst of energy and often triggers character-specific passives, such as those found on the Camellia Society Arc.
 
 ## FAQ
+
+![FAQ](/img/nte-beginner-guide-builds-weapons-teams/inline-6.webp)
+
 
 **How does the NTE gacha work?**
 The gacha system in Neverness to Everness, known as "Scarborough Fair," is one of the most player-friendly in the genre. There is **no 50/50 system**; if you pull an S-Rank character on a limited banner, it is guaranteed to be the featured character. Hard pity is at 90 pulls, but "Board Modification" at 70 pulls significantly increases your chances of an early drop to 19.59%.
