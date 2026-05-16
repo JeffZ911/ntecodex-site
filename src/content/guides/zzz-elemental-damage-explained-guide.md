@@ -8,6 +8,21 @@ word_count: 1737
 published_at: "2026-05-13T21:29:59.823834+00:00"
 published_url: /guides/zzz-elemental-damage-explained-guide
 sources: []
+hero_image: /img/zzz-elemental-damage-explained-guide/hero.webp
+inline_images:
+  - /img/zzz-elemental-damage-explained-guide/inline-1.webp
+  - /img/zzz-elemental-damage-explained-guide/inline-2.webp
+  - /img/zzz-elemental-damage-explained-guide/inline-3.webp
+  - /img/zzz-elemental-damage-explained-guide/inline-4.webp
+  - /img/zzz-elemental-damage-explained-guide/inline-5.webp
+  - /img/zzz-elemental-damage-explained-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Mastering the elemental interactions in New Eridu is the difference between struggling against high-level Ethereals and clearing Shiyu Defense with ease. This guide breaks down how Attribute Anomalies and Disorder reactions function to maximize your squad's combat efficiency.
@@ -15,6 +30,9 @@ Mastering the elemental interactions in New Eridu is the difference between stru
 # Zenless Zone Zero Elemental Damage Guide: Mechanics, Anomalies, and Best Builds
 
 ## Overview
+
+![Overview](/img/zzz-elemental-damage-explained-guide/inline-1.webp)
+
 
 In Zenless Zone Zero (ZZZ), every Agent belongs to one of five elemental Attributes: Fire, Ice, Electric, Physical, or Ether. While standard attacks deal damage of that specific type, the true power lies in the Attribute Anomaly system. When an Agent attacks an enemy, they accumulate "Anomaly Buildup" for their specific element. Once the circular meter next to an enemy’s health bar fills completely, an Attribute Anomaly is triggered, inflicting a powerful debuff or damage-over-time (DoT) effect.
 
@@ -49,6 +67,9 @@ For primary Anomaly DPS characters like Grace or Jane Doe, high Proficiency is m
 
 ## Best Weapons
 
+![Best Weapons](/img/zzz-elemental-damage-explained-guide/inline-2.webp)
+
+
 Choosing the right W-Engine for an elemental build depends on whether you need faster application (Mastery) or higher damage per proc (Proficiency). Anomaly-class engines typically provide these stats as their secondary attribute.
 
 ### Top S-Rank W-Engines
@@ -71,6 +92,9 @@ Choosing the right W-Engine for an elemental build depends on whether you need f
 | Rainforest Gourmet | A | ATK% | ATK Buff via Energy Consumption |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/zzz-elemental-damage-explained-guide/inline-3.webp)
+
 
 Disk Drives provide the necessary stat thresholds to make elemental builds viable in the endgame. For elemental damage, you are looking for sets that either increase your specific element's damage or boost the universal Anomaly stats.
 
@@ -99,6 +123,9 @@ Note: Traditional Crit Rate and Crit DMG are generally lower priority for Anomal
 
 ## Team Comp
 
+![Team Comp](/img/zzz-elemental-damage-explained-guide/inline-4.webp)
+
+
 Building a team in ZZZ usually follows one of two philosophies: Mono-Element or Disorder.
 
 ### The Mono-Element Strategy
@@ -118,6 +145,9 @@ Disorder teams use two Anomaly Agents of different elements to trigger rapid rea
 [Team composition UI screenshot showing a balanced Disorder team (Grace, Piper, Rina).]
 
 ## Rotation
+
+![Rotation](/img/zzz-elemental-damage-explained-guide/inline-5.webp)
+
 
 Effective elemental combat requires managing the "buildup" of two different meters simultaneously without overriding them inefficiently.
 
@@ -141,6 +171,9 @@ The damage of a Disorder proc is calculated based on the "remaining" damage of t
 *   **Step 6:** Repeat by swapping back to Agent A.
 
 ## FAQ
+
+![FAQ](/img/zzz-elemental-damage-explained-guide/inline-6.webp)
+
 
 ### Does elemental damage crit?
 Standard hits from an elemental Agent can crit like any other attack. However, the **Attribute Anomaly damage** (the DoT from Burn/Shock or the burst from Assault/Shatter) cannot crit. The only exception is if a character has a specific passive or W-Engine that allows Anomaly damage to crit [information not yet publicly available as of 2026-05-13].
