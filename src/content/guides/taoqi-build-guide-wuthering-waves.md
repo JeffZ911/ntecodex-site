@@ -8,6 +8,21 @@ word_count: 2083
 published_at: "2026-05-13T22:14:34.449879+00:00"
 published_url: /guides/taoqi-build-guide-wuthering-waves
 sources: []
+hero_image: /img/taoqi-build-guide-wuthering-waves/hero.webp
+inline_images:
+  - /img/taoqi-build-guide-wuthering-waves/inline-1.webp
+  - /img/taoqi-build-guide-wuthering-waves/inline-2.webp
+  - /img/taoqi-build-guide-wuthering-waves/inline-3.webp
+  - /img/taoqi-build-guide-wuthering-waves/inline-4.webp
+  - /img/taoqi-build-guide-wuthering-waves/inline-5.webp
+  - /img/taoqi-build-guide-wuthering-waves/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Taoqi is the ultimate defensive anchor in Wuthering Waves, turning her massive Defense stat into both a shield for allies and a devastating counter-attack for enemies. While often overlooked for faster damage dealers, her ability to provide a 38% Resonance Skill DMG Deepen buff makes her an indispensable support for high-tier units like Danjin and Jiyan.
@@ -17,6 +32,9 @@ Taoqi is the ultimate defensive anchor in Wuthering Waves, turning her massive D
 
 
 ## Overview
+
+![Overview](/img/taoqi-build-guide-wuthering-waves/inline-1.webp)
+
 
 Taoqi is a 4-star Havoc Resonator who wields a Broadblade. Unlike the majority of the roster that relies on Attack (ATK) to drive their damage, Taoqi is a DEF-scaling specialist. This unique scaling allows her to reach absurd levels of survivability while still contributing meaningful damage through her "Timed Counters."
 
@@ -61,6 +79,9 @@ Taoqi occupies a niche but vital position. She is not a "plug-and-play" support 
 
 ## Best Weapons
 
+![Best Weapons](/img/taoqi-build-guide-wuthering-waves/inline-2.webp)
+
+
 Choosing the right Broadblade for Taoqi depends on whether you want to maximize her personal tankiness or solve her Concerto Energy issues. Because she scales with DEF, standard ATK-based Broadblades are significantly less effective on her.
 
 ### Top 5 Weapons for Taoqi
@@ -86,6 +107,9 @@ For players who have purchased the Insider Channel (Battle Pass), **Autumntrace*
 For F2P players, **Broadblade of Voyager** is a hidden gem. It provides much-needed Energy Regen and helps her keep her Resonance Liberation available on every rotation, which is her primary way of dealing AoE Havoc damage.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/taoqi-build-guide-wuthering-waves/inline-3.webp)
+
 
 In Wuthering Waves, the equipment system is known as the **Echo System**. For Taoqi, your choice of Echo set will determine if she functions as a team-wide buffer or a solo tank.
 
@@ -123,6 +147,9 @@ Taoqi’s stat priority is unique because of her DEF scaling. You should avoid A
 
 ## Team Comp
 
+![Team Comp](/img/taoqi-build-guide-wuthering-waves/inline-4.webp)
+
+
 Taoqi thrives in teams where the Main DPS relies heavily on their Resonance Skill. She acts as a defensive pivot, absorbing damage and then passing a massive damage buff to the primary attacker.
 
 ### Top 3 Team Archetypes
@@ -149,6 +176,9 @@ In a **Havoc Rover** team, Taoqi provides the Havoc DMG synergy. While Havoc Rov
 
 ## Rotation
 
+![Rotation](/img/taoqi-build-guide-wuthering-waves/inline-5.webp)
+
+
 The goal of a Taoqi rotation is to build three stacks of "Resolving Caliber" as quickly as possible to trigger her Timed Counters, fill her Concerto bar, and swap out.
 
 ### Standard Support Rotation
@@ -167,6 +197,9 @@ To speed up Taoqi's slow Concerto generation, you must master the **Strategic Pa
 Additionally, you can "dash-cancel" the recovery frames of her third Timed Counter. As soon as the damage numbers appear for the final swing, dash or jump to immediately transition into your Echo skill or Resonance Liberation, saving roughly 0.5 to 1 second of field time.
 
 ## FAQ
+
+![FAQ](/img/taoqi-build-guide-wuthering-waves/inline-6.webp)
+
 
 ### Common Build Questions
 
