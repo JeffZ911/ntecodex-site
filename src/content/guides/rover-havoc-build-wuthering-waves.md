@@ -8,6 +8,21 @@ word_count: 1943
 published_at: "2026-05-13T19:03:54.055586+00:00"
 published_url: /guides/rover-havoc-build-wuthering-waves
 sources: []
+hero_image: /img/rover-havoc-build-wuthering-waves/hero.webp
+inline_images:
+  - /img/rover-havoc-build-wuthering-waves/inline-1.webp
+  - /img/rover-havoc-build-wuthering-waves/inline-2.webp
+  - /img/rover-havoc-build-wuthering-waves/inline-3.webp
+  - /img/rover-havoc-build-wuthering-waves/inline-4.webp
+  - /img/rover-havoc-build-wuthering-waves/inline-5.webp
+  - /img/rover-havoc-build-wuthering-waves/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Unlock the devastating potential of the Havoc Rover, the game's premier free-to-play DPS unit capable of rivaling the strongest gacha characters through high burst damage and seamless synergies.
@@ -19,6 +34,9 @@ Unlock the devastating potential of the Havoc Rover, the game's premier free-to-
 The Havoc Rover represents a significant power spike for players, transitioning the protagonist from a Spectro-based utility character into a high-octane Havoc Main DPS. Unlike many other protagonists in the genre, the Havoc Rover maintains a top-tier position in the meta due to their incredible scaling, ease of access to Resonance Chains, and a unique synergy with one of the most powerful Echoes in the game, the Dreamless. This guide details the optimal build path to maximize your damage output in the Tower of Adversity and high-level Hologram challenges.
 
 ## Overview
+
+![Overview](/img/rover-havoc-build-wuthering-waves/inline-1.webp)
+
 
 Rover (Havoc) is a high-tier Main DPS unlocked after completing Chapter 1 Act VI: Grand Warstorm. This transformation changes the Rover's element from Spectro to Havoc and provides an entirely new kit focused on aggressive, fast-paced combat. The Rover's base stats at Level 90 are as follows:
 
@@ -47,6 +65,9 @@ The Rover's gameplay revolves around the **Umbra** gauge, located above the heal
 
 ## Best Weapons
 
+![Best Weapons](/img/rover-havoc-build-wuthering-waves/inline-2.webp)
+
+
 The Havoc Rover uses a Sword. Because they scale heavily with Attack and Critical stats, five-star weapons significantly outperform four-star alternatives, though there are several viable F2P paths.
 
 ### Top 5-Star Weapon Options
@@ -70,6 +91,9 @@ For players without access to 5-star gacha swords, **Commando of Conviction** is
 | Sword of Night | 3-Star | ATK% | +16% Intro Skill DMG |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/rover-havoc-build-wuthering-waves/inline-3.webp)
+
 
 In Wuthering Waves, "Disks" are referred to as Echoes. For the Havoc Rover, the goal is to stack Havoc DMG and Critical stats while ensuring enough Energy Recharge to use the Resonance Liberation every rotation.
 
@@ -102,6 +126,9 @@ Having at least 120% Energy Recharge is vital. If you cannot use your Ultimate e
 
 ## Team Comp
 
+![Team Comp](/img/rover-havoc-build-wuthering-waves/inline-4.webp)
+
+
 The Havoc Rover functions best in a "Hypercarry" or "Duo DPS" setup where supports provide DMG Deepen buffs rather than just raw Attack.
 
 ### The Havoc Duo: Rover + Danjin
@@ -122,6 +149,9 @@ The Havoc Rover functions best in a "Hypercarry" or "Duo DPS" setup where suppor
 
 ## Rotation
 
+![Rotation](/img/rover-havoc-build-wuthering-waves/inline-5.webp)
+
+
 Mastering the Havoc Rover requires precise timing to ensure the Dreamless Echo receives its 50% damage bonus.
 
 ### Umbra Building Phase
@@ -139,6 +169,9 @@ Mastering the Havoc Rover requires precise timing to ensure the Dreamless Echo r
 **Animation Canceling Tip:** You can cancel the end of the Resonance Skill (Lifetaker) animation by using the Dreamless Echo or swapping characters, though you must ensure the damage numbers appear before the cancel.
 
 ## FAQ
+
+![FAQ](/img/rover-havoc-build-wuthering-waves/inline-6.webp)
+
 
 ### Is Havoc Rover better than Spectro Rover?
 In terms of raw damage output, Havoc Rover is significantly stronger. Spectro Rover is better suited for a Sub-DPS or support role due to their ability to slow down time and provide minor healing/utility. If you need a Main DPS to clear timed content like the Tower of Adversity, Havoc Rover is the superior choice.
