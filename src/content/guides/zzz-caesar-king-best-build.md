@@ -8,6 +8,21 @@ word_count: 1867
 published_at: "2026-05-13T17:31:21.843652+00:00"
 published_url: /guides/zzz-caesar-king-best-build
 sources: []
+hero_image: /img/zzz-caesar-king-best-build/hero.webp
+inline_images:
+  - /img/zzz-caesar-king-best-build/inline-1.webp
+  - /img/zzz-caesar-king-best-build/inline-2.webp
+  - /img/zzz-caesar-king-best-build/inline-3.webp
+  - /img/zzz-caesar-king-best-build/inline-4.webp
+  - /img/zzz-caesar-king-best-build/inline-5.webp
+  - /img/zzz-caesar-king-best-build/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Caesar King stands as one of the most transformative Agents in Zenless Zone Zero, blending the durability of a Defense unit with the utility of a top-tier Stunner and Support. As the leader of the Sons of Calydon, she brings a unique Physical kit that revolves around massive shields and flat attack buffs.
@@ -17,6 +32,9 @@ Caesar King stands as one of the most transformative Agents in Zenless Zone Zero
 
 
 ## Overview
+
+![Overview](/img/zzz-caesar-king-best-build/inline-1.webp)
+
 
 Caesar King is an S-Rank Physical Defense Agent who redefined the role of protective characters upon her release. Unlike traditional tanks that merely absorb damage, Caesar functions as a hybrid force. She provides the "Radiant Aegis" shield, which not only protects the active character from damage but also grants a significant 1,000 ATK buff and high Anti-Interrupt resistance. This makes her a mainstay in high-difficulty content like Hollow Zero and Shiyu Defense, where maintaining offensive momentum is as important as survival.
 
@@ -55,6 +73,9 @@ When Caesar is paired with another member of the Sons of Calydon faction or any 
 
 ## Best Weapons
 
+![Best Weapons](/img/zzz-caesar-king-best-build/inline-2.webp)
+
+
 Choosing the right W-Engine for Caesar is straightforward: you want Impact. Because her shield strength and her very identity as a hybrid Stunner rely on her Impact stat, weapons that provide this stat are prioritized above all else.
 
 ### Top Tier: Tusks of Fury
@@ -79,6 +100,9 @@ If you lack the options above, you can look toward energy-focused or damage-redu
 *   **Spring Embrace (B-Rank/Battle Pass):** This provides a small amount of Energy Generation for the team and reduces damage taken. It is a "comfy" pick but does nothing to improve her shield value.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/zzz-caesar-king-best-build/inline-3.webp)
+
 
 The goal for Caesar’s Drive Discs is to maximize her Impact stat while providing additional utility to the team.
 
@@ -112,6 +136,9 @@ To reach the maximum potential of Caesar's Radiant Aegis, you must focus on Slot
 
 ## Team Comp
 
+![Team Comp](/img/zzz-caesar-king-best-build/inline-4.webp)
+
+
 Caesar King is one of the most versatile units in Zenless Zone Zero. Her Additional Ability requirement is very easy to fulfill, as most modern teams include at least one character with a Defensive Assist.
 
 ### The Sons of Calydon Anomaly Team
@@ -131,6 +158,9 @@ Caesar King is one of the most versatile units in Zenless Zone Zero. Her Additio
 
 ## Rotation
 
+![Rotation](/img/zzz-caesar-king-best-build/inline-5.webp)
+
+
 Mastering Caesar requires understanding that she is a "reactive" character. You do not want her on the field for long periods; you want her to enter, parry, buff, and leave.
 
 ### Opening Sequence
@@ -149,6 +179,9 @@ The shield lasts 60 seconds, but it can be broken by heavy hits. To maintain 100
 Caesar can manually block by holding the Special Attack button. If you release it just as an attack hits, she performs a **Perfect Block**. This is useful for bosses with slow, predictable hits where a Defensive Assist might not be available or if you have already used your Assist Points.
 
 ## FAQ
+
+![FAQ](/img/zzz-caesar-king-best-build/inline-6.webp)
+
 
 ### Does Caesar King's shield stack with Seth's?
 No. In Zenless Zone Zero, shields do not stack. If you apply Caesar's shield while Seth's shield is active, the most recent shield will replace the previous one. Generally, you want to use Caesar's shield as the primary buff due to the 1,000 ATK bonus.
