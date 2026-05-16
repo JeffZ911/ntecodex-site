@@ -8,6 +8,21 @@ word_count: 2015
 published_at: "2026-05-13T20:57:11.477630+00:00"
 published_url: /guides/silver-wolf-debuff-build-hsr-guide
 sources: []
+hero_image: /img/silver-wolf-debuff-build-hsr-guide/hero.webp
+inline_images:
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-1.webp
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-2.webp
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-3.webp
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-4.webp
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-5.webp
+  - /img/silver-wolf-debuff-build-hsr-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Silver Wolf remains the premier single-target debuffer in Honkai: Star Rail, offering a unique kit that can force elemental weaknesses onto enemies and dismantle their defenses. This guide provides the definitive silver wolf debuff build hsr players need to maximize her utility in endgame content like Memory of Chaos and Apocalyptic Shadow.
@@ -15,6 +30,9 @@ Silver Wolf remains the premier single-target debuffer in Honkai: Star Rail, off
 # Silver Wolf Debuff Build Guide: The Ultimate Nihility Support
 
 ## Overview
+
+![Overview](/img/silver-wolf-debuff-build-hsr-guide/inline-1.webp)
+
 
 Silver Wolf is a 5-star Nihility character of the Quantum Type. While she can be built as a sub-DPS at high Eidolon levels (specifically E2 and E6), her primary role for most players is a dedicated debuffer. She excels at single-target scenarios, making her the ultimate "boss killer" support. Her presence on a team drastically lowers the requirements for elemental coverage, as she can artificially create weaknesses where none exist.
 
@@ -56,6 +74,9 @@ The most critical stat for a Silver Wolf debuff build is Effect Hit Rate (EHR). 
 
 ## Best Weapons
 
+![Best Weapons](/img/silver-wolf-debuff-build-hsr-guide/inline-2.webp)
+
+
 The choice of Light Cone (LC) for Silver Wolf depends heavily on whether you have her event-exclusive 4-star weapon or her signature 5-star weapon.
 
 ### Signature 5-Star: Incessant Rain
@@ -77,6 +98,9 @@ The choice of Light Cone (LC) for Silver Wolf depends heavily on whether you hav
 | It's Showtime | 4-Star | DMG boost based on EHR | Niche (F2P Craftable) |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/silver-wolf-debuff-build-hsr-guide/inline-3.webp)
+
 
 In Honkai: Star Rail, characters equip 4-piece Relic sets and 2-piece Planar Ornaments. For Silver Wolf, your choice depends on whether you want maximum team utility or personal break damage.
 
@@ -111,6 +135,9 @@ To optimize your silver wolf debuff build hsr relics, prioritize the following m
 
 ## Team Comp
 
+![Team Comp](/img/silver-wolf-debuff-build-hsr-guide/inline-4.webp)
+
+
 Silver Wolf’s versatility allows her to fit into almost any team, but she shines brightest in setups that exploit her weakness implantation and high debuff count.
 
 ### The Mono-Quantum Meta
@@ -139,6 +166,9 @@ For Dr. Ratio, Silver Wolf provides the high volume of debuffs required to guara
 
 ## Rotation
 
+![Rotation](/img/silver-wolf-debuff-build-hsr-guide/inline-5.webp)
+
+
 Managing Silver Wolf's Skill Points (SP) is vital. Because her debuffs last for multiple turns, she does not need to use her Skill every round.
 
 ### Standard Support Rotation
@@ -161,6 +191,9 @@ To maintain the 45% DEF shred from her Ultimate, you should aim for a 3-turn rot
 **Technique usage:** Always start the fight with Silver Wolf’s Technique, "Force Quit." It ignores weakness types to reduce the Toughness of all enemies and, if the enemy's Weakness is broken, it triggers the Quantum Weakness Break effect (Entanglement) immediately.
 
 ## FAQ
+
+![FAQ](/img/silver-wolf-debuff-build-hsr-guide/inline-6.webp)
+
 
 ### Is Silver Wolf still worth pulling in the current meta?
 Yes. While characters like Pela provide AoE DEF shred, Silver Wolf remains the only character capable of Weakness Implantation. This makes her invaluable for players who lack a diverse roster of DPS characters for every element.
