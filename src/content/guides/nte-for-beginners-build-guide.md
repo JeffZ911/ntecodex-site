@@ -8,6 +8,21 @@ word_count: 1956
 published_at: "2026-05-13T20:57:10.593891+00:00"
 published_url: /guides/nte-for-beginners-build-guide
 sources: []
+hero_image: /img/nte-for-beginners-build-guide/hero.webp
+inline_images:
+  - /img/nte-for-beginners-build-guide/inline-1.webp
+  - /img/nte-for-beginners-build-guide/inline-2.webp
+  - /img/nte-for-beginners-build-guide/inline-3.webp
+  - /img/nte-for-beginners-build-guide/inline-4.webp
+  - /img/nte-for-beginners-build-guide/inline-5.webp
+  - /img/nte-for-beginners-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Mastering the supernatural streets of Hethereau requires more than just quick reflexes; it demands a deep understanding of how your Espers, Arcs, and Console configurations interact. This guide provides the essential framework for building a powerful early-game roster to clear Anomaly Commissions and dominate the City Tycoon leaderboards.
@@ -17,6 +32,9 @@ Mastering the supernatural streets of Hethereau requires more than just quick re
 
 
 ## Overview
+
+![Overview](/img/nte-for-beginners-build-guide/inline-1.webp)
+
 
 Neverness to Everness (NTE) distinguishes itself from other urban RPGs through its high-speed, swap-heavy combat. Success in Hethereau is not determined by a single "hyper-carry" unit, but by how efficiently you can cycle through your four-person team to trigger elemental synergies. 
 
@@ -45,6 +63,9 @@ In NTE, enemies possess "Anomaly Shields" that are highly resistant to standard 
 | **Hexed** | Psyche + Incantation | [Information not yet publicly available as of 2026-05-13] |
 
 ## Best Weapons
+
+![Best Weapons](/img/nte-for-beginners-build-guide/inline-2.webp)
+
 
 Weapons in NTE are known as Arcs. These are not merely stat sticks; they are categorized into five distinct types—Plasma, Solid, Gas, Liquid, and Synthesis—which dictate the Esper's attack speed, range, and energy generation.
 
@@ -76,6 +97,9 @@ Additionally, the "City Tycoon" progression system offers significant rewards. B
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/nte-for-beginners-build-guide/inline-3.webp)
+
+
 The gear system in NTE is handled through the "Console." This is a highly customizable interface where you equip "Cartridges" and "Modules." Unlike traditional RPGs where you simply equip an item into a slot, the Console uses a spatial puzzle mechanic.
 
 ### Cartridges vs. Modules Explained
@@ -97,6 +121,9 @@ This system requires you to balance high-stat Modules with their physical size. 
 To obtain high-quality Modules, you must farm the "Rabbit Hole" Anomaly Zone. This domain unlocks at Hunter Level 12. For beginners, focus on the "Level 1: Neon District" floors. These floors primarily drop Blue and Purple Modules from the Speedy Hedgehog set. Do not worry about farming Orange (Legendary) Modules until you reach Hunter Level 40, as the drop rates are significantly higher at that tier.
 
 ## Team Comp
+
+![Team Comp](/img/nte-for-beginners-build-guide/inline-4.webp)
+
 
 A well-constructed team in NTE ensures that you are always triggering reactions and never left without a shield or heal. The game provides a very capable "F2P Starter Team" through the main story and early rewards.
 
@@ -124,6 +151,9 @@ As you progress, you will want to replace your A-Rank units with more specialize
 
 ## Rotation
 
+![Rotation](/img/nte-for-beginners-build-guide/inline-5.webp)
+
+
 Understanding the rotation is the difference between struggling against a boss for ten minutes and ending the fight in two. The goal is to maximize the "Stagger Window"—the period when an enemy's Anomaly Shield is broken, and they take 50% increased damage.
 
 ### Standard Beginner Rotation Loop
@@ -142,6 +172,9 @@ The Blossom reaction is unique because the Vita Pistils it creates remain on the
 When an enemy's shield bar (the white bar under their HP) is nearly depleted, save your Ultimate abilities. Once the bar breaks, the enemy will enter a "Staggered" state. This is the only time you should unleash Zero’s full "Day Off" Arc combo. Using Ultimates while the shield is up is a waste of resources, as the shield absorbs a significant portion of the damage.
 
 ## FAQ
+
+![FAQ](/img/nte-for-beginners-build-guide/inline-6.webp)
+
 
 **How do I get more Fons?**
 Fons are the primary currency in NTE. The most efficient way to earn them is through the "City Tycoon" system. Manage your businesses in Hethereau and complete daily commissions. High-level business management can yield over 50,000 Fons per day.
