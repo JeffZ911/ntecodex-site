@@ -8,6 +8,19 @@ word_count: 1971
 published_at: "2026-05-13T18:17:36.390538+00:00"
 published_url: /guides/hsr-simulated-universe-guide-tips
 sources: []
+hero_image: /img/hsr-simulated-universe-guide-tips/hero.webp
+inline_images:
+  - /img/hsr-simulated-universe-guide-tips/inline-1.webp
+  - /img/hsr-simulated-universe-guide-tips/inline-2.webp
+  - /img/hsr-simulated-universe-guide-tips/inline-4.webp
+  - /img/hsr-simulated-universe-guide-tips/inline-5.webp
+  - /img/hsr-simulated-universe-guide-tips/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Mastering the Simulated Universe is the most effective way to secure weekly Stellar Jades and high-tier Planar Ornaments for your characters. This rogue-like game mode rewards strategic planning, Path selection, and a deep understanding of how Blessings interact with your team's specific mechanics.
@@ -15,6 +28,9 @@ Mastering the Simulated Universe is the most effective way to secure weekly Stel
 # Honkai: Star Rail Simulated Universe Guide: Best Paths, Teams, and Tips
 
 ## Overview
+
+![Overview](/img/hsr-simulated-universe-guide-tips/inline-1.webp)
+
 
 The Simulated Universe (SU) serves as Herta’s testing ground, offering a rogue-like experience where Trailblazers navigate through various Domains to face a final Boss. Success in the SU relies less on raw character stats and more on the synergy between your team and your chosen Path. As you progress, you collect Blessings and Curios that provide massive buffs, often turning even modest teams into unstoppable forces.
 
@@ -47,6 +63,9 @@ Generally, you should prioritize Blessings that match your Path to unlock Resona
 | **Erudition** | Ultimate Damage and AoE | Synapse Resonance (AoE damage triggered by Ults) |
 
 ## Best Weapons
+
+![Best Weapons](/img/hsr-simulated-universe-guide-tips/inline-2.webp)
+
 
 The Simulated Universe features its own economy through Herta’s Store. By earning Herta Bonds from weekly rewards and first-time World clears, you can purchase and superimpose 5-star Light Cones. These weapons are often comparable to signature gacha weapons and are essential for F2P (Free-to-Play) players.
 
@@ -92,6 +111,9 @@ If you are just starting your endgame journey, prioritize **World 7**. Both Ruti
 
 ## Team Comp
 
+![Team Comp](/img/hsr-simulated-universe-guide-tips/inline-4.webp)
+
+
 Building a team for the Simulated Universe is different from building for Memory of Chaos. In SU, you should pick characters that can maximize the "gimmick" of a specific Path.
 
 ### The Nihility DoT Powerhouse
@@ -121,6 +143,9 @@ If you lack limited 5-star characters, the Preservation Path is your best friend
 
 ## Rotation
 
+![Rotation](/img/hsr-simulated-universe-guide-tips/inline-5.webp)
+
+
 In the Simulated Universe, your rotation isn't just about character skills; it’s about the timing of your Path Resonance and the management of your resources.
 
 ### Optimizing Path Resonance Timing
@@ -141,6 +166,9 @@ The best runs often involve "Interplay" or simply picking high-value Blessings f
 Manage your Cosmic Fragments wisely. In the final Respite room before the boss, you have the option to enhance Blessings. It is almost always better to enhance three 3-star Blessings than ten 1-star Blessings. Focus on enhancing the "Blue" and "Gold" Blessings that provide multiplicative bonuses or change how your Path Resonance functions.
 
 ## FAQ
+
+![FAQ](/img/hsr-simulated-universe-guide-tips/inline-6.webp)
+
 
 **How do I get more Herta Bonds?**
 Herta Bonds are earned by clearing a World for the first time at any difficulty level. Additionally, you earn them by reaching the weekly score limit in the Simulated Universe (the "Weekly Reset").
