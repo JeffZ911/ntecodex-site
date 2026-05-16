@@ -8,6 +8,21 @@ word_count: 2269
 published_at: "2026-05-13T19:03:54.259586+00:00"
 published_url: /guides/tingyun-best-build-guide-honkai-star-rail
 sources: []
+hero_image: /img/tingyun-best-build-guide-honkai-star-rail/hero.webp
+inline_images:
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-1.webp
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-2.webp
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-3.webp
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-4.webp
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-5.webp
+  - /img/tingyun-best-build-guide-honkai-star-rail/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Tingyun remains one of the most resilient units in the Honkai: Star Rail meta, providing energy restoration and damage buffs that rival even the most expensive 5-star Harmony characters. This guide details the optimal way to build the Amicassador of the Sky-Faring Guild to maximize your team's offensive potential.
@@ -17,6 +32,9 @@ Tingyun remains one of the most resilient units in the Honkai: Star Rail meta, p
 
 
 ## Overview
+
+![Overview](/img/tingyun-best-build-guide-honkai-star-rail/inline-1.webp)
+
 
 Tingyun is a 4-star Lightning character following the Path of Harmony. While she was available at the game's launch on April 26, 2023, she has never fallen out of favor due to her unique ability to directly provide Energy to her teammates. Her kit revolves around the "Benediction" status, which she grants to a single ally to increase their Attack and provide additional Lightning damage on their hits.
 
@@ -51,6 +69,9 @@ Tingyun is often referred to as the "secret 5-star" of Honkai: Star Rail. Her ab
 
 ## Best Weapons
 
+![Best Weapons](/img/tingyun-best-build-guide-honkai-star-rail/inline-2.webp)
+
+
 The choice of Light Cone for Tingyun depends heavily on whether you need team-wide utility or specific Energy Regeneration thresholds to maintain her Ultimate uptime.
 
 ### Light Cone Tier List
@@ -75,6 +96,9 @@ The choice of Light Cone for Tingyun depends heavily on whether you need team-wi
 It is rare for a 3-star weapon to be meta-relevant, but **Meshing Cogs** at S5 is a premier choice for Tingyun. It grants 8 Energy whenever the wearer attacks or is hit. When combined with an Energy Regeneration Rate Rope and Tingyun's "Jubilant Passage" passive, this Light Cone guarantees a 3-turn Ultimate rotation (Skill-Basic-Basic). For many players, the consistency of having Tingyun's Ultimate ready every three turns outweighs the higher base stats of 4-star or 5-star alternatives.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/tingyun-best-build-guide-honkai-star-rail/inline-3.webp)
+
 
 Tingyun's relic requirements are unique because she needs a specific amount of ATK to maximize her Skill's buff, but she also requires high SPD and survivability.
 
@@ -107,6 +131,9 @@ To maximize this buff for most Level 80 DPS characters, Tingyun generally needs 
 
 ## Team Comp
 
+![Team Comp](/img/tingyun-best-build-guide-honkai-star-rail/inline-4.webp)
+
+
 Tingyun is a universal support, but she shines brightest in "Hypercarry" compositions where a single damage dealer consumes the majority of the team's resources.
 
 ### Best Team Archetypes
@@ -129,6 +156,9 @@ In a premium setting, pairing Tingyun with **Huohuo** creates a formidable energ
 For F2P players, Tingyun can be paired with **Asta**. While Asta provides team-wide SPD and ATK buffs, Tingyun focuses her massive single-target buffs on a character like **Dan Heng (Wind)** or **Serval**. This combination provides a balanced spread of stats that can carry players through most early-to-mid-game content.
 
 ## Rotation
+
+![Rotation](/img/tingyun-best-build-guide-honkai-star-rail/inline-5.webp)
+
 
 Understanding Tingyun's rotation is the difference between a mediocre support and a meta-defining one.
 
@@ -158,6 +188,9 @@ Tingyun’s Skill lasts for 3 turns of the *buffed ally*. You can track this by 
 6.  **Turn 4:** Refresh Skill.
 
 ## FAQ
+
+![FAQ](/img/tingyun-best-build-guide-honkai-star-rail/inline-6.webp)
+
 
 ### How much ATK does Tingyun actually need?
 As of version 2.6, most DPS characters have a base ATK (Character + Light Cone) of around 1,200 to 1,300. Tingyun’s Skill at Level 10 provides a buff equal to 25% of Tingyun's ATK, up to a maximum of 50% of the ally's base ATK. To hit this cap for a 1,250 base ATK ally, Tingyun needs 2,500 total ATK. If your DPS has a lower base ATK, Tingyun needs even less.
