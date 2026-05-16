@@ -8,6 +8,21 @@ word_count: 2204
 published_at: "2026-05-13T18:17:35.564073+00:00"
 published_url: /guides/zzz-burnice-white-best-build
 sources: []
+hero_image: /img/zzz-burnice-white-best-build/hero.webp
+inline_images:
+  - /img/zzz-burnice-white-best-build/inline-1.webp
+  - /img/zzz-burnice-white-best-build/inline-2.webp
+  - /img/zzz-burnice-white-best-build/inline-3.webp
+  - /img/zzz-burnice-white-best-build/inline-4.webp
+  - /img/zzz-burnice-white-best-build/inline-5.webp
+  - /img/zzz-burnice-white-best-build/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Burnice White brings a fiery explosive energy to Zenless Zone Zero as the premier off-field Fire Anomaly Agent. Her ability to apply Burn while tucked away in your backline makes her an essential piece for any high-performance Disorder team.
@@ -15,6 +30,9 @@ Burnice White brings a fiery explosive energy to Zenless Zone Zero as the premie
 # Zenless Zone Zero Burnice White Best Build Guide
 
 ## Overview
+
+![Overview](/img/zzz-burnice-white-best-build/inline-1.webp)
+
 
 Burnice White is an S-Rank Fire Anomaly Agent belonging to the Sons of Calydon faction. Unlike traditional on-field attackers, Burnice excels as an off-field Sub-DPS who applies the Scorched effect to enemies. This unique playstyle allows her to maintain constant elemental pressure without hogging field time, making her the perfect partner for aggressive on-field carries.
 
@@ -48,6 +66,9 @@ The core of any Burnice White best build is mastering her Heat management. At th
 
 ## Best Weapons
 
+![Best Weapons](/img/zzz-burnice-white-best-build/inline-2.webp)
+
+
 Choosing the right W-Engine is vital for maximizing Burnice's off-field damage and ensuring she can maintain her Heat levels throughout long battles.
 
 ### Top-Tier S-Rank W-Engines
@@ -80,6 +101,9 @@ A solid choice for long-form content like Hollow Zero or Shiyu Defense. It provi
 | **Weeping Gemini** | A | 30% Anomaly Prof. | Stacking AP buff when triggering Anomalies |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/zzz-burnice-white-best-build/inline-3.webp)
+
 
 Drive Discs are where you fine-tune Burnice’s stats to ensure her Burn damage and Afterburn triggers hit as hard as possible.
 
@@ -117,6 +141,9 @@ This means that hitting exactly 300 Anomaly Proficiency is the "sweet spot" for 
 
 ## Team Comp
 
+![Team Comp](/img/zzz-burnice-white-best-build/inline-4.webp)
+
+
 Burnice is a versatile unit, but she truly shines in "Disorder" compositions where she can facilitate rapid elemental reactions.
 
 ### The Jane Doe Disorder Team
@@ -149,6 +176,9 @@ In this setup, Burnice ensures the enemy is constantly Burning, which allows Sol
 
 ## Rotation
 
+![Rotation](/img/zzz-burnice-white-best-build/inline-5.webp)
+
+
 To get the most out of Burnice, you must understand how to efficiently dump her Energy and swap her out. She is not meant to stay on the field for more than a few seconds at a time.
 
 ### Opening Sequence and Heat Management
@@ -179,6 +209,9 @@ Burnice’s Ultimate, **Glorious Inferno**, is a powerful tool for Heat manageme
 - **Step 4:** Heat drops -> Swap Burnice in for Chain Attack or Ultimate -> Repeat.
 
 ## FAQ
+
+![FAQ](/img/zzz-burnice-white-best-build/inline-6.webp)
+
 
 **Is Burnice White worth pulling?**
 Yes. Burnice is currently the only S-Rank off-field Anomaly Agent. Her ability to enable Disorder teams makes her one of the most future-proof units in the game, as she will likely pair well with any future Anomaly characters of different elements.
