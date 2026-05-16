@@ -8,6 +8,21 @@ word_count: 1906
 published_at: "2026-05-13T23:00:15.956264+00:00"
 published_url: /guides/wuthering-waves-resonance-chain-explained
 sources: []
+hero_image: /img/wuthering-waves-resonance-chain-explained/hero.webp
+inline_images:
+  - /img/wuthering-waves-resonance-chain-explained/inline-1.webp
+  - /img/wuthering-waves-resonance-chain-explained/inline-2.webp
+  - /img/wuthering-waves-resonance-chain-explained/inline-3.webp
+  - /img/wuthering-waves-resonance-chain-explained/inline-4.webp
+  - /img/wuthering-waves-resonance-chain-explained/inline-5.webp
+  - /img/wuthering-waves-resonance-chain-explained/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Unlocking the full potential of your Resonators requires a deep understanding of the duplicate system that enhances their combat capabilities and stat ceilings.
@@ -19,6 +34,9 @@ Unlocking the full potential of your Resonators requires a deep understanding of
 In Wuthering Waves, pulling a duplicate character is not just a secondary reward; it is the primary method for unlocking massive power spikes through the Resonance Chain system. Each character features a unique Resonance Chain consisting of six Sequence Nodes (S1 through S6). Activating these nodes can fundamentally change how a character plays, turning a sub-DPS into a main carry or adding utility like resistance shredding and cooldown resets. This guide breaks down the mechanics of Resonance Chains, how to farm Wavebands, and the definitive high-sequence build for Havoc Rover.
 
 ## Overview
+
+![Overview](/img/wuthering-waves-resonance-chain-explained/inline-1.webp)
+
 
 The Resonance Chain is a progression track unique to every Resonator. When you obtain a duplicate of a character you already own, it is converted into a specialized currency called a Waveband. These Wavebands are consumed to activate Sequence Nodes in a linear order from S1 to S6. 
 
@@ -58,6 +76,9 @@ Havoc Rover Wavebands are more restricted. As of the current version, players ca
 
 ## Best Weapons
 
+![Best Weapons](/img/wuthering-waves-resonance-chain-explained/inline-2.webp)
+
+
 Choosing the right weapon for a high-sequence Havoc Rover involves balancing Crit stats and ATK% scaling. Because S6 provides a massive 25% Crit Rate buff during the Dark Surge state, high-sequence builds can afford to focus more heavily on Crit DMG in their Echo sub-stats.
 
 ### Top 5-Star Weapon: Emerald of Genesis
@@ -80,6 +101,9 @@ The Lumingloss (available from the Insider Channel/Battle Pass) is a strong choi
 | Lunar Cutter | 4-Star | ATK% | 82% | 87% |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/wuthering-waves-resonance-chain-explained/inline-3.webp)
+
 
 In Wuthering Waves, the gear system is known as **Echoes**. For Havoc Rover, the goal is to maximize Havoc DMG and capitalize on the burst windows provided by the Resonance Chain.
 
@@ -115,6 +139,9 @@ When building Echoes, prioritize the 4-3-3-1-1 Cost distribution. This means one
 
 ## Team Comp
 
+![Team Comp](/img/wuthering-waves-resonance-chain-explained/inline-4.webp)
+
+
 Havoc Rover functions best as a hyper-carry or a dual-DPS setup. The Resonance Chain buffs, particularly the RES shred at S4, make Rover a potent team player who also deals selfish damage.
 
 ### The Havoc Meta Team
@@ -135,6 +162,9 @@ If you do not have Danjin, Sanhua is an excellent F2P alternative. Her Outro Ski
 Mortefi can also work in a pinch, especially if you have his sequences unlocked, as he provides coordinated attacks that trigger during Rover's Dark Surge state. However, the lack of Havoc-specific buffs makes him less optimal than Danjin.
 
 ## Rotation
+
+![Rotation](/img/wuthering-waves-resonance-chain-explained/inline-5.webp)
+
 
 Maximizing Havoc Rover's damage requires managing the "Umbra" gauge and timing the Resonance Liberation with the Dreamless Echo skill.
 
@@ -157,6 +187,9 @@ Once in Dark Surge, your Basic Attacks are enhanced and deal Havoc DMG.
 Always ensure you swap back to Danjin or your support before the Rover's Concerto Energy is wasted. The goal is to rotate through your support's buffs, use Danjin's Skill to build her Outro, and then swap back to Rover just as their Resonance Liberation is off cooldown.
 
 ## FAQ
+
+![FAQ](/img/wuthering-waves-resonance-chain-explained/inline-6.webp)
+
 
 ### Are Resonance Chains necessary to clear the Tower of Adversity?
 No, S0 characters can clear the Tower of Adversity with high-quality Echoes and correct rotations. However, Resonance Chains (especially S1 and S2) significantly lower the stat requirements and make achieving 3-star clears much easier.
