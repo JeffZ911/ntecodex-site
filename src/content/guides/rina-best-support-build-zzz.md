@@ -8,6 +8,21 @@ word_count: 2096
 published_at: "2026-05-13T23:00:16.461240+00:00"
 published_url: /guides/rina-best-support-build-zzz
 sources: []
+hero_image: /img/rina-best-support-build-zzz/hero.webp
+inline_images:
+  - /img/rina-best-support-build-zzz/inline-1.webp
+  - /img/rina-best-support-build-zzz/inline-2.webp
+  - /img/rina-best-support-build-zzz/inline-3.webp
+  - /img/rina-best-support-build-zzz/inline-4.webp
+  - /img/rina-best-support-build-zzz/inline-5.webp
+  - /img/rina-best-support-build-zzz/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Alexandrina Sebastiane, the elegant head maid of Victoria Housekeeping Co., provides the most powerful penetration-based buffs in Zenless Zone Zero through her unique puppet-driven mechanics. Maximizing her PEN Ratio is the key to unlocking Rina's potential as the premier support for Victoria Housekeeping and Electric-attribute teams.
@@ -19,6 +34,9 @@ Alexandrina Sebastiane, the elegant head maid of Victoria Housekeeping Co., prov
 Alexandrina Sebastiane (Rina) stands as a top-tier S-Rank Support agent whose primary value lies in her ability to ignore enemy defenses. Unlike other supports who might focus purely on raw ATK or Impact, Rina specializes in PEN Ratio, a stat that becomes increasingly valuable in high-level content like Shiyu Defense where enemy DEF scaling is significant.
 
 ## Overview
+
+![Overview](/img/rina-best-support-build-zzz/inline-1.webp)
+
 
 Rina is an Electric-attribute Support agent who commands two puppets, Drusilla and Anastella, to attack from a distance. She is designed to be played as a "quick-swap" or off-field support. Her gameplay involves deploying her puppets via her Special Attacks or Chain Attacks and then immediately swapping to a damage dealer while the puppets remain on the field to provide buffs.
 
@@ -39,6 +57,9 @@ Rina's Core Skill, "Mini Destruction Partner," is the heart of her kit. When Rin
 The amount of PEN Ratio granted is calculated as a base percentage plus a portion of Rina's own PEN Ratio. Because there is a hard cap on how much PEN Ratio she can share (30%), players must balance her stats to reach this ceiling without over-investing. If the puppets return to Rina's side, the buff ends immediately, which is why managing puppet uptime is the most critical aspect of her high-level play.
 
 ## Best Weapons
+
+![Best Weapons](/img/rina-best-support-build-zzz/inline-2.webp)
+
 
 W-Engines for Rina should prioritize PEN Ratio first and Energy Regeneration second. Since her buff depends on her personal stats, any W-Engine that does not provide PEN Ratio or significant Energy Regen is considered a placeholder.
 
@@ -67,6 +88,9 @@ The **Reverb Mark III** is the standard B-Rank option for early-game players. It
 | **Reverb Mark III** | B-Rank | ATK% | Increases squad Anomaly Mastery/Proficiency. |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/rina-best-support-build-zzz/inline-3.webp)
+
 
 Disk Drive selection for Rina is straightforward because her stat requirements are so specific. You generally want a mix of sets that provide Energy Regeneration and the mandatory PEN Ratio bonus.
 
@@ -112,6 +136,9 @@ To reach this 72% target, you will typically need:
 
 ## Team Comp
 
+![Team Comp](/img/rina-best-support-build-zzz/inline-4.webp)
+
+
 Rina is a flexible support, but she shines brightest when her faction or attribute synergies are activated. Her presence in a team usually dictates a fast-paced, high-penetration playstyle.
 
 ### The Victoria Housekeeping Meta
@@ -140,6 +167,9 @@ If you lack S-Rank DPS agents, Rina can support **Corin Wickes**.
 
 ## Rotation
 
+![Rotation](/img/rina-best-support-build-zzz/inline-5.webp)
+
+
 Using Rina effectively requires understanding the "Quick Assist" mechanic. You should never spend more than a few seconds with Rina on the field.
 
 ### The Quick Assist Loop
@@ -162,6 +192,9 @@ During a Chain Attack (triggered by hitting a Dazed enemy with a heavy attack):
 To track your buffs, look at the character icons near the health bar or watch the physical models of Drusilla and Anastella. If the puppets are floating near Rina while she is off-field, the buff is inactive. If they are hovering near the enemy or in the middle of the arena, the buff is active. At Mindscape Cinema 1 (M1), this management becomes significantly easier as the puppets stay out for an additional 5.5 seconds.
 
 ## FAQ
+
+![FAQ](/img/rina-best-support-build-zzz/inline-6.webp)
+
 
 ### Is Rina better than Soukaku?
 
