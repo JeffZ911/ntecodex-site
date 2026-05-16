@@ -8,6 +8,21 @@ word_count: 2001
 published_at: "2026-05-13T21:28:57.090099+00:00"
 published_url: /guides/blade-best-build-guide-honkai-star-rail
 sources: []
+hero_image: /img/blade-best-build-guide-honkai-star-rail/hero.webp
+inline_images:
+  - /img/blade-best-build-guide-honkai-star-rail/inline-1.webp
+  - /img/blade-best-build-guide-honkai-star-rail/inline-2.webp
+  - /img/blade-best-build-guide-honkai-star-rail/inline-3.webp
+  - /img/blade-best-build-guide-honkai-star-rail/inline-4.webp
+  - /img/blade-best-build-guide-honkai-star-rail/inline-5.webp
+  - /img/blade-best-build-guide-honkai-star-rail/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 blade remains one of the most unique and resilient damage dealers in Honkai: Star Rail, turning his own health into a devastating weapon.
@@ -19,6 +34,9 @@ blade remains one of the most unique and resilient damage dealers in Honkai: Sta
 Blade is a powerhouse of the Destruction Path who thrives on the edge of death. Unlike traditional damage dealers who stack Attack (ATK), Blade scales almost entirely off his Maximum HP. This makes him naturally tanky while allowing him to output massive Wind damage to multiple targets simultaneously. Whether you are using him as a primary hypercarry or a sub-DPS alongside another heavy hitter, understanding his HP-consumption mechanics is vital for maximizing his potential.
 
 ## Overview
+
+![Overview](/img/blade-best-build-guide-honkai-star-rail/inline-1.webp)
+
 
 Blade’s kit is designed around a high-risk, high-reward playstyle. By consuming his own health, he enters an enhanced state that transforms his Basic Attack into a powerful AoE (Area of Effect) strike. Because his damage scales primarily with HP, building him requires a different mindset compared to characters like Seele or Jing Yuan.
 
@@ -51,6 +69,9 @@ At Level 80, Blade possesses the following base statistics:
 
 ## Best Weapons
 
+![Best Weapons](/img/blade-best-build-guide-honkai-star-rail/inline-2.webp)
+
+
 Choosing the right Light Cone for Blade is specific because many Destruction weapons provide ATK% buffs, which are inefficient for him. You should prioritize Light Cones that offer HP, Crit Rate, Crit DMG, or general DMG% increases.
 
 ### Top 5-Star Light Cones
@@ -72,6 +93,9 @@ Choosing the right Light Cone for Blade is specific because many Destruction wea
 | Mutual Demise | 3-Star | Crit Rate | 6/10 (Early Game) |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/blade-best-build-guide-honkai-star-rail/inline-3.webp)
+
 
 To maximize Blade's damage, you must focus on his HP scaling and his need for high Critical stats.
 
@@ -109,6 +133,9 @@ When farming for Blade, prioritize the following main stats:
 
 ## Team Comp
 
+![Team Comp](/img/blade-best-build-guide-honkai-star-rail/inline-4.webp)
+
+
 Blade requires specific teammates to shine. He needs healers rather than shielders, and he benefits from supports who can buff his DMG and Speed rather than his ATK.
 
 ### The Hypercarry Setup
@@ -130,6 +157,9 @@ One of the most popular dual-DPS compositions involves pairing Blade with Jingli
 
 ## Rotation
 
+![Rotation](/img/blade-best-build-guide-honkai-star-rail/inline-5.webp)
+
+
 Mastering Blade’s rotation ensures that you maintain his enhanced state while maximizing the damage of his Ultimate.
 
 ### Optimal Skill Usage
@@ -150,6 +180,9 @@ To achieve the highest possible damage floor, players often utilize "Speed Tunin
 This allows Blade to attack twice per cycle, doubling his damage output and his Talent stack generation.
 
 ## FAQ
+
+![FAQ](/img/blade-best-build-guide-honkai-star-rail/inline-6.webp)
+
 
 ### Common Build Questions
 
