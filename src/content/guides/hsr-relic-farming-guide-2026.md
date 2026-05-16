@@ -8,6 +8,21 @@ word_count: 1742
 published_at: "2026-05-13T20:57:11.086190+00:00"
 published_url: /guides/hsr-relic-farming-guide-2026
 sources: []
+hero_image: /img/hsr-relic-farming-guide-2026/hero.webp
+inline_images:
+  - /img/hsr-relic-farming-guide-2026/inline-1.webp
+  - /img/hsr-relic-farming-guide-2026/inline-2.webp
+  - /img/hsr-relic-farming-guide-2026/inline-3.webp
+  - /img/hsr-relic-farming-guide-2026/inline-4.webp
+  - /img/hsr-relic-farming-guide-2026/inline-5.webp
+  - /img/hsr-relic-farming-guide-2026/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Mastering the intricacies of the Version 4.2 meta requires a shift in how Trailblazers prioritize their daily stamina. As the "So Laughed the Masses" update introduces more demanding combat thresholds, optimizing your gear through the latest farming nodes is the only way to keep pace with the evolving endgame.
@@ -17,6 +32,9 @@ Mastering the intricacies of the Version 4.2 meta requires a shift in how Trailb
 
 
 ## Overview
+
+![Overview](/img/hsr-relic-farming-guide-2026/inline-1.webp)
+
 
 The release of Version 4.2, titled "So Laughed the Masses," has fundamentally altered the landscape of Honkai: Star Rail’s endgame. With the introduction of the Planarcadia era, players are no longer just fighting against health bars; they are managing complex Memosprite interactions and high-frequency follow-up triggers. At the center of this shift is the 5-star version of the Genius Society’s head, "The Herta" (Ice: Erudition). Unlike her 4-star counterpart, this 5-star iteration is designed as the definitive "farming queen," specifically tailored to dominate Pure Fiction and the high-yield "Currency War" mode.
 
@@ -37,6 +55,9 @@ While her exact base numbers remain under observation for the current patch cycl
 
 ## Best Weapons
 
+![Best Weapons](/img/hsr-relic-farming-guide-2026/inline-2.webp)
+
+
 Selecting the right Light Cone for The Herta is the difference between a character who merely clears waves and one who 0-cycles the most difficult content in Amphoreus. Her damage profile is heavily weighted toward follow-up attacks and Ultimate nukes, meaning Light Cones that provide unconditional DMG bonuses to these categories are prioritized.
 
 ### Signature Light Cone Analysis
@@ -56,6 +77,9 @@ Interestingly, the classic **"Before Dawn"** (Jing Yuan's signature) remains via
 | [Information not yet publicly available as of 2026-05-13] | 4-Star | [Information not yet publicly available as of 2026-05-13] | B |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/hsr-relic-farming-guide-2026/inline-3.webp)
+
 
 The "Disk" system, which veterans still refer to as Relics, has seen significant power creep with the introduction of the Scholar sets. Farming for The Herta requires a strict adherence to the 180 SPD breakpoint if you intend to use her alongside Cyrene-based supports.
 
@@ -80,6 +104,9 @@ To maximize The Herta's potential in Version 4.2, aim for the following stats:
 
 ## Team Comp
 
+![Team Comp](/img/hsr-relic-farming-guide-2026/inline-4.webp)
+
+
 The Herta is a synergistic powerhouse that relies on her teammates to push enemies into the HP thresholds required for her follow-up attacks.
 
 ### The Premium Follow-Up Squad
@@ -102,6 +129,9 @@ Using **Tribbie** (the Quantum Harmony unit) is also a viable strategy to hyper-
 
 ## Rotation
 
+![Rotation](/img/hsr-relic-farming-guide-2026/inline-5.webp)
+
+
 Operating The Herta at peak efficiency requires more than just hitting the "Auto-Battle" button. Her damage is conditional on enemy health states and Memosprite timing.
 
 ### Standard Combat Sequence
@@ -114,6 +144,9 @@ Operating The Herta at peak efficiency requires more than just hitting the "Auto
 Managing Skill Points (SP) is crucial when running high-speed supports like **Yao Guang**. Yao Guang is SP-positive, which allows The Herta to use her Skill every turn. Sunday’s Ultimate should be timed to "refill" The Herta’s energy bar right after she casts her Ultimate, potentially allowing for back-to-back Ice nukes in a single Action Value cycle.
 
 ## FAQ
+
+![FAQ](/img/hsr-relic-farming-guide-2026/inline-6.webp)
+
 
 **Is the 'Eagle of Twilight Line' set still worth farming in 2026?**
 No. While the Action Forward mechanic was niche for certain 0-cycle builds in the past, the newer Scholar and Sacerdos sets provide significantly higher raw stat value and synergy with 4.x mechanics. For non-whales, farming Eagle is considered a "trap" that yields diminishing returns compared to the Path of the Cloud-Hymn.
