@@ -8,6 +8,21 @@ word_count: 2398
 published_at: "2026-05-13T21:28:53.815140+00:00"
 published_url: /guides/huohuo-best-build-hsr-guide-20260513
 sources: []
+hero_image: /img/huohuo-best-build-hsr-guide-20260513/hero.webp
+inline_images:
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-1.webp
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-2.webp
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-3.webp
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-4.webp
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-5.webp
+  - /img/huohuo-best-build-hsr-guide-20260513/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Huohuo serves as a cornerstone for high-end team compositions, offering a rare combination of aggressive offensive buffs and relentless debuff cleansing. This guide provides everything needed to optimize her performance, from her energy regeneration thresholds to her most effective team synergies.
@@ -17,6 +32,9 @@ Huohuo serves as a cornerstone for high-end team compositions, offering a rare c
 
 
 ## Overview
+
+![Overview](/img/huohuo-best-build-hsr-guide-20260513/inline-1.webp)
+
 
 Huohuo is a 5-star Wind character following the Path of Abundance, but she functions very differently from traditional healers like Natasha or Luocha. While most Abundance units focus purely on survival, Huohuo acts as a hybrid Support, bridging the gap between healing and the offensive utility typically found in the Path of Harmony. Her kit revolves around her "Divine Provision" effect, which provides passive healing and cleansing, alongside an Ultimate that recharges her allies' Energy.
 
@@ -57,6 +75,9 @@ In the current meta, Huohuo is often considered the best-in-slot sustain for tea
 
 ## Best Weapons
 
+![Best Weapons](/img/huohuo-best-build-hsr-guide-20260513/inline-2.webp)
+
+
 Selecting the right Light Cone for Huohuo is primarily about solving her 140 Energy cost requirement. While her signature weapon is undeniably powerful, several 4-star options provide comparable utility for specific team archetypes.
 
 ### Top 5-Star Light Cones
@@ -92,6 +113,9 @@ An event-exclusive Light Cone from the "A Foxian Tale of the Haunted" event. It 
 ---
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/huohuo-best-build-hsr-guide-20260513/inline-3.webp)
+
 
 Huohuo’s relic selection should focus on three goals: reaching Speed (SPD) breakpoints, maximizing HP for healing scaling, and ensuring she has enough Energy Regeneration.
 
@@ -143,6 +167,9 @@ To ensure Huohuo functions optimally, prioritize the following stats:
 
 ## Team Comp
 
+![Team Comp](/img/huohuo-best-build-hsr-guide-20260513/inline-4.webp)
+
+
 Huohuo shines in compositions where her ATK buffs and Energy restoration are fully utilized. She is less effective in teams that do not care about ATK (such as Blade or HP-scaling units) or teams that are extremely SP-starved.
 
 ### The DoT Core: Kafka & Black Swan
@@ -176,6 +203,9 @@ Huohuo can sustain almost any traditional Hypercarry team. Even F2P units like D
 
 ## Rotation
 
+![Rotation](/img/huohuo-best-build-hsr-guide-20260513/inline-5.webp)
+
+
 Managing Huohuo's "Divine Provision" stacks is the key to her effectiveness. Divine Provision is the buff Huohuo gains after using her Skill, lasting for 2 of her turns.
 
 ### Managing Divine Provision Stacks
@@ -197,6 +227,9 @@ Huohuo’s Ultimate restores Energy based on the target's Max Energy (15% to 20%
 ---
 
 ## FAQ
+
+![FAQ](/img/huohuo-best-build-hsr-guide-20260513/inline-6.webp)
+
 
 ### Is Huohuo better than Luocha or Aventurine?
 
