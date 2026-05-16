@@ -8,6 +8,21 @@ word_count: 2145
 published_at: "2026-05-13T23:00:16.263880+00:00"
 published_url: /guides/how-to-build-anby-demara-zzz
 sources: []
+hero_image: /img/how-to-build-anby-demara-zzz/hero.webp
+inline_images:
+  - /img/how-to-build-anby-demara-zzz/inline-1.webp
+  - /img/how-to-build-anby-demara-zzz/inline-2.webp
+  - /img/how-to-build-anby-demara-zzz/inline-3.webp
+  - /img/how-to-build-anby-demara-zzz/inline-4.webp
+  - /img/how-to-build-anby-demara-zzz/inline-5.webp
+  - /img/how-to-build-anby-demara-zzz/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Anby Demara is the first character most players encounter in Zenless Zone Zero, serving as the reliable, burger-loving backbone of the Cunning Hares. As a free A-Rank Electric Stun agent, she provides the essential utility needed to break enemy defenses and trigger the devastating Chain Attack mechanic.
@@ -19,6 +34,9 @@ Anby Demara is the first character most players encounter in Zenless Zone Zero, 
 Anby Demara is far more than just a "starter" character. In the fast-paced combat of New Eridu, Stun characters are the engines that drive team momentum. By building up an enemy's Daze bar, Anby forces them into a vulnerable Stunned state, which multiplies the damage they take and allows your DPS characters to unleash their full potential. This guide will cover everything you need to maximize her efficiency, from the best W-Engines to her most effective combat rotations.
 
 ## Overview
+
+![Overview](/img/how-to-build-anby-demara-zzz/inline-1.webp)
+
 
 Anby Demara is a high-mobility Stun specialist who utilizes Electric-infused sword strikes to accumulate Daze. Unlike Attack agents who focus on raw numbers, Anby’s value is measured by how quickly she can fill the yellow bar beneath an enemy's health. She is remarkably F2P-friendly, as every player receives her for free during the prologue, and her kit remains competitive even in late-game Hollow Zero or Shiyu Defense stages.
 
@@ -52,6 +70,9 @@ Anby’s gameplay revolves around the **Thunderbolt** mechanic. Her Basic Attack
 
 ## Best Weapons
 
+![Best Weapons](/img/how-to-build-anby-demara-zzz/inline-2.webp)
+
+
 Choosing the right W-Engine for Anby requires balancing two stats: Impact and Energy Regen. Impact directly increases the Daze she deals with every hit, while Energy Regen ensures she can frequently use her EX Special Attack to sustain her combo and grant her safety through i-frames.
 
 ### Top Tier: Hellfire Gears
@@ -74,6 +95,9 @@ For players who haven't pulled the options above, there are several accessible c
 | Six Shooter | A | ATK% | Increases Daze of Special Attacks (up to 3 stacks). |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/how-to-build-anby-demara-zzz/inline-3.webp)
+
 
 Disk Drives are essential for fine-tuning Anby's performance. As a Stunner, your goal is to stack as much Impact as possible, followed by Energy Regen to keep her "High Voltage" moves available.
 
@@ -102,6 +126,9 @@ When leveling your Disk Drives, focus on the following main stats for Slots 4, 5
 
 ## Team Comp
 
+![Team Comp](/img/how-to-build-anby-demara-zzz/inline-4.webp)
+
+
 Anby is a versatile unit that functions well in any team needing a Stunner, but she truly shines when her Additional Core Passive is active. This passive triggers when she is paired with another character from the **Cunning Hares** faction or another **Electric** attribute character.
 
 ### The Cunning Hares Core
@@ -129,6 +156,9 @@ If you do not have Anton or Rina, Anby can support any Attack-role character.
 
 ## Rotation
 
+![Rotation](/img/how-to-build-anby-demara-zzz/inline-5.webp)
+
+
 Playing Anby effectively requires more than just button mashing. You must respect the rhythm of her sword swings to trigger her Daze multipliers.
 
 ### Mastering the Thunderbolt Combo
@@ -147,6 +177,9 @@ Once the enemy's Daze bar reaches 100%, Anby will trigger a Chain Attack.
 Do not waste your EX Special Attack on small enemies. Save your energy for Elite enemies and Bosses. Because Anby’s EX Special (High Voltage Thunderbolt) has significant i-frames, you can use it to "tank" through an enemy's red-flash attack while simultaneously dealing heavy Daze. This allows you to stay aggressive without needing to dodge away and reset your combo.
 
 ## FAQ
+
+![FAQ](/img/how-to-build-anby-demara-zzz/inline-6.webp)
+
 
 ### Is Anby better than Lycaon?
 Von Lycaon is generally considered the superior Stunner due to his higher Daze multipliers and Ice resistance shred. However, Anby is easier to play and is essential for Electric-weak enemies. If you are running an Ice DPS like Ellen Joe, Lycaon is better. If you are running Anton or Billy, Anby is a fantastic choice.
