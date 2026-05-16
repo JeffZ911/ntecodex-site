@@ -8,6 +8,21 @@ word_count: 2233
 published_at: "2026-05-13T22:14:37.529665+00:00"
 published_url: /guides/pela-best-build-hsr-guide
 sources: []
+hero_image: /img/pela-best-build-hsr-guide/hero.webp
+inline_images:
+  - /img/pela-best-build-hsr-guide/inline-1.webp
+  - /img/pela-best-build-hsr-guide/inline-2.webp
+  - /img/pela-best-build-hsr-guide/inline-3.webp
+  - /img/pela-best-build-hsr-guide/inline-4.webp
+  - /img/pela-best-build-hsr-guide/inline-5.webp
+  - /img/pela-best-build-hsr-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Pela remains one of the most enduring and valuable units in Honkai: Star Rail since the game's launch on April 26, 2023. As a 4-star Ice character following the Path of Nihility, her primary contribution to a team is her ability to strip enemies of their defenses, effectively acting as a universal damage multiplier for your primary attackers.
@@ -17,6 +32,9 @@ Pela remains one of the most enduring and valuable units in Honkai: Star Rail si
 Pela is the quintessential "low investment, high reward" support. Unlike many other characters who require specific 5-star Light Cones or complex relic setups to function, Pela performs exceptionally well with free-to-play equipment. Her kit is centered around her Ultimate, which applies a Zone Suppression debuff to all enemies on the field, reducing their DEF by a significant margin. Because DEF shred becomes more valuable the more you stack it (up to a 100% cap), Pela is a staple in high-end content like Memory of Chaos and Pure Fiction.
 
 ## Overview
+
+![Overview](/img/pela-best-build-hsr-guide/inline-1.webp)
+
 
 Pela serves as the Intelligence Officer of the Silvermane Guards, and her gameplay reflects her analytical nature. She identifies enemy weaknesses and removes their advantages. In the current meta, she is prized for her Skill Point (SP) efficiency; she can often go an entire battle using only her Basic ATK, generating SP for hungry damage dealers like Dan Heng • Imbibitor Lunae or Qingque, while still maintaining high uptime on her Ultimate debuffs.
 
@@ -59,6 +77,9 @@ Pela’s value stems from her AoE (Area of Effect) DEF reduction. While Silver W
 
 ## Best Weapons
 
+![Best Weapons](/img/pela-best-build-hsr-guide/inline-2.webp)
+
+
 Choosing the right Light Cone for Pela depends largely on whether you have access to limited event equipment and what your team composition requires.
 
 ### Light Cone Tier List Table
@@ -82,6 +103,9 @@ Choosing the right Light Cone for Pela depends largely on whether you have acces
 For players who missed the Version 1.1 event and don't have "Resolution," **Eyes of the Prey** is a viable choice purely for the Effect Hit Rate it provides. While the DoT (Damage over Time) boost is wasted on Pela, the EHR helps her reach the 67% threshold required to guarantee her debuffs land on high-level bosses. In the very early game, the 3-star Light Cone **Void** can help bridge the gap until you pull a 4-star Nihility option.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/pela-best-build-hsr-guide/inline-3.webp)
+
 
 Pela’s relic choices focus on two things: Speed and Energy. The faster she moves, the more Skill Points she generates and the more often she can shred enemy defenses.
 
@@ -120,6 +144,9 @@ For a more traditional support build, the **4-piece Messenger Traversing Hackers
 
 ## Team Comp
 
+![Team Comp](/img/pela-best-build-hsr-guide/inline-4.webp)
+
+
 Pela's flexibility allows her to fit into almost any team, but she has specific synergies that elevate certain characters to a higher tier.
 
 ### Best Team Compositions Table
@@ -142,6 +169,9 @@ Pela's flexibility allows her to fit into almost any team, but she has specific 
 For players just starting out, Pela can carry the support role for any DPS. Pairing her with **Dan Heng** or **Serval** works well because Pela's DEF shred is universal. In these teams, Pela should focus entirely on Basic Attacks to ensure that the sustain (like **Natasha** or **Lynx**) and the DPS always have Skill Points available for emergencies or burst windows.
 
 ## Rotation
+
+![Rotation](/img/pela-best-build-hsr-guide/inline-5.webp)
+
 
 Understanding Pela's Energy math is the key to mastering her gameplay. Her goal is to have her Ultimate active as often as possible to keep the DEF shred debuff on the enemies at all times.
 
@@ -173,6 +203,9 @@ Pela should be played as an SP-positive unit. You should only use her Skill in t
 Otherwise, stick to Basic Attacks. This ensures your main DPS never has to "Basic" because they ran out of points.
 
 ## FAQ
+
+![FAQ](/img/pela-best-build-hsr-guide/inline-6.webp)
+
 
 ### Common Build Questions
 
