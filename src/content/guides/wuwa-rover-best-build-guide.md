@@ -8,6 +8,21 @@ word_count: 1885
 published_at: "2026-05-13T17:31:21.616994+00:00"
 published_url: /guides/wuwa-rover-best-build-guide
 sources: []
+hero_image: /img/wuwa-rover-best-build-guide/hero.webp
+inline_images:
+  - /img/wuwa-rover-best-build-guide/inline-1.webp
+  - /img/wuwa-rover-best-build-guide/inline-2.webp
+  - /img/wuwa-rover-best-build-guide/inline-3.webp
+  - /img/wuwa-rover-best-build-guide/inline-4.webp
+  - /img/wuwa-rover-best-build-guide/inline-5.webp
+  - /img/wuwa-rover-best-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 As the protagonist of Solaris-3, the Rover is a unique 5-star character whose potential scales alongside your journey, offering a versatility that few other Resonators can match.
@@ -19,6 +34,9 @@ As the protagonist of Solaris-3, the Rover is a unique 5-star character whose po
 The Rover serves as the player's primary window into the world of Wuthering Waves. Unlike most characters who are locked into a single elemental attribute, the Rover can attune to different powers as the story progresses. This flexibility allows them to fill various roles, from a crowd-controlling Sub-DPS to a high-octane Main DPS capable of rivaling limited 5-star units. Because base levels and stats are shared across all forms, investing in the Rover is one of the most resource-efficient decisions any player can make.
 
 ## Overview
+
+![Overview](/img/wuwa-rover-best-build-guide/inline-1.webp)
+
 
 The Rover currently features two primary forms available to all players through story progression, with further attributes expected as the narrative expands. Each form changes the Rover's Resonance Skill, Forte Circuit, and Resonance Liberation, effectively providing three characters for the price of one.
 
@@ -52,6 +70,9 @@ In the current endgame meta, Havoc Rover is widely considered a "S-Tier" Main DP
 
 ## Best Weapons
 
+![Best Weapons](/img/wuwa-rover-best-build-guide/inline-2.webp)
+
+
 Choosing the right sword for the Rover depends heavily on whether you are focusing on the Havoc Main DPS build or the Spectro Sub-DPS build. However, certain high-tier swords provide universal value across all forms.
 
 ### Top 5-Star Sword Options
@@ -81,6 +102,9 @@ For players just starting their journey, the 3-star Sword of Night is a surprisi
 | **Sword of Night** | 3-Star | ATK: 24.3% | 16% ATK boost on Intro |
 
 ## Best Echoes (Artifacts)
+
+![Best Echoes (Artifacts)](/img/wuwa-rover-best-build-guide/inline-3.webp)
+
 
 In Wuthering Waves, the Echo system replaces traditional gear. You must balance "Sonata Effects" (set bonuses) with the active skill of your primary Echo.
 
@@ -122,6 +146,9 @@ Regardless of the element, you should aim for the following substats in order of
 
 ## Team Comp
 
+![Team Comp](/img/wuwa-rover-best-build-guide/inline-4.webp)
+
+
 The Rover's best team depends entirely on which attribute you have equipped. They typically function best in a "Quick-Swap" or "Hypercarry" setup.
 
 ### The Havoc Burst Team
@@ -143,6 +170,9 @@ This team focuses on rapid rotations and utilizing the Rover's time-stop.
 While Shorekeeper and Jiyan are powerful Aero units, the specific synergies involving "Aero Erosion" for the Rover, as well as the roles of characters named "Zani" and "Roccia," are [Information not yet publicly available as of 2026-05-13].
 
 ## Rotation
+
+![Rotation](/img/wuwa-rover-best-build-guide/inline-5.webp)
+
 
 Mastering the Rover requires understanding their Forte Gauge (the bar above the HP bar), which dictates when they can enter their enhanced states.
 
@@ -166,6 +196,9 @@ Mastering the Rover requires understanding their Forte Gauge (the bar above the 
 The "Cloudburst Dance" mechanic mentioned in some Aero-related discussions is [Information not yet publicly available as of 2026-05-13].
 
 ## FAQ
+
+![FAQ](/img/wuwa-rover-best-build-guide/inline-6.webp)
+
 
 ### Switching Attributes and Skills
 
