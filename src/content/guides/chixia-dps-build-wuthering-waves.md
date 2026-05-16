@@ -8,6 +8,21 @@ word_count: 1935
 published_at: "2026-05-13T22:14:31.283292+00:00"
 published_url: /guides/chixia-dps-build-wuthering-waves
 sources: []
+hero_image: /img/chixia-dps-build-wuthering-waves/hero.webp
+inline_images:
+  - /img/chixia-dps-build-wuthering-waves/inline-1.webp
+  - /img/chixia-dps-build-wuthering-waves/inline-2.webp
+  - /img/chixia-dps-build-wuthering-waves/inline-3.webp
+  - /img/chixia-dps-build-wuthering-waves/inline-4.webp
+  - /img/chixia-dps-build-wuthering-waves/inline-5.webp
+  - /img/chixia-dps-build-wuthering-waves/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Chixia is the first Resonator most players encounter in Wuthering Waves, but her status as a free 4-star unit belies her potential as a high-velocity Fusion powerhouse capable of shredding endgame bosses.
@@ -19,6 +34,9 @@ Chixia is the first Resonator most players encounter in Wuthering Waves, but her
 As a Fusion Resonator wielding dual Pistols, Chixia functions as a dedicated Main DPS who thrives on sustained fire and high mobility. Her gameplay revolves around the "Thermopile" stacking mechanic, culminating in her signature "Daka Daka" rapid-fire state. While she requires a longer field time than some burst-oriented units, her ability to maintain distance while dealing consistent Fusion DMG makes her an excellent choice for players who prefer a "run-and-gun" playstyle.
 
 ## Overview
+
+![Overview](/img/chixia-dps-build-wuthering-waves/inline-1.webp)
+
 
 Chixia is a 4-star Fusion Resonator who excels at single-target DPS. Her primary strength lies in her Forte Circuit, "Heroic Entrance," which allows her to enter a channeled state that fires rapid Fusion bullets. This state, often called "Daka Daka," can be maintained as long as she has Thermopile stacks. Her Resonance Liberation, "Blazing Flames," provides a massive burst of AoE Fusion DMG, making her versatile enough to handle both elite enemies and groups of smaller mobs.
 
@@ -59,6 +77,9 @@ For Chixia, the goal is to balance her high attack speed with heavy-hitting crit
 
 ## Best Weapons
 
+![Best Weapons](/img/chixia-dps-build-wuthering-waves/inline-2.webp)
+
+
 Choosing the right Pistol is vital for maximizing Chixia's Fusion output. Since she relies heavily on her Resonance Skill for the majority of her damage, weapons that buff Skill DMG or provide Crit stats are preferred.
 
 ### Weapon Comparison Chart (DPS % Variance)
@@ -86,6 +107,9 @@ If you do not have access to 5-star weapons, **Undying Flame** is the premier 4-
 For new players, **Pistols#26** is a reliable 3-star weapon. It grants a 5% ATK increase that stacks up to three times when the user takes no damage. Since Chixia is a ranged character, maintaining these stacks is relatively easy in the early game.
 
 ## Best Disks (Echoes)
+
+![Best Disks (Echoes)](/img/chixia-dps-build-wuthering-waves/inline-3.webp)
+
 
 The Echo system is where Chixia gains her most significant power spikes. Her build focuses on maximizing Fusion damage and ensuring her Resonance Skill hits as hard as possible.
 
@@ -124,6 +148,9 @@ To optimize Chixia for endgame content, aim for the following Echo distribution 
 
 ## Team Comp
 
+![Team Comp](/img/chixia-dps-build-wuthering-waves/inline-4.webp)
+
+
 Chixia requires a team that can provide buffs to her Fusion damage and help manage her energy needs.
 
 ### The Fusion Dream Team: Chixia & Changli
@@ -147,6 +174,9 @@ For players without 5-star supports, a highly effective team is **Chixia + Sanhu
 | **Sanhua** | B | High energy generation and quick field time. |
 
 ## Rotation
+
+![Rotation](/img/chixia-dps-build-wuthering-waves/inline-5.webp)
+
 
 Mastering Chixia's rotation is about managing her Thermopile stacks and ensuring she is fully buffed before entering her "Daka Daka" state.
 
@@ -172,6 +202,9 @@ Chixia can hold up to 30 Thermopile stacks. You generate these by:
 Chixia is vulnerable during her "Daka Daka" channel. If an enemy is about to hit you, you can dash or jump to cancel the animation. However, if you have already consumed 30 stacks, try to release the skill button first to ensure the "Boom Boom" finisher lands before you dodge.
 
 ## FAQ
+
+![FAQ](/img/chixia-dps-build-wuthering-waves/inline-6.webp)
+
 
 ### Is Chixia worth building over 5-star DPS units?
 Chixia is worth building if you enjoy her playstyle or if you have her at S4 or higher. At S4, her damage output is competitive with several S0 5-star units, especially in Fusion-favored content.
