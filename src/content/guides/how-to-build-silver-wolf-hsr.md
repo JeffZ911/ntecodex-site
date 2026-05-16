@@ -8,6 +8,21 @@ word_count: 2217
 published_at: "2026-05-13T19:33:29.691253+00:00"
 published_url: /guides/how-to-build-silver-wolf-hsr
 sources: []
+hero_image: /img/how-to-build-silver-wolf-hsr/hero.webp
+inline_images:
+  - /img/how-to-build-silver-wolf-hsr/inline-1.webp
+  - /img/how-to-build-silver-wolf-hsr/inline-2.webp
+  - /img/how-to-build-silver-wolf-hsr/inline-3.webp
+  - /img/how-to-build-silver-wolf-hsr/inline-4.webp
+  - /img/how-to-build-silver-wolf-hsr/inline-5.webp
+  - /img/how-to-build-silver-wolf-hsr/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Silver Wolf remains one of the most unique and impactful Nihility characters in Honkai: Star Rail due to her ability to manipulate enemy weaknesses. Whether you are looking to enable a Mono-Quantum team or maximize the damage of debuff-hungry carries like Acheron or Dr. Ratio, understanding her complex stat requirements is essential.
@@ -15,6 +30,9 @@ Silver Wolf remains one of the most unique and impactful Nihility characters in 
 # How to Build Silver Wolf in Honkai: Star Rail: The Ultimate Guide
 
 ## Overview
+
+![Overview](/img/how-to-build-silver-wolf-hsr/inline-1.webp)
+
 
 Silver Wolf is a 5-star Quantum character following the Path of Nihility, first introduced in Version 1.1. As a member of the Stellaron Hunters and a genius hacker, her gameplay revolves around "hacking" the battlefield to strip enemies of their defenses. Her most iconic feature is the ability to forcibly implant an elemental weakness onto an enemy, choosing from the elements present in your current team. This makes her an invaluable asset for players who want to tackle high-level content without necessarily having a perfectly matched DPS for every elemental encounter.
 
@@ -51,6 +69,9 @@ Silver Wolf’s effectiveness is tied directly to her Trace levels, as the base 
 
 ## Best Weapons
 
+![Best Weapons](/img/how-to-build-silver-wolf-hsr/inline-2.webp)
+
+
 Choosing the right Light Cone for Silver Wolf depends heavily on your Eidolon level and whether you have access to limited-time event equipment. Her stat needs are high, particularly regarding Effect Hit Rate (EHR).
 
 ### Top Tier 5-Star Light Cones
@@ -82,6 +103,9 @@ A newer F2P option available through the Forgotten Hall shop. It provides a dama
 | In the Name of the World | 5-Star | Skill DMG and Skill EHR | Sub-DPS |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/how-to-build-silver-wolf-hsr/inline-3.webp)
+
 
 Silver Wolf’s Relic choices are flexible based on whether you want her to deal damage or simply facilitate your carry.
 
@@ -125,6 +149,9 @@ To ensure Silver Wolf never misses a debuff against Level 90+ bosses (who typica
 
 ## Team Comp
 
+![Team Comp](/img/how-to-build-silver-wolf-hsr/inline-4.webp)
+
+
 Silver Wolf’s versatility allows her to fit into many high-end compositions, but she truly shines when her elemental manipulation is used strategically.
 
 ### The Mono-Quantum Core
@@ -145,6 +172,9 @@ If you lack a full Mono-Quantum roster, use "Dual-Element" teams. For example, a
 
 ## Rotation
 
+![Rotation](/img/how-to-build-silver-wolf-hsr/inline-5.webp)
+
+
 Maximizing Silver Wolf requires careful management of Skill Points and Ultimate timing.
 
 ### Optimal Skill Sequence
@@ -162,6 +192,9 @@ If you are using the "Before the Tutorial Mission Starts" Light Cone at S5 along
 The Weakness Implant logic is specific: it will not choose an element that the enemy is already weak to. For example, if an enemy is already weak to Quantum and you have a team of Seele (Quantum) and Dr. Ratio (Imaginary), Silver Wolf’s Skill is guaranteed to implant an Imaginary weakness. Use this to your advantage by checking enemy weaknesses before the fight and adjusting your team elements to force the desired outcome.
 
 ## FAQ
+
+![FAQ](/img/how-to-build-silver-wolf-hsr/inline-6.webp)
+
 
 **How much Effect Hit Rate (EHR) does Silver Wolf need?**
 For most players, 96% EHR is the target. This guarantees that her Skill’s weakness implant will land against enemies with 40% Effect RES, which is the standard for high-level bosses in Memory of Chaos and Pure Fiction. If you have her E2, this requirement drops significantly to approximately 47% due to her Eidolon reducing enemy Effect RES.
