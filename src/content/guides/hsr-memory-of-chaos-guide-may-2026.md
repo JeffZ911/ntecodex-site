@@ -14,6 +14,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkoMd4SJLkAH2htpc7-yqjJBdpwkIo_Sde1CWexctTSukDpgaC09BlqbtZCinlcCnQW7P_j38ukB4DYBmz42LSWwU6NmSYV4pZlFgvIcQuBtZJuay7oBOWOr4Z8mzM8iImKM="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-DUO38SKr4K4AxqJfRN6tgEYyLALmKaAf0XeW3xFI3LruREuRhKCDEqnBff8T-kO1zyyz9EtP9TDFDhaJuT1loyfs1V06H6BDIXN7QpMz6GSHqNwmfr2BxVIFlqnnp0v68HuSpTbHcTfX8FxCl1BtESyaBk8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF__ZVuXlde6drICHsF7MOxLDYOoUxad4iNbKYJnfar3s9m3tLwprPg1XDTulIZn8TzjRX1SMova-ZhJmtI1SEJ4Gh3KapSb7JCbXRLh3L-HkPBvLi9Mli6-y2SVfRz9s8ja07KUIyePY5iBmYLsxraBwEfv56SMe5Ae6k="
+hero_image: /img/hsr-memory-of-chaos-guide-may-2026/hero.webp
+inline_images:
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-1.webp
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-2.webp
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-3.webp
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-4.webp
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-5.webp
+  - /img/hsr-memory-of-chaos-guide-may-2026/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Earning 36 stars in the endgame requires a perfect blend of speed tuning and exploitation of the current Memory Turbulence. This guide breaks down the optimal setups for the May 2026 "Grand Finale" cycle.
@@ -23,6 +38,9 @@ Earning 36 stars in the endgame requires a perfect blend of speed tuning and exp
 
 
 ## Overview
+
+![Overview](/img/hsr-memory-of-chaos-guide-may-2026/inline-1.webp)
+
 
 The Memory of Chaos (MoC) remains the ultimate test for any Trailblazer’s roster. As of May 2026, the mode continues its six-week rotation within the "Treasures Lightward" system, alternating with Pure Fiction and Apocalyptic Shadow. The current cycle, titled "Grand Finale," is heavily tailored toward the high-frequency combat style introduced in Version 4.1, specifically benefiting characters who can act multiple times within a single turn or trigger frequent follow-up attacks (FUA).
 
@@ -49,6 +67,9 @@ Stage 12 features a daunting lineup of bosses that require specific elemental co
 
 ## Best Weapons
 
+![Best Weapons](/img/hsr-memory-of-chaos-guide-may-2026/inline-2.webp)
+
+
 The weapon meta for MoC 12 in May 2026 emphasizes two things: Energy Regeneration Rate (ERR) and base survivability. With enemies now capable of one-shotting units under 3,500 HP, Light Cones with high base HP and DEF stats have moved up the tier list.
 
 ### Top 5 Light Cones for MoC 12
@@ -73,6 +94,9 @@ To achieve a 0-cycle clear in the current meta, your Harmony supports (Sunday, R
 
 ## Best Disks (Artifacts)
 
+![Best Disks (Artifacts)](/img/hsr-memory-of-chaos-guide-may-2026/inline-3.webp)
+
+
 In May 2026, Speed (SPD) tuning is no longer optional for MoC 12. The "Grand Finale" Turbulence demands that your team acts as many times as possible before the cycle resets to maximize Punchline stacks.
 
 ### Recommended Relic Sets for MoC 12
@@ -96,6 +120,9 @@ While offensive stats are priority, the following survival thresholds are mandat
 The **"Forge of the Kalpagni Lantern"** remains the premier choice for Break-focused units like Castorice, providing much-needed SPD and Break Effect. For follow-up teams, the **"Duran, Dynasty of Running Wolves"** set is superior, as it provides a permanent Crit DMG buff that persists across waves—crucial for the multi-phase Zandar fight.
 
 ## Team Comp
+
+![Team Comp](/img/hsr-memory-of-chaos-guide-may-2026/inline-4.webp)
+
 
 The Version 4.1 meta is dominated by two archetypes: The Ashveil Follow-Up Core and the Remembrance Break Meta.
 
@@ -122,6 +149,9 @@ If you lack the latest 5-star units, a well-invested **Dan Heng • Permansor Te
 
 ## Rotation
 
+![Rotation](/img/hsr-memory-of-chaos-guide-may-2026/inline-5.webp)
+
+
 The difference between a 4-cycle clear and a 10-cycle fail often comes down to how you manage your Ultimates and Skill Points (SP).
 
 ### Maximizing the 'Punchline' True Damage
@@ -142,6 +172,9 @@ When Zandar enters **Evolution Mode**, he will summon two Titankins. Do not igno
 6.  **Sunday/Robin:** Activate Ultimate *after* the DPS has finished their turn to provide a full team action advance.
 
 ## FAQ
+
+![FAQ](/img/hsr-memory-of-chaos-guide-may-2026/inline-6.webp)
+
 
 ### Unlocking and Reset Schedule
 
