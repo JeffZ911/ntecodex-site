@@ -23,6 +23,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXNtJDeq0AbP2izLgGwkiClxCXSzXHW7OUUdNR8tXzYdgF_cb8P3_efFGel5wDSC3APuJq57r80SIRSj_RLn9XzXQNZj2CmrD-CmilDMd_FxYZnBEuZV6u9lmQncfWyGmBiYTkMg-y"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRO0ouA5mOqS5jMTO9_Kjz1iP8QNcrC5p9KVQlh4-oKzT-WppYv5-TXkjPhJMIAxNpPwQQK2n4wFanWBE9HSEFTx2QUvlLBaMvEUttyscLJCNT-h_tPVIyflQSxwAobA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFqHuCnC8fZtjJvZP79zSP86igOxuHXFweL7wZg4LbHGxtru7v742Lk1RTky4d5cLqIocEGxmYKe33E77lNitndPrKn5fPSC4vu5YckL_CkepwWm48Oh4z0jXJj8AilMbVyU6qC281NA6BUzvYJ0fCNmwDZsAJxUqIpHRQAt85YC8m-pBpgxAP5YX4zTiyOOHRQDEYt-KuvocY"
+hero_image: /img/how-to-unlock-echo-system-wuthering-waves-20260513/hero.webp
+inline_images:
+  - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-1.webp
+  - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-2.webp
+  - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-3.webp
+  - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Capturing and equipping the souls of defeated enemies is the core progression mechanic in Wuthering Waves. You cannot progress far without these "Echoes," so knowing exactly when and how the system becomes available is essential for every new Rover.
@@ -30,6 +41,9 @@ Capturing and equipping the souls of defeated enemies is the core progression me
 # How to Unlock the Echo System in Wuthering Waves
 
 ## Question Restated
+
+![Question Restated](/img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-1.webp)
+
 
 Players often arrive in Solaris-3 wondering exactly when they can start their monster-collection journey. Because the Echo system serves as the primary "gear" or "artifact" system for your Resonators, unlocking it early allows you to begin building stats and gaining active combat abilities immediately.
 
@@ -41,11 +55,17 @@ There are no complex Union Level (UL) requirements or hidden side quests needed 
 
 ## Direct Answer
 
+![Direct Answer](/img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-2.webp)
+
+
 The Echo system is unlocked during the Main Quest **"Utterance of Marvels: II"** in the Prologue (Chapter 1, Act 1). You do not need to reach a specific Union Level to start using the system; simply follow the main story campaign until you arrive at the city of Jinzhou.
 
 The system is introduced through a scripted tutorial involving the characters **Baizhi** and **Chixia**. Shortly after your arrival at the Academy in Jinzhou, you are sent to a nearby field to investigate Tacet Discord activity. Your first Echo absorption is a guaranteed, scripted event during this "First Resonance" phase, where the game teaches you how to use the Pangu Terminal to capture a defeated monster's frequency. Once this tutorial is complete, you are free to roam the overworld and capture any Echoes you encounter.
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-3.webp)
+
 
 The Echo system is deeply integrated into the SOL3 world logic. Understanding how to unlock its full potential requires mastering the Data Bank, which acts as your collection level and determines the power of the gear you find.
 
@@ -92,6 +112,9 @@ The rarity of an Echo is color-coded: Green (2-star), Blue (3-star), Purple (4-s
 After defeating a Tacet Discord in the overworld, there is a base chance (starting at 6% and rising to 20% at Data Bank Level 10) that it will leave behind a golden "reverberation." You must manually walk up to this hologram and press the interact key to absorb it into your Pangu Terminal. If you do not absorb it, the Echo will eventually despawn.
 
 ## Related
+
+![Related](/img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-4.webp)
+
 
 Once the system is unlocked, the real gameplay begins. Building a powerful team requires more than just catching monsters; it involves matching sets and optimizing sub-stats.
 
