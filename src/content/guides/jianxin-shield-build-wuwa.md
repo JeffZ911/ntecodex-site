@@ -8,6 +8,21 @@ word_count: 2024
 published_at: "2026-05-13T19:33:27.900414+00:00"
 published_url: /guides/jianxin-shield-build-wuwa
 sources: []
+hero_image: /img/jianxin-shield-build-wuwa/hero.webp
+inline_images:
+  - /img/jianxin-shield-build-wuwa/inline-1.webp
+  - /img/jianxin-shield-build-wuwa/inline-2.webp
+  - /img/jianxin-shield-build-wuwa/inline-3.webp
+  - /img/jianxin-shield-build-wuwa/inline-4.webp
+  - /img/jianxin-shield-build-wuwa/inline-5.webp
+  - /img/jianxin-shield-build-wuwa/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Jianxin remains one of the most versatile hybrid units in Wuthering Waves, offering a unique blend of crowd control, healing, and powerful multi-stage shielding. This guide focuses on maximizing her defensive utility to ensure your team stays healthy through the game's most challenging endgame content.
@@ -17,6 +32,9 @@ Jianxin remains one of the most versatile hybrid units in Wuthering Waves, offer
 
 
 ## Overview
+
+![Overview](/img/jianxin-shield-build-wuwa/inline-1.webp)
+
 
 Jianxin is a 5-star Aero Resonator who utilizes Gauntlets to manipulate the flow of Chi. While many players initially view her as a standard Sub-DPS, her true value lies in her ability to act as a "comfy" sustain unit. She is a hybrid Support and Sustain character capable of grouping enemies with her Resonance Liberation and providing a persistent shield that heals the active character over time.
 
@@ -60,6 +78,9 @@ By reaching high ATK thresholds, Jianxin can generate a shield that absorbs thou
 
 ## Best Weapons
 
+![Best Weapons](/img/jianxin-shield-build-wuwa/inline-2.webp)
+
+
 Selecting the right weapon for a Jianxin shield build requires a balance between raw ATK for shield scaling and Energy Recharge (ER) to ensure her Resonance Liberation and Outro Skills are available every rotation.
 
 ### Top Tier: Abyss Surges
@@ -85,6 +106,9 @@ If you are early in the game or saving your pulls, **Gauntlets#21D** is a solid 
 | **Hollow Heights** | 4-Star | ATK% | [Information not yet publicly available as of 2026-05-13] |
 
 ## Best Echoes
+
+![Best Echoes](/img/jianxin-shield-build-wuwa/inline-3.webp)
+
 
 In Wuthering Waves, the Echo system replaces traditional artifact sets. For a Jianxin build focused on shielding and team support, you have two primary set options depending on your team's needs.
 
@@ -114,6 +138,9 @@ To maximize the shield, you need to prioritize ATK and Energy Recharge. Jianxinâ
 *   **ATK:** 2,000+ (Mid-to-late game goal).
 
 ## Team Comp
+
+![Team Comp](/img/jianxin-shield-build-wuwa/inline-4.webp)
+
 
 Jianxin is a flexible "slot-in" character. She shines brightest when paired with Main DPS units who rely heavily on their Resonance Liberation or require grouping to deal damage effectively.
 
@@ -154,6 +181,9 @@ In this setup, Jianxin must have high Energy Recharge and the Bell-Borne Geochel
 
 ## Rotation
 
+![Rotation](/img/jianxin-shield-build-wuwa/inline-5.webp)
+
+
 The key to playing Jianxin effectively is minimizing her field time while ensuring the "Grand Zhoutian" shield is fully formed.
 
 ### Chi Generation Phase
@@ -179,6 +209,9 @@ Once the gauge is full, find a safe window (or use her Resonance Skill parry fir
 5.  **Outro Skill:** Swap to your Main DPS once the Concerto gauge is full to pass the 38% Liberation Deepen buff.
 
 ## FAQ
+
+![FAQ](/img/jianxin-shield-build-wuwa/inline-6.webp)
+
 
 ### Does Jianxin's shield stack with other shields?
 In Wuthering Waves, shields generally do not stack their HP pools. If you have multiple shields active (e.g., Jianxin's shield and the Bell-Borne Geochelone shield), they will deplete simultaneously as you take damage. However, the damage reduction from Bell-Borne makes Jianxin's shield last significantly longer because it reduces the raw damage the shield takes.
