@@ -8,6 +8,21 @@ word_count: 1739
 published_at: "2026-05-14T18:14:29.682135+00:00"
 published_url: /guides/nte-dragon-king-jiuyuan-build-guide
 sources: []
+hero_image: /img/nte-dragon-king-jiuyuan-build-guide/hero.webp
+inline_images:
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-1.webp
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-2.webp
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-3.webp
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-4.webp
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-5.webp
+  - /img/nte-dragon-king-jiuyuan-build-guide/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Dominating the urban skyline of Hesperia requires more than just a fast car; it requires the overwhelming firepower of Jiuyuan. As the premier S-Rank Anima DPS in Neverness to Everness, she has earned the community title of "Dragon King" for her ability to delete enemy health bars through her unique mark-detonation mechanics.
@@ -19,6 +34,9 @@ Dominating the urban skyline of Hesperia requires more than just a fast car; it 
 Since her release on April 29, 2026, Jiuyuan has remained at the top of the meta. Her kit is a masterclass in burst damage, combining high-frequency Anima applications with massive area-of-effect (AoE) finishers. Whether you are clearing high-level Anomalies or tackling world bosses, understanding how to maximize her "Lethal Rose Pact" is essential for any Sterry Express enthusiast.
 
 ## Overview
+
+![Overview](/img/nte-dragon-king-jiuyuan-build-guide/inline-1.webp)
+
 
 Jiuyuan is an S-Rank Anima character belonging to the Sterry Express faction. In the current 1.0 meta, she is widely referred to as the "Dragon King." This nickname stems from her sheer dominance in damage charts and her ability to control the battlefield with draconic efficiency. Unlike traditional sustained damage dealers, Jiuyuan functions as a high-impact Burst DPS who specializes in "Attachment Damage"—a specific damage type tied to her marks.
 
@@ -45,6 +63,9 @@ Jiuyuan operates best as a "Quick-Swap" or "Main DPS" depending on your team com
 
 ## Best Weapons
 
+![Best Weapons](/img/nte-dragon-king-jiuyuan-build-guide/inline-2.webp)
+
+
 Choosing the right Arc (weapon) for Jiuyuan is the difference between a mediocre clear and a record-breaking run. Because her damage scales heavily with Anima DMG and ATK%, you want Arcs that bolster these specific stats.
 
 ### Top 3 Arcs for Jiuyuan
@@ -64,6 +85,9 @@ Reality's Refuge is Jiuyuan's BiS (Best-in-Slot) weapon. It is specifically desi
 For players who did not pull on the weapon banner, "The Forgotten" is the premier A-Rank choice. It provides a massive ATK% secondary stat which helps Jiuyuan's marks scale, as "Pact Settlement" damage is calculated based on her total Attack power. If you are using Jiuyuan in a secondary DPS role, "Blow up the Crowd" is a viable alternative, though it sacrifices her personal damage for team-wide utility. Signature Arcs like Reality's Refuge are typically obtained through the weapon gacha system or by defeating high-level world bosses in the late game.
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/nte-dragon-king-jiuyuan-build-guide/inline-3.webp)
+
 
 In Neverness to Everness, Disks (also known as Cartridges) are the primary way to customize your character's stats. For Jiuyuan, the goal is simple: maximize CRIT DMG and Anima DMG.
 
@@ -95,6 +119,9 @@ Prioritizing Anima DMG% on the main stat is vital because it acts as a separate 
 
 ## Team Comp
 
+![Team Comp](/img/nte-dragon-king-jiuyuan-build-guide/inline-4.webp)
+
+
 Jiuyuan shines brightest when paired with characters who can trigger the "Blossom" reaction. Blossom occurs when Anima and Cosmos elements interact, creating "Vita Buds" on the field that explode for additional damage.
 
 ### The Blossom Meta Team
@@ -117,6 +144,9 @@ The most powerful team in the current meta, often called the "Blossom Standard,"
 
 ## Rotation
 
+![Rotation](/img/nte-dragon-king-jiuyuan-build-guide/inline-5.webp)
+
+
 To master Jiuyuan, you must follow a strict rotation to ensure all buffs are active before detonating her marks. The "Pact Settlement Loop" is the most efficient way to play her.
 
 ### Step-by-Step Visual Rotation
@@ -132,6 +162,9 @@ To master Jiuyuan, you must follow a strict rotation to ensure all buffs are act
 Jiuyuan generates "Rose Pact Bullets" through her Skill and successful Blossom reactions. You can track these via the gauge above her health bar. Never use your Hold Basic Attack until *after* the Ultimate, as the Ultimate grants a temporary buff that increases the fire rate of these bullets by [exact value pending official confirmation].
 
 ## FAQ
+
+![FAQ](/img/nte-dragon-king-jiuyuan-build-guide/inline-6.webp)
+
 
 ### Quick FAQ Table
 
