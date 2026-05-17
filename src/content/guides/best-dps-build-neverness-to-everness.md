@@ -8,6 +8,21 @@ word_count: 1985
 published_at: "2026-05-14T16:20:23.975458+00:00"
 published_url: /guides/best-dps-build-neverness-to-everness
 sources: []
+hero_image: /img/best-dps-build-neverness-to-everness/hero.webp
+inline_images:
+  - /img/best-dps-build-neverness-to-everness/inline-1.webp
+  - /img/best-dps-build-neverness-to-everness/inline-2.webp
+  - /img/best-dps-build-neverness-to-everness/inline-3.webp
+  - /img/best-dps-build-neverness-to-everness/inline-4.webp
+  - /img/best-dps-build-neverness-to-everness/inline-5.webp
+  - /img/best-dps-build-neverness-to-everness/inline-6.webp
+inline_image_sections:
+  - "Overview"
+  - "Best Weapons"
+  - "Best Disks (Artifacts)"
+  - "Team Comp"
+  - "Rotation"
+  - "FAQ"
 ---
 
 Dominating the supernatural streets of Hethereau requires more than just quick reflexes; it demands a mathematically optimized loadout to handle the escalating threats of the Esper Cycle. 
@@ -17,6 +32,9 @@ Dominating the supernatural streets of Hethereau requires more than just quick r
 
 
 ## Overview
+
+![Overview](/img/best-dps-build-neverness-to-everness/inline-1.webp)
+
 
 Following the global launch on April 29, 2026, the meta for Neverness to Everness (NTE) has solidified around high-frequency elemental reactions and "Follow-up" attack archetypes. At the center of this meta sits [Nanally](/characters/nanally-guide-nte), an S-Class Anima/Plasma dealer whose damage ceiling currently outclasses the rest of the roster. Building a top-tier DPS in NTE involves balancing raw Attack (ATK) with the game’s unique Charge Efficiency stat, ensuring that your Ultimate—and its associated summons—remains active during every combat window.
 
@@ -41,6 +59,9 @@ Nanally is the undisputed Tier 0 DPS because of her unique "Ichi-daime's Authori
 
 ## Best Weapons
 
+![Best Weapons](/img/best-dps-build-neverness-to-everness/inline-2.webp)
+
+
 In Neverness to Everness, weapons are referred to as "Arcs." These are not merely stat sticks; they provide transformative passives that can alter a character's rotation. For a DPS build, you are looking for Arcs that provide CRIT Rate or CRIT DMG substats, as these are much harder to optimize through Cartridges alone.
 
 ### Signature S-Rank Arcs
@@ -62,6 +83,9 @@ For players who did not pull on the limited weapon banner, "Oraora!" is the prem
 | Standard Issue | B | Flat ATK | Simple 10% ATK increase. | Early Game |
 
 ## Best Disks (Artifacts)
+
+![Best Disks (Artifacts)](/img/best-dps-build-neverness-to-everness/inline-3.webp)
+
 
 Artifacts in NTE are called "Cartridges." These are equipped in sets of four, with significant bonuses unlocked at the 2-piece and 4-piece milestones. To further customize your build, you use "Modules," which provide fixed main stats like Flat ATK and HP.
 
@@ -91,6 +115,9 @@ When farming Modules, you must prioritize your substat "rolls" to avoid diminish
 
 ## Team Comp
 
+![Team Comp](/img/best-dps-build-neverness-to-everness/inline-4.webp)
+
+
 The most effective team composition in the current version of Neverness to Everness is the "Blossom Nuke" core. This team relies on the interaction between Anima and Cosmos to generate explosive damage while keeping the Esper Cycle moving at maximum speed.
 
 ### The Blossom Nuke Core
@@ -118,6 +145,9 @@ If you are playing on a budget, you can still achieve high DPS numbers by swappi
 
 ## Rotation
 
+![Rotation](/img/best-dps-build-neverness-to-everness/inline-5.webp)
+
+
 To achieve the "Best DPS" status, you cannot simply mash buttons. You must follow a strict rotation to ensure that all buffs are active when Nanally begins her attack string. The goal is to maximize the uptime of the "Underboss" and ensure every hit is a critical strike within the Blossom window.
 
 ### Opening Setup
@@ -138,6 +168,9 @@ Once the field is set, deploy **Nanally**.
 The 3-Basic/3-Charged combo is the most efficient way to scale Anima damage because the third Charged Attack has a massive multiplier that "pops" any Genesis Buds created by the Blossom reaction. If timed correctly, the enemy's shield will break exactly as the Underboss performs its final finishing move.
 
 ## FAQ
+
+![FAQ](/img/best-dps-build-neverness-to-everness/inline-6.webp)
+
 
 **Who is the best DPS in Neverness to Everness?**  
 Nanally is currently the strongest DPS in the game. Her ability to summon the Underboss for follow-up attacks allows her to deal double the damage of other characters in the same timeframe. Her Anima element also allows for the powerful Blossom reaction.
