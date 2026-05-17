@@ -8,6 +8,19 @@ word_count: 1873
 published_at: "2026-05-13T23:55:58.547851+00:00"
 published_url: /weapons/chixia-best-weapon-wuthering-waves
 sources: []
+hero_image: /img/chixia-best-weapon-wuthering-waves/hero.webp
+inline_images:
+  - /img/chixia-best-weapon-wuthering-waves/inline-1.webp
+  - /img/chixia-best-weapon-wuthering-waves/inline-2.webp
+  - /img/chixia-best-weapon-wuthering-waves/inline-3.webp
+  - /img/chixia-best-weapon-wuthering-waves/inline-4.webp
+  - /img/chixia-best-weapon-wuthering-waves/inline-5.webp
+inline_image_sections:
+  - "Stats"
+  - "Effect"
+  - "Best On (Characters)"
+  - "How to Get"
+  - "Comparison"
 ---
 
 Maximizing Chixia’s potential as a Fusion Main DPS requires a weapon that synergizes with her rapid-fire Resonance Skill and high-frequency multi-hit attacks.
@@ -19,6 +32,9 @@ Maximizing Chixia’s potential as a Fusion Main DPS requires a weapon that syne
 Chixia is a powerful 4-star Fusion Resonator in Wuthering Waves who excels at sustained ranged damage, primarily through her Forte Circuit, "Tenacity." Often referred to by players as her "DAKA DAKA" mode, this ability allows Chixia to consume accumulated stacks to unleash a flurry of bullets that are classified as Resonance Skill DMG. Because her damage profile is heavily weighted toward these multi-hit sequences, her best weapons are those that provide high Critical Rate, Critical Damage, and specific bonuses to Resonance Skill DMG.
 
 ## Stats
+
+![Stats](/img/chixia-best-weapon-wuthering-waves/inline-1.webp)
+
 
 Choosing the right pistol for Chixia starts with understanding her stat priorities. As a Main DPS who attacks rapidly, she benefits immensely from Critical Rate to ensure that each of her many small hits has a chance to crit. Without a high Crit Rate, her overall damage floor drops significantly, making her "DAKA DAKA" phase feel underwhelming.
 
@@ -47,6 +63,9 @@ However, a Rank 5 (R5) 4-star weapon can often compete with a Rank 1 (R1) 5-star
 
 ## Effect
 
+![Effect](/img/chixia-best-weapon-wuthering-waves/inline-2.webp)
+
+
 A weapon’s passive effect is just as important as its raw numbers. For Chixia, the goal is to find effects that trigger upon using an Intro Skill or Resonance Skill, as her rotation typically involves swapping in, using her Intro Skill to gain Forte stacks, and immediately entering her "DAKA DAKA" state.
 
 ### Synergy with Forte Circuit (DAKA DAKA!)
@@ -64,6 +83,9 @@ Chixia’s Resonance Liberation, **Blazing Flames**, deals massive AoE Fusion da
 **Static Mist** provides 12.8% Energy Regen at base, which helps Chixia get her Ultimate back faster without sacrificing offensive Echo slots for Energy stats. If you find your rotations are stalled because Chixia’s Ultimate isn't ready, switching to a weapon with Energy Regen or looking for more ER substats on her Echoes is necessary. Generally, Chixia needs around 120%–130% Energy Regeneration to feel smooth in a standard team featuring Mortefi or Verina.
 
 ## Best On (Characters)
+
+![Best On (Characters)](/img/chixia-best-weapon-wuthering-waves/inline-3.webp)
+
 
 While this guide focuses on Chixia, understanding how these pistols perform on other Resonators helps in managing your account's resources.
 
@@ -85,6 +107,9 @@ Unlike Mortefi, who deals a large portion of his damage through coordinated atta
 
 ## How to Get
 
+![How to Get](/img/chixia-best-weapon-wuthering-waves/inline-4.webp)
+
+
 Acquiring the best pistols for Chixia involves a mix of Gacha (Convene), crafting, and event rewards.
 
 ### F2P Acquisition Methods
@@ -102,6 +127,9 @@ If you are a Free-to-Play (F2P) player, you have several reliable ways to gear C
 *   **Lumingloss:** This weapon is exclusive to the **Insider Podcast** (the paid Battle Pass). You must reach Level 30 on the podcast and purchase the premium tier to select this weapon. Note that Lumingloss is generally better for characters who use Basic Attacks after their Skill, making it a secondary choice for Chixia compared to Undying Flame.
 
 ## Comparison
+
+![Comparison](/img/chixia-best-weapon-wuthering-waves/inline-5.webp)
+
 
 When deciding between a 5-star weapon and a high-rank 4-star weapon, the choice often comes down to your current Echo stats.
 
