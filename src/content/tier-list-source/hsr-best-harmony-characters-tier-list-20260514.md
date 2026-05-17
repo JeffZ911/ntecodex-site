@@ -16,6 +16,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpIeAGYmK_jCRji0s5TiRGD21iva-_p7EZEt7bES9WSQRHYyP8jiACWUZ8E-MFPlHiiYqPmf2ozvaQPj8bjXlNM-ty0RxIpCaQCFEGF9hjyRYk7-s-AKvt82sue5G1YJNkPznpZA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIpXw19qGYXmcmUnibWPQI3ceyEjBscFY8p8VLokl7nzOJ3j0sDSlTVglAMxhoCRov0Ry_GGJhRIcx9Pb_i43IAd2-HfVsIohyhremhUqYGobWauyLiBxXVH00XOa6WlnfMu20eg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmSrVlrdR8HW8Gjjgg-h4bPDuUYMcJcoz5GBLd7U645KCCmGwR2atFxULxdX_FvOKGBgpNaYy2r_YFOrJiQBjixNzhOojegIdrl4_7BxWbcnYbCeGRV45OP6P0m_xkquVHGeLq2Hp_WpU8YyGD3XAyRWYca8aAMpmJW7AqV4Bj7gIZiBB3aBB_vem1d5AlqHB7REUIfmoHmuyiFeE_aiU1irD"
+hero_image: /img/hsr-best-harmony-characters-tier-list-20260514/hero.webp
+inline_images:
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-1.webp
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-2.webp
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-3.webp
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-4.webp
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-5.webp
+  - /img/hsr-best-harmony-characters-tier-list-20260514/inline-6.webp
+inline_image_sections:
+  - "Methodology"
+  - "S Tier"
+  - "A Tier"
+  - "B Tier"
+  - "C Tier"
+  - "Recent Changes"
 ---
 
 As the meta shifts toward the complex "Memosprite" summon mechanics of the Amphoreus arc, selecting the right support has never been more critical for clearing endgame content. This guide ranks the current roster to help you build the strongest possible teams for the May 2026 landscape.
@@ -27,6 +42,9 @@ As the meta shifts toward the complex "Memosprite" summon mechanics of the Ampho
 The Harmony Path remains the most influential role in Honkai: Star Rail. Since the game's launch on April 26, 2023, the definition of a "support" has evolved from simple stat-sticking to complex action manipulation and archetype enabling. With the introduction of the Remembrance Path and the Memosprite system in Version 3.0, the value of specific Harmony units has shifted dramatically.
 
 ## Methodology
+
+![Methodology](/img/hsr-best-harmony-characters-tier-list-20260514/inline-1.webp)
+
 
 This tier list evaluates Harmony characters based on their performance across the three primary endgame pillars: Memory of Chaos (MoC), Pure Fiction (PF), and Apocalyptic Shadow. A character’s rank is determined by their ceiling in specialized teams and their floor in general compositions.
 
@@ -49,6 +67,9 @@ This tier list evaluates Harmony characters based on their performance across th
 | **Fugue** | Break / DEF Shred | Action Advance (Self) | Low | Super Break / Nihility |
 
 ## S Tier
+
+![S Tier](/img/hsr-best-harmony-characters-tier-list-20260514/inline-2.webp)
+
 
 S-tier characters define the current meta. They are often irreplaceable in their respective niches and provide "Force Multipliers" that allow even average DPS units to clear the hardest content.
 
@@ -73,6 +94,9 @@ Ruan Mei continues to be the most universal support in the game due to her 50% W
 
 ## A Tier
 
+![A Tier](/img/hsr-best-harmony-characters-tier-list-20260514/inline-3.webp)
+
+
 A-tier characters are exceptionally strong but may have specific limitations or require certain team compositions to reach their full potential.
 
 ### Sparkle: Skill Point Management
@@ -94,6 +118,9 @@ Cerydra (Wind) is a newer addition that provides massive SPD and Energy buffs. S
 
 ## B Tier
 
+![B Tier](/img/hsr-best-harmony-characters-tier-list-20260514/inline-4.webp)
+
+
 B-tier characters are reliable budget options or niche specialists who have been partially phased out by newer 5-star releases.
 
 *   **Tingyun (Lightning):** The legendary 4-star is finally showing her age. While her Energy restoration is still unique, her paper-thin durability and single-target buffs make her difficult to use in high-difficulty Apocalyptic Shadow stages where AoE damage is prevalent.
@@ -108,6 +135,9 @@ At E6, 4-star units provide significant value, but they generally fall behind E0
 
 ## C Tier
 
+![C Tier](/img/hsr-best-harmony-characters-tier-list-20260514/inline-5.webp)
+
+
 C-tier characters are generally not recommended for endgame content unless you have no other options or are playing a very specific meme build.
 
 *   **Yukong (Imaginary):** Despite having the highest numerical buffs of any 4-star, Yukong is plagued by "Speed Tuning Hell."
@@ -118,6 +148,9 @@ C-tier characters are generally not recommended for endgame content unless you h
 3.  **High SPD Variance:** Maintaining a strict 1-2-3 turn order is nearly impossible in modern stages with multiple waves and varying enemy speeds.
 
 ## Recent Changes
+
+![Recent Changes](/img/hsr-best-harmony-characters-tier-list-20260514/inline-6.webp)
+
 
 The landscape of the Harmony Path has been altered significantly by recent patches:
 
