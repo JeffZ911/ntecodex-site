@@ -25,6 +25,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHftPL_hD-RRDY5NolXT5Trtzp3WTqrpNk759bjcyOMqX4KGhk-D_-ooX52CEFJCcYHSZPvDWjzgxYH2JeHX5KwSmZqpR14NpFVOroKwEYX5KZT7o5yHW4Vfwty91o44u4rb-sHGQPKkOWyArDS_mT9Elnc3ygnhtUjmdZTW3TLQMEIpKs2Una6ySLe6jlzZ690dNsc4GSMGX54oQ708-k="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0dxXHc-OAwl_UrMrkZ3hLBqstt_H3GM0kEwyH_nOWPztGCs5eCJ4oBtCgB9NU-In7GSFv92N4K6KD2dy6SY2uTRUGxsSLPhAEW9kDWkITEIQuRXKbqXMIuw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDycHa5-pw8AIpyCaGLlOXtAUaz7p3lx18BrqNSdegg-xdsrk4iGcBjscaDbaMpNzjB3yktSaOuAatF7FpUA3dxEBJfCCTd-UIGm4Is60p0EeCv3GEV7Vmjw=="
+hero_image: /img/how-does-stamina-work-nte/hero.webp
+inline_images:
+  - /img/how-does-stamina-work-nte/inline-1.webp
+  - /img/how-does-stamina-work-nte/inline-2.webp
+  - /img/how-does-stamina-work-nte/inline-3.webp
+  - /img/how-does-stamina-work-nte/inline-4.webp
+inline_image_sections:
+  - "Question Restated"
+  - "Direct Answer"
+  - "Detailed Explanation"
+  - "Related"
 ---
 
 Mastering the various energy systems in Hethereau is the first step to becoming a top-tier Anomaly Hunter. This guide breaks down how stamina works in Neverness to Everness (NTE) to ensure you never waste a single point of progression.
@@ -37,6 +48,9 @@ In Neverness to Everness, stamina is not a single resource but a trio of indepen
 
 ## Question Restated
 
+![Question Restated](/img/how-does-stamina-work-nte/inline-1.webp)
+
+
 Players often find themselves confused by the UI, which displays multiple icons and timers. The core questions most new Hunters have are:
 
 *   **What are the different types of stamina in Neverness to Everness (NTE)?**
@@ -46,6 +60,9 @@ Players often find themselves confused by the UI, which displays multiple icons 
 Each system has its own regeneration rules and specific sinks. While Character Pixels are your daily bread and butter for strengthening your Espers, City Stamina is a weekly-limited resource that fuels your rise through the Tycoon ranks.
 
 ## Direct Answer
+
+![Direct Answer](/img/how-does-stamina-work-nte/inline-2.webp)
+
 
 NTE uses three distinct stamina systems: Character Pixels (for combat and farming), City Stamina (for tycoon activities), and Exploration Stamina (for movement).
 
@@ -62,6 +79,9 @@ NTE uses three distinct stamina systems: Character Pixels (for combat and farmin
 | **Exploration Stamina** | Movement & Combat Dodging | Automatic (Seconds) | [Information not yet publicly available as of 2026-05-14] |
 
 ## Detailed Explanation
+
+![Detailed Explanation](/img/how-does-stamina-work-nte/inline-3.webp)
+
 
 The split nature of NTE's stamina means you are rarely "out of things to do." If you have spent all your Character Pixels farming for Arc ascension materials, you can still spend the rest of your evening engaging in the City Tycoon system or hunting for hidden Oracle Stones in the Miguel District.
 
@@ -118,6 +138,9 @@ NTE allows players to permanently expand their stamina pools through world progr
 *   **Annulith:** The premium currency. While it can refill both types of stamina, it is generally recommended to save Annulith for character banners unless you are pushing for a specific progression breakpoint.
 
 ## Related
+
+![Related](/img/how-does-stamina-work-nte/inline-4.webp)
+
 
 Managing your stamina is just one part of the NTE loop. To fully optimize your account, you should also look into how these systems interact with your overall levels.
 
