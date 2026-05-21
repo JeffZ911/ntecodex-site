@@ -1,18 +1,41 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+
+// Was a static "in production" placeholder with noindex — that orphaned
+// every weapon_db article (reachable only via sitemap, no listing link).
+// Now lists them like /guides so Googlebot has a crawl hub + the pages
+// gain internal inlinks.
+const all = await getCollection("weapons");
+const items = all
+  .map((e) => ({
+    href: `/weapons/${e.slug}`,
+    title: e.data.title,
+    articleType: e.data.article_type,
+    qaScore: e.data.qa_score,
+    wordCount: e.data.word_count,
+    publishedAt: e.data.published_at,
+    heroImage: e.data.hero_image,
+  }))
+  .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""));
 ---
 
 <BaseLayout
   title="NTE Weapons / Arcs Database"
   description="Every weapon (Arc) in Neverness to Everness with stats, effects and best users."
-  noindex
 >
   <h1>Weapons / Arcs</h1>
-  <div class="prose-game max-w-prose">
-    <p class="text-gray-400">
-      Weapon database is in production — expect entries to start landing this
-      week. Bookmark this page or check the
+  <p class="text-gray-400 mt-2">{items.length} weapon{items.length === 1 ? "" : "s"}.</p>
+
+  {items.length > 0 ? (
+    <div class="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {items.map((w) => <ArticleCard {...w} />)}
+    </div>
+  ) : (
+    <p class="mt-6 text-gray-500">
+      Weapon database is in production — check the
       <a href="/guides">latest guides</a> in the meantime.
     </p>
-  </div>
+  )}
 </BaseLayout>
