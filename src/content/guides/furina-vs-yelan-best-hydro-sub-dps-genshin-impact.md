@@ -8,6 +8,17 @@ published_at: "2026-05-25T06:27:02.226317+00:00"
 published_url: /guides/furina-vs-yelan-best-hydro-sub-dps-genshin-impact
 sources: []
 game: genshin
+hero_image: /img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/hero.webp
+inline_images:
+  - /img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-1.webp
+  - /img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-2.webp
+  - /img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-3.webp
+  - /img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-4.webp
+inline_image_sections:
+  - "TL;DR Verdict"
+  - "Side-by-Side Table"
+  - "Detailed Comparison"
+  - "Recommendation"
 ---
 
 Choosing between the Hydro Archon and the Liyue Qixing's secret intelligence agent is one of the most difficult decisions for any account looking to conquer the Spiral Abyss.
@@ -17,6 +28,9 @@ Choosing between the Hydro Archon and the Liyue Qixing's secret intelligence age
 Selecting the right Hydro sub-DPS can transform a struggling team into a meta powerhouse, as the Hydro element acts as the "glue" for the game's strongest elemental reactions. While both Furina and Yelan occupy the S-tier of the roster, they offer vastly different utility, buffing styles, and team-building requirements. Furina acts as a universal damage amplifier who trades team health for massive power, while Yelan provides surgical single-target precision and unparalleled mobility.
 
 ## TL;DR Verdict
+
+![TL;DR Verdict](/img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-1.webp)
+
 
 *   **Furina** is the superior choice for maximizing total team damage and universal buffing, though she necessitates a dedicated team-wide healer to function.
 *   **Yelan** is the better pick for consistent single-target Hydro application (perfect for Vaporize) and offers the best horizontal exploration speed in the game.
@@ -34,6 +48,9 @@ Selecting the right Hydro sub-DPS can transform a struggling team into a meta po
 
 ## Side-by-Side Table
 
+![Side-by-Side Table](/img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-2.webp)
+
+
 Both characters scale their damage primarily off their [Max HP](https://game8.co/games/Genshin-Impact/archives/371583), making them relatively easy to build with HP% Sands and Goblets. However, their weapon requirements and mechanical roles differ significantly.
 
 | Feature | Furina | Yelan |
@@ -48,6 +65,9 @@ Both characters scale their damage primarily off their [Max HP](https://game8.co
 | **Exploration** | [Walks on Water](https://game8.co/games/Genshin-Impact/archives/418388) | [Rapid Sprint](https://game8.co/games/Genshin-Impact/archives/371583) |
 
 ## Detailed Comparison
+
+![Detailed Comparison](/img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-3.webp)
+
 
 ### Personal Damage and Scaling
 
@@ -80,6 +100,9 @@ In the overworld, Yelan is widely considered the best character in the game. Her
 Furina offers a different but equally unique utility. While her Elemental Skill is active, she can [walk on the surface of water](https://game8.co/games/Genshin-Impact/archives/418388) for the full 30-second duration. This makes navigating the many lakes and oceans of Teyvat trivial. However, for general land travel, Yelan’s speed boost is generally more useful for daily commissions and material gathering.
 
 ## Recommendation
+
+![Recommendation](/img/furina-vs-yelan-best-hydro-sub-dps-genshin-impact/inline-4.webp)
+
 
 ### Who Should Pull for Furina?
 
