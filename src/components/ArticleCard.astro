@@ -42,12 +42,6 @@ const dateStr = publishedAt ? new Date(publishedAt).toISOString().slice(0, 10) :
     </h3>
     <div class="mt-auto pt-3 flex items-center gap-3 text-xs text-gray-500">
       {wordCount != null && <span>{wordCount.toLocaleString()} words</span>}
-      {qaScore != null && (
-        <span class="flex items-center gap-1">
-          <span class="text-gold">●</span>
-          <span>{qaScore.toFixed(1)} / 10</span>
-        </span>
-      )}
     </div>
   </article>
 </a>

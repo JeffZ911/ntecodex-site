@@ -63,12 +63,6 @@ const jsonLd = {
         </span>
         {dateStr && <span>{dateStr}</span>}
         {wordCount != null && <span>· {wordCount.toLocaleString()} words</span>}
-        {qaScore != null && (
-          <span class="flex items-center gap-1">
-            · <span class="text-gold">●</span>
-            <span>{qaScore.toFixed(1)} / 10 QA</span>
-          </span>
-        )}
       </div>
       <h1 class="mt-3 text-balance">{title}</h1>
     </header>
