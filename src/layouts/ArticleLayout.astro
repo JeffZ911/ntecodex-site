@@ -18,11 +18,17 @@ interface Props {
   crumbs: Crumb[];
   /** Article slug — used to scope the comment section to this article. */
   slug?: string;
+  /** Set true (typically via frontmatter `affiliate: true`) when the
+   * article body contains affiliate links. Renders a top-of-article FTC
+   * disclosure banner and signals to readers / search engines that the
+   * page has commercial intent. */
+  affiliate?: boolean;
 }
 
 const {
   title, description, publishedAt, qaScore, wordCount,
   articleType, heroImage, sources = [], crumbs, slug,
+  affiliate = false,
 } = Astro.props;
 
 const dateStr = publishedAt
@@ -37,17 +43,28 @@ const dateStr = publishedAt
 const NOINDEX_BELOW = 6.0;
 const noindex = qaScore != null && qaScore < NOINDEX_BELOW;
 
+// JSON-LD: brand-author + publishingPrinciples / actionableFeedbackPolicy
+// fields are Google's documented E-E-A-T signals — pointing them at
+// /editorial-policy and /contact gives the reviewer a machine-readable
+// trust trail without inventing a fictional human author.
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
   headline: title,
   datePublished: publishedAt,
   dateModified: publishedAt,
-  // E-E-A-T-friendly independent-creator pattern: a named editorial Person
-  // as author, Gacha Codex as a lightweight publisher Organization (no logo
-  // / no address / no fictional corporate claim).
-  author: { "@type": "Person", name: "Gacha Codex Editorial" },
-  publisher: { "@type": "Organization", name: "Gacha Codex" },
+  author: {
+    "@type": "Organization",
+    name: "Gacha Codex Editorial",
+    url: "https://ntecodex.com/about",
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "Gacha Codex",
+    url: "https://ntecodex.com/",
+  },
+  publishingPrinciples: "https://ntecodex.com/editorial-policy",
+  actionableFeedbackPolicy: "https://ntecodex.com/contact",
   description: description,
   ...(heroImage ? { image: heroImage } : {}),
 };
@@ -76,6 +93,16 @@ const jsonLd = {
     </header>
 
     <div class="min-w-0">
+      {affiliate && (
+        <aside class="mb-6 rounded-lg border border-amber-400/20 bg-amber-500/5 px-4 py-3 text-sm text-amber-100/90">
+          <strong class="text-amber-200">Affiliate disclosure:</strong>
+          This article contains affiliate links. If you buy through them,
+          we may earn a small commission at no cost to you. Recommendations
+          are made independently — see our
+          <a href="/affiliate-disclosure" class="underline hover:text-amber-50">Affiliate Disclosure</a>
+          and <a href="/editorial-policy" class="underline hover:text-amber-50">Editorial Policy</a>.
+        </aside>
+      )}
       <slot />
       {slug && <RelatedGuides currentSlug={slug} articleType={articleType} />}
       <SourceList sources={sources} />

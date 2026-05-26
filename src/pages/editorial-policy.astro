@@ -1,0 +1,198 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Editorial Policy — Gacha Codex"
+  description="How Gacha Codex sources, drafts, fact-checks and publishes its tier lists, character builds and game guides. AI methodology, quality gates and corrections process."
+>
+  <h1>Editorial Policy</h1>
+  <p class="text-sm text-gray-400">Last updated: 2026-05-25</p>
+
+  <div class="prose-game max-w-prose">
+    <p class="lead">
+      This page explains exactly how an article gets onto Gacha Codex —
+      what we use for sources, how we draft and check claims, what gets
+      published versus rejected, and how we handle mistakes.
+    </p>
+
+    <h2>Sourcing</h2>
+    <p>
+      Every factual claim in a Gacha Codex article should be traceable to
+      one or more of the following, in descending order of preference:
+    </p>
+    <ol>
+      <li>
+        <strong>Primary sources.</strong> Official patch notes, developer
+        livestream transcripts, in-game tooltips and documentation
+        published by the game's developer or publisher.
+      </li>
+      <li>
+        <strong>Established community trackers.</strong> Long-running
+        community resources with their own QA: HoYoLab, Prydwen,
+        Mobalytics, Game8, Genshin Impact Wiki (Fandom), the Honkai:
+        Star Rail wiki, and similar.
+      </li>
+      <li>
+        <strong>Active community consensus.</strong> Subreddits, Discord
+        communities and content-creator analyses, used to corroborate
+        the above — not as a sole source for a numeric claim.
+      </li>
+    </ol>
+    <p>
+      Sources used for an article are linked at the bottom of that
+      article. When a single number (a damage multiplier, an ascension
+      cost, a banner end date) is the load-bearing piece of a claim, it
+      is checked against at least one primary source before publication.
+    </p>
+
+    <h2>How drafts are produced</h2>
+    <p>
+      We use large-language-model tooling — specifically Google Gemini
+      and Anthropic Claude — to draft prose from structured research
+      data. This is the same kind of assistance most professional
+      newsrooms now use, and we disclose it openly. Google's
+      <a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" rel="noopener" target="_blank">own guidance on AI content</a>
+      is that the method doesn't matter — quality, usefulness and
+      honesty about provenance do.
+    </p>
+    <p>
+      Concretely, an article goes through these stages:
+    </p>
+    <ol>
+      <li>
+        <strong>Outline.</strong> A structured outline is generated
+        from the topic + sources, listing every claim the article will
+        make and the data backing each one.
+      </li>
+      <li>
+        <strong>Draft.</strong> The outline is expanded into prose,
+        with inline citations to the source URLs.
+      </li>
+      <li>
+        <strong>QA pass.</strong> The draft is scored across six
+        dimensions — see below.
+      </li>
+      <li>
+        <strong>Publishing gate.</strong> Score and per-dimension
+        thresholds determine whether the article publishes, publishes
+        with an editorial banner, is held back for revision, or is
+        rejected outright.
+      </li>
+    </ol>
+
+    <h2>The quality rubric (qa_score)</h2>
+    <p>
+      Every draft is scored from 0 to 10 across six 0–2 dimensions
+      (max raw 12, rescaled to a 10-point qa_score):
+    </p>
+    <ul>
+      <li>
+        <strong>Search-intent match.</strong> Does the article actually
+        answer what a reader searching this query is looking for?
+      </li>
+      <li>
+        <strong>Information density.</strong> Is the content load
+        per paragraph high, or is it padding to hit a word count?
+      </li>
+      <li>
+        <strong>Structure.</strong> Are headings, tables and lists
+        organized so a reader can navigate to their specific question?
+      </li>
+      <li>
+        <strong>AI-pattern hygiene.</strong> Are there hallmarks of
+        unedited LLM output — empty hedging ("it's important to
+        note"), generic platitudes, repeated phrasings? Lower is
+        better; we penalize these heavily.
+      </li>
+      <li>
+        <strong>SEO hygiene.</strong> Title tag, headings, internal
+        links and schema match the topic without keyword-stuffing.
+      </li>
+      <li>
+        <strong>Factual accuracy.</strong> Every numeric claim and
+        proper noun (character names, weapon names, banner dates) is
+        traceable to a source. This is a hard gate — see below.
+      </li>
+    </ul>
+
+    <h2>Publishing thresholds</h2>
+    <table>
+      <thead>
+        <tr><th>qa_score</th><th>Tier</th><th>What happens</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>≥ 7.5</td>
+          <td><strong>Clean</strong></td>
+          <td>Published, indexable in search, no banner.</td>
+        </tr>
+        <tr>
+          <td>6.0 – 7.5</td>
+          <td><strong>Note</strong></td>
+          <td>Published with an editorial note flagging the weaker dimension.</td>
+        </tr>
+        <tr>
+          <td>4.5 – 6.0</td>
+          <td><strong>Strong revise</strong></td>
+          <td>Held back for revision. Does not publish.</td>
+        </tr>
+        <tr>
+          <td>&lt; 4.5</td>
+          <td><strong>Reject</strong></td>
+          <td>Rejected. Does not publish.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      A draft with any unsourced or unverifiable named entity (e.g. a
+      character or item not present in the source data) fails the
+      factual-accuracy gate regardless of total score.
+    </p>
+
+    <h2>Updates and refreshes</h2>
+    <p>
+      Live-service games change weekly. We track patch notes for every
+      game we cover; an in-scope patch triggers a re-check of the
+      affected tier-list entries, character builds and banner pages.
+      Older articles are timestamped, and the editorial team's
+      stale-content detector flags pages older than a threshold for
+      manual review.
+    </p>
+
+    <h2>Corrections</h2>
+    <p>
+      If you spot a factual error, use the <a href="/contact">contact
+      form</a>. We process correction requests within 7 days. When a
+      meaningful factual error is corrected, the article gets a "Last
+      updated" date bump and a brief note describing what changed.
+    </p>
+
+    <h2>Conflicts of interest</h2>
+    <ul>
+      <li>
+        Gacha Codex is independent. We are not paid by any game
+        developer or publisher, and we accept no review codes, early
+        access or exclusive previews.
+      </li>
+      <li>
+        We do display Google AdSense advertising and use a small
+        number of Amazon Associates affiliate links. Both are
+        disclosed: see the <a href="/privacy">Privacy Policy</a> and
+        the <a href="/affiliate-disclosure">Affiliate Disclosure</a>.
+      </li>
+      <li>
+        Affiliate links never influence tier placements, build
+        recommendations or which games we cover.
+      </li>
+    </ul>
+
+    <h2>What we won't publish</h2>
+    <ul>
+      <li>Leaks, datamined kits, unannounced characters or banners.</li>
+      <li>Account-buying, RMT, exploit and bot-tool content.</li>
+      <li>Content copied or paraphrased from another site without independent rewriting and source attribution.</li>
+      <li>"Reviews" written from a press kit without independent verification of the claims.</li>
+    </ul>
+  </div>
+</BaseLayout>

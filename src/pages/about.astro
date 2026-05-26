@@ -2,33 +2,140 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<BaseLayout title="About — Gacha Codex" description="Unofficial fan database for Neverness to Everness — tier list, builds, boss guides and gacha mechanics.">
+<BaseLayout
+  title="About Gacha Codex"
+  description="Gacha Codex is an independent multi-game strategy hub covering Wuthering Waves, Zenless Zone Zero, Honkai: Star Rail, Genshin Impact, Neverness to Everness and more. Tier lists, builds, banners, boss guides — updated daily."
+>
   <h1>About Gacha Codex</h1>
+
   <div class="prose-game max-w-prose">
+    <p class="lead">
+      Gacha Codex is an independent strategy hub for the most-played gacha
+      RPGs. We publish tier lists, character builds, banner coverage and
+      boss strategies for Wuthering Waves, Zenless Zone Zero, Honkai: Star
+      Rail, Genshin Impact, Neverness to Everness and other live-service
+      gacha titles — updated daily.
+    </p>
+
     <p>
-      Gacha Codex is an unofficial fan database for <strong>Neverness to Everness</strong>,
-      a 2026 urban-supernatural gacha RPG by Hotta Studio (published by Perfect World).
-      We are not affiliated with the developer or publisher.
+      We are an independent project. We are not affiliated with any game
+      studio or publisher, take no money from developers, and have no
+      review-copy or early-access arrangements. Every recommendation on
+      this site is based on public information any reader can verify.
     </p>
 
     <h2>What you'll find here</h2>
     <ul>
-      <li>A weekly-updated <a href="/tier-list">tier list</a> covering every released character.</li>
-      <li><a href="/characters">Character build guides</a> — recommended weapons, teams and rotations.</li>
-      <li><a href="/boss">Boss strategies</a> for Abyss and overworld encounters.</li>
-      <li><a href="/guides/reroll">Reroll</a> walkthroughs and <a href="/banners/current">current banner</a> coverage.</li>
-      <li>A growing <a href="/faq">FAQ</a> on gacha mechanics, pity systems and game economy.</li>
+      <li>
+        Weekly-updated <a href="/tier-list">tier lists</a> covering every
+        released character across the games we track, with the reasoning
+        behind each placement.
+      </li>
+      <li>
+        <a href="/characters">Character build pages</a> — recommended
+        weapons, relics, light cones, teams and rotations, sourced from
+        official patch notes and established community testing.
+      </li>
+      <li><a href="/boss">Boss strategies</a> for endgame content.</li>
+      <li>
+        <a href="/guides">Long-form guides</a> on rerolls, banners,
+        pity systems and game economy.
+      </li>
+      <li>
+        A growing <a href="/faq">FAQ</a> on gacha mechanics that recur
+        across games.
+      </li>
     </ul>
 
-    <h2>What we're <em>not</em></h2>
+    <h2>How we make this content</h2>
+    <p>
+      We are transparent about our editorial process because it's the only
+      way readers can decide whether to trust what they read here.
+    </p>
+    <ol>
+      <li>
+        <strong>Structured research.</strong> Each article starts from a
+        machine-readable data shape — a character's skill set, banner
+        schedule, boss attack patterns — pulled from official patch notes,
+        in-game data and established tracker communities (HoYoLab,
+        Prydwen, Mobalytics, Game8 and others). Sources are recorded with
+        each article.
+      </li>
+      <li>
+        <strong>AI-assisted drafting.</strong> We use large-language-model
+        tooling (Google Gemini and Anthropic Claude) to draft prose from
+        that structured data. This lets a small team cover more games
+        with consistent depth. We disclose this because Google's own
+        guidance — and ours — is that AI-assisted content is fine when
+        it serves readers, is fact-checked and is honest about the
+        method.
+      </li>
+      <li>
+        <strong>Multi-pass quality checks.</strong> Every draft passes a
+        QA layer that scores it on six dimensions: search-intent match,
+        information density, structure, factual accuracy, originality
+        and SEO hygiene. Drafts that fail on factual accuracy or contain
+        unsourced specifics are rejected before publication.
+      </li>
+      <li>
+        <strong>Publishing gates.</strong> Only articles that meet a
+        minimum quality bar are indexed in search engines. Articles
+        below the bar are either rejected or kept noindex'd so they
+        don't dilute the site's signal. The full rubric is in our
+        <a href="/editorial-policy">Editorial Policy</a>.
+      </li>
+      <li>
+        <strong>Reader feedback loop.</strong> Comments and contact-form
+        reports are moderated and acted on. A reader-flagged factual
+        error triggers an article re-check.
+      </li>
+    </ol>
+
+    <h2>What we don't do</h2>
     <ul>
-      <li>Not the official wiki — for the canonical word, visit Hotta Studio's channels.</li>
-      <li>Not a replacement for community guides on Reddit or Discord — we link to those whenever they're the best source.</li>
+      <li>
+        <strong>We don't publish leaks.</strong> No datamined character
+        kits, no unannounced banners, no pre-release content. Coverage
+        starts when the developer publishes the information.
+      </li>
+      <li>
+        <strong>We don't paywall guides or sell reader data.</strong> The
+        site is free, has no login, and runs on a mix of advertising and
+        affiliate revenue — both disclosed.
+      </li>
+      <li>
+        <strong>We're not the official wiki.</strong> When the
+        canonical answer to a question lives on a developer's site or
+        an established community wiki, we link to it instead of
+        rewriting it.
+      </li>
+    </ul>
+
+    <h2>How we make money</h2>
+    <p>
+      Two streams, both clearly marked:
+    </p>
+    <ul>
+      <li>
+        <strong>Display advertising</strong> via Google AdSense. See our
+        <a href="/privacy">Privacy Policy</a> for cookie and ad
+        personalization details.
+      </li>
+      <li>
+        <strong>Affiliate links</strong> on a small number of articles
+        where peripheral or gear recommendations are part of the
+        reader's question (e.g. "best controller for HSR"). See our
+        <a href="/affiliate-disclosure">Affiliate Disclosure</a> for
+        the full list of programs and how editorial independence is
+        maintained.
+      </li>
     </ul>
 
     <h2>Contact</h2>
     <p>
-      Found an error? See the <a href="/contact">contact page</a>.
+      Factual corrections, takedown requests, partnership inquiries —
+      all go through the <a href="/contact">contact form</a>. Messages
+      are read within a few business days.
     </p>
   </div>
 </BaseLayout>
