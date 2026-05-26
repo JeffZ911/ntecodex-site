@@ -25,6 +25,21 @@ function rehypeExternalLinks() {
   return (tree) => walk(tree);
 }
 
+// Dependency-free remark plugin: strip the first H1 from every markdown body.
+// ArticleLayout already renders an <h1> from frontmatter `title`, so a leading
+// `# Title` in the body produced a duplicate H1 on 700+ pages — bad for SEO
+// (multiple H1s dilute the page topic) and UX (the title appears twice). This
+// removes only the FIRST h1; any later h1 (unlikely) is preserved.
+function remarkStripFirstH1() {
+  return (tree) => {
+    if (!tree || !Array.isArray(tree.children)) return;
+    const idx = tree.children.findIndex(
+      (n) => n && n.type === "heading" && n.depth === 1
+    );
+    if (idx >= 0) tree.children.splice(idx, 1);
+  };
+}
+
 // We hand-roll sitemap.xml.ts instead of using @astrojs/sitemap to avoid
 // the integration's "undefined.reduce" crash when dynamic-route collections
 // are empty (news / weapons in early launch).
@@ -33,6 +48,7 @@ export default defineConfig({
   integrations: [tailwind({ applyBaseStyles: false }), mdx()],
   output: "static",
   markdown: {
+    remarkPlugins: [remarkStripFirstH1],
     rehypePlugins: [rehypeExternalLinks],
   },
   build: {
