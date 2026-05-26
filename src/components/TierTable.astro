@@ -11,12 +11,13 @@ interface Entry {
   tier?: string;
   role?: string[];
   heroImage?: string;
+  /** Game code from frontmatter (nte, hsr, genshin, zzz, wuwa, …) */
+  game?: string;
 }
 interface Props {
   entries: Entry[];
-  filter?: string; // role filter: All | DPS | Sub-DPS | Support | Healer | Tank
 }
-const { entries, filter = "All" } = Astro.props;
+const { entries } = Astro.props;
 
 const TIER_ORDER = ["S+", "S", "A", "B", "C"];
 const TIER_META: Record<string, { label: string; subtitle: string; cls: string }> = {
@@ -27,41 +28,57 @@ const TIER_META: Record<string, { label: string; subtitle: string; cls: string }
   "C":  { label: "C Tier",  subtitle: "Underperforming",         cls: "border-tier-c/40" },
 };
 
-function inFilter(e: Entry): boolean {
-  if (filter === "All") return true;
-  return Array.isArray(e.role) && e.role.includes(filter);
-}
-
+// Render every entry up-front with data-* attributes — the client-side
+// filter in tier-list.astro toggles their visibility. Server-side filtering
+// was removed so a single static build serves all filter combinations
+// without needing pre-rendered variants.
 const grouped: Record<string, Entry[]> = {};
-for (const e of entries.filter(inFilter)) {
+for (const e of entries) {
   const t = e.tier && TIER_ORDER.includes(e.tier) ? e.tier : "C";
   (grouped[t] ||= []).push(e);
 }
 ---
 
-<div class="space-y-8">
+<div class="space-y-8" data-tier-table>
   {TIER_ORDER.map((tier) => {
     const list = grouped[tier] || [];
     return (
-      <section class={`rounded-xl border-l-4 ${TIER_META[tier].cls} bg-bg-soft/30 p-4`}>
+      <section
+        class={`tier-section rounded-xl border-l-4 ${TIER_META[tier].cls} bg-bg-soft/30 p-4`}
+        data-tier-section={tier}
+      >
         <div class="flex items-baseline justify-between">
           <h2 class="m-0 text-2xl font-bold">{TIER_META[tier].label}</h2>
           <p class="m-0 text-sm text-gray-400">{TIER_META[tier].subtitle}</p>
         </div>
         {list.length > 0 ? (
-          <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          <div class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3" data-tier-grid>
             {list.map((e) => (
-              <CharacterCard
-                slug={e.slug} title={e.title}
-                characterId={e.characterId} rarity={e.rarity ?? undefined}
-                element={e.element} weaponType={e.weaponType}
-                tier={e.tier} role={e.role} heroImage={e.heroImage}
-              />
+              <div
+                data-tier-entry
+                data-game={(e.game || "nte").toLowerCase()}
+                data-roles={(e.role || []).map((r) => r.toLowerCase()).join("|")}
+              >
+                <CharacterCard
+                  slug={e.slug} title={e.title}
+                  characterId={e.characterId} rarity={e.rarity ?? undefined}
+                  element={e.element} weaponType={e.weaponType}
+                  tier={e.tier} role={e.role} heroImage={e.heroImage}
+                />
+              </div>
             ))}
           </div>
         ) : (
-          <p class="mt-3 text-sm text-gray-500 italic">More characters coming soon — site is in early launch.</p>
+          <p class="mt-3 text-sm text-gray-500 italic" data-tier-empty>
+            More characters coming soon — site is in early launch.
+          </p>
         )}
+        <p
+          class="mt-3 hidden text-sm text-gray-500 italic"
+          data-tier-no-match
+        >
+          No characters match the current filter.
+        </p>
       </section>
     );
   })}

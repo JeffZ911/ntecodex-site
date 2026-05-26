@@ -4,8 +4,10 @@ import Breadcrumb from "../components/Breadcrumb.astro";
 import SourceList from "../components/SourceList.astro";
 import CommentSection from "../components/CommentSection.astro";
 import RelatedGuides from "../components/RelatedGuides.astro";
+import TableOfContents from "../components/TableOfContents.astro";
 
 interface Crumb { href?: string; label: string }
+interface Heading { depth: number; slug: string; text: string }
 interface Props {
   title: string;
   description?: string;
@@ -23,12 +25,19 @@ interface Props {
    * disclosure banner and signals to readers / search engines that the
    * page has commercial intent. */
   affiliate?: boolean;
+  /** 1-2 sentence answer-up-front callout (frontmatter `quick_answer`).
+   * When present, renders as a highlighted card at the very top of the
+   * body — readers get the answer immediately instead of scrolling. */
+  quickAnswer?: string;
+  /** Markdown headings from `entry.render().headings`. When passed in,
+   * renders a sticky right-side TOC on xl+ screens (≥1280px). */
+  headings?: Heading[];
 }
 
 const {
   title, description, publishedAt, qaScore, wordCount,
   articleType, heroImage, sources = [], crumbs, slug,
-  affiliate = false,
+  affiliate = false, quickAnswer, headings = [],
 } = Astro.props;
 
 const dateStr = publishedAt
@@ -73,40 +82,55 @@ const jsonLd = {
 <BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLd} noindex={noindex}>
   <Breadcrumb crumbs={crumbs} />
 
-  <article class="prose-game max-w-none">
-    {heroImage && (
-      <img src={heroImage} alt=""
-           width="1280" height="720"
-           fetchpriority="high"
-           class="mb-6 aspect-video w-full max-h-[400px] rounded-xl object-cover" />
-    )}
-
-    <header class="mb-6">
-      <div class="flex flex-wrap items-center gap-2 text-xs text-gray-400">
-        <span class="rounded bg-primary-700/30 px-2 py-0.5 capitalize text-primary-100">
-          {articleType.replace("_", " ")}
-        </span>
-        {dateStr && <span>{dateStr}</span>}
-        {wordCount != null && <span>· {wordCount.toLocaleString()} words</span>}
-      </div>
-      <h1 class="mt-3 text-balance">{title}</h1>
-    </header>
-
-    <div class="min-w-0">
-      {affiliate && (
-        <aside class="mb-6 rounded-lg border border-amber-400/20 bg-amber-500/5 px-4 py-3 text-sm text-amber-100/90">
-          <strong class="text-amber-200">Affiliate disclosure:</strong>
-          This article contains affiliate links. If you buy through them,
-          we may earn a small commission at no cost to you. Recommendations
-          are made independently — see our
-          <a href="/affiliate-disclosure" class="underline hover:text-amber-50">Affiliate Disclosure</a>
-          and <a href="/editorial-policy" class="underline hover:text-amber-50">Editorial Policy</a>.
-        </aside>
+  {/* 2-column layout on xl+: main article + sticky TOC sidebar.
+      On <xl screens the TOC is `hidden`, so the grid collapses to a
+      single column visually (the empty 2nd col is harmless). */}
+  <div class="xl:grid xl:grid-cols-[minmax(0,1fr)_14rem] xl:gap-10">
+    <article class="prose-game max-w-none min-w-0">
+      {heroImage && (
+        <img src={heroImage} alt=""
+             width="1280" height="720"
+             fetchpriority="high"
+             class="mb-6 aspect-video w-full max-h-[400px] rounded-xl object-cover" />
       )}
-      <slot />
-      {slug && <RelatedGuides currentSlug={slug} articleType={articleType} />}
-      <SourceList sources={sources} />
-      {slug && <CommentSection articleSlug={slug} />}
-    </div>
-  </article>
+
+      <header class="mb-6">
+        <div class="flex flex-wrap items-center gap-2 text-xs text-gray-400">
+          <span class="rounded bg-primary-700/30 px-2 py-0.5 capitalize text-primary-100">
+            {articleType.replace("_", " ")}
+          </span>
+          {dateStr && <span>{dateStr}</span>}
+          {wordCount != null && <span>· {wordCount.toLocaleString()} words</span>}
+        </div>
+        <h1 class="mt-3 text-balance">{title}</h1>
+      </header>
+
+      <div class="min-w-0">
+        {affiliate && (
+          <aside class="mb-6 rounded-lg border border-amber-400/20 bg-amber-500/5 px-4 py-3 text-sm text-amber-100/90">
+            <strong class="text-amber-200">Affiliate disclosure:</strong>
+            This article contains affiliate links. If you buy through them,
+            we may earn a small commission at no cost to you. Recommendations
+            are made independently — see our
+            <a href="/affiliate-disclosure" class="underline hover:text-amber-50">Affiliate Disclosure</a>
+            and <a href="/editorial-policy" class="underline hover:text-amber-50">Editorial Policy</a>.
+          </aside>
+        )}
+        {quickAnswer && (
+          <aside class="mb-6 rounded-xl border border-primary-400/30 bg-primary-900/20 px-5 py-4">
+            <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">
+              Quick answer
+            </p>
+            <p class="mt-2 mb-0 text-base text-gray-100">{quickAnswer}</p>
+          </aside>
+        )}
+        <slot />
+        {slug && <RelatedGuides currentSlug={slug} articleType={articleType} />}
+        <SourceList sources={sources} />
+        {slug && <CommentSection articleSlug={slug} />}
+      </div>
+    </article>
+
+    <TableOfContents headings={headings} />
+  </div>
 </BaseLayout>

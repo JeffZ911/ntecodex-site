@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 
 interface Props { entry: CollectionEntry<"guides"> }
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 
 // Guides may live in subfolders (e.g. guides/reroll/). Slot the
 // subfolder name into the breadcrumb so /guides/reroll/<slug> reads
@@ -46,6 +46,9 @@ const crumbs = [
   sources={entry.data.sources}
   slug={entry.slug}
   crumbs={crumbs}
+  headings={headings}
+  quickAnswer={entry.data.quick_answer}
+  affiliate={entry.data.affiliate}
 >
   <Content />
 </ArticleLayout>

@@ -25,6 +25,14 @@ const baseFrontmatter = {
   hero_image: z.string().optional(),
   inline_images: z.array(z.string()).optional(),
   inline_image_sections: z.array(z.string()).optional(),
+  // Optional 1-2 sentence "quick answer" rendered as a callout at the top
+  // of the article body. Lets readers get the answer immediately without
+  // scrolling — boosts dwell time + reduces bounce. Set in frontmatter
+  // by future writer-pipeline upgrade; omitted = no callout (don't fake).
+  quick_answer: z.string().optional(),
+  // Set true when the article body contains affiliate links — renders the
+  // FTC disclosure banner at the top via ArticleLayout. Default false.
+  affiliate: z.boolean().optional(),
 };
 
 // Long-form article types live under their own folder.

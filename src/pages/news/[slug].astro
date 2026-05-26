@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 interface Props { entry: CollectionEntry<"news"> }
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 ---
 
 <ArticleLayout
@@ -29,6 +29,9 @@ const { Content } = await entry.render();
     { href: "/news", label: "News" },
     { label: entry.data.title },
   ]}
+  headings={headings}
+  quickAnswer={entry.data.quick_answer}
+  affiliate={entry.data.affiliate}
 >
   <Content />
 </ArticleLayout>

@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 
 interface Props { entry: CollectionEntry<"characters"> }
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 const cd = entry.data.character_data ?? {};
 
 const description = entry.data.title
@@ -58,6 +58,9 @@ const tierClass = cd.tier && TIER_BADGE[cd.tier as string] ? TIER_BADGE[cd.tier 
     { href: "/characters", label: "Characters" },
     { label: entry.data.title },
   ]}
+  headings={headings}
+  quickAnswer={entry.data.quick_answer}
+  affiliate={entry.data.affiliate}
 >
   <!-- Character info card (rendered before the markdown body) -->
   {cd && Object.keys(cd).length > 0 && (

@@ -24,17 +24,34 @@ const editorialItems = tierListArticles
     body: e,
   }))
   .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""));
-const entries = characters.map((c) => ({
-  slug: c.slug,
-  title: c.data.title,
-  characterId: c.data.character_data?.character_id,
-  rarity: c.data.character_data?.rarity ?? null,
-  element: c.data.character_data?.element,
-  weaponType: c.data.character_data?.weapon_type,
-  tier: c.data.character_data?.tier,
-  role: c.data.character_data?.role,
-  heroImage: c.data.hero_image,
-}));
+// Mirror sitemap policy: low-tier (qa < 6.0) entries are noindex'd, so
+// don't promote them on the tier list either.
+const NOINDEX_BELOW = 6.0;
+const entries = characters
+  .filter((c) => !(typeof c.data.qa_score === "number" && c.data.qa_score < NOINDEX_BELOW))
+  .map((c) => ({
+    slug: c.slug,
+    title: c.data.title,
+    characterId: c.data.character_data?.character_id,
+    rarity: c.data.character_data?.rarity ?? null,
+    element: c.data.character_data?.element,
+    weaponType: c.data.character_data?.weapon_type,
+    tier: c.data.character_data?.tier,
+    role: c.data.character_data?.role,
+    heroImage: c.data.hero_image,
+    game: c.data.game || "nte",
+  }));
+
+// Build filter chips dynamically from what's actually in the dataset.
+// Avoids static role lists drifting from real data (e.g. listing "Healer"
+// on a multi-game page where no character has that role yet).
+const GAME_LABEL: Record<string, string> = {
+  nte: "NTE", hsr: "HSR", genshin: "Genshin", zzz: "ZZZ", wuwa: "WuWa",
+};
+const presentGames = Array.from(new Set(entries.map((e) => e.game))).sort();
+const presentRoles = Array.from(
+  new Set(entries.flatMap((e) => e.role || []).map((r) => r.trim()))
+).filter(Boolean).sort();
 
 const lastUpdated = characters
   .map((c) => c.data.published_at)
@@ -56,29 +73,134 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="NTE Tier List — Best Characters Ranked (Updated)"
-  description="The complete Neverness to Everness tier list. Every Esper ranked S+ to C with role tags, build links and recent meta-shift commentary."
+  title="Gacha Tier List — Best Characters Across Every Game We Cover"
+  description="Multi-game tier list — every character we cover ranked S+ to C with role and game filters. Spans Neverness to Everness, Honkai Star Rail, Genshin Impact, ZZZ and more."
   jsonLd={jsonLd}
 >
   <Breadcrumb crumbs={[{ href: "/", label: "Home" }, { label: "Tier List" }]} />
   <div class="mb-6">
-    <h1 class="m-0">NTE Tier List</h1>
+    <h1 class="m-0">Tier List</h1>
     <p class="mt-2 text-gray-400">
       Last updated: <span class="text-white">{lastUpdated ? new Date(lastUpdated).toISOString().slice(0, 10) : "—"}</span>
       · Aggregated from <span class="text-white">{entries.length}</span> character {entries.length === 1 ? "entry" : "entries"}.
     </p>
   </div>
 
-  <!-- Role filter (visual only for now; static page) -->
-  <div class="mb-8 flex flex-wrap gap-2 text-sm">
-    {["All", "DPS", "Sub-DPS", "Support", "Healer", "Tank"].map((r, i) => (
-      <span class={`rounded-md px-3 py-1.5 ${i === 0 ? 'bg-primary-600 text-white' : 'bg-bg-soft text-gray-400 border border-white/10'}`}>
-        {r}
-      </span>
-    ))}
+  {/* Filter chips — vanilla-JS client-side filter, no framework cost.
+      Game filter is multi-select (toggle on/off); role filter is
+      single-select (one role at a time, or All). Cards that don't
+      match either are hidden via the [data-tier-entry] data attrs
+      set in TierTable. */}
+  <div class="mb-6 space-y-3" data-tier-filters>
+    {presentGames.length > 1 && (
+      <div class="flex flex-wrap items-center gap-2 text-sm">
+        <span class="mr-1 text-xs uppercase tracking-wider text-gray-500">Game</span>
+        {presentGames.map((g) => (
+          <button
+            type="button"
+            data-game-chip
+            data-value={g}
+            class="rounded-md border border-white/10 bg-primary-600 px-3 py-1.5 text-white"
+          >
+            {GAME_LABEL[g] || g.toUpperCase()}
+          </button>
+        ))}
+      </div>
+    )}
+    {presentRoles.length > 0 && (
+      <div class="flex flex-wrap items-center gap-2 text-sm">
+        <span class="mr-1 text-xs uppercase tracking-wider text-gray-500">Role</span>
+        <button
+          type="button" data-role-chip data-value="all"
+          class="rounded-md border border-white/10 bg-primary-600 px-3 py-1.5 text-white"
+        >All</button>
+        {presentRoles.map((r) => (
+          <button
+            type="button"
+            data-role-chip
+            data-value={r.toLowerCase()}
+            class="rounded-md border border-white/10 bg-bg-soft px-3 py-1.5 text-gray-400 hover:text-white"
+          >{r}</button>
+        ))}
+      </div>
+    )}
   </div>
 
-  <TierTable entries={entries} filter="All" />
+  <TierTable entries={entries} />
+
+  <script is:inline>
+    (function () {
+      const root = document.querySelector("[data-tier-table]");
+      const filters = document.querySelector("[data-tier-filters]");
+      if (!root || !filters) return;
+
+      // Game filter is multi-select (set of active games). Default: all on.
+      const allGames = new Set(
+        Array.from(document.querySelectorAll("[data-game-chip]")).map((b) => b.dataset.value)
+      );
+      const activeGames = new Set(allGames);
+      let activeRole = "all";
+
+      const ACTIVE_CLS = ["bg-primary-600", "text-white"];
+      const INACTIVE_CLS = ["bg-bg-soft", "text-gray-400"];
+      function paint(btn, on) {
+        btn.classList.toggle("bg-primary-600", on);
+        btn.classList.toggle("text-white", on);
+        btn.classList.toggle("bg-bg-soft", !on);
+        btn.classList.toggle("text-gray-400", !on);
+      }
+
+      function applyFilter() {
+        const entries = root.querySelectorAll("[data-tier-entry]");
+        entries.forEach((el) => {
+          const g = el.dataset.game || "nte";
+          const roles = (el.dataset.roles || "").split("|").filter(Boolean);
+          const gameOk = activeGames.has(g);
+          const roleOk = activeRole === "all" || roles.includes(activeRole);
+          el.classList.toggle("hidden", !(gameOk && roleOk));
+        });
+        // Empty-state per tier section.
+        root.querySelectorAll("[data-tier-section]").forEach((sec) => {
+          const visible = sec.querySelectorAll("[data-tier-entry]:not(.hidden)").length;
+          const grid = sec.querySelector("[data-tier-grid]");
+          const noMatch = sec.querySelector("[data-tier-no-match]");
+          const empty = sec.querySelector("[data-tier-empty]");
+          if (grid && noMatch) {
+            const hasAny = sec.querySelectorAll("[data-tier-entry]").length > 0;
+            if (!hasAny) return; // tier was empty server-side, leave the "coming soon" note
+            noMatch.classList.toggle("hidden", visible > 0);
+            grid.classList.toggle("hidden", visible === 0);
+          }
+        });
+      }
+
+      filters.querySelectorAll("[data-game-chip]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const v = btn.dataset.value;
+          if (activeGames.has(v) && activeGames.size > 1) {
+            activeGames.delete(v);
+          } else if (activeGames.has(v)) {
+            // Last active → clicking it again selects only it; nothing to do.
+            return;
+          } else {
+            activeGames.add(v);
+          }
+          paint(btn, activeGames.has(v));
+          applyFilter();
+        });
+      });
+
+      filters.querySelectorAll("[data-role-chip]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          activeRole = btn.dataset.value || "all";
+          filters.querySelectorAll("[data-role-chip]").forEach((b) => {
+            paint(b, b.dataset.value === activeRole);
+          });
+          applyFilter();
+        });
+      });
+    })();
+  </script>
 
 
   {editorialItems.length > 0 && (
