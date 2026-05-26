@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import CharacterDataPanel from "../../components/CharacterDataPanel.astro";
 
 export async function getStaticPaths() {
   const all = await getCollection("characters");
@@ -83,6 +84,12 @@ const tierClass = cd.tier && TIER_BADGE[cd.tier as string] ? TIER_BADGE[cd.tier 
       )}
     </aside>
   )}
+
+  {/* Structured data panel: skills, build, teams, materials. Rendered
+      BEFORE the prose body so readers find lookup data immediately —
+      reduces scroll-and-bounce, raises dwell time, gives the page real
+      reference value beyond the AI-drafted commentary that follows. */}
+  <CharacterDataPanel data={cd} />
 
   <Content />
 </ArticleLayout>

@@ -1,0 +1,212 @@
+---
+// CharacterDataPanel — renders the structured character_data JSON as
+// scannable tables/cards BEFORE the prose body. Most gacha-strategy readers
+// want the lookup data first (skill multipliers, recommended relics, team
+// comps), not 1500 words of prose to scroll through. This moves Gacha Codex
+// from "AI-written guide" to "data product with editorial commentary" —
+// the Mobalytics / Prydwen / Game8 pattern.
+//
+// All sections are defensive: missing fields render nothing, not "undefined".
+// Works with the existing character_data shape produced by the writer
+// pipeline (see src/agents/keyword_selector.py and src/agents/writer.py).
+
+interface Skill {
+  name?: string;
+  description?: string;
+  cooldown_sec?: number | null;
+  energy_cost?: number | null;
+}
+interface BuildDisk {
+  set?: string;
+  main_stats?: Record<string, string>;
+  sub_priority?: string[];
+}
+interface Team {
+  name?: string;
+  members?: string[];
+}
+interface AscensionEntry {
+  level?: number;
+  items?: string[];
+}
+
+interface Props {
+  data: {
+    skills?: {
+      basic_attack?: Skill;
+      skill?: Skill;
+      ultimate?: Skill;
+      passives?: Skill[];
+    };
+    best_build?: {
+      disks?: BuildDisk[];
+      weapons?: string[];
+    };
+    teams?: Team[];
+    ascension_materials?: AscensionEntry[];
+    meta_description?: string;
+  };
+}
+
+const { data } = Astro.props;
+const skills = data.skills ?? {};
+const build = data.best_build ?? {};
+const teams = data.teams ?? [];
+const asc = data.ascension_materials ?? [];
+
+// Ordered list of the main "active" skills — only render the rows that
+// actually exist in the source data.
+const skillRows: Array<{ label: string; s: Skill }> = [];
+if (skills.basic_attack) skillRows.push({ label: "Basic Attack", s: skills.basic_attack });
+if (skills.skill)        skillRows.push({ label: "Skill",        s: skills.skill });
+if (skills.ultimate)     skillRows.push({ label: "Ultimate",     s: skills.ultimate });
+
+const hasAny =
+  skillRows.length > 0 ||
+  (skills.passives && skills.passives.length > 0) ||
+  (build.disks && build.disks.length > 0) ||
+  (build.weapons && build.weapons.length > 0) ||
+  teams.length > 0 ||
+  asc.length > 0;
+---
+
+{hasAny && (
+  <section class="char-data-panel mb-8 space-y-6">
+    {/* ===== Quick Answer ===== */}
+    {data.meta_description && (
+      <div class="rounded-xl border border-primary-400/20 bg-primary-900/20 px-5 py-4">
+        <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">
+          Quick answer
+        </p>
+        <p class="mt-2 mb-0 text-base text-gray-100">{data.meta_description}</p>
+      </div>
+    )}
+
+    {/* ===== Skills ===== */}
+    {skillRows.length > 0 && (
+      <div class="rounded-xl border border-white/5 bg-bg-soft/40 p-5">
+        <h2 class="m-0 text-lg">Skills</h2>
+        <div class="mt-3 divide-y divide-white/5">
+          {skillRows.map(({ label, s }) => (
+            <div class="py-3 first:pt-0 last:pb-0">
+              <div class="flex flex-wrap items-baseline justify-between gap-2">
+                <h3 class="m-0 text-base font-semibold text-primary-200">
+                  <span class="text-xs uppercase tracking-wider text-gray-500 mr-2">{label}</span>
+                  {s.name || "—"}
+                </h3>
+                <div class="text-xs text-gray-500 space-x-3">
+                  {s.energy_cost != null && <span>Energy: {s.energy_cost}</span>}
+                  {s.cooldown_sec != null && <span>Cooldown: {s.cooldown_sec}s</span>}
+                </div>
+              </div>
+              {s.description && (
+                <p class="mt-1 mb-0 text-sm text-gray-300">{s.description}</p>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    {/* ===== Passives / Traces ===== */}
+    {skills.passives && skills.passives.length > 0 && (
+      <div class="rounded-xl border border-white/5 bg-bg-soft/40 p-5">
+        <h2 class="m-0 text-lg">Passives</h2>
+        <ul class="mt-3 list-none space-y-3 p-0">
+          {skills.passives.map((p) => (
+            <li>
+              <p class="m-0 text-sm font-semibold text-primary-200">{p.name || "—"}</p>
+              {p.description && (
+                <p class="mt-1 mb-0 text-sm text-gray-300">{p.description}</p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {/* ===== Best Build ===== */}
+    {(build.disks?.length || build.weapons?.length) && (
+      <div class="rounded-xl border border-white/5 bg-bg-soft/40 p-5">
+        <h2 class="m-0 text-lg">Recommended Build</h2>
+
+        {build.disks && build.disks.length > 0 && (
+          <div class="mt-3 grid gap-3 md:grid-cols-2">
+            {build.disks.map((d) => (
+              <div class="rounded-lg border border-white/5 bg-bg/40 p-4">
+                <p class="m-0 text-sm font-semibold text-primary-200">{d.set || "Set"}</p>
+                {d.main_stats && Object.keys(d.main_stats).length > 0 && (
+                  <dl class="mt-2 grid grid-cols-[max-content_1fr] gap-x-3 gap-y-1 text-xs">
+                    {Object.entries(d.main_stats).map(([slot, stat]) => (
+                      <>
+                        <dt class="capitalize text-gray-500">{slot}</dt>
+                        <dd class="m-0 text-gray-200">{stat}</dd>
+                      </>
+                    ))}
+                  </dl>
+                )}
+                {d.sub_priority && d.sub_priority.length > 0 && (
+                  <p class="mt-3 mb-0 text-xs text-gray-400">
+                    <span class="text-gray-500">Sub-stat priority: </span>
+                    {d.sub_priority.join(" › ")}
+                  </p>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
+
+        {build.weapons && build.weapons.length > 0 && (
+          <div class="mt-4">
+            <p class="m-0 text-xs uppercase tracking-wider text-gray-500">Recommended weapons / light cones</p>
+            <ol class="mt-2 list-decimal space-y-1 pl-5 text-sm text-gray-200">
+              {build.weapons.map((w) => <li>{w}</li>)}
+            </ol>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* ===== Team comps ===== */}
+    {teams.length > 0 && (
+      <div class="rounded-xl border border-white/5 bg-bg-soft/40 p-5">
+        <h2 class="m-0 text-lg">Best Team Compositions</h2>
+        <div class="mt-3 grid gap-3 md:grid-cols-2">
+          {teams.map((t) => (
+            <div class="rounded-lg border border-white/5 bg-bg/40 p-4">
+              <p class="m-0 text-sm font-semibold text-primary-200">{t.name || "Team"}</p>
+              {t.members && t.members.length > 0 && (
+                <p class="mt-2 mb-0 text-sm text-gray-300">{t.members.join(" · ")}</p>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    {/* ===== Ascension materials ===== */}
+    {asc.length > 0 && (
+      <div class="rounded-xl border border-white/5 bg-bg-soft/40 p-5">
+        <h2 class="m-0 text-lg">Ascension Materials</h2>
+        <div class="mt-3 overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="text-left text-xs uppercase tracking-wider text-gray-500">
+                <th class="py-2 pr-4 font-medium">Level</th>
+                <th class="py-2 pr-4 font-medium">Required materials</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-white/5">
+              {asc.map((a) => (
+                <tr>
+                  <td class="py-2 pr-4 font-mono text-primary-200">{a.level ?? "—"}</td>
+                  <td class="py-2 pr-4 text-gray-300">{(a.items || []).join(", ")}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    )}
+  </section>
+)}
