@@ -20,9 +20,26 @@ const recent = [
   })
   .slice(0, 6);
 
-// Top character cards (S+ / S only, by tier order)
+// Top character cards (S+ / S only, by tier order). Two safeguards:
+//  (1) filter out noindex'd / low-tier pages — they're hidden from search,
+//      they shouldn't be promoted on the homepage either (matches sitemap
+//      NOINDEX_BELOW = 6.0).
+//  (2) dedupe by character_id, keeping the best qa_score copy — the
+//      pipeline occasionally produces two articles for the same character
+//      (e.g. Fu Xuan ×2), and the homepage was rendering both as separate
+//      Featured cards. Topic-signature dedup in KeywordSelector blocks new
+//      dups going forward; this handles the historical ones.
 const TIER_ORDER: Record<string, number> = { "S+": 0, "S": 1, "A": 2, "B": 3, "C": 4 };
-const featuredCharacters = characters
+const NOINDEX_BELOW = 6.0;
+const byCharacterId = new Map<string, any>();
+for (const c of characters) {
+  const qa = c.data.qa_score;
+  if (typeof qa === "number" && qa < NOINDEX_BELOW) continue;
+  const id = c.data.character_data?.character_id || c.slug;
+  const prev = byCharacterId.get(id);
+  if (!prev || (qa ?? 0) > (prev.data.qa_score ?? 0)) byCharacterId.set(id, c);
+}
+const featuredCharacters = Array.from(byCharacterId.values())
   .map((c) => ({
     slug: c.slug,
     title: c.data.title,

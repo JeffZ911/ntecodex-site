@@ -27,11 +27,17 @@ const dateStr = publishedAt ? new Date(publishedAt).toISOString().slice(0, 10) :
 
 <a href={href} class="block no-underline group h-full">
   <article class="card h-full flex flex-col">
-    {heroImage && (
+    {heroImage ? (
       <img src={heroImage} alt=""
            width="640" height="360"
            loading="lazy" decoding="async"
            class="aspect-video w-full rounded-lg object-cover mb-3 -mt-1" />
+    ) : (
+      <div class="aspect-video w-full rounded-lg mb-3 -mt-1 bg-gradient-to-br from-primary-900/60 via-gray-800 to-gray-900 flex items-center justify-center">
+        <span class="text-xs font-semibold uppercase tracking-wider text-primary-300/60">
+          {articleType.replace("_", " ")}
+        </span>
+      </div>
     )}
     <div class="flex items-center gap-2 text-xs">
       <span class={`badge ${badgeCls} capitalize`}>{articleType.replace("_", " ")}</span>
