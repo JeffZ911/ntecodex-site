@@ -29,6 +29,14 @@ const dateStr = publishedAt
   ? new Date(publishedAt).toISOString().slice(0, 10)
   : null;
 
+// Quality-gate noindex (content-pruning, 2026-05-25): a young domain bloated
+// with low-tier mass content gets the WHOLE site suppressed (scaled-content
+// signal) + fails AdSense. noindex the strong-tier band (qa_score < 6.0) so
+// only the better ~275 pages stay indexable, lifting the site's quality
+// signal. Reversible — change the threshold. noindex,follow keeps link equity.
+const NOINDEX_BELOW = 6.0;
+const noindex = qaScore != null && qaScore < NOINDEX_BELOW;
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -45,7 +53,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLd}>
+<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLd} noindex={noindex}>
   <Breadcrumb crumbs={crumbs} />
 
   <article class="prose-game max-w-none">

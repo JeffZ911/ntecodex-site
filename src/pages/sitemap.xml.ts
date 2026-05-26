@@ -25,13 +25,20 @@ export const GET: APIRoute = async () => {
 
   const dynamic: { url: string; lastmod?: string }[] = [];
 
+  // Quality gate (content-pruning, 2026-05-25): pages with qa_score < 6.0 are
+  // noindex'd (strong-tier band), so they must NOT appear in the sitemap —
+  // advertising noindex'd URLs sends Google mixed signals. Keep the threshold
+  // in sync with ArticleLayout's NOINDEX_BELOW.
+  const NOINDEX_BELOW = 6.0;
+
   // Prefer entry.data.published_url (authoritative — matches what
   // PublishAgent wrote and what the [...slug] route resolves to). Falls back
   // to the directory-derived form when missing.
   const pushEntry = (
     fallbackPrefix: string,
-    e: { slug: string; data: { published_url?: string; published_at?: string } }
+    e: { slug: string; data: { published_url?: string; published_at?: string; qa_score?: number } }
   ) => {
+    if (typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW) return;
     const url = e.data.published_url || `/${fallbackPrefix}/${e.slug}`;
     dynamic.push({ url, lastmod: e.data.published_at });
   };
