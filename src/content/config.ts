@@ -33,6 +33,28 @@ const baseFrontmatter = {
   // Set true when the article body contains affiliate links — renders the
   // FTC disclosure banner at the top via ArticleLayout. Default false.
   affiliate: z.boolean().optional(),
+  // Structured product list for "best X for Y" round-ups and side-by-side
+  // comparisons. When present (and affiliate==true), the guides render
+  // page mounts <ProductRoundup> above the prose body. Each product yields
+  // a card with image / rating / price / pros-cons / "Check on Amazon"
+  // affiliate CTA (rel="sponsored").
+  products: z
+    .array(
+      z.object({
+        name: z.string(),
+        asin: z.string().optional(),
+        image: z.string().optional(),
+        price_usd: z.number().optional(),
+        rating: z.number().optional(),
+        review_count: z.number().optional(),
+        pros: z.array(z.string()).optional(),
+        cons: z.array(z.string()).optional(),
+        best_for: z.string().optional(),
+        affiliate_url: z.string().optional(),
+        verdict: z.string().optional(),
+      })
+    )
+    .optional(),
 };
 
 // Long-form article types live under their own folder.

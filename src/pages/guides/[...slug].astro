@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content";
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import ProductRoundup from "../../components/ProductRoundup.astro";
 
 export async function getStaticPaths() {
   const all = await getCollection("guides");
@@ -50,5 +51,12 @@ const crumbs = [
   quickAnswer={entry.data.quick_answer}
   affiliate={entry.data.affiliate}
 >
+  {/* Affiliate round-up: structured product cards + quick-jump comparison
+      table rendered above the prose body when the article carries a
+      `products` array in frontmatter. Defaults to nothing when absent —
+      every existing guide is unaffected. */}
+  {entry.data.products && entry.data.products.length > 0 && (
+    <ProductRoundup products={entry.data.products} />
+  )}
   <Content />
 </ArticleLayout>
