@@ -96,18 +96,27 @@ function classify(content: string): "spam" | "pending" {
 export const onRequestGet: PagesFunction<Env> = async (ctx) => {
   const url = new URL(ctx.request.url);
   const slug = url.searchParams.get("article_slug");
-  if (!slug) return jsonResp({ error: "article_slug required" }, 400);
+  const recent = url.searchParams.get("recent");
+
+  // article_slug mode = per-article comment list
+  // recent=1 mode = site-wide newest approved comments (for homepage "Recent
+  // Discussions" widget). Caps at 5 to keep the widget light.
+  if (!slug && !recent) {
+    return jsonResp({ error: "article_slug or recent=1 required" }, 400);
+  }
 
   const siteId = await siteIdFromDomain(ctx.env, ctx.env.SITE_DOMAIN || SITE_DOMAIN_DEFAULT);
   if (!siteId) return jsonResp({ error: "site not found" }, 500);
 
+  const limit = recent ? 5 : 100;
+  const slugFilter = slug ? `&article_slug=eq.${encodeURIComponent(slug)}` : "";
   const q =
     `${ctx.env.SUPABASE_URL}/rest/v1/user_messages` +
     `?site_id=eq.${siteId}` +
-    `&article_slug=eq.${encodeURIComponent(slug)}` +
+    slugFilter +
     `&status=eq.approved` +
     `&select=user_name,content,created_at,article_slug,status` +
-    `&order=created_at.desc&limit=100`;
+    `&order=created_at.desc&limit=${limit}`;
   const r = await fetch(q, {
     headers: {
       apikey: ctx.env.SUPABASE_SERVICE_ROLE_KEY,

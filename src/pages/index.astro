@@ -1,45 +1,36 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import CharacterCard from "../components/CharacterCard.astro";
 
-const guides = await getCollection("guides");
-const boss = await getCollection("boss");
+// ---------- data load ----------
 const characters = await getCollection("characters");
+const guides     = await getCollection("guides");
+const boss       = await getCollection("boss");
+const news       = await getCollection("news");
+const weapons    = await getCollection("weapons");
 
-// Recent guides (excluding character_db / weapon_db / tier_list / faq)
-const recent = [
-  ...guides.map((e) => ({ ...e, href: `/guides/${e.slug}` })),
-  ...boss.map((e)   => ({ ...e, href: `/boss/${e.slug}` })),
-]
-  .sort((a, b) => {
-    const da = a.data.published_at ? Date.parse(a.data.published_at) : 0;
-    const db = b.data.published_at ? Date.parse(b.data.published_at) : 0;
-    return db - da;
-  })
-  .slice(0, 6);
-
-// Top character cards (S+ / S only, by tier order). Two safeguards:
-//  (1) filter out noindex'd / low-tier pages — they're hidden from search,
-//      they shouldn't be promoted on the homepage either (matches sitemap
-//      NOINDEX_BELOW = 6.0).
-//  (2) dedupe by character_id, keeping the best qa_score copy — the
-//      pipeline occasionally produces two articles for the same character
-//      (e.g. Fu Xuan ×2), and the homepage was rendering both as separate
-//      Featured cards. Topic-signature dedup in KeywordSelector blocks new
-//      dups going forward; this handles the historical ones.
-const TIER_ORDER: Record<string, number> = { "S+": 0, "S": 1, "A": 2, "B": 3, "C": 4 };
+// Quality gate — match sitemap + ArticleLayout: only promote pages we'd
+// also let Google index. qa_score < 6.0 = strong-tier band, kept off the
+// homepage so we never feature anything we're noindex'ing.
 const NOINDEX_BELOW = 6.0;
-const byCharacterId = new Map<string, any>();
+const ok = <T extends { data: { qa_score?: number } }>(e: T) =>
+  !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
+
+// ---------- featured-characters: dedupe by character_id + tier sort ----------
+const TIER_ORDER: Record<string, number> = { "S+": 0, "S": 1, "A": 2, "B": 3, "C": 4 };
+const byCharacterId = new Map<string, CollectionEntry<"characters">>();
 for (const c of characters) {
-  const qa = c.data.qa_score;
-  if (typeof qa === "number" && qa < NOINDEX_BELOW) continue;
+  if (!ok(c)) continue;
   const id = c.data.character_data?.character_id || c.slug;
   const prev = byCharacterId.get(id);
-  if (!prev || (qa ?? 0) > (prev.data.qa_score ?? 0)) byCharacterId.set(id, c);
+  if (!prev || (c.data.qa_score ?? 0) > (prev.data.qa_score ?? 0)) {
+    byCharacterId.set(id, c);
+  }
 }
-const featuredCharacters = Array.from(byCharacterId.values())
+const dedupedCharacters = Array.from(byCharacterId.values());
+const featuredCharacters = dedupedCharacters
   .map((c) => ({
     slug: c.slug,
     title: c.data.title,
@@ -54,8 +45,76 @@ const featuredCharacters = Array.from(byCharacterId.values())
   .sort((a, b) => (TIER_ORDER[a.tier ?? "C"] ?? 9) - (TIER_ORDER[b.tier ?? "C"] ?? 9))
   .slice(0, 6);
 
-// WebSite + ItemList JSON-LD so Google rich results have something to chew
-// on for the root page.
+// ---------- "This Week's Pulse": freshness signal ----------
+// Pulls the 3 newest *substantive* items across guides/boss/news to prove
+// the site is alive (Game8 / Mobalytics's #1 signal is "updated today").
+type AnyEntry =
+  | (CollectionEntry<"guides"> & { _kind: "guides" })
+  | (CollectionEntry<"boss"> & { _kind: "boss" })
+  | (CollectionEntry<"news"> & { _kind: "news" });
+const allArticles: AnyEntry[] = [
+  ...guides.map((e) => ({ ...e, _kind: "guides" as const })),
+  ...boss.map((e) => ({ ...e, _kind: "boss" as const })),
+  ...news.map((e) => ({ ...e, _kind: "news" as const })),
+].filter(ok);
+const byDateDesc = (a: AnyEntry, b: AnyEntry) =>
+  Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || "");
+const pulse = [...allArticles].sort(byDateDesc).slice(0, 3);
+
+// ---------- "Best Of" (affiliate gateway): comparison articles ----------
+// article_type === 'comparison' is the convention we use for affiliate
+// round-ups. They go through the same QA gate as everything else.
+const affiliateRoundups = guides
+  .filter((g) => g.data.article_type === "comparison" && ok(g))
+  .sort((a, b) => Date.parse(b.data.published_at || "") - Date.parse(a.data.published_at || ""))
+  .slice(0, 4);
+
+// ---------- Per-Game Hubs ----------
+const GAMES: { code: string; label: string; tagline: string }[] = [
+  { code: "nte",     label: "NTE",     tagline: "Neverness to Everness" },
+  { code: "hsr",     label: "HSR",     tagline: "Honkai: Star Rail" },
+  { code: "genshin", label: "Genshin", tagline: "Genshin Impact" },
+  { code: "zzz",     label: "ZZZ",     tagline: "Zenless Zone Zero" },
+  { code: "wuwa",    label: "WuWa",    tagline: "Wuthering Waves" },
+];
+function gameOf(e: { data: { game?: string } }) {
+  return (e.data.game || "nte").toLowerCase();
+}
+const gameHubs = GAMES.map((g) => {
+  const gameCharacters = dedupedCharacters
+    .filter((c) => gameOf(c) === g.code)
+    .sort((a, b) =>
+      (TIER_ORDER[a.data.character_data?.tier ?? "C"] ?? 9) -
+      (TIER_ORDER[b.data.character_data?.tier ?? "C"] ?? 9)
+    );
+  const flagshipChar = gameCharacters[0] || null;
+  const topTier = gameCharacters.slice(0, 5);
+  const gameGuides = allArticles
+    .filter((e) => gameOf(e) === g.code)
+    .sort(byDateDesc)
+    .slice(0, 3);
+  const hasAny = !!flagshipChar || gameGuides.length > 0;
+  return { ...g, flagshipChar, topTier, gameGuides, hasAny };
+}).filter((h) => h.hasAny);  // hide hubs with nothing yet (avoid empty strips)
+
+// ---------- Editor's Picks ----------
+// Hardcoded list of slugs we want to feature. Lives in code (not DB) so we
+// can audit the homepage by reading the file. Add/remove by editing this
+// array — any slug that doesn't resolve is silently skipped.
+const EDITORS_PICKS_SLUGS = [
+  // Add your hand-picked slugs here. Until populated, falls back to top-3
+  // by qa_score from any collection.
+];
+const editorsPicks = EDITORS_PICKS_SLUGS.length
+  ? EDITORS_PICKS_SLUGS
+      .map((s) => allArticles.find((a) => a.slug === s) || dedupedCharacters.find((c) => c.slug === s))
+      .filter(Boolean)
+  : [...allArticles]
+      .filter((a) => (a.data.qa_score ?? 0) >= 7.5)
+      .sort((a, b) => (b.data.qa_score ?? 0) - (a.data.qa_score ?? 0))
+      .slice(0, 3);
+
+// ---------- JSON-LD ----------
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
@@ -76,7 +135,7 @@ const jsonLd = {
     {
       "@type": "ItemList",
       name: "Featured characters",
-      itemListElement: featuredCharacters.slice(0, 6).map((c, i) => ({
+      itemListElement: featuredCharacters.map((c, i) => ({
         "@type": "ListItem",
         position: i + 1,
         url: `https://ntecodex.com/characters/${c.slug}/`,
@@ -85,6 +144,17 @@ const jsonLd = {
     },
   ],
 };
+
+// Helper to resolve any article-like entry's URL (different collections
+// route to different /<dir>/<slug> paths).
+function urlOf(e: any): string {
+  if (e._kind === "guides")     return `/guides/${e.slug}`;
+  if (e._kind === "boss")       return `/boss/${e.slug}`;
+  if (e._kind === "news")       return `/news/${e.slug}`;
+  if (e.data?.character_data)   return `/characters/${e.slug}`;
+  if (e.data?.published_url)    return e.data.published_url;
+  return `/guides/${e.slug}`;
+}
 ---
 
 <BaseLayout
@@ -92,18 +162,29 @@ const jsonLd = {
   description="Daily-updated guides for Wuthering Waves, Zenless Zone Zero, Honkai: Star Rail, Genshin Impact, Neverness to Everness and more. Tier lists, builds, banners, boss strategies."
   jsonLd={jsonLd}
 >
-  <!-- Hero -->
+  <!-- ============================ HERO ============================ -->
   <section class="relative -mx-4 sm:-mx-6 lg:-mx-8 overflow-hidden bg-hero-gradient">
-    <div class="container-page py-10 md:py-16 text-center">
+    <div class="container-page py-12 md:py-20 text-center">
       <p class="text-xs font-semibold uppercase tracking-[0.2em] text-primary-300">
-        Multi-game gacha strategy hub
+        Multi-game gacha strategy hub · Updated daily
       </p>
       <h1 class="mt-3 mx-auto max-w-3xl bg-gradient-to-b from-white to-primary-200 bg-clip-text text-transparent">
         Master every gacha game.
       </h1>
       <p class="mt-4 mx-auto max-w-2xl text-lg text-gray-300">
-        Tier lists, builds, banners and boss strategies for popular gacha games — updated daily by the editorial team.
+        Tier lists, builds, banners and boss strategies for five major gacha titles —
+        researched against official patch notes and verified community data.
       </p>
+
+      {/* Game badges so users immediately see what's covered without scrolling. */}
+      <div class="mt-6 flex flex-wrap items-center justify-center gap-2">
+        {GAMES.map((g) => (
+          <span class="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-gray-300">
+            {g.label}
+          </span>
+        ))}
+      </div>
+
       <div class="mt-7 flex flex-wrap items-center justify-center gap-3">
         <a href="/tier-list"
            class="rounded-lg bg-primary-600 px-5 py-2.5 font-semibold text-white shadow-glow-primary no-underline hover:bg-primary-500">
@@ -113,39 +194,158 @@ const jsonLd = {
            class="rounded-lg border border-white/10 px-5 py-2.5 font-semibold text-gray-200 no-underline hover:bg-white/5">
           Browse Guides
         </a>
+        <button type="button" data-open-search
+                class="rounded-lg border border-white/10 px-5 py-2.5 font-semibold text-gray-300 no-underline hover:bg-white/5">
+          <span class="mr-1">/</span> Search
+        </button>
       </div>
     </div>
   </section>
 
-  <!-- Featured characters -->
-  <section class="mt-16">
-    <div class="flex items-end justify-between">
-      <h2 class="m-0">Featured Characters</h2>
-      <a href="/characters" class="text-sm text-primary-300 hover:text-primary-200 no-underline">View all →</a>
-    </div>
-    {featuredCharacters.length > 0 ? (
+  <!-- ======================== THIS WEEK'S PULSE ======================== -->
+  {pulse.length > 0 && (
+    <section class="mt-14">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">Live · Updated daily</p>
+          <h2 class="m-0 mt-1">This Week's Pulse</h2>
+        </div>
+        <a href="/guides" class="text-sm text-primary-300 hover:text-primary-200 no-underline">Latest →</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-3">
+        {pulse.map((e) => (
+          <ArticleCard
+            href={urlOf(e)}
+            title={e.data.title}
+            articleType={e.data.article_type}
+            wordCount={e.data.word_count}
+            publishedAt={e.data.published_at}
+            heroImage={e.data.hero_image}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- ======================= FEATURED CHARACTERS ======================= -->
+  {featuredCharacters.length > 0 && (
+    <section class="mt-16">
+      <div class="flex items-end justify-between">
+        <h2 class="m-0">Featured Characters</h2>
+        <a href="/characters" class="text-sm text-primary-300 hover:text-primary-200 no-underline">View all →</a>
+      </div>
       <div class="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {featuredCharacters.map((c) => <CharacterCard {...c} />)}
       </div>
-    ) : (
-      <p class="mt-4 text-gray-500">Character database is just getting started — check back soon.</p>
-    )}
-  </section>
+    </section>
+  )}
 
+  <!-- ============================ GAME HUBS ============================ -->
+  {gameHubs.length > 1 && (
+    <section class="mt-20 space-y-12">
+      <div>
+        <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">By game</p>
+        <h2 class="m-0 mt-1">Game Hubs</h2>
+      </div>
 
-  <!-- Recent articles -->
-  <section class="mt-16">
-    <div class="flex items-end justify-between">
-      <h2 class="m-0">Latest Guides</h2>
-      <a href="/guides" class="text-sm text-primary-300 hover:text-primary-200 no-underline">All guides →</a>
-    </div>
-    {recent.length > 0 ? (
-      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {recent.map((e) => (
+      {gameHubs.map((hub) => (
+        <div class="rounded-2xl border border-white/5 bg-bg-soft/30 p-6">
+          <header class="mb-5 flex items-baseline justify-between">
+            <div>
+              <span class="inline-block rounded-md bg-primary-700/30 px-2 py-0.5 text-xs font-bold uppercase text-primary-100">
+                {hub.label}
+              </span>
+              <span class="ml-2 text-sm text-gray-400">{hub.tagline}</span>
+            </div>
+            <a href={`/characters?game=${hub.code}`}
+               class="text-sm text-primary-300 hover:text-primary-200 no-underline">
+              All {hub.label} →
+            </a>
+          </header>
+
+          <div class="grid gap-5 lg:grid-cols-[2fr_3fr]">
+            {/* Left: flagship character (most authoritative page for this game). */}
+            {hub.flagshipChar && (
+              <a href={`/characters/${hub.flagshipChar.slug}`} class="block no-underline group">
+                <article class="card h-full">
+                  {hub.flagshipChar.data.hero_image && (
+                    <img src={hub.flagshipChar.data.hero_image}
+                         alt=""
+                         width="640" height="360"
+                         loading="lazy" decoding="async"
+                         class="mb-3 aspect-video w-full rounded-lg object-cover" />
+                  )}
+                  <p class="m-0 text-xs uppercase tracking-wider text-primary-300">
+                    Top pick · Tier {hub.flagshipChar.data.character_data?.tier || "—"}
+                  </p>
+                  <h3 class="mt-2 mb-0 text-lg text-white group-hover:text-primary-200">
+                    {hub.flagshipChar.data.title}
+                  </h3>
+                </article>
+              </a>
+            )}
+
+            {/* Right: top-5 tier snippet + recent guides for this game. */}
+            <div class="flex flex-col gap-4">
+              {hub.topTier.length > 0 && (
+                <div>
+                  <p class="m-0 text-xs uppercase tracking-wider text-gray-500">Tier S+/S</p>
+                  <ul class="m-0 mt-2 grid grid-cols-2 gap-1.5 list-none p-0 text-sm">
+                    {hub.topTier.map((c) => (
+                      <li>
+                        <a href={`/characters/${c.slug}`}
+                           class="block rounded px-2 py-1 text-gray-300 no-underline hover:bg-primary-500/10 hover:text-primary-200">
+                          <span class="font-mono text-xs text-amber-400 mr-1.5">
+                            {c.data.character_data?.tier || "?"}
+                          </span>
+                          {c.data.character_data?.character_id || c.data.title.split(":")[0]}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {hub.gameGuides.length > 0 && (
+                <div>
+                  <p class="m-0 text-xs uppercase tracking-wider text-gray-500">Recent guides</p>
+                  <ul class="m-0 mt-2 list-none p-0 space-y-1.5 text-sm">
+                    {hub.gameGuides.map((g) => (
+                      <li>
+                        <a href={urlOf(g)}
+                           class="block rounded px-2 py-1 text-gray-300 no-underline hover:bg-primary-500/10 hover:text-primary-200">
+                          <span class="text-xs uppercase tracking-wider text-primary-300/70 mr-2">
+                            {g.data.article_type.replace("_", " ")}
+                          </span>
+                          {g.data.title}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </section>
+  )}
+
+  <!-- =========================== EDITOR'S PICKS =========================== -->
+  {editorsPicks.length > 0 && (
+    <section class="mt-20">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">Top reads</p>
+          <h2 class="m-0 mt-1">Editor's Picks</h2>
+        </div>
+      </div>
+      <div class="mt-5 grid gap-5 md:grid-cols-3">
+        {editorsPicks.map((e: any) => (
           <ArticleCard
-            href={e.href}
+            href={urlOf(e)}
             title={e.data.title}
-            articleType={e.data.article_type}
+            articleType={e.data.article_type || "build"}
             qaScore={e.data.qa_score}
             wordCount={e.data.word_count}
             publishedAt={e.data.published_at}
@@ -153,8 +353,132 @@ const jsonLd = {
           />
         ))}
       </div>
-    ) : (
-      <p class="mt-4 text-gray-500">No guides yet.</p>
-    )}
+    </section>
+  )}
+
+  <!-- ==================== BEST OF (AFFILIATE GATEWAY) ==================== -->
+  {affiliateRoundups.length > 0 && (
+    <section class="mt-20">
+      <div class="flex items-end justify-between">
+        <div>
+          <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">
+            Gear we recommend
+          </p>
+          <h2 class="m-0 mt-1">Best Gear for Long Sessions</h2>
+          <p class="m-0 mt-2 text-sm text-gray-400 max-w-2xl">
+            Round-up reviews of gaming peripherals tested against real long-session play.
+            Contains affiliate links — see our <a href="/affiliate-disclosure" class="underline">disclosure</a>.
+          </p>
+        </div>
+        <a href="/guides" class="text-sm text-primary-300 hover:text-primary-200 no-underline">More reviews →</a>
+      </div>
+      <div class="mt-5 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        {affiliateRoundups.map((g) => (
+          <ArticleCard
+            href={`/guides/${g.slug}`}
+            title={g.data.title}
+            articleType="comparison"
+            wordCount={g.data.word_count}
+            publishedAt={g.data.published_at}
+            heroImage={g.data.hero_image}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- ======================== RECENT DISCUSSIONS ======================== -->
+  <section class="mt-20" data-recent-discussions>
+    <div class="flex items-end justify-between">
+      <div>
+        <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">Community</p>
+        <h2 class="m-0 mt-1">Recent Discussions</h2>
+      </div>
+    </div>
+    <div class="mt-5 rounded-xl border border-white/5 bg-bg-soft/20 p-6">
+      <ul class="m-0 list-none p-0 divide-y divide-white/5" data-recent-list>
+        <li class="py-3 text-sm text-gray-500">Loading recent comments…</li>
+      </ul>
+    </div>
+    <script is:inline>
+      (async function () {
+        const list = document.querySelector("[data-recent-list]");
+        if (!list) return;
+        try {
+          const r = await fetch("/api/comments?recent=1");
+          if (!r.ok) throw new Error("non-200");
+          const { items } = await r.json();
+          if (!items || items.length === 0) {
+            list.innerHTML =
+              '<li class="py-3 text-sm text-gray-500">No discussions yet — be the first on any article page.</li>';
+            return;
+          }
+          const fmt = (s) => {
+            try {
+              const d = new Date(s);
+              const diff = Date.now() - d.getTime();
+              const h = Math.floor(diff / 36e5);
+              if (h < 1) return "just now";
+              if (h < 24) return h + "h ago";
+              return Math.floor(h / 24) + "d ago";
+            } catch { return ""; }
+          };
+          const esc = (s) => (s || "").replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+          list.innerHTML = items.map((it) => `
+            <li class="py-3">
+              <a href="/${it.article_slug.split("/")[0] === "guides" || it.article_slug.split("/")[0] === "boss" || it.article_slug.split("/")[0] === "characters" || it.article_slug.split("/")[0] === "weapons" || it.article_slug.split("/")[0] === "news" ? it.article_slug : "guides/" + it.article_slug}"
+                 class="block no-underline group">
+                <div class="flex items-baseline gap-2 text-xs text-gray-500">
+                  <span class="text-primary-300 font-medium">${esc(it.user_name) || "Anonymous"}</span>
+                  <span>·</span>
+                  <span>${fmt(it.created_at)}</span>
+                </div>
+                <p class="m-0 mt-1 text-sm text-gray-300 group-hover:text-white line-clamp-2">${esc(it.content)}</p>
+              </a>
+            </li>
+          `).join("");
+        } catch {
+          list.innerHTML =
+            '<li class="py-3 text-sm text-gray-500">Discussion feed temporarily unavailable.</li>';
+        }
+      })();
+    </script>
   </section>
+
+  <!-- ========================== NEWSLETTER ========================== -->
+  <section class="mt-20 mb-12">
+    <div class="rounded-2xl border border-primary-400/20 bg-gradient-to-br from-primary-900/30 via-bg-soft/40 to-bg-soft/40 p-8 md:p-10">
+      <div class="max-w-2xl">
+        <p class="m-0 text-xs font-semibold uppercase tracking-wider text-primary-300">Weekly digest</p>
+        <h2 class="m-0 mt-1">The 5-minute gacha meta brief.</h2>
+        <p class="mt-3 text-gray-300">
+          One email every Friday — banner schedule, tier shifts, patch headlines.
+          No spam, no AI fluff, no third-party data sharing. Unsubscribe in one click.
+        </p>
+        <form action="https://buttondown.email/api/emails/embed-subscribe/gachacodex"
+              method="post"
+              target="popupwindow"
+              onsubmit="window.open('https://buttondown.email/gachacodex', 'popupwindow')"
+              class="mt-5 flex flex-col gap-3 sm:flex-row">
+          <input type="email" name="email" required
+                 placeholder="you@example.com"
+                 class="flex-1 rounded-lg border border-white/10 bg-bg/60 px-4 py-2.5 text-gray-100 placeholder-gray-500 focus:border-primary-400 focus:outline-none" />
+          <button type="submit"
+                  class="rounded-lg bg-primary-600 px-6 py-2.5 font-semibold text-white hover:bg-primary-500">
+            Subscribe
+          </button>
+        </form>
+        <p class="mt-3 text-xs text-gray-500">
+          Powered by Buttondown · See our <a href="/privacy" class="underline">privacy policy</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    // Wire hero "Search" button to the global Search component in the header.
+    document.querySelector("[data-open-search]")?.addEventListener("click", () => {
+      document.querySelector("[data-search-trigger]")?.click();
+    });
+  </script>
 </BaseLayout>
