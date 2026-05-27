@@ -12,15 +12,12 @@ sources:
   - https://www.rtings.com/chair
   - https://www.reddit.com/r/ergonomics/wiki/index
   - https://www.tomshardware.com/reviews/gaming-chair-buying-guide
-affiliate: true
+affiliate: false  # ASINs/links pending Amazon Associates approval + manual verification
 quick_answer: "For most gacha players running 3+ hour sessions, the Secretlab TITAN Evo 2024 hits the best balance of adjustability, lumbar support and 5-year warranty for the money. If your budget is under $300, the Razer Iskur Essentials is the strongest pick we tested; for taller players (6'2\" and up), the Herman Miller Sayl is the long-term answer."
 products:
   - name: "Secretlab TITAN Evo 2024 (Regular)"
-    asin: "B0B5DPVR4M"
-    image: "https://m.media-amazon.com/images/I/61eYqU3UmZL._AC_SL1500_.jpg"
     price_usd: 549
-    rating: 4.6
-    review_count: 18420
+    # rating and review_count omitted pending verified data
     best_for: "Most players, all body types"
     pros:
       - "Magnetic memory-foam head pillow + 4-way adjustable lumbar"
@@ -31,11 +28,8 @@ products:
       - "Premium price; sales drop it to ~$429 every few months"
     verdict: "The default pick — the chair every RTINGS / Wirecutter / Tom's Hardware long-term review converges on for a reason. The lumbar L-Adapt does real work after hour two; the leatherette NEO Hybrid wears noticeably better than the older Prime PU."
   - name: "Razer Iskur Essentials"
-    asin: "B0B1V8L5J7"
-    image: "https://m.media-amazon.com/images/I/61C5x6gA6mL._AC_SL1500_.jpg"
     price_usd: 299
-    rating: 4.4
-    review_count: 5210
+    # rating and review_count omitted pending verified data
     best_for: "Under $300"
     pros:
       - "Built-in adjustable lumbar arch — rare at this price"
@@ -46,11 +40,8 @@ products:
       - "Best fit ends around 6'2\"; taller players should size up"
     verdict: "Strips Razer's flagship Iskur down to the bones that matter. The lumbar mechanism is the only sub-$300 design we found that doesn't feel gimmicky after a week."
   - name: "Herman Miller Sayl"
-    asin: "B07T4WLN8J"
-    image: "https://m.media-amazon.com/images/I/51WPnNh7XEL._AC_SL1500_.jpg"
     price_usd: 695
-    rating: 4.5
-    review_count: 1340
+    # rating and review_count omitted pending verified data
     best_for: "Tall players (6'2\"+) and long-term value"
     pros:
       - "12-year warranty — longest in the office-chair market"
@@ -61,11 +52,8 @@ products:
       - "Premium price even on sale; no Black Friday discounts"
     verdict: "Not strictly a gaming chair, but the right answer for anyone who treats their desk as a 10-hour workstation. The Sayl's frameless back is the closest you'll get to feeling unsupported in a good way — no pressure points after eight hours."
   - name: "AutoFull C3"
-    asin: "B07CTYS1WV"
-    image: "https://m.media-amazon.com/images/I/71MNgIxlMNL._AC_SL1500_.jpg"
     price_usd: 249
-    rating: 4.5
-    review_count: 11030
+    # rating and review_count omitted pending verified data
     best_for: "Budget pick under $250"
     pros:
       - "Cold-cure foam holds shape past the 1-year mark"
@@ -76,11 +64,8 @@ products:
       - "Lumbar pillow is removable, not built-in"
     verdict: "Best buy at the $200-250 band. Don't expect it to outlast the Secretlab, but for the price you're paying ~$10/month over a 2-year life — fair trade."
   - name: "Steelcase Leap V2 (Refurbished)"
-    asin: "B07P5K4M89"
-    image: "https://m.media-amazon.com/images/I/61pTfeg4cCL._AC_SL1500_.jpg"
     price_usd: 459
-    rating: 4.7
-    review_count: 890
+    # rating and review_count omitted pending verified data
     best_for: "Wirecutter-recommended ergonomic pick"
     pros:
       - "LiveBack technology mirrors spine movement in real time"
