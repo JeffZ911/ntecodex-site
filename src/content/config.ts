@@ -42,7 +42,7 @@ const baseFrontmatter = {
     .array(
       z.object({
         name: z.string(),
-        asin: z.string().optional(),
+        asin: z.string().nullable().optional(),
         image: z.string().optional(),
         price_usd: z.number().optional(),
         rating: z.number().optional(),
@@ -52,7 +52,7 @@ const baseFrontmatter = {
         best_for: z.string().optional(),
         affiliate_url: z.string().optional(),
         verdict: z.string().optional(),
-      })
+      }).passthrough()
     )
     .optional(),
 };
