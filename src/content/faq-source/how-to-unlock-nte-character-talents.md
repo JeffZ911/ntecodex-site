@@ -43,34 +43,34 @@ Mastering character progression in Hethereau requires more than just leveling up
 ![Question Restated](/img/how-to-unlock-nte-character-talents/inline-1.webp)
 
 
-Understanding character talents is the most important step in building a viable team in [Neverness to Everness](https://mobalytics.gg/neverness-to-everness/esper-system-guide/). Often referred to by players as "talents," these are officially known as [Esper Abilities](https://mobalytics.gg/neverness-to-everness/esper-system-guide/), which represent the supernatural powers characters use to interact with anomalies.
+Understanding character talents is the most important step in building a viable team in Neverness to Everness. Often referred to by players as "talents," these are officially known as Esper Abilities, which represent the supernatural powers characters use to interact with anomalies.
 
 ### Understanding the Esper Ability System
-In NTE, every character belongs to one of six elemental types: [Lakshana](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Gold/Order), [Cosmos](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Silver/Light), [Anima](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Green/Life), [Incantation](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Red/Force), [Chaos](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Purple/Dark), and [Psyche](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) (Azure/Mind). Character talents are not just stat boosts; they are the [backbone of the combat system](https://neverness.gg/neverness-to-everness-element-guide-esper-cycle-explained/), dictating how your characters react with one another on the [Esper Wheel](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/).
+In NTE, every character belongs to one of six elemental types: Lakshana (Gold/Order), Cosmos (Silver/Light), Anima (Green/Life), Incantation (Red/Force), Chaos (Purple/Dark), and Psyche (Azure/Mind). Character talents are not just stat boosts; they are the backbone of the combat system, dictating how your characters react with one another on the Esper Wheel.
 
 ### Talents vs. Skills in NTE
-It is easy to confuse standard skills with talents. In NTE, [skills and ultimates](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) are active buttons you press to deal damage and fill the [Esper Meter](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/). Talents, specifically the [Esper Ability](https://mobalytics.gg/neverness-to-everness/esper-system-guide/), are the unique effects triggered when you swap a character onto the field with a full meter. Upgrading these talents improves the [skill multiplier values](https://gamewith.net/neverness-to-everness/character-progression-guide/), allowing them to scale better with your character's base stats.
+It is easy to confuse standard skills with talents. In NTE, skills and ultimates are active buttons you press to deal damage and fill the Esper Meter. Talents, specifically the Esper Ability, are the unique effects triggered when you swap a character onto the field with a full meter. Upgrading these talents improves the skill multiplier values, allowing them to scale better with your character's base stats.
 
-To access the progression menu, you must navigate to the [Character Details](https://gamewith.net/neverness-to-everness/awakening-guide/) screen and select the "Esper Ability" tab. Here, you can view the current level of your character's swap-in attacks and passive enhancements. Advanced passive talents, known as [Cycle Enhancements](https://mobalytics.gg/neverness-to-everness/esper-system-guide/), are gated behind specific [Ascension levels](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/), meaning you cannot fully maximize a character's utility until you have pushed their level cap significantly.
+To access the progression menu, you must navigate to the Character Details screen and select the "Esper Ability" tab. Here, you can view the current level of your character's swap-in attacks and passive enhancements. Advanced passive talents, known as Cycle Enhancements, are gated behind specific Ascension levels, meaning you cannot fully maximize a character's utility until you have pushed their level cap significantly.
 
 ## Direct Answer
 
 ![Direct Answer](/img/how-to-unlock-nte-character-talents/inline-2.webp)
 
 
-Character talents, or Esper Abilities, are unlocked via the [Esper Ability tab](https://gamewith.net/neverness-to-everness/character-progression-guide/) in the Character Details menu. While basic skill upgrades are available early on, their maximum level is strictly capped by the character's current level and [Ascension tier](https://insider-gaming.com/how-to-ascend-characters-raise-hunter-rank-in-neverness-to-everness/). Advanced passives and [Cycle Enhancements](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) specifically require the character to reach [Ascension Level 2](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/).
+Character talents, or Esper Abilities, are unlocked via the Esper Ability tab in the Character Details menu. While basic skill upgrades are available early on, their maximum level is strictly capped by the character's current level and Ascension tier. Advanced passives and Cycle Enhancements specifically require the character to reach Ascension Level 2.
 
-Upgrading these talents requires a combination of [Beetle Coins](https://prydwen.gg/neverness-to-everness/guides/game-modes/) (the standard currency) and [Esper Ability Progression Materials](https://neverness.gg/all-upgrade-and-ascension-materials/) like [The Olive Branch](https://neverness.gg/all-upgrade-and-ascension-materials/) or [White Rose](https://neverness.gg/all-upgrade-and-ascension-materials/). Furthermore, the [Awakening system](https://gamewith.net/neverness-to-everness/awakening-guide/) provides a secondary path for talent progression. By using [Mind Shards](https://gamewith.net/neverness-to-everness/awakening-guide/) obtained from duplicate pulls in the [Scarborough Fair](https://kaiden.gg/neverness-to-everness/gacha-system-launch-rewards-guide/) gacha, players can unlock up to six levels of unique character-specific talents, including powerful [Resonance effects](https://gamewith.net/neverness-to-everness/awakening-guide/) at Awakening levels 3 and 6.
+Upgrading these talents requires a combination of Beetle Coins (the standard currency) and Esper Ability Progression Materials like The Olive Branch or White Rose. Furthermore, the Awakening system provides a secondary path for talent progression. By using Mind Shards obtained from duplicate pulls in the Scarborough Fair gacha, players can unlock up to six levels of unique character-specific talents, including powerful Resonance effects at Awakening levels 3 and 6.
 
 ### Quick Summary of Unlock Requirements
 
 | Feature | Requirement | Primary Resource |
 | :--- | :--- | :--- |
 | **Basic Skill Upgrades** | Character Level 1+ | Beetle Coins + Standard Materials |
-| **Ascension Unlock** | [Hunter Rank 10](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/) | [Hunter's Manuals](https://gamewith.net/neverness-to-everness/character-progression-guide/) + Boss Drops |
-| **Cycle Enhancements** | [Ascension Level 2](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/) | [The Olive Branch](https://neverness.gg/all-upgrade-and-ascension-materials/) / [White Rose](https://neverness.gg/all-upgrade-and-ascension-materials/) |
-| **Awakening Talents** | Character Duplicates | [Mind Shards](https://gamewith.net/neverness-to-everness/awakening-guide/) |
-| **Resonance Effects** | Awakening 3 & 6 | [Mind Shards](https://niveaumax.com/nte-awakening-guide-full-character-power-up-system/) |
+| **Ascension Unlock** | Hunter Rank 10 | Hunter's Manuals + Boss Drops |
+| **Cycle Enhancements** | Ascension Level 2 | The Olive Branch / White Rose |
+| **Awakening Talents** | Character Duplicates | Mind Shards |
+| **Resonance Effects** | Awakening 3 & 6 | Mind Shards |
 
 ## Detailed Explanation
 
@@ -80,33 +80,33 @@ Upgrading these talents requires a combination of [Beetle Coins](https://prydwen
 The talent progression in Neverness to Everness is a multi-layered system that ties your combat effectiveness directly to your world progression and resource management.
 
 ### The Connection Between Ascension and Talents
-You cannot upgrade talents indefinitely from the start. Your character's [level cap](https://insider-gaming.com/how-to-ascend-characters-raise-hunter-rank-in-neverness-to-everness/) is dictated by their Ascension level. To even begin the Ascension process, you must reach [Hunter Rank 10](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/). Once unlocked, you must use [Breakthrough Materials](https://topuplive.com/neverness-to-everness-beginner-guide-materials/) and [boss drops](https://neverness.gg/all-upgrade-and-ascension-materials/) to push past level walls (such as level 20 or 40). Each Ascension tier not only raises base stats like ATK and HP but also [increases the maximum level](https://gamewith.net/neverness-to-everness/character-progression-guide/) your Esper Abilities can reach.
+You cannot upgrade talents indefinitely from the start. Your character's level cap is dictated by their Ascension level. To even begin the Ascension process, you must reach Hunter Rank 10. Once unlocked, you must use Breakthrough Materials and boss drops to push past level walls (such as level 20 or 40). Each Ascension tier not only raises base stats like ATK and HP but also increases the maximum level your Esper Abilities can reach.
 
 ### Where to Farm Talent Materials (Houdinii’s Schemes)
-To upgrade the multipliers on your talents, you must farm specific instances. The most common source for [Esper Ability progression materials](https://neverness.gg/all-upgrade-and-ascension-materials/) is [Houdinii’s Schemes](https://prydwen.gg/neverness-to-everness/guides/game-modes/), a series of combat challenges that cost [40 Pixels](https://prydwen.gg/neverness-to-everness/guides/game-modes/) (stamina) per run.
-*   **Low-tier materials:** Items like [The Olive Branch](https://neverness.gg/all-upgrade-and-ascension-materials/) and [White Rose](https://neverness.gg/all-upgrade-and-ascension-materials/) are found in early stages of Houdinii's Schemes.
-*   **High-tier materials:** For late-game talent levels, you will need [boss drops](https://neverness.gg/all-upgrade-and-ascension-materials/) obtained from [Anomaly Pilgrimages](https://prydwen.gg/neverness-to-everness/guides/game-modes/), which are limited-entry weekly bosses.
-*   **Alternative sources:** You can also purchase materials from the [Hunter Exchange](https://neverness.gg/all-upgrade-and-ascension-materials/) using currency earned from various city activities.
+To upgrade the multipliers on your talents, you must farm specific instances. The most common source for Esper Ability progression materials is Houdinii’s Schemes, a series of combat challenges that cost 40 Pixels (stamina) per run.
+*   **Low-tier materials:** Items like The Olive Branch and White Rose are found in early stages of Houdinii's Schemes.
+*   **High-tier materials:** For late-game talent levels, you will need boss drops obtained from Anomaly Pilgrimages, which are limited-entry weekly bosses.
+*   **Alternative sources:** You can also purchase materials from the Hunter Exchange using currency earned from various city activities.
 
 ### Unlocking Passives via the Awakening System
-The [Awakening system](https://gamewith.net/neverness-to-everness/awakening-guide/) is a separate talent tree that enhances a character's core mechanics. When you pull a duplicate character from [The Fair](https://kaiden.gg/neverness-to-everness/gacha-system-launch-rewards-guide/) summoning system, it is converted into a [Mind Shard](https://gamewith.net/neverness-to-everness/awakening-guide/). 
-Unlike many other gacha games, NTE allows for [free node selection](https://kaiden.gg/neverness-to-everness/gacha-system-launch-rewards-guide/), meaning you can choose which Awakening bonus to activate first. At [Awakening 3 and Awakening 6](https://gamewith.net/neverness-to-everness/awakening-guide/), characters unlock "Resonance" effects, which often provide massive [damage multipliers or cooldown reductions](https://gamewith.net/neverness-to-everness/character-progression-guide/). For example, reaching [Awakening 6](https://niveaumax.com/nte-awakening-guide-full-character-power-up-system/) on a main DPS can often double their damage output.
+The Awakening system is a separate talent tree that enhances a character's core mechanics. When you pull a duplicate character from The Fair summoning system, it is converted into a Mind Shard. 
+Unlike many other gacha games, NTE allows for free node selection, meaning you can choose which Awakening bonus to activate first. At Awakening 3 and Awakening 6, characters unlock "Resonance" effects, which often provide massive damage multipliers or cooldown reductions. For example, reaching Awakening 6 on a main DPS can often double their damage output.
 
 ### The Impact of Appraisal Level on Talent Caps
-Your [Appraisal Level](https://youtube.com/watch?v=PbCbE07d0qia) is the true gatekeeper of talent progression. It is tied directly to your Hunter Level, with your Appraisal Level increasing by [one for every 10 Hunter Levels](https://youtube.com/watch?v=PbCbE07d0qia) you gain. If your Appraisal Level is too low, you cannot perform the next Ascension, which in turn prevents you from leveling your talents further. To increase your Hunter Level quickly, prioritize [main story missions](https://insider-gaming.com/how-to-ascend-characters-raise-hunter-rank-in-neverness-to-everness/) and daily city tasks.
+Your Appraisal Level is the true gatekeeper of talent progression. It is tied directly to your Hunter Level, with your Appraisal Level increasing by one for every 10 Hunter Levels you gain. If your Appraisal Level is too low, you cannot perform the next Ascension, which in turn prevents you from leveling your talents further. To increase your Hunter Level quickly, prioritize main story missions and daily city tasks.
 
 | Resource Priority | Target | Reason |
 | :--- | :--- | :--- |
-| **Main DPS** | Max Talents | Essential for clearing [Anomaly Pilgrimages](https://prydwen.gg/neverness-to-everness/guides/game-modes/). |
-| **Main Support** | Level 4-6 Talents | Focus on [buffing reaction damage](https://mobalytics.gg/neverness-to-everness/esper-system-guide/). |
-| **Sub-DPS** | Level 4-6 Talents | Focus on [off-field damage](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) like Blossom. |
+| **Main DPS** | Max Talents | Essential for clearing Anomaly Pilgrimages. |
+| **Main Support** | Level 4-6 Talents | Focus on buffing reaction damage. |
+| **Sub-DPS** | Level 4-6 Talents | Focus on off-field damage like Blossom. |
 
 ### Esper Cycle Mechanics
-Unlocking [Cycle Enhancements](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) at Ascension 2 is vital because it empowers the [Esper Cycle](https://kaiden.gg/neverness-to-everness/esper-cycles-reactions/) system. These talents allow you to trigger powerful reactions when swapping characters:
-*   **[Blossom](https://neverness.gg/neverness-to-everness-element-guide-esper-cycle-explained/) (Cosmos + Anima):** Spawns an AoE turret that attacks independently.
-*   **[Hexed](https://neverness.gg/neverness-to-everness-element-guide-esper-cycle-explained/) (Anima + Incantation):** Deals bonus damage based on all hits taken by the enemy in the last 12 seconds.
-*   **[Discord](https://youtube.com/watch?v=ZMbW-gyaP35)** (Incantation + Chaos + Psyche): A "boss killer" reaction that deals [absurd stagger damage](https://youtube.com/watch?v=ZMbW-gyaP35) to break meters.
-*   **[Stain](https://youtube.com/watch?v=ZMbW-gyaP35) (Psyche + Lakshana):** Increases the damage taken by the enemy.
+Unlocking Cycle Enhancements at Ascension 2 is vital because it empowers the Esper Cycle system. These talents allow you to trigger powerful reactions when swapping characters:
+*   **Blossom (Cosmos + Anima):** Spawns an AoE turret that attacks independently.
+*   **Hexed (Anima + Incantation):** Deals bonus damage based on all hits taken by the enemy in the last 12 seconds.
+*   **Discord** (Incantation + Chaos + Psyche): A "boss killer" reaction that deals absurd stagger damage to break meters.
+*   **Stain (Psyche + Lakshana):** Increases the damage taken by the enemy.
 
 ## Related
 
@@ -114,15 +114,15 @@ Unlocking [Cycle Enhancements](https://mobalytics.gg/neverness-to-everness/esper
 
 
 ### Increasing Your Appraisal Level
-To keep your talents from hitting a level wall, you must constantly raise your [Appraisal Level](https://youtube.com/watch?v=PbCbE07d0qia). The fastest way to gain the necessary Hunter EXP is by completing [main quests](https://insider-gaming.com/how-to-ascend-characters-raise-hunter-rank-in-neverness-to-everness/) and spending your [daily Pixels](https://prydwen.gg/neverness-to-everness/guides/game-modes/) in Houdinii's Schemes. Exploration also plays a role; finding [Gifts from 21](https://powerpyx.com/nte-all-gift-from-21-locations/) dice icons around Hethereau provides small amounts of upgrade materials and currency.
+To keep your talents from hitting a level wall, you must constantly raise your Appraisal Level. The fastest way to gain the necessary Hunter EXP is by completing main quests and spending your daily Pixels in Houdinii's Schemes. Exploration also plays a role; finding Gifts from 21 dice icons around Hethereau provides small amounts of upgrade materials and currency.
 
 ### Optimizing the City Tycoon for Resources
-The [City Tycoon](https://gamewith.net/neverness-to-everness/how-to-get-chiz-for-free/) system is a management mode where you earn [Fons](https://gamewith.net/neverness-to-everness/how-to-get-chiz-for-free/) to buy property and vehicles. Most importantly, reaching [City Tycoon Level 18](https://thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-free-guide/) unlocks the S-Rank character [Chiz](https://gamewith.net/neverness-to-everness/how-to-get-chiz-for-free/) for free. By continuing to level up your Tycoon Rank to [Level 45](https://thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-free-guide/), you can obtain enough [Mind Shards](https://niveaumax.com/nte-city-tycoon-levels-rewards-and-free-chiz/) to fully Awaken her, effectively maxing out her Awakening talents without spending any premium currency.
+The City Tycoon system is a management mode where you earn Fons to buy property and vehicles. Most importantly, reaching City Tycoon Level 18 unlocks the S-Rank character Chiz for free. By continuing to level up your Tycoon Rank to Level 45, you can obtain enough Mind Shards to fully Awaken her, effectively maxing out her Awakening talents without spending any premium currency.
 
 ### NTE Character Tier List for Talent Investment
-Because [Ascension materials](https://games.gg/neverness-to-everness/how-to-ascend-characters-and-raise-hunter-rank/) are limited in the early game, you should focus your talent investment on top-tier units. [Nanally Coluccis](https://niveaumax.com/nte-awakening-guide-full-character-power-up-system/) and [Jiuyuan](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) are high-priority targets because their passives for the [Blossom reaction](https://mobalytics.gg/neverness-to-everness/esper-system-guide/) stack, even when they are off-field. Investing in their talents early will provide the highest return on investment for your team's total damage output.
+Because Ascension materials are limited in the early game, you should focus your talent investment on top-tier units. Nanally Coluccis and Jiuyuan are high-priority targets because their passives for the Blossom reaction stack, even when they are off-field. Investing in their talents early will provide the highest return on investment for your team's total damage output.
 
-Additionally, ensure your [Arcs](https://gamewith.net/neverness-to-everness/character-progression-guide/) (weapons) are properly ascended. Upgrading an Arc increases a character's [ATK and Break Intensity](https://gamewith.net/neverness-to-everness/character-progression-guide/), which directly influences the effectiveness of the talents you have unlocked. You can obtain [Arc Ascension materials](https://neverness.gg/all-upgrade-and-ascension-materials/) from the [Bubble Can Factory](https://prydwen.gg/neverness-to-everness/guides/game-modes/) using your daily Pixels.
+Additionally, ensure your Arcs (weapons) are properly ascended. Upgrading an Arc increases a character's ATK and Break Intensity, which directly influences the effectiveness of the talents you have unlocked. You can obtain Arc Ascension materials from the Bubble Can Factory using your daily Pixels.
 
 ## Sources
 

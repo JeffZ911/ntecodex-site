@@ -42,32 +42,32 @@ Navigating the supernatural streets of Hethereau requires more than just high-oc
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-25._
 
 
-In the month since the [Neverness to Everness (NTE)](https://www.neverness.gg/nte-upcoming-leaked-characters/) release on April 29, 2026, the meta has rapidly crystallized around high-efficiency supports that can manipulate the battlefield and sustain team rotations. Support units in NTE are not merely healers; they are the engines that drive [Esper Cycle Reactions](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026), enabling powerful duo and trio effects like [Blossom](https://www.kaiden.gg/nte/esper-cycles-reactions/) and [Nova](https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/). This tier list ranks the best support Espers for May 2026, focusing on their utility, buff potency, and synergy within the current endgame anomalies.
+In the month since the Neverness to Everness (NTE) release on April 29, 2026, the meta has rapidly crystallized around high-efficiency supports that can manipulate the battlefield and sustain team rotations. Support units in NTE are not merely healers; they are the engines that drive Esper Cycle Reactions, enabling powerful duo and trio effects like Blossom and Nova. This tier list ranks the best support Espers for May 2026, focusing on their utility, buff potency, and synergy within the current endgame anomalies.
 
 ## Methodology
 
 ![Methodology](/img/nte-support-characters-tier-list/inline-1.webp)
 
 
-To provide an accurate ranking, our evaluation centers on several core pillars that define a support unit's viability in high-difficulty content such as [V-Class Anomaly](https://www.oslink.io/blog/neverness-to-everness-tier-list) containment.
+To provide an accurate ranking, our evaluation centers on several core pillars that define a support unit's viability in high-difficulty content such as V-Class Anomaly containment.
 
 ### Buff Potency and Uptime
-We measure how much a character amplifies the primary DPS's output. This includes flat [ATK% scaling](https://www.memuplay.com/blog/neverness-to-everness-haniel-build-guide.html) and specialized elemental damage bonuses. Uptime is equally critical; a support that can maintain buffs off-field is significantly more valuable than one requiring excessive field time.
+We measure how much a character amplifies the primary DPS's output. This includes flat ATK% scaling and specialized elemental damage bonuses. Uptime is equally critical; a support that can maintain buffs off-field is significantly more valuable than one requiring excessive field time.
 
 ### Crowd Control (CC) and Utility
-In the dense urban environments of Hethereau, [enemy grouping](https://www.gamewith.net/nte/article/show/46566) is essential for efficient AoE (Area of Effect) clears. Characters with "vacuum" or "gravity" mechanics allow DPS units to hit multiple targets simultaneously, drastically reducing clear times in timed challenges.
+In the dense urban environments of Hethereau, enemy grouping is essential for efficient AoE (Area of Effect) clears. Characters with "vacuum" or "gravity" mechanics allow DPS units to hit multiple targets simultaneously, drastically reducing clear times in timed challenges.
 
 ### Esper Cycle Synergy
-The [Esper Cycle system](https://www.mobalytics.gg/nte/guides/esper-cycle-elements) is the backbone of NTE combat. We prioritize characters with a high [Cycle Rate](https://www.kaiden.gg/nte/esper-cycles-reactions/)—the speed at which they fill their [Esper Meter](https://www.mobalytics.gg/nte/guides/esper-cycle-elements)—and those who can consistently trigger high-value reactions.
+The Esper Cycle system is the backbone of NTE combat. We prioritize characters with a high Cycle Rate—the speed at which they fill their Esper Meter—and those who can consistently trigger high-value reactions.
 
 | Reaction Type | Elements Involved | Primary Effect |
 | :--- | :--- | :--- |
-| [Blossom](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) | Cosmos + Anima | Spawns [Vita Buds](https://www.kaiden.gg/nte/esper-cycles-reactions/) that fire [Vita Pistils](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026). |
-| [Nova](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) | Chaos + Psyche | High burst damage and debuff application. |
-| [Scorch](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) | Incantation + Chaos | Massive DoT (Damage over Time) effects. |
-| [Hexed](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) | Anima + Incantation | Debuffs enemy defense and resistance. |
-| [Charge](https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/) | Cosmos + Anima + Lakshana | Rapid [Ultimate Energy](https://www.kaiden.gg/nte/esper-cycles-reactions/) regeneration. |
-| [Discord](https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/) | Chaos + Psyche + Incantation | Massive [Stagger/Break](https://www.mobalytics.gg/nte/guides/esper-cycle-elements) damage. |
+| Blossom | Cosmos + Anima | Spawns Vita Buds that fire Vita Pistils. |
+| Nova | Chaos + Psyche | High burst damage and debuff application. |
+| Scorch | Incantation + Chaos | Massive DoT (Damage over Time) effects. |
+| Hexed | Anima + Incantation | Debuffs enemy defense and resistance. |
+| Charge | Cosmos + Anima + Lakshana | Rapid Ultimate Energy regeneration. |
+| Discord | Chaos + Psyche + Incantation | Massive Stagger/Break damage. |
 
 | Character Rarity | Average Cycle Rate Base | Typical Support Role |
 | :--- | :--- | :--- |
@@ -82,19 +82,19 @@ The [Esper Cycle system](https://www.mobalytics.gg/nte/guides/esper-cycle-elemen
 S-Tier supports are the gold standard of the current meta. These units provide unmatched offensive amplification and defensive utility, often fulfilling multiple roles within a single slot.
 
 ### Sakiri: The Crowd Control Specialist
-[Sakiri](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) remains the undisputed "Vacuum Queen" of Hethereau. As an [Incantation](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) element buffer, her [Devour Hole](https://www.gamewith.net/nte/article/show/46566) skill creates a massive gravitational well that pulls even heavy anomalies into a tight cluster. Her Ultimate, [Feast of Gluttony](https://www.tryspellbound.com/sakiri), provides a team-wide ATK buff that scales based on her current base attack, making her the perfect partner for [Scorch](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) teams.
+Sakiri remains the undisputed "Vacuum Queen" of Hethereau. As an Incantation element buffer, her Devour Hole skill creates a massive gravitational well that pulls even heavy anomalies into a tight cluster. Her Ultimate, Feast of Gluttony, provides a team-wide ATK buff that scales based on her current base attack, making her the perfect partner for Scorch teams.
 
 ### Hotori: The Skill-Mimicry Powerhouse
-The newest addition to the roster, [Hotori](https://www.mobalytics.gg/nte/characters), arrived on May 13, 2026, via the [Misty Tipsy Style](https://www.neverness.gg/nte-banner-current-upcoming/) limited banner. While her element is listed as Cosmos in some database entries, her primary synergy in the current meta is driving [Nova](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) reactions. Her unique mimicry mechanic allows her to record and replay the skills of her allies, effectively doubling the utility output of your team. This makes her invaluable for doubling down on healing or high-damage burst skills.
+The newest addition to the roster, Hotori, arrived on May 13, 2026, via the Misty Tipsy Style limited banner. While her element is listed as Cosmos in some database entries, her primary synergy in the current meta is driving Nova reactions. Her unique mimicry mechanic allows her to record and replay the skills of her allies, effectively doubling the utility output of your team. This makes her invaluable for doubling down on healing or high-damage burst skills.
 
 ### Haniel: The High-Uptime Buffer
-Despite being an [A-Class](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-character-guide-en.html) unit, [Haniel](https://www.icy-veins.com/nte/characters/haniel-build-guide/) is firmly S-Tier due to her accessibility and 100% buff uptime at Awakening 2. As a [Psyche](https://www.memuplay.com/blog/neverness-to-everness-haniel-build-guide.html) element support, she uses her speaker, [Hootie](https://www.memuplay.com/blog/neverness-to-everness-haniel-build-guide.html), to deploy persistent area buffs. Her [Paranormal Ace](https://www.memuplay.com/blog/neverness-to-everness-haniel-build-guide.html) state during her Ultimate ensures that her ATK bonuses remain active throughout the entire duration of a main DPS's burst window.
+Despite being an A-Class unit, Haniel is firmly S-Tier due to her accessibility and 100% buff uptime at Awakening 2. As a Psyche element support, she uses her speaker, Hootie, to deploy persistent area buffs. Her Paranormal Ace state during her Ultimate ensures that her ATK bonuses remain active throughout the entire duration of a main DPS's burst window.
 
 | Character | Element | Weapon/Arc Type | Core Support Effect |
 | :--- | :--- | :--- | :--- |
-| [Sakiri](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) | Incantation | [Gas](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) | 30% ATK Buff + Vacuum CC |
-| [Hotori](https://www.mobalytics.gg/nte/characters/) | Chaos | [Solid](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) | Skill Mimicry + Time Stop |
-| [Haniel](https://www.icy-veins.com/nte/characters/haniel-build-guide/) | Psyche | [Solid](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) | Persistent ATK Aura + Off-field DMG |
+| Sakiri | Incantation | Gas | 30% ATK Buff + Vacuum CC |
+| Hotori | Chaos | Solid | Skill Mimicry + Time Stop |
+| Haniel | Psyche | Solid | Persistent ATK Aura + Off-field DMG |
 
 ## A Tier
 
@@ -104,19 +104,19 @@ Despite being an [A-Class](https://www.bluestacks.com/blog/game-guides/neverness
 A-Tier units are powerful and reliable but may have slightly lower buff ceilings or require specific conditions to match the raw power of S-Tier characters.
 
 ### Fadia: Defensive Redirection
-[Fadia](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) is a premier [Psyche](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) survival unit focused on damage redirection. In high-level "V-Class" fights where enemies can one-shot squishier DPS units, Fadia's ability to [redirect damage](https://www.neonlightsmedia.com/neverness-to-everness-tier-list-best-characters/) to her own health bar is a life-saver. She pairs exceptionally well with [Haniel](https://www.icy-veins.com/nte/characters/haniel-build-guide/) to trigger the [Nova](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) reaction while keeping the team safe.
+Fadia is a premier Psyche survival unit focused on damage redirection. In high-level "V-Class" fights where enemies can one-shot squishier DPS units, Fadia's ability to redirect damage to her own health bar is a life-saver. She pairs exceptionally well with Haniel to trigger the Nova reaction while keeping the team safe.
 
 ### Adler: Reliable Story Sustain
-Obtained early in the [story progression](https://www.vg247.com/neverness-to-everness-free-characters-list/), [Adler](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-character-guide-en.html) is an [Incantation](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) survival character. He provides consistent shields and healing, making him the go-to sustain for F2P players. While his personal damage is low, he triggers [Hexed](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) reactions effectively when paired with Anima DPS units like [Mint](https://www.vg247.com/neverness-to-everness-free-characters-list/).
+Obtained early in the story progression, Adler is an Incantation survival character. He provides consistent shields and healing, making him the go-to sustain for F2P players. While his personal damage is low, he triggers Hexed reactions effectively when paired with Anima DPS units like Mint.
 
 ### Chiz: The Cosmos Utility Flex
-[Chiz](https://www.mobalytics.gg/nte/characters) is often categorized as a damage dealer, but her utility in the [City Tycoon](https://www.mobalytics.gg/nte/characters) progression system and her off-field [Cosmos](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) application make her a versatile flex support. She is particularly useful in [Charge](https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/) teams, where her presence accelerates ultimate energy gain for the entire squad.
+Chiz is often categorized as a damage dealer, but her utility in the City Tycoon progression system and her off-field Cosmos application make her a versatile flex support. She is particularly useful in Charge teams, where her presence accelerates ultimate energy gain for the entire squad.
 
-| Feature | [Fadia](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) | [Adler](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-character-guide-en.html) |
+| Feature | Fadia | Adler |
 | :--- | :--- | :--- |
 | **Element** | Psyche | Incantation |
 | **Primary Utility** | Damage Redirection | Shielding & Healing |
-| **Best Reaction** | [Nova](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) | [Hexed](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) |
+| **Best Reaction** | Nova | Hexed |
 | **Skill Type** | Defensive Tank | Pure Sustain |
 
 ## B Tier
@@ -124,17 +124,17 @@ Obtained early in the [story progression](https://www.vg247.com/neverness-to-eve
 ![B Tier](/img/nte-support-characters-tier-list/inline-4.webp)
 
 
-B-Tier supports are niche or require specific team compositions to be effective. They often fall behind in [Cycle Rate](https://www.kaiden.gg/nte/esper-cycles-reactions/) or offer less universal buffs.
+B-Tier supports are niche or require specific team compositions to be effective. They often fall behind in Cycle Rate or offer less universal buffs.
 
 ### Mint: Anima Synergy Support
-[Mint](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) is primarily an [Anima](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) DPS, but her dual-blade [Blossom](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) synergy with Cosmos units like [Nanally](https://www.neonlightsmedia.com/neverness-to-everness-tier-list-best-characters/) allows her to act as a secondary support. She provides off-field pressure and helps maintain the [Vita Bud](https://www.kaiden.gg/nte/esper-cycles-reactions/) limit, which is essential for maximizing Blossom damage.
+Mint is primarily an Anima DPS, but her dual-blade Blossom synergy with Cosmos units like Nanally allows her to act as a secondary support. She provides off-field pressure and helps maintain the Vita Bud limit, which is essential for maximizing Blossom damage.
 
 ### Skia: Niche Shadow Control
-[Skia](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) offers unique shadow-based crowd control, allowing her to pass through enemies and group them. However, her [Lakshana](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) element currently lacks the high-tier reaction partners found in the Incantation/Psyche meta, often leaving her sidelined for more efficient buffers like [Sakiri](https://www.gamewith.net/nte/article/show/46566).
+Skia offers unique shadow-based crowd control, allowing her to pass through enemies and group them. However, her Lakshana element currently lacks the high-tier reaction partners found in the Incantation/Psyche meta, often leaving her sidelined for more efficient buffers like Sakiri.
 
 **Recommended Team Comps for B-Tier Supports:**
-*   **Blossom Focus:** [Nanally](https://www.neonlightsmedia.com/neverness-to-everness-tier-list-best-characters/) + [Mint](https://www.vg247.com/neverness-to-everness-free-characters-list/) + [Haniel](https://www.icy-veins.com/nte/characters/haniel-build-guide/) + [Chiz](https://www.mobalytics.gg/nte/characters).
-*   **Shadow Control:** [Skia](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) + [Hathor](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) + [Nanally](https://www.neonlightsmedia.com/neverness-to-everness-tier-list-best-characters/) + [Edgar](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list).
+*   **Blossom Focus:** Nanally + Mint + Haniel + Chiz.
+*   **Shadow Control:** Skia + Hathor + Nanally + Edgar.
 
 ## C Tier
 
@@ -144,7 +144,7 @@ B-Tier supports are niche or require specific team compositions to be effective.
 C-Tier characters are generally not recommended for resource investment unless they are your only option for a specific elemental reaction.
 
 ### Edgar: Limited Utility and Scaling
-[Edgar](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-character-guide-en.html) is an [A-Class Cosmos](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) unit that suffers from low utility scaling. His kit is easily outclassed by free units like [Chiz](https://www.mobalytics.gg/nte/characters) or [Haniel](https://www.icy-veins.com/nte/characters/haniel-build-guide/), and he lacks significant team-wide buffs or reliable CC. While he can contribute to [Remora](https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/) reactions, the payoff is rarely worth the slot in a competitive team.
+Edgar is an A-Class Cosmos unit that suffers from low utility scaling. His kit is easily outclassed by free units like Chiz or Haniel, and he lacks significant team-wide buffs or reliable CC. While he can contribute to Remora reactions, the payoff is rarely worth the slot in a competitive team.
 
 ## Recent Changes
 
@@ -154,20 +154,20 @@ C-Tier characters are generally not recommended for resource investment unless t
 The Neverness to Everness meta is constantly shifting as players discover new synergies and the developers release balance updates.
 
 ### Hotori's Impact on the Meta
-The release of [Hotori](https://www.mobalytics.gg/nte/characters) on May 13, 2026, has significantly shifted the meta toward [Nova](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) (Chaos + Psyche) and [Scorch](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) (Incantation + Chaos) reaction teams. Her ability to mimic [Sakiri's](https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/) buffs has created a "double-buffer" meta that allows DPS units to reach unprecedented damage numbers.
+The release of Hotori on May 13, 2026, has significantly shifted the meta toward Nova (Chaos + Psyche) and Scorch (Incantation + Chaos) reaction teams. Her ability to mimic Sakiri's buffs has created a "double-buffer" meta that allows DPS units to reach unprecedented damage numbers.
 
 ### May 2026 Balance Adjustments
-In the [May 21 hotfix](https://www.neverness.gg/nte-version-1-1-release-date/), [Sakiri's](https://www.gamewith.net/nte/article/show/46566) [Feast of Gluttony](https://www.tryspellbound.com/sakiri) received a minor bug fix. This update ensures that her ATK buff correctly snapshots based on her current base attack at the time of casting, preventing issues where the buff would fail to update after internal stat changes. This has solidified her position as the premier offensive support.
+In the May 21 hotfix, Sakiri's Feast of Gluttony received a minor bug fix. This update ensures that her ATK buff correctly snapshots based on her current base attack at the time of casting, preventing issues where the buff would fail to update after internal stat changes. This has solidified her position as the premier offensive support.
 
 ### Future Outlook: Version 1.1 Preview
-Looking ahead, the [Version 1.1 livestream](https://www.neverness.gg/nte-version-1-1-release-date/) has confirmed the upcoming release of [Lacrimosa](https://www.neverness.gg/nte-upcoming-leaked-characters/) (Chaos) and a new character simply named [Chaos](https://www.gamewith.net/nte/article/show/46820) (Lakshana). The addition of a high-tier Lakshana unit is expected to breathe new life into [Stain](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) and [Remora](https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026) teams, potentially pushing characters like [Skia](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) and [Hathor](https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list) into higher tiers.
+Looking ahead, the Version 1.1 livestream has confirmed the upcoming release of Lacrimosa (Chaos) and a new character simply named Chaos (Lakshana). The addition of a high-tier Lakshana unit is expected to breathe new life into Stain and Remora teams, potentially pushing characters like Skia and Hathor into higher tiers.
 
 | Phase | Character | Element | Role | Dates |
 | :--- | :--- | :--- | :--- | :--- |
-| **1.0 Phase 1** | [Nanally](https://www.ldshop.gg/blog/neverness-to-everness/nte-banner-schedule-all-current-upcoming-banners) | Anima | Main DPS | 4/29 - 5/13 |
-| **1.0 Phase 2** | [Hotori](https://www.neverness.gg/nte-banner-current-upcoming/) | Cosmos/Chaos | Support | 5/13 - 6/03 |
-| **1.1 Phase 1** | [Lacrimosa](https://www.neverness.gg/nte-version-1-1-release-date/) | Chaos | Main DPS | 6/03 - 6/24 |
-| **1.1 Phase 2** | [Chaos](https://www.gamewith.net/nte/article/show/46820) | Lakshana | DPS/TBD | 6/24 - 7/08 |
+| **1.0 Phase 1** | Nanally | Anima | Main DPS | 4/29 - 5/13 |
+| **1.0 Phase 2** | Hotori | Cosmos/Chaos | Support | 5/13 - 6/03 |
+| **1.1 Phase 1** | Lacrimosa | Chaos | Main DPS | 6/03 - 6/24 |
+| **1.1 Phase 2** | Chaos | Lakshana | DPS/TBD | 6/24 - 7/08 |
 
 ## Sources
 

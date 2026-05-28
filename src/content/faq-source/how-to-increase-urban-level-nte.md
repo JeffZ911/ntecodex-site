@@ -39,7 +39,7 @@ To earn the powerful S-Rank character Chiz for free, you must master the city ma
 
 # How to Increase Urban Level in Neverness to Everness (NTE)
 
-To increase your Urban Level (officially known as the [City Tycoon Level](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/)), you must spend [City Stamina](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) on Hethereau Hobbies such as racing and deliveries to earn [Fons](https://lootbar.gg/guide/neverness-to-everness-best-fons-farming-guide), then complete specific Tycoon Tasks in the management menu to manually level up.
+To increase your Urban Level (officially known as the City Tycoon Level), you must spend City Stamina on Hethereau Hobbies such as racing and deliveries to earn Fons, then complete specific Tycoon Tasks in the management menu to manually level up.
 
 ## Question Restated
 
@@ -49,32 +49,32 @@ To increase your Urban Level (officially known as the [City Tycoon Level](https:
 Players often confuse their primary account progression with the specialized systems governing life in the city. Understanding the distinction between these levels is the first step toward unlocking end-game rewards.
 
 ### Defining the Urban Level: City Tycoon Explained
-The "Urban Level" refers to the [City Tycoon](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/) system, a dedicated progression track for Hesperia's non-combat activities. While your Hunter Level dictates your strength in battle and story access, the Tycoon Level tracks your influence and wealth within the city. Increasing this level is the only way to unlock [luxury housing](https://gamerant.com/neverness-to-everness-nte-anomaly-furniture-guide/), advanced vehicle modifications, and high-tier passive income streams.
+The "Urban Level" refers to the City Tycoon system, a dedicated progression track for Hesperia's non-combat activities. While your Hunter Level dictates your strength in battle and story access, the Tycoon Level tracks your influence and wealth within the city. Increasing this level is the only way to unlock luxury housing, advanced vehicle modifications, and high-tier passive income streams.
 
 ### Locating the Tycoon Management Interface
-You can find your current progress by opening the main menu and selecting the [City Tycoon](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/) icon. This interface displays your current level, your total Fon balance, and the specific "Tycoon Tasks" required for your next promotion. This system is unlocked after completing the quest "[Good morning, Hethereau](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/)," which introduces you to the character Chiz and the basics of urban investment.
+You can find your current progress by opening the main menu and selecting the City Tycoon icon. This interface displays your current level, your total Fon balance, and the specific "Tycoon Tasks" required for your next promotion. This system is unlocked after completing the quest "Good morning, Hethereau," which introduces you to the character Chiz and the basics of urban investment.
 
 ## Direct Answer
 
 ![Direct Answer](/img/how-to-increase-urban-level-nte/inline-2.webp)
 
 
-Increasing your Urban Level requires a consistent loop of earning currency and meeting milestone objectives. The level cap at launch is [Level 45](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/), with the most coveted reward—the [S-Rank character Chiz](https://www.gamewith.net/neverness-to-everness/article/show/49618)—becoming available at [Level 18](https://www.gamewith.net/neverness-to-everness/article/show/49618).
+Increasing your Urban Level requires a consistent loop of earning currency and meeting milestone objectives. The level cap at launch is Level 45, with the most coveted reward—the S-Rank character Chiz—becoming available at Level 18.
 
 ### The Core Loop: Stamina, Fons, and Tasks
-Progression is tied to the consumption of [City Stamina](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/), a resource that resets weekly. Spending this stamina on [Hethereau Hobbies](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) generates [Fons](https://lootbar.gg/guide/neverness-to-everness-best-fons-farming-guide) at a fixed rate of [1,000 Fons per 1 Stamina](https://lootbar.gg/guide/neverness-to-everness-best-fons-farming-guide) point. Once you have accumulated enough Fons and completed the associated Tycoon Tasks, you must manually click "[Level Up](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/)" in the Tycoon menu to advance.
+Progression is tied to the consumption of City Stamina, a resource that resets weekly. Spending this stamina on Hethereau Hobbies generates Fons at a fixed rate of 1,000 Fons per 1 Stamina point. Once you have accumulated enough Fons and completed the associated Tycoon Tasks, you must manually click "Level Up" in the Tycoon menu to advance.
 
 ### Tycoon Leveling Requirements (Milestones)
 
 | Tycoon Level | Key Unlock / Reward | Requirement Example |
 | :--- | :--- | :--- |
-| Level 2 | [Race Challenge](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) | Earn initial Fons |
-| Level 3 | [Swift Travel (Taxi)](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) & [Sea Angler](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) | Complete tutorial hobby |
-| Level 4 | [Cafe by Origen](https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/) (Coffee Shop) | Reach Fon threshold |
-| Level 8 | [City Delivery](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) | Purchase basic vehicle |
-| Level 10 | [Pink Paws Bank Heist](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fons-quickly-guide/) | Accumulate 500k+ Fons |
-| Level 18 | [Chiz (S-Rank Character)](https://www.gamewith.net/neverness-to-everness/article/show/49618) | Complete mid-tier tasks |
-| Level 45 | [Final Chiz Copy (Max Awakening)](https://www.gamewith.net/neverness-to-everness/article/show/49618) | Maximize all urban assets |
+| Level 2 | Race Challenge | Earn initial Fons |
+| Level 3 | Swift Travel (Taxi) & Sea Angler | Complete tutorial hobby |
+| Level 4 | Cafe by Origen (Coffee Shop) | Reach Fon threshold |
+| Level 8 | City Delivery | Purchase basic vehicle |
+| Level 10 | Pink Paws Bank Heist | Accumulate 500k+ Fons |
+| Level 18 | Chiz (S-Rank Character) | Complete mid-tier tasks |
+| Level 45 | Final Chiz Copy (Max Awakening) | Maximize all urban assets |
 
 ## Detailed Explanation
 
@@ -84,34 +84,34 @@ Progression is tied to the consumption of [City Stamina](https://gamerant.com/ne
 The City Tycoon system is deeply integrated into the daily and weekly rhythm of Neverness to Everness. To reach the maximum level efficiently, you must manage multiple income streams simultaneously.
 
 ### Mastering Hethereau Hobbies for Max Fons
-[Hethereau Hobbies](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) are the primary active method for converting your weekly City Stamina into Fons. Since the conversion rate is [fixed at 1,000 Fons per point](https://games.gg/neverness-to-everness/how-to-farm-fons-fast/), you should choose the activity that you find most enjoyable or time-efficient.
+Hethereau Hobbies are the primary active method for converting your weekly City Stamina into Fons. Since the conversion rate is fixed at 1,000 Fons per point, you should choose the activity that you find most enjoyable or time-efficient.
 
-*   **[Race Challenge](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/):** Compete against NPCs or other players. Unlocked at [Level 2](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/).
-*   **[Swift Travel](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/):** Act as a taxi driver, delivering NPCs to destinations within a time limit. Unlocked at [Level 3](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/).
-*   **[Sea Angler](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/):** A fishing mini-game that provides Fons and materials. Unlocked at [Level 3](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/).
-*   **[City Delivery](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/):** Use a truck to transport packages without damaging them. Unlocked at [Level 8](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/).
+*   **Race Challenge:** Compete against NPCs or other players. Unlocked at Level 2.
+*   **Swift Travel:** Act as a taxi driver, delivering NPCs to destinations within a time limit. Unlocked at Level 3.
+*   **Sea Angler:** A fishing mini-game that provides Fons and materials. Unlocked at Level 3.
+*   **City Delivery:** Use a truck to transport packages without damaging them. Unlocked at Level 8.
 
 ### Managing the Coffee Shop for Passive Income
-The [Cafe by Origen](https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/) (often called the Coffee Shop) is unlocked at [Tycoon Level 4](https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/). This is your most important long-term investment because it generates [passive Fons](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fons-quickly-guide/) even when you are offline. You must restock recipes periodically—ideally [every 24 to 72 hours](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fons-quickly-guide/)—to keep the income flowing. Upgrading the shop increases your daily yield, eventually reaching five-digit figures.
+The Cafe by Origen (often called the Coffee Shop) is unlocked at Tycoon Level 4. This is your most important long-term investment because it generates passive Fons even when you are offline. You must restock recipes periodically—ideally every 24 to 72 hours—to keep the income flowing. Upgrading the shop increases your daily yield, eventually reaching five-digit figures.
 
 ### Completing Tycoon Tasks and Milestones
-Meeting the Fon requirement is only half the battle. To level up, you must also complete specific [Tycoon Tasks](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/). These milestones often involve city interactions, such as:
-*   Purchasing your first vehicle from a [dealership](https://www.gamewith.net/neverness-to-everness/article/show/49619).
-*   Buying an apartment (such as the [Wiener Apartments](https://nerdschalk.com/neverness-to-everness-paper-plane-location-full-guide/)).
-*   Activating [Anomaly Furniture](https://gamerant.com/neverness-to-everness-nte-anomaly-furniture-guide/) within your property.
+Meeting the Fon requirement is only half the battle. To level up, you must also complete specific Tycoon Tasks. These milestones often involve city interactions, such as:
+*   Purchasing your first vehicle from a dealership.
+*   Buying an apartment (such as the Wiener Apartments).
+*   Activating Anomaly Furniture within your property.
 *   Achieving specific ranks in hobby mini-games.
 
 ### Optimizing City Stamina Usage
-Unlike standard "Pixels" (combat stamina), [City Stamina](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) is a weekly resource. You start with a cap of [100](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/), which can scale up to [700](https://www.reddit.com/r/NevernessToEverness/comments/1d13h3a/roughly_7500000_fons_per_month_breakdown/) as your Tycoon Level increases. The reset occurs every [Sunday at 12:00 PM PST](https://games.gg/neverness-to-everness/how-to-farm-fons-fast/) (or Monday, depending on your server). It is critical to spend all your stamina before the reset, as unused points are lost.
+Unlike standard "Pixels" (combat stamina), City Stamina is a weekly resource. You start with a cap of 100, which can scale up to [700](https://www.reddit.com/r/NevernessToEverness/comments/1d13h3a/roughly_7500000_fons_per_month_breakdown/) as your Tycoon Level increases. The reset occurs every Sunday at 12:00 PM PST (or Monday, depending on your server). It is critical to spend all your stamina before the reset, as unused points are lost.
 
 ### Unlocking Chiz: The Ultimate Tycoon Reward
-The S-Rank Cosmos character [Chiz](https://www.gamewith.net/neverness-to-everness/article/show/49618) is the primary motivation for many players to push their Urban Level. She is [not available via the gacha](https://www.gamewith.net/neverness-to-everness/article/show/49618) system.
-*   **First Copy:** Unlocks at [Tycoon Level 18](https://www.gamewith.net/neverness-to-everness/article/show/49618).
-*   **Full Awakening:** You can obtain a total of [seven copies](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/) (base + 6 dupes) by reaching [Level 45](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/).
-*   **Fons Generation:** Once added to your team, Chiz has a passive ability that generates Fons during combat, with a daily cap of [250,000 to 500,000](https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/) depending on your Tycoon progress.
+The S-Rank Cosmos character Chiz is the primary motivation for many players to push their Urban Level. She is not available via the gacha system.
+*   **First Copy:** Unlocks at Tycoon Level 18.
+*   **Full Awakening:** You can obtain a total of seven copies (base + 6 dupes) by reaching Level 45.
+*   **Fons Generation:** Once added to your team, Chiz has a passive ability that generates Fons during combat, with a daily cap of 250,000 to 500,000 depending on your Tycoon progress.
 
 ### The Role of Anomaly Furniture in Urban Growth
-[Anomaly Furniture](https://gamerant.com/neverness-to-everness-nte-anomaly-furniture-guide/) provides global buffs that affect your combat performance and exploration. For example, the "[Resting Boxer](https://www.gamewith.net/neverness-to-everness/article/show/49622)" furniture increases your team's [Crit DMG](https://www.gamewith.net/neverness-to-everness/article/show/49622), while the "[Paper Plane](https://nerdschalk.com/neverness-to-everness-paper-plane-location-full-guide/)" reduces climbing stamina costs. These items are often required for [Tycoon Tasks](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/), making property management a mandatory part of increasing your Urban Level.
+Anomaly Furniture provides global buffs that affect your combat performance and exploration. For example, the "Resting Boxer" furniture increases your team's Crit DMG, while the "Paper Plane" reduces climbing stamina costs. These items are often required for Tycoon Tasks, making property management a mandatory part of increasing your Urban Level.
 
 ## Related Systems
 
@@ -121,16 +121,16 @@ The S-Rank Cosmos character [Chiz](https://www.gamewith.net/neverness-to-evernes
 While the City Tycoon Level is your focus for wealth, it works in tandem with other progression systems that define your overall account power.
 
 ### How to Increase Hunter Level (Account XP)
-Your [Hunter Level](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fons-quickly-guide/) is your main account level. You increase this by completing story quests, daily missions, and spending [Character Pixels](https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fons-quickly-guide/) (combat stamina). Interestingly, every time you increase your [Tycoon Level](https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/), you receive a significant amount of Hunter Level XP, making urban progression a viable way to bypass story level gates.
+Your Hunter Level is your main account level. You increase this by completing story quests, daily missions, and spending Character Pixels (combat stamina). Interestingly, every time you increase your Tycoon Level, you receive a significant amount of Hunter Level XP, making urban progression a viable way to bypass story level gates.
 
 ### Understanding Appraisal Level and World Scaling
-The [Appraisal Level](https://www.sportskeeda.com/esports/all-free-characters-nte-get) acts as the world level. Increasing it makes enemies tougher but improves the quality of loot dropped. Mandatory [Breakthrough Quests](https://www.sportskeeda.com/esports/all-free-characters-nte-get) appear at Hunter Levels [20, 40, and 50](https://www.sportskeeda.com/esports/all-free-characters-nte-get). You must complete these to raise your Appraisal Level and continue your progression.
+The Appraisal Level acts as the world level. Increasing it makes enemies tougher but improves the quality of loot dropped. Mandatory Breakthrough Quests appear at Hunter Levels 20, 40, and 50. You must complete these to raise your Appraisal Level and continue your progression.
 
 ### Vehicle Progression and the Garage System
-As your Tycoon Level rises, you unlock more advanced [car dealerships](https://www.gamewith.net/neverness-to-everness/article/show/49619) and the ability to customize your vehicles in the [Garage](https://www.gamewith.net/neverness-to-everness/article/show/49619). High-level Tycoon status is required to access the most prestigious car modifications and high-speed [online racing](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) modes.
+As your Tycoon Level rises, you unlock more advanced car dealerships and the ability to customize your vehicles in the Garage. High-level Tycoon status is required to access the most prestigious car modifications and high-speed online racing modes.
 
 ### Exploration Optimization at the Witch's House
-For those looking to maximize their efficiency, visiting the [Witch's House](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) is essential. By collecting [Oracle Stones](https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/) and hidden birds throughout Hethereau, you can unlock exploration-based upgrades that make navigating the city faster, indirectly helping you complete Tycoon Tasks more quickly.
+For those looking to maximize their efficiency, visiting the Witch's House is essential. By collecting Oracle Stones and hidden birds throughout Hethereau, you can unlock exploration-based upgrades that make navigating the city faster, indirectly helping you complete Tycoon Tasks more quickly.
 
 ## Sources
 - GameRant — https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/

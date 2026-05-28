@@ -40,7 +40,7 @@ As a new player in Neverness to Everness, you likely have several pressing quest
 *   **How does the unique urban open-world system differ from other gacha RPGs?** NTE introduces a dual-progression system. While your combat power is vital, your "City Tycoon" rank governs your access to the city’s infrastructure. This includes your ability to purchase high-end properties, unlock advanced vehicle modifications at Rampage Players, and generate passive income through business ownership.
 *   **What should beginners prioritize during their first week in Hethereau?** Your first seven days should focus on balancing the main story quests with your City Tycoon level. Reaching Level 2 is the most immediate priority, as it unlocks the Garage and the ability to summon vehicles. Additionally, understanding the "Scarborough Fair" gacha system early will prevent you from wasting valuable Solid Dice on suboptimal banners.
 
-![An infographic showing the Esper Cycle wheel with Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche elements.](https://placehold.co/1600x900?text=Esper+Cycle+Elemental+Wheel+Infographic)
+!An infographic showing the Esper Cycle wheel with Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche elements.
 
 ## Direct Answer
 
@@ -98,7 +98,7 @@ The gacha system in NTE, known as **Scarborough Fair**, is presented as a digita
 *   **The Board Mechanic:** As you move, you land on "Lucky Tiles" (materials), "Anomaly Tiles" (minor buffs), or "Grand Prize Tiles" (4-star and 5-star characters/weapons).
 *   **Arcs (Weapons):** Arcs are NTE's version of weapons. They require a **Tri-Key** to fully unlock their potential, which is usually obtained by pulling duplicates or through high-level City Tycoon rewards.
 
-![A screenshot of the Scarborough Fair gacha board showing the Monopoly-style layout and dice roll interface.](https://placehold.co/1600x900?text=Scarborough+Fair+Gacha+Board+Interface)
+!A screenshot of the Scarborough Fair gacha board showing the Monopoly-style layout and dice roll interface.
 
 **Current Banners (May 2026)**
 
@@ -132,7 +132,7 @@ Cars are not just for travel; they are essential for certain "Rampage" missions.
 | Rampage Players | Industrial Zone | Sports/Drift Cars | 120,000 |
 | Onyx Luxury | Uptown | Supercars | 450,000 |
 
-![A showcase of the vehicle modification menu at a Rampage Players shop in Hethereau.](https://placehold.co/1600x900?text=Vehicle+Modification+Menu+at+Rampage+Players)
+!A showcase of the vehicle modification menu at a Rampage Players shop in Hethereau.
 
 **Properties**
 Buying property allows you to set up a home base. High-tier apartments provide daily buffs, such as increased Esper Meter gain or reduced vehicle repair costs. The "Mist-Covered Apartment" in the West End is a great starter home for 75,000 Fons.

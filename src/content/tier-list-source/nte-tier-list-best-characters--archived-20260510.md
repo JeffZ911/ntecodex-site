@@ -68,7 +68,7 @@ The core of NTE combat revolves around the six elemental attributes: **Anima, Ch
 
 ---
 
-![A comprehensive infographic showing all Neverness to Everness characters ranked from S to C Tier with their Esper elements.](https://via.placeholder.com/1920x1080?text=NTE+Tier+List+Infographic+May+2026)
+!A comprehensive infographic showing all Neverness to Everness characters ranked from S to C Tier with their Esper elements.
 
 ---
 
@@ -112,7 +112,7 @@ Daffodill (**Chaos**) is the game's premier "Breaker." In NTE, bosses have a **B
 
 ---
 
-![Gameplay screenshot of Nanally and Sakiri performing a Blossom reaction in Hethereau.](https://via.placeholder.com/1920x1080?text=Nanally+and+Sakiri+Combat+Gameplay)
+!Gameplay screenshot of Nanally and Sakiri performing a Blossom reaction in Hethereau.
 
 ---
 

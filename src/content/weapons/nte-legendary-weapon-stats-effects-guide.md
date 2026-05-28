@@ -45,31 +45,31 @@ Legendary weapons in NTE (S-Rank Arcs) offer up to 666 Base ATK and unique passi
 ![Stats](/img/nte-legendary-weapon-stats-effects-guide/inline-1.webp)
 
 
-In *Neverness to Everness*, Arcs function as the primary weapon system, providing massive stat injections that scale with both level and rarity. S-Rank Arcs represent the pinnacle of gear, featuring [Base ATK values](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) that range from 424 to 666 at max level. Unlike lower-tier gear, S-Rank Arcs possess high-scaling substats that define a character's role, such as CRIT Rate, CRIT DMG, and Charge Efficiency.
+In *Neverness to Everness*, Arcs function as the primary weapon system, providing massive stat injections that scale with both level and rarity. S-Rank Arcs represent the pinnacle of gear, featuring Base ATK values that range from 424 to 666 at max level. Unlike lower-tier gear, S-Rank Arcs possess high-scaling substats that define a character's role, such as CRIT Rate, CRIT DMG, and Charge Efficiency.
 
-Every Arc is categorized into one of five matter-based types: [Plasma, Solid, Gas, Liquid, or Synthesis](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/). A character can only activate the unique passive effect of an Arc if its type matches the character's internal attribute. For example, equipping a Solid-type Arc on a Plasma-type character will provide the Base ATK and substat, but the powerful Arc Skill will remain locked.
+Every Arc is categorized into one of five matter-based types: Plasma, Solid, Gas, Liquid, or Synthesis. A character can only activate the unique passive effect of an Arc if its type matches the character's internal attribute. For example, equipping a Solid-type Arc on a Plasma-type character will provide the Base ATK and substat, but the powerful Arc Skill will remain locked.
 
 ### S-Rank Arc Attribute Table
 
 | Arc Name | Type | Max Base ATK | Primary Substat |
 | :--- | :--- | :--- | :--- |
-| [Camellia Society](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) | Synthesis | 666 | 12% CRIT Rate |
-| [Hethereau's Keeper](https://www.icy-veins.com/nte/hethereaus-keeper-details-and-best-characters-in-neverness-to-everness/) | Solid | 512 | 27.5% ATK |
-| [Ready-Ready](https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps-more) | Plasma | 512 | 27.5% ATK |
-| [Contemplative Cat](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/) | Gas | 512 | 44% CRIT DMG |
-| [Eternal Waltz](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) | Synthesis | 424 | 41.25% HP |
-| [Day Off](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) | Solid | 512 | 33% Charge Efficiency |
-| [Fluff of Fleetness](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/) | Liquid | 512 | 44% CRIT DMG |
-| [Marching Beyond Time](https://www.gamewith.net/nte/article/show/46508) | Solid | [Information not yet publicly available] | [Information not yet publicly available] |
+| Camellia Society | Synthesis | 666 | 12% CRIT Rate |
+| Hethereau's Keeper | Solid | 512 | 27.5% ATK |
+| Ready-Ready | Plasma | 512 | 27.5% ATK |
+| Contemplative Cat | Gas | 512 | 44% CRIT DMG |
+| Eternal Waltz | Synthesis | 424 | 41.25% HP |
+| Day Off | Solid | 512 | 33% Charge Efficiency |
+| Fluff of Fleetness | Liquid | 512 | 44% CRIT DMG |
+| Marching Beyond Time | Solid | [Information not yet publicly available] | [Information not yet publicly available] |
 
 ### Plasma and Solid Arcs: Offensive Powerhouses
-Plasma and Solid Arcs typically focus on raw damage output. [Ready-Ready](https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps-more), the signature weapon for Nanally, provides a consistent 16% ATK boost and enhances Basic Attack damage by an additional 16% after using a skill or ultimate. Solid Arcs like [Hethereau's Keeper](https://www.icy-veins.com/nte/hethereaus-keeper-details-and-best-characters-in-neverness-to-everness/) trade utility for pure boss-slaying potential, offering a flat 15% damage increase against elite units.
+Plasma and Solid Arcs typically focus on raw damage output. Ready-Ready, the signature weapon for Nanally, provides a consistent 16% ATK boost and enhances Basic Attack damage by an additional 16% after using a skill or ultimate. Solid Arcs like Hethereau's Keeper trade utility for pure boss-slaying potential, offering a flat 15% damage increase against elite units.
 
 ### Gas, Liquid, and Synthesis Arcs: Utility and Scaling
-These types often feature more complex scaling mechanics. The Synthesis-type [Camellia Society](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) is currently the highest raw ATK weapon in the game, but it requires the user to lose HP to trigger its CRIT DMG stacks. Meanwhile, Gas-type Arcs like [Contemplative Cat](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/) offer a unique "wealth scaling" mechanic, increasing Cosmos DMG by up to 4.5% for every 100,000 Fons (in-game currency) currently held by the player.
+These types often feature more complex scaling mechanics. The Synthesis-type Camellia Society is currently the highest raw ATK weapon in the game, but it requires the user to lose HP to trigger its CRIT DMG stacks. Meanwhile, Gas-type Arcs like Contemplative Cat offer a unique "wealth scaling" mechanic, increasing Cosmos DMG by up to 4.5% for every 100,000 Fons (in-game currency) currently held by the player.
 
 ### Substat Priority for Endgame Builds
-For main DPS characters like [Nanally](/characters/nanally-guide-nte) or [Hotori](/characters/hotori-best-team-nte), prioritizing Arcs with CRIT Rate or CRIT DMG substats is vital for clearing high-level Anomalies. Support characters, however, benefit more from [Charge Efficiency](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) (found on Arcs like Day Off) to ensure their Ultimates are available on every rotation. HP-scaling characters like Fadia or Baicang should exclusively look for Synthesis Arcs like [Eternal Waltz](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) to maximize their Mental DMG output.
+For main DPS characters like [Nanally](/characters/nanally-guide-nte) or [Hotori](/characters/hotori-best-team-nte), prioritizing Arcs with CRIT Rate or CRIT DMG substats is vital for clearing high-level Anomalies. Support characters, however, benefit more from Charge Efficiency (found on Arcs like Day Off) to ensure their Ultimates are available on every rotation. HP-scaling characters like Fadia or Baicang should exclusively look for Synthesis Arcs like Eternal Waltz to maximize their Mental DMG output.
 
 ## Effect
 
@@ -79,27 +79,27 @@ For main DPS characters like [Nanally](/characters/nanally-guide-nte) or [Hotori
 The true power of a Legendary Arc lies in its "Arc Skill"—a unique passive that can fundamentally change combat flow. These effects range from summoning autonomous combat pets to creating zones that manipulate energy regeneration.
 
 ### Unique Summoning Mechanics: Officer Whisker and Silent Garden
-Two of the most sought-after effects involve combat summons. [Hethereau's Keeper](https://www.icy-veins.com/nte/hethereaus-keeper-details-and-best-characters-in-neverness-to-everness/) features the "Officer Whisker" effect, which summons a feline assistant that floats near the player and [continuously attacks enemies](https://nerdschalk.com/hethereaus-keeper-arc-in-neverness-to-everness-nte-justice-executioner-boss-location-and-spawn-mechanic/), dealing damage based on 100% to 200% of the wearer's ATK. 
+Two of the most sought-after effects involve combat summons. Hethereau's Keeper features the "Officer Whisker" effect, which summons a feline assistant that floats near the player and continuously attacks enemies, dealing damage based on 100% to 200% of the wearer's ATK. 
 
-The [Camellia Society](https://mobalytics.gg/nte/weapons/camellia-society) Arc utilizes the "Silent Garden" effect. When the wearer's HP is reduced, it triggers one of two random high-damage Incantation bursts:
+The Camellia Society Arc utilizes the "Silent Garden" effect. When the wearer's HP is reduced, it triggers one of two random high-damage Incantation bursts:
 *   **Harsh Rebuke:** Rains down 5 instances of damage, each dealing up to 40% ATK.
 *   **Incessant Nagging:** Pierces targets with 6 instances of damage, with the final hit dealing double damage.
 
 ### Energy and Resource Management Passives
-Utility Arcs focus on keeping the team’s momentum alive. The [Day Off](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) Arc features the "Eclipse" effect, creating a 40-second zone. Every enemy defeated within this zone [restores up to 10 Ultimate Energy](https://mobalytics.gg/nte/weapons/day-off), allowing for back-to-back Ultimate usage in mob-heavy encounters. 
+Utility Arcs focus on keeping the team’s momentum alive. The Day Off Arc features the "Eclipse" effect, creating a 40-second zone. Every enemy defeated within this zone restores up to 10 Ultimate Energy, allowing for back-to-back Ultimate usage in mob-heavy encounters. 
 
 ### High-Risk, High-Reward Damage Multipliers
-Some Arcs reward specific playstyles. The [Raging Flames](https://neverness.gg/nte-raging-flames-arc-stats-how-to-get-and-best-characters/) Arc, used by Hathor, increases [Lakshana DMG by up to 25%](https://gmtreks.com/nte/weapons/raging-flames) and provides a stacking damage buff every time a "Redirect" skill is cast. Similarly, the [Fluff of Fleetness](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/) Arc grants a 9% ATK boost every second the character remains on the field, rewarding players who stay in the fray rather than swapping frequently.
+Some Arcs reward specific playstyles. The Raging Flames Arc, used by Hathor, increases Lakshana DMG by up to 25% and provides a stacking damage buff every time a "Redirect" skill is cast. Similarly, the Fluff of Fleetness Arc grants a 9% ATK boost every second the character remains on the field, rewarding players who stay in the fray rather than swapping frequently.
 
 ### Refinement Scaling (Mixing)
 In NTE, duplicate Arcs are used for "Mixing" to increase the potency of these effects across five ranks.
 
 | Arc Passive | Rank 1 | Rank 3 | Rank 5 |
 | :--- | :--- | :--- | :--- |
-| [Officer Whisker DMG](https://www.icy-veins.com/nte/hethereaus-keeper-details-and-best-characters-in-neverness-to-everness/) | 100% ATK | 150% ATK | 200% ATK |
-| [Tiger Talisman ATK](https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps-more) | 16% Buff | 24% Buff | 32% Buff |
-| [Eclipse Energy Gain](https://mobalytics.gg/nte/weapons/day-off) | 6 Energy | 8 Energy | 10 Energy |
-| [Lakshana DMG Boost](https://gmtreks.com/nte/weapons/raging-flames) | 15% | 20% | 25% |
+| Officer Whisker DMG | 100% ATK | 150% ATK | 200% ATK |
+| Tiger Talisman ATK | 16% Buff | 24% Buff | 32% Buff |
+| Eclipse Energy Gain | 6 Energy | 8 Energy | 10 Energy |
+| Lakshana DMG Boost | 15% | 20% | 25% |
 
 ## Best On (Characters)
 
@@ -109,13 +109,13 @@ In NTE, duplicate Arcs are used for "Mixing" to increase the potency of these ef
 Choosing the right Arc for your Esper is the difference between struggling with boss timers and achieving a "Perfect Containment" rating.
 
 ### Best Arcs for Main DPS: Nanally, Hotori, and Jiuyuan
-[Ready-Ready](https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps-more) is the undisputed best-in-slot (BiS) for **Nanally**. Its Plasma-type synergy and Tiger Talisman effect perfectly complement her high-frequency basic attacks. For **Hotori**, while Ready-Ready is a strong contender for raw damage, [Marching Beyond Time](https://www.gamewith.net/nte/article/show/46508) is often preferred for its Solid-type compatibility and skill-spamming synergy. **Jiuyuan** performs best with [Reality Refuge](https://www.gamewith.net/nte/article/show/46508) or Hethereau's Keeper, as both provide the massive flat ATK values required to scale her Anima-based burst damage.
+Ready-Ready is the undisputed best-in-slot (BiS) for **Nanally**. Its Plasma-type synergy and Tiger Talisman effect perfectly complement her high-frequency basic attacks. For **Hotori**, while Ready-Ready is a strong contender for raw damage, Marching Beyond Time is often preferred for its Solid-type compatibility and skill-spamming synergy. **Jiuyuan** performs best with Reality Refuge or Hethereau's Keeper, as both provide the massive flat ATK values required to scale her Anima-based burst damage.
 
 ### Top Support and Utility Pairings: Sakiri and Haniel
-Support characters like **Haniel** benefit from [Blow up the Crowd](https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/), which boosts the active character’s ATK while Haniel is off-field. **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** is frequently paired with [Day Off](https://www.gamewith.net/nte/article/show/46508) to ensure her team-wide buffs are always active via the Eclipse energy restoration mechanic.
+Support characters like **Haniel** benefit from Blow up the Crowd, which boosts the active character’s ATK while Haniel is off-field. **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** is frequently paired with Day Off to ensure her team-wide buffs are always active via the Eclipse energy restoration mechanic.
 
 ### Sustain and Tank Synergy: Fadia and Adler
-For characters that scale with defensive stats, [Eternal Waltz](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) is essential for **Fadia**, providing a massive 41.25% HP boost that directly increases her Mental DMG output. **Adler** often utilizes [Fluff of Fortitude](https://www.gamewith.net/nte/article/show/46508) to maintain high damage resistance while serving as the team's frontline anchor.
+For characters that scale with defensive stats, Eternal Waltz is essential for **Fadia**, providing a massive 41.25% HP boost that directly increases her Mental DMG output. **Adler** often utilizes Fluff of Fortitude to maintain high damage resistance while serving as the team's frontline anchor.
 
 ## How to Get
 
@@ -126,15 +126,15 @@ While many Legendary Arcs are found in the gacha system, several of the game's s
 
 ### Farmable S-Rank Arcs: Boss Drop Locations
 Players can obtain several S-Rank Arcs for free by defeating specific Anomaly bosses scattered throughout Hethereau.
-*   [**Raging Flames:**](https://neverness.gg/nte-raging-flames-arc-stats-how-to-get-and-best-characters/) Drops from the **Headless Rider**. To trigger this fight, you must own a 4-wheeled vehicle and wait at the crossing of [Fox Window Street at 20:00](https://www.gamerant.com/neverness-to-everness-nte-ride-assault-anomaly-commission-headless-hunter-flaming-bike/). Follow the Rider into the tunnel to enter the Anomaly Realm.
-*   [**Hethereau's Keeper:**](https://nerdschalk.com/hethereaus-keeper-arc-in-neverness-to-everness-nte-justice-executioner-boss-location-and-spawn-mechanic/) Requires reaching a **4-star Heat Level** (Wanted Level) in the city. This spawns the [Justice Executioner](https://gmtreks.com/nte/weapons/hethereaus-keeper) boss (Level 99), who drops the Arc upon defeat.
-*   [**Camellia Society:**](https://www.sportskeeda.com/esports/how-get-camellia-society-s-rank-arc-free-nte-neverness-everness) Rewarded for defeating the **Serenetti** boss in the Serenetti Manor, unlocked after completing the "Where Worlds Sprout, Fall Unfolds" spinoff quest.
+*   **Raging Flames:** Drops from the **Headless Rider**. To trigger this fight, you must own a 4-wheeled vehicle and wait at the crossing of Fox Window Street at 20:00. Follow the Rider into the tunnel to enter the Anomaly Realm.
+*   **Hethereau's Keeper:** Requires reaching a **4-star Heat Level** (Wanted Level) in the city. This spawns the Justice Executioner boss (Level 99), who drops the Arc upon defeat.
+*   **Camellia Society:** Rewarded for defeating the **Serenetti** boss in the Serenetti Manor, unlocked after completing the "Where Worlds Sprout, Fall Unfolds" spinoff quest.
 
 ### Secret Quests and Hidden Achievements
-Some Arcs are locked behind progression milestones rather than combat. [Contemplative Cat](https://escorenews.com/en/nte/guide/how-to-get-all-free-s-tier-arcs-in-neverness-to-everness-list-of-free-s-rank-weapons-in-nte) is a guaranteed reward once a player reaches **Rank 21 in City Tycoon**. Additionally, [Your Happiness is Priceless](https://www.gamerant.com/neverness-to-everness-nte-how-get-all-free-s-class-arcs/) can be purchased from the Mall Arc Shop for **100 Mhm Coins**, which are collected by interacting with the environment at Nacupeda's Pool.
+Some Arcs are locked behind progression milestones rather than combat. Contemplative Cat is a guaranteed reward once a player reaches **Rank 21 in City Tycoon**. Additionally, Your Happiness is Priceless can be purchased from the Mall Arc Shop for **100 Mhm Coins**, which are collected by interacting with the environment at Nacupeda's Pool.
 
 ### Gacha: The Arc Research Program
-The primary way to obtain signature weapons like Nanally's Ready-Ready is through the [Arc Research Program or the Scarborough Fair](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html) banners. These require **Tri-Keys** to pull. Every 80 pulls guarantees an S-Rank Arc, with a 50% chance for it to be the featured rate-up weapon.
+The primary way to obtain signature weapons like Nanally's Ready-Ready is through the Arc Research Program or the Scarborough Fair banners. These require **Tri-Keys** to pull. Every 80 pulls guarantees an S-Rank Arc, with a 50% chance for it to be the featured rate-up weapon.
 
 ## Comparison
 
@@ -144,16 +144,16 @@ The primary way to obtain signature weapons like Nanally's Ready-Ready is throug
 Not all S-Rank Arcs are created equal, and in some scenarios, a highly refined A-Rank weapon can outperform a base-level Legendary.
 
 ### Top-Tier DPS Comparison: Ready-Ready vs. Camellia Society
-While [Camellia Society](https://allthings.how/every-arc-in-neverness-to-everness-stats-substats-and-passive-effects/) offers the highest peak damage due to its 666 Base ATK and Silent Garden procs, it is notoriously difficult to use. It requires precise HP management, making it a "high-risk" choice. [Ready-Ready](https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps-more) is far more consistent for boss fights, providing stable ATK buffs that don't depend on the player taking damage. For most players, Ready-Ready is the superior daily driver.
+While Camellia Society offers the highest peak damage due to its 666 Base ATK and Silent Garden procs, it is notoriously difficult to use. It requires precise HP management, making it a "high-risk" choice. Ready-Ready is far more consistent for boss fights, providing stable ATK buffs that don't depend on the player taking damage. For most players, Ready-Ready is the superior daily driver.
 
 ### F2P Alternatives: When to Use Farmable S-Rank Arcs
-Farmable options like [Raging Flames](https://neverness.gg/nte-raging-flames-arc-stats-how-to-get-and-best-characters/) are surprisingly competitive. At Mixing Rank 5, Raging Flames provides a 25% Lakshana damage boost, which can easily outclass a Rank 1 gacha Arc for characters like Hathor. If you are a free-to-play player, focusing on maxing out your farmable Arcs should be your priority before spending Tri-Keys on weapon banners.
+Farmable options like Raging Flames are surprisingly competitive. At Mixing Rank 5, Raging Flames provides a 25% Lakshana damage boost, which can easily outclass a Rank 1 gacha Arc for characters like Hathor. If you are a free-to-play player, focusing on maxing out your farmable Arcs should be your priority before spending Tri-Keys on weapon banners.
 
 ### Refinement Value: Is Pulling for Duplicates Worth It?
-The jump from Rank 1 to Rank 5 is significant. For an Arc like [Hethereau's Keeper](https://www.icy-veins.com/nte/hethereaus-keeper-details-and-best-characters-in-neverness-to-everness/), the Officer Whisker damage [doubles from 100% to 200% ATK](https://nerdschalk.com/hethereaus-keeper-arc-in-neverness-to-everness-nte-justice-executioner-boss-location-and-spawn-mechanic/). However, for most players, a single copy of an S-Rank Arc is sufficient to clear all current endgame content. Pulling for duplicates (Mixing) is generally considered a "whale" luxury or a long-term goal for dedicated mains.
+The jump from Rank 1 to Rank 5 is significant. For an Arc like Hethereau's Keeper, the Officer Whisker damage doubles from 100% to 200% ATK. However, for most players, a single copy of an S-Rank Arc is sufficient to clear all current endgame content. Pulling for duplicates (Mixing) is generally considered a "whale" luxury or a long-term goal for dedicated mains.
 
 ### A-Rank Refinement 5 vs. S-Rank Refinement 1
-In many cases, an [R5 A-Rank Arc like "Dangerous Game"](https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html) can actually outperform an R1 S-Rank Arc in terms of total damage output. This is because the passive multipliers at Rank 5 are often double those of a Rank 1 weapon. Always compare the total percentage bonuses in your character's stat sheet before dismantling your A-Rank gear for experience.
+In many cases, an R5 A-Rank Arc like "Dangerous Game" can actually outperform an R1 S-Rank Arc in terms of total damage output. This is because the passive multipliers at Rank 5 are often double those of a Rank 1 weapon. Always compare the total percentage bonuses in your character's stat sheet before dismantling your A-Rank gear for experience.
 
 ## Sources
 - neverness.gg — https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/
