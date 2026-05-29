@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Build in Neverness to Everness (NTE): Top Espers & Arcs"
 slug: best-healer-build-nte-20260520
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1828
 published_at: "2026-05-20T08:30:23.688859+00:00"
 published_url: /guides/best-healer-build-nte-20260520
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ5oUSwTBIHDZ_TcFzmG6gcsaJdt3_7rJ66so2ZaI4-TiyIHVgAXBewj_-35c_DhPE_zf9zE0nUPVDVjYx7Zpps6G8mwygIPO6Eh1ezQr2q5pG5mBwSekhd3Ocm15_TYhDeta5_pB8OKlPd7fZARI0B42UeRWc8eIvuC261MdvtzHn"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0eLdHRasnK8XZmyQgv3Lx75o9xMsBX0Ijjw5J3alPVxmkgWO4LxqyVeXkMSwGuwZt_2dlpExcqqg-bsCAxWVrqFuc7WgyVsmnePBylr2Ttf5vSrJCtgfPKwo8Gg6duttyXcXv_yFMwkObH5svvctRH3nJwT9vRV63IdbG-2YK-6jtDTe8GmYzdUsf_cH9JBIaBMiuVNJrOPNoiigcZ7j7xA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnTKrRFRTCc3n4hM5jzYCEBq-71pGQdMrHSySIuiY-weOnGbbb9EhKaOgIGPP-dD_08WpUMpYjKG1Zi4Szh11rLX43v_pWvE1DlZDCA3JQePFnuSnNwK3H1bEVKPtpGO2mHaHbTwdTiNiKyWenBaRvfSN5Xbknz5NNW8a5Vup7"
@@ -32,19 +32,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLIn5YBeQ0Gvr_J01JMeKKUwcF5UosmWmt-mwXMpSADBHw5KM6u8PZOw77oxHKStClMWHQdwamXcDWWcNwEOuvJxwqpfrzvHox_vGN5OeEI_lw9MQyULKsU3zEBxhAZLd3ZkIURnyhYlOAQcnCg=="
 game: unknown
 hero_image: /img/best-healer-build-nte-20260520/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-build-nte-20260520/inline-1.webp
   - /img/best-healer-build-nte-20260520/inline-2.webp
   - /img/best-healer-build-nte-20260520/inline-4.webp
   - /img/best-healer-build-nte-20260520/inline-5.webp
   - /img/best-healer-build-nte-20260520/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Survival in the high-stakes urban anomalies of Hethereau requires more than just high DPS; you need a sustainable recovery plan to handle the game's aggressive boss mechanics. This guide breaks down the best healer builds in Neverness to Everness (NTE), focusing on the optimal Arcs, Cartridges, and team synergies for the current Version 1.0 meta.
 
@@ -61,7 +61,7 @@ Currently, the healer roster is divided between dedicated medics and hybrid sust
 
 ### Top Healer Rankings in Version 1.0
 
-The following table compares the top healers available as of the 2026-04-29 launch
+The following table compares the top healers available as of the 2026-04-29 launch:
 
 | Esper | Rarity | Element | Primary Role | Scaling Stat |
 | :--- | :--- | :--- | :--- | :--- |
@@ -129,7 +129,7 @@ This set is ideal for Edgar when paired with modules that already provide high f
 
 ### Substat Priority and Optimization
 
-When farming Modules for your healer's Console, prioritize the following stats
+When farming Modules for your healer's Console, prioritize the following stats:
 1.  **HP%:** The most important stat for Edgar and Fadia.
 2.  **Energy Recharge:** Essential for keeping Ultimates like "Finnegan's Wake" or "Final Reckoning" available.
 3.  **Healing Bonus%:** Usually found as a main stat on Type III or IV Modules.

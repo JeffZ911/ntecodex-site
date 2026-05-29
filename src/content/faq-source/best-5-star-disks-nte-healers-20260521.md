@@ -1,4 +1,4 @@
---
+---
 title: Best 5-Star Disks for Healers in Neverness to Everness (NTE)
 slug: best-5-star-disks-nte-healers-20260521
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1842
 published_at: "2026-05-21T23:05:47.266325+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkClVKPQpua97Q347QVZrkl_MweAprWxTBf7gmF0pDdhNdKM1yjnBLto32NFmD2uxcnviXE8uUXI4sHaBTTahfAuaAhPy5cOyhVCbzNj1EX4oexD3G0_Nxkw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3G2anYxxwPCoQ_q0ts6Xw-lBDsI_uQZezeMA2Vv7w6MJyLieDlmnSnJk6Z04u3x1mcgiEv4Ndd-SHSRHoM-uZvBkPePjCxLrKqyK5PkpRWt4WO1s5cy9poS8lpo9SqLZNRajyJeWYFrn"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxiIOvhcGtdpsImN6J9mqDJfAu7BXsuPEhCv3J9vMpvOaXu1EWfBRGcChNh0K89yd5-sufHzFjCI8z9cJy9CLxrxMfVR2dwkadJeY9u-bYvbpjUO_gy9re0Jjqw88qilnfBx3csGl7-WMm0g="
@@ -25,17 +25,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7NCmEupT5vtRJzaZI7LCl9rKIKmTzJwxoC4MhcdmNSKaRWKpu8SuR-_i2mmWg0WzQMEQpo265gurtjHPUUiEPuVOftrdZMJPCoSIxWXA93uYS57HmFlm31D-cvJQ6fSQYnUhWanHHLhoQSmco2U1BsSQ4I_wL"
 game: unknown
 hero_image: /img/best-5-star-disks-nte-healers-20260521/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disks-nte-healers-20260521/inline-1.webp
   - /img/best-5-star-disks-nte-healers-20260521/inline-2.webp
   - /img/best-5-star-disks-nte-healers-20260521/inline-3.webp
   - /img/best-5-star-disks-nte-healers-20260521/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Selecting the correct equipment for your sustain units is the difference between a smooth urban exploration and a frustrating wipe in high-level Anomaly Hunts.
 

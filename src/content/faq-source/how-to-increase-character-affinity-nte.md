@@ -1,4 +1,4 @@
---
+---
 title: How to Increase Character Affinity in Neverness to Everness (NTE)
 slug: how-to-increase-character-affinity-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1664
 published_at: "2026-05-24T09:56:35.918203+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXeLELOR7W2bTTYBI8Vs02n5unf-dTihJ483IaUT8yzPaAgqZsbCtvuOiawfRj1e4rXfk1CahHMsRUxDNjNs7ZAnKvTuCJM4OBEo3zvJlb2vrU_eeV3s2b2R9uiW1I6rWnVcCQZ3Loi-0mkPMVWiz-6b9leOBiN2mpxD3KIRlDzrNZ7Qc4A-5hqn95Wp2H5QmX9ETIcZso"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGBJmpiam6xisXqQuMvPsgQubc9l87QIz16CNKoHfm_ZW72bM7BGIudFtOpMk_ix45dLcT7NEMAM8vssG-ovlmyP_TVuDw74loMyA-oDHVXB0QtuHe8rVivehKTi6hTklwFl4HEPY2owHjC_AJ8trikLlaA_6nUk8n69p6vuZLpEM="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtJ1WsgfMM4y4XQbot81lO-jjHf5gfI8B_EISEkfNEzl3rW6o-0BdgPixr0U2lfLgBh4riYwlaeF7DdXSlaoo7af9hN-Flb6eEror0TzWx6frjQAe0EPzKoXZ0sSfJnACl9Mc2LONmfAcduXC3rHzjlU84rCUyaGGIeXIEddLitpPGID4dQhP8eMQUa2gI1ceCn3VTwF9J2Ns="
@@ -29,15 +29,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN9Zpo_6pflJjUJEQO2cpqTFK0DGJMlv6ouyQVO4quYlSX0nF_jA96zYbZsWtFsc8oH64Anb-jOFcJHI7PSjbCaAUM-3d06YCL75opevnO9mzs6ltOqQYAMtDMTstzW4fupDqggA=="
 game: unknown
 hero_image: /img/how-to-increase-character-affinity-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-increase-character-affinity-nte/inline-1.webp
   - /img/how-to-increase-character-affinity-nte/inline-2.webp
   - /img/how-to-increase-character-affinity-nte/inline-3.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
---
+---
 
 Building strong relationships with your companions in Hethereau is more than just a social exercise; it is a core progression mechanic that unlocks powerful stat boosts and exclusive rewards. This guide covers everything you need to know about how to increase character affinity in Neverness to Everness (NTE).
 
@@ -52,7 +52,7 @@ Building strong relationships with your companions in Hethereau is more than jus
 
 The Bond system in Neverness to Everness is a relationship-tracking mechanic that measures the level of trust and intimacy between the protagonist, Esper Zero, and the various Espers recruited throughout the game. Players often wonder how to navigate the 10-tier Bond Level structure and what the most efficient methods are for reaching the maximum affinity with their favorite characters.
 
-Key questions regarding affinity progression include
+Key questions regarding affinity progression include:
 
 *   **What is the Bond system in Neverness to Everness?** It is a progression track for each character that unlocks lore, interactions, and combat bonuses.
 *   **How do I raise the affinity level of my Espers?** Affinity is primarily increased through daily gifting, urban interactions, and the "Home Time" apartment system.
@@ -91,7 +91,7 @@ Increasing affinity in NTE requires a blend of daily resource management and act
 
 Gifting is the cornerstone of the Bond system. Every character has a list of "Favorites" that can be viewed in their Bond menu. Giving a favorite item usually doubles or triples the AP gained compared to a neutral gift. For instance, giving Mint a standard snack might grant 50 AP, but giving her the "Waltz" music track provides a much larger boost.
 
-To optimize your daily 10-gift limit
+To optimize your daily 10-gift limit:
 1.  Identify your top three priority characters.
 2.  Give each of them 3 of their favorite gifts (9 gifts total).
 3.  Use the final 10th gift slot on a fourth character or a universal item.
@@ -125,7 +125,7 @@ High-level bonds (Level 4 and above) unlock "Urban Dates." These are specific lo
 
 Reaching **Bond Level 4** is a major milestone because it unlocks the **Home Time** feature. This allows you to invite a character to live in one of your owned properties, such as the Wiener Apartments or Fenglin Villa. 
 
-While in the apartment, characters will change into their casual loungewear and roam the rooms. You can engage in "Interactive Actions" which provide free AP once per day. These interactions include
+While in the apartment, characters will change into their casual loungewear and roam the rooms. You can engage in "Interactive Actions" which provide free AP once per day. These interactions include:
 *   **Hand-holding**
 *   **Ear Care (ASMR interaction)**
 *   **Sitting back-to-back**

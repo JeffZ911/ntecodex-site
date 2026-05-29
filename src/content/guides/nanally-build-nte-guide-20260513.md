@@ -1,4 +1,4 @@
---
+---
 title: "Best Nanally Build in Neverness to Everness: Weapons & Teams"
 slug: nanally-build-nte-guide-20260513
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T12:01:42.242416+00:00"
 published_url: /guides/nanally-build-nte-guide-20260513
 sources: []
 hero_image: /img/nanally-build-nte-guide-20260513/hero.webp
-inline_images
+inline_images:
   - /img/nanally-build-nte-guide-20260513/inline-1.webp
   - /img/nanally-build-nte-guide-20260513/inline-2.webp
   - /img/nanally-build-nte-guide-20260513/inline-3.webp
   - /img/nanally-build-nte-guide-20260513/inline-4.webp
   - /img/nanally-build-nte-guide-20260513/inline-5.webp
   - /img/nanally-build-nte-guide-20260513/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 [Nanally](/characters/nanally-guide-nte) has quickly established herself as the premier Anima-element DPS in Version 1.0 of Neverness to Everness, combining unmatched urban traversal with devastating follow-up attack damage. As the definitive damage benchmark for the game's launch period, mastering her kit is essential for clearing high-level Esper Cycle challenges.
 
@@ -71,7 +71,7 @@ The unique mechanic of this weapon is the "Commander Tiger Talisman." This effec
 
 ### Best F2P and 4-Star Alternatives
 
-For players who do not pull for her signature weapon, there are several viable alternatives
+For players who do not pull for her signature weapon, there are several viable alternatives:
 
 *   **Fluff of Fortitude (S-Rank):** Available through the Battle Pass, this Arc offers a raw 22% DMG multiplier. This bonus scales up to 28% when attacking enemies with low HP, making it an excellent "finisher" weapon for Nanally.
 *   **Oraora! (A-Rank):** This is the premier F2P choice. It rewards players for staying on-field by stacking Basic Attack DMG bonuses every time a hit lands. Since Nanally’s Underboss window encourages spamming the "Heavy Hitter!" combo, she can reach maximum stacks almost instantly.
@@ -98,7 +98,7 @@ In Neverness to Everness, character builds are defined by Cartridges (set bonuse
 The **"Fireflies and the Forest"** Cartridge set is the undisputed best choice for Nanally. It is specifically designed for Anima-element multi-hitters.
 
 *   **2-Piece Bonus:** Increases Anima DMG by 10%.
-*   **4-Piece Bonus:** When the character deals Anima DMG, they gain a stack of "Luminescent Grace." Each stack provides 7% Crit DMG, stacking up to 8 times (56% total Crit DMG). 
+*   **4-Piece Bonus:** When the character deals Anima DMG, they gain a stack of "Luminescent Grace." Each stack provides 7% Crit DMG, stacking up to 8 times (56% total Crit DMG).
 
 Given Nanally’s high hit rate during her Underboss window, she can reach the maximum 56% Crit DMG bonus in less than three seconds of combat.
 
@@ -130,7 +130,7 @@ The most powerful duo in Version 1.0 is Nanally paired with **Jiuyuan**. Jiuyuan
 
 ### F2P-Friendly Team Variations
 
-For players without a full S-Rank roster, Nanally remains highly effective when paired with accessible supports
+For players without a full S-Rank roster, Nanally remains highly effective when paired with accessible supports:
 
 *   **Premium Blossom Team:** Nanally (Main DPS), Jiuyuan (Sub-DPS), Esper Zero (Battery), [Sakiri](/characters/sakiri-nte-free-5-star-guide) (CC/Support).
 *   **F2P Blossom Team:** Nanally (Main DPS), Esper Zero (Battery), Haniel (ATK Buffer), Adler (Cosmos Enabler).

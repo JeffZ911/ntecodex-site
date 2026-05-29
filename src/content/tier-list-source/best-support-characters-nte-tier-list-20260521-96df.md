@@ -1,4 +1,4 @@
---
+---
 title: Best Support Characters in Neverness to Everness (May 2026)
 slug: best-support-characters-nte-tier-list-20260521-96df
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-characters-nte-tier-list-20260521-96df/hero.webp
-inline_images
+inline_images:
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-1.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-3.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-4.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-5.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Building the perfect team in Hesperia requires more than just high-damage Espers; you need a foundation of utility to survive the supernatural anomalies of the city. This Neverness to Everness support tier list breaks down the top characters keeping your squad alive and empowered as of the May 2026 meta.
 
@@ -38,7 +38,7 @@ Success in Neverness to Everness (NTE) hinges on how effectively you manage the 
 
 Ranking support units in NTE requires looking beyond raw numbers. Because the game utilizes a "quickswap" combat system centered on the Esper Cycle, a support's value is often determined by their "off-field" presence and how little time they need to take up on the active clock.
 
-Our evaluation is based on five primary criteria
+Our evaluation is based on five primary criteria:
 *   **Buff Magnitude and Uptime:** We prioritize characters who provide team-wide ATK and DMG increases with high uptime, ensuring your main DPS is always operating at peak efficiency.
 *   **Crowd Control (CC) Utility:** In urban combat scenarios where enemies often spawn in scattered groups, the ability to group, levitate, or freeze targets is invaluable.
 *   **Esper Cycle Generation:** Units that act as "batteries," generating energy for the team's Ultimates, allow for faster rotation speeds and more frequent invulnerability frames.
@@ -68,7 +68,7 @@ S-Tier characters are considered "must-haves" for competitive play. They offer u
 
 Sakiri remains the undisputed peak of the support hierarchy since the 1.0 launch. Her kit is designed around total battlefield control. Her Ultimate, "Devour Whole," creates a massive gravitational anomaly in the center of the arena, grouping all non-boss enemies into a tight cluster.
 
-*   **Buffing Capability:** Sakiri provides a flat 30% team-wide ATK buff that triggers whenever she uses her Skill. 
+*   **Buffing Capability:** Sakiri provides a flat 30% team-wide ATK buff that triggers whenever she uses her Skill.
 *   **CC Elite:** Her grouping is currently the strongest in the game, making her essential for timed challenges where enemy positioning is a bottleneck.
 *   **Stat Breakdown:** [Base HP and ATK values for Sakiri are information not yet publicly available as of 2026-05-21].
 
@@ -84,7 +84,7 @@ Released on the "Misty Tipsy Style" banner on May 15, 2026, Hotori has completel
 Haniel is the gold standard for accessibility. Despite being an A-rank unit, her performance often outshines S-rank supports due to the ease of obtaining her Resonance levels.
 
 *   **'Cheer' Mechanic:** Haniel's Skill, "Cheer," applies a stacking buff to the active character that increases Movement Speed and Energy Regeneration.
-*   **'Encore' Mechanic:** Her Ultimate, "Encore," creates a stage area that periodically heals allies and grants a 15% DMG bonus to all elemental types. 
+*   **'Encore' Mechanic:** Her Ultimate, "Encore," creates a stage area that periodically heals allies and grants a 15% DMG bonus to all elemental types.
 *   **May 17 Hotfix Impact:** A recent update significantly increased Haniel's base energy regeneration, making it much easier to maintain her "Encore" field indefinitely.
 
 ## A Tier

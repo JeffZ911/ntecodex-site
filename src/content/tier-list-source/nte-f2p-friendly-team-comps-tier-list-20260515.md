@@ -1,4 +1,4 @@
---
+---
 title: Best NTE F2P Friendly Team Comps Tier List (May 2026)
 slug: nte-f2p-friendly-team-comps-tier-list-20260515
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1764
 published_at: "2026-05-15T23:52:56.497289+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl06bRgRVbWjuDIRL7Vpix3h-oYmuGRTD3WfXwbSQ_HH8e160Q6rAs63tXsd5WR9RooE04zoM1eWhAnBEJ32shIlVufbfRHyLc32KYkS439LRSk24pCPR5e4Cw5D1EyJlrcw2K2hKFvC355tz4MD7WI0nGWOOHNaY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7T175P8taUkV63ynybnLHMSxZYL4us7q9E4Vv4Id7JJqc_pwIXHoPCo4Rw99J2yrl8Y9xf1akWoUIN2vXh4GIJYSvdPhNbO22qg_U8iSvqwQ9J2CXvhCZhp8vJcfawS9FNduU"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq-g6RdAVgENs36xlbxAWj-rg-JUHP0XGmQLagC35jLkfXGwNTCJiXyPjrZPZWIVuNipC4Hz_0vGSnynrNGEbSgCN10XdiZUL5YqoOszCHJfGbVBQp0VCTF-6TpC0Qt_LcpFIeuW7YiEtTbcX7PQ8SKiDd3VRY-SDiHReZhfKySQfH"
@@ -21,21 +21,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUQa_O46JTpTqF7xdaxeKaoRN01DGcO7-8d4FABoRMA1s0F4zpHu3B5_tsoTNWt6IT_q2-yCa8l5K9XR2wuTGkEGWO1e878CfBKiYOuT1cCbMjkvj1_s1tO8k9tyif6U3Sp0OrJBA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfaMcY6oSPpQNSreuKj55ou9rKf246BGMIv2c23m1s1HiV0SaNds54_4J9XBz1L3ogIigqHF6zJhpz__MLJESKWyz3PS84xBbwtR3tX2hMuuED0J1_mrGySLQ7mK7Q1FJBne4D6plOInIuOLs="
 hero_image: /img/nte-f2p-friendly-team-comps-tier-list-20260515/hero.webp
-inline_images
+inline_images:
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-1.webp
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-2.webp
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-3.webp
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-4.webp
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-5.webp
   - /img/nte-f2p-friendly-team-comps-tier-list-20260515/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Building a competitive roster in Neverness to Everness (NTE) does not require a massive investment of Fabricated Dice if you understand the intricacies of the Esper Cycle. While limited banners like [Nanally](/characters/nanally-guide-nte)’s "The Ichi-daime" offer immense power, the core mechanics of the game reward elemental synergy and rotation timing over raw rarity.
 
@@ -58,7 +58,7 @@ The Esper Cycle is a hexagonal elemental wheel where only adjacent elements can 
 
 ### Defining F2P Accessibility in NTE 1.0
 
-A team is considered F2P friendly if it meets three criteria
+A team is considered F2P friendly if it meets three criteria:
 1. It relies on no more than one non-guaranteed S-rank character (the Selector choice).
 2. It utilizes A-rank Arcs like "Marching Beyond Time" or craftable alternatives.
 3. Its core mechanics function at Awakening 0 (A0), though Awakening 6 (A6) is expected for Chiz due to her accessibility.
@@ -77,7 +77,7 @@ Balanced F2P teams must distribute roles effectively. A standard "Solid" team ty
 | **Chiz** | Cosmos | Main DPS | City Tycoon Level 18 |
 | **Skia** | Lakshana | Sub-DPS | Beyond The Rails Reward |
 
---
+---
 
 ## S Tier
 
@@ -89,7 +89,7 @@ S Tier teams are characterized by 100% uptime on elemental reactions and high sy
 ### Team 1: The Discord Shredder (High Break)
 
 *   **Composition:** Daffodil (Selector), Adler, Aurelia, and Zero.
-*   **Core Mechanic:** This team utilizes the advanced **Discord** reaction (Scorch + Nova) to melt boss stagger bars. 
+*   **Core Mechanic:** This team utilizes the advanced **Discord** reaction (Scorch + Nova) to melt boss stagger bars.
 
 The rotation begins with Adler applying Incantation to trigger **Scorch** (Incantation + Chaos). Swapping to Daffodil (Chaos) maintains the DoT while building her own meter. Once Aurelia (Psyche) enters, she triggers **Nova** (Chaos + Psyche). Because the target is affected by both Scorch and Nova, the **Discord** Trio-reaction activates, granting a massive increase to Break Efficiency. Zero acts as the flex unit, providing Cosmos bridging and extra damage during the Stagger Window.
 
@@ -115,7 +115,7 @@ Chiz is the strongest F2P DPS because her Awakening levels are free through the 
 
 For the Discord Shredder team, Adler should be equipped with the "Solid" type Arc to maximize his shield scaling. Chiz performs best with "Marching Beyond Time," an S-Class Arc that increases Cosmos damage after an Esper Cycle swap. F2P players should prioritize Consoles that offer "Cycle Rate" as a sub-stat to ensure faster swaps.
 
---
+---
 
 ## A Tier
 
@@ -142,7 +142,7 @@ Baicang excels in sustained fights where bosses have high resistance. By layerin
 *   **Blossom:** High initial burst (Vita Buds), but damage drops off if enemies move out of the turret range. Best for stationary bosses.
 *   **Scorch:** Lower initial damage, but 100% uptime regardless of enemy movement. Best for mobile anomalies like the Headless Rider.
 
---
+---
 
 ## B Tier
 
@@ -166,7 +166,7 @@ B Tier teams are recommended only for early-game exploration and story chapters 
 *   **Edgar (A0):** Provides a flat heal of [information unavailable] per tick of "Wild Current."
 *   **Verdict:** Adler is superior for F2P because shields prevent the "Stagger" effect from enemy hits, allowing you to maintain your combo.
 
---
+---
 
 ## C Tier
 
@@ -177,7 +177,7 @@ Avoid these setups in any timed content or Anomaly containment missions. These t
 
 ### The Trap of 'Highest Level' Only Teams
 
-New players often make the mistake of simply putting their four highest-level characters on a team. If these characters are, for example, Zero (Cosmos), Jiuyuan (Anima), Haniel (Psyche), and Aurelia (Psyche), the team has an "Elemental Lane Gap." Cosmos and Anima react, but there is no connection between Anima and Psyche. This results in the "Dead Elemental Pairings" listed below
+New players often make the mistake of simply putting their four highest-level characters on a team. If these characters are, for example, Zero (Cosmos), Jiuyuan (Anima), Haniel (Psyche), and Aurelia (Psyche), the team has an "Elemental Lane Gap." Cosmos and Anima react, but there is no connection between Anima and Psyche. This results in the "Dead Elemental Pairings" listed below:
 
 *   **Cosmos + Chaos:** No reaction.
 *   **Anima + Lakshana:** No reaction.
@@ -185,7 +185,7 @@ New players often make the mistake of simply putting their four highest-level ch
 
 Without these connections, you cannot fill the Esper Meter via swaps, forcing you to rely on slow Basic Attacks to generate energy. This effectively cuts your DPS by 60% compared to an S-tier synergistic team.
 
---
+---
 
 ## Recent Changes
 

@@ -1,4 +1,4 @@
---
+---
 title: "Best Zenless Zone Zero Anomaly Team Comps: Top Disorder Builds"
 slug: zzz-best-anomaly-team-comps
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T04:50:31.126023+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/zzz-best-anomaly-team-comps/hero.webp
-inline_images
+inline_images:
   - /img/zzz-best-anomaly-team-comps/inline-1.webp
   - /img/zzz-best-anomaly-team-comps/inline-2.webp
   - /img/zzz-best-anomaly-team-comps/inline-3.webp
   - /img/zzz-best-anomaly-team-comps/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the elemental chaos of New Eridu requires more than just raw power; it demands a deep understanding of how different attributes collide to create devastating reactions.
 
@@ -39,7 +39,7 @@ The current meta for Anomaly-based teams is defined by their consistency and the
 Core characters like Jane Doe, Burnice White, and Yanagi have become the pillars of this playstyle. Jane Doe provides relentless Physical pressure, Burnice offers the game's premier off-field Fire application, and Yanagi introduces specialized mechanics that enhance the damage of the Disorder reaction itself. This shift toward high-burst Anomaly compositions allows players to tackle the hardest content in Shiyu Defense with lower investment in traditional Crit Rate and Crit DMG stats, focusing instead on elemental synergy and rotation speed.
 
 ### What are Anomaly Teams in ZZZ?
-Anomaly teams are built around Agents belonging to the Anomaly Fighting Style. Unlike Attack Agents who scale primarily with Attack, Crit Rate, and Crit DMG, Anomaly Agents scale their damage through Anomaly Proficiency. Their primary goal is to apply an "Attribute Anomaly" state to the enemy as quickly as possible. These states include
+Anomaly teams are built around Agents belonging to the Anomaly Fighting Style. Unlike Attack Agents who scale primarily with Attack, Crit Rate, and Crit DMG, Anomaly Agents scale their damage through Anomaly Proficiency. Their primary goal is to apply an "Attribute Anomaly" state to the enemy as quickly as possible. These states include:
 *   **Assault (Physical):** Deals massive burst damage and interrupts the enemy.
 *   **Burn (Fire):** Deals continuous Fire damage over time.
 *   **Shock (Electric):** Deals periodic Electric damage and interrupts actions.

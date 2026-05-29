@@ -1,4 +1,4 @@
---
+---
 title: Best Support Healers in Neverness to Everness Tier List (May 2026)
 slug: best-support-healers-neverness-to-everness-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 2000
 published_at: "2026-05-22T14:50:27.834720+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE761oddnT-lYo_3OyO7yrqoGYzTBq2WAD-0KRLBPBiyYlLgtRpNk5cArCGTrkBdEUHwpc6StdJoH3cZstQjiuEDmng4fXTJnmPQrkMu5Jd5evOCRlFKrD3BCwuFLcpyHPZXl8taDKI1MWTzL-69JWf_BaqaFz_CHnpnDFfqCz_vN-ubqXDQRigL9sPsJxwY_gI5gZH"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLcKKfCsb97fFh3lV0ZrZTJkZngILwvxgmkmj16EnmfjQi1uDFJOLnI6wz9BQCk6kHe03a3g2GqWXKUtK1-dF3jd_SRdE-etOc53VIktziezSxUyvnB3DW5CVQtX0lxkGk9wTZCQ59HjH3ahMTXA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGLUpB5a-vdzcUwprMXVsVpL4QJFvX08lzGVK5M1ur9pLT0UEn0OY-U-5QQUHyoFI-jdSN3YklmTLdmoJp3mCwrux07Le4SRvz4Y6YDq_4KQWXC9qaoADrWwFx1lUvPwvo12Dy88zEVl90ZdDzB0y9ToWl4eda8OyQQTvCXMCnIFeZ7EIzt-oaEAMbBEhVXJpCe19YKiD5"
@@ -17,21 +17,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfgxVqW6DqRVQUhrvCiJYqdjTuPZDVHOBaiWZeJZVKsb2W85Wda40Ouc-pcX-lOl7ObhN00FIxjjFLY7XCn9XK63jDNODEbHW8h0tWHb4w6MOeXC-6ufUDDizFz3APs4rCl9YTCyT-4mGxLjRcJQhXPAcFpCueDGZtRAsTKe9Gm66S"
 game: unknown
 hero_image: /img/best-support-healers-neverness-to-everness-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-1.webp
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-2.webp
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-3.webp
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-4.webp
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-5.webp
   - /img/best-support-healers-neverness-to-everness-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in the supernatural city of Hesperia requires more than just high DPS; it demands a support core that can handle the escalating corruption of the Anomaly Pilgrimage. As of May 2026, the meta has shifted away from "pure" medics toward versatile Espers who provide healing alongside massive offensive buffs.
 
@@ -163,7 +163,7 @@ The meta in May 2026 has been significantly impacted by the Version 1.0.1 patch 
 The release of Hotori on May 13, 2026, shifted the support meta toward skill-duplication and Chaos-element reactions. Teams are now prioritizing characters who can interact with Hotori's "Time Stop" mechanic to maximize damage windows. This has led to a decline in the usage of stationary healers like Edgar and an increase in quick-swap buffers like Haniel.
 
 ### How the 1.0.1 Patch Changed Sustain
-Patch 1.0.1 introduced several balance adjustments
+Patch 1.0.1 introduced several balance adjustments:
 *   **Fadia Adjustment:** Her damage redirection was capped to prevent infinite stalling in the "Beyond the Rails" mode. This forces players to use her more strategically rather than relying on her to tank everything indefinitely.
 *   **Arc Buffs:** The introduction of the **"Stellar Symphony"** Arc has significantly boosted the healing output of Cosmos-element supports. This weapon allows characters like Edgar and Hathor to provide a small team-wide heal whenever they trigger an elemental reaction, slightly improving their viability in multi-target encounters.
 

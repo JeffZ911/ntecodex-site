@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Starter Character Guide: Best Free Units"
 slug: neverness-to-everness-starter-character-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-starter-character-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-starter-character-guide/inline-1.webp
   - /img/neverness-to-everness-starter-character-guide/inline-2.webp
   - /img/neverness-to-everness-starter-character-guide/inline-3.webp
   - /img/neverness-to-everness-starter-character-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Starting your journey through the supernatural streets of Hethereau doesn't require a massive financial investment to build a competitive roster.
 
@@ -36,7 +36,7 @@ Navigating the early hours of Hotta Studio’s urban open-world RPG requires a s
 
 New players often worry about the "gacha wall" hindering their progress, but Neverness to Everness (NTE) is generous with its starting lineup. You can currently obtain six characters without spending any premium currency (Annulith). These include the protagonist, Zero, and the powerful S-rank DPS Chiz, alongside a reliable supporting cast of A-rank units.
 
-Unlocking these characters is tied to specific milestones
+Unlocking these characters is tied to specific milestones:
 *   **Zero (S-rank):** Automatically available at the start of the game as the "Appraiser" protagonist.
 *   **Mint (A-rank):** Joins the party during the Prologue mission "The First Appraisal."
 *   **Adler (A-rank):** Acquired after completing the "Eibon Antique Shop" questline in the main story.
@@ -55,7 +55,7 @@ The most efficient way to build an early-game team in Hethereau is to focus on e
 
 Neverness to Everness provides six guaranteed free characters: Zero (S-rank), Chiz (S-rank), Mint (A-rank), Adler (A-rank), Haniel (A-rank), and Aurelia (A-rank). Players also receive a one-time S-rank selector after completing 50 pulls on the Standard Board (discounted to 40 pulls at launch). The best starter team focuses on the 'Cosmos' element synergy between Zero and Chiz, supported by Haniel's attack buffs.
 
-The following table summarizes the free characters available at launch and how to add them to your roster
+The following table summarizes the free characters available at launch and how to add them to your roster:
 
 | Character | Rarity | Element | Role | Unlock Method |
 | :--- | :--- | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ The smartest strategy is to wait until you have performed your first natural S-r
 
 ### Best F2P Team Compositions for the Early Game
 
-To clear the first three Anomaly Zones and reach Level 20 efficiently, use one of the following "Free-to-Play" (F2P) builds
+To clear the first three Anomaly Zones and reach Level 20 efficiently, use one of the following "Free-to-Play" (F2P) builds:
 
 **The Cosmos Core (Recommended)**
 *   **Main DPS:** Chiz
@@ -130,7 +130,7 @@ Rerolling in Neverness to Everness takes approximately [information unavailable]
 
 ### Early Game Resource Management: Level 1 to 20 Roadmap
 
-To avoid hitting a progression wall, follow this roadmap
+To avoid hitting a progression wall, follow this roadmap:
 1.  **Levels 1-10:** Focus exclusively on the Main Story. Do not spend materials on A-rank weapons (Arcs). Use the "Training Arcs" provided by the tutorial.
 2.  **Levels 11-15:** Begin the City Tycoon management. Assign Mint and Adler to the "Eibon Antique Shop" to generate passive income. This is where you begin farming materials for Zero and Mint.
 3.  **Levels 16-18:** Clear Anomaly Zone 1 and 2. This will provide the final experience needed to reach City Tycoon Level 18 and unlock Chiz.

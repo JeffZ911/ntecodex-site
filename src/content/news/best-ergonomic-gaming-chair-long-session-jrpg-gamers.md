@@ -1,4 +1,4 @@
---
+---
 title: Best Ergonomic Gaming Chair for Long Session JRPG Gamers (NTE)
 slug: best-ergonomic-gaming-chair-long-session-jrpg-gamers
 article_type: news
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 2305
 published_at: "2026-05-27T07:05:38.618192+00:00"
 published_url: /news/best-ergonomic-gaming-chair-long-session-jrpg-gamers
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXOu8NgtRiiTdpqQDufZfVK53mb1C-zUyzCj9N_qbMDSvALllq1pmeF6NK4y2npbWbygw1fQiMZwE4ND4hg8YoePMtR7UR5yXtpXYR_7Rfm6xF9MkEgxpatqP6EprCMGb_V8s93qVI8Lpt6jMuHw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWf9qypjHXapgCCfazNihHvWQzWN4JnFo2YzA-vfuYcpWmSf7xwuuug4vHMSh6wQWmL8k8xBzk7219fE4O37ojdkONsxKscGsmr5FYC3Z6wAFUL3vpSr3XNH8uIPbHo-IWRnGMWHeV0-b0frhxJP6PMiCIltxwlm9Bdt0axUpIxYODrsCJJPdqNSJV5UHFeErDoA2xOn4mxwQspf2C0yDBbPpK1WjvJjXBIqEYRpySJBwYg-V3N1bLmkdI3PSH2w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOrA-TVEp6KJLzfKwH4ubf2baOPG3MgzjkiOSAHWy4rghD5w0Ufhb1tf15OQ7WpOyt0KXGiuxzYGqRpQkgTfPcxQ9oimuNxJ4fhpIyFPELOW112G1cTyTfWz2jUsOJad3PahH6tmh64JmTGeH7OOKWNntY-gK3iTTbUKZcIhcP8OjB"
@@ -22,17 +22,17 @@ sources
 quick_answer: "The Secretlab TITAN Evo Nanogen is the top ergonomic gaming chair for long Neverness to Everness sessions, providing the adaptive lumbar support needed for Hethereau's hybrid driving and combat gameplay."
 game: multi
 hero_image: /img/best-ergonomic-gaming-chair-long-session-jrpg-gamers/hero.webp
-inline_images
+inline_images:
   - /img/best-ergonomic-gaming-chair-long-session-jrpg-gamers/inline-1.webp
   - /img/best-ergonomic-gaming-chair-long-session-jrpg-gamers/inline-2.webp
   - /img/best-ergonomic-gaming-chair-long-session-jrpg-gamers/inline-3.webp
   - /img/best-ergonomic-gaming-chair-long-session-jrpg-gamers/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "What Happened"
   - "Key Changes"
   - "Player Reactions"
   - "What's Next"
---
+---
 
 As Hethereau's anomaly hunters cross the one-month mark in Neverness to Everness, the physical toll of 100-hour grinds is becoming as real as the supernatural anomalies themselves.
 

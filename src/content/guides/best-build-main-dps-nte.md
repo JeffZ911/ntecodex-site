@@ -1,4 +1,4 @@
---
+---
 title: Best Build for Main DPS in Neverness to Everness (Nanally Guide)
 slug: best-build-main-dps-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T05:53:36.776336+00:00"
 published_url: /guides/best-build-main-dps-nte
 sources: []
 hero_image: /img/best-build-main-dps-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-build-main-dps-nte/inline-1.webp
   - /img/best-build-main-dps-nte/inline-2.webp
   - /img/best-build-main-dps-nte/inline-3.webp
   - /img/best-build-main-dps-nte/inline-4.webp
   - /img/best-build-main-dps-nte/inline-5.webp
   - /img/best-build-main-dps-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 [Nanally](/characters/nanally-guide-nte)’s high-octane combat style and gravity-defying mechanics have quickly made her the definitive Main DPS in the 1.0 meta of Neverness to Everness.
 
@@ -77,7 +77,7 @@ Ready-Ready is Nanally's signature weapon and the undisputed Best-in-Slot (BiS) 
 
 ### Best F2P & Budget Alternatives
 
-For players who did not pull for the signature weapon, there are several competitive options available
+For players who did not pull for the signature weapon, there are several competitive options available:
 
 *   **Fluff of Fortitude (S-Rank):** This is the premium Battle Pass option. It serves as a strong "stat stick" by providing a high base ATK and a passive that increases overall DMG by 22%. This bonus rises to 28% against enemies with less than 50% HP, making it an excellent "execution" weapon for boss fights.
 *   **Oraora! (A-Rank):** The best F2P alternative. This weapon stacks Basic Attack DMG every time a hit lands, up to 10 times. Given Nanally’s high-frequency combo strings, she can reach max stacks in less than three seconds. At Max Resonance (M5), Oraora! can rival S-Rank weapons in sustained combat.
@@ -160,7 +160,7 @@ To achieve maximum DPS, you must follow a strict rotation that ensures all buffs
 
 ### Sustained Damage & Energy Cycling
 
-Once the setup is complete, you move into the sustained damage phase
+Once the setup is complete, you move into the sustained damage phase:
 
 5.  **Step 5 (Sustain):** Spam Nanally’s Basic Attack combos. Every third hit, incorporate a **"Heavy Hitter!"** charged attack. This sequence triggers constant follow-up strikes from the Underboss and keeps the Vita Buds from the Blossom reaction exploding.
 6.  **Step 6 (Reset):** Once Ichi-daime's Authority ends (the purple glow on her weapon fades), swap back to **Esper Zero**. Use Zero’s basic attacks and skill to recharge the Esper Meter and prepare for the next cycle.

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Boss Fight Strategies: 1.0 Guide"
 slug: neverness-to-everness-boss-fight-strategies-20260519
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1626
 published_at: "2026-05-19T16:59:11.046342+00:00"
 published_url: /boss/neverness-to-everness-boss-fight-strategies-20260519
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENhFsI4aJ9Gjmyv9DfSimJOICCJDhQbgn6wUqiw97c_OHSv1Yr8-A_yK7bLn_on5eQ4Lf2yGYOEOKZ376fsk_7JZGFx9P4sNHg5Jqsx_Aq0en7WA0UxX9hfw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQXLj5q8C8m39JTttbs-dpxHFZ1ouQy3_jaWTM-oVhPMsrdvuvkCUzSEuxMa4SmKpVpxP0PpYMOQ2UNbYR11pdSIqxjgNmU9FWiOpUBZ08_Krog0qmEI5P5vEfWbV0aszb4uoMb2wUkBXJLg2x4B7d4Tt4KFUYj4DEQTPUeX_OEzlWqFExKXCX-VkkqPuVXHJe"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj-6jxp8C3hjSFMSM-XHn9kw4MrRqglfFDqZyREgmv2RP6z377ymKRlnKnJi3wkE5urdZ1yQ1IqwiEdMW354WhMxOzetl6gElEvFrBqWpJh9KzTk2VeZafq3hAiOwfl6IYiVQDT-yRGq8jeoTc7Nen9fgaxjCq0GsmAdVv_62Siu8D39XvyAS6vgIl500ca4jBvi_eTRtmQScNKrp_ht-LY78H9Q=="
@@ -25,19 +25,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTAj0wK_X-9TMorewJpzzE0HLvvjby3I0tcOXO0i-CuR1Qa6VSCz9PRX1TOtlYeiXiXWa3EiqMTL8JMJsV9A63_mVM0CS4UxsZUqoxwSKDyxLMeJXSE7CL42va8IawefyGgAXR31zIkkhe1HR_BxUS0EWLrTEMJ-RpMqSGMZV0gTudzLoFKhFfKGR4m4JEilpXqG0DXRaoAICzLclmX-forEqw7-NcPLPWrQ=="
 game: unknown
 hero_image: /img/neverness-to-everness-boss-fight-strategies-20260519/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-boss-fight-strategies-20260519/inline-1.webp
   - /img/neverness-to-everness-boss-fight-strategies-20260519/inline-2.webp
   - /img/neverness-to-everness-boss-fight-strategies-20260519/inline-3.webp
   - /img/neverness-to-everness-boss-fight-strategies-20260519/inline-4.webp
   - /img/neverness-to-everness-boss-fight-strategies-20260519/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Mastering the urban anomalies of Hethereau requires more than just fast reflexes; it demands a deep understanding of elemental cycles and boss telegraphs. In the high-friction environment of Neverness to Everness (NTE), successful boss encounters hinge on your ability to manage the Break Meter and trigger high-damage Esper Reactions.
 

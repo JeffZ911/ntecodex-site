@@ -1,4 +1,4 @@
---
+---
 title: Best Artifacts for Main DPS in Genshin Impact (2026 Guide)
 slug: best-artifacts-for-main-dps-genshin-impact
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-13T10:23:21.050124+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-artifacts-for-main-dps-genshin-impact/hero.webp
-inline_images
+inline_images:
   - /img/best-artifacts-for-main-dps-genshin-impact/inline-1.webp
   - /img/best-artifacts-for-main-dps-genshin-impact/inline-2.webp
   - /img/best-artifacts-for-main-dps-genshin-impact/inline-3.webp
   - /img/best-artifacts-for-main-dps-genshin-impact/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing a character's damage output requires a deep understanding of how modern artifact sets interact with region-specific mechanics like Natlan’s Nightsoul’s Blessing and the latest gameplay shifts in Version 6.x.
 
@@ -101,7 +101,7 @@ Marechaussee Hunter remains the most efficient domain to farm for any player who
 For characters that utilize the Bond of Life mechanic, such as Arlecchino and Clorinde, Fragment of Harmonic Whimsy is the undisputed BiS. The 4-piece set increases the character's DMG by 18% for 6 seconds when the value of a Bond of Life increases or decreases, stacking up to 3 times for a total of 54% DMG bonus. This set is highly niche but provides one of the highest raw damage multipliers in the game for the characters that can actually use it.
 
 ### Legacy Elemental Sets: Still Viable?
-While specialized sets have taken over, certain "legacy" sets still hold value
+While specialized sets have taken over, certain "legacy" sets still hold value:
 *   **Crimson Witch of Flames:** Remains competitive for Diluc or Hu Tao in Vape/Melt teams, though it is often outperformed by Marechaussee Hunter in Furina teams.
 *   **Blizzard Strayer:** Still the king of Freeze teams for Ayaka and Ganyu, providing up to 40% CRIT Rate against frozen enemies.
 *   **Deepwood Memories:** Essential for Dendro-based DPS like Alhaitham, though it is often carried by a support to allow the Main DPS to run Gilded Dreams.
@@ -127,13 +127,13 @@ As of Version 6.x, many Main DPS characters have "Energy Hungry" Bursts. For exa
 The 2026 meta relies heavily on off-field damage. The Golden Troupe set remains the best for Skill-based Sub-DPS like Fischl and Furina, providing up to 70% Skill DMG bonus. For newer off-fielders, the [Information not yet publicly available as of 2026-05-13] set has become a staple for [Information not yet publicly available as of 2026-05-13] teams.
 
 ### Support Sets that Buff Main DPS
-To reach the highest damage ceilings, your supports should run sets that directly buff the Main DPS
+To reach the highest damage ceilings, your supports should run sets that directly buff the Main DPS:
 *   **Scroll of the Hero of Cinder City:** The best set for Natlan supports. It provides a 12% Elemental DMG bonus for all nearby party members when a reaction is triggered, which increases to 40% if the wearer is in the Nightsoul’s Blessing state.
 *   **Noblesse Oblige:** Still the standard for ATK-scaling supports like Bennett.
 *   **Viridescent Venerer:** Still mandatory for Anemo supports to shred Elemental Resistance.
 
 ### Artifact Farming and Strongbox Tips
-Efficiency is key when spending Resin. The most efficient domains to farm in Version 6.x are
+Efficiency is key when spending Resin. The most efficient domains to farm in Version 6.x are:
 1.  **Sanctum of Rainbow Spirits (Natlan):** Drops Obsidian Codex (DPS) and Scroll of the Hero of Cinder City (Support).
 2.  **Denouement of Sin (Fontaine):** Drops Marechaussee Hunter (DPS) and Golden Troupe (Sub-DPS).
 

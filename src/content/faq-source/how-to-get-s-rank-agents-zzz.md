@@ -1,4 +1,4 @@
---
+---
 title: How to Get S-Rank Agents in Zenless Zone Zero (ZZZ)
 slug: how-to-get-s-rank-agents-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T04:01:14.146191+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-get-s-rank-agents-zzz/hero.webp
-inline_images
+inline_images:
   - /img/how-to-get-s-rank-agents-zzz/inline-1.webp
   - /img/how-to-get-s-rank-agents-zzz/inline-2.webp
   - /img/how-to-get-s-rank-agents-zzz/inline-3.webp
   - /img/how-to-get-s-rank-agents-zzz/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Finding the strongest characters in Zenless Zone Zero is the top priority for any Proxy looking to conquer the difficult challenges of the Hollows. S-Rank Agents represent the peak of combat efficiency, offering superior stats, unique passive abilities, and flashy Ultimate attacks that can clear entire waves of Ethereals in seconds.
 
@@ -30,7 +30,7 @@ Finding the strongest characters in Zenless Zone Zero is the top priority for an
 ![Question Restated](/img/how-to-get-s-rank-agents-zzz/inline-1.webp)
 
 
-Acquiring S-Rank Agents is a central goal for players, but the process can seem complex due to the various currencies and systems involved. New and veteran players often ask
+Acquiring S-Rank Agents is a central goal for players, but the process can seem complex due to the various currencies and systems involved. New and veteran players often ask:
 
 *   How do players acquire S-Rank Agents in Zenless Zone Zero?
 *   What are the different methods for obtaining the highest rarity characters?
@@ -58,7 +58,7 @@ The Signal Search system is the heart of character acquisition in Zenless Zone Z
 
 ### Understanding Signal Search Channels
 
-There are four primary types of Signal Search channels available in the menu. Each uses a specific currency and features a different pool of rewards
+There are four primary types of Signal Search channels available in the menu. Each uses a specific currency and features a different pool of rewards:
 
 1.  **Exclusive Channel:** This is where limited-time S-Rank Agents appear. These characters are usually available for about three weeks before rotating out. You must use **Encrypted Master Tapes** (the colorful ones) here.
 2.  **Stable Channel:** This is the permanent banner. It features a set pool of six standard S-Rank Agents and various S-Rank W-Engines. You use regular **Master Tapes** (the grey ones) here.
@@ -86,7 +86,7 @@ When you pull an S-Rank on a limited banner, there is a 50% chance it will be th
 
 The Stable Channel is where you spend the Master Tapes earned from leveling up your Inter-Knot rank or completing the Battle Pass. While you should generally avoid spending Polychromes here, the Stable Channel has a major milestone reward.
 
-After completing 300 searches on the Stable Channel, a "Recruitment" button appears. This allows you to pick one of the following standard S-Rank Agents to join your roster for free
+After completing 300 searches on the Stable Channel, a "Recruitment" button appears. This allows you to pick one of the following standard S-Rank Agents to join your roster for free:
 
 *   **Von Lycaon:** A powerful Ice Stun Agent essential for Ice-element teams.
 *   **Grace Howard:** An Electric Anomaly Agent who excels at applying Shock status.
@@ -128,7 +128,7 @@ Bangboos are also vital. S-Rank Bangboos like **Sharkboo** or **Amillion** provi
 
 ### Best Ways to Farm Polychromes
 
-To get S-Rank Agents, you need Polychromes. Each pull costs 160 Polychromes. To hit a 90-pull pity, you need 14,400 Polychromes. Here are the most reliable ways to farm them
+To get S-Rank Agents, you need Polychromes. Each pull costs 160 Polychromes. To hit a 90-pull pity, you need 14,400 Polychromes. Here are the most reliable ways to farm them:
 
 *   **Daily Errands:** Completing your daily tasks provides a steady 60 Polychromes per day.
 *   **Hollow Zero:** This roguelike mode offers weekly rewards, including Polychromes and Boopons. Clearing the "License Level" rewards provides thousands of Polychromes over time.
@@ -138,7 +138,7 @@ To get S-Rank Agents, you need Polychromes. Each pull costs 160 Polychromes. To 
 
 ### Current S-Rank Agent Roster and Roles
 
-As of mid-2026, the roster has expanded significantly since launch. However, the roles remain consistent. When pulling for an S-Rank, you should consider what your team lacks. A balanced team typically consists of
+As of mid-2026, the roster has expanded significantly since launch. However, the roles remain consistent. When pulling for an S-Rank, you should consider what your team lacks. A balanced team typically consists of:
 
 1.  **An Attack Agent:** Your primary damage dealer (e.g., Ellen, Zhu Yuan, or Soldier 11).
 2.  **A Stun Agent:** Responsible for filling the Daze bar to immobilize enemies (e.g., Lycaon, Koleda, or Qingyi).

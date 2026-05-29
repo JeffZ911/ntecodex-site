@@ -1,4 +1,4 @@
---
+---
 title: Best Disks for Main DPS in Neverness to Everness (NTE)
 slug: best-disks-for-main-dps-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T22:49:23.299673+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-disks-for-main-dps-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-for-main-dps-nte/inline-1.webp
   - /img/best-disks-for-main-dps-nte/inline-2.webp
   - /img/best-disks-for-main-dps-nte/inline-3.webp
   - /img/best-disks-for-main-dps-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character's damage in Neverness to Everness (NTE) requires a deep understanding of the Arc Disk system and how it interacts with the Console. Choosing the best disks for your Main DPS determines whether you can clear high-level Anomaly Commissions or struggle against the city's supernatural threats.
 

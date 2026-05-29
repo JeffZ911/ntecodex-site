@@ -1,4 +1,4 @@
---
+---
 title: Best Ergonomic Gaming Chairs for NTE Grinders with Back Pain
 slug: best-ergonomic-gaming-chairs-back-pain-nte
 article_type: news
@@ -11,17 +11,17 @@ quick_answer: The Razer Iskur V2 and Secretlab Titan Evo (2026) are the top ergo
 game: multi
 affiliate: true
 hero_image: /img/best-ergonomic-gaming-chairs-back-pain-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-ergonomic-gaming-chairs-back-pain-nte/inline-1.webp
   - /img/best-ergonomic-gaming-chairs-back-pain-nte/inline-2.webp
   - /img/best-ergonomic-gaming-chairs-back-pain-nte/inline-3.webp
   - /img/best-ergonomic-gaming-chairs-back-pain-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "What Happened"
   - "Key Changes"
   - "Player Reactions"
   - "What's Next"
---
+---
 
 Grinding for S-rank Anomalies in the neon-soaked streets of Hethereau shouldn't come at the cost of your spinal health.
 
@@ -147,4 +147,4 @@ As NTE expands its "Urban Saga" with more complex multiplayer modes, the trend o
 - NotebookCheck: NTE Unveiled
 - Razer Iskur V2 Product Page — https://www.razer.com/gaming-chairs/razer-iskur-v2
 - Secretlab Titan Evo Official Site — https://secretlab.co/products/titan-evo-2022-series
-- Herman Miller Gaming
+- Herman Miller Gaming — https://www.hermanmiller.com/products/seating/gaming-chairs/performance-ergonomic-gaming-chair/

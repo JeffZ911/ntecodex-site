@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Resonance System Explained: Full Guide"
 slug: neverness-to-everness-resonance-system-explained-20260516
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T05:28:38.248774+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-resonance-system-explained-20260516/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-resonance-system-explained-20260516/inline-1.webp
   - /img/neverness-to-everness-resonance-system-explained-20260516/inline-2.webp
   - /img/neverness-to-everness-resonance-system-explained-20260516/inline-3.webp
   - /img/neverness-to-everness-resonance-system-explained-20260516/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your Esper squad in Hella City requires a deep understanding of how character duplicates translate into raw power and mechanical utility. The Neverness to Everness Resonance system offers a flexible, non-linear approach to character progression that sets it apart from traditional urban RPGs.
 
@@ -32,7 +32,7 @@ Optimizing your Esper squad in Hella City requires a deep understanding of how c
 ![Question Restated](/img/neverness-to-everness-resonance-system-explained-20260516/inline-1.webp)
 
 
-Players transitioning from other gacha titles often have specific questions regarding how Neverness to Everness (NTE) handles character growth beyond basic leveling. The most common inquiries include
+Players transitioning from other gacha titles often have specific questions regarding how Neverness to Everness (NTE) handles character growth beyond basic leveling. The most common inquiries include:
 
 *   **What is the Resonance system in Neverness to Everness (NTE)?** The Resonance system is the duplicate-based progression mechanic found within the "Awaken" tab of the Esper menu. It allows players to use specific character resources to unlock passive stat boosts and major ability enhancements.
 *   **How does character duplication work in the Awaken menu?** When you pull a duplicate Esper from the Scarborough Fair gacha, it is converted into Mind Shards. These shards are the currency used to activate six distinct Awakening nodes (A1 through A6) on a character’s unique grid.

@@ -1,4 +1,4 @@
---
+---
 title: "Best NTE Team Comps for Exploration: Tier List (2026)"
 slug: best-nte-exploration-team-comps-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1784
 published_at: "2026-05-24T22:51:22.128070+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENTLtUBqdd_s_DKUDwU29nIHKzsVagwL9Pd96muRKbvF0wV1G8K9EvdM3X6Y8PhGMQm0Qe197EDOCvZgaKoqtshILZ5tksPcDp85YrWQXKylIyg-w73OWYDd39cnQSWUKGYAC0n3BzG5zj8t4c4mplopsf_i5qYmisGw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEshJTy0INp8eFx58qARInieuMn8J5fzcc3fsRhDW2gKf5BjwFnPtVXIA2AbTO8rPP0cOfBKzSBUaZgQ7usHXGkN_sA4M8q13lxoaHxbVvvqKfSDI0-SmxUthVGVDOeVnSDlzp47HFnBnWzFrsSu0ZUFtGndtkV6GScp_mG6uwKZyB2xJl5RldB"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOG9PMFbfnLUOdM9cpkQrYLFyhTsxneac2hO8_tYQKyimEcvcGRe9JKNK24B02jIlelIXSH0-Nzkhte40ZLe6fgCiu9dNJlpt9gf2eWGTM3owcRWgSnOX8UJEJjbS1Neil9n3gaFViaW54RdFIZNGIDrrVUMlAF7NZC7MexLTqnQ=="
@@ -19,21 +19,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU925YAO31EumVfZVKD9tkmrNh7tD3VCwoOTYVqcZz9mTMmuL4-RD1ZHQB0OwqCHXyPnrMP0hwppVYesYYH3NDXaqMVQgjrazAaB4U7VH8jJD8Qi83qeqOIeZBH1HSlvf-dmJT-EnSXh90TVs7fpY-pbMTdBmDRtgVdUoOV8fldlHnyljQkUkm9WE="
 game: unknown
 hero_image: /img/best-nte-exploration-team-comps-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-exploration-team-comps-tier-list/inline-1.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-2.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-3.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-4.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-5.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Hethereau is a massive urban playground, but traversing its skyscrapers and traffic-choked streets requires more than just a fast car. To efficiently clear the map and solve every Anomaly puzzle, players must build a team specifically optimized for mobility and resource management.
 

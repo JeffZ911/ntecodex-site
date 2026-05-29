@@ -1,4 +1,4 @@
---
+---
 title: "NTE Combat Mechanics for Beginners: Best Builds & Tips"
 slug: nte-combat-mechanics-beginners-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-combat-mechanics-beginners-guide
 sources: []
 game: unknown
 hero_image: /img/nte-combat-mechanics-beginners-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-combat-mechanics-beginners-guide/inline-1.webp
   - /img/nte-combat-mechanics-beginners-guide/inline-2.webp
   - /img/nte-combat-mechanics-beginners-guide/inline-3.webp
   - /img/nte-combat-mechanics-beginners-guide/inline-4.webp
   - /img/nte-combat-mechanics-beginners-guide/inline-5.webp
   - /img/nte-combat-mechanics-beginners-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Mastering the supernatural anomalies of Hesperia requires more than just fast reflexes; it demands a deep understanding of how your Espers interact through the Esper Cycle and the elemental wheel.
 
@@ -47,7 +47,7 @@ Every elite enemy and boss in Hesperia possesses a white bar beneath their healt
 When the Break Meter reaches zero, the enemy enters a "Staggered" state. During this window, the enemy is immobilized, and all damage taken is amplified by a base multiplier of 200% [exact value pending official confirmation]. This is the primary window for unleashing Ultimates and high-damage rotations.
 
 ### Perfect Dodging vs. Parrying
-Defensive play in NTE is divided into two distinct systems
+Defensive play in NTE is divided into two distinct systems:
 1.  **The Red Flash (Critical Dodge):** When an enemy is about to land a heavy hit, a red light flashes on their weapon or limb. Pressing the dodge button at this exact moment triggers a slow-motion "Anomaly Time" effect, allowing you to reposition and counter-attack without consuming additional stamina for a brief period.
 2.  **The Double Circle (Parry):** Certain telegraphed attacks display a "Double Circle" icon. If you timing a skill or a specific parry-enabled basic attack within these circles, you instantly fill a significant portion of your Esper Cycle Meter and deal massive Break damage to the enemy.
 
@@ -108,7 +108,7 @@ Disks are the primary way to customize your Esper’s stats. Each Esper can equi
 3.  **Incantation Whisper (A-Rank):** Essential for Adler, this set increases the duration of "Cursed" status effects by 5 seconds and boosts damage against enemies with depleted Break Meters.
 
 ### Substat Roll Priority
-When farming Disks via Anomaly Commissions, prioritize the following stats based on your role
+When farming Disks via Anomaly Commissions, prioritize the following stats based on your role:
 *   **Main DPS:** Crit Rate > Crit DMG > Elemental DMG% > ATK%.
 *   **Breakers (Shield Chippers):** Anomaly Intensity > Break Efficiency > ATK%.
 *   **Supports:** Cycle Rate > Energy Regeneration > HP% (if healing scales with HP).
@@ -136,7 +136,7 @@ This comp focuses on automated damage and area-of-effect (AoE) clearing.
 *   **Haniel (Support):** Provides shields and ensures the team remains healthy while the turrets do the work.
 
 ### Best F2P Team for Story Progression
-For players just starting, the following team provides a balance of healing, crowd control, and damage
+For players just starting, the following team provides a balance of healing, crowd control, and damage:
 1.  **Zero (Cosmos DPS):** Your reliable starter dealer.
 2.  **Edgar (Liquid/Healer):** Provides essential sustain for long boss fights.
 3.  **Haniel (Support/Buffer):** Increases the team's Cycle Rate, allowing for more frequent swaps.
@@ -158,7 +158,7 @@ A proper rotation ensures that you are never caught with your skills on cooldown
 If your Esper Cycle is filling slowly, focus on **Parrying**. A successful "Double Circle" parry provides a massive boost to the meter. Characters like Zero or Fadia also have "Redirect Skills" that can instantly fill a portion of the meter if they take damage while the skill is active.
 
 ### Maximizing Damage During Stagger
-Once the enemy's Break Meter is empty
+Once the enemy's Break Meter is empty:
 1.  Ensure all Support buffs are active.
 2.  Trigger your Main DPS's Ultimate.
 3.  Spam basic attack chains to take advantage of the 200% damage multiplier.

@@ -1,4 +1,4 @@
---
+---
 title: Best Support Build in Neverness to Everness (NTE Guide)
 slug: best-support-build-nte
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T05:47:27.534789+00:00"
 published_url: /guides/best-support-build-nte
 sources: []
 hero_image: /img/best-support-build-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-support-build-nte/inline-1.webp
   - /img/best-support-build-nte/inline-2.webp
   - /img/best-support-build-nte/inline-3.webp
   - /img/best-support-build-nte/inline-4.webp
   - /img/best-support-build-nte/inline-5.webp
   - /img/best-support-build-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing team-wide damage and survivability in Neverness to Everness (NTE) requires a deep understanding of how support characters manipulate the Esper Cycle and the break system. While high-tier DPS units like [Nanally](/characters/nanally-guide-nte) often take the spotlight, the effectiveness of any build is ultimately determined by the buffers and sustain units that enable them to perform.
 

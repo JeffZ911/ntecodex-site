@@ -1,4 +1,4 @@
---
+---
 title: Best 5-Star Support Weapons in Neverness to Everness (May 2026)
 slug: best-5-star-weapons-nte-support
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 1974
 published_at: "2026-05-21T21:32:42.166148+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH11DxDyQbitkLCL4y5uYj2X0gvWwmS1fvNGbJvvhZK4GvVhnj_-CfpBkDRZoBtYNF9Nqqe_ETd057Dpru8i3wwI4pKlOlQk6fwe3yZ7O-0rxKqhBc9Ij2YgKMKanWW7gxW4DKjIQ0Y2TuLatLTKOmkHL3wuhbQ8IM3v_5yiRU3vvJJY8u_4A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiLbn6lSVH1Sb7CK45x8n6D8EyVASi5fbBVeEg5igqXCxTtuEyH9Fv4iIZ84aVFJTzj24pUpieqXAE2TdTS0QnRWvgFYx6nxWdCsJVOfCs_S1CtEo96lgrv-U6WGxVVc5hyxxofTgJ1jYVtG0ubnZRj16QliTlNR7sq8TEHP2ltW61Sw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCGYibM7BQZZ44vFTFbaDQP1zgS1viSBiqV_6B_rNBpKH-hJ_-b71W3y0ahRDEJXChrymc0m8s2Qcn6V5owV0A_Z-kN5K9ESiywvZQz_ATWE_7PuNwhN2ydZjDNSrmeS9RGIkNXYc8GOsI3qPMxMD_LLrBOyRwM27Y1GE="
@@ -28,21 +28,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuo0gCPrzIxCh2t1A4zmMD88Q2JzwLFejpBxvDtibQVnaNQKSUgOMxoz8xU2dIaT0Tt1-uUy8vtYbPdlHMb8pT6lNnYO1WPBlnrx9UsWa39AJWU-uL-i_7M8Y3aKBrcAR8x_wR_iCgGQGI"
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-support/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-weapons-nte-support/inline-1.webp
   - /img/best-5-star-weapons-nte-support/inline-2.webp
   - /img/best-5-star-weapons-nte-support/inline-3.webp
   - /img/best-5-star-weapons-nte-support/inline-4.webp
   - /img/best-5-star-weapons-nte-support/inline-5.webp
   - /img/best-5-star-weapons-nte-support/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Optimizing your support units in Neverness to Everness (NTE) is the difference between struggling against High-Risk Commissions and clearing anomalies with ease.
 
@@ -57,7 +57,7 @@ Selecting the right Arc—the weapon system in NTE—requires a deep understandi
 
 This tier list evaluates S-rank and high-utility A-rank Arcs based on their contribution to team-wide damage ceilings and survivability. We prioritize weapons that offer "Off-field" activation, meaning the wearer can trigger powerful buffs and then be swapped out without the buff expiring.
 
-The following criteria were used for ranking
+The following criteria were used for ranking:
 *   **Team-wide Utility:** Arcs that provide ATK buffs, DMG multipliers, or Defense Ignore to the active character.
 *   **Break Intensity:** The efficiency at which the weapon helps deplete an enemy's Break Gauge.
 *   **Charge Efficiency:** The rate at which the wearer generates Ultimate Energy, ensuring high uptime for crucial support bursts.
@@ -66,7 +66,7 @@ The following criteria were used for ranking
 
 ### Support Stat Priorities
 
-In the current May 2026 meta, support characters generally prioritize stats in the following order
+In the current May 2026 meta, support characters generally prioritize stats in the following order:
 1.  **Charge Efficiency:** Essential for supports whose primary utility is locked behind their Ultimate.
 2.  **Break Intensity:** Critical for Chaos-element teams and for bypassing the high resistance of world bosses.
 3.  **Team ATK% / DMG%:** Direct multipliers that scale the Main DPS's output.

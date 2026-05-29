@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Progression Guide: How to Build Your Espers Fast"
 slug: nte-character-progression-guide-beginners-20260522
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1346
 published_at: "2026-05-22T20:56:26.719115+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBksL0jn9XPm8e_ADkpqceC2mpybupKObBL4dGZDn_mG1f5gU5fi1m3zFIDCmelEfuACBDF-Qd-7JSJtKi8Df5zDO4oCYYrUcP3de6K33wq94mKVmc6CJtlQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZuJZZlygNk-8-euxnGEjJrKie1BXO5H7OoCQTjmO54AVafVqzkp7jqlRNN0eN6-4suxlGEO_fCFcqTVfeENgjHgjdZvgjkbLs1wdyPsNuR7QNPukrenA4OMZzTxhow-L35lu0OMOlMmM8ERjBwzv5PlOfyq7mCA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqsUMpNVqp18yG7ewZluXTzVJU2h4fII4LFQ1vyAJVPpZzeq-1CZG1YukWkRWFZVRpuGFI_UA1xZdkMk3Da2OohIRp_0UIVnv9FhF4mjhmV4bTR8hjCfF43Dv7N8Z0W-FBAuaY-zH12PFZZ333D6egGxz2N5lS63JeG9fv"
@@ -31,17 +31,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKlcllkrf4IWXSCUz7l3qtTY4728PO61LWYGsUwMa4aDNCxUHLZNoD2Asfr8GfzFFzc0ch0YLbGghY-bM61E01sjOxvAAHi5-7lc11Tbo6xoL4Peuz0RsxZB56xGhrvX237Ixmk8kXsb3RVoRAFw8OOEySFqs5-mN8SW2-8D_p"
 game: unknown
 hero_image: /img/nte-character-progression-guide-beginners-20260522/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-progression-guide-beginners-20260522/inline-1.webp
   - /img/nte-character-progression-guide-beginners-20260522/inline-2.webp
   - /img/nte-character-progression-guide-beginners-20260522/inline-3.webp
   - /img/nte-character-progression-guide-beginners-20260522/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a powerful roster in Neverness to Everness (NTE) requires a strategic approach to resource management and a clear understanding of the city’s complex progression systems. Since the game’s release on April 29, 2026, many players have found that power scaling is gated not just by character levels, but by account-wide milestones and a unique gear system.
 
@@ -98,7 +98,7 @@ Once an Esper reaches their current level cap (e.g., Level 20 at Appraisal Level
 
 ### The Arc System: Enhancement, Ascension, and Mixing
 
-Arcs are the weapon system in NTE. They provide a base ATK stat and a unique passive effect. Upgrading an Arc involves three distinct processes
+Arcs are the weapon system in NTE. They provide a base ATK stat and a unique passive effect. Upgrading an Arc involves three distinct processes:
 
 1.  **Enhancement:** Raising the Arc's level using materials called "Dye" (Light, Colorless, or Chaotic Dye) and Beetle Coins.
 2.  **Ascension:** Breaking the level cap of an Arc. This requires materials like Iron Appleseed, Silver Appleseed, or Golden Appleseed, along with Drama Cores (Beginner, Master, or Collector’s). Arcs can reach a maximum level of 80.
@@ -108,7 +108,7 @@ Arcs are the weapon system in NTE. They provide a base ATK stat and a unique pas
 
 The Console system is NTE's alternative to traditional RPG equipment or "artifacts." Each character has a Console grid with a unique layout where you must fit geometric shapes called Modules.
 
-*   **Modules:** These are Tetris-like blocks (Type II, III, and IV) that provide stat boosts. Type II modules occupy two squares, while Type IV modules occupy four. 
+*   **Modules:** These are Tetris-like blocks (Type II, III, and IV) that provide stat boosts. Type II modules occupy two squares, while Type IV modules occupy four.
 *   **Cartridges:** These are the "core" pieces of the Console. The Cartridge you equip determines the set bonuses available to that character.
 *   **Set Bonuses:** To activate a Cartridge's 2-piece or 4-piece bonus, you must fit Modules of specific shapes or types into the grid.
 
@@ -136,7 +136,7 @@ Character Pixels are your most valuable resource for progression. They regenerat
 
 While Character Pixels govern combat growth, the City Tycoon system manages your economic growth. This "life-sim" mode uses a separate weekly stamina pool and is essential for generating "Fons," the currency used for high-level upgrades and purchasing items from the Hunter Exchange.
 
-Key City Tycoon milestones include
+Key City Tycoon milestones include:
 *   **Level 4:** Unlocks the "Cafe by Origen," your primary source of passive Fon generation.
 *   **Level 11:** Unlocks the "Pink Paws Bank Heist," providing a major Fon injection every two weeks at zero stamina cost.
 *   **Level 16:** A massive efficiency milestone where city stamina costs and rewards are increased by 100%, effectively doubling your progression speed.

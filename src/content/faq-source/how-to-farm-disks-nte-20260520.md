@@ -1,4 +1,4 @@
---
+---
 title: "How to Farm Disks in Neverness to Everness (NTE): Full Guide"
 slug: how-to-farm-disks-nte-20260520
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-farm-disks-nte-20260520/hero.webp
-inline_images
+inline_images:
   - /img/how-to-farm-disks-nte-20260520/inline-1.webp
   - /img/how-to-farm-disks-nte-20260520/inline-2.webp
   - /img/how-to-farm-disks-nte-20260520/inline-3.webp
   - /img/how-to-farm-disks-nte-20260520/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your Esper's combat potential requires a steady supply of high-quality equipment, which is why understanding the most efficient ways to acquire Arcs is vital for every player in Hethereau.
 
@@ -61,7 +61,7 @@ Disks (officially called Arcs) are primarily farmed through the Arc Research Pro
 | **Tycoon Leveling** | Tri-Keys & Annulith | Milestone Rewards | Passive |
 
 ### Primary Currencies Involved
-To farm Disks effectively, you must manage three core currencies
+To farm Disks effectively, you must manage three core currencies:
 *   **Annulith:** The primary "freemium" currency used to buy Tri-Keys. 160 Annulith equals 1 Tri-Key.
 *   **Tri-Keys:** The specific ticket used for the Arc Research Program. Unlike character banners that use Solid Dice, the Arc banner strictly requires Tri-Keys.
 *   **Fons:** The standard gold/credit currency used for upgrading Arcs once you have farmed them.
@@ -76,7 +76,7 @@ Farming in Neverness to Everness is a multi-layered process. It involves a mix o
 ### The Arc Research Program (Gacha Mechanics)
 The most common way to get new Arcs is the Arc Research Program. This is the dedicated weapon banner in NTE. A unique mechanic of this banner is that it does not allow for single pulls; you must use 10 Tri-Keys at once for a multi-pull. 
 
-The drop rates for the Arc Research Program are as follows
+The drop rates for the Arc Research Program are as follows:
 *   **S-Class Arcs:** 3%
 *   **A-Class Arcs:** 7%
 *   **B-Class Arcs:** 90%
@@ -84,7 +84,7 @@ The drop rates for the Arc Research Program are as follows
 While the 3% rate for S-Class items is relatively generous compared to other urban RPGs, the lack of single pulls means you must save up 1,600 Annulith before you can attempt to farm this banner. 
 
 ### Farming Tri-Keys and Annulith
-Since Tri-Keys are the gateway to Arcs, your daily farming loop should focus on Annulith. You can acquire this currency through several consistent streams
+Since Tri-Keys are the gateway to Arcs, your daily farming loop should focus on Annulith. You can acquire this currency through several consistent streams:
 1.  **Circle Bounties:** These are your daily quests. Completing all four daily tasks provides a significant chunk of Annulith.
 2.  **Anomaly Hunts:** These function as weekly boss challenges. Defeating high-level Anomalies for the first time each week rewards Annulith.
 3.  **Achievements:** NTE has an extensive achievement system. Many of these are simple tasks, such as driving a certain distance or visiting specific shops in Hethereau, which reward small amounts of Annulith that add up over time.
@@ -110,7 +110,7 @@ Every time you use a Tri-Key in the Arc Research Program, you earn a secondary c
 The Arc Shop is the best way to bypass gacha RNG. It features a rotating selection of S-Rank Arcs. Currently, a specific S-Rank Arc costs 25 Tri-Keys' worth of residue. This means that even if you have bad luck with your pulls, every 250 pulls (or 25 multi-pulls) effectively guarantees you can pick exactly the S-Rank Disk you need from the shop.
 
 ### Optimizing Your Daily Farming Loop
-To maximize your Disk farming, follow this daily routine
+To maximize your Disk farming, follow this daily routine:
 *   Log in and complete all **Circle Bounties** (approx. 10 minutes).
 *   Check the **Anomaly Agency** for any new bounties or "Anomaly Hunts" that have reset.
 *   Spend your **Stamina** (Fons) in the Bubble Can Factory to get upgrade materials (this ensures your farmed Disks are actually usable).
@@ -144,7 +144,7 @@ A common point of confusion for new players is the difference between Arcs and M
 Modules are farmed in the **Rabbit Hole**, a multi-floor dungeon that gets progressively harder. While Disks provide the "soul" of your Esper's build through passive effects, Modules provide the "body" by filling out your base stats like Crit DMG and Elemental Mastery.
 
 ### Recommended Disks for Early Game
-If you are struggling to find S-Rank Disks, do not ignore A-Rank (Purple) Arcs. Several A-Rank options are highly competitive when fully upgraded
+If you are struggling to find S-Rank Disks, do not ignore A-Rank (Purple) Arcs. Several A-Rank options are highly competitive when fully upgraded:
 *   **Street Brawler (A-Rank):** Excellent for physical attackers; provides a stacking ATK buff every time you land a basic attack.
 *   **Neon Pulse (A-Rank):** The go-to for support Espers, as it increases the rate at which your team gains Fons.
 *   **Digital Ghost (A-Rank):** Great for evasion-heavy playstyles, providing a damage boost after a Perfect Dodge.

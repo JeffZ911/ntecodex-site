@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Beginner FAQ: Tips, Banners, and Guide"
 slug: neverness-to-everness-beginner-faq-20260523
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-beginner-faq-20260523/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-beginner-faq-20260523/inline-1.webp
   - /img/neverness-to-everness-beginner-faq-20260523/inline-2.webp
   - /img/neverness-to-everness-beginner-faq-20260523/inline-3.webp
   - /img/neverness-to-everness-beginner-faq-20260523/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Starting your journey in the supernatural city of Hesperia requires more than just a fast car; you need to master the Esper Cycle and the unique Scarborough Fair gacha system.
 
@@ -94,7 +94,7 @@ Upgrading your City Tycoon level unlocks new districts of Hesperia and provides 
 
 ### Character Progression: Arcs, Consoles, and Artifacts
 
-Character power in NTE is determined by three main factors
+Character power in NTE is determined by three main factors:
 
 1.  **Arcs:** These are the primary weapons. Each Arc has a unique passive ability that can drastically change how an Esper plays.
 2.  **Consoles:** The gear interface where you equip Artifacts.
@@ -121,7 +121,7 @@ Once you reach Account Level 45, you unlock "Beyond the Rails." This is the prim
 
 ### Hesperia Exploration Checklist
 
-To maximize your account's power, you should keep an eye out for the following while exploring the city
+To maximize your account's power, you should keep an eye out for the following while exploring the city:
 
 *   **Oracle Stones:** These are glowing blue crystals hidden in alleys and on rooftops. Collecting them allows you to upgrade your maximum stamina and dash distance.
 *   **Anomaly Furniture:** Occasionally, you will encounter "glitched" objects in the world. Defeating the anomaly attached to them allows you to collect the furniture for your apartment. Placing these items provides permanent, minor stat buffs to your entire roster.

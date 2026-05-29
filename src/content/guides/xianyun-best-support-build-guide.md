@@ -1,4 +1,4 @@
---
+---
 title: "Xianyun Best Support Build Guide: Best Weapons & Artifacts"
 slug: xianyun-best-support-build-guide
 game: genshin
@@ -9,21 +9,21 @@ published_at: "2026-05-14T01:51:47.806900+00:00"
 published_url: /guides/xianyun-best-support-build-guide
 sources: []
 hero_image: /img/xianyun-best-support-build-guide/hero.webp
-inline_images
+inline_images:
   - /img/xianyun-best-support-build-guide/inline-1.webp
   - /img/xianyun-best-support-build-guide/inline-2.webp
   - /img/xianyun-best-support-build-guide/inline-3.webp
   - /img/xianyun-best-support-build-guide/inline-4.webp
   - /img/xianyun-best-support-build-guide/inline-5.webp
   - /img/xianyun-best-support-build-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Xianyun, the human form of the Adeptus Cloud Retainer, has transformed the tactical landscape of Genshin Impact by making plunge attacks a viable playstyle for every character in the game. This guide provides a detailed breakdown of the best weapons, artifacts, and team compositions to maximize her potential as a premier Anemo support.
 

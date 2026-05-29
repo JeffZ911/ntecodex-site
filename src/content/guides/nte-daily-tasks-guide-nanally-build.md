@@ -1,4 +1,4 @@
---
+---
 title: "NTE Daily Tasks Guide: Best Nanally Build for Efficient Farming"
 slug: nte-daily-tasks-guide-nanally-build
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-daily-tasks-guide-nanally-build
 sources: []
 game: unknown
 hero_image: /img/nte-daily-tasks-guide-nanally-build/hero.webp
-inline_images
+inline_images:
   - /img/nte-daily-tasks-guide-nanally-build/inline-1.webp
   - /img/nte-daily-tasks-guide-nanally-build/inline-2.webp
   - /img/nte-daily-tasks-guide-nanally-build/inline-3.webp
   - /img/nte-daily-tasks-guide-nanally-build/inline-4.webp
   - /img/nte-daily-tasks-guide-nanally-build/inline-5.webp
   - /img/nte-daily-tasks-guide-nanally-build/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Optimizing your daily routine is the fastest way to build a powerful account and ensure your characters are ready for high-level Hethereau anomalies.
 
@@ -113,7 +113,7 @@ Another specialized option is the **[Information not yet publicly available as o
 
 ### Module and Geometry Optimization
 
-When slotting Cartridges into Nanally's Console, you must pay attention to the Module stats. For efficient daily farming, you want to ensure Nanally can "one-shot" standard mob waves. Priority should be given to the following stats
+When slotting Cartridges into Nanally's Console, you must pay attention to the Module stats. For efficient daily farming, you want to ensure Nanally can "one-shot" standard mob waves. Priority should be given to the following stats:
 
 1.  **Main Stat (Geometry Slot 4):** Anima DMG Bonus.
 2.  **Main Stat (Geometry Slot 2):** ATK% or CRIT Rate.

@@ -1,4 +1,4 @@
---
+---
 title: "How to Increase NTE Union Level: Hunter Level Guide"
 slug: how-to-increase-nte-union-level-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T11:53:32.210336+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-increase-nte-union-level-guide/hero.webp
-inline_images
+inline_images:
   - /img/how-to-increase-nte-union-level-guide/inline-1.webp
   - /img/how-to-increase-nte-union-level-guide/inline-2.webp
   - /img/how-to-increase-nte-union-level-guide/inline-3.webp
   - /img/how-to-increase-nte-union-level-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Reaching the top of the urban food chain in Hethereau requires more than just high-end sports cars and powerful Espers. To unlock the most challenging content and the best gear, you must focus on increasing your Hunter Level, the primary progression metric in Neverness to Everness.
 
@@ -64,7 +64,7 @@ For one-time EXP boosts, completing Main Story Episodes and Side Spin-offs is th
 | Unlocking Towers/Phone Booths | 100 EXP | One-time |
 
 ### The Quick Start Checklist
-To maximize your efficiency during the first week of play, follow this daily priority list
+To maximize your efficiency during the first week of play, follow this daily priority list:
 1. **Complete all Participation Tasks:** Aim for the 100-point reward chest.
 2. **Burn all Character Pixels:** Never let your Pixels sit at the 240 cap.
 3. **Progress the Main Episode:** Push the story until you hit a level lock.

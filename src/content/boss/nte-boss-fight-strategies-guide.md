@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Boss Guide: Best Strategies & Team Comps"
 slug: nte-boss-fight-strategies-guide
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.1
 word_count: 1832
 published_at: "2026-05-15T22:04:27.840828+00:00"
 published_url: /boss/nte-boss-fight-strategies-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbeNkSEtCSMEKm3H6_mxTq7CKLRAVodEY57z7_g59zYVCI_r94wr_1GvyRyjQadWZoFae5-zCctZ6BJaVDr4JB4b4HvKSb6_7EMRKbhuENlwGlk_zHkHOf4A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtiD6BuIpYuvr7ISBXmP9J2Id3NpDHUJ3lDMEykKOZsY2MXL-5dflhSF6JUQlgfyIZKAXBwnFKlU07SjIhKtZal1IpIOBB62FquRD5r-nShePhTFdcsDIbIpUZ1c6TlFjPq_clVH5x-ZN12p5uu0BYFmexKWMHz9mqOhtrbQdfA3mUbgP-OQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYxOoGuAN5B4-QRWU_wX3vd-bkYaJCBE5nUeU7QDEIV3ekoatxAoJsvGNf-Y2od6ddMR3dknLEuAPgINodHvQ7r73uA477A-KxKbqHtDDMHpfcqAArCNA5m87pkFFfBRT4J-iwvUy5WuUWX8fIe7gqsK6pm4gWUATxKR02y8ovJtNwWit_33zvmTqP7q8bbpbqBGaowOg_m_RQVxHAxknaw5_bg=="
@@ -26,19 +26,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGizFmqNsN6s3ZOA6m1xDa2h1r4K-vhoVQ1ZOYUyj7s_6DTxJDKev-OJlpAYAFlaUVg2n8LgsE53FmC7455X9zGr6JeQ_pj4vdaq8_Oaz79XQC_luTY0G2z1r6F1aMSawo1v0lHNEGqeUU1Y9TEXH8dR7eoNxZcAbIPM9Qa9LTLESomEA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDbpukOPAbuzJoX67OBZIJmTxiB3sOMYMI2H8329gtollUwwerEjH-yd8vH4L1qbJ-_qoLEuZmAY5X-cSkDhc-ut1mtACk8-DvaYNsdQhjlEoX82Ul4WeJZo3DgP2eGQh2K2SYegEcEONNKOmYfSeKku3Ca3jrcj7cWQ=="
 hero_image: /img/nte-boss-fight-strategies-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-boss-fight-strategies-guide/inline-1.webp
   - /img/nte-boss-fight-strategies-guide/inline-2.webp
   - /img/nte-boss-fight-strategies-guide/inline-3.webp
   - /img/nte-boss-fight-strategies-guide/inline-4.webp
   - /img/nte-boss-fight-strategies-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Defeating bosses in the supernatural urban landscape of Hethereau requires more than just high-level gear; it demands a mastery of the Esper Cycle and perfect timing. Use this Neverness to Everness boss fight strategies guide to dismantle the Stability bars of elite Anomalies and maximize your weekly Fons income.
 
@@ -57,7 +57,7 @@ Bosses in NTE operate on a dual-bar system that dictates the flow of every encou
 
 ### Understanding the Break Meter
 
-The Break Meter is the central mechanic for all elite encounters. While the boss has Stability, they often possess high interruption resistance, meaning they can attack through your combos. Depleting this meter is achieved through three primary methods
+The Break Meter is the central mechanic for all elite encounters. While the boss has Stability, they often possess high interruption resistance, meaning they can attack through your combos. Depleting this meter is achieved through three primary methods:
 *   **Critical Ripostes:** Executed by performing a Basic Attack immediately after a successful Critical Dodge (Red Flash).
 *   **Parrying:** Successfully timing a Skill or Basic Attack against a "Double Red Circle" indicator.
 *   **Discord Reactions:** Combining Incantation, Chaos, and Psyche elements to trigger the Discord Trio Reaction, which deals the highest flat Break damage in the game.
@@ -102,7 +102,7 @@ Mastering boss attack patterns in NTE is a visual game. The UI provides specific
 
 ### Visual Cues: Red Flashes and Overlapping Circles
 
-There are two primary visual indicators you must monitor
+There are two primary visual indicators you must monitor:
 1.  **Red Flash:** A bright crimson glint on the boss’s weapon or body. This indicates a standard heavy attack. You must time your dodge at the exact moment of the flash to trigger a **Critical Dodge**. A successful dodge grants brief invincibility frames and allows for a Critical Riposte.
 2.  **Double Red Circle:** Two concentric red circles that close in on each other. This is the "Five Pillars of Parrying" indicator. You must execute a Basic Attack or Skill exactly when the two circles overlap. A successful parry fills your entire Esper Meter instantly, allowing for an immediate character swap and reaction.
 
@@ -173,14 +173,14 @@ The "Meta" for bossing in NTE revolves around how quickly a team can trigger Tri
 ### Best Team for Mammon (Fons Farming)
 
 The most consistent team for farming Mammon utilizes his weakness to Lakshana and the power of the Discord reaction.
-*   **The 'Discord' Meta Team:** Adler (Incantation), Daffodil (Chaos), and Fadia (Psyche). 
+*   **The 'Discord' Meta Team:** Adler (Incantation), Daffodil (Chaos), and Fadia (Psyche).
     *   **Logic:** This team is designed for maximum Break efficiency. Daffodil is the star here; her 'Resonance' skill increases Break damage by 50% once you reach 2 stacks, making her the fastest boss-breaker in the current roster.
 *   **The 'Stain' Burst Team:** Nanally (Anima), Jiuyuan (Lakshana), and Fadia (Psyche).
     *   **Logic:** This team focuses on high raw damage during the stagger window. By applying the 'Stain' debuff with Jiuyuan and Fadia, Nanally’s Anima-based basic attacks deal massive critical damage.
 
 ### F2P and Starter Team Compositions
 
-If you are just starting and haven't pulled S-Rank units like Daffodil, use the following F2P-friendly setup
+If you are just starting and haven't pulled S-Rank units like Daffodil, use the following F2P-friendly setup:
 *   **Team:** Zero (Cosmos), Edgar (Cosmos/Healer), and Haniel (Anima).
 *   **Key Reaction:** **Blossom**.
 *   **Strategy:** Zero and Haniel can trigger the Blossom reaction to spawn turrets that deal autonomous damage. This allows you to focus on dodging Mammon's attacks while the turrets chip away at his health.
@@ -202,7 +202,7 @@ Defeating bosses is the primary way to progress your account's economy and chara
 
 ### Fons Farming Efficiency
 
-Fons is the primary currency used to purchase cars, apartments, and high-end gear at the Ebisu Auction House. Mammon is the most reliable source of Fons, but there is a **weekly cap** that resets every Monday. To maximize efficiency
+Fons is the primary currency used to purchase cars, apartments, and high-end gear at the Ebisu Auction House. Mammon is the most reliable source of Fons, but there is a **weekly cap** that resets every Monday. To maximize efficiency:
 *   Level up your **Blind Mammon plushie** using **Covetous Coins**.
 *   Higher plushie levels unlock higher difficulty tiers in the Realm of Greed, increasing the Fons payout per run.
 

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Pity System Explained: Neverness to Everness Gacha Guide"
 game: nte
 slug: nte-pity-system-explained
@@ -9,17 +9,17 @@ published_at: "2026-05-10T13:04:58.349589+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-pity-system-explained/hero.webp
-inline_images
+inline_images:
   - /img/nte-pity-system-explained/inline-1.webp
   - /img/nte-pity-system-explained/inline-2.webp
   - /img/nte-pity-system-explained/inline-3.webp
   - /img/nte-pity-system-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is the first step toward building a powerful team of Espers without wasting precious resources.
 
@@ -32,7 +32,7 @@ Understanding the gacha mechanics in Hotta Studio’s urban supernatural RPG is 
 
 Players transitioning from other major gacha titles often find themselves asking: how does the pity system work in Neverness to Everness (NTE)? Unlike traditional systems that rely on a simple counter, NTE utilizes a unique "Scarborough Fair" board game mechanic that visually represents your progress toward S-class pulls.
 
-This system raises several specific questions for the community
+This system raises several specific questions for the community:
 *   What are the hard and soft pity thresholds for S-class characters?
 *   Is there a 50/50 mechanic in the NTE gacha system that could cause players to lose their guarantee?
 *   How does the weapon (Arc) banner pity differ from the character banner?
@@ -75,7 +75,7 @@ The Neverness to Everness pity system is built on a 90-pull hard guarantee, but 
 The absence of a 50/50 mechanic is the most significant feature of the NTE gacha. In games like Genshin Impact or Honkai: Star Rail, pulling a 5-star character only gives you a 50% chance of getting the featured unit. In NTE, if you see the S-class animation on a limited banner, you have successfully obtained the featured character. This drastically reduces the maximum cost of a character from the industry standard of 180 pulls down to just 90.
 
 ### Quick Summary of Gacha Currencies: Solid Dice vs. Fabricated Dice
-To participate in the Scarborough Fair, you need specific dice
+To participate in the Scarborough Fair, you need specific dice:
 *   **Fabricated Dice:** Used for Limited Character Boards (purchased with Annulith).
 *   **Solid Dice:** Used for the Standard Character Board (often rewarded via gameplay).
 *   **Tri-Keys:** Used for the Arc Research Program (Weapon Banner).
@@ -89,7 +89,7 @@ To participate in the Scarborough Fair, you need specific dice
 The Scarborough Fair isn't just a menu; it's a mini-game that dictates your rewards. You move your Chuppa piece across a circular board. Each tile you land on provides a reward, ranging from upgrade materials to the characters themselves.
 
 ### The Scarborough Fair Mechanic
-Every time you spend a Die, your Chuppa moves. The board contains several tile types
+Every time you spend a Die, your Chuppa moves. The board contains several tile types:
 *   **Journey Together:** These are the S-class character tiles. Landing here resets your pity.
 *   **Hero Chests:** These contain A-class characters. You are guaranteed to land on one of these (or an S-class) at least once every 10 pulls.
 *   **Miracle Boxes:** These contain high-tier enhancement materials for your Espers and weapons.
@@ -154,7 +154,7 @@ The launch version of Neverness to Everness features a packed schedule to kick o
 For a full look at the future, check the Neverness to Everness banner schedule.
 
 ### Top 3 Characters for the Standard Selector
-If you are unsure who to pick from your 50-pull guarantee, these three are currently dominating the meta
+If you are unsure who to pick from your 50-pull guarantee, these three are currently dominating the meta:
 1.  **Sakiri:** Her raw damage output makes clearing early-game urban anomalies significantly easier.
 2.  **Jiuyuan:** Essential for high-level challenge floors where grouping enemies is required.
 3.  **Fadia:** While others offer more damage, Fadia’s mobility makes navigating the open world of Hethereau much faster.

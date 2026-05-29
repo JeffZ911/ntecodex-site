@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Weapons in Neverness to Everness: NTE Arc Tier List"
 slug: best-5-star-weapons-nte-guide
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.7
 word_count: 2033
 published_at: "2026-05-19T22:22:37.190084+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUDy9DxoeVBzNs-WTQhWdpyP9U98hT5yuRBDqemX-qfWRvAoh7mAzsDYUwOJsDvy19e4l-hB-pRS500YSO9moWWxFiUm0bHdTXt82PXAYGKOPf5KT39FcfggLMS5IaZqEQWHVHRcVeC470PiG6m4KhR4ey2Ks4T_PXbPkEPpGoylf85fk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh0a7w0AxftRe-SZO1g-MFMi8U0yKDo3HmzVlbtgjlEdzTz9bFLvuCfp0OmZN9Y3t6GVt2nI87nQe3xjMAOJD2W7Is7Vj0-oKGfXPi9cBetoWaCYOHpiNwyD-Ek1V9BF7zvXpkg3o33k7kht9J0vI36RMloRuzDu1q2Jm7fsg_AClYSo2K5UmUt78xOt6du_-T5Tw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELrGNbHsR9eAYTyBXosrUSsic53NM_7evcnPMIT3G-KX6TgmrO5ngNuYeI8FXYFxtlKPWw8n3uZwjLaGBynysCmHJBIKGhFEZP2UaYysV0j1ayGUAv6BI1DkiFM3fyJcPzVpYTt-O2EnoPtvuySUxrQeJQzL138yNo1wKO34g="
@@ -27,21 +27,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZhVlGwniePusJ0oUOWny6acVNaD-lSPd25RznyHBAZVSO0OOTz71t8fBtrpp_vZqn3roTNQ5_s5BH9GiQRXCNzQddg8eHLy-z6xHHmgux_L18lykM1xmQiqSYxvpC7aHOzd9eQaspKPWiZtse-b5rhJXBtLaVFYNN5fsJ84a6Orzcvv0A"
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-weapons-nte-guide/inline-1.webp
   - /img/best-5-star-weapons-nte-guide/inline-2.webp
   - /img/best-5-star-weapons-nte-guide/inline-3.webp
   - /img/best-5-star-weapons-nte-guide/inline-4.webp
   - /img/best-5-star-weapons-nte-guide/inline-5.webp
   - /img/best-5-star-weapons-nte-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Optimizing your Espers in Hethereau requires more than just leveling up; you need the right Arcs to handle the city's increasingly dangerous anomalies.
 
@@ -60,12 +60,12 @@ This guide ranks every 5-star (S-Rank) weapon currently available as of May 19, 
 
 Ranking Arcs in Neverness to Everness involves balancing raw statistical power against the practical utility of their unique Arc Skills. Unlike standard RPG weapons, Arcs are categorized into distinct Types (Plasma, Solid, Gas, Liquid, and Synthesis) that must align with an Esper's archetype to unlock their full potential.
 
-Our ranking criteria focus on three primary pillars
+Our ranking criteria focus on three primary pillars:
 1.  **Stat Efficiency:** We prioritize Arcs with high Base ATK scaling (typically ranging from 512 to 666 at Level 80) and desirable substats like CRIT Rate or CRIT DMG over flat ATK% or defensive stats.
 2.  **Signature Synergy:** We evaluate how well an Arc complements its intended character's kit. For example, [Nanally](/characters/nanally-guide-nte)’s performance spikes dramatically when equipped with Ready-Ready due to the specific follow-up attack triggers.
 3.  **Versatility and Accessibility:** While gacha-exclusive Arcs often lead the pack, farmable S-Rank Arcs like Hethereau's Keeper and Day Off are weighted heavily for their high value-to-cost ratio for F2P players.
 
-The following table summarizes the different Arc Types and their primary roles in the current 1.0 meta
+The following table summarizes the different Arc Types and their primary roles in the current 1.0 meta:
 
 | Arc Type | Primary Combat Focus | Typical Substats | Ideal Role |
 | :--- | :--- | :--- | :--- |

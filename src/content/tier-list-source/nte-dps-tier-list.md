@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness (NTE) DPS Tier List: Best Characters (May 2026)"
 slug: nte-dps-tier-list
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T02:25:43.548016+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-dps-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-dps-tier-list/inline-1.webp
   - /img/nte-dps-tier-list/inline-2.webp
   - /img/nte-dps-tier-list/inline-3.webp
   - /img/nte-dps-tier-list/inline-4.webp
   - /img/nte-dps-tier-list/inline-5.webp
   - /img/nte-dps-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Dominating the neon-lit streets of Hethereau requires more than just a fast car; you need a team of Espers capable of shredding Anomaly cores. With the game's launch meta finally settling, choosing the right damage dealer is the difference between clearing high-level hunts and hitting a hard progression wall.
 
@@ -38,7 +38,7 @@ Success in Neverness to Everness hinges on your ability to manage the "Esper Cyc
 ![Methodology](/img/nte-dps-tier-list/inline-1.webp)
 
 
-Ranking characters in NTE involves more than looking at raw attack stats. The combat system is multi-layered, requiring a balance between sustained pressure and burst windows. Our evaluation follows five primary pillars
+Ranking characters in NTE involves more than looking at raw attack stats. The combat system is multi-layered, requiring a balance between sustained pressure and burst windows. Our evaluation follows five primary pillars:
 
 *   **Raw DPS Output:** The total damage potential in a standard 20-second rotation within the 1.0 environment.
 *   **Break Efficiency:** How effectively a character depletes the enemy's Stagger Meter. Characters with high "Break" values allow the team to deal massive "Downed" damage more frequently.

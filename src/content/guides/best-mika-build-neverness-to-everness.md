@@ -1,4 +1,4 @@
---
+---
 title: "Best Mika Build in Neverness to Everness: Arcs, Disks, and Teams"
 slug: best-mika-build-neverness-to-everness
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 7.5
 word_count: 1507
 published_at: "2026-05-19T11:01:29.029952+00:00"
 published_url: /guides/best-mika-build-neverness-to-everness
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFARjqrH9UhTmsFmI5a1lQwef497zWv06M0_wqR73-qlKSSkEsY3QFkXkVqf7hIfWk-5VFWUSqBjTYLKjRgxQ-h6IxDLldbMwYJgLj0Xo750PDV8QH8eHWZJck34ds510g6nQsyy_T6kid6qWgOE4YSEQJE20s"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM86tTXkzzpbAvaUmiR4du7abKPlwCCod9S4jIpee8Dhfx22TU28t3yF-2Uz8mN9cfz_XE5FlnW3uCokNjOvCwLd2cE5gQAiLuRkTtlII4pyoDYdwW2yJrbWp5jNg5o1d6TwuT_jw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWfzXOlqj_VTru5z0rD99HwARwtQOKQyyTiAjaAvKwpK7YU64_-uv8QbgcW7hdnsVwFEiWrD_U1xme8bfWCN7GyIZYSDQxRamgF6cNeMESkxI5RodFqj10DEeCycgHM8OKebfskIWMd-hHKQu3XubwbwXrK0Gm9O_J6zMIJej4nU8P7s2NQ9tsmdYn"
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQFBYmEOGFF0Ado05EqZsOVzvolzNrwHJk72XFtG0cqifJj67PPdCWjKRubTg8FmbYxrMvvH5uSFFVK94WQ6Sg4J58q5jCNDJBlmRJphxIq7kvt3XQRpHD5-B8DMyymERvFl4J1EXq0vwP2SahIURAa1f2DQGOVCwBHaPwGBn7"
 game: unknown
 hero_image: /img/best-mika-build-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-mika-build-neverness-to-everness/inline-1.webp
   - /img/best-mika-build-neverness-to-everness/inline-2.webp
   - /img/best-mika-build-neverness-to-everness/inline-3.webp
   - /img/best-mika-build-neverness-to-everness/inline-4.webp
   - /img/best-mika-build-neverness-to-everness/inline-5.webp
   - /img/best-mika-build-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Finding the best build for Mika in Neverness to Everness (NTE) is a top priority for players looking to optimize their roster following the game's global launch on April 29, 2026. As the community explores the supernatural urban landscape of Hethereau, understanding how to equip and team up your favorite characters is essential for clearing high-level Anomaly content.
 
@@ -90,7 +90,7 @@ If Mika were to be released as a Synthesis or Solid character (common roles for 
 | Blow Up the Crowd | S | ATK | Buffs active character ATK while the wearer is off-field. |
 
 ### Budget and F2P Alternatives
-For players looking for A-rank alternatives that provide high value without heavy gacha investment, the following Arcs are widely considered the best for general progression
+For players looking for A-rank alternatives that provide high value without heavy gacha investment, the following Arcs are widely considered the best for general progression:
 
 *   **[Information not yet publicly available as of 2026-05-19]:** Best-in-slot A-rank Arc for Mika.
 *   **Warning Gaze:** A reliable A-rank choice for defensive utility, reducing enemy damage by 18% after an Ultimate.
@@ -112,7 +112,7 @@ The current meta favors sets that enhance "Cycle Intensity," which determines ho
 For most Damage-role characters in NTE, the **City Tycoon** set is a popular choice, as it provides raw ATK and increases critical strike efficiency. If Mika is eventually released as a Support or Controller (similar to her CZN role), she would likely benefit more from sets that increase "Break Intensity" or "Energy Regeneration."
 
 ### Stat and Substat Priority
-When farming Disks for any character in Hethereau, you should focus on the following stat hierarchy
+When farming Disks for any character in Hethereau, you should focus on the following stat hierarchy:
 
 1.  **Main Stat (Slot 1 & 2):** Usually fixed (ATK/HP).
 2.  **Main Stat (Slot 3 & 4):** Attribute DMG (e.g., Cosmos, Anima) or CRIT Rate.
@@ -128,13 +128,13 @@ When farming Disks for any character in Hethereau, you should focus on the follo
 Team building in Neverness to Everness revolves around the Esper Cycle, a system where characters are swapped in to trigger reactions and maintain a continuous flow of damage. A standard team consists of a Main DPS, a Sub-DPS/Burst dealer, and a Support/Sustainer.
 
 ### Meta Team: The [Information unavailable] Comp
-Since Mika is not currently playable, there is no established meta team for her. However, looking at the top-performing teams as of May 19, 2026, we can see the types of synergies she would likely need
+Since Mika is not currently playable, there is no established meta team for her. However, looking at the top-performing teams as of May 19, 2026, we can see the types of synergies she would likely need:
 
 *   **Premium Team Example:** Nanally (Main DPS), Sakiri (Support/Grouping), and [Hotori](/characters/hotori-best-team-nte) (Time-Stop/Sub-DPS).
 *   **Reaction Synergy:** High-tier teams often combine Cosmos and Anima attributes to trigger the "Blossom" Esper Cycle, which amplifies follow-up damage.
 
 ### F2P and Beginner Teams
-For new players who have just started their journey after the April launch, a reliable F2P-friendly team includes
+For new players who have just started their journey after the April launch, a reliable F2P-friendly team includes:
 
 1.  **Esper Zero:** The versatile protagonist (Cosmos).
 2.  **Chiz:** A free S-rank character obtained through story progression.
@@ -148,7 +148,7 @@ For new players who have just started their journey after the April launch, a re
 Maximizing damage in NTE requires a precise combat loop that exploits "stagger windows" and "Break" states.
 
 ### Standard Combat Loop
-A typical rotation in the current meta follows this flow
+A typical rotation in the current meta follows this flow:
 1.  **Opener:** Use your Support (e.g., Sakiri) to group enemies with a Redirect Skill.
 2.  **Buff:** Cast the Support's Ultimate to trigger team-wide ATK or Attribute buffs.
 3.  **Burst:** Swap to your Sub-DPS (e.g., Hotori) to deal rapid damage and build the Esper Meter.

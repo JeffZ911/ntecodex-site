@@ -1,4 +1,4 @@
---
+---
 title: "Best F2P Teams in Neverness to Everness: Tier List (May 2026)"
 slug: best-f2p-teams-nte-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-f2p-teams-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-f2p-teams-nte-tier-list/inline-1.webp
   - /img/best-f2p-teams-nte-tier-list/inline-2.webp
   - /img/best-f2p-teams-nte-tier-list/inline-3.webp
   - /img/best-f2p-teams-nte-tier-list/inline-4.webp
   - /img/best-f2p-teams-nte-tier-list/inline-5.webp
   - /img/best-f2p-teams-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Succeeding in the urban open-world of Hethereau doesn't require a massive investment if you understand how to leverage the game's generous launch rewards and elemental synergies.
 
@@ -63,7 +63,7 @@ This tier list evaluates team compositions based on their accessibility for play
 
 ### Elemental Reaction Matrix
 
-The following table outlines the primary reactions used by our top-tier F2P teams to maximize DPS
+The following table outlines the primary reactions used by our top-tier F2P teams to maximize DPS:
 
 | Reaction | Elements | Effect |
 | :--- | :--- | :--- |

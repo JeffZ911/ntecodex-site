@@ -1,4 +1,4 @@
---
+---
 title: Best F2P Team Comps in Zenless Zone Zero (ZZZ) Guide
 slug: zzz-best-f2p-team-comps-20260513
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-13T05:49:56.879318+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/zzz-best-f2p-team-comps-20260513/hero.webp
-inline_images
+inline_images:
   - /img/zzz-best-f2p-team-comps-20260513/inline-1.webp
   - /img/zzz-best-f2p-team-comps-20260513/inline-2.webp
   - /img/zzz-best-f2p-team-comps-20260513/inline-3.webp
   - /img/zzz-best-f2p-team-comps-20260513/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the urban combat of New Eridu does not require a massive investment of Polychrome, as the game provides several high-tier agents for free through story progression and events. By understanding elemental synergies and faction bonuses, players can clear even the most difficult endgame content using entirely budget-friendly squads.
 
@@ -44,7 +44,7 @@ Synergy in Zenless Zone Zero is driven by "Additional Abilities." Every agent ha
 
 ### Defining 'Free-to-Play' in Zenless Zone Zero
 
-In the context of this guide, "Free-to-Play" characters include
+In the context of this guide, "Free-to-Play" characters include:
 *   **The Starter Trio:** Anby (Electric/Stun), Billy (Physical/Attack), and Nicole (Ether/Support).
 *   **Story Unlocks:** Ben Bigger (Fire/Defense) is obtained during Chapter 2 of the main story.
 *   **Event/Progression Rewards:** Soukaku (Ice/Support) is currently available for free via the "Shidian Kick" event or Hollow Zero participation, and Corin (Physical/Attack) was a pre-registration reward sent to all players' mailboxes.
@@ -129,7 +129,7 @@ For F2P players, the Gadget Store (Boxy) and the Music Store (Bardic Needle) are
 
 ### Combat Rotations and Chain Attack Priority
 
-To maximize F2P team efficiency, you must follow a specific rotation
+To maximize F2P team efficiency, you must follow a specific rotation:
 1.  **Lead with your Stunner (Anby):** Stay on field until the enemy's Daze bar is nearly full. Use N3 -> EX Special to maximize Daze per point of Energy.
 2.  **Apply Debuffs/Buffs (Nicole/Soukaku):** Just before the stun triggers, or during the Chain Attack sequence, ensure your Support agent uses their ability.
 3.  **Chain Attack Sequence:** When a Chain Attack is triggered, the order should always end with your **Attack agent**. For example: Anby -> Nicole -> Billy. This ensures Billy is the one on field when the enemy is fully stunned and debuffed.

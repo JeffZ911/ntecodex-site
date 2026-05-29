@@ -1,4 +1,4 @@
---
+---
 title: How to Increase Character Level in Neverness to Everness (NTE)
 slug: nte-how-to-increase-character-level
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-increase-character-level/hero.webp
-inline_images
+inline_images:
   - /img/nte-how-to-increase-character-level/inline-1.webp
   - /img/nte-how-to-increase-character-level/inline-2.webp
   - /img/nte-how-to-increase-character-level/inline-3.webp
   - /img/nte-how-to-increase-character-level/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Scaling your Espers is the most effective way to survive the supernatural anomalies and high-threat containment zones scattered throughout Hethereau City.
 
@@ -85,7 +85,7 @@ To apply these guides, open the Esper menu and click the "Enhance" or "+" button
 
 Once an Esper reaches their current maximum level (initially Level 20), their EXP bar will turn gold, and you will no longer be able to apply Hunter Guides. To continue, you must click the **Breakthrough** button. This screen will list several required items. 
 
-Breakthroughs generally require
+Breakthroughs generally require:
 1.  **Beetle Coins:** The cost increases significantly at higher tiers.
 2.  **Common Mob Drops:** Items like [Information not yet publicly available as of 2026-05-22] which are found by defeating standard enemies in the city.
 3.  **Specialized Boss Materials:** Dropped by world bosses or Anomaly Hunt targets.
@@ -109,7 +109,7 @@ The game uses the Appraisal Level to dictate the world difficulty (World Level) 
 If you run out of Hunter Guides or Beetle Coins, you should head to **Houdinii's Magic Stage**. This is a repeatable combat challenge located within the city that acts as the primary source for growth resources.
 
 *   **For EXP:** Select the "Hunter's Path" challenge within the Magic Stage. Higher difficulty tiers yield more Senior and Elite Hunter Guides.
-*   **For Beetle Coins:** Select the "Wealth Accumulation" challenge. 
+*   **For Beetle Coins:** Select the "Wealth Accumulation" challenge.
 *   **For Breakthrough Materials:** Use the **Exploration Guide** in your main menu. This tool allows you to select a specific material and "Track" it. The game will then place waypoints on your map leading to the specific enemies or Anomaly Hunts that drop that item.
 
 ### Managing Your Character Pixels (Stamina)
@@ -121,7 +121,7 @@ Every time you claim rewards from Houdinii's Magic Stage or an Anomaly Hunt, you
 
 ### Leveling Priority: Which Espers to Focus On First
 
-Resources in NTE are finite, especially Beetle Coins during the mid-game (Levels 40-60). You should avoid leveling every character you pull from banners like "The Ichi-daime." Instead, follow this priority
+Resources in NTE are finite, especially Beetle Coins during the mid-game (Levels 40-60). You should avoid leveling every character you pull from banners like "The Ichi-daime." Instead, follow this priority:
 
 1.  **Main Damage Dealer (DPS):** This character should always be at the maximum possible level allowed by your Appraisal Level. Their damage scales most heavily with base stats.
 2.  **Sub-DPS:** Keep them within 5-10 levels of your main DPS. They provide necessary elemental reactions and off-field damage.

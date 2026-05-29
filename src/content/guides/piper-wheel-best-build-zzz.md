@@ -1,4 +1,4 @@
---
+---
 title: "Piper Wheel Best Build Guide: Best W-Engines & Drive Discs (ZZZ)"
 slug: piper-wheel-best-build-zzz
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 6.3
 word_count: 1821
 published_at: "2026-05-14T08:50:18.284675+00:00"
 published_url: /guides/piper-wheel-best-build-zzz
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqZEdAy_s1FpnAfqz2pNxiv7QQwiSCMa5XnmMg8E2FeMry_volkqqcjoRmEG-WoWmfX20LcaCmp4SbUziMtKhBOZ_mrxJ1gndCYLydqzxcbJr6yWccto3ajKdqdbhX52FiqhALSw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFITbsbz6_9GhXECpNlTICXVY4Go6zJ91lJkeJ4Fecav8FPJzq0hL5x39sFSUTtM_vYl5UPF57RrBHAkX4XBLOhNd8FLtKmC7KxS20-fuInrgodPPAMQmtBMP3vt-BsIsXw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErVhqb_2wppsnBJVCoS6RX9eAPOj3MjSNSOjP5-vWI-PgkeEMNvpM6YSQXfnCPJ1zP_r4xWCvZ6lBRm_WuHW7bM6xOUCwVZk2RBi7jXZyThat_yABPGZugjDzrZCA3wiERPdRIUvte"
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc2AaQDMF9JXCf2ONKYBzGiP7yedv0QcpbYVZMC8KWpbG7nLbJpcB-c9o9KnHGvWjzHYvRsgBCFqM0tqkTAYiV-27wIeuzry16cCDf_t2piYl_5jY0_B9ndQKDBekgyEMPgEC8V8SKr88MExd1duwScaaeH07Yeg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIrGiINP5KwNKGxlp1P_fD-CyM_K8YKF6qORa9i97Iktqn7MRZXTlQFKaNd8FQiI9awMn81r_Slt7i-5CVS1O-wTqsCu8zlvnSVtxX2YT6vUZwyOyIDiRWxvUabuHeIX8yGg62Da6dy-F_qiRiAEkqkSo1kP5tbXWN"
 hero_image: /img/piper-wheel-best-build-zzz/hero.webp
-inline_images
+inline_images:
   - /img/piper-wheel-best-build-zzz/inline-1.webp
   - /img/piper-wheel-best-build-zzz/inline-2.webp
   - /img/piper-wheel-best-build-zzz/inline-3.webp
   - /img/piper-wheel-best-build-zzz/inline-4.webp
   - /img/piper-wheel-best-build-zzz/inline-5.webp
   - /img/piper-wheel-best-build-zzz/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Piper Wheel is the undisputed queen of the road for players seeking a high-impact Physical Anomaly Agent who can shred enemy health bars through rapid Assault procs. As a core member of the Sons of Calydon, she brings a unique "spin-to-win" playstyle that combines massive area-of-effect (AoE) damage with powerful team-wide buffs.
 
@@ -53,7 +53,7 @@ Piper Wheel is the undisputed queen of the road for players seeking a high-impac
 
 Piper Wheel is an A-Rank Physical Anomaly Agent who specializes in rapidly accumulating Physical Anomaly Buildup to trigger the Assault effect. Unlike traditional Attack Agents who rely on critical hits, Piper’s damage scales primarily through Anomaly Proficiency, which increases the damage of the Assault proc itself. Her kit is designed around the "Power" stack mechanic, which significantly boosts her efficiency the longer she stays in the fight.
 
-At Level 60, Piper possesses the following base stats
+At Level 60, Piper possesses the following base stats:
 
 | Stat | Base Value (Level 60) |
 | :--- | :--- |

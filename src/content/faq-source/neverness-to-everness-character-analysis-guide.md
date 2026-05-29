@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Character Analysis: Best Espers Guide"
 slug: neverness-to-everness-character-analysis-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-character-analysis-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-character-analysis-guide/inline-1.webp
   - /img/neverness-to-everness-character-analysis-guide/inline-2.webp
   - /img/neverness-to-everness-character-analysis-guide/inline-3.webp
   - /img/neverness-to-everness-character-analysis-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Success in Hethereau depends on more than just high stats; it requires a deep understanding of how supernatural anomalies interact with urban environments. This Neverness to Everness character analysis breaks down the May 2026 meta to help you build the most efficient team of Espers.
 
@@ -101,7 +101,7 @@ Free-to-play players should focus their resources on Chiz, Haniel, and Adler to 
 
 To maximize damage in NTE, you must build around "Trio-Esper Reactions." A successful team composition usually follows a specific elemental path on the wheel.
 
-A popular high-end team is the **"Green-Red-Purple"** rotation
+A popular high-end team is the **"Green-Red-Purple"** rotation:
 1.  **Nanally (Anima/Green):** Starts the fight, builds meter, and uses her wall-walking for positioning.
 2.  **Sakiri (Incantation/Red):** Swaps in to trigger an Anima-Incantation reaction, groups enemies with "Devour Whole," and buffs the team.
 3.  **Adler or a Chaos-type Sub-DPS (Purple):** Swaps in to trigger the final reaction, benefiting from the massive multipliers of a Triple Cycle.

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Resonance System Guide: How Awakening Works"
 slug: nte-character-resonance-system-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-resonance-system-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-resonance-system-guide/inline-1.webp
   - /img/nte-character-resonance-system-guide/inline-2.webp
   - /img/nte-character-resonance-system-guide/inline-3.webp
   - /img/nte-character-resonance-system-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your team in Hellslow requires a deep understanding of how duplicates transform base units into supernatural powerhouses. This guide breaks down the Neverness to Everness (NTE) character resonance system to help you prioritize your Mind Shards and Awakening nodes effectively.
 
@@ -91,7 +91,7 @@ While each node provides a distinct stat or minor passive boost, the "Resonance"
 
 Acquiring Mind Shards is the primary hurdle for Resonance progression. The most common method is through the **Scarborough Fair**, the game's board-game-themed summoning system. One of the standout features of NTE is the "No 50/50" rule on specific rate-up banners, such as "The Ichi-daime" banner for [Nanally](/characters/nanally-guide-nte). This makes targeting A3 or A6 much more predictable for players compared to other titles where a "lost" 50/50 can reset progress.
 
-Other methods for obtaining Mind Shards include
+Other methods for obtaining Mind Shards include:
 *   **City Tycoon Level Milestones:** Progressing your urban management level yields specific shards. For instance, reaching Level 18 in City Tycoon grants a free Mind Shard for **Chiz**.
 *   **Warp Exchange Shop:** Duplicates of characters you have already maxed out at A6 provide "Warp Pieces," which can be traded in the shop for Mind Shards of other characters.
 *   **Seasonal Events:** High-difficulty combat events often feature a "Universal Mind Shard" (usually restricted to A-Rank characters) as a final reward.
@@ -109,7 +109,7 @@ Other methods for obtaining Mind Shards include
 
 ### Strategic Node Selection: Prioritizing Power Spikes
 
-Because the system allows you to pick nodes, you should always look for "Power Spike" nodes first. These are usually nodes that offer
+Because the system allows you to pick nodes, you should always look for "Power Spike" nodes first. These are usually nodes that offer:
 1.  **Crit Rate / Crit Damage:** Essential for DPS characters like Nanally.
 2.  **Energy Recharge / Anomaly Accumulation:** Vital for support characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) to maintain buff uptime.
 3.  **Skill Level +1:** Some nodes directly increase the level of your Basic Attack or Esper Ability.

@@ -1,4 +1,4 @@
---
+---
 title: "NTE How to Increase Disk Stats: Complete Arc & Gear Guide"
 slug: nte-how-to-increase-disk-stats-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-increase-disk-stats-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-how-to-increase-disk-stats-guide/inline-1.webp
   - /img/nte-how-to-increase-disk-stats-guide/inline-2.webp
   - /img/nte-how-to-increase-disk-stats-guide/inline-3.webp
   - /img/nte-how-to-increase-disk-stats-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character's combat performance in Hethereau requires a deep understanding of how to manage Arcs, Cartridges, and the intricate Console system.
 
@@ -38,7 +38,7 @@ Players often find themselves asking how to effectively scale their damage and s
 
 ### Understanding the NTE Gear Terminology
 
-Before diving into the upgrade process, it is essential to clarify the terminology used in the game's equipment menus
+Before diving into the upgrade process, it is essential to clarify the terminology used in the game's equipment menus:
 
 *   **Arcs (Disks):** These function as your primary weapons. They provide the most significant boost to Base ATK and offer a secondary stat (such as Crit Rate or ATK%). Arcs also possess unique passive abilities that can be enhanced through refinement.
 *   **Cartridges:** These are the primary gear pieces, similar to "Relics" or "Artifacts" in other RPGs. They provide a Main Stat and up to four sub-stats. Cartridges are organized into sets that provide powerful bonuses when multiple pieces from the same set are equipped.
@@ -143,7 +143,7 @@ To increase your Hunter Level, focus on completing "Urban Errands" (daily quests
 
 ### Best Stats for DPS and Supports
 
-While every character is different, certain stats are universally prioritized based on the character's role in the team
+While every character is different, certain stats are universally prioritized based on the character's role in the team:
 
 *   **Main DPS (e.g., Nanally):** Prioritize Crit Rate, Crit DMG, and ATK%. Since Nanally's banner, "The Ichi-daime," features her as a high-velocity damage dealer, focusing on her Type II Module bonuses is vital.
 *   **Supports/Utility:** Look for "Cycle Intensity" and Energy Regeneration. Cycle Intensity affects how quickly your characters can trigger their Esper Cycle abilities, which are crucial for maintaining buffs and crowd control.

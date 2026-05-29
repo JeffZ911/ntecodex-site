@@ -1,4 +1,4 @@
---
+---
 title: "Best Bangboo for Ice Team ZZZ: Top Picks & Rankings"
 slug: best-bangboo-ice-team-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T09:34:31.438016+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-bangboo-ice-team-zzz/hero.webp
-inline_images
+inline_images:
   - /img/best-bangboo-ice-team-zzz/inline-1.webp
   - /img/best-bangboo-ice-team-zzz/inline-2.webp
   - /img/best-bangboo-ice-team-zzz/inline-3.webp
   - /img/best-bangboo-ice-team-zzz/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing the synergy between your Agents and their robotic companions is essential for clearing the high-difficulty content of the Hollow Zero and Shiyu Defense. Choosing the right Bangboo for an Ice-based squad determines how quickly you can freeze enemies and how often your DPS can unleash their ultimate attacks.
 
@@ -32,7 +32,7 @@ Maximizing the synergy between your Agents and their robotic companions is essen
 ![Question Restated](/img/best-bangboo-ice-team-zzz/inline-1.webp)
 
 
-Choosing the best Bangboo for an Ice team in Zenless Zone Zero involves evaluating the specific needs of your primary damage dealers and stunners. With the current meta favoring high-burst Ice compositions, players often ask
+Choosing the best Bangboo for an Ice team in Zenless Zone Zero involves evaluating the specific needs of your primary damage dealers and stunners. With the current meta favoring high-burst Ice compositions, players often ask:
 
 *   Which Bangboo provides the most synergy for an Ice-based team in Zenless Zone Zero?
 *   How do different Bangboos impact the performance of top-tier Ice Agents like Ellen Joe, Von Lycaon, and Soukaku?
@@ -125,7 +125,7 @@ Bangboos participate in Chain Attacks just like Agents. When you trigger a Chain
 In an Ice team rotation, you typically want to trigger the Bangboo Chain Attack early in the sequence to apply as much Anomaly Buildup as possible before your main DPS (Ellen Joe) enters the field. Sharkboo’s Chain Attack, **Deep Sea Shark Hunt**, deals massive Ice damage in a large area, making it perfect for clearing adds or softening up a boss for Ellen’s final burst.
 
 ### Bangboo Progression: Leveling and System Optimization
-To get the most out of your chosen Bangboo, you must invest in its progression. This involves three main components
+To get the most out of your chosen Bangboo, you must invest in its progression. This involves three main components:
 1.  **Leveling:** Use Bangboo Algorithm Modules to increase the level cap. At Level 60, the jump in ATK and Anomaly Mastery is significant.
 2.  **Core Skill Upgrades:** These require specific materials found in Hollow Zero. Upgrading the Core Skill improves the percentage bonuses of the Bangboo’s passive abilities.
 3.  **Optimization:** This refers to pulling duplicate Bangboos to increase their "Stars." Each star level provides a direct multiplier to their Active and Chain skills.
@@ -141,7 +141,7 @@ Beyond choosing the right Bangboo, optimizing an Ice team requires attention to 
 As of May 2026, Ellen Joe remains the premier Ice DPS due to her mobility and high crit scaling. However, players should keep an eye on Hoshimi Miyabi. While her exact kit details are [Information not yet publicly available as of 2026-05-14], she is expected to be an Ice-based Anomaly or Attack Agent who will likely share the same Bangboo synergies as Ellen Joe.
 
 ### How do you get more Bangboo Coupons?
-Bangboo Coupons (Boopons) are a rare currency that cannot be purchased with Polychromes. To farm them efficiently
+Bangboo Coupons (Boopons) are a rare currency that cannot be purchased with Polychromes. To farm them efficiently:
 *   **Hollow Zero:** Complete weekly commissions and clear higher difficulty tiers to earn coupons from the license level rewards.
 *   **Events:** Most limited-time events in ZZZ provide at least 5-10 Bangboo Coupons.
 *   **Officer Mewmew:** Complete urban exploration tasks and medals in various districts (Sixth Street, Brant Street, etc.) to receive one-time coupon rewards.
@@ -150,7 +150,7 @@ Bangboo Coupons (Boopons) are a rare currency that cannot be purchased with Poly
 Yes. Butler is highly versatile because his primary requirement is the Victoria Housekeeping faction. You can use Butler in Physical teams featuring Corin Wickes or Electric teams featuring Alexandrina Sebastiane (Rina). His Energy restoration is universally useful, though he loses some value if you aren't running at least two members of the housekeeping staff.
 
 ### Best Disk Drives for an Ice Team
-To complement your Bangboo choice, equip your Ice team with the following Disk Drives
+To complement your Bangboo choice, equip your Ice team with the following Disk Drives:
 *   **Polar Metal (4-Piece):** Increases Ice DMG and provides a massive damage boost to Basic Attacks and Dash Attacks after triggering Freeze or Shatter. This is the best set for Ellen Joe.
 *   **Woodpecker Electro (2-Piece):** Provides extra Crit Rate to help Ellen trigger her passive more reliably.
 *   **Swing Jazz (4-Piece):** Excellent for Soukaku to provide team-wide Energy Regen and DMG buffs during Chain Attacks.

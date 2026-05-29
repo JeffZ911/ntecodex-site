@@ -1,4 +1,4 @@
---
+---
 title: "NTE Beginner Guide and Mechanics: Master Hesperia (2026)"
 slug: nte-beginner-guide-and-mechanics
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-guide-and-mechanics/hero.webp
-inline_images
+inline_images:
   - /img/nte-beginner-guide-and-mechanics/inline-1.webp
   - /img/nte-beginner-guide-and-mechanics/inline-2.webp
   - /img/nte-beginner-guide-and-mechanics/inline-3.webp
   - /img/nte-beginner-guide-and-mechanics/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redefined the urban open-world genre by blending high-octane combat with a deep city-life simulation. Developed by Hotta Studio, the game places you in the role of an "Appraiser" at the Bureau of Anomaly Control within the sprawling metropolis of Hesperia. Whether you are hunting down supernatural anomalies or managing a multi-million Fons business empire, the sheer scale of the game can be overwhelming for new players.
 
@@ -32,7 +32,7 @@ Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redef
 ![Question Restated](/img/nte-beginner-guide-and-mechanics/inline-1.webp)
 
 
-Navigating the streets of Hesperia requires a solid understanding of both tactical combat and economic management. New players frequently ask
+Navigating the streets of Hesperia requires a solid understanding of both tactical combat and economic management. New players frequently ask:
 
 *   **What are the fundamental gameplay mechanics in Neverness to Everness (NTE)?** The game features a hybrid system of real-time action combat and a "Tycoon" business management layer.
 *   **How does the combat system, specifically the Esper Cycle, work?** Combat is built around a four-character team rotation where filling a specialized meter triggers elemental reactions.
@@ -85,7 +85,7 @@ Character power is derived from two main sources: **Arcs** (weapons) and **Artif
 **Arcs** provide a base attack stat and a unique passive. For example, [Nanally](/characters/nanally-guide-nte)’s signature Arc, which is featured in "The Ichi-daime" banner, provides significant vertical mobility and aerial damage bonuses. Arcs can be leveled up to 90 using materials farmed with **Pixels**.
 
 **Artifacts** use a highly unique "Tetris-like" grid system. Instead of simply equipping five items, you are given a 5x5 or 6x6 grid (depending on character level). Each Artifact is a geometric shape (blocks, L-shapes, or crescents). 
-*   **Sonata Effects:** To activate set bonuses, you must fit specific shapes into the grid without overlapping. 
+*   **Sonata Effects:** To activate set bonuses, you must fit specific shapes into the grid without overlapping.
 *   **Optimization:** Later in the game, you will find "Golden Crescents" which act as wildcards, helping you complete complex Sonata sets that provide massive boosts to elemental damage or Esper Meter gain.
 
 ### The Fair: Understanding the Dice-Based Gacha System

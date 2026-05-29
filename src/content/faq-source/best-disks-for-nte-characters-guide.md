@@ -1,4 +1,4 @@
---
+---
 title: "Best Disks for NTE Characters: Complete Cartridge Guide"
 slug: best-disks-for-nte-characters-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1758
 published_at: "2026-05-22T12:21:22.145857+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFclF3gk0Cw-woJbio4rjsR39T8hRaZRHVs5H27m9VzKwt-ekVmNS6tjK-Lvm9Mc3bsMAc3gBOXLorXtQ_WOiNQCDArkdhgXsOg0PSPVX5d4XpK9rA9FYcWCgtuiO6gd_KQvUioLKkvxRL1BWZ52ItqS_Bcv4PJdq2Zr7NIb0QfHbFZxl6Qv-zgPghjG2VBZQpRsANoI4pu_S3bwUvPSRo03gVkrhU9x44Mo4oN"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbUYAnO-h1Q53Ce9_h00YjyQ4a-wBKYTe5sJvguAz78OI3vCwuOnK0BsLz3r3f2hUtkP8tVXS4xfZeY5-tHVeuP0ngaarwoO03qYiTJUzG28QI92Fz8q9Fz74CSSHkTGNbUIWDFdkefbB6UrRv4b5EFOddblv51qYYB2iXZOx25JuomGuDGCpUJfdB_uk71TkM4Q5GguVvILoUoJKsXhz68YCKYdAb_QXJh_VLq5NSe_6AgTJZ5Kj5H1kluoyr3p7Lj3GoeerS7Uo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHu1iU9zSnYgw2T14bkgLqSsBYE35LX_DnEvLOS1K9YYAp8Sd5VpWOGv5fzDe2J0e_yG5sORWI6vIM-mmHtdsxP5v5FF1yvzpmvMfpUwuYE__7d7sdMtFpj55zP3kv5YB-pFL7fQqfMlsZE5Y="
@@ -17,17 +17,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyjaM-5AWW8r2BzvNhifU59mHw1898D5XmQPklX42wRqUDCcPtJJQLoHt24yijL7UHiwGWv1ZOdXj4TRxRBCHYZD3gP3Aem4Zq2IDyipuvZTKp14D__3utyA=="
 game: unknown
 hero_image: /img/best-disks-for-nte-characters-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-for-nte-characters-guide/inline-1.webp
   - /img/best-disks-for-nte-characters-guide/inline-2.webp
   - /img/best-disks-for-nte-characters-guide/inline-3.webp
   - /img/best-disks-for-nte-characters-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character builds in Neverness to Everness (NTE) requires a deep understanding of the Console system, a unique gear mechanic that blends traditional stat-stacking with Tetris-style spatial puzzles.
 
@@ -38,7 +38,7 @@ Optimizing your character builds in Neverness to Everness (NTE) requires a deep 
 ![Question Restated](/img/best-disks-for-nte-characters-guide/inline-1.webp)
 
 
-As you progress through the urban sprawl of Hethereau, you will eventually hit a wall where character levels and weapon ranks are no longer enough to clear high-tier anomalies. This is where the Console system becomes vital. To maximize your team's potential, you must answer three critical questions
+As you progress through the urban sprawl of Hethereau, you will eventually hit a wall where character levels and weapon ranks are no longer enough to clear high-tier anomalies. This is where the Console system becomes vital. To maximize your team's potential, you must answer three critical questions:
 
 *   What are the best "disks" (officially known as Cartridges) to equip for each character in Neverness to Everness?
 *   How do Cartridge set bonuses and Module shapes impact character performance?
@@ -117,7 +117,7 @@ The key strategy is to prioritize your character's **Specialization Modules** fi
 
 ### Farming Disks: Character Pixels and Rewind Strategy
 
-Farming for the perfect gear setup involves two distinct loops
+Farming for the perfect gear setup involves two distinct loops:
 
 1.  **The Rabbit Hole:** Located in Cape Square, this Anomaly Zone is where you spend **Character Pixels** (40 per run) to obtain Cartridges. Higher difficulty stages reward Purple (A-Rank) and Gold (S-Rank) Cartridges.
 2.  **The Rewind System:** Accessed through the character's Console menu, this is where you spend **Carrota Coins** to pull for Modules.
@@ -146,7 +146,7 @@ Your **Arc** (Weapon) should complement the stats provided by your Cartridge. Fo
 
 ### How Disks Impact Elemental Reactions
 
-The NTE combat system is built on **Esper Cycles**—reactions triggered by combining different elements. Your choice of Cartridge can significantly impact the damage of these reactions
+The NTE combat system is built on **Esper Cycles**—reactions triggered by combining different elements. Your choice of Cartridge can significantly impact the damage of these reactions:
 
 *   **Blossom (Cosmos + Anima):** Since this creates a turret that deals steady damage, using **Fireflies and the Forest** on your Anima character will allow the turret's hits to rapidly stack your Crit DMG bonus.
 *   **Hexed (Anima + Incantation):** This reaction deals follow-up damage. An Incantation character using **Crimson: Twin Butterflies** will see a massive ATK boost as the Hexed procs count toward the set's stacking requirement.

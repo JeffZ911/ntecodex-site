@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best 5 Star Weapon Stats: Top S-Rank Arcs Guide"
 slug: nte-best-5-star-weapon-stats-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.1
 word_count: 1996
 published_at: "2026-05-24T09:56:38.826295+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQnX5-YUM_TJFMkaVlFeKO3x8qH82b3IA5Z3uNCbVEhMS9d_br0UMOoGrbMSeucaqQLo7ayIDOLQ9cP3205v-7FQEKU-V26VlyjT9eHvvl7po6M-scYb9OhAMI0b8Tltwn_uKI115F7Rxnu58rMmC2Ui8XfwrgJGbekIJhoNoD6poRdC0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqbnbna5VwvCRb1fWjVbglQBTNK3zksjkkNB1yLR5CVj1lJAi-r9wJh6NI4W6oNtXRRLF0AMIzl-UsLHi-r3W73ldhFCuvxmOiRPEFlePHSkz9Yl0kGZKmYw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH32k4he1FGjZMJXrYwddFSOfJuyZz9uJmH-kpk7VFxDBGA6o5TbjJzcJd4KzrJbkqN6ZvGsyWOROwfFAid6iw0soYQBDuubOQF8DeWYcSvNXqd8F8B_zWI5D3QrSg4YIFzLf3aL3QDeQ1ZGCqIgQ=="
@@ -26,17 +26,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9bmM-3pO8rM6bKVA6SEXK_cZOeV1Qs7Mqq4YKs4XDgUOOFwxJFJw1eUdxT_EvNQAAXD88jbKydL1-QbPXeMi0CdafIfJgEyOxnlsud89bZBGndfKGRpyTKCROld0UfRvURgGslkD9dzy1W1hxFthDN9MH4PxK65mG3tNO3GlvZjh4zAsqXVjQWdKrGPBvzqdPxgNiva7MfRWU"
 game: unknown
 hero_image: /img/nte-best-5-star-weapon-stats-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-5-star-weapon-stats-guide/inline-1.webp
   - /img/nte-best-5-star-weapon-stats-guide/inline-2.webp
   - /img/nte-best-5-star-weapon-stats-guide/inline-3.webp
   - /img/nte-best-5-star-weapon-stats-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In the high-octane urban landscape of Hethereau, equipping your Espers with the right Arcs is the difference between a stalled combat encounter and a flawless victory. This guide breaks down the essential stats and passive effects for the most powerful 5-star weapons currently available in Neverness to Everness.
 
@@ -51,7 +51,7 @@ In the high-octane urban landscape of Hethereau, equipping your Espers with the 
 
 As players progress through the neon-lit streets and anomaly-infested zones of Neverness to Everness (NTE), the search for the "best" equipment becomes a top priority. The primary weapon system in NTE revolves around Arcs—sophisticated data disks that serve as the primary source of offensive and utility power for your Espers. Understanding which 5-star (S-Rank) Arcs provide the highest damage ceiling is vital for tackling late-game content like High-Risk Anomalies and the Tower of Eternity.
 
-Key questions addressed in this guide include
+Key questions addressed in this guide include:
 *   What are the best 5-star (S-Rank) weapons, known as Arcs, in Neverness to Everness?
 *   What are the primary stats, substats, and unique effects for top-tier Arcs like Ready-Ready and Marching Beyond Time?
 *   How do weapon types (Solid, Plasma, Gas, Liquid, Synthesis) impact character performance?
@@ -141,7 +141,7 @@ Acquiring S-Rank Arcs requires navigating the "Arc Research Program" gacha.
 
 
 ### Best 4-Star Alternatives for Every Type
-For F2P players or those who haven't lucked into a signature S-Rank, several A-Rank Arcs perform admirably at high refinement (T5)
+For F2P players or those who haven't lucked into a signature S-Rank, several A-Rank Arcs perform admirably at high refinement (T5):
 
 *   **Umbrella (Synthesis):** A fantastic defensive option that provides HP and shields.
 *   **Shiny Days (Plasma):** Provides a reliable ATK boost and is a great placeholder for Nanally.
@@ -152,7 +152,7 @@ For F2P players or those who haven't lucked into a signature S-Rank, several A-R
 Refinement in NTE is called "Mixing." By consuming a duplicate of the same Arc, you can increase its rank from T1 to T5. This does not increase the base stats (ATK/CRIT), but it significantly enhances the passive effect. For example, the ATK boost on Ready-Ready increases from 15% at T1 to 30% at T5. For most F2P players, it is better to keep two separate S-Rank Arcs for different characters rather than mixing them, unless you have a surplus of Tri-Keys.
 
 ### Character-Weapon Synergy Guide
-Matching the right Arc to the right Esper is critical. Here are the top pairings
+Matching the right Arc to the right Esper is critical. Here are the top pairings:
 *   **Nanally:** Ready-Ready (S) or Song of the Whale (S).
 *   **Hotori:** Marching Beyond Time (S) or Day Off (S).
 *   **Baicang:** Camellia Society (S) or Umbrella (A).
@@ -160,7 +160,7 @@ Matching the right Arc to the right Esper is critical. Here are the top pairings
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Good Boy's Grand Adventure (S).
 
 ### How to Farm Tri-Keys for the Weapon Banner
-Tri-Keys are the lifeblood of the Arc Research Program. While you can buy them with Anulith (the premium currency), you can also farm them through
+Tri-Keys are the lifeblood of the Arc Research Program. While you can buy them with Anulith (the premium currency), you can also farm them through:
 1.  **Fair Exchange Shop:** Use the currency earned from pulling on character banners to buy limited Tri-Keys each month.
 2.  **Hunter Exchange:** As you increase your Hunter Level by completing commissions and world activities, you unlock the ability to purchase Tri-Keys using Fons (standard in-game gold).
 3.  **City Tycoon:** Progressing through the urban management simulation mode provides milestone rewards, including Tri-Keys and even free S-Rank Arcs like those for the character Chiz.

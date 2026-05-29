@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-dps-characters-nte-tier-list-20260516
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.3
 word_count: 1768
 published_at: "2026-05-16T12:04:21.496793+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhiuBpVInoKU0j0J7e35_UGy_FzmXIDz063SsAOENCNzqC3ZZ2Mm7ZyM8qtBITZOLAVmgcejYIgSM0zbgCVVF0-I1mXqV7Cr33XnK-ADBPCR8FfFvgw3UjGNkuggWUpEcqCUn-zr334X1LExWb1RCOFPc3lH5v3R5FWOKKf2MBk72IjocYdYe9GNAGabH3fxV-"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENqyVUrkXeOaqLPG8NZzoXYWJG75SJ1Y05O-qoVbEcXmYnyOBbc5bFF_xavhA4N4K2Q-oKauGwJcqIpnsN6iy8n-Wi2Ug_o55ch7_PkHZr6BVrhOPAp6Nv1LtVtSfZ7aDbvvxYe2BhIv2cz8p9zFfOb-Vr9U="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtTLsaLPzpzkg4dUXu4YdGKR9Y3_89kY8auVb7DE-bRPFo7gyHzI3BbBGXI4AvAnsSc152AnhwNWVC5LMq3rw2uDTpwIMP_UWdD13NMLnAcSZZ8gHE3qGX"
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERjj4pFYn98PaU9v1SDTHfHBWAx7e8SiEkQr244kbsydx2SibN7J5ESqtjxggf2pO12iYu_xsdG7o2Exzo-hcOMw91WKx5Q7k6CQauBaJppFuD6lxZn2q37MSLQUvj_7FZr0P386I4Tmi09CKovxkk"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc2PUbs_-C4ZxGnHHXxpC7uEYGT6LokkRjlq5yaojcUfRglOfesD7VKoXdnxhQxwoLusQvzNaqQCfoBjXAPzF3jVVzIdvkwNnuWsB3TyRWjdWES-UjnJnp3wNxssQZV-3_nP7raE2abc0GEwylAKGTd0lpMqysa5RkWB-iOx-TkEZyho-ax8-O0memmWf1EYumi6AjFo0veve0HP2dF9wV5PnbYSKDE6NEt-WoJJzU29C3j4HIly9j6Jx3-0g6"
 hero_image: /img/best-dps-characters-nte-tier-list-20260516/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-tier-list-20260516/inline-1.webp
   - /img/best-dps-characters-nte-tier-list-20260516/inline-2.webp
   - /img/best-dps-characters-nte-tier-list-20260516/inline-3.webp
   - /img/best-dps-characters-nte-tier-list-20260516/inline-4.webp
   - /img/best-dps-characters-nte-tier-list-20260516/inline-5.webp
   - /img/best-dps-characters-nte-tier-list-20260516/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Selecting the right damage dealer in Neverness to Everness (NTE) is the difference between clearing the Fracture Circle and getting stuck on the Ghost Train. As of May 2026, the meta has shifted significantly with the arrival of the game's second limited banner.
 
@@ -55,7 +55,7 @@ Characters are assessed based on their performance in the Fracture Circle, the h
 
 ### Primary DPS Metrics
 
-To provide a clear ranking, we look at three primary metrics
+To provide a clear ranking, we look at three primary metrics:
 1.  **Sustained Damage Output:** The average damage per second during a standard 20-second rotation.
 2.  **Break Intensity:** The ability to deplete the enemy's Break Gauge through basic attacks, skills, and Critical Ripostes.
 3.  **Scaling Potential:** How well the character utilizes high-end Arcs (weapons) and their respective Awakening levels.

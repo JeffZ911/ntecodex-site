@@ -1,4 +1,4 @@
---
+---
 title: "How to Play Neverness to Everness: Complete Beginner's Guide"
 slug: how-to-play-neverness-to-everness
 game: nte
@@ -9,17 +9,17 @@ published_at: "2026-05-12T04:49:34.536952+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-play-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/how-to-play-neverness-to-everness/inline-1.webp
   - /img/how-to-play-neverness-to-everness/inline-2.webp
   - /img/how-to-play-neverness-to-everness/inline-3.webp
   - /img/how-to-play-neverness-to-everness/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Navigating the neon-soaked streets of Hethereau requires more than just a fast car; it demands a deep understanding of the supernatural anomalies lurking in every alleyway. Since its release on April 29, 2026, Neverness to Everness (NTE) has redefined the urban open-world genre by blending high-speed driving with intricate elemental combat.
 
@@ -97,7 +97,7 @@ Customization affects more than just aesthetics. Upgrading your engine, tires, a
 
 Hethereau is a dense, vertical city filled with secrets. Exploration is driven by the "Witch's House" system. Throughout the city, you will spot ravens perched on signs or buildings. Following these ravens often leads to Oracle Stones.
 
-You must submit these Oracle Stones at the Witch's House to receive permanent account upgrades. These rewards include
+You must submit these Oracle Stones at the Witch's House to receive permanent account upgrades. These rewards include:
 *   Increased maximum stamina for sprinting and climbing.
 *   Expanded mini-map visibility.
 *   The ability to detect high-level anomalies from a further distance.

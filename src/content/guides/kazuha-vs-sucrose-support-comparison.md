@@ -1,4 +1,4 @@
---
+---
 title: "Kazuha vs. Sucrose: The Ultimate Anemo Support Comparison"
 slug: kazuha-vs-sucrose-support-comparison
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T06:51:20.506664+00:00"
 published_url: /guides/kazuha-vs-sucrose-support-comparison
 sources: []
 hero_image: /img/kazuha-vs-sucrose-support-comparison/hero.webp
-inline_images
+inline_images:
   - /img/kazuha-vs-sucrose-support-comparison/inline-1.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-2.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-3.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Choosing between the wandering samurai of Inazuma and the bio-alchemist of Mondstadt remains one of the most frequent debates for players looking to maximize their team's damage potential.
 
@@ -88,7 +88,7 @@ Kazuha has a significantly easier time managing his Burst, Kazuha Slash. With a 
 ### Buffing Math: EM vs. Elemental DMG%
 The value of Kazuha vs. Sucrose often comes down to the "Damage Formula." Kazuha provides Elemental DMG%, which is added to your character's Goblet and other DMG% bonuses. Sucrose provides Elemental Mastery, which increases the multiplier of reactions like Vaporize, Melt, and Aggravate.
 
-At 1,000 EM
+At 1,000 EM:
 *   **Kazuha** provides a 40% DMG bonus. For a character like Neuvillette, who already has high built-in DMG bonuses, this 40% is still a significant multiplicative increase to his total output.
 *   **Sucrose** provides approximately 250 EM. If your Xiangling has 0 EM, that 250 EM increases her Vaporize damage by roughly 42%. However, if your Xiangling already has 300 EM, adding another 250 EM provides diminishing returns, increasing the reaction damage by a much smaller relative percentage.
 
@@ -112,7 +112,7 @@ Sucrose can also double swirl, but it is much more difficult to execute. It ofte
 ### Constellation Value: C0 Kazuha vs. C6 Sucrose
 A common question is whether a C6 Sucrose is better than a C0 Kazuha. 
 *   **Sucrose C6** adds a 20% Elemental DMG bonus to the element infused in her Burst. This brings her closer to Kazuha’s buffing profile.
-*   **Kazuha C2** is one of the strongest constellations in the game, providing 200 EM to himself and the active character within his Burst field. 
+*   **Kazuha C2** is one of the strongest constellations in the game, providing 200 EM to himself and the active character within his Burst field.
 
 At C0 for both, Sucrose is often better for reactions. At C6 Sucrose vs. C0 Kazuha, the gap closes significantly, and Sucrose may win in ATK-scaling reaction teams. However, once Kazuha hits C2, he provides both the massive DMG% bonus and a flat 200 EM, effectively rendering Sucrose obsolete in almost every team except those requiring a dedicated Catalyst driver.
 

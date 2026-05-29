@@ -1,4 +1,4 @@
---
+---
 title: "Wuthering Waves Weapon Banner Explained: Pity & Guarantee"
 slug: wuthering-waves-weapon-banner-explained
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1556
 published_at: "2026-05-16T04:37:36.033971+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhrd9QuwBR5sMZ5SSpfdzyJ5ADVuPsozIkhXK_FKcVoUb4-5K5xNjOctXZ_uQQL-P8J6Ku6cGeAe-MmOrb4S42H1BjhPvZ5osLsCw0JBA9j7HbQTFGPt9mCfQkm6Dz7-YBsok3J786c1GLIkAy4mWjCw_WupQYOMz35qrphq_cm4MZNgJxICq7JNiRzQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKsNBjp26NhROovT9ccPtrSvFc35O4T6w1Tyrwzdkn5zCj1DLOxrBQCqWlBOPAs8pu6dsOZna_r-g6FiWAeFvNANkRnypz-3o15RDzeyj50i1l65Xr2S0ng_zlZwK18V3V9Sv1hnU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8zzyNlpWm0j8BLwEOt0ErXt0-Tl6EM9XrRR8xfbTUubUNMGJdWRQhHE09xqo1sB3KbZrX2woaPTrdERc4xqaIAkwoe3SiZB1gTWE7GvJodpx0vqjS8Zyq9fzeaiRAhHUd8VfDI-ZIDlnPOeRJo6k="
@@ -24,17 +24,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFep7i70zVuVSYEXB7colt2Gwocaz0VURPRrW-QcAJv3SZ_yhYCt98DqOyPusBgMXP-j54kVaW69kkQKqvOCpqJf9zhA8Aq5NYvxBcUX2bedaWdm-Z-R9BBdqyA8LSVh24fepDyM3o="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNSqRLXkxaSnbMcZzXGslFu5IniulaPctqsCoVTinD4lCiW5LqcQ392oc1gaMZ0g8SrY4C7nJ2gOCXrboZhyxr5letO_efonzSv-oo6-h1SW_MzViY3AWkw2maYOhqhrXOV4fItxhoZKA="
 hero_image: /img/wuthering-waves-weapon-banner-explained/hero.webp
-inline_images
+inline_images:
   - /img/wuthering-waves-weapon-banner-explained/inline-1.webp
   - /img/wuthering-waves-weapon-banner-explained/inline-2.webp
   - /img/wuthering-waves-weapon-banner-explained/inline-3.webp
   - /img/wuthering-waves-weapon-banner-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your Resonator's potential in Wuthering Waves requires more than just leveling up; you need the right tools for the job. Understanding the weapon banner system is essential for any player looking to optimize their account without wasting precious resources.
 
@@ -47,7 +47,7 @@ Maximizing your Resonator's potential in Wuthering Waves requires more than just
 ![Question Restated](/img/wuthering-waves-weapon-banner-explained/inline-1.webp)
 
 
-The weapon banner system in Wuthering Waves (often called the Weapon Convene) can be confusing for players transitioning from other gacha titles. The most common questions include
+The weapon banner system in Wuthering Waves (often called the Weapon Convene) can be confusing for players transitioning from other gacha titles. The most common questions include:
 
 *   How does the weapon banner system work in Wuthering Waves?
 *   What are the pity rates and guarantees for 5-star weapons?
@@ -98,7 +98,7 @@ While the base rate of 0.8% is relatively low, "soft pity" generally begins arou
 
 The **Weapon Permanent Convene** (often referred to as the Winter Brume series) is a permanent fixture. Unlike the character standard banner, which gives a random 5-star character, the weapon version allows for a "Targeted Convene."
 
-You can open the banner menu and select one of the following five weapons as your target
+You can open the banner menu and select one of the following five weapons as your target:
 1.  **Emerald of Genesis** (Sword)
 2.  **Static Mist** (Pistols)
 3.  **Abyss Surges** (Gauntlets)
@@ -123,7 +123,7 @@ To pull on these banners, you need specific "Tides."
 *   **Forging Tides:** Used for Limited Weapon Banners. These are the most valuable and should generally be your priority when spending Astrite.
 *   **Lustrous Tides:** Used for the Standard Weapon Banner, Standard Character Banner, and Novice Banners. You frequently receive these as rewards for leveling up your Union Level or completing the Battle Pass (Insider Channel).
 
-You can also acquire these Tides in the **Item Exchange** shop
+You can also acquire these Tides in the **Item Exchange** shop:
 *   **Afterglow Coral:** Obtained when you pull 4-star or 5-star items. You can use these to buy Forging Tides or Radiant Tides with no monthly limit.
 *   **Oscillated Coral:** Obtained from 3-star weapon pulls. This shop has a monthly limit, and you should always prioritize buying the discounted Tides here every month.
 
@@ -153,7 +153,7 @@ However, because Wuthering Waves guarantees the weapon at 80 pulls with no 50/50
 
 ### Best Standard 5-Star Weapons for Beginners
 
-If you reach Union Level 45, you receive a **5-Star Weapon Supply Chest**, allowing you to pick one standard weapon for free. Additionally, you will eventually hit pity on the Standard Weapon Banner. Here are the best choices
+If you reach Union Level 45, you receive a **5-Star Weapon Supply Chest**, allowing you to pick one standard weapon for free. Additionally, you will eventually hit pity on the Standard Weapon Banner. Here are the best choices:
 
 *   **Emerald of Genesis (Sword):** Widely considered the best standard weapon. It provides a Crit Rate sub-stat and Energy Regen, making it universal for almost every sword user in the game, including the Rover.
 *   **Static Mist (Pistols):** Another high-value pick due to its Crit Rate sub-stat. It is the best-in-slot for sub-DPS pistol users like Mortefi or Aalto because it buffs the next character you swap into.
@@ -161,7 +161,7 @@ If you reach Union Level 45, you receive a **5-Star Weapon Supply Chest**, allow
 
 ### How to Get More Forging Tides
 
-Aside from spending Astrite, you can accumulate Forging Tides through
+Aside from spending Astrite, you can accumulate Forging Tides through:
 *   **Events:** Major version updates often include login events that provide 5-10 limited Tides.
 *   **Pioneer Podcast:** The paid tier of the Battle Pass provides Forging Tides at specific levels.
 *   **Tower of Adversity:** Clearing high-level endgame content provides Hazard Records, which can be traded for various rewards, though Astrite is the primary pull currency earned here.

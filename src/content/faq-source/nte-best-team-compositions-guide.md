@@ -1,4 +1,4 @@
---
+---
 title: Best Team Compositions in Neverness to Everness (NTE Guide)
 slug: nte-best-team-compositions-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 7.5
 word_count: 1702
 published_at: "2026-05-23T22:00:11.652161+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEpYCpeld7bTR4YyE84ZwNs6oYHFUx176IO8qSwdklem7XSZ9-xP4ZTyBO5SCAGKLn6Jc795AcgIQ0AJW7fEEVwPNdMULIxrb3x-4S9kRTzJohQbcZaUgV"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPyvyBRm8evguIlX4tbPjJSybuNOUGnsUk83km2APtmXYKBGHOz1JkBpzgggvIwnly1N86LN-5ZG4HWfYd4WiFRiC2R8YXv-g15SY4OgYhDpdpzNCMeeLMmkOL4auNsNi6F5mtT9K2X1lHOBTu1tNO-d1MDHDh"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ7BU_b6yKXQEX7r2TuS1lDVLdbCKhBwOgcY7rjcTvztNoLuhDjusN3RpzuT24qVp4bTPKe5VYKDyNTLdKLtzlZ5nejr6WhNxUcU1gO0MCYQqS_fT_H8No4ff_sgEQjKOYgS2dHL1jjEmoOIb_0EsJqG1JbNqx"
@@ -23,17 +23,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXBUpXiILnc52t72XVLeqKRGwNVNYMk2xakPhTa0h_2-Q6wXviQG2EcjlTk__syKkWuhgePc-Mm7BkoqGJqO2-ZRDiDdlE8C4EOlG4bj7OaWEI_A620fZBS5yn4Wmbj3962JFCjPi1XZrj6-gL_kfcfw=="
 game: unknown
 hero_image: /img/nte-best-team-compositions-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-team-compositions-guide/inline-1.webp
   - /img/nte-best-team-compositions-guide/inline-2.webp
   - /img/nte-best-team-compositions-guide/inline-3.webp
   - /img/nte-best-team-compositions-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Success in the supernatural urban sprawl of Helios City depends entirely on how well you can manipulate the Esper Cycle to trigger devastating elemental reactions. With the release of Version 1.0, the meta has solidified around high-frequency reaction chains that maximize uptime and shred enemy Break meters.
 
@@ -46,7 +46,7 @@ Success in the supernatural urban sprawl of Helios City depends entirely on how 
 
 As of May 2026, the Neverness to Everness (NTE) meta is defined by "Reaction Density"—how many Esper Cycle triggers a team can produce within a single rotation. Unlike traditional RPGs where you might stick with one character, NTE requires constant swapping to maintain elemental pressure. A "best" team is no longer just about the highest attack stat; it is about which four characters can most efficiently cycle through their Esper Meters to trigger Duo and Trio reactions.
 
-In the current endgame environment, specifically the "Beyond the Rails" gauntlet, players face a 4-slot team limit. This forces a strict balance between character roles
+In the current endgame environment, specifically the "Beyond the Rails" gauntlet, players face a 4-slot team limit. This forces a strict balance between character roles:
 *   **Damage:** The primary field-time hog who benefits from active buffs.
 *   **Solid/Liquid/Synthesis:** Support roles that provide off-field elemental application or utility.
 *   **Buff:** Characters dedicated to increasing team-wide stats like Cycle Intensity or Crit DMG.

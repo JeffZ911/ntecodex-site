@@ -1,4 +1,4 @@
---
+---
 title: "Best NTE F2P Team Comps: Neverness to Everness Guide (2026)"
 slug: nte-f2p-team-comps-guide-20260525
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-f2p-team-comps-guide-20260525/hero.webp
-inline_images
+inline_images:
   - /img/nte-f2p-team-comps-guide-20260525/inline-1.webp
   - /img/nte-f2p-team-comps-guide-20260525/inline-2.webp
   - /img/nte-f2p-team-comps-guide-20260525/inline-3.webp
   - /img/nte-f2p-team-comps-guide-20260525/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Establishing a powerful roster in Hethereau without spending a single Annulith on premium banners requires a deep understanding of elemental synergies and character rotations.
 
@@ -36,7 +36,7 @@ Players arriving in the neon-soaked streets of Hethereau often ask: what are the
 
 Early-game progression relies heavily on a core set of starter characters. Understanding which units to prioritize and how to optimize the Esper Cycle system with limited rosters is the difference between struggling against elite mobs and clearing content with ease. Furthermore, the choice of the S-Class character from the free selector—a reward granted to all players upon completing the "City Tycoon" milestone—is a pivotal decision that defines a budget account's long-term viability.
 
-This guide focuses on the guaranteed free characters available to every player
+This guide focuses on the guaranteed free characters available to every player:
 *   **Esper Zero:** The Cosmos-element protagonist and primary Main DPS.
 *   **Mint:** A versatile Anima-element Sub-DPS and mobility specialist.
 *   **Adler:** An Incantation-element Shielder essential for survivability.
@@ -106,7 +106,7 @@ This team is provided entirely for free within the first two hours of gameplay.
 
 Once you unlock the City Tycoon rewards, **Chiz** replaces Mint as your primary Sub-DPS or moves into the Main DPS role. Chiz is unique because her damage is split between Physical and Anima. 
 
-The ideal rotation for a Chiz-led F2P team is
+The ideal rotation for a Chiz-led F2P team is:
 1.  **Adler:** Deploy shield.
 2.  **Haniel:** Summon Hootie and use skill to apply Anima.
 3.  **Zero:** Use Cycle Entry to trigger Blossom, then use "Cosmic Pull".
@@ -149,7 +149,7 @@ If you are just starting your journey on May 25, 2026, rerolling is a viable str
 
 ### How to Get More Free Pulls
 
-To maximize your roster, you must consistently complete daily and weekly routines
+To maximize your roster, you must consistently complete daily and weekly routines:
 *   **Daily Anomalies:** Provides 60 Annulith per day.
 *   **City Tycoon Weekly:** Provides 1 Fabricated Dice and 150 Annulith.
 *   **Hethereau Exploration:** Finding hidden "Echoes" in the city yields small amounts of currency that add up over time.

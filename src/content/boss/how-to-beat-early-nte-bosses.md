@@ -1,4 +1,4 @@
---
+---
 title: "How to Beat Early NTE Bosses: Neverness to Everness Guide"
 slug: how-to-beat-early-nte-bosses
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1676
 published_at: "2026-05-21T15:38:01.450933+00:00"
 published_url: /boss/how-to-beat-early-nte-bosses
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2N-9W0PSCaSGS-ic-AwZKt5KieAD2myyMEXKhpBaDI0ecaTmimLhswpqafvVs2FNSw1wmaBZpWYrBM88lkSkn8NXo6aPDDlWHHtmy2_QnL2mTjP-lfWZPujLawDQEjFJ9so74aIQLjPRBzKYgjj9-gyXDSz0fF_-90nxHSWjfmM4QfCKRkw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDSZdIgitohhV1FRKFZdyK41MPQqyvmk7Mtyr6MibhfEwXk760uYYwmFzYFqZu85IIdrM1ilqFGj5WeqKGHsqddvGuTzVTw5hHc3XGZhd2vzwKZ3M9fVRoYy5_F1UQEOwVmakrUNw"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbPv8O3nGqFUUVA40O5MsgrzMNkHjgnN7KLgClWGemZA8fj2-vPXMT8lUc5hR3WLEsWlMKTNphgsx-eaGLVAyOHjiDU4zdnhvMgAnnXZm6ApUMZwJuR2RJA=="
@@ -27,19 +27,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_t7G-sakuM3CVqqk0pTbCUrf3DL9dNVGboJIyEgQUFUk9qQWZQzRBLnj2csmQ9hZVavll4nX3jvIjg_TCxjfkAR8gm0rq82i8eaClf47AeVdevUA0RAL0SgpYwxTm1pqkcPtkebI="
 game: unknown
 hero_image: /img/how-to-beat-early-nte-bosses/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-early-nte-bosses/inline-1.webp
   - /img/how-to-beat-early-nte-bosses/inline-2.webp
   - /img/how-to-beat-early-nte-bosses/inline-3.webp
   - /img/how-to-beat-early-nte-bosses/inline-4.webp
   - /img/how-to-beat-early-nte-bosses/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Conquering the supernatural anomalies of Hethereau requires more than just high-level gear; it demands a mastery of the urban environment and the complex elemental reactions that define combat. This guide provides the tactical breakdown necessary to dismantle the first major threats you will encounter in Neverness to Everness.
 
@@ -113,15 +113,15 @@ The most effective way to beat early bosses is to trigger the **Discord** reacti
 When Scorch and Nova overlap on a single target, the **Discord** reaction occurs, melting the boss’s Stagger Bar significantly faster than raw damage alone.
 
 ### Optimal Boss Combat Rotation
-To maximize efficiency, follow this "Trigger -> Anchor -> Finisher" flowchart
+To maximize efficiency, follow this "Trigger -> Anchor -> Finisher" flowchart:
 1.  **Primary Trigger:** Start with **Zero** or **Adler** to apply an initial elemental mark (Cosmos or Incantation).
 2.  **Anchor:** Swap to a support like **Haniel** to provide ATK buffs and add the Psyche element to the lane.
 3.  **Finisher:** Switch to your main DPS (like **Nanally** or **Chiz**) to trigger the final reaction and unleash Ultimates only once the boss enters the **Broken** state.
 
 ### Specific Strategy: Defeating the Never-Ending Arachne
-To defeat Arachne at the Ebisu Auction House
+To defeat Arachne at the Ebisu Auction House:
 *   **Manage the Puppets:** In Phase 1, do not focus on raw damage. Instead, time your dodges against the puppet waves to build your Ultimate meter.
-*   **Save the Burst:** Do not use Ultimates when her health bar is grayed out or during her teleportation animations. 
+*   **Save the Burst:** Do not use Ultimates when her health bar is grayed out or during her teleportation animations.
 *   **The Parry Window:** In Phase 2, wait for her to teleport close to you for her red-glint slash. Successfully parrying this hit will often deplete the remainder of her Break bar instantly.
 *   **Execute Threshold:** If you are using **Baicang**, remember that his Ultimate can execute bosses when they fall below 5% HP, bypassing the final sliver of their health.
 

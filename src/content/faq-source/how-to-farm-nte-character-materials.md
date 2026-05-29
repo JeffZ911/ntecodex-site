@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Materials Farming Guide: How to Level Up Fast"
 slug: how-to-farm-nte-character-materials
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-farm-nte-character-materials/hero.webp
-inline_images
+inline_images:
   - /img/how-to-farm-nte-character-materials/inline-1.webp
   - /img/how-to-farm-nte-character-materials/inline-2.webp
   - /img/how-to-farm-nte-character-materials/inline-3.webp
   - /img/how-to-farm-nte-character-materials/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your Esper's potential in Hethereau requires a steady supply of resources, from Hunter Guides to rare Anomaly drops. This guide breaks down the most efficient ways to farm character materials in Neverness to Everness to ensure your team stays ahead of the curve.
 
@@ -34,7 +34,7 @@ Maximizing your Esper's potential in Hethereau requires a steady supply of resou
 
 To build a powerful team in Neverness to Everness (NTE), players must navigate a complex ecosystem of resources. The primary concern for most players is identifying the most efficient methods for obtaining character level-up and ascension materials. This involves understanding where to farm specific items for high-tier Espers like [Hotori](/characters/hotori-best-team-nte), [Nanally](/characters/nanally-guide-nte), and Chiz, as well as managing the game's unique dual-stamina system.
 
-The progression in NTE is split between combat-focused growth and city-based development. Players often ask
+The progression in NTE is split between combat-focused growth and city-based development. Players often ask:
 *   What are the primary methods for obtaining character level-up and ascension materials in Neverness to Everness?
 *   Where can players find specific drops for high-tier Espers like Hotori, Nanally, and Chiz?
 *   How does the dual-stamina system (Character Pixels vs. City Stamina) impact farming efficiency?
@@ -172,7 +172,7 @@ Engaging in the **City Tycoon** mechanics can provide passive bonuses to your fa
 
 ### Recommended Daily Checklist for NTE Players
 
-To ensure you are farming efficiently, follow this daily routine
+To ensure you are farming efficiently, follow this daily routine:
 1.  **Login and Check Pixels:** Spend at least 120 Character Pixels immediately to ensure they keep regenerating throughout the day.
 2.  **Daily Commissions:** Complete the four daily tasks in Hethereau for Hunter Rank EXP and Beetle Coins.
 3.  **Houdinii's Rotation:** Check if it is the correct day for the Esper Ability Books your main team needs.

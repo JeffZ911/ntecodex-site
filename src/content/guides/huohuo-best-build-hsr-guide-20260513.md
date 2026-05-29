@@ -1,4 +1,4 @@
---
+---
 title: "Huohuo Best Build HSR Guide: Best Relics, Weapons & Teams"
 slug: huohuo-best-build-hsr-guide-20260513
 game: hsr
@@ -9,21 +9,21 @@ published_at: "2026-05-13T21:28:53.815140+00:00"
 published_url: /guides/huohuo-best-build-hsr-guide-20260513
 sources: []
 hero_image: /img/huohuo-best-build-hsr-guide-20260513/hero.webp
-inline_images
+inline_images:
   - /img/huohuo-best-build-hsr-guide-20260513/inline-1.webp
   - /img/huohuo-best-build-hsr-guide-20260513/inline-2.webp
   - /img/huohuo-best-build-hsr-guide-20260513/inline-3.webp
   - /img/huohuo-best-build-hsr-guide-20260513/inline-4.webp
   - /img/huohuo-best-build-hsr-guide-20260513/inline-5.webp
   - /img/huohuo-best-build-hsr-guide-20260513/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Huohuo serves as a cornerstone for high-end team compositions, offering a rare combination of aggressive offensive buffs and relentless debuff cleansing. This guide provides everything needed to optimize her performance, from her energy regeneration thresholds to her most effective team synergies.
 
@@ -71,7 +71,7 @@ In the current meta, Huohuo is often considered the best-in-slot sustain for tea
 3.  **Skill (Talisman: Protection):** Increases the direct healing to the target and adjacent allies. While important, the passive healing from her Talent often does the heavy lifting.
 4.  **Basic ATK (Banner: Stormcaller):** Lowest priority. Only used to generate SP and minor Energy.
 
---
+---
 
 ## Best Weapons
 
@@ -110,7 +110,7 @@ An event-exclusive Light Cone from the "A Foxian Tale of the Haunted" event. It 
 | **Shared Feeling (S5)** | A | Team Energy on Skill Use |
 | **Hey, Over Here (S5)** | B | HP Boost and Healing (F2P) |
 
---
+---
 
 ## Best Disks (Artifacts)
 
@@ -143,7 +143,7 @@ This newer set from the Divergent Universe provides a 5% Energy Regeneration Rat
 
 ### Main Stats and Substats to Prioritize
 
-To ensure Huohuo functions optimally, prioritize the following stats
+To ensure Huohuo functions optimally, prioritize the following stats:
 
 | Piece | Main Stat |
 | :--- | :--- |
@@ -163,7 +163,7 @@ To ensure Huohuo functions optimally, prioritize the following stats
 *   **143 SPD:** Allows for more frequent turns across longer battles.
 *   **160 SPD:** The "Gold Standard" for high-end supports, allowing 4 turns within the first two cycles.
 
---
+---
 
 ## Team Comp
 
@@ -199,7 +199,7 @@ Huohuo can sustain almost any traditional Hypercarry team. Even F2P units like D
 | **Jingliu** | 4/5 | ATK buff is slightly diluted but Energy is very helpful. |
 | **Blade** | 2/5 | Blade scales off HP, making Huohuo's ATK buff useless for him. |
 
---
+---
 
 ## Rotation
 
@@ -216,7 +216,7 @@ When Divine Provision is active, an ally will be healed when their turn starts o
 
 ### Optimizing Ultimate Usage for Energy
 
-Huohuo’s Ultimate restores Energy based on the target's Max Energy (15% to 20%). To maximize this
+Huohuo’s Ultimate restores Energy based on the target's Max Energy (15% to 20%). To maximize this:
 1.  **Wait for the DPS to use their Ultimate first:** If your DPS has a full Energy bar, Huohuo's Ultimate will be wasted on them. Always use the DPS Ultimate, then follow up with Huohuo's Ultimate to immediately jump-start their next cycle.
 2.  **The "Emergency" Cleanse:** While her Ultimate doesn't heal, it does trigger her Talent's passive healing if Divine Provision is active. If an ally uses an Ultimate while Divine Provision is up, they get a small heal and a cleanse. Use this to clear debuffs out of turn.
 
@@ -224,7 +224,7 @@ Huohuo’s Ultimate restores Energy based on the target's Max Energy (15% to 20%
 *   **3-Turn Ult:** Requires being hit or triggering specific Light Cone effects (like Shared Feeling) alongside a Skill-heavy rotation.
 *   **4-Turn Ult:** Easily achievable with a Skill -> Basic -> Basic -> Basic rotation or a more standard SP-neutral mix.
 
---
+---
 
 ## FAQ
 

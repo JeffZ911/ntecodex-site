@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Reroll Guide: Best Characters & Fast Method"
 slug: reroll/nte-reroll-guide
 game: nte
@@ -9,19 +9,19 @@ published_at: "2026-05-13T02:25:15.764459+00:00"
 published_url: /guides/reroll/nte-reroll-guide
 sources: []
 hero_image: /img/nte-reroll-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-reroll-guide/inline-1.webp
   - /img/nte-reroll-guide/inline-2.webp
   - /img/nte-reroll-guide/inline-3.webp
   - /img/nte-reroll-guide/inline-4.webp
   - /img/nte-reroll-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Starting your journey in the supernatural urban sprawl of Hethereau with a top-tier S-Rank character ensures you can clear difficult Oddity encounters and speed through the early story chapters. This guide provides the most efficient methods to secure elite units like [Nanally](/characters/nanally-guide-nte) or Hathor during the launch window of Neverness to Everness (NTE).
 
@@ -75,7 +75,7 @@ NTE allows for account registration via email. To avoid creating dozens of actua
 
 ### Step-by-Step Reroll Walkthrough
 
-Follow this sequence to complete a single reroll cycle in approximately 15 minutes
+Follow this sequence to complete a single reroll cycle in approximately 15 minutes:
 
 1.  **Launch and Login:** Open the game and create a new account using a salted email.
 2.  **Tutorial Combat:** Complete the opening combat sequence. Focus on using Mint’s skills to clear the initial "Anomalies" quickly.
@@ -93,7 +93,7 @@ To save roughly 5-7 minutes per run, you must be aggressive with the skip button
 
 ### Active Redeem Codes (May 2026)
 
-Ensure you use these codes before heading to the Fair to maximize your pulls
+Ensure you use these codes before heading to the Fair to maximize your pulls:
 *   **NTE0429:** 500 Annulith, 5x Fabricated Dice.
 *   **NTENANALLYGO:** 2x Solid Dice, 20,000 Credits.
 *   **HETHEREAU2026:** 100 Annulith, 3x Upgrade Materials.

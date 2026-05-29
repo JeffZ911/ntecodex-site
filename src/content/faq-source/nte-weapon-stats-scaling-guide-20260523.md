@@ -1,4 +1,4 @@
---
+---
 title: "NTE Weapon Stats and Scaling Guide: Arcs Explained"
 slug: nte-weapon-stats-scaling-guide-20260523
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1519
 published_at: "2026-05-23T19:00:03.908406+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7hT4IhEN1LOqVh7j-GkHn70S8ykuZNMVk3qREOPdDDRAnFL8qbkBfwsGQu3g8NTcghSBhYaDHEcT2oqufFYA-R3UIyZ1cWtKXENCXrxIN8TDRqaUgVpOQJ-kGSTem4xsyRRQAkpEv58D87ikclm5RLq36RMjuBGzRjkn8TCk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFldLHxZ7xvvmz0vqZdhTRS873cnk7Tl2i3hfH8_iHVnboS9nh3QKtzMOahDT__2o8AxeqPCmsBbnXGWYTY9nDRBBXg_Y1a3IB8bZ1tVTiFYOZXn2UJzZsEzQLxR7bR2pqrLuhK1w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu-32mBfeqgF4esQ2oOzF2ZF_9vL7mp7o859UGnbbIknLhB20cBexUDEFx59QvfKqNIspQth3PgpWlCvCGtvB1lVRggXJ9dY3PT_3rD-aLwIU6Y26xTM7wIakkhfxSEKdtjiZ45ssahXWRLfyR1V3BKLO4K2dziJ20zQh7sh0srMz80sSZqAyW3jOu-x9SSfwNNLS-kTbxXowDSuP4BXyLJ7Fsst5oNjqmne1zQieHZlOhDZmBgsZhGDbVNjlxk9kYoU528D7C_HreawB_9X5zEfX4mGdU0w=="
@@ -29,17 +29,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Orhxzl66tQmknyHmWTYRkXQgTmz9YRRxRaTegjs-1iCK0sGf1ResUsmJdp6aeDywDglxOfhRhvxeZprRbAgX6J-CVo3EeO-2cSUGl4kXPbrTcI9PO-bMuLd3WIWo7F9FvHUGiaJlZImDEenbkRCPVkYNJD2e68fKDDT-2FyQCe2y2Kwa5GLLBXZ-q5Gs1yNUwQ=="
 game: unknown
 hero_image: /img/nte-weapon-stats-scaling-guide-20260523/hero.webp
-inline_images
+inline_images:
   - /img/nte-weapon-stats-scaling-guide-20260523/inline-1.webp
   - /img/nte-weapon-stats-scaling-guide-20260523/inline-2.webp
   - /img/nte-weapon-stats-scaling-guide-20260523/inline-3.webp
   - /img/nte-weapon-stats-scaling-guide-20260523/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your loadout in Neverness to Everness (NTE) requires a deep understanding of Arcs, the equippable disks that serve as the primary weapon system for every Esper in Hethereau.
 
@@ -63,7 +63,7 @@ Materials for scaling these weapons are primarily gathered through Anomaly Zones
 
 Arcs in Neverness to Everness are categorized by rarity (S, A, and B ranks) and five distinct combat types. Every character, such as [Nanally](/characters/nanally-guide-nte) or [Hotori](/characters/hotori-best-team-nte), can only equip an Arc that matches their specific type. These weapons scale their Base ATK and Substats as they level up to the current cap of Level 80.
 
-The progression system is divided into
+The progression system is divided into:
 *   **Enhancement:** Increasing the level using Pigments and Shell Credits (Beetle Coins).
 *   **Ascension:** Every 10 levels, a Breakthrough is required using materials like the "Bubble Can" series to unlock the next level bracket.
 *   **Mixing:** Using duplicate weapons to increase the "Mixing Intensity," which directly improves the numerical values of the weapon's unique passive skill.
@@ -85,7 +85,7 @@ The depth of the Arc system lies in how it interacts with an Esper’s kit. Beca
 
 Every Arc features a Base ATK stat that increases with every level. This value is added to the Esper's base stats before percentage-based modifiers are applied, making high-rarity Arcs like Marching Beyond Time significantly more valuable for endgame damage.
 
-Substats provide the necessary specialized scaling for specific builds. Current S-rank Arcs typically feature one of the following
+Substats provide the necessary specialized scaling for specific builds. Current S-rank Arcs typically feature one of the following:
 *   **CRIT Rate:** Essential for characters who rely on frequent hits, like Nanally.
 *   **Charge Efficiency:** Increases the rate at which Ultimate Energy is gained, vital for the Main Character (Zero).
 *   **CRIT DMG:** High-end scaling for Espers with naturally high critical hit chances.
@@ -155,7 +155,7 @@ The Arc Research Program is the dedicated banner system for weapons. It uses a c
 
 Efficiency in NTE is determined by how you spend your **Character Pixels** (stamina). 
 *   **Bubble Can Factory:** This should be your primary destination for Ascension materials. The drops are type-specific, so check the daily rotation to ensure you are farming for the correct Arc type (Solid, Plasma, etc.).
-*   **Houdinii’s Magic Stage:** Use this for Pigments (Dye) and Shell Credits (Beetle Coins). 
+*   **Houdinii’s Magic Stage:** Use this for Pigments (Dye) and Shell Credits (Beetle Coins).
 *   **City Tycoon & Apartments:** Once you reach higher Hunter Levels, purchasing properties like the **Golden Capital** (2 million Fons) allows you to place furniture like the **Intact Crate**. This furniture generates Beetle Coins passively, which is essential for covering the high costs of Level 70–80 upgrades.
 *   **Scrap and Exchange:** You can dismantle unwanted B-rank Arcs to receive a small amount of upgrade materials, though it is generally better to use them as fodder for Enhancement early on.
 

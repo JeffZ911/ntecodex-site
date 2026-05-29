@@ -1,4 +1,4 @@
---
+---
 title: Neverness to Everness Best DPS Characters Tier List (May 2026)
 slug: best-dps-characters-nte-tier-list-20260521
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-dps-characters-nte-tier-list-20260521/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-tier-list-20260521/inline-1.webp
   - /img/best-dps-characters-nte-tier-list-20260521/inline-2.webp
   - /img/best-dps-characters-nte-tier-list-20260521/inline-3.webp
   - /img/best-dps-characters-nte-tier-list-20260521/inline-4.webp
   - /img/best-dps-characters-nte-tier-list-20260521/inline-5.webp
   - /img/best-dps-characters-nte-tier-list-20260521/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your damage output in Hesperia requires a deep understanding of elemental synergies and character-specific mechanics. This Neverness to Everness (NTE) DPS tier list breaks down the current meta following the landmark release of [Hotori](/characters/hotori-best-team-nte) and the conclusion of the game's first limited banner.
 

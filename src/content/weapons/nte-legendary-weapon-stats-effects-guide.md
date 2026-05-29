@@ -1,4 +1,4 @@
---
+---
 title: "NTE Legendary Weapon Stats and Effects: Best S-Rank Arcs Guide"
 slug: nte-legendary-weapon-stats-effects-guide
 article_type: weapon_db
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 2298
 published_at: "2026-05-27T10:56:01.563498+00:00"
 published_url: /weapons/nte-legendary-weapon-stats-effects-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq1pL8quj2jNRhz04sceKqZxOaY3iexyfna4s5BbaK68jtSfraelfiirhSUXuy_ysC1REVrZafa5wmXf6gmngpvjG5bfJhJUmpp_-XO4ONavAg1OvDbhTdqR_LaDWUDp_MA0AgTLjpA03RFBwOb9XNEahBs1tKAft33PmZOK8jsy2DF5Zb3rgBvYlrxbeo2UJbdZDSVQ9o"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaqefAcM8d2jUOkMaiXCksCWA7VZoVel0psqNlvP5bye_53_vNYopans2psunf4tJmJFNCHq_T5QkyVkPJvVY7XOLq1JtB77CCrzyY2Rx_GhBgX0B9S69glc8j9Ef7IKmaVdXDgetX9IhfkQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRvmzBAZFslx3wvl6T7x-tEsLEyFkPcxaDqlwn0iu4BZXKAI_z32OXMp7znMAMAEy3V54lMY6uIG537u1BVuEFcDM_9uem6XnShT9ZXEjLjNPFoHLGXI2f70y-gpm7nmB_w1i6lb7HxCnrLlvCMw-MPXSaL8URUahT-rJczXnbBarITN3TEAnQN50Yhktx2LVb9_TxpoS3ibttV0gIcMQrgw=="
@@ -20,19 +20,19 @@ sources
 quick_answer: "Legendary weapons in NTE (S-Rank Arcs) offer up to 666 Base ATK and unique passives like 'Officer Whisker' or 'Silent Garden.' Top DPS Arcs include Ready-Ready and Marching Beyond Time, often farmable via world bosses."
 game: unknown
 hero_image: /img/nte-legendary-weapon-stats-effects-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-legendary-weapon-stats-effects-guide/inline-1.webp
   - /img/nte-legendary-weapon-stats-effects-guide/inline-2.webp
   - /img/nte-legendary-weapon-stats-effects-guide/inline-3.webp
   - /img/nte-legendary-weapon-stats-effects-guide/inline-4.webp
   - /img/nte-legendary-weapon-stats-effects-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Stats"
   - "Effect"
   - "Best On (Characters)"
   - "How to Get"
   - "Comparison"
---
+---
 
 Equipping the right Arc can transform a character from a standard combatant into a supernatural powerhouse capable of dismantling the toughest anomalies in Hethereau. This guide breaks down the essential stats and unique effects of every legendary S-Rank weapon currently dominating the meta.
 
@@ -81,7 +81,7 @@ The true power of a Legendary Arc lies in its "Arc Skill"—a unique passive tha
 ### Unique Summoning Mechanics: Officer Whisker and Silent Garden
 Two of the most sought-after effects involve combat summons. Hethereau's Keeper features the "Officer Whisker" effect, which summons a feline assistant that floats near the player and continuously attacks enemies, dealing damage based on 100% to 200% of the wearer's ATK. 
 
-The Camellia Society Arc utilizes the "Silent Garden" effect. When the wearer's HP is reduced, it triggers one of two random high-damage Incantation bursts
+The Camellia Society Arc utilizes the "Silent Garden" effect. When the wearer's HP is reduced, it triggers one of two random high-damage Incantation bursts:
 *   **Harsh Rebuke:** Rains down 5 instances of damage, each dealing up to 40% ATK.
 *   **Incessant Nagging:** Pierces targets with 6 instances of damage, with the final hit dealing double damage.
 

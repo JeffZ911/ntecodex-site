@@ -1,4 +1,4 @@
---
+---
 title: Best Support Builds for Neverness to Everness (NTE) | Full Guide
 slug: best-support-builds-nte
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/best-support-builds-nte
 sources: []
 game: unknown
 hero_image: /img/best-support-builds-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-support-builds-nte/inline-1.webp
   - /img/best-support-builds-nte/inline-2.webp
   - /img/best-support-builds-nte/inline-3.webp
   - /img/best-support-builds-nte/inline-4.webp
   - /img/best-support-builds-nte/inline-5.webp
   - /img/best-support-builds-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Building a powerful team in Neverness to Everness (NTE) requires more than just high-damage hypercarries; it demands a foundation of specialized supports to manage the Esper Meter and amplify damage. This guide breaks down the optimal weapons, cartridges, and team compositions to maximize your support characters' utility in the current meta.
 
@@ -106,14 +106,14 @@ The **Speedy Hedgehog** Cartridge set is the absolute meta-defining choice for s
 
 ### Niche Support Sets: Tiny Big Adventure & Shadow Creed
 
-While Speedy Hedgehog is universal, some supports benefit from more specialized sets
+While Speedy Hedgehog is universal, some supports benefit from more specialized sets:
 
 *   **Tiny Big Adventure:** This set is essential for Fadia or any support that scales with Max HP. It increases the wearer's HP and converts a portion of that HP into healing effectiveness.
 *   **Shadow Creed:** A strong A-Tier secondary option. It grants a 25% ATK boost for 20 seconds specifically after using a Skill. This is useful for teams that rely on long DPS windows where the Speedy Hedgehog buff might expire too early.
 
 ### Priority Sub-stats for Support Modules
 
-When slotting Modules into your Console, prioritize the following sub-stats to ensure your supports function at peak efficiency
+When slotting Modules into your Console, prioritize the following sub-stats to ensure your supports function at peak efficiency:
 
 1.  **Charge Efficiency:** The highest priority. Essential for Ultimate uptime.
 2.  **Cycle Intensity:** Increases the speed at which the Esper Meter fills, allowing for more frequent elemental reactions.

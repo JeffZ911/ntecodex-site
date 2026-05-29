@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Dragon King Guide: Best Jiuyuan Build"
 slug: nte-dragon-king-jiuyuan-build-guide
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T18:14:29.682135+00:00"
 published_url: /guides/nte-dragon-king-jiuyuan-build-guide
 sources: []
 hero_image: /img/nte-dragon-king-jiuyuan-build-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-1.webp
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-2.webp
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-3.webp
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-4.webp
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-5.webp
   - /img/nte-dragon-king-jiuyuan-build-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Dominating the urban skyline of Hesperia requires more than just a fast car; it requires the overwhelming firepower of Jiuyuan. As the premier S-Rank Anima DPS in Neverness to Everness, she has earned the community title of "Dragon King" for her ability to delete enemy health bars through her unique mark-detonation mechanics.
 
@@ -126,13 +126,13 @@ Jiuyuan shines brightest when paired with characters who can trigger the "Blosso
 
 ### The Blossom Meta Team
 
-The most powerful team in the current meta, often called the "Blossom Standard," consists of
+The most powerful team in the current meta, often called the "Blossom Standard," consists of:
 1.  **Jiuyuan (S-Rank):** Primary Burst DPS and mark applicator.
 2.  **[Nanally](/characters/nanally-guide-nte) (S-Rank):** Cosmos DPS/Support who triggers Blossom reactions.
 3.  **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (A-Rank):** Buffer who provides DEF shred and ATK bonuses.
 4.  **Zero (S-Rank):** The "Energy Battery" who ensures 100% Ultimate uptime.
 
-### Why this team works
+### Why this team works:
 *   **Seize the Moment:** Jiuyuan's passive ability, "Seize the Moment," enhances Blossom reactions. It increases the Vita Bud limit on the field from 3 to 6, effectively doubling the reaction damage floor.
 *   **Synergy:** Nanally applies Cosmos status rapidly, which Jiuyuan then reacts with using her Anima-infused bullets.
 *   **Energy Management:** Zero provides "Insta-Cycle" energy generation. This is crucial because Jiuyuan's damage is heavily back-loaded into her Ultimate.

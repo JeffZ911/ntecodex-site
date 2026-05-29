@@ -1,4 +1,4 @@
---
+---
 title: "Best Weapons for NTE DPS Characters: Ultimate Arcs Guide (2026)"
 slug: best-weapons-nte-dps-characters
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1658
 published_at: "2026-05-22T07:51:05.792188+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCx0_yJQR3yazDRmVZq3V_D44zpzwSb0zXEQkjhV9BRNq0t43E1PX6k--fvn7NwzTS-iOpAFIXHXhvO4tdKYfXuse_HWKRzczkhOuvBoZVzkvN6qGoW8IjcZmoexx_XL_FafnFKQG9vFO-fa9fgNEkwxFpEC8r_dgNOpGRUpnNsBJwSts="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEai6LNSLClFZMIRp8k2idvNfR77y1dPsTKR1xHp3OpvKIU6pCbMsu0dpBGDFB59Qoaf73aA35pfkSCbt0XQy4MVzebakaMpoaumBywvPZTuKjtxOaUAtTOFNGedS4qknvV-TKgadlp-nYhuzsopPT21qJoMFo54Jp9V2OcR--CgXoU"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs24R-iAFK_pnNuHNHhSDKFeoh58NY1PmtQyMq9b3CRJX4YVNvnGkVP-ZW8FIHOyUiIHHTO9F5k_ZVO5GQB_bN7Qxe59p_hBHdEZIrxwSdqI4Du2YV2rDxRs5WKwIJ8bOYEt5zOs7a7E7cUZg_6SmIa3ZkkKkAoVSdXzI6oYp0hxojXg=="
@@ -24,17 +24,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyYtBvxfmtgfaf_6hATaUyaKfWf4BKSRW-6kysOtnsi81fBrGgBPYr_Oq2N2OXIs12o-kfs2hpOGvnAYjqXzELbksdgxF2ha_v4VKohcdJFkm3P0dSlEtftmyILa_B-PQloyKvDT0rMtrxGuowcxBw7vxBbyJ_FYx-EnNO-Pdj5bmkAYVk8MQVpW1YxNml9LD9wQ07nuj2dfqMNOE3zvY="
 game: unknown
 hero_image: /img/best-weapons-nte-dps-characters/hero.webp
-inline_images
+inline_images:
   - /img/best-weapons-nte-dps-characters/inline-1.webp
   - /img/best-weapons-nte-dps-characters/inline-2.webp
   - /img/best-weapons-nte-dps-characters/inline-3.webp
   - /img/best-weapons-nte-dps-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redefined the urban open-world RPG genre with its complex "Arc" weapon system and high-octane Esper combat. Choosing the right equipment is the difference between struggling against level 99 anomalies and dominating the neon-lit streets of Hethereau.
 
@@ -47,7 +47,7 @@ Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redef
 
 Maximizing damage output in Neverness to Everness requires a deep understanding of Arcs—the equippable disks that serve as the primary weapons for every Esper. Unlike traditional gear systems, Arcs are tied to specific elemental and mechanical types, meaning a top-tier weapon for one character might be entirely incompatible with another.
 
-Identifying the best weapons for DPS characters involves
+Identifying the best weapons for DPS characters involves:
 *   **Identifying Meta-Dominant Arcs:** Recognizing which S-rank weapons, such as Ready-Ready and Camellia Society, provide the highest scaling for the current May 2026 endgame.
 *   **Balancing Signature vs. F2P:** Differentiating between high-investment gacha Arcs and powerful, farmable alternatives like Song of the Whale.
 *   **Synergizing Weapon Types:** Matching Plasma, Solid, Gas, Liquid, and Synthesis Arcs with the correct Esper to unlock their full passive potential.
@@ -96,7 +96,7 @@ Each Arc features a "Mixing" system (Refinement), where feeding duplicate Arcs i
 Ready-Ready is widely considered the Best-in-Slot (BiS) for Nanally. Its passive, **Commander Tiger Talisman**, functions through a specific rotation. Casting a Redirect Skill grants a "Left Tiger Talisman," while an Ultimate grants a "Right Tiger Talisman." If both are obtained within 15 seconds, the Commander Tiger Talisman activates, granting a 10% damage bonus against bosses. This, combined with a 24% CRIT Rate substat, makes it the most reliable tool for clearing the "Beyond the Rails" endgame challenges.
 
 #### Camellia Society: The Synthesis Powerhouse
-With the highest base ATK in the game (666), Camellia Society is built for aggressive playstyles. Its **Silent Garden** effect rewards you when HP is reduced without taking direct damage (e.g., through self-burn or specific Esper skills). This triggers up to four stacks of 12% CRIT DMG. Additionally, it randomly unleashes one of two "Incantation" attacks
+With the highest base ATK in the game (666), Camellia Society is built for aggressive playstyles. Its **Silent Garden** effect rewards you when HP is reduced without taking direct damage (e.g., through self-burn or specific Esper skills). This triggers up to four stacks of 12% CRIT DMG. Additionally, it randomly unleashes one of two "Incantation" attacks:
 1.  **Harsh Rebuke:** Five instances of 24% ATK damage.
 2.  **Incessant Nagging:** Six instances of 18% ATK damage, with the final hit dealing double damage.
 
@@ -105,7 +105,7 @@ For Solid-type DPS units, Hethereau's Keeper is a top-tier choice because it sum
 
 ### Best F2P and Budget DPS Weapons
 
-You do not need to spend Tri-Keys on every banner to stay competitive. Several S-rank Arcs are farmable or given through quests
+You do not need to spend Tri-Keys on every banner to stay competitive. Several S-rank Arcs are farmable or given through quests:
 
 *   **Song of the Whale:** This Plasma Arc is a guaranteed drop from the **Sea Prisoner** boss located in the Nautili Tunnel. It provides a 27.5% ATK substat and restores 30% HP whenever you defeat a "Broken" enemy, making it the best survival-focused DPS weapon for Aurelia or Nanally.
 *   **Day Off:** Obtainable through the "Eclipse" hidden quest at the Bureau of Anomaly Control, this is the signature weapon for Esper Zero. It excels in mob-clearing scenarios by restoring 6 Ultimate Energy for every enemy defeated during its 40-second Eclipse window.
@@ -119,7 +119,7 @@ Conversely, **Raging Flames** is becoming the go-to for [Sakiri](/characters/sak
 
 ### How to Upgrade and Refine Your Arcs
 
-Upgrading your Arcs is a three-step process
+Upgrading your Arcs is a three-step process:
 1.  **Enhancement:** Use **Dye** and **Beetle Coins** to increase the Arc's level. Dye is most efficiently farmed in the **Kaleidoscope** stage of Houdinii's Magic Stage.
 2.  **Ascension:** Every 10 levels, you must use materials from the **Bubble Can Factory** to raise the level cap. The maximum level currently attainable is 80.
 3.  **Mixing:** This is the NTE version of refinement. You must use a duplicate of the same Arc to increase its passive skill rank. For F2P Arcs like **Song of the Whale**, you can reach Mixing Rank 5 by repeatedly defeating the Sea Prisoner boss.
@@ -133,7 +133,7 @@ Upgrading your Arcs is a three-step process
 
 The primary method for acquiring S-rank Arcs is the **Arc Research Program** (the weapon banner), which requires **Tri-Keys**. However, as you rank up in **City Tycoon**, you unlock the **Hunter Exchange**. This shop allows you to trade specialized currencies earned from anomalies for high-tier weapon materials and occasionally S-rank Arcs themselves.
 
-To maximize your weapon inventory
+To maximize your weapon inventory:
 *   **Complete Anomaly Commissions:** High-level anomalies frequently drop A-rank Arcs and the materials needed for S-rank research.
 *   **Wanted Level Bosses:** Defeating the **Justice Executioner** (triggered by reaching a 4-star wanted level in Hethereau) is the only way to obtain the **Hethereau's Keeper** Arc.
 *   **Limited Events:** Banners like "The Ichi-daime" often feature a companion weapon banner with increased rates for signature Arcs.
@@ -146,7 +146,7 @@ If you are running a **Scorch** (Fire) or **Blossom** (Nature) team, look for Ar
 
 ### Optimizing Cartridges and Modules for DPS
 
-An Arc's power is only as good as the Cartridges paired with it. For a main DPS
+An Arc's power is only as good as the Cartridges paired with it. For a main DPS:
 *   **Primary Set:** Use the **Fireflies and the Forest** set for Anima DPS like Nanally. The 4-piece set increases CRIT DMG by 8% every time an enemy takes Anima damage, stacking 7 times.
 *   **Substat Priority:** On your Modules, always prioritize **CRIT Rate** until you hit the 70% threshold, then dump all remaining resources into **CRIT DMG** and **Universal DMG Bonus**.
 *   **City Tycoon Rewards:** Reaching higher ranks in City Tycoon unlocks the ability to craft "Golden" grade Modules, which provide significantly higher substat ceilings than standard drops.

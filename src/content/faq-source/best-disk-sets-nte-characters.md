@@ -1,4 +1,4 @@
---
+---
 title: Best Disk Sets for Every Character in Neverness to Everness (NTE)
 slug: best-disk-sets-nte-characters
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disk-sets-nte-characters/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-nte-characters/inline-1.webp
   - /img/best-disk-sets-nte-characters/inline-2.webp
   - /img/best-disk-sets-nte-characters/inline-3.webp
   - /img/best-disk-sets-nte-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your character's potential in the neon-soaked streets of Hethereau requires more than just high-level Arcs; you need the right Cartridge configurations to handle high-intensity Esper Cycles.
 
@@ -36,7 +36,7 @@ Maximizing your character's potential in the neon-soaked streets of Hethereau re
 In the community and across early guides, players often refer to "Disk Sets" when discussing character equipment. However, in the official Neverness to Everness (NTE) interface, these are known as **Cartridges**. These items function as the primary gear system, providing both flat stat increases and powerful set bonuses when equipped in specific combinations.
 
 ### Understanding the Equipment System
-The NTE equipment system is divided into three distinct layers
+The NTE equipment system is divided into three distinct layers:
 1.  **The Console:** The base interface where equipment is slotted. Each character has a unique Console grid (typically 5x5 or 6x6) that unlocks as they level up.
 2.  **Modules:** These are the individual "Tetris-like" pieces you place onto the Console. Each Module has a shape (I, L, T, O, S, or Z) and belongs to a specific Type (I, II, III, or IV).
 3.  **Cartridges (Disk Sets):** When you fill a Module with a specific Cartridge "data," you contribute toward a set bonus. Activating these bonuses requires equipping either 2 or 4 Modules of the same Cartridge set.
@@ -138,7 +138,7 @@ Daffodil excels at breaking the "Stance" bars of large Hethereau monsters.
 *   **Module Priority:** Type II Modules with Crit Rate and Type IV Modules with Break Effect [exact value pending official confirmation].
 
 ### Optimizing Sub-stats: Crit, ATK, and Cycle Intensity
-When farming Modules, the primary stat is fixed based on the Module Type, but the sub-stats are randomized. For a perfect endgame build, you should look for the following priority
+When farming Modules, the primary stat is fixed based on the Module Type, but the sub-stats are randomized. For a perfect endgame build, you should look for the following priority:
 1.  **Crit Rate / Crit DMG:** Essential for all DPS characters.
 2.  **Cycle Intensity:** The most important stat for supports and sub-DPS characters to keep the Esper Cycle moving.
 3.  **ATK%:** A universal scaling stat.

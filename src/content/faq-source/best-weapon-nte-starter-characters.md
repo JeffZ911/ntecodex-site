@@ -1,4 +1,4 @@
---
+---
 title: Best Weapons for Starter Characters in Neverness to Everness (NTE)
 slug: best-weapon-nte-starter-characters
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-weapon-nte-starter-characters/hero.webp
-inline_images
+inline_images:
   - /img/best-weapon-nte-starter-characters/inline-1.webp
   - /img/best-weapon-nte-starter-characters/inline-2.webp
   - /img/best-weapon-nte-starter-characters/inline-3.webp
   - /img/best-weapon-nte-starter-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Choosing the right Arc for your team in Hethereau determines how efficiently you can clear anomalies and progress through the early urban sandbox.
 
@@ -74,7 +74,7 @@ The weapon system in Neverness to Everness is deep, requiring players to balance
 
 ### Understanding Arc Types and Compatibility
 
-Every Arc in NTE belongs to one of five categories. Matching these to your character is the first step in build optimization
+Every Arc in NTE belongs to one of five categories. Matching these to your character is the first step in build optimization:
 
 1.  **Solid:** Typically focused on physical impact, defense, and sustained DPS. Best for Zero and Adler.
 2.  **Liquid:** Focused on flow, energy regeneration, and skill cooldown reduction. Best for Mint and Aurelia.
@@ -101,7 +101,7 @@ As the central character of the Hethereau story, Zero is a versatile Solid-type 
 
 Mint is the first A-Class character most players will maximize. As a Liquid-type, she relies on high energy uptime to keep her "Minty Fresh" AOE field active.
 
-*   **Fluff of Fleetness (S-Rank):** Although an S-rank, this is highly recommended for Mint if you pull it from the permanent banner. It provides a massive 25% ATK stack that builds up every 3 seconds while Mint is the active character on the field. 
+*   **Fluff of Fleetness (S-Rank):** Although an S-rank, this is highly recommended for Mint if you pull it from the permanent banner. It provides a massive 25% ATK stack that builds up every 3 seconds while Mint is the active character on the field.
 *   **Mind Royale (A-Rank):** This is the best F2P-accessible Liquid Arc for Mint. It focuses on Energy Regeneration. When Mint triggers an Anima reaction, Mind Royale restores [exact value pending official confirmation] energy, allowing her to use her Ultimate more frequently.
 
 ### Chiz (S-Class Cosmos): Best Gas Arcs for the Tycoon Queen
@@ -135,14 +135,14 @@ Crucially, an A-Rank Arc at Refinement Rank 5 (obtained by merging five copies o
 
 In the first few hours of Neverness to Everness, you will mostly use B-rank Arcs like "Standard Issue" or "City Transit." Do not over-invest in these. Level them to 20 or 40 at most. Your goal is to transition to A-rank Arcs by the time you reach Hethereau's second district.
 
-You can obtain A-rank Arcs through
+You can obtain A-rank Arcs through:
 *   **Story Rewards:** Completing main quests.
 *   **Shop Exchange:** Using "Anomaly Shards" earned from dismantling unwanted gear.
 *   **The Arc Research Program:** Using the free "Research Permits" provided to new players.
 
 ### Farming Guide: Where to Find Free S-Rank Arcs in Hethereau
 
-While most S-rank Arcs are found in the gacha, NTE provides several pathways to earn high-tier weapons through gameplay
+While most S-rank Arcs are found in the gacha, NTE provides several pathways to earn high-tier weapons through gameplay:
 
 1.  **Field Bosses:** Certain world bosses in the outskirts of Hethereau have a low percentage chance to drop S-rank Arc materials.
 2.  **Anomaly Investigations:** Completing high-difficulty Anomaly zones for the first time often rewards an S-rank Arc box.
@@ -158,7 +158,7 @@ Optimizing your weapons is only one part of building a powerful team in NTE. You
 
 ### Recommended Early-Game Team Synergies
 
-For a balanced start, the "Starter Trio" is highly effective
+For a balanced start, the "Starter Trio" is highly effective:
 *   **Main DPS:** Zero (with Hethereau's Keeper)
 *   **Sub-DPS/AOE:** Mint (with Mind Royale)
 *   **Support/Buffer:** Chiz (with Good Boy's Grand Adventure)

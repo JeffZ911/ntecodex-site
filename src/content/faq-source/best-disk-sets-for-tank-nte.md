@@ -1,4 +1,4 @@
---
+---
 title: Best Disk Sets for Tanks in Neverness to Everness (NTE Guide)
 slug: best-disk-sets-for-tank-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1533
 published_at: "2026-05-15T07:01:23.326727+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwNQ9FCyndxCHAYzTfnK9H1JxjAbJ3awY1uETCCDKABjkgTfxtW2et63FQgZPNf7u24Vshp0FnjC3nF41u2QJHeBbV31VR1Y43Ed2qlX_fGPaWAJsZlfdvaMiWnxltZFoH0FWXGRimdEbEgUUfiWed4-iNLzo7tUtcBWOHhwSK4-kZqwH89kne"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhF6uLu2ZSbUryhbgLn_fDi3pbVB8aTf9o1H_6phahwfN8Oqr3MRwQPmU0ZIYIxPlisY18L9nmmVabrmFh4crOt8nWge125FtIqWPkMBJGbwqnrTKKv53iCBwniVZbQCPaF8JKgrXAru1-ma6znZPSMN_Ofd0Ic_Tnuw4INl1d3oU9ZA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7f5vYvmcBifILWI7doOnzTkyYwj_ypqd-rth-2Sbe-ZXWtbUgn1MoBWm44Ct6vfg3ivmd4wrfWJdhAlL-DahLTWNcr4uakEHtsA1NSjKyBY7pv5w9rpVPXWLIAHZHF1ohIj5WhrxYget5P6rzzHyJiOsTIpgTAlC2-JA0CC4I"
@@ -27,17 +27,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL-8jw7j9KZpwI-OfgRP2sTjuM7uwGEOkYcjwtsdt9k2ELE0JFov0coIEjwcPfSQUzecBGrzK5EPWUprV8iwi5jxtfkBVBhSUzCA8V_IptncqCTj84CAV18bLKW7A7w3H8ws5bNuSUdxKMuDKPa5PJ2Gf0ZU-1zIGxwMERIaSJV8DLNJTVDHcdVVGlorEn3pWmNHNA6zAgFxh5DPe40XUkReKJcslIJA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqWdeWy31b-jvgww-ORrSf3eJU4G6d7ZLGqWHj_ns6gdWSQyYZldf6ICG04D9LKDHlzlPkXStsnyiPdNAmIUwMYda_GjH3tCG2BXtToVLyzvVpS-hQQMQiQ9diM7XXCYPky9cX-yI="
 hero_image: /img/best-disk-sets-for-tank-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-for-tank-nte/inline-1.webp
   - /img/best-disk-sets-for-tank-nte/inline-2.webp
   - /img/best-disk-sets-for-tank-nte/inline-3.webp
   - /img/best-disk-sets-for-tank-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Ensuring your frontline stays standing during high-intensity Anomaly hunts is the difference between a successful raid and a total team wipe. In Neverness to Everness (NTE), the "Tank" role is defined by how well you manage your Console's Cartridges and Modules to maximize damage mitigation and team-wide protection.
 
@@ -52,7 +52,7 @@ In Neverness to Everness, "Disk Sets" are officially referred to as Cartridges. 
 
 As of the April 29, 2026 launch, the tank meta is dominated by two primary archetypes: shield-based mitigation and HP-based damage redirection. Survival in endgame content like the Rabbit Hole or high-tier Anomaly raids requires more than just high health; you need specific stats like Shield Intensity and DEF Scaling to counteract the aggressive "Break" mechanics used by bosses.
 
-The launch-day roster features two standout survival specialists
+The launch-day roster features two standout survival specialists:
 *   **Adler:** An A-Rank Incantation support who provides massive DEF-scaling shields.
 *   **Fadia:** An S-Rank Psyche tank who redirects 50% of team damage to herself and scales entirely off Max HP.
 
@@ -68,7 +68,7 @@ The Console system is the heart of character progression. Every Esper has a uniq
 
 Tanks in NTE do not just soak up damage; they facilitate the "Esper Cycle." This combat system rewards you for rotating through your team to trigger elemental reactions like Scorch (Incantation + Chaos) or Nova (Psyche + Chaos). A well-built tank like Adler allows your main DPS to stay on the field longer without dodging, while Fadia turns the damage she takes into a "Destructive Experience" debuff that reflects damage back at the enemy.
 
---
+---
 
 ## Direct Answer
 
@@ -88,7 +88,7 @@ The optimal Cartridge for your tank depends entirely on whether they scale with 
 *   **Best for Fadia:** Tiny Big Adventure (4-Piece) paired with Type II Modules.
 *   **Best for Utility:** Speedy Hedgehog is the go-to for tanks who want to provide offensive buffs while maintaining baseline bulk.
 
---
+---
 
 ## Detailed Explanation
 
@@ -144,7 +144,7 @@ Cartridges are primarily farmed in the **Rabbit Hole Anomaly Zone**, located in 
 *   **Modules:** These are obtained through the **Rewind** feature in your Console menu. You spend Carrota Coins (earned from the Rabbit Hole) to pull for random Module shapes.
 *   **Rarity Gates:** S-Rank (Orange) Modules only become available once you reach **Hunter Level 30** and unlock the "Hard" difficulty in the Rewind system.
 
---
+---
 
 ## Related
 
@@ -155,7 +155,7 @@ To round out your team, it is vital to understand how your tank's element intera
 
 If you are looking ahead to future updates, keep an eye on **Lacrimosa**, the S-Rank Chaos dealer scheduled for Version 1.1 (June 3, 2026). She is expected to have high synergy with both Adler and Fadia, as her "Nightmare" stacking mechanic benefits greatly from the prolonged field time that a dedicated tank provides.
 
-For further optimization, consider the following resources
+For further optimization, consider the following resources:
 *   NTE Character Tier List
 *   Best Weapons for Tanks in NTE
 *   How to Farm Fons Fast

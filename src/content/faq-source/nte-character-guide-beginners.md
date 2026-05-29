@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Guide for Beginners: Best Espers & Teams"
 slug: nte-character-guide-beginners
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-guide-beginners/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-guide-beginners/inline-1.webp
   - /img/nte-character-guide-beginners/inline-2.webp
   - /img/nte-character-guide-beginners/inline-3.webp
   - /img/nte-character-guide-beginners/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Success in the supernatural urban sandbox of Hesperia depends on more than just fast cars; it requires a deep understanding of the Espers who fight alongside you. This Neverness to Everness character guide for beginners breaks down the elemental wheel, reaction system, and the best units to prioritize during your first weeks in the city.
 
@@ -32,7 +32,7 @@ Success in the supernatural urban sandbox of Hesperia depends on more than just 
 ![Question Restated](/img/nte-character-guide-beginners/inline-1.webp)
 
 
-New players often arrive in Hesperia with several questions regarding the combat and progression systems. The most common inquiries include
+New players often arrive in Hesperia with several questions regarding the combat and progression systems. The most common inquiries include:
 
 *   How do characters, known as Espers, function within the team-based combat system of Neverness to Everness?
 *   What are the six elemental attributes, and how do their positions on the Esper Wheel dictate combat strategy?
@@ -87,7 +87,7 @@ When you swap to an adjacent element with a full meter, you trigger a Duo Reacti
 
 #### Generating Esper Meter
 
-Filling the meter quickly is the key to maintaining high DPS. Different actions generate meter at varying rates
+Filling the meter quickly is the key to maintaining high DPS. Different actions generate meter at varying rates:
 
 | Action Type | Meter Generation (Approximate) |
 | :--- | :--- |
@@ -135,7 +135,7 @@ Arcs come in five compatibility types. An Esper can only equip an Arc that match
 
 Consoles are the "software" you install into your Esper's neural link. You can equip up to six Consoles. They provide a primary stat and several sub-stats. For beginners, the most important rule is to match the Console's "DMG Bonus" type to the Esper's attribute. A Cosmos Esper like Zero gains zero benefit from an "Anima DMG Up" Console. 
 
-Look for the following stat priorities for damage dealers
+Look for the following stat priorities for damage dealers:
 1.  [Element] DMG Bonus % (Slot 4)
 2.  Crit Rate / Crit DMG (Slot 6)
 3.  ATK %
@@ -145,7 +145,7 @@ Look for the following stat priorities for damage dealers
 
 Character growth is uniquely tied to the "City Tycoon" management sim. While you level up Espers using "Ether Shards" found in combat, their "Potential Breakthroughs" (level cap increases) often require materials produced by businesses you own in Hesperia.
 
-To progress your characters efficiently
+To progress your characters efficiently:
 *   **Assign Espers to Businesses:** Certain Espers have "Urban Talents." For example, Nanally provides a bonus to revenue when assigned to high-end retail shops.
 *   **Upgrade Shops:** Higher-level shops produce rarer breakthrough materials. If you find your characters stuck at Level 40, check if your "City Tycoon" rank is high enough to upgrade the local convenience stores or tech hubs.
 *   **Complete Urban Requests:** These side missions often reward "Console Tuning Kits," which are necessary for rerolling bad sub-stats on your endgame gear.
@@ -166,7 +166,7 @@ This rotation ensures you always have a shield active and a healing field on the
 ![Related](/img/nte-character-guide-beginners/inline-4.webp)
 
 
-As you continue your journey through Hesperia, you may find these additional resources helpful for optimizing your account
+As you continue your journey through Hesperia, you may find these additional resources helpful for optimizing your account:
 
 *   **NTE Tier List:** A comprehensive ranking of all Espers based on the May 2026 meta, including detailed breakdowns of S-Class and A-Class utility.
 *   **Reroll Guide:** If you want the perfect start, follow this guide to efficiently pull for Nanally or Sakiri within the first 20 minutes of gameplay.

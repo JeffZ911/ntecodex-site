@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Character Profile and Guide: Full Roster"
 slug: nte-character-profile-and-guide-20260516
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1760
 published_at: "2026-05-16T08:40:21.530016+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_LUmnWqAvL1HeP1zF--haJFv_xdteZvOnMKiX_BaXHZY00bF-BUo5NYsAoCeGO6Y2LjT5870MrIomC1Rf4j6BwHQzqzEu9rFsrMWsKKfnNBT98pv6EtaWyDlEMRnLN2f1rb82fi3pEkTDwg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBgS8sSZtjeYuVJAzIFUV8eQ6YzC7SOgSKXse7-XTVuTBQeCTuB_HprcIQB_e3WG5Pz7TO_aR90QyTp3ZgT2sYYQfuYLYKZE7MkBIFzBLFiU8PmRZRzZFfRYNoTV-onDtfzCnDy9McTgQGPN0xxfvy1P7Dcvby9nkRFH0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmq1iznsAmAt-P2wxB_oGjagcSnQjpip1Hwknt4NPxUU_uaIZu5VRTQQZbCb3wv4sFaFf-hxFIMphGs61Ga3kVwFsH5zhsiKqRC926K1ZTQWZ7M6aNmOOXopBaIUjkfZic_9G_bYhJPrNtKNo8Mczvco-q4iGxtFHZImp6TZtheQ=="
@@ -33,17 +33,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF90mbog4WCpU3QNz_Ypa3WyK-WCJovMo0bIqF01EtqhTZs7XwhCLUkzQ2UM6BDaBVoH_Ps4BboUI7t5JRh1o8BnSmZcbUsw7gvfXnTfQHRfk29Bno_4xQkCuD3CcsSIU-EJNykdZbtuT1awzaHAxhLTiB7xNQnyHSMfSoDYK6EwpptzcX-kIIpBnhpRJS6rAhRwRTWridQSjk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN8S7vlxBhSXdyiWfUMxhKIWojnDA-juP2OXMCXbJGYu92YN2CylccIxV80-uyk5ISgfPZg1hPhqqM9SdgL4CjWYX-_oWZnXIC9HpCfZOr2DfY3egmsDaXx6eZtugpvkwfmDdnxxMNtQzLD_xv8RZFz5_IuA=="
 hero_image: /img/nte-character-profile-and-guide-20260516/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-profile-and-guide-20260516/inline-1.webp
   - /img/nte-character-profile-and-guide-20260516/inline-2.webp
   - /img/nte-character-profile-and-guide-20260516/inline-3.webp
   - /img/nte-character-profile-and-guide-20260516/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Since its release on April 29, 2026, Neverness to Everness (NTE) has redefined the urban open-world genre with its sophisticated Esper system and supernatural combat mechanics.
 
@@ -54,7 +54,7 @@ Since its release on April 29, 2026, Neverness to Everness (NTE) has redefined t
 ![Question Restated](/img/nte-character-profile-and-guide-20260516/inline-1.webp)
 
 
-Understanding the complex roster of Neverness to Everness is essential for any player looking to master the anomalies of Hethereau. This guide addresses the most frequent questions regarding character management and optimization
+Understanding the complex roster of Neverness to Everness is essential for any player looking to master the anomalies of Hethereau. This guide addresses the most frequent questions regarding character management and optimization:
 
 *   **What are the playable character profiles in Neverness to Everness (NTE)?** We provide a comprehensive look at the launch roster, including the backstories and roles of key Espers like [Nanally](/characters/nanally-guide-nte) and [Hotori](/characters/hotori-best-team-nte).
 *   **How do character elements and Arc compatibility work in combat?** We break down the six Elemental Attributes and the five Arc types to help you build a balanced team.
@@ -137,7 +137,7 @@ Nanally is the "Apex DPS" of the 2026 launch meta. As a member of the Eibon Anti
 
 Hotori is a technical Sub-DPS and support who specializes in time manipulation. Her gameplay revolves around a unique resource called the **Non-Closed Timepiece**.
 
-*   **Core Mechanic - Non-Closed Timepiece:** This gauge fills at a rate of 6 units per second while Hotori is active or off-field (up to 120 units). 
+*   **Core Mechanic - Non-Closed Timepiece:** This gauge fills at a rate of 6 units per second while Hotori is active or off-field (up to 120 units).
 *   **Skill - Present Replay:** Consumes 60 energy to enter a "Recording" state for 5 seconds. During this time, any Support or Redirect skills used by her teammates are "recorded."
 *   **Ultimate - World's Tide:** Hotori stops time for a brief period, disabling character switching. During this window, she replays all recorded ally skills at once, delivering a massive burst of Cosmos damage.
 *   **Role:** She is essential for "Burst Window" teams, allowing players to compress a whole team's damage into a single frozen moment.
@@ -152,7 +152,7 @@ Sakiri is an S-Rank Incantation specialist who uses her massive sentient weapon,
 
 ### Free-to-Play Character Guide: Chiz and Esper Zero
 
-Neverness to Everness is notably generous to free-to-play players, offering two powerful S-Rank characters through progression
+Neverness to Everness is notably generous to free-to-play players, offering two powerful S-Rank characters through progression:
 
 1.  **Esper Zero (The Protagonist):** Zero is a Cosmos-element Solid Esper. While often overlooked as a "starter" unit, Zero has a 100% Cycle Rate on their Skill, meaning they can fill their Esper Meter almost instantly. This makes Zero the perfect "battery" for triggering elemental reactions in any team.
 2.  **Chiz:** This mice-themed Cosmos Esper is unlocked for free once you reach **City Tycoon Level 18**. Chiz is a unique DPS who uses "Grain" as a resource. By managing her "Surplus" and "Debt" states in the City Tycoon management system, players can eventually unlock all of her Awakenings (A6) without spending any premium currency.
@@ -166,12 +166,12 @@ Summoning in NTE takes place at the **Scarborough Fair**. Instead of a simple an
     *   **Warp Piece:** Provides fragments used to buy more pulls.
     *   **Lost Piece:** Provides character and weapon upgrade materials.
     *   **Hero Chest:** Contains the actual Esper.
-*   **Pity System:** The base rate for an S-Rank is approximately 0.99%. However, once you reach **70 pulls** without an S-Rank, the board enters a "Modified" state where S-Rank tiles appear every 5–6 spaces. 
+*   **Pity System:** The base rate for an S-Rank is approximately 0.99%. However, once you reach **70 pulls** without an S-Rank, the board enters a "Modified" state where S-Rank tiles appear every 5–6 spaces.
 *   **Hard Pity:** At **90 pulls**, an S-Rank is 100% guaranteed. Because there is no 50/50 mechanic, if you are pulling on a limited banner (like "The Ichi-daime"), that S-Rank is guaranteed to be the featured character.
 
 ### Character Progression: Awakening and Modules
 
-To keep your Espers competitive against high-level Anomalies, you must invest in three progression systems
+To keep your Espers competitive against high-level Anomalies, you must invest in three progression systems:
 
 1.  **Leveling (Hunter Guides):** Use **Hunter Guides** and **Beetle Coins** to increase an Esper's base level. This is the most straightforward way to increase HP and ATK.
 2.  **Awakening (Mind Shards):** Obtaining duplicate copies of a character grants **Mind Shards**. These are used to unlock six Awakening levels (A1–A6). These upgrades often provide transformative effects, such as Nanally's A2, which increases the duration of her Underboss summon.
@@ -193,7 +193,7 @@ To keep your Espers competitive against high-level Anomalies, you must invest in
 - Neverness.gg
 - BlueStacks — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-gacha-guide-en.html
 - TheGamer
-- Sportskeeda
+- Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-nte-combat-guide-attributes-esper-cycles-explained
 - Kaiden.gg
 - Mobalytics — https://mobalytics.gg/nte/guides/esper-cycle-elements-guide/
 - GameRant

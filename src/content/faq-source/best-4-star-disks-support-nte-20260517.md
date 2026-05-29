@@ -1,4 +1,4 @@
---
+---
 title: Best 4-Star Disks for Support in Neverness to Everness (NTE)
 slug: best-4-star-disks-support-nte-20260517
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T15:06:31.147171+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-4-star-disks-support-nte-20260517/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-disks-support-nte-20260517/inline-1.webp
   - /img/best-4-star-disks-support-nte-20260517/inline-2.webp
   - /img/best-4-star-disks-support-nte-20260517/inline-3.webp
   - /img/best-4-star-disks-support-nte-20260517/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your team’s efficiency in Hethereau requires more than just a powerful main DPS; it demands a well-geared support roster that can cycle Ultimates and provide consistent stat buffs. Here is the definitive guide to the best 4-star disks for support characters in Neverness to Everness.
 
@@ -40,7 +40,7 @@ Another common inquiry involves which gear sets provide the best team-wide buffs
 
 In Neverness to Everness, "Disks" are officially referred to as Cartridges. These items serve as the primary gear system for Espers, providing both flat stat increases and powerful set bonuses when two or four pieces of the same set are equipped. Support disks are categorized by their ability to provide "off-field" utility. This means the benefits of the disk continue to function even after the support character is swapped out for a damage dealer. 
 
-Support utility in NTE generally falls into three categories
+Support utility in NTE generally falls into three categories:
 1.  **Stat Buffing:** Increasing the ATK, Crit Rate, or Elemental Damage of the active character.
 2.  **Energy Management:** Increasing Charge Efficiency to ensure Ultimates are available as soon as their cooldown ends.
 3.  **Survival and Utility:** Boosting shield absorption, healing output, or applying debuffs to enemies to trigger reactions like Blossom, Scorch, or Stain.
@@ -107,7 +107,7 @@ Defensive supports require a different approach to gearing. Their utility scales
 
 When rolling for substats on your 4-star support disks, one stat reigns supreme: **Charge Efficiency**. In Neverness to Everness, the "Esper Cycle" is the rhythm of switching between characters to trigger elemental reactions. If your support character is 5 Energy short of their Ultimate when you swap to them, your entire rotation stalls. This leads to a massive drop in DPS.
 
-For support Cartridges, prioritize stats in this order
+For support Cartridges, prioritize stats in this order:
 1.  **Charge Efficiency** (until you reach your character's "Comfort Threshold").
 2.  **Flat HP / DEF** (for survivability).
 3.  **Elemental Mastery** (to increase reaction damage like Scorch or Stain).
@@ -119,7 +119,7 @@ A common mistake is trying to build Crit Rate on a support character. Unless you
 
 Farming 4-star disks is a straightforward process once you reach **Hunter Level 30**. At this level, the drop rates for A-Rank gear in Character Pixels (NTE's version of gear domains) become guaranteed.
 
-To farm efficiently
+To farm efficiently:
 *   **Targeted Farming:** Each Character Pixel domain features two specific Cartridge sets. Check the "Rewards" tab before spending your Stamina to ensure you are farming for Speedy Hedgehog or Shadow Creed.
 *   **The Recycling System:** You can dismantle unwanted 4-star disks to receive "Cartridge Dust." This dust can be used at the Gear Console in the main hub to craft specific pieces of a set. This is the best way to hunt for a "Circle" disk with a Charge Efficiency main stat.
 *   **Open World Exploration:** High-level chests and "Anomalous Encounters" in the Hethereau city districts often drop A-Rank disks. While the sets are random, this is a "stamina-free" way to build up your inventory.

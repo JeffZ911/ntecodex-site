@@ -1,4 +1,4 @@
---
+---
 title: How Elemental Resonance Works in Neverness to Everness (NTE)
 slug: how-elemental-resonance-works-nte-20260517
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T21:59:42.996511+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-elemental-resonance-works-nte-20260517/hero.webp
-inline_images
+inline_images:
   - /img/how-elemental-resonance-works-nte-20260517/inline-1.webp
   - /img/how-elemental-resonance-works-nte-20260517/inline-2.webp
   - /img/how-elemental-resonance-works-nte-20260517/inline-3.webp
   - /img/how-elemental-resonance-works-nte-20260517/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the flow of the Esper Cycle is the difference between struggling against Hethereau’s anomalies and dominating the urban battlefield with seamless elemental execution.
 
@@ -49,7 +49,7 @@ While the Esper Cycle handles the immediate "reactions" during combat, Elemental
 
 Elemental Resonance in Neverness to Everness is primarily managed through the "Esper Cycle" system, which triggers when you swap between characters with adjacent elements on the elemental wheel. Combat revolves around filling the Esper Meter through attacks or parries and swapping when the character portrait "Glows" to trigger Duo or Triple Cycle reactions.
 
-There are six primary elements in Hethereau, each serving a specific role in the combat ecosystem
+There are six primary elements in Hethereau, each serving a specific role in the combat ecosystem:
 
 | Element | Primary Combat Role | Key Characteristic |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ By avoiding "gaps" in the wheel (like jumping from Lakshana to Chaos), you ensur
 Choosing the right equipment and understanding how characters scale is the final step in perfecting your Elemental Resonance strategy.
 
 ### Best Team Compositions for Each Resonance
-As of the 1.0 launch, several meta compositions have emerged based on the Esper Cycle
+As of the 1.0 launch, several meta compositions have emerged based on the Esper Cycle:
 
 1.  **The Turret Meta (Blossom Focus):** This team uses Mint (Anima) as the primary off-field DPS, paired with a Cosmos character to trigger Blossom constantly. Nanally is often included in the backline for her Blossom Resonance buffs.
 2.  **The Shield-Breaker Meta (Hexed Focus):** Using Sakiri (Incantation) and an Anima sub-DPS. This team focuses on the Hexed reaction to quickly deplete the Break bars of bosses.
@@ -144,7 +144,7 @@ In NTE, weapons are called "Arcs." The best Arcs for elemental builds are those 
 *   **The Ichi-daime (Nanally's Signature):** Specifically tuned to enhance the Resonance passives of the wielder, making it the gold standard for support characters in high-end Resonance teams.
 
 ### Beginner Tips for Rotation Management
-If you are just starting your journey in Hethereau, focus on these three habits
+If you are just starting your journey in Hethereau, focus on these three habits:
 *   **Watch the Glow:** Do not swap characters just because their skill is off cooldown. Wait for the portrait to glow, indicating a full Esper Meter, to ensure you get a reaction.
 *   **Learn the Neighbors:** Memorize the wheel. Swapping from Cosmos to Chaos is a wasted opportunity because they are not neighbors.
 *   **Prioritize Parries:** If your meter is low, switch to a character like Zero. A single successful parry can refill the meter and get your rotation back on track.

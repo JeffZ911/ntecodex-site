@@ -1,4 +1,4 @@
---
+---
 title: "How to Beat the First Boss in Neverness to Everness: Arachne Guide"
 slug: how-to-beat-first-boss-neverness-to-everness
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1690
 published_at: "2026-05-20T16:29:42.995128+00:00"
 published_url: /boss/how-to-beat-first-boss-neverness-to-everness
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwee7ZjTAP7rSKPK7kZuD_l7BAtDPywzL40fdReb2z227rp20WdITgJbLwzABMv8UPiOqTH10clkLBiu0tgegq_U9ckDC8tZnteCFEhWTl3tXGB-v3mSfM6Qy48PW-_Qyn1DHqhEgCsRa7SP7uDo9Dhq6nLBWbvRzOkCj4FcOCyqWrVvdmlbZ_CBeS85Gf5HhDlnoFtSomyvrqOoKTDN6YlPdoYZyRs6rh-C01LEaV87MaTzqe"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Jxzm3t76mdb46LYH4Puow-orXyzZubmKfMLJ0pBQ8YUDnFJ_u3owwUiI95k67rurGcusx-EiBmq7xDhYlGSvPmYTcZ8zhVQJZ-uqeEfvFqyO9KM4DH7Xkh0rroqGSQBOVOw25U-kZsbqDtg0yz8qcQFdMNh480sA-30YEChLikwk5An6xiAp9UaxPpdfvQBRTDxJaIVdd_tlGxmInYBR4Pyv5_k="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC8K3t_T3kxWqcUglu5M340JzVM5JMVE7977VG-VF7x2pyizk9cz4Kd-VP4TyU8c0aCiZnmP8tx_vBV7NC4qMO8othaJSQZngVSSIoblm1kfaSOuyWzxL6OvZCAOfDbVRjvoz0WmQBhNhkKNFrcYFhS031crnXyJyk2lDXhFYPpOvOcPkn6B1D6M6GzSGoWk1ENeSX9RfSz7cHxghd6gKOeBFxZw=="
@@ -20,19 +20,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTJLbSFj-RBZMbwldGnklY9mNz0IJOSrmN1BpKqMu_LkvGo8BHOl7zf4JMt09W4_EfX1CQ08ciPZIGGQ5isOVakwEA4fC5RnPky_9ZBZkjznUG1g8g0Qvofkw3XJGc4OcyklqxEbmKo7NorIBOmcv9waUNKZyGdGBiQbRF-iVwAt1Ryaukfw=="
 game: unknown
 hero_image: /img/how-to-beat-first-boss-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-first-boss-neverness-to-everness/inline-1.webp
   - /img/how-to-beat-first-boss-neverness-to-everness/inline-2.webp
   - /img/how-to-beat-first-boss-neverness-to-everness/inline-3.webp
   - /img/how-to-beat-first-boss-neverness-to-everness/inline-4.webp
   - /img/how-to-beat-first-boss-neverness-to-everness/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Defeating the first major story boss is the primary hurdle for every Appraiser beginning their journey through Hethereau. This guide provides the exact mechanics and team compositions needed to take down the Never-Ending Arachne and secure your weekly upgrades.
 
@@ -117,7 +117,7 @@ Success against the Never-Ending Arachne relies on the "Break and Burst" cycle. 
 
 ### Depleting the Break Bar
 
-The white bar under the boss's HP is your primary target. To deplete it quickly
+The white bar under the boss's HP is your primary target. To deplete it quickly:
 1.  **Exploit Chaos:** Use Daffodill’s "Still Waters" combo. As a Chaos unit, she deals naturally higher Break damage to this boss.
 2.  **Critical Riposte:** When you dodge the Phase 1 shockwaves or Phase 2 slashes, immediately follow up with a Basic Attack. This triggers a Critical Riposte, which deals a fixed, high amount of Break gauge depletion.
 3.  **Support Skills:** Swapping characters to use a Support Skill that matches the boss's weakness (Chaos) will provide an additional chunk of Break damage.
@@ -125,8 +125,8 @@ The white bar under the boss's HP is your primary target. To deplete it quickly
 ### Utilizing Critical Riposte
 
 In Phase 2, the boss is highly aggressive. Do not spam your attacks; wait for the boss to swing first. 
-*   **The Timing:** Watch for the red spark on the boss's eyes. 
-*   **The Follow-up:** After a successful dodge, your character will glow briefly. Pressing the Basic Attack button now will launch the Riposte. 
+*   **The Timing:** Watch for the red spark on the boss's eyes.
+*   **The Follow-up:** After a successful dodge, your character will glow briefly. Pressing the Basic Attack button now will launch the Riposte.
 *   **The Stagger:** Repeated Ripostes will eventually empty the Break bar. Once it hits zero, the boss will slump over for 4-5 seconds. This is your "Burst Window."
 
 ### Surviving the Phase 3 Teleports
@@ -158,7 +158,7 @@ This is the most efficient team for clearing the Weekly Boss challenge.
 
 ### Best F2P Team for Beginners
 
-If you haven't pulled S-Rank units yet, use this reliable starter team
+If you haven't pulled S-Rank units yet, use this reliable starter team:
 *   **Main DPS: Zero (Cosmos)** – The protagonist offers reliable damage and decent shield-breaking capabilities.
 *   **Support: Mint (Anima)** – Her dual-blade tornado attacks are great for Phase 1 puppet clearing.
 *   **Support/Buff: Adler (Incantation)** – Provides ATK buffs and helps trigger reactions.

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Elemental Resonance Explained: Full Guide"
 slug: neverness-to-everness-elemental-resonance-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-elemental-resonance-explained/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-elemental-resonance-explained/inline-1.webp
   - /img/neverness-to-everness-elemental-resonance-explained/inline-2.webp
   - /img/neverness-to-everness-elemental-resonance-explained/inline-3.webp
   - /img/neverness-to-everness-elemental-resonance-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Hone your combat efficiency in the supernatural streets of Hethereau by mastering the intricate elemental systems that define every encounter. Understanding how your Espers interact is the difference between a slow struggle and a high-speed tactical victory.
 
@@ -30,7 +30,7 @@ Hone your combat efficiency in the supernatural streets of Hethereau by masterin
 ![Question Restated](/img/neverness-to-everness-elemental-resonance-explained/inline-1.webp)
 
 
-When players first step into the urban open world of Neverness to Everness (NTE), the complexity of the combat interface often leads to several core questions regarding team optimization. This guide addresses the following primary concerns to help you master the supernatural flow of battle
+When players first step into the urban open world of Neverness to Everness (NTE), the complexity of the combat interface often leads to several core questions regarding team optimization. This guide addresses the following primary concerns to help you master the supernatural flow of battle:
 
 *   **What is Elemental Resonance in Neverness to Everness (NTE)?** We define the underlying synergy between character types and how these connections boost your overall combat performance.
 *   **How do the six Esper elements interact on the Esper Wheel?** Understanding the "neighbor rule" is vital for triggering any reaction in the game.
@@ -44,7 +44,7 @@ When players first step into the urban open world of Neverness to Everness (NTE)
 
 Elemental Resonance in NTE refers to the synergy between characters' Esper types, primarily manifested through the "Esper Cycle" reaction system and passive "Awakening Resonance" buffs. Unlike traditional elemental systems where any two elements might interact, NTE utilizes a directional "Esper Wheel" where reactions only occur between specific, adjacent elements.
 
-The system relies on six distinct elements, each associated with a specific theme and color
+The system relies on six distinct elements, each associated with a specific theme and color:
 
 | Element | Theme | Primary Color |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ Active resonance (reactions) occurs when you swap to a character with a full Esp
 
 The foundation of Neverness to Everness combat is the Esper Wheel. This circular diagram dictates which elements can "Cycle" with one another. In NTE, elements do not react with every other element in the game. Instead, an element only reacts with its two immediate neighbors on the wheel.
 
-The standard order of the Esper Wheel is
+The standard order of the Esper Wheel is:
 **Lakshana → Cosmos → Anima → Incantation → Chaos → Psyche → (Back to Lakshana)**
 
 If you are currently controlling a Cosmos character (like [Nanally](/characters/nanally-guide-nte) or Chiz), you can only trigger a Duo Cycle reaction by swapping into a character that is either Lakshana or Anima. Attempting to swap into an Incantation or Chaos character will still switch the character, but it will not trigger a Cycle reaction, resulting in a significant loss of potential damage and utility.
@@ -90,7 +90,7 @@ When a Duo Cycle is triggered, the incoming character performs an "Entry Skill" 
 
 Triple Cycle Reactions represent the pinnacle of NTE’s resonance system. These require chaining three specific elements in a precise sequence. Unlike Duo reactions, which are relatively easy to maintain, Triple Cycles require careful management of the entire team's Esper Meters to ensure all three characters are ready to chain their entries.
 
-The two confirmed Triple Cycle Reactions are
+The two confirmed Triple Cycle Reactions are:
 1.  **Discord:** This reaction typically involves the interaction of Chaos and Psyche units with a third adjacent element. It creates a massive field effect that disrupts enemy AI and deals periodic damage.
 2.  **Charged:** [Information not yet publicly available as of 2026-05-22].
 
@@ -121,7 +121,7 @@ Artifact sets (known as Arcs) further enhance this. Certain high-tier Arcs provi
 
 Building a meta team in Neverness to Everness is not just about picking the highest-rated characters on a tier list; it is about ensuring your elemental types can actually talk to each other on the Esper Wheel.
 
-A standard "Resonance Core" usually consists of
+A standard "Resonance Core" usually consists of:
 1.  **Main DPS:** The character who stays on field longest (e.g., Nanally).
 2.  **Primary Reactor:** A character whose element is adjacent to the Main DPS to trigger Duo Cycles (e.g., Jiuyuan for Blossom).
 3.  **Utility/Flex:** A character who provides buffs, healing, or a third element for Triple Cycle reactions (e.g., [Hotori](/characters/hotori-best-team-nte) for Lakshana support).
@@ -135,7 +135,7 @@ By aligning your team according to the Esper Wheel, you ensure that every swap c
 
 ### Top Tier Characters for Every Element
 
-To build an effective resonance team, you must know which characters represent each element best. Since the game's release on April 29, 2026, several standout units have defined the meta
+To build an effective resonance team, you must know which characters represent each element best. Since the game's release on April 29, 2026, several standout units have defined the meta:
 
 *   **Cosmos:** Nanally (High burst DPS), Chiz (Support/Sub-DPS).
 *   **Anima:** Jiuyuan (Excellent for Blossom reactions and healing).
@@ -151,7 +151,7 @@ To build an effective resonance team, you must know which characters represent e
 
 ### Best Artifact Sets for Elemental Damage
 
-When optimizing for resonance, your choice of Arcs is paramount. For characters focused on triggering reactions, look for the following stats
+When optimizing for resonance, your choice of Arcs is paramount. For characters focused on triggering reactions, look for the following stats:
 1.  **Cycle Rate:** To ensure the Esper Meter fills before the swap cooldown ends.
 2.  **Elemental Mastery:** (Or the NTE equivalent stat) to increase the damage of Blossom, Scorch, and Discord.
 3.  **Flat Elemental Damage %:** Specifically matching the character's Esper type.

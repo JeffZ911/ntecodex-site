@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Characters NTE Ranking: May 2026 Tier List"
 slug: best-healer-characters-nte-ranking
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healer-characters-nte-ranking/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-characters-nte-ranking/inline-1.webp
   - /img/best-healer-characters-nte-ranking/inline-2.webp
   - /img/best-healer-characters-nte-ranking/inline-3.webp
   - /img/best-healer-characters-nte-ranking/inline-4.webp
   - /img/best-healer-characters-nte-ranking/inline-5.webp
   - /img/best-healer-characters-nte-ranking/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Surviving the supernatural anomalies of Hethereau requires more than just high damage; you need a reliable way to keep your team standing during intense boss encounters. This guide ranks the best sustain units in Neverness to Everness to help you optimize your party for the current endgame meta.
 

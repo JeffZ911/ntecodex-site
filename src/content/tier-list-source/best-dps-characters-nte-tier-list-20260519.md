@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: NTE Tier List (May 2026)"
 slug: best-dps-characters-nte-tier-list-20260519
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-dps-characters-nte-tier-list-20260519/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-tier-list-20260519/inline-1.webp
   - /img/best-dps-characters-nte-tier-list-20260519/inline-2.webp
   - /img/best-dps-characters-nte-tier-list-20260519/inline-3.webp
   - /img/best-dps-characters-nte-tier-list-20260519/inline-5.webp
   - /img/best-dps-characters-nte-tier-list-20260519/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 As the supernatural metropolis of Hethereau continues to expand in Version 1.0, choosing the right damage dealer can make the difference between clearing High-Risk Commissions and hitting a hard wall. This guide evaluates the current roster to identify the most efficient units for the current May 2026 meta.
 
@@ -36,7 +36,7 @@ As the supernatural metropolis of Hethereau continues to expand in Version 1.0, 
 
 Ranking the best DPS characters in Neverness to Everness (NTE) requires looking beyond simple attack stats. The combat system in NTE revolves around the "Esper Cycle," a mechanic where switching characters and managing energy determines the flow of battle. To provide an accurate assessment for Version 1.0 Phase 2, we have evaluated characters based on their raw damage output, their ability to trigger "Pact Settlement" finishers, and their compatibility with the five primary Arc types.
 
-Our evaluation criteria include
+Our evaluation criteria include:
 *   **Esper Cycle Efficiency:** How quickly a character generates energy and how effectively they utilize their "Instant Cycle" windows to maximize field time.
 *   **Follow-up Attack Mechanics:** The presence of off-field or automatic triggers, such as [Nanally](/characters/nanally-guide-nte)’s "Underboss," which significantly boost team-wide DPS without requiring active inputs.
 *   **Pact Settlement Triggers:** The ability to consume stacks (like Jiuyuan’s Rose Pact Bullets) to deal massive burst damage at the end of a rotation.

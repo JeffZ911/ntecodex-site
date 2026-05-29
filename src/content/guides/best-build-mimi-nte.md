@@ -1,4 +1,4 @@
---
+---
 title: Best Mimi (Mint) Build in Neverness to Everness (NTE)
 slug: best-build-mimi-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T08:40:19.077485+00:00"
 published_url: /guides/best-build-mimi-nte
 sources: []
 hero_image: /img/best-build-mimi-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-build-mimi-nte/inline-1.webp
   - /img/best-build-mimi-nte/inline-2.webp
   - /img/best-build-mimi-nte/inline-3.webp
   - /img/best-build-mimi-nte/inline-4.webp
   - /img/best-build-mimi-nte/inline-5.webp
   - /img/best-build-mimi-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Mint is the first high-mobility Anima DPS many players encounter in Neverness to Everness, offering a devastating area-of-effect playstyle that remains relevant well into the late game. This guide provides the definitive best build for Mimi (Mint) to maximize her Whirlwind damage and elemental synergy.
 
@@ -119,7 +119,7 @@ The premium team for Mint focuses on maximizing her AoE potential.
 
 ### Budget-Friendly F2P Lineups
 
-For players just starting out, a highly effective team can be built using early-game units
+For players just starting out, a highly effective team can be built using early-game units:
 - **Mint (Main DPS)**
 - **Zero (Sub-DPS):** Zero provides off-field damage that can help trigger reactions while Mint is spinning.
 - **Haniel (Buffer):** As a highly accessible buffer, Haniel should remain in almost every Mint-centric team.

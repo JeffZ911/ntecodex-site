@@ -1,4 +1,4 @@
---
+---
 title: Best Starter Characters in Neverness to Everness (NTE) Tier List
 game: nte
 slug: best-starter-characters-nte-tier-list
@@ -9,19 +9,19 @@ published_at: "2026-05-10T16:40:40.842008+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-starter-characters-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-starter-characters-nte-tier-list/inline-2.webp
   - /img/best-starter-characters-nte-tier-list/inline-3.webp
   - /img/best-starter-characters-nte-tier-list/inline-4.webp
   - /img/best-starter-characters-nte-tier-list/inline-5.webp
   - /img/best-starter-characters-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right team members in Hethereau can mean the difference between a smooth urban exploration and getting overwhelmed by Strange Encounters. Since the global launch on April 29, 2026, players have been testing various combinations to find the most efficient ways to clear anomaly commissions and progress through the City Tycoon ranks.
 
@@ -31,7 +31,7 @@ The launch of Neverness to Everness (NTE) introduces a diverse roster of charact
 
 ## Methodology
 
-Ranking characters in NTE requires looking beyond simple damage numbers. Because the game blends open-world traversal with high-speed combat, we evaluate units based on their utility in both combat scenarios and exploration. The following criteria form the basis of our launch tier list
+Ranking characters in NTE requires looking beyond simple damage numbers. Because the game blends open-world traversal with high-speed combat, we evaluate units based on their utility in both combat scenarios and exploration. The following criteria form the basis of our launch tier list:
 
 *   **Combat Efficiency and Scaling:** We prioritize characters who maintain high DPS or utility as they level up. Characters that fall off in late-game Anomaly Commissions are ranked lower than those who scale with better gear.
 *   **Accessibility for F2P Players:** Special weight is given to characters available through progression, such as Chiz (unlocked via City Tycoon) and the protagonist, Esper Zero.

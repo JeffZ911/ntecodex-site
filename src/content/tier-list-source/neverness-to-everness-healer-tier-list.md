@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Healer Tier List: Best Sustain Characters"
 slug: neverness-to-everness-healer-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T06:32:23.605472+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/neverness-to-everness-healer-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-healer-tier-list/inline-1.webp
   - /img/neverness-to-everness-healer-tier-list/inline-2.webp
   - /img/neverness-to-everness-healer-tier-list/inline-3.webp
   - /img/neverness-to-everness-healer-tier-list/inline-4.webp
   - /img/neverness-to-everness-healer-tier-list/inline-5.webp
   - /img/neverness-to-everness-healer-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 In the supernatural urban sprawl of Hethereau, staying alive is just as important as dealing damage, especially when facing high-level Anomalies that can wipe a team in seconds. This Neverness to Everness healer tier list breaks down the best sustain and support characters to ensure your squad survives the most grueling encounters.
 
@@ -40,7 +40,7 @@ Survival in Neverness to Everness (NTE) is not just about seeing green numbers p
 
 Ranking the sustain units in NTE requires looking beyond raw HP restoration. Because the game utilizes a fast-paced action combat system, a healer who requires you to stand still is often less valuable than a support who prevents damage from occurring in the first place.
 
-Our evaluation is based on several key performance indicators within the current Version 1.0 environment
+Our evaluation is based on several key performance indicators within the current Version 1.0 environment:
 
 *   **HP Recovery Throughput:** The total amount of health restored over a specific window, including burst heals and damage-over-time (DoT) restoration.
 *   **Damage Mitigation:** The ability to provide shields, damage reduction, or damage redirection to protect squishy DPS units.

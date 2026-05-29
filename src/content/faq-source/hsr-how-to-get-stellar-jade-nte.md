@@ -1,4 +1,4 @@
---
+---
 title: How to Get Stellar Jade in Neverness to Everness (Annulite Guide)
 slug: hsr-how-to-get-stellar-jade-nte
 game: hsr
@@ -8,7 +8,7 @@ word_count: 1860
 published_at: "2026-05-12T05:36:18.162295+00:00"
 published_url: /faq
 sources: []
---
+---
 
 Transitioning from the turn-based battles of the Astral Express to the supernatural city streets of Hethereau requires a quick adjustment to your resource management. If you are a veteran of Honkai: Star Rail looking for the most efficient way to pull new characters, understanding the local currency is your first priority.
 
@@ -102,7 +102,7 @@ The most cost-effective premium option is the Riftcrystal Mining Pass. This mont
 
 ### F2P Strategy: Maximizing Monthly Annulite Yield
 
-To get the most out of your time in Hethereau without spending money, focus on the following priority list
+To get the most out of your time in Hethereau without spending money, focus on the following priority list:
 1.  Complete all Circle Bounties every day.
 2.  Clear the weekly login requirements.
 3.  Focus on City Tycoon management to reach the Annulite payout thresholds.

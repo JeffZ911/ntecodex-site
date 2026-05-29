@@ -1,4 +1,4 @@
---
+---
 title: "Best 4-Star Weapons in Neverness to Everness: NTE Arc Tier List"
 slug: best-4-star-weapons-nte-tier-list
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.9
 word_count: 1799
 published_at: "2026-05-17T12:10:18.908525+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgIFVIstS_KVvhQnu4wEg_UnQdBVzjB0KIgH8b5OVadwww-0szk4EcW73n4O6FPfWKmeQ8G49jAudfYk7eLrnH3tD4SILQ_D_Ktnh02M-FCKALhx-NiJ1nSIe5I3M0feJVYWZp0h9T5zMB3cLBAmsspVJvKpSo6ehy6AE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuAdHp7bhAxk8wco8hM8pYr6oSnm4oLD-2YLd7nKVVsTeyOC47xFmd4TNgod935aZe7cOszPjmyUHsLEDEvoq2skmW2YCCTspITM9KPaiGTqXwZfihH0XGKjW5zIJRj0O8rejIk1--oL8ix_W67IMqpDz9gi_JD5dyK_z0v7Qf0KpyxgEJu2YUGh31IPKZoVbBfZZ1AvzQEfwcIq4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxzBBnSXDijWXr7a3el9HNOJ1CSOvngh6Ijtku6ULpKVlOkkCj7Jul6eJ7EEGm8NiVjFMJh8yXA3XUIOmQjrCqrDMlnAsCJJoN6-i0hYJYU-5mRf2gn1YCVmBPCxkDmlDFS7Jm_J3Y99bxTBpaY6cU_8FUSo2TvCXFrwr4YAB1YzBYMA=="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxV_H-0yUbtanaM_lGoTLbmn06H91-hlufP6FoFmtj6_4G_AcRfKA0-lPEDN54dhcxQYvoiQnu9hIGMepuWEQ3duDZbVdb4JUz9fqhm4ayPgeDQ4jUdz1FO7TG094ljCAoa_wZuzkOR-jSmWyL2Au8Sj3ZVwf0wL4Lp-_SiQwYmAVnNKgStvhwX6O03DQQG_g6xUhzXMJvOr4SQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1eQX3ywlfZYQfKuPFIqc5g9qq3lOgj4WOBVu2s9WlajnH9S30uqHij069ZPN3A5ogDnV5v-DRgRG6O6iz710h9loXKynxdNv-gbcpTP_67PP_5SqGSlL_C4ttsBE_4NjWkVdiIMR_bMgkM5bBKaEf7TwWtEIOxZEQdEBljM9yoWpvNg=="
 hero_image: /img/best-4-star-weapons-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-weapons-nte-tier-list/inline-1.webp
   - /img/best-4-star-weapons-nte-tier-list/inline-2.webp
   - /img/best-4-star-weapons-nte-tier-list/inline-3.webp
   - /img/best-4-star-weapons-nte-tier-list/inline-4.webp
   - /img/best-4-star-weapons-nte-tier-list/inline-5.webp
   - /img/best-4-star-weapons-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right weapon is the most important decision you will make for your Espers after finalizing your team composition. In Neverness to Everness (NTE), these equippable items are known as Arcs, and they dictate your character's stat scaling and combat utility.
 

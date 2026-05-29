@@ -1,4 +1,4 @@
---
+---
 title: Best 4-Star Weapons for Healers in Neverness to Everness (NTE)
 slug: best-4-star-weapons-healer-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 7.5
 word_count: 1714
 published_at: "2026-05-20T10:32:04.585109+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMK0fK4J-VahB4-bZHae4gnZ4LOkeF8ZY847Iem5gRUDFO4o_6LYOBgtefCc--tedQ19-fwMPg_GpsCfHKPSR0Iy1yYeT-s8oCc6f28J7FvRKPKFfrwr_yN7XTLJ8ErLM4GFigVx3KnPtInlpNYdM71TBcdhIHv_ICf6D0GSfaxbcV"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEemZx0su-Tjv5npHKXJFmHB3poSxgE3v3lwf-aCYHjRO-rHDPoeSHaNBq5lSjEWgZfZvhL64C2bY4kwcB8hi1JRQbMn5HNUpeQ-afTlRL9KXWD34FkaZHn2BMoNl0bZN5AsPzbVM2Qp9LUpQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn0semmEnyvUNQIpD7eolQOwvRbfTADuFFmnwtbHkVZpUoKalz92bi-FfEZyiSbdZwWDqiK40nLaybyFCeTC2RUdP2FEtSK39EYP4A-9QfzDp6ZTBA8fgPtEzw7QQu4Qa5aGxII8Yab8IGizd_RL1zPUw2swfRNy7WOBIEVUUL_8qsB5-r6SZpzdXVHcmW"
@@ -21,17 +21,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8nDRxlV92xHaJCuSS0X--o_ETMVc9aM-3ucd_VdOAG7jjtXfqEzjrZSXZ2bCVPCXOD8Ed2kgAd9ZRxBgnjpFiNkXR1jg4zIMFF5gOQEnH1r5MrDQzJ4Lv1U_gLDZhOqeVZqkNfmLJw7ngnEA="
 game: unknown
 hero_image: /img/best-4-star-weapons-healer-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-weapons-healer-nte/inline-1.webp
   - /img/best-4-star-weapons-healer-nte/inline-2.webp
   - /img/best-4-star-weapons-healer-nte/inline-3.webp
   - /img/best-4-star-weapons-healer-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In the high-stakes urban supernatural combat of Neverness to Everness (NTE), keeping your squad healthy is the difference between clearing a high-level Anomaly Commission and a total team wipe. While S-Rank Arcs like Eternal Waltz offer staggering stat ceilings, the current 1.0 meta provides several accessible 4-star (A-Rank) options that can carry a healer through the most difficult endgame content.
 
@@ -42,7 +42,7 @@ In the high-stakes urban supernatural combat of Neverness to Everness (NTE), kee
 ![Question Restated](/img/best-4-star-weapons-healer-nte/inline-1.webp)
 
 
-Choosing the right Arc for your sustain characters requires a deep understanding of how healing scales in Neverness to Everness. Players often ask which weapons provide the most efficient HP scaling and whether certain utility-focused Arcs are better than pure healing output. Specifically, the community focuses on three core questions
+Choosing the right Arc for your sustain characters requires a deep understanding of how healing scales in Neverness to Everness. Players often ask which weapons provide the most efficient HP scaling and whether certain utility-focused Arcs are better than pure healing output. Specifically, the community focuses on three core questions:
 
 *   What are the most effective 4-star Arcs (weapons) for healer and sustain characters in NTE?
 *   Which weapons provide the best balance of HP scaling and healing bonuses?
@@ -52,7 +52,7 @@ Choosing the right Arc for your sustain characters requires a deep understanding
 In NTE, Arcs are more than simple stat sticks; they are the primary source of passive effects that trigger during the game’s "Redirect Skill" and "Ultimate" windows. For healers, an Arc's substat—usually HP% or Charge Efficiency—directly dictates the potency of their restoration. Because healing often scales off a character's Maximum HP, choosing an Arc with a high HP% substat is usually the first priority for characters like Edgar.
 
 ### Identifying Healer Archetypes in Neverness to Everness
-Not all sustain units in NTE heal in the same way. We currently categorize healers into three distinct archetypes
+Not all sustain units in NTE heal in the same way. We currently categorize healers into three distinct archetypes:
 1.  **Pure Healers (e.g., Fadia, Edgar):** These characters focus almost entirely on restoring the party's health through channeled skills or massive Ultimate bursts. They prioritize HP% and Healing Bonus.
 2.  **Hybrid Sustain (e.g., Jiuyuan at A1):** These characters provide grouping or sub-DPS utility while offering supplemental healing. They often prefer Arcs that boost Redirect Skill damage alongside sustain.
 3.  **Energy/Utility Healers (e.g., Esper Zero):** These units focus on keeping the team’s Ultimate energy full while providing just enough healing to survive. They prioritize Charge Efficiency.

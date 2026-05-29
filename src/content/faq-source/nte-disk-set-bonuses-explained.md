@@ -1,4 +1,4 @@
---
+---
 title: "NTE Disk Set Bonuses Explained: Complete Cartridge & Module Guide"
 slug: nte-disk-set-bonuses-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T18:05:06.519472+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-disk-set-bonuses-explained/hero.webp
-inline_images
+inline_images:
   - /img/nte-disk-set-bonuses-explained/inline-1.webp
   - /img/nte-disk-set-bonuses-explained/inline-2.webp
   - /img/nte-disk-set-bonuses-explained/inline-3.webp
   - /img/nte-disk-set-bonuses-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 To maximize character performance in the urban open world of Neverness to Everness (NTE), players must master the Console system and its complex Disk set bonuses. Optimizing your Cartridges and Modules is the primary way to scale your damage and utility for the game's challenging endgame anomalies.
 
@@ -43,7 +43,7 @@ The impact of these bonuses on combat performance cannot be overstated. A charac
 
 Disk set bonuses, officially referred to as Cartridge Set Effects, are passive buffs that activate when a character equips a specific number of matching gear pieces within their Console. These effects are tiered based on the number of pieces from the same set currently active in the character's loadout. 
 
-The system operates on two primary thresholds
+The system operates on two primary thresholds:
 1.  **The 2-Piece "Epic" Effect:** Provides a foundational stat increase, such as a percentage boost to Attack, Elemental Mastery, or Critical Rate.
 2.  **The 4-Piece "Legendary" Effect:** Unlocks a powerful, gameplay-altering passive. This might include cooldown reductions, damage multipliers for specific elemental reactions, or energy restoration for the entire party.
 
@@ -71,7 +71,7 @@ Modules, on the other hand, do not contribute to the 2-piece or 4-piece set bonu
 
 ### The Console Grid and Module Shapes
 
-Each character in NTE has a unique Console Grid layout. This grid functions like a Tetris board. Modules come in various shapes and sizes, categorized into three main types
+Each character in NTE has a unique Console Grid layout. This grid functions like a Tetris board. Modules come in various shapes and sizes, categorized into three main types:
 *   **Type II Modules:** Usually smaller, 2-block shapes (horizontal or vertical).
 *   **Type III Modules:** L-shaped or T-shaped 3-block configurations.
 *   **Type IV Modules:** Large 4-block squares or long "I" shapes.
@@ -154,7 +154,7 @@ Similarly, the **"Youthful Fantasy"** Arc provides a massive boost to Critical D
 
 ### Elemental Reaction Buffs
 
-Set bonuses are the primary way to scale the damage of elemental reactions
+Set bonuses are the primary way to scale the damage of elemental reactions:
 *   **Nova (Ice + Fire):** Benefit most from the "Fireflies and the Forest" set due to the high Elemental Mastery requirements.
 *   **Stain (Shadow + Shadow):** Requires "Abyssal Echo" to shred enemy resistances.
 *   **Remora (Water + Electric):** Scaling is dependent on character level and the 4-piece bonuses that increase reaction multipliers.

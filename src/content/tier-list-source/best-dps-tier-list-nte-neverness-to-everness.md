@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Tier List NTE: Neverness to Everness Rankings (May 2026)"
 slug: best-dps-tier-list-nte-neverness-to-everness
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-dps-tier-list-nte-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-1.webp
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-2.webp
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-3.webp
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-4.webp
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-5.webp
   - /img/best-dps-tier-list-nte-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing damage output in the urban sprawl of Hethereau requires a deep understanding of how Espers interact with their environments and each other. Since the global launch on April 29, 2026, the meta has rapidly crystallized around high-frequency reactions and efficient "Cycle Rates."
 
@@ -47,7 +47,7 @@ The core of the NTE combat system is the Esper Cycle. Damage is not merely a pro
 We distinguish between "Main DPS" units, who require significant field time to execute their full combos, and "Sub-DPS" units, who contribute damage through off-field abilities or quick-swap mechanics. A top-tier team usually consists of one Main DPS supported by two Sub-DPS or utility units that can accelerate the "Cycle Rate"—the speed at which a character can recharge and deploy their Esper Abilities.
 
 ### Endgame Content Viability
-Our rankings prioritize performance in two specific modes
+Our rankings prioritize performance in two specific modes:
 1.  **High Risk Commission:** A time-attack mode where raw DPS and AOE efficiency are mandatory.
 2.  **Beyond the Rails:** A progressive challenge mode that tests a character's sustainability and "Break" efficiency against elite enemies.
 

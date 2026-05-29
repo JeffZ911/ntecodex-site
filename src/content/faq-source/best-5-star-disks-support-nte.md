@@ -1,4 +1,4 @@
---
+---
 title: Best 5-Star Disks for Support in Neverness to Everness (NTE)
 slug: best-5-star-disks-support-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.8
 word_count: 1706
 published_at: "2026-05-17T08:33:37.212714+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGscLrYYRczH82z2tTOwjtc6YaonuAqtXd0cgJPtTwxSOKEUpQOSk9cYTx29g_UfhfGyQYXyJ2W81YHja720WjGr0950zPiirCo-hZVvv2rXFSc0QOkh_XCBfZauLZCkMQgG2eIjiU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYkcts8EwJl2v05gyjmuz1FSB1YwWcigWEOSkJLo-t7jbqRXTYk5LRMIq2ctvDHDDIYdwxUgKblrMolRG_ijJ_COHWNYPl0o7CwbMsT3pezpPqDNQN75uLUg690IewcX7nBTubR98="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrw7rpI53WqHBxKvuVEzJQDftbvFvGIv-StSx026d23nVXilERzCa-LOW_ZICDFlomkLyA8VrHButuTJw439P7GozHBfdlgoecGruDLeJntJJ6urJQtGvhe1yIBaIQ03fhK5U5IomQ"
@@ -23,15 +23,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBAl76U1P7OYNuMrn91beZMtweJ_8ijKCvypRikyuz3-IpOo4UvU3W4l8VODre94gBtpRNh5xg3BY7sRLpFxSCmF5vSyRvxl8LHwgH1joGKCOpggwx5k9cR9LBApa1oNRkkUq4QsJg6NLr9bKFz5GTBCLvk5eLO5iXlPU2myWLHoLgr7bGxLAw6ihDWleFOo7JRoSnwFCL0HD-CKDB5XITyipDERI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElfdCqUvePZwZjZB1CphXQx8KMzW4Y22_KdJUGVnK9xn941PBJTOwv2G2ADBZXgnZtHw-lJ5tffqmMmako2eULzPki1AAlfQZAhQJONT7Qb29rmA7Of1v0PVk="
 hero_image: /img/best-5-star-disks-support-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disks-support-nte/inline-1.webp
   - /img/best-5-star-disks-support-nte/inline-2.webp
   - /img/best-5-star-disks-support-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Related"
---
+---
 
 Optimizing your support Espers with the correct gear is the most effective way to multiply your team's damage output and ensure smooth rotations in high-level content. This guide breaks down the best 5-star disks—officially known as Cartridges—to equip on your support units to dominate the current meta.
 
@@ -97,7 +97,7 @@ A 5-star Cartridge is useless without the correct Modules. Each Cartridge set ha
 To maximize a support like Sakiri, you should aim for a Speedy Hedgehog Cartridge and fill the Console with as many Type III Modules as possible. This allows her to contribute significant chip damage while her buffs are active.
 
 ### Sub-stat Strategy for Support Disks
-Unlike other gacha games where sub-stats are hidden until you level the item, NTE shows all four sub-stats the moment a Cartridge or Module drops. This makes farming much more efficient. For support characters, you should prioritize the following stats
+Unlike other gacha games where sub-stats are hidden until you level the item, NTE shows all four sub-stats the moment a Cartridge or Module drops. This makes farming much more efficient. For support characters, you should prioritize the following stats:
 
 1.  **Charge Efficiency (Right Disk Slot):** This is the most important main stat for any support. It ensures you can spam Ultimates.
 2.  **HP% / DEF%:** Essential for survivability, especially for characters like Adler who scale directly off these stats.

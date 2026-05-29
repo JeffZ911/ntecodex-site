@@ -1,4 +1,4 @@
---
+---
 title: "Best Teams for Abyss Floor 12: Genshin Impact 4.6 Tier List"
 slug: best-teams-abyss-floor-12-genshin-impact
 game: genshin
@@ -9,21 +9,21 @@ published_at: "2026-05-15T15:22:50.441398+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-teams-abyss-floor-12-genshin-impact/hero.webp
-inline_images
+inline_images:
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-1.webp
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-2.webp
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-3.webp
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-4.webp
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-5.webp
   - /img/best-teams-abyss-floor-12-genshin-impact/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Securing a full 36-star clear in the Spiral Abyss requires more than just high-level characters; it demands a deep understanding of elemental counters and the current rotation's specific enemy mechanics.
 

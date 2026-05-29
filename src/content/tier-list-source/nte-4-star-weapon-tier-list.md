@@ -1,4 +1,4 @@
---
+---
 title: "NTE 4-Star Weapon Tier List: Best Arcs in Neverness to Everness"
 slug: nte-4-star-weapon-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1533
 published_at: "2026-05-22T05:11:13.603174+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv5KcPQcFjat3PjOHU9oT9u8GibtAPftcO-9Z7m_tL7PVgvfz2GvW4IjO74okphIsdVocORa_ad317Ft9TkMgDhpIUIJL1ut1dLHHzUWexDGXTJqZJOjxffb0heAYBoMq55glkCT8dW55zRmKg87dOf6NLsGkrjPj0dh8gEdwvNBmMUpk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22-mFO8MaJ4NQl8ADcrkUhpN9TzaD1ShlZsfODBPA9xeoezLWebNkTym0ENOtqC-NfBRJratZJQku7pUFJE3v_m_UsgeKZWBwfUoEQ4z5Q-cM4Sd91fgwUE_P2ZunnxrISxCREEWa3zoaMGBLT-swKi6EkyI1A-tuqrusIt4mWZrberk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdCYpxeXTbKKncWvaXQay-Gv8cw4DYQfV-SOGtuB3So_8R7fxKaci5U8JmLoNF-We2lchRJM5RTcqUtCsJYA59h3TlBXkGvy8xvR2rLGTx4bIuULo_a0owABqUIdnT8n6ueteuLTlbUvcEgFZfyJ15nmmxIT0ESPC8iT-hDtaa6Xo-X8="
@@ -22,21 +22,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt9BHm_csc6uoBDYWB83hqCJv2LlwK-g6KmItCy0QHGg42kCLNkVKlthDw8cl4R0Df3gRYTn1dsAEMdXMtfo16t-r2_coOO_2Vr4cEyhOysSfWFfa20SEa4A=="
 game: unknown
 hero_image: /img/nte-4-star-weapon-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-4-star-weapon-tier-list/inline-1.webp
   - /img/nte-4-star-weapon-tier-list/inline-2.webp
   - /img/nte-4-star-weapon-tier-list/inline-3.webp
   - /img/nte-4-star-weapon-tier-list/inline-4.webp
   - /img/nte-4-star-weapon-tier-list/inline-5.webp
   - /img/nte-4-star-weapon-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Optimizing your Esper's combat potential in Neverness to Everness (NTE) requires more than just leveling up; it demands a precise pairing with the right Arc to maximize stat scaling and passive utility. This guide breaks down the current meta to help you identify which 4-star weapons deserve your upgrade materials and which should be dismantled for resources.
 
@@ -56,7 +56,7 @@ Every Arc possesses a Base ATK value and a secondary substat. In the current end
 A "stat-stick" weapon—one that only provides raw numbers—is often less valuable than an Arc with a transformative skill. We give higher scores to Arcs that provide off-field utility, such as the summon mechanic found in Hethereau's Keeper or the team-wide energy restoration of Day Off. These mechanics allow for smoother team rotations and higher total party DPS (Total Damage Per Second).
 
 ### The Role of Weapon Types
-Matching an Arc's type (Solid, Plasma, Gas, Liquid, or Synthesis) to an Esper's preferred style is mandatory for optimal performance. Each type generally follows a specific playstyle philosophy
+Matching an Arc's type (Solid, Plasma, Gas, Liquid, or Synthesis) to an Esper's preferred style is mandatory for optimal performance. Each type generally follows a specific playstyle philosophy:
 
 | Arc Type | General Playstyle Focus |
 | :--- | :--- |

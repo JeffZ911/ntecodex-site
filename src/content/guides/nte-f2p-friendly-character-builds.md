@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness: Best F2P Character Builds Guide (2026)"
 slug: nte-f2p-friendly-character-builds
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-f2p-friendly-character-builds
 sources: []
 game: unknown
 hero_image: /img/nte-f2p-friendly-character-builds/hero.webp
-inline_images
+inline_images:
   - /img/nte-f2p-friendly-character-builds/inline-1.webp
   - /img/nte-f2p-friendly-character-builds/inline-2.webp
   - /img/nte-f2p-friendly-character-builds/inline-3.webp
   - /img/nte-f2p-friendly-character-builds/inline-4.webp
   - /img/nte-f2p-friendly-character-builds/inline-5.webp
   - /img/nte-f2p-friendly-character-builds/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Thriving in the supernatural urban sprawl of Hethereau does not require a massive investment of real-world currency if you understand how to leverage the game's free roster and gear systems. Following the April 2026 launch, the meta has stabilized around high-synergy elemental reactions that allow F2P players to clear even the most difficult Anomaly zones.
 
@@ -78,7 +78,7 @@ Beyond 'Day Off', players should look for 'Echoing Glass' (Gas) which can occasi
 
 ### Best A-Rank Alternatives for Every Element
 
-If you haven't finished the necessary quests for S-Rank weapons, these A-Rank alternatives are highly effective
+If you haven't finished the necessary quests for S-Rank weapons, these A-Rank alternatives are highly effective:
 
 *   **Solid:** 'Lead Pipe' – Increases Break efficiency, helping Zero deplete enemy bars faster.
 *   **Liquid:** 'Clear Skies' – Increases Anima application rate for Mint.
@@ -142,7 +142,7 @@ Mint's rotation focuses on 'Critical Riposte' (a perfect dodge counter) to reset
 
 ### Mint: The Skill-Reset Loop
 
-To perform the Skill-Reset loop with Mint
+To perform the Skill-Reset loop with Mint:
 1.  Enter the field and immediately use Mint's Elemental Skill.
 2.  Wait for the enemy attack indicator and perform a Perfect Dodge.
 3.  Trigger the 'Critical Riposte' (Normal Attack button after dodge).

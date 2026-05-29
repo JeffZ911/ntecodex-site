@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Support NTE Guide: May 2026 Tier List"
 slug: best-healer-support-nte-tier-list-20260524
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1722
 published_at: "2026-05-24T16:17:03.863371+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0ox8nU3uyOMTxkgiecqb2jIkcyL1s-3389bIQDT3FGXW3to5NHBX3wK4qQtinxA8f4e0g38s3WMcP2bp4Z9gZaErCggQ17AnvlxhUhnZd6LogxRjwb3UVFH7e1DUofunVnmu9Z8Xl566asRL58C7qKliLUNq1DmLalXdWuajOaA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeogA5s-NoUYe7Rw8ajnayTa4kw8BhTPJ9sj_E9T3_c0NusPZss2FpRF30OeTGNAdHvYaeiSV8Jk6WWliUKVjpOF2-0bd1vPLryERPsfgwMs6UoCAjW32sntxzEcSQd2v_jkI2yb7lqpBPYXeEzsC9YHDeprQ3dWYKvXvqC4W8"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrmLQBfaSoVa-gNGqhFwBsFbRFNcgaiNpFYB8e3MaEiRrytJ86p7hBCHvEvUdOWshn6KN4UUS8wYmJJZtWDd0PXQOQF14ot34dAWujLTvUf_gsv0U38ptGLGisCX7x2zDMrgzgjX6Etj-ySWoDvVK3pAWIJ7aXEW4H-0uqPUYpOYKa0a1N_2A="
@@ -22,21 +22,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2QU6D2wpYcPVIVnrSGfQqBwmOkT_5IcxruXXrrMmz01vmqlTHpc7cdFXoCfUlb14hBbwQ1Q1mSoml9ez-wkJ0jwOdN3DlO1sGmX6-LexrCD_RjrCe5SXJ8PzJk5Rjr-Omg3JKgGFlwxdHpJqtQ4YV3Lk="
 game: unknown
 hero_image: /img/best-healer-support-nte-tier-list-20260524/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-support-nte-tier-list-20260524/inline-1.webp
   - /img/best-healer-support-nte-tier-list-20260524/inline-2.webp
   - /img/best-healer-support-nte-tier-list-20260524/inline-3.webp
   - /img/best-healer-support-nte-tier-list-20260524/inline-4.webp
   - /img/best-healer-support-nte-tier-list-20260524/inline-5.webp
   - /img/best-healer-support-nte-tier-list-20260524/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Finding the right balance between survivability and offensive utility is the difference between a failed Anomaly commission and a three-star clear in the Miguel District. With the release of the Version 1.0 Phase 2 update on May 13, 2026, the support meta in Neverness to Everness (NTE) has undergone a significant shift, introducing complex time-manipulation mechanics that reward precise team rotations.
 
@@ -49,7 +49,7 @@ Finding the right balance between survivability and offensive utility is the dif
 ![Methodology](/img/best-healer-support-nte-tier-list-20260524/inline-1.webp)
 
 
-Determining the ranking of supports and healers in NTE requires looking beyond raw HP restoration. In the current endgame environment, particularly within the high-intensity "Beyond the Rails" mode, a character must offer more than just sustain to earn a spot on a competitive roster. Our evaluation is based on five primary metrics
+Determining the ranking of supports and healers in NTE requires looking beyond raw HP restoration. In the current endgame environment, particularly within the high-intensity "Beyond the Rails" mode, a character must offer more than just sustain to earn a spot on a competitive roster. Our evaluation is based on five primary metrics:
 
 *   **Healing Throughput:** The efficiency of HP recovery, including burst healing and sustained regeneration over time.
 *   **Offensive Buffing:** The ability to provide ATK bonuses, Crit Rate/DMG increases, or elemental resistance shredding to teammates.
@@ -57,7 +57,7 @@ Determining the ranking of supports and healers in NTE requires looking beyond r
 *   **Role Compression:** Priority is given to Espers who fulfill multiple roles simultaneously, such as a healer who also provides shields or a tank who redirects damage while buffing the party.
 *   **Investment and Accessibility:** We consider how effective a character is at low Awakening levels versus their peak potential at C6, as well as the ease of acquiring their best-in-slot Arcs.
 
-The following table summarizes the core roles and attributes of the top supports currently in the Hethereau meta
+The following table summarizes the core roles and attributes of the top supports currently in the Hethereau meta:
 
 | Esper | Rarity | Element/Arc Type | Primary Utility | Best Synergy |
 | :--- | :--- | :--- | :--- | :--- |
@@ -147,7 +147,7 @@ Mint provides decent early-game utility with an Anima-element kit that includes 
 
 The May 13, 2026 update (Version 1.0 Phase 2) has fundamentally altered the support landscape in Hethereau. The introduction of Hotori and her "Misty Tipsy Style" banner introduced a new "Time Stop" meta, which prioritizes supports that can provide high value in short, condensed windows of time.
 
-Key changes in the May update include
+Key changes in the May update include:
 
 *   **Hotori Synergy:** The meta has shifted toward "Time Stop" rotations, increasing the value of supports like Zero and Jiuyuan who can set up deployables (like Blossom buds) that continue to function during frozen time.
 *   **Anima Buffs:** Support units of the Anima element received slight adjustments to their cycle generation to better synergize with Nanally’s hyper-carry teams.

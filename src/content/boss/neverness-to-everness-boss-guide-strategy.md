@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Boss Guide: How to Beat Every Anomaly"
 slug: neverness-to-everness-boss-guide-strategy
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/neverness-to-everness-boss-guide-strategy
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-boss-guide-strategy/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-boss-guide-strategy/inline-1.webp
   - /img/neverness-to-everness-boss-guide-strategy/inline-2.webp
   - /img/neverness-to-everness-boss-guide-strategy/inline-3.webp
   - /img/neverness-to-everness-boss-guide-strategy/inline-4.webp
   - /img/neverness-to-everness-boss-guide-strategy/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Slaying the massive Anomalies roaming Hethereau requires more than just high-level gear; it demands a deep understanding of the Discord reaction system and the rhythm of urban combat.
 
@@ -60,7 +60,7 @@ Bosses in NTE are categorized by their Anomaly Type, which dictates their elemen
 
 ### Hunter Level Scaling
 
-Boss difficulty is not static. In the open world and within Anomaly Commissions, boss levels scale dynamically with your Hunter Level. This scaling affects three primary factors
+Boss difficulty is not static. In the open world and within Anomaly Commissions, boss levels scale dynamically with your Hunter Level. This scaling affects three primary factors:
 1. **HP Pools:** Boss health increases exponentially at Hunter Level milestones (Level 20, 40, 60, etc.).
 2. **Damage Output:** High-level bosses can often one-shot squishier DPS units like [Nanally](/characters/nanally-guide-nte) if a Red Flash attack is not dodged.
 3. **Break Thresholds:** The amount of "Impact" damage required to trigger a Stagger state increases, making Break Specialists like Daffodil essential in late-game encounters.

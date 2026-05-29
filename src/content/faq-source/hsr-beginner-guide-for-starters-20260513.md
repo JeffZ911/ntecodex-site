@@ -1,4 +1,4 @@
---
+---
 title: "HSR Beginner Guide for Starters: Essential 2026 Tips"
 slug: hsr-beginner-guide-for-starters-20260513
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-13T05:49:52.039957+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/hsr-beginner-guide-for-starters-20260513/hero.webp
-inline_images
+inline_images:
   - /img/hsr-beginner-guide-for-starters-20260513/inline-1.webp
   - /img/hsr-beginner-guide-for-starters-20260513/inline-2.webp
   - /img/hsr-beginner-guide-for-starters-20260513/inline-3.webp
   - /img/hsr-beginner-guide-for-starters-20260513/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Stepping onto the Astral Express for the first time can be overwhelming, but mastering the turn-based combat and resource management of this space fantasy RPG is the key to a smooth journey across the stars.
 
@@ -30,7 +30,7 @@ Stepping onto the Astral Express for the first time can be overwhelming, but mas
 ![Question Restated](/img/hsr-beginner-guide-for-starters-20260513/inline-1.webp)
 
 
-Starting a journey in Honkai: Star Rail during the Version 4.x era presents a different landscape than it did at launch. With an expanded roster of characters and new gameplay modes, new players often find themselves asking
+Starting a journey in Honkai: Star Rail during the Version 4.x era presents a different landscape than it did at launch. With an expanded roster of characters and new gameplay modes, new players often find themselves asking:
 
 *   What are the most important things for a new player to know when starting Honkai: Star Rail in 2026?
 *   How can starters optimize their early-game progression and resource spending to avoid "hitting a wall" in difficulty?
@@ -45,7 +45,7 @@ The game has evolved significantly since 2023, introducing streamlined systems l
 
 To succeed in Honkai: Star Rail as a new player, your primary focus should be on completing Trailblaze Missions (the main story). These missions are the primary source of Trailblaze EXP, which increases your Trailblaze Level and unlocks core features such as the Simulated Universe, Forgotten Hall, and Echo of War.
 
-Key strategies for starters include
+Key strategies for starters include:
 
 *   **Leverage Finality’s Vision:** Use this feature to jump into limited-time events and endgame modes like Pure Fiction or Apocalyptic Shadow. This allows you to claim rewards even if you haven't completed the prerequisite story chapters.
 *   **Claim Your Free 5-Star:** Utilize the [Information not yet publicly available as of 2026-05-13] selector to add a powerful unit to your roster. For most players, selecting a high-tier support like Sparkle or Robin is recommended, as powerful supports remain relevant longer than pure damage dealers.
@@ -102,7 +102,7 @@ The "Warp" system is how you acquire new characters and Light Cones (weapons). U
 
 ### Optimal Character Progression Path
 
-In the early game, resources like Credits and Adventure Logs are abundant, but they become extremely scarce as you approach the level 80 cap. To manage this, prioritize your upgrades in this specific order
+In the early game, resources like Credits and Adventure Logs are abundant, but they become extremely scarce as you approach the level 80 cap. To manage this, prioritize your upgrades in this specific order:
 
 **1. Character Level & Ascension**
 This is the baseline for your stats. You cannot upgrade Traces or Light Cones beyond the character's current ascension level.

@@ -1,4 +1,4 @@
---
+---
 title: "ZZZ Agent Level Up Guide: Best Builds, Materials & Team Comps"
 slug: zzz-agent-level-up-guide
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-14T11:17:54.193923+00:00"
 published_url: /guides/zzz-agent-level-up-guide
 sources: []
 hero_image: /img/zzz-agent-level-up-guide/hero.webp
-inline_images
+inline_images:
   - /img/zzz-agent-level-up-guide/inline-1.webp
   - /img/zzz-agent-level-up-guide/inline-2.webp
   - /img/zzz-agent-level-up-guide/inline-3.webp
   - /img/zzz-agent-level-up-guide/inline-4.webp
   - /img/zzz-agent-level-up-guide/inline-5.webp
   - /img/zzz-agent-level-up-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Building a powerful squad in New Eridu requires more than just pulling S-Rank characters; you must understand the intricate layers of Agent progression, equipment synergy, and team dynamics. This guide breaks down the most efficient ways to maximize your roster and dominate the Hollows.
 
@@ -44,7 +44,7 @@ Agents have a maximum level cap of 60. However, you cannot reach this cap immedi
 
 To promote an Agent, you need Certification Seals. These are categorized by the Agent’s Specialty. For example, an Attack Agent like Ellen Joe requires "Offensive Seals," while a Stun Agent like Anby Demara requires "Stun Seals." These materials are primarily farmed at the HIA Club through Combat Simulation.
 
-The tier of seal required increases as you reach higher level brackets
+The tier of seal required increases as you reach higher level brackets:
 *   **Basic Seals:** Used for Level 20 and 30 promotions.
 *   **Advanced Seals:** Used for Level 40 and 50 promotions.
 *   **Elite Seals:** Used for the final Level 60 promotion.
@@ -131,7 +131,7 @@ Disk Drives are the primary way to customize your Agent’s stats. They are equi
 
 ### Recommended Main Stats by Slot
 
-Each slot has a specific pool of potential main stats. Focus on these for optimal builds
+Each slot has a specific pool of potential main stats. Focus on these for optimal builds:
 
 | Slot | Recommended Main Stat (DPS) | Recommended Main Stat (Stun) | Recommended Main Stat (Support) |
 | :--- | :--- | :--- | :--- |

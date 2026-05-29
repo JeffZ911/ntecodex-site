@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer & Support NTE Tier List: Top Characters Ranked"
 slug: best-healer-support-nte-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healer-support-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-support-nte-tier-list/inline-1.webp
   - /img/best-healer-support-nte-tier-list/inline-2.webp
   - /img/best-healer-support-nte-tier-list/inline-3.webp
   - /img/best-healer-support-nte-tier-list/inline-4.webp
   - /img/best-healer-support-nte-tier-list/inline-5.webp
   - /img/best-healer-support-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in Hethereau’s neon-lit streets requires more than just firepower; you need a support roster capable of sustaining your team through the toughest Anomaly encounters.
 
@@ -42,7 +42,7 @@ This tier list ranks the current roster of healers and supports based on their p
 
 Ranking the support cast in Neverness to Everness requires looking past raw HP recovery numbers. Because NTE utilizes a fast-paced, real-time combat system where dodging and positioning are paramount, stationary or slow-acting supports often fall behind.
 
-The following criteria were used to determine the rankings
+The following criteria were used to determine the rankings:
 
 *   **Role Compression:** Does the character provide healing while also contributing to team DPS, energy regeneration, or crowd control?
 *   **Synergy with Esper Cycles:** How effectively does the support trigger or facilitate elemental reactions? We specifically look at Scorch (Incantation + Chaos) and Nova (Chaos + Psyche) potential.
@@ -133,7 +133,7 @@ She is particularly potent when paired with Psyche-element DPS characters to tri
 
 **Haniel ATK Buff Calculation Guide**
 
-Haniel's buff is calculated using the following formula
+Haniel's buff is calculated using the following formula:
 `Total Buff = (Haniel's Base ATK * Skill Multiplier) + Flat Bonus from Arcs`
 At Skill Level 10, the multiplier is approximately [exact value pending official confirmation], making her the most efficient raw stat buffer currently available.
 

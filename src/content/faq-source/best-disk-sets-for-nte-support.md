@@ -1,4 +1,4 @@
---
+---
 title: "Best Disk Sets for NTE Support: Top Gear for Every Support"
 slug: best-disk-sets-for-nte-support
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T16:12:26.851242+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-disk-sets-for-nte-support/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-for-nte-support/inline-1.webp
   - /img/best-disk-sets-for-nte-support/inline-2.webp
   - /img/best-disk-sets-for-nte-support/inline-3.webp
   - /img/best-disk-sets-for-nte-support/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building the perfect team in Hesperia requires more than just high-damage Espers; you need a solid foundation of support gear to keep your squad alive and buffed. This guide breaks down the best disk sets for NTE support characters to ensure your rotations remain fluid and your damage stays optimized.
 
@@ -41,7 +41,7 @@ Specifically, players need to know how these support disk sets impact team rotat
 ![Direct Answer](/img/best-disk-sets-for-nte-support/inline-2.webp)
 
 
-Selecting the right disk set depends entirely on the support's scaling and their role within the team. The current meta-defining sets are
+Selecting the right disk set depends entirely on the support's scaling and their role within the team. The current meta-defining sets are:
 
 *   **Speedy Hedgehog:** This is the absolute best disk set for the majority of support characters, including [Sakiri](/characters/sakiri-nte-free-5-star-guide) and Haniel. It provides a massive team-wide ATK buff after the wearer uses an Ultimate, making it the premier choice for offensive utility.
 *   **Kingdom's Guard:** For shield-based supports like Adler, Kingdom's Guard is the top choice. It maximizes shield durability and team survivability by scaling off the wearer's Defense stat.
@@ -82,7 +82,7 @@ This set is particularly effective because the Healing Bonus is a multiplicative
 
 ### Sub-stat Priority: What to Look for in Modules
 
-Even with the correct 4-piece set, your support will underperform if the modules have poor sub-stats. The Console grid allows for various module shapes, but the priority for supports remains consistent
+Even with the correct 4-piece set, your support will underperform if the modules have poor sub-stats. The Console grid allows for various module shapes, but the priority for supports remains consistent:
 
 1.  **Cycle Intensity (Charge Efficiency):** This is the non-negotiable priority. A support who cannot use their Ultimate every rotation is a wasted slot. Aim for at least 150% on most units.
 2.  **Flat and Percentage Scaling:** For Adler, look for DEF%. For Edgar, look for ATK% or HP% depending on his current build.
@@ -91,7 +91,7 @@ Even with the correct 4-piece set, your support will underperform if the modules
 
 ### Character Pairings: Who Wears What?
 
-To help you gear your roster, here are the best-in-slot recommendations for the current top-tier supports
+To help you gear your roster, here are the best-in-slot recommendations for the current top-tier supports:
 
 *   **Sakiri:** Speedy Hedgehog. Her kit focuses on rapid-fire Ultimate usage to keep enemy resistances shredded. The Cycle Intensity from this set is vital.
 *   **Haniel:** Speedy Hedgehog. As a pure buffer, Haniel needs to stack as much team-wide ATK as possible.
@@ -116,7 +116,7 @@ In the current Version 1.1 meta, Sakiri and Haniel remain at the top of the tier
 
 ### Farming Guide: Character Pixels and Carrota Coins
 
-Farming Legendary (Gold) disks requires a significant investment of "Stamina" (Action Points). To efficiently farm these sets
+Farming Legendary (Gold) disks requires a significant investment of "Stamina" (Action Points). To efficiently farm these sets:
 1.  Focus on the "Cartridge Salvage" domains during the weekends when drop rates for Type IV modules are slightly higher.
 2.  Use **Character Pixels** to craft specific slots for your Speedy Hedgehog set if you are missing a specific shape for the Console grid.
 3.  Keep an eye on the **Carrota Coin** shop; it resets monthly and often contains Epic or Legendary modules with pre-determined favorable sub-stats.

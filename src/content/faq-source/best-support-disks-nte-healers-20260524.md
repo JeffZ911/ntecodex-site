@@ -1,4 +1,4 @@
---
+---
 title: "Best Support Disks for NTE Healers: Neverness to Everness Guide"
 slug: best-support-disks-nte-healers-20260524
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 2169
 published_at: "2026-05-24T12:13:51.576085+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh3QuHlYTkrumWoY5xPwLBZrsobr75gsd1ZqVwSaHSETk3iIPyHugeTnpIRPtIk9yZ0HlkWov2KQaxVsql39FEuBWUjRkGx5Wb0tag8rgDZGJZWZbq3uHUtnJS9vF_DVXjP4s5CKyDM9YrKCagVJ-WM40La6X36ejEMBvSsKEDQwST8PbE72gXVsvol_p6fDakDQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwunPWNOh1BUVTjm2HF5DTAMSf3LkFIVW4bJ_b6_HUl8nuEcYYLJlIjID2c6XAHAIZIbth6_c2vJ3ipXi65MsgN7d0J1KaJa1z46SoVMHzhrfutjGWNAqegvymLMW6INEie2ikssa8stmu79_NUHmdR0zyqFglweMY8IdF9gxlCcRr2GAesH1QppxW"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsbEIv9ycF7ZEHPKsow4mf2Xm5w_VQnICOL8AKoLjP_RHefidXT4vczLC6Xqrc0T7_IdXjXrnD5P7-QuQxzfL9LQCmfHi-26zVwPLXtq1n2cmVj3EfYWaMaOjlAoveV_VjuZxjFwvt75BYGvdVDELEIyZmSMmGWsGdT69gLgYHDWjGOA=="
@@ -27,17 +27,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXXFDh7OZVlBV4nEvBZW4dVxhYJGgFwcA1eSvtFO7Efp0T7BiXh6fPXn9keuqW9GLUPG600-Xa3x83MnR0BUJYGdsYAH-xvm5i_a4rVkhaYfiRG_2Enb7wU6bwy_EIlHmc7y4JDktkIrb20kmlIixRSmXmC5dG-mPuxBMHvG24EvhezeOaxzQpWrFt-fvi2Vh"
 game: unknown
 hero_image: /img/best-support-disks-nte-healers-20260524/hero.webp
-inline_images
+inline_images:
   - /img/best-support-disks-nte-healers-20260524/inline-1.webp
   - /img/best-support-disks-nte-healers-20260524/inline-2.webp
   - /img/best-support-disks-nte-healers-20260524/inline-3.webp
   - /img/best-support-disks-nte-healers-20260524/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Keeping your team healthy in the high-stakes Anomaly Hunts of Hethereau requires more than just a dedicated healer; it requires a perfectly optimized Console. In Neverness to Everness (NTE), the difference between a successful clear and a team wipe often comes down to the Support Disks (Arcs) and Cartridge sets equipped to your survival-class Espers.
 
@@ -58,14 +58,14 @@ Determining which equipment maximizes healing output involves balancing three co
 
 ### Understanding NTE Gear: Arcs vs. Cartridges
 
-The NTE gearing system is divided into two distinct categories that must work in tandem
+The NTE gearing system is divided into two distinct categories that must work in tandem:
 
 *   **Arcs (Support Disks):** These are your primary stat sticks. Each Esper is compatible with one of five Arc types: Gas, Liquid, Plasma, Solid, or Synthesis. For example, Edgar is a Liquid-type Esper, meaning he can only equip Liquid Arcs. These provide a "Main Stat" (usually ATK or HP) and an "Arc Effect" passive.
 *   **Cartridges (Gear Sets):** These provide the "Set Bonuses" (Epic at 2 pieces and Legendary at 4 pieces). Unlike Arcs, Cartridges are not restricted by element, but their efficiency is dictated by the Console's Module layout. You must fit specific Module shapes (Type II, III, or IV) into the Console grid to "power" the Cartridge.
 
 ### Who are the Primary Healers in Version 1.0?
 
-As of May 24, 2026, the healer roster is specialized
+As of May 24, 2026, the healer roster is specialized:
 
 1.  **Edgar (Cosmos / Liquid):** The definitive "pure healer." His kit revolves around *Wild Current* (a Redirect Skill) and his Ultimate, *Finnegan's Wake*, which creates a massive healing domain. He scales primarily with Max HP.
 2.  **Fadia (Psyche / Synthesis):** A survival-class support who focuses on damage redirection. While she can heal via her Ultimate, her primary role is absorbing 50% of the damage intended for her teammates. She is a "tank-healer" hybrid who requires massive HP pools to function.
@@ -122,7 +122,7 @@ While both are top-tier Liquid Arcs, they serve different roles in the "Esper Cy
 ### Cartridge Deep Dive: Thea’s Night Tavern Mechanics
 Many players wonder why **Thea’s Night Tavern** is often preferred over **Tiny Big Adventure** for pure healers. The answer lies in the math of "Healing Output Scaling." 
 
-In Version 1.0, healing is calculated as
+In Version 1.0, healing is calculated as:  
 `[Base Healing value (scales with HP)] x [1 + Healing Bonus %]`
 
 Because healers like Edgar already have high base HP from their levels and Console bonuses, adding more HP (via Tiny Big Adventure) results in diminishing returns. However, "Healing Bonus %" is a separate multiplier that is much rarer to find. A 20% Healing Bonus from Thea’s Night Tavern provides a significantly larger boost to the final HP restored than a comparable 20% increase in Max HP would.
@@ -141,7 +141,7 @@ The **Tiny Big Adventure** set is designed specifically for this. The 4-piece bo
 ### Jiuyuan: Balancing Damage and Healing in Hybrid Builds
 Jiuyuan is an Anima-element Solid Esper who is often played as a sub-DPS. However, her healing potential is unlocked through her A1 Awakening, which restores 5% of the damage dealt by her *Lethal Rose Pact* to the whole team. 
 
-Because her healing scales with her damage, you should **not** use healer sets like Thea’s Night Tavern on her. Instead, use **Fireflies and the Forest**. This set provides
+Because her healing scales with her damage, you should **not** use healer sets like Thea’s Night Tavern on her. Instead, use **Fireflies and the Forest**. This set provides:
 *   **2-pc:** Anima DMG +10%.
 *   **4-pc:** +8% CRIT DMG every time an enemy takes Anima DMG (up to 56% total).
 
@@ -165,7 +165,7 @@ To obtain S-Rank Cartridges like Thea’s Night Tavern or Speedy Hedgehog, you m
 *   **Strategy:** The Rabbit Hole uses a wave-based combat system. Bringing a character with high "Break Intensity" (like [Sakiri](/characters/sakiri-nte-free-5-star-guide) or [Hotori](/characters/hotori-best-team-nte)) is recommended to shatter enemy shields quickly, as Cartridge drops are improved by the speed of the clear.
 
 ### Survival Alternatives: Shields and Food
-If you haven't yet farmed a perfect set of Support Disks, you can supplement your team's survival with external methods
+If you haven't yet farmed a perfect set of Support Disks, you can supplement your team's survival with external methods:
 *   **Shields:** Using **Adler** with the **Kingdom’s Guard** Cartridge provides a 20% shield strength bonus, which can often replace the need for a dedicated healer in shorter fights.
 *   **Out-of-Combat Recovery:** NTE features several free healing locations. Interacting with **Wertheimer Towers** or **ReroRero Phone Booths** scattered around Hethereau will instantly restore your party to full HP. For a more immersive recovery, you can use the bed in the **Eibon Antique Shop** to rest and heal.
 *   **Food:** Stocking up on "Anomaly Jerky" from the convenience stores in the North District provides a steady HP-over-time buff that can help during the early-game grind.

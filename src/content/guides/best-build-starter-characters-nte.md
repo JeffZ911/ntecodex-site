@@ -1,4 +1,4 @@
---
+---
 title: Best Build for Starter Characters in Neverness to Everness (NTE)
 slug: best-build-starter-characters-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T23:54:28.810118+00:00"
 published_url: /guides/best-build-starter-characters-nte
 sources: []
 hero_image: /img/best-build-starter-characters-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-build-starter-characters-nte/inline-1.webp
   - /img/best-build-starter-characters-nte/inline-2.webp
   - /img/best-build-starter-characters-nte/inline-3.webp
   - /img/best-build-starter-characters-nte/inline-4.webp
   - /img/best-build-starter-characters-nte/inline-5.webp
   - /img/best-build-starter-characters-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Building a powerful team in the early hours of Hethereau is the difference between struggling with urban anomalies and effortlessly clearing the city’s toughest challenges.
 
@@ -75,7 +75,7 @@ In Neverness to Everness, weapons are known as "Arcs." Arcs are categorized by t
 
 Zero requires a Solid-type Arc that prioritizes Attack (ATK) and Critical Rate. 
 
-*   **Marching Beyond Time (5-Star):** This is widely considered the best-in-slot Arc for Zero. It provides a massive boost to Base ATK and features a passive that increases damage dealt by 15% [exact value pending official confirmation] after using an Entry Skill. 
+*   **Marching Beyond Time (5-Star):** This is widely considered the best-in-slot Arc for Zero. It provides a massive boost to Base ATK and features a passive that increases damage dealt by 15% [exact value pending official confirmation] after using an Entry Skill.
 *   **Echo of Silence (4-Star):** A strong F2P alternative that focuses on energy regeneration, allowing Zero to use their Ultimate more frequently.
 *   **Standard Issue Blade (3-Star):** Use this only as a temporary placeholder while farming for higher-tier Arcs in the Kaleidoscope anomaly zones.
 
@@ -184,7 +184,7 @@ The "Quick-Swap" philosophy in NTE means you should rarely stay on one character
 
 ### Advanced Mint Combos
 
-Mint’s damage potential increases significantly if you use her specific stamina-based combo
+Mint’s damage potential increases significantly if you use her specific stamina-based combo:
 *   **Skill -> Normal Attack Chain -> Critical Dodge -> Riposte -> Charged Whirlwind.**
 Performing a "Critical Dodge" (dodging just before an attack hits) resets Mint’s Skill cooldown [Information not yet publicly available as of 2026-05-17 regarding the exact internal cooldown of this reset].
 

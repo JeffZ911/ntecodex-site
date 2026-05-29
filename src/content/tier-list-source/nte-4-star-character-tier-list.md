@@ -1,4 +1,4 @@
---
+---
 title: "NTE 4-Star Character Tier List: Best A-Rank Units (May 2026)"
 slug: nte-4-star-character-tier-list
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T20:35:28.676354+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-4-star-character-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-4-star-character-tier-list/inline-1.webp
   - /img/nte-4-star-character-tier-list/inline-2.webp
   - /img/nte-4-star-character-tier-list/inline-3.webp
   - /img/nte-4-star-character-tier-list/inline-4.webp
   - /img/nte-4-star-character-tier-list/inline-5.webp
   - /img/nte-4-star-character-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Finding the right balance between high-tier power and resource management is essential for success in the neon-soaked streets of Hethereau.
 
@@ -40,7 +40,7 @@ Maximizing your roster in Neverness to Everness (NTE) requires a deep understand
 
 Ranking characters in NTE involves more than just looking at raw damage output. Because the game blends high-octane combat with deep urban simulation, a character's value is determined by their combat efficiency, elemental synergy, and "Life Skills" that assist in open-world activities like vehicle customization and business management.
 
-The following criteria were used to determine the rankings for the Version 1.0.5 "Hethereau Launch" meta
+The following criteria were used to determine the rankings for the Version 1.0.5 "Hethereau Launch" meta:
 
 *   **Esper Cycle Synergy:** How effectively the unit generates energy and transitions between team members to trigger resonance effects.
 *   **Elemental Application:** The reliability of applying Cosmos, Anima, Psyche, Incantation, or Lakshana statuses to trigger elemental reactions.

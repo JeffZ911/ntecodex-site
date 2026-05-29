@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Support Characters Tier List: Top Buffers & Healers"
 slug: nte-best-support-characters-tier-list-20260516
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T20:11:12.281672+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-support-characters-tier-list-20260516/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-support-characters-tier-list-20260516/inline-1.webp
   - /img/nte-best-support-characters-tier-list-20260516/inline-2.webp
   - /img/nte-best-support-characters-tier-list-20260516/inline-3.webp
   - /img/nte-best-support-characters-tier-list-20260516/inline-4.webp
   - /img/nte-best-support-characters-tier-list-20260516/inline-5.webp
   - /img/nte-best-support-characters-tier-list-20260516/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Building the right team in Hethereau City requires more than just high-damage dealers; you need a foundation of powerful buffers and healers to survive the toughest Anomaly Zones. This NTE best support characters list ranks every utility unit currently available to help you optimize your squad for the endgame.
 
@@ -40,7 +40,7 @@ In Neverness to Everness (NTE), the difference between clearing a floor of the P
 
 Defining a "Support" in NTE involves looking at three distinct sub-roles: Buffers, Survival units, and Crowd Control (CC) specialists. A top-tier support usually excels in at least two of these categories or provides a unique mechanic that cannot be replicated by other units. 
 
-Our evaluation criteria focus on three primary pillars
+Our evaluation criteria focus on three primary pillars:
 1.  **Offensive Utility:** The ability to provide flat ATK bonuses, Crit Rate/DMG increases, or elemental resistance shredding.
 2.  **Defensive Reliability:** The strength and uptime of shields or the efficiency of healing per second (HPS).
 3.  **Esper Cycle Efficiency:** How quickly the character can apply their element to trigger reactions and how much energy they generate for the team's main DPS.

@@ -1,4 +1,4 @@
---
+---
 title: "Best Early Game Character in Neverness to Everness: NTE Starter Guide"
 slug: best-early-game-character-nte-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-early-game-character-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-early-game-character-nte-guide/inline-1.webp
   - /img/best-early-game-character-nte-guide/inline-2.webp
   - /img/best-early-game-character-nte-guide/inline-3.webp
   - /img/best-early-game-character-nte-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Choosing the right lead character in Hethereau determines how quickly you clear early commissions and scale into the late-game "Beyond the Rails" challenges. With the global launch of Neverness to Everness (NTE) on April 29, 2026, players are already identifying which units provide the most value for limited resources.
 
@@ -113,7 +113,7 @@ Adler and Edgar serve as the backbone of team survivability. Adler is a Scorch-a
 
 ### Understanding Esper Cycles and Team Synergy
 
-The combat in Neverness to Everness revolves around three primary Esper Cycles
+The combat in Neverness to Everness revolves around three primary Esper Cycles:
 1.  **Scorch:** Triggered by combining Fire-aligned attacks. It deals damage over time and can melt certain enemy armor types.
 2.  **Nova:** Triggered by Ice or Energy-aligned attacks. It focuses on freezing enemies in place or shattering them for burst damage.
 3.  **Discord:** An anomalous reaction that occurs when mixing contrasting elements. It typically results in high-impact AoE explosions.

@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Disk for NTE Support: Top Gear Guide"
 slug: best-5-star-disk-nte-support
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-5-star-disk-nte-support/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disk-nte-support/inline-1.webp
   - /img/best-5-star-disk-nte-support/inline-2.webp
   - /img/best-5-star-disk-nte-support/inline-3.webp
   - /img/best-5-star-disk-nte-support/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your support characters with the right gear is the fastest way to double your team's damage output and survive the toughest anomalies in Hesperia. This guide breaks down the best 5-star disks for support units to help you dominate the current 1.0 and 1.1 endgame content.
 
@@ -34,7 +34,7 @@ Optimizing your support characters with the right gear is the fastest way to dou
 
 When building a high-tier team in Neverness to Everness, players often ask: what is the absolute best 5-star (S-Class) disk for support characters? In a game where urban combat requires constant movement and precise ability timing, your gear choices dictate how often you can trigger powerful team-wide buffs.
 
-Specifically, players need to know
+Specifically, players need to know:
 *   Which disk sets provide the most utility for team-wide buffs and energy regeneration?
 *   How do support disks differ from DPS disks in the current 1.0/1.1 meta?
 *   Which S-Class Cartridges offer the best scaling for characters like Haniel, [Sakiri](/characters/sakiri-nte-free-5-star-guide), or Fadia?
@@ -109,7 +109,7 @@ When farming for these 5-star disks, the set bonus is only half the battle. You 
 
 ### Character Pairings: Who Wears What?
 
-To help you gear your roster, here is a quick reference for which 5-star disks fit the current top-tier support characters
+To help you gear your roster, here is a quick reference for which 5-star disks fit the current top-tier support characters:
 
 *   **Sakiri:** **Speedy Hedgehog**. She needs the Charge Efficiency to keep her Ultimate up constantly, ensuring her elemental shred is always active.
 *   **Haniel:** **Shadow Creed** or **Speedy Hedgehog**. Use Shadow Creed if you have low ATK sub-stats; otherwise, Speedy Hedgehog is better for team-wide utility.
@@ -127,13 +127,13 @@ Gearing up your supports is a long-term process that involves more than just fin
 ### How to Farm 5-Star Disks Efficiently
 
 The most efficient way to acquire S-Class Cartridges is through the **Midas Arc Workshop**. This activity requires "Character Pixels" (Stamina) to claim rewards.
-*   **Focus on Level 50+ Zones:** 5-star disks only have a guaranteed drop rate once you reach higher Anomaly containment levels. 
+*   **Focus on Level 50+ Zones:** 5-star disks only have a guaranteed drop rate once you reach higher Anomaly containment levels.
 *   **Recycle Trash:** You can dismantle unwanted 5-star disks to get materials for the "Synthesis" system, allowing you to craft specific pieces for the Speedy Hedgehog set.
 *   **Weekly Bosses:** Don't forget to clear your weekly urban boss encounters, as these have a higher chance of dropping disks with rare sub-stats like [Information not yet publicly available as of 2026-05-22].
 
 ### Best 4-Star Support Disks for Early Game
 
-If you haven't reached the level required for consistent 5-star drops, these 4-star (A-Class) alternatives are excellent placeholders
+If you haven't reached the level required for consistent 5-star drops, these 4-star (A-Class) alternatives are excellent placeholders:
 
 | 4-Star Disk Set | Primary Benefit | Why it Works |
 | :--- | :--- | :--- |

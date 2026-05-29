@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Leveling Guide: How to Level Up Espers Fast"
 slug: nte-character-leveling-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T16:12:26.394440+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-character-leveling-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-leveling-guide/inline-1.webp
   - /img/nte-character-leveling-guide/inline-2.webp
   - /img/nte-character-leveling-guide/inline-3.webp
   - /img/nte-character-leveling-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a powerful team of Espers in Hesperia requires a deep understanding of the urban progression systems found in Neverness to Everness. This guide provides the specific steps and resource locations needed to maximize your character levels and bypass the Appraisal Level gates.
 
@@ -80,7 +80,7 @@ While you can use any guide at any level, the Beetle Coin cost scales with the a
 
 Once an Esper reaches their current maximum level (e.g., Level 20), they cannot gain further XP until they undergo Ascension. This process "breaks" the level cap and unlocks the next bracket of levels.
 
-To perform an Ascension, you need
+To perform an Ascension, you need:
 1. **Anomaly Boss Drops:** Each Esper requires a specific material dropped by bosses found in Anomaly Zones. For example, a Fire-type Esper might require [Information not yet publicly available as of 2026-05-15] from a specific urban anomaly boss.
 2. **Regional Specialty Items:** These are collectible items found in the open world of Hesperia, such as specific plants or mechanical parts found in districts like the Mistville area.
 3. **Beetle Coins:** A significant amount of currency is required for each Ascension tier.
@@ -136,7 +136,7 @@ Increasing your Arc level is often more cost-effective in the early game than pu
 
 ### How to Increase Hunter Level Fast
 
-Since your Esper levels are gated by your Hunter Level, increasing your account rank is a high priority. The fastest ways to gain Hunter XP include
+Since your Esper levels are gated by your Hunter Level, increasing your account rank is a high priority. The fastest ways to gain Hunter XP include:
 *   **Daily Anomalies:** These are quick tasks that reset every 24 hours and provide a substantial amount of Hunter XP.
 *   **Story Missions:** The main campaign provides the largest chunks of XP but is often level-gated itself.
 *   **Exploration Progress:** Finding data logs, opening chests, and activating fast-travel points in Hesperia provides small but consistent amounts of XP that add up over time.

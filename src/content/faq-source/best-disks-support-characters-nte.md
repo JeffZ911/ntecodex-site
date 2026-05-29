@@ -1,4 +1,4 @@
---
+---
 title: Best Disks for Support Characters in Neverness to Everness (NTE)
 slug: best-disks-support-characters-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-support-characters-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-support-characters-nte/inline-1.webp
   - /img/best-disks-support-characters-nte/inline-2.webp
   - /img/best-disks-support-characters-nte/inline-3.webp
   - /img/best-disks-support-characters-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your support units with the right gear is the fastest way to clear high-level Anomaly Zones and dominate the 1.0 endgame. This guide breaks down the best Cartridge and Module combinations to ensure your team maintains maximum uptime and damage.
 
@@ -45,7 +45,7 @@ In Neverness to Everness, the "Disk" system is technically the Console. The Cons
 
 ### The Role of Support Characters in the 1.0 Meta
 
-Support characters in NTE are the backbone of any team composition. They are responsible for three main functions
+Support characters in NTE are the backbone of any team composition. They are responsible for three main functions:
 1.  **Energy Generation:** Boosting Cycle Intensity to ensure the team can spam Ultimates and Esper Cycles.
 2.  **Stat Buffing:** Providing ATK, Elemental Damage, or Crit buffs to the main DPS (often [Nanally](/characters/nanally-guide-nte) or other S-Class attackers).
 3.  **Survival and Utility:** Breaking enemy "white bars" (Shields) using Break Intensity and providing healing or shields.
@@ -155,8 +155,8 @@ Support Disks are only effective if they complement your team's elemental reacti
 ### Upgrading and Advancing Your Gear
 
 Once you have the right Disks, you must level them using "Data Shards." 
-*   **Cartridges:** Can be upgraded to Level 20. Every 4 levels, one of the four sub-stats will be randomly increased. 
-*   **Modules:** These do not level up in the traditional sense. Instead, you "Refine" them using duplicate Modules of the same shape to increase their base stat values. 
+*   **Cartridges:** Can be upgraded to Level 20. Every 4 levels, one of the four sub-stats will be randomly increased.
+*   **Modules:** These do not level up in the traditional sense. Instead, you "Refine" them using duplicate Modules of the same shape to increase their base stat values.
 
 Managing your Character Pixels efficiently is key. Spend your Pixels on Cartridge farming in the Rabbit Hole during the week, and save your Carrota Coins for weekend "Rewind" banners that have higher drop rates for specific Module shapes (like the Type III shapes needed for Sakiri).
 

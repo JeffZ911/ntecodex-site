@@ -1,4 +1,4 @@
---
+---
 title: "Nanally vs. Hotori: Who to Pull in Neverness to Everness 1.0?"
 slug: nanally-vs-hotori-nte-comparison-guide-20260512
 game: nte
@@ -8,7 +8,7 @@ word_count: 1618
 published_at: "2026-05-13T02:30:24.944317+00:00"
 published_url: /guides/nanally-vs-hotori-nte-comparison-guide-20260512
 sources: []
---
+---
 
 Choosing between the first two S-Rank banners in Neverness to Everness (NTE) defines your early-game experience in the vertical sprawl of Hethereau.
 
@@ -86,7 +86,7 @@ When an enemy is afflicted with the Anima status and then hit by a Cosmos attack
 
 ### Awakening (Resonance) Value
 
-For players looking to invest beyond the base character, the Awakening levels (NTE's version of duplicates) offer different scaling
+For players looking to invest beyond the base character, the Awakening levels (NTE's version of duplicates) offer different scaling:
 
 *   **Nanally Awakening 1:** Increases the critical rate of Underboss follow-up attacks by [information unavailable].
 *   **Nanally Awakening 6:** Allows Ichi-daime's Authority to remain active even when Nanally is swapped out, effectively turning her into a Sub-DPS.

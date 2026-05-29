@@ -1,4 +1,4 @@
---
+---
 title: NTE Weapon Upgrade Materials Farming Guide & Best Builds
 slug: nte-weapon-upgrade-materials-farming-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1751
 published_at: "2026-05-24T07:05:30.742853+00:00"
 published_url: /guides/nte-weapon-upgrade-materials-farming-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1COR9FuzPXJ9R-9CDZ0hhkH_kmTc42WlfYbvq6Vj-Wm1cUlROswBraQgzCsVAUr3In18N0_qta5nl_rpkDAmEocBLiRs5jUc33PgZTxeQHUVpATdoA2AGWKWqVxdE7kcTMVaFLy5zAYmG_Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2byl-FhuH5VEDmCaHHRROnXw5KoPkeWOPk0-Cw3cXIAj8npOI2nGl9GnWKGHh0wCGLuIJbWn-esripKDeOFlUlQoP8i1kepipfP8ymM6DVhIEO7IcEf7vdQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpAZXo4K2byGBFZdVcMkRAS870f5_NHclRGWkq8QDWlp34Td3UNQL9XyfYfjiD52zpltHaiUL6NNY8sAh8F7fd0_pCSy7kExYBFaA0O7ySHwBG5_ribdX56g=="
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHcoLJnv80qGXm2NxyYu61pt7trpmCc7gujlaCfjsriKX7fqpwoLGtcvaVex7GcS0RGOvxdsbx7gdiVLKvYqyg4VpCx5gtSY5NxAppm6X_i8eNiXbNxAT2U4R4euOah52nnTrjcP6S4qRzx7D9HNKcIIjM5o1AkqFPqTbnIpaBjtv9NZX9fQhRYBdh3MYY5Dw5OW1sP85RKjJExHro9i9th-59EDOelGgoU-PoLaIB8U60P-RnYzCbqA=="
 game: unknown
 hero_image: /img/nte-weapon-upgrade-materials-farming-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-1.webp
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-2.webp
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-3.webp
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-4.webp
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-5.webp
   - /img/nte-weapon-upgrade-materials-farming-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing your Esper's combat potential in Hethereau requires a steady supply of high-tier upgrade materials and the right Arc configuration. This guide details the most efficient farming routes for Pigments and Breakthrough materials to ensure your team is ready for the hardest Anomaly Zones.
 

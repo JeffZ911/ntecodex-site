@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Disks for Support Characters: Top Cartridge Sets"
 slug: nte-best-disks-for-support-characters
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 2036
 published_at: "2026-05-20T06:50:43.083645+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_IFmFfdqqg4JUXCiuEfePmmwtFAPJKj2s-TSqtgOsPnq35so7z_5zBMh-V5HXE3qwkZs3iMbqnth5Vh3xn8Cz4fKayg9PzqSoKTkGQVnWhm271JkJ-_v3w4GRsrJzthaObgBW5jQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDb_AojqocMyYo-2LcDeKgnepq8CJ7mCf0c7Gn3GXUvOS0CmE2SUNMYPlNndr0o5Ehma1x-_FjySfGTrTjMow21J2zOTDcaqSdGrH7er73doSEkcORyEim9qoYw0yBs4csmiYB-IeyqudAt-kj-vR6"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmzknFpgT8xyx7_vW3Rj8b9jzl9f8pan1aHBcOKrcKax_U55O9kJ-GZc6dZ5hKOZnamtXmotYl570QKs_mYjDUdCrlcsdFQpZGxVaP3IoC_1V1wGPQCM1kNR-EDcg1D9dvr1LOSd60sO5BWil2uEgqyFh6NQE2lnZXfDnzpTe9LyJhfKk1Ov96l8UL1I-kGj01E_jkcIWbO8TBpjtK_9KPTs3z7Vi9cynhsYSeOW5cpx_a"
@@ -26,15 +26,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYJQCdnQ7c778L55xh2VgFmUICfiHQ9ot450Z99DFGT93E41qj3l6MC-PRSjVSSyDBd0GKGJqFOBE0qVVb5OPNeDjHsYC8tuLxZa1yyaz3JjMj_oEhD6OxzorNP1KV2QytCX2cv21uMkHorWR7jc="
 game: unknown
 hero_image: /img/nte-best-disks-for-support-characters/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-disks-for-support-characters/inline-1.webp
   - /img/nte-best-disks-for-support-characters/inline-2.webp
   - /img/nte-best-disks-for-support-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Related"
---
+---
 
 Selecting the right gear for your support roster is the most effective way to multiply your team's damage and survive the high-intensity Anomaly Zones of Hethereau.
 

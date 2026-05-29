@@ -1,4 +1,4 @@
---
+---
 title: "How to Level Up Echoes in Wuthering Waves: A Complete Guide"
 slug: how-to-level-up-echoes-wuthering-waves
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 2011
 published_at: "2026-05-13T02:37:10.392458+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0CvvQJ4-qbRgoDNiKeNJle6JXw46C2quCWg1D9I5Ov9VdqwZ1Ay-RVseV9yJELdCyD8xFI6YncrzDoc8nz3ZoA_2-sNIXBbIChzeP4E4hJOiml4LX2UlfXJHY19E31ldHBeKmGbnCYMNsYYTNz2WEMV-uL1jbZBCk1lZ"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGooBL4rEZsa1YK2jczyoEp4CsKSbHY6inDD2hPmvjV15OQ6HVvvDo7F4zhdQE8ZvJSs9hPIZHGkutOBinq-uwimvP_ZFPEHlCVds8Svdl8Nu4TxRX3Ynp3tcnjnhZobP4PE4HRuORDntsGgYmk1uC1k4r1KblDX3s7LAFyDPr8YYpgkifnMtQH-1KOhJTtww=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUWCjGRmgZrLQ0Qlf_UwoOjyP6BF79svyBYza_MWUHUh9TK9eSLyqvS0Q7csS9_92-N95WV-WLYJa-XN3jGX73XLjpP3b8sY6fbtW3_lJnyU4IKGYYX1iaUoPCAYQcXIMI2Sait3A50uk0uBZGQQxTvASbq6LRYxnSlcWEhIJbxo3QbbCdDwY_X_4="
@@ -24,17 +24,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEukOKrHP5qph9200Eo1dWT1AWTkYRJQT37a0BSfQJiaI_fHpcJkia6QZDFaFzhrrAZpacRjns7Hbpy6QbCvq9P_8ohyf5ENYdExwJZjqGf5SAPltxbqnZqeRPUImGPwR6SY_jBquDHA53sGx7dHzDiua0V-L7rHpCrMng5SkX_a495"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86SVpeeK1yt0r1PHKU73TVzOJnWr01kRfdJoGHT_EmM-qQywrHwickag1d5Q1GKIBDGjiEPRhCCpxM0fbPkLLwo6u0YFTDz-Fa-7U0QNnTBI4AbuTSxw3ZKPY4yVI78-oDISSPF7oQtENNMSX6gCpGYakEx8ku0CodH82pGeNOurKNC3IkVRNfD0VQ9raMjJ6qpV0UvaJ4eQ8eEXAx8Q="
 hero_image: /img/how-to-level-up-echoes-wuthering-waves/hero.webp
-inline_images
+inline_images:
   - /img/how-to-level-up-echoes-wuthering-waves/inline-1.webp
   - /img/how-to-level-up-echoes-wuthering-waves/inline-2.webp
   - /img/how-to-level-up-echoes-wuthering-waves/inline-3.webp
   - /img/how-to-level-up-echoes-wuthering-waves/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In Wuthering Waves, your combat efficiency is dictated more by the quality of your Echoes than almost any other equipment system. Mastering the nuances of how to level up Echoes and optimize their sub-stats is the difference between struggling against Hologram bosses and clearing the Tower of Adversity with ease.
 
@@ -106,7 +106,7 @@ The cost of leveling increases significantly at higher levels. For example, taki
 ### The Tuning System and Sub-stat RNG
 Tuning is where the real power of an Echo is unlocked. Every 5 levels, a new sub-stat slot becomes available. To "Tune" the Echo, you spend 10 Tuners of the appropriate rarity. 
 
-The sub-stats are pulled from a pool that includes
+The sub-stats are pulled from a pool that includes:
 *   Crit Rate % and Crit Damage %
 *   ATK % and Flat ATK
 *   Energy Regen %
@@ -125,7 +125,7 @@ Your Data Bank level is the single most important factor in your Echo journey.
 Increasing your Data Bank level is done by capturing unique Echoes and unlocking higher rarities of Echoes you already own. If you have a 3-star version of a monster, finding the 4-star version will grant you Data Bank EXP.
 
 ### Farming Routes for Upgrade Materials
-To keep up with the demand for Sealed Tubes and Tuners, you must engage with specific activities
+To keep up with the demand for Sealed Tubes and Tuners, you must engage with specific activities:
 1. **Tacet Fields:** These are the primary source of Echo materials. For 60 Waveplates, you receive a bundle of Sealed Tubes, Tuners, and random Echoes from specific sets. This is the most efficient way to spend your stamina once your Resonators are ascended.
 2. **The Guidebook (Milestones):** Completing Guidebook tasks and Data Bank level rewards provides a significant initial influx of Premium materials.
 3. **Shops:** The Souvenir Shop in Jinzhou, the Item Exchange (using Oscillated Coral), and the Hazard Record store all sell Sealed Tubes and Tuners.
@@ -135,7 +135,7 @@ To keep up with the demand for Sealed Tubes and Tuners, you must engage with spe
 A common mistake is taking Purple (4-star) Echoes to level 20. While they are useful during the mid-game, the resources spent on them are better saved for Gold Echoes. As a rule of thumb, only level Purple Echoes to 10 or 15 to get through the main story and early Union Level challenges. Once you hit Data Bank level 15, pivot all resources to Gold Echoes.
 
 ### Echo Recycling and EXP Efficiency
-If you have a leveled Echo that you no longer need (perhaps you found a better one or the sub-stats rolled poorly), you have two choices
+If you have a leveled Echo that you no longer need (perhaps you found a better one or the sub-stats rolled poorly), you have two choices:
 1. **Feeding (Direct):** You can use a leveled Echo as EXP material for a new one. This returns approximately 80% of the invested EXP, but you lose all the Tuners spent on it.
 2. **Recycling (Bag):** By opening your Inventory/Bag and using the "Recycle" (trash icon) feature, you can convert leveled Echoes back into Sealed Tubes. This returns roughly 75% to 80% of the EXP and—crucially—refunds about 30% of the Tuners used. 
 

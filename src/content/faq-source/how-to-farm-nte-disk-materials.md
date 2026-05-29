@@ -1,4 +1,4 @@
---
+---
 title: "How to Farm NTE Disk Materials: Neverness to Everness Guide"
 slug: how-to-farm-nte-disk-materials
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-farm-nte-disk-materials/hero.webp
-inline_images
+inline_images:
   - /img/how-to-farm-nte-disk-materials/inline-1.webp
   - /img/how-to-farm-nte-disk-materials/inline-2.webp
   - /img/how-to-farm-nte-disk-materials/inline-3.webp
   - /img/how-to-farm-nte-disk-materials/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Finding the right equipment is the difference between struggling against high-level Anomalies and clearing Hethereau’s toughest challenges with ease.
 
@@ -38,7 +38,7 @@ In *Neverness to Everness* (NTE), "disk materials" is a broad term used by the c
 Disks are the core of the NTE gear system. Unlike traditional RPGs with swords and armor, NTE uses an urban-tech aesthetic where equipment is categorized into Arcs, Cartridges, and Modules. These items are slotted into a character's "Console" interface to provide flat stats, percentage-based bonuses, and unique passive effects. Farming these materials efficiently requires a steady supply of Character Pixels, which act as the game's stamina system.
 
 ### Types of Materials You Need to Farm
-To fully kit out a character like [Nanally](/characters/nanally-guide-nte) or Mint, you will need to target several different resource nodes
+To fully kit out a character like [Nanally](/characters/nanally-guide-nte) or Mint, you will need to target several different resource nodes:
 *   **Arcs:** These function as weapons. Farming Arc materials involves gathering Pigments and specific ascension items to increase their level cap.
 *   **Cartridges:** These are the primary gear pieces that provide major stat boosts and set bonuses. They are categorized by rarity, with S-Rank (Gold) being the endgame goal.
 *   **Modules:** Often referred to as the "Tetris" system, these are smaller stat-boosters that fit into a grid on the character's Console.

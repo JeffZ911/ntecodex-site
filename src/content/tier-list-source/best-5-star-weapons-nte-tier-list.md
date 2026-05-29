@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Weapons for Neverness to Everness: NTE Arc Tier List"
 slug: best-5-star-weapons-nte-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 2162
 published_at: "2026-05-22T07:51:02.182709+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGduWCVkNeYXsUhXFvnrEbn4RtwkuEXJ44A0_dqPlr61qDDOtdUhnDuuYTV7rqpi_jdIcU8FGCgjZ82ucCFVSSYV6VMtKshG9__-J8TEvx5N4mQSVXxF7PcVneXjjPAbKl05WDopdAAVD5cSSPklTvjUUOMoydLjJV4ovLziddzq9WY"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaAaNaM4AZogc_kmnm7RGR_xEazxCpvLK4l7gfvRZUhUj6ZngOMli3nmS850BoQ0EotRRgO4noviIfWQXf0QPooejbFKwLqWcE2j1HzTd7nczh5a7pr28="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGThLEaH02lJzwuDuLzOkLunHbHPMemtO3bnfvrOyqqcTJiJYyw9-Htrss7ZvMKyKcecRkf6OUCqD2GvY31ww8aGB1FsZMeug6fGn-ZOOGDvEMttXGk8OTH--k8RbkherdBPNo2LON7LoLp2w=="
@@ -31,19 +31,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwLQKla5-OJLdCEgLjiREPteA9rOW2RbREwKkF1ye5N7l_6TcRSQoWKdNCNt0ME84udzYnKTRuKdy-FMd4JIxI2olx28V0obX6lfFPtXc8TD_6TZqeq5NOg=="
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-weapons-nte-tier-list/inline-1.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-2.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-3.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-4.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
---
+---
 
 Equipping the right Arc can be the difference between clearing a high-level Anomaly in seconds or hitting a brick wall in the streets of Hethereau. This guide ranks the most powerful 5-star weapons currently available to help you optimize your team and dominate the endgame.
 

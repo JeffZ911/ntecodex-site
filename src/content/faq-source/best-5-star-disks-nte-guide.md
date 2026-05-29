@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Disks in Neverness to Everness (NTE): Top S-Rank Arcs"
 slug: best-5-star-disks-nte-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T07:19:00.322325+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-5-star-disks-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disks-nte-guide/inline-1.webp
   - /img/best-5-star-disks-nte-guide/inline-2.webp
   - /img/best-5-star-disks-nte-guide/inline-3.webp
   - /img/best-5-star-disks-nte-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Choosing the right S-Rank Arc in Neverness to Everness (NTE) is the difference between struggling against urban Anomalies and clearing high-level Wanted posters with ease.
 
@@ -72,7 +72,7 @@ Deepening your understanding of S-Rank Arc mechanics is vital for optimizing you
 
 ### Best DPS Disks (S-Rank Arcs)
 
-For players focused on maximizing damage, the following Arcs represent the current peak of the NTE meta
+For players focused on maximizing damage, the following Arcs represent the current peak of the NTE meta:
 
 **Raging Flames (Lakshana DPS)**
 This Arc is specifically designed for high-frequency Lakshana attackers. Its primary mechanic revolves around stacking damage bonuses whenever the character uses a Redirect Skill or an Ultimate. In the hands of a character like Nanally, these stacks accumulate rapidly, leading to a massive increase in sustained DPS. The Redirect Skill bonus is particularly important because it rewards players for timing their counters and repositioning skills correctly, which is a core part of Nanally's high-skill-ceiling kit.

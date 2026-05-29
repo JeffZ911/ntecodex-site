@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Weapons in Neverness to Everness: NTE Arc Tier List"
 slug: best-5-star-weapons-nte-tier-list-20260524
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-tier-list-20260524/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-1.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-2.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-3.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-4.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-5.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right gear is the difference between struggling in high-level Anomalies and dominating the urban landscape of Hethereau.
 

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Team Building Guide: Best Comps & Meta"
 slug: nte-team-building-guide-20260521
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-team-building-guide-20260521
 sources: []
 game: unknown
 hero_image: /img/nte-team-building-guide-20260521/hero.webp
-inline_images
+inline_images:
   - /img/nte-team-building-guide-20260521/inline-1.webp
   - /img/nte-team-building-guide-20260521/inline-2.webp
   - /img/nte-team-building-guide-20260521/inline-3.webp
   - /img/nte-team-building-guide-20260521/inline-4.webp
   - /img/nte-team-building-guide-20260521/inline-5.webp
   - /img/nte-team-building-guide-20260521/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 As the supernatural anomalies of Hethereau continue to manifest, mastering the intricacies of squad synergy is the only way to survive the city’s most dangerous districts.
 
@@ -46,7 +46,7 @@ The core of NTE combat is the Esper Cycle. As you deal damage with Basic Attacks
 
 ### Core Combat Roles
 
-Successful team compositions generally follow a structured role distribution
+Successful team compositions generally follow a structured role distribution:
 
 *   **Main DPS:** The primary field-time consumer who deals the bulk of the damage during "Stagger" windows.
 *   **Sub-DPS/Battery:** Characters who provide off-field damage or generate energy for the team’s Ultimates.
@@ -180,7 +180,7 @@ Maximizing your damage in Neverness to Everness requires a strict adherence to t
 
 ### Maximizing Stagger Damage
 
-When the enemy’s Break Gauge is nearly empty, ensure your Main DPS has their Ultimate ready. Once the "BREAK" text appears on screen
+When the enemy’s Break Gauge is nearly empty, ensure your Main DPS has their Ultimate ready. Once the "BREAK" text appears on screen:
 1.  Swap to your Support to apply any "Damage Taken Increased" debuffs.
 2.  Swap immediately to your Main DPS.
 3.  Activate the Ultimate.

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Weapon Leveling Guide: Best Mint Build & Arc Upgrades"
 slug: nte-weapon-leveling-guide-beginners-mint-build
 article_type: build
@@ -9,19 +9,19 @@ published_url: /guides/nte-weapon-leveling-guide-beginners-mint-build
 sources: []
 game: unknown
 hero_image: /img/nte-weapon-leveling-guide-beginners-mint-build/hero.webp
-inline_images
+inline_images:
   - /img/nte-weapon-leveling-guide-beginners-mint-build/inline-1.webp
   - /img/nte-weapon-leveling-guide-beginners-mint-build/inline-2.webp
   - /img/nte-weapon-leveling-guide-beginners-mint-build/inline-4.webp
   - /img/nte-weapon-leveling-guide-beginners-mint-build/inline-5.webp
   - /img/nte-weapon-leveling-guide-beginners-mint-build/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Optimizing your damage output in Hethereau starts with mastering the Arc system, the core of character progression in Neverness to Everness. This guide breaks down the essential weapon leveling mechanics and the best build for the Anima DPS, Mint, to ensure you can clear urban anomalies with ease.
 
@@ -142,7 +142,7 @@ The most powerful team for Mint currently includes **Jiuyuan** and **[Sakiri](/c
 
 ### F2P Starter Team for Hethereau Exploration
 
-For players who are just starting and haven't pulled premium units, a highly effective team consists of
+For players who are just starting and haven't pulled premium units, a highly effective team consists of:
 *   **Mint (Main DPS):** Your primary source of damage.
 *   **Esper Zero (Support):** Provides shields and basic energy regeneration to help Mint use her Ultimate more frequently.
 *   **Edgar (Cosmos/Reaction):** Helps clear anomalies and triggers Cosmos reactions which can stun smaller enemies, giving Mint a safe window to use her charged attacks.

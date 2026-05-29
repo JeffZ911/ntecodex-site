@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Build in Neverness to Everness: Top Characters & Gear"
 slug: best-dps-build-neverness-to-everness
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T16:20:23.975458+00:00"
 published_url: /guides/best-dps-build-neverness-to-everness
 sources: []
 hero_image: /img/best-dps-build-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-build-neverness-to-everness/inline-1.webp
   - /img/best-dps-build-neverness-to-everness/inline-2.webp
   - /img/best-dps-build-neverness-to-everness/inline-3.webp
   - /img/best-dps-build-neverness-to-everness/inline-4.webp
   - /img/best-dps-build-neverness-to-everness/inline-5.webp
   - /img/best-dps-build-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Dominating the supernatural streets of Hethereau requires more than just quick reflexes; it demands a mathematically optimized loadout to handle the escalating threats of the Esper Cycle. 
 

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best 5-Star Weapons Guide: May 2026 Arc Tier List"
 slug: nte-best-5-star-weapons-guide-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-5-star-weapons-guide-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-1.webp
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-2.webp
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-3.webp
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-4.webp
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-5.webp
   - /img/nte-best-5-star-weapons-guide-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Equipping the right Arc can transform a standard Esper into an urban legend capable of clearing the toughest Anomalies in Hethereau.
 
@@ -40,7 +40,7 @@ Selecting the optimal 5-star Arc in Neverness to Everness (NTE) requires a deep 
 
 Ranking Arcs in NTE involves more than just looking at the highest Attack values. While the standard Base ATK for 5-star Arcs ranges from 512 to 666 at level 90, the true value lies in the efficiency of the secondary substat and the specific "Arc Skill" passive.
 
-Our criteria for this May 2026 tier list are as follows
+Our criteria for this May 2026 tier list are as follows:
 
 *   **Stat Archetype Efficiency:** We prioritize Arcs that provide CRIT Rate or CRIT DMG substats, as these are significantly harder to optimize through city-farming gear than ATK% or HP%.
 *   **Arc Skill Impact:** Weapons with unique summons (like Officer Whisker) or field-altering mechanics (like Wastelab) receive higher scores due to their ability to provide off-field utility or team-wide buffs.

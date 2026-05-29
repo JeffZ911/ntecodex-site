@@ -1,4 +1,4 @@
---
+---
 title: "Best 4-Star Weapons in Wuthering Waves: Top Tier List & Guide"
 slug: best-4-star-weapons-wuthering-waves-guide
 game: wuthering_waves
@@ -9,19 +9,19 @@ published_at: "2026-05-13T02:49:44.214221+00:00"
 published_url: /weapons/best-4-star-weapons-wuthering-waves-guide
 sources: []
 hero_image: /img/best-4-star-weapons-wuthering-waves-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-1.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-2.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-3.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-4.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Stats"
   - "Effect"
   - "Best On (Characters)"
   - "How to Get"
   - "Comparison"
---
+---
 
 Securing a powerful 5-star weapon in Wuthering Waves often requires significant luck or a heavy investment of Astrite, but many 4-star alternatives offer competitive performance for both early-game progression and endgame challenges. Understanding which 4-star weapons provide the best stat scaling and passive effects is essential for optimizing your Resonators without depleting your premium resources.
 
@@ -124,7 +124,7 @@ Acquiring 4-star weapons involves a mix of luck, persistence, and strategic reso
 Most 4-star weapons are obtained through the "Convene" system. Every 10 pulls on any banner (Character or Weapon) guarantees at least one 4-star item. On the Weapon Permanent Convene, you can actually set a "Target" for 5-star weapons, but 4-stars remain random. During limited Event Banners, specific 4-star weapons receive a "Rate-Up," making them much easier to pull and synthesize to Rank 5.
 
 ### Crafting Guide: Uncle Wei’s Workshop
-If Gacha luck is not on your side, you can craft weapons at Uncle Wei's shop in Jinzhou. Crafting a 4-star weapon requires
+If Gacha luck is not on your side, you can craft weapons at Uncle Wei's shop in Jinzhou. Crafting a 4-star weapon requires:
 *   **1 Standard Weapon Mold:** These are rare drops from Weekly Bosses (such as the Scar or Bell-Borne Geochelone challenges).
 *   **150 Indigoite:** A blue-grade ore found throughout the world.
 *   **Shell Credits:** The standard in-game currency.

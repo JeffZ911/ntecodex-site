@@ -1,4 +1,4 @@
---
+---
 title: "Ruan Mei vs. Robin: Which Harmony Support is Best in HSR?"
 slug: ruan-mei-vs-robin-support-comparison-hsr
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-13T09:57:53.055417+00:00"
 published_url: /guides/ruan-mei-vs-robin-support-comparison-hsr
 sources: []
 hero_image: /img/ruan-mei-vs-robin-support-comparison-hsr/hero.webp
-inline_images
+inline_images:
   - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-1.webp
   - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-2.webp
   - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-3.webp
   - /img/ruan-mei-vs-robin-support-comparison-hsr/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Choosing between the two most powerful Harmony units in Honkai: Star Rail can define the ceiling of your account's performance in endgame content like Memory of Chaos and Pure Fiction.
 
@@ -82,12 +82,12 @@ Robin, conversely, operates on the **Action Economy**. Her Ultimate, "Vox Harmon
 
 ### Team Synergies: Who Plays Better with Whom?
 
-Ruan Mei is the ultimate "plug-and-play" support. Because she provides All-Type RES PEN and a permanent SPD boost through her Talent, there is no team in the game that doesn't benefit from her presence. She is particularly vital for
+Ruan Mei is the ultimate "plug-and-play" support. Because she provides All-Type RES PEN and a permanent SPD boost through her Talent, there is no team in the game that doesn't benefit from her presence. She is particularly vital for:
 *   **Break Teams:** Firefly, Boothill, and Harmony Trailblazer.
 *   **Damage over Time (DoT):** Kafka and Black Swan benefit immensely from the RES PEN and the Break extension, which allows DoT procs to tick more frequently.
 *   **Dual DPS:** Her buffs are team-wide and require no specific targeting.
 
-Robin is more specialized but achieves higher peaks in her niche. She is the "missing piece" for the **Premium FUA Team** (Topaz & Numby, Dr. Ratio, Aventurine). Her Talent grants her 2 Energy every time an ally attacks. Because FUA teams attack more frequently than any other archetype, Robin can maintain high Ultimate uptime despite her high 160 Energy cost. She is also the preferred support for
+Robin is more specialized but achieves higher peaks in her niche. She is the "missing piece" for the **Premium FUA Team** (Topaz & Numby, Dr. Ratio, Aventurine). Her Talent grants her 2 Energy every time an ally attacks. Because FUA teams attack more frequently than any other archetype, Robin can maintain high Ultimate uptime despite her high 160 Energy cost. She is also the preferred support for:
 *   **Pure Fiction:** Her team-wide Action Advance allows your Erudition units to clear waves before the cycle ends.
 *   **Hypercarries:** Characters like Yunli or Argenti benefit from her massive flat ATK buffs.
 
@@ -132,7 +132,7 @@ Both Ruan Mei and Robin are "must-pull" tier characters, but the priority depend
 
 ### Eidolons vs. Signature Light Cones
 
-If you have extra Stellar Jades and are wondering where to invest
+If you have extra Stellar Jades and are wondering where to invest:
 
 *   **Ruan Mei E1:** This is one of the strongest Eidolons in the game. It allows the team to ignore 20% of the enemy's DEF while her Ultimate is active. This is a massive, multiplicative damage increase.
 *   **Robin E1:** This provides 24% All-Type RES PEN during the Concerto state. Similar to Ruan Mei's E1, this is a top-tier investment that significantly boosts team damage.

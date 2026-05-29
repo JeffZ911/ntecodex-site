@@ -1,4 +1,4 @@
---
+---
 title: "NTE Esper Disk Set Guide: Best Cartridges and Console Builds"
 slug: nte-esper-disk-set-guide-20260525
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1847
 published_at: "2026-05-25T04:28:45.890573+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2lqin4uvW1-woz9tMCUCbe_ZV4ac_Z2H2JaYeeVI21jKZBfCKxiILJLJQLkrH82n0qCKJA3X6j9xiER2HatIGPaWJStIDezEVYRdB81e3Z9shNB8Xwa6jrxmRk6Ib0NqvYS0MPKBhQebVvbIQe5K-EJyChISu1R-iRS1tnd3ch4OHckCiWYIYOBya0f5dVvRtK5HZ1SqUnQxun73twhGo2BsmgUH0pMVlBJs="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWEgQWpnS0hZtTyRqXzInJDpn-ophhaBZyTSS57g34-ZI6ofgG0arKy3Od-lCiA54FhqM-Cf_4hsNgVa9hc83V2dx6Tc2KUEVDHvR4PWQuPDkKO9sP2IgkUzRbNuF0guzBw-1ZN2k="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN-B2iI2tCEZg6a3JlqSieHXfzj1GvVISSfcgX4Ssbza_acFJ0AbSw8Six4F-eIxCd2sGw34SQWuFPNIZTFnmeHh7rvB1MrGuLtebLylfEU1LfkQovxZgQg_Ils3bKvJ_pUMT6szc4o5qB7FTjMNeWKBvS8RzqG3hhhxv1Kh_1XkgB4q3vGKQ3NNKIAxHh6o2Th7deOIsFAFOG1ItW"
@@ -25,17 +25,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7jKRTZLrep3ah93ojeig7dlIoRG1P7ArggPvcXwwEAYMFV20883PamEocPqCaLYvBu50sJ-PdiCQW-u-EafTlfjQYfiszgbfW5dxmcxRhzamvUvbxCH43"
 game: unknown
 hero_image: /img/nte-esper-disk-set-guide-20260525/hero.webp
-inline_images
+inline_images:
   - /img/nte-esper-disk-set-guide-20260525/inline-1.webp
   - /img/nte-esper-disk-set-guide-20260525/inline-2.webp
   - /img/nte-esper-disk-set-guide-20260525/inline-3.webp
   - /img/nte-esper-disk-set-guide-20260525/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character builds in Neverness to Everness (NTE) requires a deep understanding of the Console system, where fitting the right pieces together is just as important as the stats they carry. This NTE Esper Disk set guide breaks down how to master Cartridges and Modules to dominate the streets of Hethereau.
 
@@ -59,7 +59,7 @@ Gear in NTE is the primary driver of elemental scaling and utility. While leveli
 Optimizing your NTE Esper Disk set guide strategy is critical because the game’s "Esper Cycle" mechanic—the elemental reaction system—relies heavily on your stats to trigger meaningful damage. Without a well-fitted Console, even S-Rank characters like [Nanally](/characters/nanally-guide-nte) or Zero will struggle against the damage sponges found in later Hunter Level activities.
 
 ### Why is optimizing your Esper Disk sets critical for endgame content like Beyond the Rails?
-Beyond the Rails represents the pinnacle of NTE’s combat challenges as of May 2026. In this mode, enemies possess high resistance values and massive health pools that cannot be overcome by raw levels alone. Optimization allows you to
+Beyond the Rails represents the pinnacle of NTE’s combat challenges as of May 2026. In this mode, enemies possess high resistance values and massive health pools that cannot be overcome by raw levels alone. Optimization allows you to:
 *   **Maximize Set Bonuses:** Activating a 4-piece "Legendary" effect can increase your damage output by over 25% or provide team-wide buffs.
 *   **Synergize with Character Passives:** Many characters, such as Mint or Zero, have unique passives that trigger based on the *type* of Modules you use (e.g., gaining CRIT Rate for every 3-cell Module equipped).
 *   **Maintain Rotation Fluidity:** Sets like Speedy Hedgehog provide "Charge Efficiency," ensuring your Ultimate is ready as soon as your rotation cycles back to your support.
@@ -71,7 +71,7 @@ Beyond the Rails represents the pinnacle of NTE’s combat challenges as of May 
 
 Esper Disks, primarily referred to as "Cartridges" in-game, are the core equipment pieces that provide base stats and set bonuses. A full set consists of a Cartridge and matching Modules fitted into the character's Console grid. 
 
-Set bonuses are divided into two tiers
+Set bonuses are divided into two tiers:
 1.  **Epic (2-piece) Bonus:** Requires two Modules of the correct shape to be fitted into the Console.
 2.  **Legendary (4-piece) Bonus:** Requires four Modules of the correct shape to be fitted into the Console.
 
@@ -107,7 +107,7 @@ As of Version 1.0, several sets have emerged as the "meta" choices for specific 
 #### Lost Radiance (Cosmos DPS)
 This is the premier set for Cosmos-element attackers like Zero. 
 *   **2-Piece Bonus:** Cosmos DMG +10%.
-*   **4-Piece Bonus:** Ignores 25% of enemies' DEF for 20 seconds after the wearer casts an Ultimate. 
+*   **4-Piece Bonus:** Ignores 25% of enemies' DEF for 20 seconds after the wearer casts an Ultimate.
 *   **Why it’s good:** DEF ignore is a rare and powerful multiplier that scales exceptionally well in the late game.
 
 #### Shadow Creed (Generalist / ATK Buffer)
@@ -152,7 +152,7 @@ The Rabbit Hole is located in the **Cape Square** district of Hethereau, specifi
 | IV (Expert) | 40+ | Gold Cartridges (High Sub-stat Floor) | S-Rank (Orange) |
 
 ### Stat Priority: Crit Rate, Crit DMG, and Cycle Rate
-When refining your Cartridges and Modules, look for these key stats in order
+When refining your Cartridges and Modules, look for these key stats in order:
 1.  **CRIT Rate / CRIT DMG:** Essential for all DPS characters. Aim for a 1:2 ratio (e.g., 60% CRIT Rate to 120% CRIT DMG).
 2.  **Elemental DMG Bonus:** This is usually found as the Main Stat on the Cartridge. Ensure it matches your character's element (Cosmos, Anima, Chaos, etc.).
 3.  **Cycle Intensity / Rate:** This stat determines how quickly you can trigger Esper Cycle reactions. High Cycle Intensity is vital for quick-swap teams.

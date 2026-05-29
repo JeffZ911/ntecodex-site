@@ -1,4 +1,4 @@
---
+---
 title: "Best Disk Sets for NTE Tanks: Top Defensive Builds & Stats"
 slug: best-disk-sets-nte-tanks
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T21:03:03.989242+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-disk-sets-nte-tanks/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-nte-tanks/inline-1.webp
   - /img/best-disk-sets-nte-tanks/inline-2.webp
   - /img/best-disk-sets-nte-tanks/inline-3.webp
   - /img/best-disk-sets-nte-tanks/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Surviving the supernatural anomalies of Hethereau requires more than just high damage; it demands a frontline that can withstand the most punishing Esper attacks. This guide breaks down the best disk sets for tanks in Neverness to Everness to ensure your team stays standing in Version 1.0.
 

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Beginner Tips: Essential Guide for New Players"
 slug: nte-beginner-tips-tricks-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-tips-tricks-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-beginner-tips-tricks-guide/inline-1.webp
   - /img/nte-beginner-tips-tricks-guide/inline-2.webp
   - /img/nte-beginner-tips-tricks-guide/inline-3.webp
   - /img/nte-beginner-tips-tricks-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Thriving in the supernatural urban landscape of Hethereau requires a blend of tactical combat skills and savvy business management. This nte beginner tips and tricks guide provides the essential strategies needed to master the Esper Cycle and dominate the city's economy.
 
@@ -89,7 +89,7 @@ Early in the game, you should aim to buy the Wiener Apartment. While it requires
 
 Vehicles are not just for transportation; they are a status symbol and a tool for exploration. You can purchase cars from various dealerships across the city, such as Novus or the luxury-tier Regalia. Once you own a vehicle, you can take it to a Rampage Players shop for deep customization.
 
-Customization options include
+Customization options include:
 *   **Engine Tuning:** Improves top speed and acceleration.
 *   **Aesthetics:** Custom paint, decals, and body kits.
 *   **Handling:** Upgraded tires and suspension for better cornering in the city's tight streets.

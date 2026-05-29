@@ -1,4 +1,4 @@
---
+---
 title: Best Build for Hannah (Haniel) in Neverness to Everness (NTE)
 slug: best-build-hannah-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T07:18:59.608430+00:00"
 published_url: /guides/best-build-hannah-nte
 sources: []
 hero_image: /img/best-build-hannah-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-build-hannah-nte/inline-1.webp
   - /img/best-build-hannah-nte/inline-2.webp
   - /img/best-build-hannah-nte/inline-3.webp
   - /img/best-build-hannah-nte/inline-4.webp
   - /img/best-build-hannah-nte/inline-5.webp
   - /img/best-build-hannah-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Haniel, widely known by the community as Hannah, has solidified her place as a premier F2P-friendly support since the April 29, 2026, launch of Neverness to Everness (NTE).
 
@@ -103,7 +103,7 @@ The 4-piece Speedy Hedgehog set is the definitive best-in-slot choice for a supp
 For players running Haniel in a dedicated "Nova Burst" team (Psyche + Chaos), the Devil's Blood: Curse set is a viable alternative. This set focuses on maximizing the damage of elemental reactions. While it provides less raw ATK buffing than Speedy Hedgehog, it can result in higher total team damage if your Chaos-element characters are highly invested.
 
 ### Recommended Main Stats and Substats
-When leveling your Disks, focus on the following stat priorities
+When leveling your Disks, focus on the following stat priorities:
 
 *   **Disk 1 (Fixed):** ATK
 *   **Disk 2 (Fixed):** HP
@@ -162,7 +162,7 @@ During the Paranormal Ace state, Haniel provides her maximum buffing value. It i
 
 
 ### How to Obtain Haniel
-Haniel is one of the most accessible A-Rank units in Neverness to Everness. Players can obtain her through several guaranteed methods
+Haniel is one of the most accessible A-Rank units in Neverness to Everness. Players can obtain her through several guaranteed methods:
 *   **Pre-registration Rewards:** Distributed via the in-game mail system upon reaching the first major hub.
 *   **Story Progression:** A copy of Haniel is granted during the early chapters of the Sterry Express storyline.
 *   **Fracture Circle:** Players can earn Haniel shards or a full character unlock by clearing Floor 10 of the Fracture Circle challenge mode.

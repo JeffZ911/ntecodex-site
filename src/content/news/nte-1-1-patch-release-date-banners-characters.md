@@ -1,4 +1,4 @@
---
+---
 title: NTE 1.1 Patch Release Date, Banners, and New Characters
 slug: nte-1-1-patch-release-date-banners-characters
 game: nte
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1831
 published_at: "2026-05-13T02:28:25.355747+00:00"
 published_url: /news/nte-1-1-patch-release-date-banners-characters
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS8sBGGYLkq0FAEYDHPPtQp2CBt_aS2qbIodWp_n88xeIMnWgMQegViu9cPH8jGITwBO4tiPgDJLC1KCKsJ9QS3kU6QVGNahZ9F73JAk8qwB5kyLL92smTtD-too0nw8IK-YcU3es="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpZjX1YCThwruHSDvuxPjHSLJ7amaHtXJ10HP2px5xEWVrZAuS_vaLt9xMyTj3tXrY1FpgQY0Qiv2bLTmyY_smTdlojboGR-F1JC_3b0ZIUWD-Tsd76cRnmW9ymq24HiV99QwLXybCbNHYAfrL7joOij5dMOd2JwPL0rsWS8n8Qh6ey-1tRaIpeDpADRDKVMmM9R8yOZfifhlfPv4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnnYExKMlPr-O4Xj-lgjR155HF3S3fk49O0ZOcFYg-1W72rIYnyySv_8RoIDfv-y1oypMJks_mNhshvW0X-eNWg-DkJQj-i32vtqh0p3l3amEjc2Ojt0NDeGAtDUccRf7kCxOfWpRvqD3Sxq8sew=="
@@ -28,7 +28,7 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0CzO8ROSJVEMbbNuoyLz-MS57SiDSbWqqFngURSqaYtqjvfWb0e5LFDFlLoj5AKhR5m_Rml4-SqicklFeSDUildsk6ETNimt0rhbrKWIMnKhOxz4p9fHpKA9rLyg9dnSjpfqSjmZ_WAuJKeZhBw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIh4Kh1xQzvYb9IIACQPGsE1E9ieYCZvakxJ3OMOmsmXy6A9PDiAqaP07smQLNSFF-jnJAWcLt3rr7t_r5ci_iEq4FnUWprnqVzenZMZAsoYAsTtitRSU50w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXOp2ofPySZuSZIbokUFFRdagX_54EH2UMJx_9bVVhqaJ15lmVxpOcyfYSChl7xkuLMs_DLxs2x1TYWP2TNf6ZzGWoHjTvyZ9cFSi-qhJbPwlC9S4Xa2i-b2ae-Jfde43q6vF5Zo7dqW3yf_DEr9Nph2_wuo7yX8DKXBwNJwfMVJa2Bg=="
---
+---
 
 Following its record-breaking launch on April 29, 2026, Neverness to Everness (NTE) is already moving toward its first major content expansion.
 
@@ -90,7 +90,7 @@ The New Herland District, by contrast, is the gleaming financial core of the cit
 
 ### Quality of Life and Technical Optimizations
 
-Version 1.1 brings the game's engine up to Unreal Engine 5.5 standards, introducing several technical upgrades
+Version 1.1 brings the game's engine up to Unreal Engine 5.5 standards, introducing several technical upgrades:
 *   **UE5 Lumen Enhancements:** Improved dynamic lighting and reflections on glass-fronted skyscrapers in the New Herland District. This addresses community feedback regarding "low poly" reflections seen at launch.
 *   **Model Rendering:** More detailed hair meshes and improved facial/eye shading for all characters.
 *   **Driving Physics:** A complete overhaul of vehicular handling to reduce the "floaty" feel reported during the 1.0 cycle.

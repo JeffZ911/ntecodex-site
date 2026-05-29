@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Healer Tier List: Best Support Characters"
 slug: nte-healer-character-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-healer-character-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-healer-character-tier-list/inline-1.webp
   - /img/nte-healer-character-tier-list/inline-2.webp
   - /img/nte-healer-character-tier-list/inline-3.webp
   - /img/nte-healer-character-tier-list/inline-4.webp
   - /img/nte-healer-character-tier-list/inline-5.webp
   - /img/nte-healer-character-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in Hethereau’s supernatural urban sprawl requires more than just raw firepower; it demands a support core that can keep your Espers standing through reality-warping anomalies.
 
@@ -42,7 +42,7 @@ This tier list evaluates the current roster of support characters based on their
 
 Ranking the healers in Neverness to Everness requires looking beyond simple Healing Per Second (HPS) metrics. Because NTE utilizes a "Swap-and-Burst" combat style, a healer who requires too much field time can actually lower your team's total damage output, leading to longer fights and more opportunities for enemies to land fatal blows.
 
-Our ranking is built upon the following five pillars
+Our ranking is built upon the following five pillars:
 
 1.  **Role Compression:** This is the most critical metric in Version 1.0. We prioritize characters who provide healing while simultaneously acting as a sub-DPS or a primary buffer. If a character only heals, they are generally ranked lower than those who heal and shred enemy resistances.
 2.  **HPS and Uptime:** We evaluate how consistently a character can maintain the team's health. This includes the frequency of their "Burst Heals" versus their "Passive Sustain" (such as fields or regenerative buffs).

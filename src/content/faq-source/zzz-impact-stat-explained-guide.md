@@ -1,4 +1,4 @@
---
+---
 title: "ZZZ Impact Stat Explained: How to Stun Enemies Faster"
 slug: zzz-impact-stat-explained-guide
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T04:01:15.057941+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/zzz-impact-stat-explained-guide/hero.webp
-inline_images
+inline_images:
   - /img/zzz-impact-stat-explained-guide/inline-1.webp
   - /img/zzz-impact-stat-explained-guide/inline-2.webp
   - /img/zzz-impact-stat-explained-guide/inline-3.webp
   - /img/zzz-impact-stat-explained-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Breaking through the defenses of a powerful Ethereal requires more than just raw damage; it requires a deep understanding of how to exploit the Daze gauge. The Impact stat is the engine that drives this mechanic, allowing specialized Agents to shatter enemy poise and open windows for devastating Chain Attacks.
 
@@ -32,7 +32,7 @@ In the high-octane combat of Zenless Zone Zero (ZZZ), players often notice a yel
 ![Question Restated](/img/zzz-impact-stat-explained-guide/inline-1.webp)
 
 
-When players first enter New Eridu, the sheer variety of combat statistics can be overwhelming. Among Attack, Crit Rate, and Anomaly Proficiency, the "Impact" stat often causes confusion. To master ZZZ, you must answer three fundamental questions
+When players first enter New Eridu, the sheer variety of combat statistics can be overwhelming. Among Attack, Crit Rate, and Anomaly Proficiency, the "Impact" stat often causes confusion. To master ZZZ, you must answer three fundamental questions:
 
 *   What exactly is the Impact stat in Zenless Zone Zero (ZZZ)?
 *   How does Impact interact with the Daze gauge and the Stun mechanic?
@@ -68,7 +68,7 @@ The combat rhythm of Zenless Zone Zero is built around the "Stun Phase." To unde
 
 Every enemy in the game, from basic Thugs to massive Ethereal bosses, possesses a Daze threshold. This is an invisible numerical value that, when met, triggers the Stun state. As you attack an enemy, you contribute to this threshold, visualized by the yellow bar.
 
-When an enemy is Stunned
+When an enemy is Stunned:
 1.  **Immobilization:** The enemy stops all actions, cancelling any active attack animations.
 2.  **Stun DMG Multiplier:** The enemy takes bonus damage. The base multiplier is usually 150%, meaning your attacks do 1.5x damage, but certain Agents and buffs can increase this further.
 3.  **Chain Attacks:** Landing a "Heavy Attack" (usually the final hit of a combo or an EX Special Attack) on a Stunned enemy triggers a Chain Attack. This allows you to swap between team members for massive, cinematic bursts of damage.
@@ -134,7 +134,7 @@ Understanding Impact is just the first step in mastering the ZZZ combat loop. On
 
 Once the enemy is Stunned, the "Stun DMG Multiplier" takes effect. Every enemy has a base multiplier (usually 150%), but this can be modified. For example, **Qingyi** has a passive that increases this multiplier up to a cap of [Information not yet publicly available as of 2026-05-14] depending on her Subjugation stacks. 
 
-To maximize this window
+To maximize this window:
 1.  **Apply Debuffs:** Ensure your "Support" Agents (like Nicole or Soukaku) have applied their DEF shreds or Elemental buffs before the Stun bar hits 100%.
 2.  **Save Energy:** Don't waste your Attack Agent's EX Special Attacks while the enemy is active. Save them for the Stun window to take advantage of the damage multiplier.
 

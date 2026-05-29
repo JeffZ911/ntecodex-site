@@ -1,4 +1,4 @@
---
+---
 title: "NTE Early Game Boss Guide: How to Beat Picture Frame, Bopp & Arachne"
 slug: nte-how-to-beat-early-game-bosses
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-how-to-beat-early-game-bosses
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-beat-early-game-bosses/hero.webp
-inline_images
+inline_images:
   - /img/nte-how-to-beat-early-game-bosses/inline-1.webp
   - /img/nte-how-to-beat-early-game-bosses/inline-2.webp
   - /img/nte-how-to-beat-early-game-bosses/inline-3.webp
   - /img/nte-how-to-beat-early-game-bosses/inline-4.webp
   - /img/nte-how-to-beat-early-game-bosses/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Overcoming the initial Anomaly encounters in Hekate is the first major hurdle for every new Hunter in Neverness to Everness. While the flashy urban exploration and car customization take center stage, mastering the combat mechanics against early bosses like Bopp and The Never-Ending Arachne is essential for progressing through the main story and unlocking high-tier rewards.
 
@@ -65,7 +65,7 @@ Success in NTE combat is dictated by your ability to read visual cues. The game 
 *   **Yellow/Gold Shine:** This indicates a "Parryable Attack." If you use a Skill or a Heavy Attack the moment the yellow shine appears, you perform a "Critical Riposte," which deals massive Break damage and interrupts the boss's combo.
 
 ### Bopp's Stomp and Charge Sequence
-Bopp relies on heavy physical momentum. His primary rotation involves
+Bopp relies on heavy physical momentum. His primary rotation involves:
 1.  **Industrial Stomp:** Bopp raises his right fist. A yellow shine appears. If you parry this, he falls forward, exposing his head for extra damage.
 2.  **Rubble Charge:** Bopp scrapes the ground and rushes toward the player. This is preceded by a red flash. You must dodge sideways; dodging backward will often still result in being hit by the lingering hitbox of his shoulders.
 3.  **Anomaly Burst:** When Bopp reaches 50% HP, he emits a circular shockwave. This move has [exact startup frames pending official confirmation], but the visual cue is a darkening of the air around his feet.

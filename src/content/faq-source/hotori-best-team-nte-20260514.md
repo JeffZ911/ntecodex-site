@@ -1,4 +1,4 @@
---
+---
 title: "Hotori Best Team NTE: Top Compositions and Synergy Guide"
 slug: hotori-best-team-nte-20260514
 game: nte
@@ -7,7 +7,7 @@ qa_score: 10.0
 word_count: 1874
 published_at: "2026-05-14T06:38:27.143155+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQfyrxzQnQgox8vdPHIs1OxcWe9BzQHl-2EVrjwrQezhAgJxHnYK9-2b0PDi_JNGB66CiGobXJirXuqdKoA_1nV8izVNMsAhcr6_X8OmeWr4_2KqIarHxQt2MnS5RjPBK26rAtpQe7Ouirobz1WO7vXl0z13C0Vw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQyulSoqih08FI1-Ewgw89j20iOxo0k19-W41UlTmPewuZNIyD5dT5Pu7ZghpbtrWf9hKDL4MPyvwBAakSlsGVRWRO6TW2bI3wKlYZI4LJGTZF7cz6BjoUKOACDrEwQswpejj-_2CX9xr3d-vaVmfyS2Ebis-qw9TOW0Gk6oALAQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEvKWgDYhNsU4hkD6yPiZvQm06OVu8QlArdSK6HoBQQovbLuZihVvYZw7iuayG_5ZUlJbcqWq2yQplMpoRS0tnKA6G1cWQ08VRyxGIV_URS3bikVq9KVBBwD6IqCJn0seljt_vvw=="
@@ -21,17 +21,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIDo4D-GZHJM4fYC19SduyEkXBvGY-S_-3ikz5jorxUFqJazt16Tjcc_NiuKh3fgAxcOZT6HItFUURDkjX_gOlwbM9GfKDyIo3EhMg6u9G6QIERVNgpUGk3iUdlol_o_QH9iJdZPSuN3s="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvymjcjCRx6DpNOs8qqd6jpSoeVtvdeHOVGdB56a7EyBdyjzL_QjsUr-jZAL6GLgNPntZqeiV8ewcIX0EuEGv9XM_EXOgKgOi2z-zEAyJ00Uh4G5yDR_iJUlpMvOD7lTmQ"
 hero_image: /img/hotori-best-team-nte-20260514/hero.webp
-inline_images
+inline_images:
   - /img/hotori-best-team-nte-20260514/inline-1.webp
   - /img/hotori-best-team-nte-20260514/inline-2.webp
   - /img/hotori-best-team-nte-20260514/inline-3.webp
   - /img/hotori-best-team-nte-20260514/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing a team for [Hotori](/characters/hotori-best-team-nte) requires a deep understanding of how her unique time-manipulation mechanics interact with the elemental reaction system in Neverness to Everness (NTE). Since her release on April 29, 2026, she has redefined the meta by allowing players to compress an entire team’s worth of skill damage into a single, frozen ten-second window.
 

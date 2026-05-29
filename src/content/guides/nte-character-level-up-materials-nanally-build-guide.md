@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Level Up Materials Guide: Best Nanally Build"
 slug: nte-character-level-up-materials-nanally-build-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1954
 published_at: "2026-05-22T13:43:27.345651+00:00"
 published_url: /guides/nte-character-level-up-materials-nanally-build-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH3kHSgOdhwu0E3KdtNkUIV0IBr7hd3uHRr-Fpuyn81rSiwgT0kkX3tFy8rQQBzwk9Ln_XVfc8hia7pkVPllvCurUO7irFjeN36ZdwpKqKMKxy09Dev4a_wKxRcWlt1UJfASEn-KfpLqymXYiaijz5u39jcGODyb_ZEhO2z07RsmY8oZE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW8ThGZOrPH3L2F23uZResMzY4PxWj33E0wE-Qllb3ou0vHuE3CVfZAKBereHtl8nRggm-sro6uAKzWQtVIUrDajsHe0Jdx96BrM7e_jbWj4MMztpO0nad3lnqbvCByvhjJYLv0Ww="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQzXfy5jy8vfmxb3-j5Va3HZ7tfFbu0uMHPDuDfesnF9OqKvVjXA2tmywIvzukc-InrLPAVnsdJlPh4QiJMopvoe-qtD2FYcf57KSlTT514aWESXQJ4OWwEkhAWvL3kT03sTVkQu9-vBPt-QBEEygjz3Pgw1qOMTmzjWQmpv-ODWPx4UcEbQ=="
@@ -26,21 +26,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxnOgdovVDytPQbfis0Wehcgiw64RqvraQX8iN4bnjj7xLYGvxmGW2PknmQSrvQTSJ1-grwEhSNH5FF19gNE_tZoH5bolPv_dOfs1aGDBnfnwGF1madga9qyUbl_npWWASlMfuDiRDTELnbYKTrbgCA0likWf72_jbiA=="
 game: unknown
 hero_image: /img/nte-character-level-up-materials-nanally-build-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-1.webp
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-2.webp
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-3.webp
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-4.webp
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-5.webp
   - /img/nte-character-level-up-materials-nanally-build-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Dominate the urban supernatural streets of Hethereau by mastering [Nanally](/characters/nanally-guide-nte), the high-octane Anima DPS taking the meta by storm.
 
@@ -119,7 +119,7 @@ NTE utilizes a "Console" system where you equip Cartridges and Modules to boost 
 ### Best Set: Fireflies and the Forest
 The **Fireflies and the Forest** set is the undisputed BiS for Nanally. 
 *   **2-Piece Bonus:** Increases Anima DMG by 10%.
-*   **4-Piece Bonus:** Increases the wearer's CRIT DMG by 8% whenever a nearby enemy takes Anima DMG from the team. This stacks up to 7 times for a total of 56% CRIT DMG. 
+*   **4-Piece Bonus:** Increases the wearer's CRIT DMG by 8% whenever a nearby enemy takes Anima DMG from the team. This stacks up to 7 times for a total of 56% CRIT DMG.
 
 Because the Underboss deals frequent Anima DMG even when Nanally is dodging, she can reach max stacks almost instantly. Notably, this buff remains active even if Nanally is swapped out, making her a potent off-field Sub-DPS in certain quick-swap teams.
 

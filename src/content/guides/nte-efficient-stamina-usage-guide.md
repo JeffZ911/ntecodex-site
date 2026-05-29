@@ -1,4 +1,4 @@
---
+---
 title: "NTE Efficient Stamina Usage Guide: Best Nanally Build"
 slug: nte-efficient-stamina-usage-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1810
 published_at: "2026-05-23T09:05:20.564884+00:00"
 published_url: /guides/nte-efficient-stamina-usage-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuoPc4ZrxThW7pRSmFFv6Sp_K5uV7Y9bt4LjSvc4yLMtA8LyQSDn-20JJkfstZLzPJd01f166J-FiM9klzJA0ls_MB8wMsHXMfkL06kV-2hyzNPNcpEkQxTgAcdNZUDOvlE1sP96rLb00SIC75_0FErmK-mYl5SIii2jnpKuaklF8aJ8JhCMxJjLQntw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVIQSh7C7w3G_nbZApdjBGVDmWjYer-rhsCdv6ujTNNlFyLJfyVURpfRzFZPccab0-8A8ZW2myVOxzEAxKdWaGiyy7D5P7_n9HCNbRlDF98OLOs9J7J8cbQn7Jwf5REPU3n5MHz4lS7tJNPDQdaMZFJg0nfVc1phB0R76IK0WY-0z0fgiEaMGc3YNrD7cjmpO3VxkGw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcXFq37jmd7OfuGTp2cCZk2-y8G8NNixuVwZ7jrUW9iCYYKZz2T_JNBRJfoScDWyuzx45zF25ekLCEUzSOqv8ayBUw95_ekuJkTc-rfdaA0UZOJ-z0-Rdvs1_MUWZaBOruKrIInhg_fAs6yrgLyey64gCGIjozmgB10JXNIYYmphoBUVau4G7t5RhMHUYO8TOFM9ygQ=="
@@ -29,21 +29,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYDrGG_NAQAikGE2tnUmeYc5TB9kWoz3xBObcOrNTNF_YAdgEHGGCy5VwXZ-m0g7Qjt8y48Wal2ZayvgRTN6gLqwWhuHgWPcKj5WygHKeC0A7jwHUCuLzQ"
 game: unknown
 hero_image: /img/nte-efficient-stamina-usage-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-efficient-stamina-usage-guide/inline-1.webp
   - /img/nte-efficient-stamina-usage-guide/inline-2.webp
   - /img/nte-efficient-stamina-usage-guide/inline-3.webp
   - /img/nte-efficient-stamina-usage-guide/inline-4.webp
   - /img/nte-efficient-stamina-usage-guide/inline-5.webp
   - /img/nte-efficient-stamina-usage-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Mastering your progression in the sprawling urban landscape of Hethereau requires a disciplined approach to resource management. With the launch of Neverness to Everness (NTE) on April 29, 2026, players have quickly discovered that while the city offers endless distractions, your growth as an Appraiser is strictly gated by several energy systems. To reach the endgame efficiently, you must prioritize where every point of stamina goes, particularly when building a top-tier DPS like [Nanally](/characters/nanally-guide-nte).
 
@@ -60,7 +60,7 @@ Efficient progression in Neverness to Everness hinges on understanding that not 
 
 At the heart of your daily routine are **Character Pixels** and **City Stamina**. While they may look similar in the UI, their recovery rates and primary uses are distinct.
 
-*   **Character Pixels:** This is your primary combat stamina. It is consumed whenever you enter an Anomaly Zone to farm character EXP, Arc materials, or Cartridges. 
+*   **Character Pixels:** This is your primary combat stamina. It is consumed whenever you enter an Anomaly Zone to farm character EXP, Arc materials, or Cartridges.
 *   **City Stamina:** This resource is dedicated to the "City Tycoon" side of NTE. It fuels your hobbies—such as racing, fishing, and managing businesses—which in turn generate Fons (the primary gold currency) and increase your Tycoon Level.
 *   **Combat Stamina Gauge:** Unlike the previous two, this is a real-time gauge used during combat for sprinting, dodging, and specific heavy attacks. Managing this is a matter of skill rather than time-gated recovery.
 
@@ -77,7 +77,7 @@ During the launch meta, Nanally has emerged as the most efficient character for 
 
 ### Stamina Spending Priorities by Hunter Level
 
-To maximize efficiency, follow this spending roadmap to avoid wasting Pixels on low-tier gear
+To maximize efficiency, follow this spending roadmap to avoid wasting Pixels on low-tier gear:
 
 1.  **Hunter Level 1-20:** Focus exclusively on Character EXP and Arc Ascension materials. Do not farm Cartridges; the game provides enough via story rewards to get through early content.
 2.  **Hunter Level 20-30:** Begin farming for specific A-Rank Arcs if you haven't pulled a signature weapon. Continue prioritizing character levels to keep up with World Level increases.
@@ -149,7 +149,7 @@ Nanally shines brightest when paired with characters that can trigger the **Blos
 
 ### The Meta Blossom Team
 
-The most potent team in the 1.0 meta consists of
+The most potent team in the 1.0 meta consists of:
 *   **Nanally (Main DPS):** The primary source of Anima damage and follow-up triggers.
 *   **Zero (Cosmos Support):** Essential for her ability to immediately fill the team's Esper Meter with her Skill, allowing for instant reaction setups.
 *   **Jiuyuan (Anima Sub-DPS):** Provides crowd control and increases the count of Vita Buds spawned during Blossom reactions.

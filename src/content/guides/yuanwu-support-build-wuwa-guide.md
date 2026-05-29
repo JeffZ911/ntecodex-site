@@ -1,4 +1,4 @@
---
+---
 title: "Yuanwu Support Build Guide: Best Echoes, Weapons & Teams (WuWa)"
 slug: yuanwu-support-build-wuwa-guide
 game: wuthering_waves
@@ -9,21 +9,21 @@ published_at: "2026-05-14T07:47:24.595822+00:00"
 published_url: /guides/yuanwu-support-build-wuwa-guide
 sources: []
 hero_image: /img/yuanwu-support-build-wuwa-guide/hero.webp
-inline_images
+inline_images:
   - /img/yuanwu-support-build-wuwa-guide/inline-1.webp
   - /img/yuanwu-support-build-wuwa-guide/inline-2.webp
   - /img/yuanwu-support-build-wuwa-guide/inline-3.webp
   - /img/yuanwu-support-build-wuwa-guide/inline-4.webp
   - /img/yuanwu-support-build-wuwa-guide/inline-5.webp
   - /img/yuanwu-support-build-wuwa-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Yuanwu is more than just a boxing gym owner; he is a powerhouse of off-field Electro utility and the ultimate shield breaker for high-end content.
 
@@ -124,7 +124,7 @@ This set perfectly aligns with Yuanwu’s quick-swap playstyle. Since he can gen
 
 ### Main Echo Choice: Bell-Borne Geochelone vs. Impermanence Heron
 
-The choice of Main Echo depends on your team's needs
+The choice of Main Echo depends on your team's needs:
 
 1.  **Bell-Borne Geochelone:** This is the preferred choice for general support. It provides a shield based on the user's DEF and reduces incoming DMG for the entire team. Since Yuanwu already scales with DEF, the shield is quite sturdy. It also provides a 10% DMG boost while the shield is active.
 2.  **Impermanence Heron:** This is used exclusively with the Moonlit Clouds set to maximize damage buffs. When the Heron’s initial hit connects, it restores 10 Resonance Energy to Yuanwu. If he uses his Outro Skill within the next 15 seconds, the next character gains a 12% DMG boost. Pairing this with the Moonlit Clouds 5-piece effect results in a massive buff for your Main DPS.
@@ -223,14 +223,14 @@ The key to playing Yuanwu effectively is minimizing his field time. Every second
 
 ### Maximizing Concerto Energy Generation
 
-Concerto Energy is vital for triggering Yuanwu’s Outro Skill, **Lightning Field**. This skill is essential because it reduces the enemy's Vibration Strength. To build Concerto quickly
+Concerto Energy is vital for triggering Yuanwu’s Outro Skill, **Lightning Field**. This skill is essential because it reduces the enemy's Vibration Strength. To build Concerto quickly:
 *   Ensure the Thunder Wedge is hitting enemies.
 *   Use his Resonance Liberation whenever it is off cooldown.
 *   Equip the **Marcato** weapon if you find your Concerto generation is too slow.
 
 ### Tips for Positioning the Thunder Wedge
 
-The Thunder Wedge has a respectable radius, but mobile bosses like the **Crownless** or **Tempest Mephis** can easily dash out of it. If the boss moves
+The Thunder Wedge has a respectable radius, but mobile bosses like the **Crownless** or **Tempest Mephis** can easily dash out of it. If the boss moves:
 1.  Do not immediately swap back to Yuanwu unless your Main DPS has finished their burst window.
 2.  Wait for a natural gap in your rotation to swap Yuanwu back in and reposition the Wedge.
 3.  Try to place the Wedge in the center of the arena rather than near the edges to maximize the area covered.

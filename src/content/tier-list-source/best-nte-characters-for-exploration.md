@@ -1,4 +1,4 @@
---
+---
 title: Best Neverness to Everness (NTE) Characters for Exploration
 slug: best-nte-characters-for-exploration
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-nte-characters-for-exploration/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-characters-for-exploration/inline-1.webp
   - /img/best-nte-characters-for-exploration/inline-2.webp
   - /img/best-nte-characters-for-exploration/inline-4.webp
   - /img/best-nte-characters-for-exploration/inline-5.webp
   - /img/best-nte-characters-for-exploration/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Traversing the sprawling urban landscape of Hethereau requires more than just a fast car; you need a team that can handle the verticality of skyscrapers and the complexity of hidden Anomalies. This guide ranks the current roster to help you build the most efficient team for world navigation.
 

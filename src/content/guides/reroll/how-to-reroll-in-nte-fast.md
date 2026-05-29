@@ -1,4 +1,4 @@
---
+---
 title: How to Reroll in Neverness to Everness Fast (May 2026 Guide)
 slug: reroll/how-to-reroll-in-nte-fast
 article_type: reroll
@@ -9,19 +9,19 @@ published_url: /guides/reroll/how-to-reroll-in-nte-fast
 sources: []
 game: unknown
 hero_image: /img/how-to-reroll-in-nte-fast/hero.webp
-inline_images
+inline_images:
   - /img/how-to-reroll-in-nte-fast/inline-1.webp
   - /img/how-to-reroll-in-nte-fast/inline-2.webp
   - /img/how-to-reroll-in-nte-fast/inline-3.webp
   - /img/how-to-reroll-in-nte-fast/inline-4.webp
   - /img/how-to-reroll-in-nte-fast/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Securing a top-tier account in Hethereau can save you weeks of grinding and significant resources in the long run. This Neverness to Everness (NTE) reroll guide provides the most efficient route to landing S-Rank powerhouses like [Nanally](/characters/nanally-guide-nte) or [Sakiri](/characters/sakiri-nte-free-5-star-guide) during the May 2026 launch window.
 
@@ -44,7 +44,7 @@ For Free-to-Play (F2P) players, rerolling is the most effective way to secure a 
 
 The gacha system in NTE is stylized as "Scarborough Fair," a board game-inspired interface. Instead of a simple animation, you watch a "Chuppa"—your digital game piece—move across tiles. Each tile represents a reward, ranging from upgrade materials to characters and weapons. 
 
-There are two primary currencies used on these boards
+There are two primary currencies used on these boards:
 *   **Fabricated Dice:** Used for the Standard Board ("Strange Encounters").
 *   **Solid Dice:** Used for Limited-Time Event Boards (such as "The Ichi-daime").
 

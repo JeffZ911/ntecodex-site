@@ -1,4 +1,4 @@
---
+---
 title: "Mira Character Profile and Skills: Neverness to Everness Guide"
 slug: mira-character-profile-skills-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 8.3
 word_count: 1418
 published_at: "2026-05-20T19:33:08.154711+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzGXG6mg0Q0euBDWRNoMpNBvArFGlLqjfBFrYlaOmPwC036SFWFb32TEfGPtDLwyz4XvWgrnC-CUJfRdvU5m_Tp7Hy0Urw5BilloM-8szxKumjiNw9tGrDw4Wogr-IqxfSf88PIvglU4frE4fxicU-k2EgJzmWa8eDUISLhCddRnw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhsqd-nZ8JbamBDfq7Wk9iJlKgj66XZr_lXUzuWDPQ79JUzukDNkhi2a1qfb8iEHufcQUMN_zygMIkslVYWEpUf9vIlzg8Ua8-MM50yF0c7w6OSmy1O6CP8gi-cK2ki1qAoxZ8Oi7tPZlinW35XVMGS0ctpTBnWTPGur2Euj8E6cQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWILGcf5X_cj01wSrEJuGpZEXpcbwgHFswbB6JC8wjX0kMBY2ld3us8ChkJhP972SrPNaiNfMi8DW8pCH-8rp-r6aeF3uuByD5jhO4n0ML0QLuUDz4Z5zlVy_Hc0nUTELjhw=="
@@ -30,15 +30,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErlh7FR9Vuq-gl-udeRQXAS9FnLSQ21G9ka8fdki6kGvSaPfqLcNWpchjuEQI5O99j14CjIel0yN9mF2ZyKHHMYzxg2_iKA5jTsrNjFa0qUa9H5mrG9q5ARt1fPicHpvDpvbSBuPjCLNTjOVrBBiRgufOY0FSeV9a3GfMJGMwuTQzE00o="
 game: unknown
 hero_image: /img/mira-character-profile-skills-nte/hero.webp
-inline_images
+inline_images:
   - /img/mira-character-profile-skills-nte/inline-2.webp
   - /img/mira-character-profile-skills-nte/inline-3.webp
   - /img/mira-character-profile-skills-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 While the urban landscape of Hethereau is teeming with unique Espers and supernatural anomalies, many players are scouring the roster for a character named Mira. This guide clarifies the current character lineup of Neverness to Everness (NTE) following its April 2026 launch and explains the source of the common "Mira" confusion.
 
@@ -46,7 +46,7 @@ While the urban landscape of Hethereau is teeming with unique Espers and superna
 
 ## Question Restated
 
-As Neverness to Everness gains momentum following its global release on April 29, 2026, several questions have surfaced regarding the character roster and specific unit profiles. The most frequent inquiries include
+As Neverness to Everness gains momentum following its global release on April 29, 2026, several questions have surfaced regarding the character roster and specific unit profiles. The most frequent inquiries include:
 
 *   Is Mira a playable character in the current version of Neverness to Everness (NTE)?
 *   What are Mira's combat skills, elemental attributes, and weapon types?
@@ -72,7 +72,7 @@ Players searching for Mira are most likely looking for the current top-tier S-Ra
 
 ### Clarifying the 'Mira' Confusion in NTE
 
-The absence of a character named Mira in Neverness to Everness has not stopped the name from trending in community hubs. This confusion stems from two primary sources
+The absence of a character named Mira in Neverness to Everness has not stopped the name from trending in community hubs. This confusion stems from two primary sources:
 
 1.  **Hotta Studio Legacy:** In *Tower of Fantasy*, Mira is the specific currency used in the cyberpunk city of Mirroria. Since NTE features a similar urban-supernatural aesthetic and is developed by the same studio, many players have mistakenly applied the term to the game's characters or currency systems (which actually use terms like Fons and Annulith).
 2.  **Cross-Genre Competition:** *Infinity Nikki*, another high-profile title released in a similar timeframe, utilizes "Mira" as a core ranking and progression mechanic. The overlap in player bases between these open-world titles has led to a blending of search terms.
@@ -136,7 +136,7 @@ For **Nanally (Plasma)**, players should look for Arcs that amplify follow-up at
 
 For **Hotori (Solid)**, her signature S-Rank Arc is **"Marching Beyond Time."** This weapon is specifically designed to maximize her Ultimate's "Time Stop" window. It provides a significant boost to CRIT Rate and allows allies to build "Waste Time" stacks, which Hotori consumes during her Ultimate to ignore [exact value pending official confirmation] of the enemy’s DEF.
 
-Other notable Arcs available in the May 2026 meta include
+Other notable Arcs available in the May 2026 meta include:
 *   **Blow up the Crowd (Solid):** A high-ATK Arc that boosts damage after casting an Ultimate.
 *   **Contemplative Cat (Gas):** Increases Cosmos DMG based on the amount of Fons (currency) held by the player.
 *   **Day Off (Solid):** Increases ATK and restores Ultimate energy upon defeating enemies.

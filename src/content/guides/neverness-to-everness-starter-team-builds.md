@@ -1,4 +1,4 @@
---
+---
 title: Best Neverness to Everness Starter Team Builds Guide (2026)
 slug: neverness-to-everness-starter-team-builds
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neverness-to-everness-starter-team-builds
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-starter-team-builds/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-starter-team-builds/inline-1.webp
   - /img/neverness-to-everness-starter-team-builds/inline-2.webp
   - /img/neverness-to-everness-starter-team-builds/inline-3.webp
   - /img/neverness-to-everness-starter-team-builds/inline-4.webp
   - /img/neverness-to-everness-starter-team-builds/inline-5.webp
   - /img/neverness-to-everness-starter-team-builds/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Setting up a powerful squad in Hellsing City requires more than just high-rarity pulls; it demands a deep understanding of how elemental reactions and quickswap mechanics interact. With the global launch of Neverness to Everness (NTE) on April 29, 2026, players have discovered that the synergy between free characters like Zero and Mint can often outperform poorly optimized S-Class teams.
 
@@ -128,7 +128,7 @@ NTE features a gear system called Cartridges (often referred to as Disks by the 
 
 ### Sub-stat Priority
 
-When farming Cartridges in the "Rabbit Hole" dungeons, look for specific sub-stats. For Main DPS characters, the priority is
+When farming Cartridges in the "Rabbit Hole" dungeons, look for specific sub-stats. For Main DPS characters, the priority is:
 1. Crit Rate (until 50%)
 2. Crit DMG
 3. Elemental DMG %
@@ -192,7 +192,7 @@ Mastering the rotation in Neverness to Everness is the difference between a 5-mi
 
 ### Standard Burst Loop
 
-To maximize damage, follow this sequence
+To maximize damage, follow this sequence:
 1.  **Start with Support:** Cast Haniel’s Skill to set up the ATK buff field.
 2.  **Apply Primary Element:** Switch to Zero and use his Skill to fill the Cycle Gauge and apply Cosmos.
 3.  **Trigger the Cycle:** Once Mint’s portrait glows, swap to her. This triggers her Cycle Finisher, applying Anima and triggering Blossom.

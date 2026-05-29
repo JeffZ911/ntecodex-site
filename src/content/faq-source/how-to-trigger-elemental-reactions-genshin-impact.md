@@ -1,4 +1,4 @@
---
+---
 title: "How to Trigger Elemental Reactions in Genshin Impact: Full Guide"
 slug: how-to-trigger-elemental-reactions-genshin-impact
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T11:17:55.153294+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-trigger-elemental-reactions-genshin-impact/hero.webp
-inline_images
+inline_images:
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-1.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-2.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-3.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering elemental reactions is the foundation of high-level combat in Teyvat, transforming basic attacks into devastating chains of damage. By understanding how different elements interact, you can optimize your team rotations to clear the game's most difficult challenges.
 
@@ -121,7 +121,7 @@ A "Strong" aura can support multiple "Weak" trigger reactions before it is fully
 
 ### How Elemental Mastery and Character Level Affect Damage
 
-For transformative reactions (Swirl, Bloom, Overloaded), your Attack stat does not matter. The damage is determined by
+For transformative reactions (Swirl, Bloom, Overloaded), your Attack stat does not matter. The damage is determined by:
 1.  **Character Level:** The base damage of these reactions scales exponentially as a character moves from Level 80 to Level 90.
 2.  **Elemental Mastery (EM):** This stat provides a percentage bonus to reaction damage.
 3.  **Enemy Resistance:** Reactions are still affected by how much resistance an enemy has to that specific element.

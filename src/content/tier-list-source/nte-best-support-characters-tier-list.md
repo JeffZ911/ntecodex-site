@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Support Characters Tier List: Top Espers Ranked (May 2026)"
 slug: nte-best-support-characters-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T08:17:20.613574+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-support-characters-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-support-characters-tier-list/inline-1.webp
   - /img/nte-best-support-characters-tier-list/inline-2.webp
   - /img/nte-best-support-characters-tier-list/inline-3.webp
   - /img/nte-best-support-characters-tier-list/inline-4.webp
   - /img/nte-best-support-characters-tier-list/inline-5.webp
   - /img/nte-best-support-characters-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Finding the right balance between raw damage and tactical utility is the key to dominating the urban anomalies of Hethereau. This tier list ranks the best support characters in Neverness to Everness (NTE) to help you optimize your team rotations and energy economy for the current Version 1.0.2 meta.
 

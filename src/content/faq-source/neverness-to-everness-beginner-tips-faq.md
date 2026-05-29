@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Beginner Tips & FAQ: Essential Guide"
 slug: neverness-to-everness-beginner-tips-faq
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-beginner-tips-faq/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-beginner-tips-faq/inline-1.webp
   - /img/neverness-to-everness-beginner-tips-faq/inline-2.webp
   - /img/neverness-to-everness-beginner-tips-faq/inline-3.webp
   - /img/neverness-to-everness-beginner-tips-faq/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Hethereau is a city where the supernatural is just another part of the daily commute, but mastering its systems requires a professional Hunter's mindset.
 
@@ -79,7 +79,7 @@ You must manage inventory, hire staff from your roster of A-rank characters, and
 
 Combat in Neverness to Everness revolves around the Stagger meter and the Esper Cycle. Every enemy has a white bar beneath their health; when this bar is depleted through elemental attacks, the enemy enters a "Fractured" state, taking [information unavailable] massive increased damage.
 
-The Esper Cycle refers to the synergy created by switching characters. When a character uses their "Entry Skill" (triggered by swapping when the icon glows), they apply an elemental status. Combining these statuses creates powerful reactions
+The Esper Cycle refers to the synergy created by switching characters. When a character uses their "Entry Skill" (triggered by swapping when the icon glows), they apply an elemental status. Combining these statuses creates powerful reactions:
 
 **Common Esper Cycle Reactions:**
 

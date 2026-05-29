@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Resonance Mechanics Explained: Full Guide"
 slug: neverness-to-everness-resonance-mechanics-explained-20260516
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T16:09:52.252392+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-resonance-mechanics-explained-20260516/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-resonance-mechanics-explained-20260516/inline-1.webp
   - /img/neverness-to-everness-resonance-mechanics-explained-20260516/inline-2.webp
   - /img/neverness-to-everness-resonance-mechanics-explained-20260516/inline-3.webp
   - /img/neverness-to-everness-resonance-mechanics-explained-20260516/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the supernatural streets of Hethereau requires more than just fast reflexes; success depends on understanding how the city's unique energy flows through your team of Espers. This guide breaks down the dual nature of Resonance mechanics to help you optimize your combat rotations and character progression.
 
@@ -32,7 +32,7 @@ Mastering the supernatural streets of Hethereau requires more than just fast ref
 ![Question Restated](/img/neverness-to-everness-resonance-mechanics-explained-20260516/inline-1.webp)
 
 
-Players often find themselves confused by the term "Resonance" in Neverness to Everness because the game uses the word to describe two interconnected but functionally different systems. To master the game, you must be able to answer three primary questions
+Players often find themselves confused by the term "Resonance" in Neverness to Everness because the game uses the word to describe two interconnected but functionally different systems. To master the game, you must be able to answer three primary questions:
 
 *   What exactly are Resonance mechanics in Neverness to Everness (NTE)?
 *   How do the Esper Cycle and character Resonance Effects differ?
@@ -75,7 +75,7 @@ The depth of the Resonance system lies in how these six elements interact on the
 
 The Esper Wheel is the UI element that dictates which elemental reactions are possible. The six elements—Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche—are arranged in a circular formation. Reactions generally occur between neighboring elements or specific "Trios."
 
-To trigger a Resonance reaction, you must fill a character's **Esper Meter**. This gauge fills as the active character performs actions
+To trigger a Resonance reaction, you must fill a character's **Esper Meter**. This gauge fills as the active character performs actions:
 *   **Normal Attacks:** Provide a steady, low-level gain.
 *   **Skills:** Offer a moderate burst of energy.
 *   **Ultimates:** Often refund a portion of the meter upon completion.
@@ -88,7 +88,7 @@ When an off-field character's portrait glows, their Esper Meter is full. Swappin
 Reactions are the primary way to deal massive "Break" damage to bosses. Understanding the specific effects of each combination allows you to tailor your team for specific encounters.
 
 #### Duo Reactions
-Duo reactions occur when you swap between two compatible elements. Key reactions include
+Duo reactions occur when you swap between two compatible elements. Key reactions include:
 
 *   **Blossom (Cosmos + Anima):** Creates a localized field that pulls enemies toward the center while dealing rapid multi-hit Anima damage. This is excellent for clearing waves of smaller enemies.
 *   **Scorch (Incantation + Chaos):** Triggers a volatile explosion that applies a "Corrupted Burn" status. This deals high initial damage and continues to eat away at the enemy's Stability bar over time.
@@ -121,7 +121,7 @@ Optimizing your gear (Arcs) to include Cycle Rate bonuses allows for faster "Qui
 
 Every elite enemy and boss in Hethereau has a white bar beneath their health, known as the **Stability Bar**. Standard attacks do very little to this bar. However, Resonance-driven damage—specifically Duo and Trio reactions—deals massive "Break" damage.
 
-When the Stability Bar is depleted, the enemy enters a **Stagger Window**. During this time
+When the Stability Bar is depleted, the enemy enters a **Stagger Window**. During this time:
 1.  The enemy is completely immobile.
 2.  All damage taken is increased by a multiplier (base [Information unavailable], but can be increased via specific Lakshana buffs).
 3.  The Esper Meter for all party members fills [Information unavailable]% faster.
@@ -130,7 +130,7 @@ The goal of any high-level rotation is to use your Duo reactions to "Break" the 
 
 ### Exploration Resonance
 
-Outside of combat, Resonance mechanics are used to navigate the open world of Hethereau. Each element provides a unique traversal or interaction ability
+Outside of combat, Resonance mechanics are used to navigate the open world of Hethereau. Each element provides a unique traversal or interaction ability:
 
 *   **Anima Resonance:** Allows characters to run up vertical surfaces or dash across water for a limited time.
 *   **Chaos Resonance:** Used to "copy" the abilities of certain urban anomalies, allowing you to solve puzzles by mimicking the environment.

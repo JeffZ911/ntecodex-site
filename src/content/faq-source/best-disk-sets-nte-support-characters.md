@@ -1,4 +1,4 @@
---
+---
 title: "Best Disk Sets for NTE Support Characters: Cartridge Guide"
 slug: best-disk-sets-nte-support-characters
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 2014
 published_at: "2026-05-23T06:07:08.722102+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz73rJn54kAC0_GFxai8uYqUDBo0SN8JRcdEuyF7UFQnRslVM4d-ulinWwV90NHnc5CTczpU-BCdMNlB-3B2C9tfGc82klFPmBaMoR24XFO31VJOSZx_RMAeVP2IrZMnyKvFW0Scdsm2SWCfqoLLDuhw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm_Z9Zyzg8PI7MSiapoVYf9k55V1LASEvzPlNsbI3zDQzxKoISQ8eSskSKs8G27vdP-0bgu-KZoPmn8WITtl_yX6RqOgEE0BsbL0ZgX7wyn7nqG5mcVAkeDQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_oSs1NnCt8c4yT01C0ml48ez-LHzNW6pUoQRtMt9IJrSw57mP0JMwkVR9a1AhX5SKU_VvHPcv0eK3QbELdwREyohds1T79uLEzbShhK0Oujut6DK9-Cw83bog53ne8e7LyB8x1b098IcF0IArbwAy5N_hePog6rALvVGPHK5culOFyzqdezY="
@@ -18,17 +18,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEokjfZh3B-d6O2Wdl9pZ3YDgvzAlR8VMWkvpgbSSAvLX2RUR2SIl8N6mY4bwjVsctPEuzdEKTko3qKepeWQBzkexNvnbRP1zHagXi2D4q9xTkiXBYr5lC4sNLy0LoPu3-eKwShbZL3LVRSSskaGJXvSkv1zmWj"
 game: unknown
 hero_image: /img/best-disk-sets-nte-support-characters/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-nte-support-characters/inline-1.webp
   - /img/best-disk-sets-nte-support-characters/inline-2.webp
   - /img/best-disk-sets-nte-support-characters/inline-3.webp
   - /img/best-disk-sets-nte-support-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 With the launch of Neverness to Everness (NTE) on April 29, 2026, players have quickly discovered that team damage is dictated less by raw stats and more by how effectively your support units can cycle their buffs.
 
@@ -92,7 +92,7 @@ Shadow Creed’s 25% ATK buff is massive but restricted to the wearer. This make
 ### Optimizing the Console: Modules and Tetris Shapes
 The Console system is where NTE gear complexity truly resides. Every character has a unique grid—a "Tetris" board—where you must fit Modules to activate your Cartridge. A standard S-Rank Cartridge requires four specific Module types (usually a mix of Type II, III, and IV) to activate its full 4-piece bonus.
 
-To optimize a support Console, you should aim for the following
+To optimize a support Console, you should aim for the following:
 1.  **Module Type Synergy:** Characters have "Console Bonuses" that trigger based on the *type* of modules installed. For example, Haniel gains a 10% ATK bonus for every Type III Module equipped.
 2.  **Stat Priority:** For the center Cartridge piece, always look for **Charge Efficiency** as the main stat. For the individual Modules, prioritize **Cycle Intensity** (which boosts reaction damage) and **Break Intensity** (which helps stun bosses).
 3.  **Shape Efficiency:** Use the "Rewind" system to gamble for Module shapes that take up the least amount of space (like 1x2 or 1x3 blocks) so you can fit more Modules into the grid beyond the four required for the set bonus.

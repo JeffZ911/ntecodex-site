@@ -1,4 +1,4 @@
---
+---
 title: Best Disks for Support in Neverness to Everness (NTE) Guide
 slug: best-disks-for-support-nte-20260523
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-for-support-nte-20260523/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-for-support-nte-20260523/inline-1.webp
   - /img/best-disks-for-support-nte-20260523/inline-2.webp
   - /img/best-disks-for-support-nte-20260523/inline-3.webp
   - /img/best-disks-for-support-nte-20260523/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your team’s performance in the supernatural urban sprawl of Hesperia requires more than just high-damage Arcs; you must master the Cartridge system to ensure your buffers and healers provide maximum utility. This guide breaks down the best support disks to equip on your team to dominate the current meta.
 
@@ -85,7 +85,7 @@ This set is specifically designed for characters whose utility scales with their
 
 ### Main Stat and Sub-stat Priority for Supports
 
-To optimize your support Cartridges, you must look for specific Main Stats on your Type II and Type IV Modules. The following priority list ensures your support functions efficiently
+To optimize your support Cartridges, you must look for specific Main Stats on your Type II and Type IV Modules. The following priority list ensures your support functions efficiently:
 
 1.  **Charge Efficiency (Type II Main Stat):** This is non-negotiable. If your support cannot use their Ultimate every rotation, your team damage will plummet.
 2.  **Cycle Intensity (Type IV Main Stat):** This stat determines how much damage your Esper Reactions (like "Shatter" or "Overload") deal. High Cycle Intensity on a support makes the entire team's elemental combos hit harder.
@@ -101,7 +101,7 @@ To optimize your support Cartridges, you must look for specific Main Stats on yo
 
 ### Understanding the Module System (Type II, III, IV)
 
-In the NTE Console UI, you will notice that you cannot simply equip four copies of the same "disk." Cartridges are categorized into Types
+In the NTE Console UI, you will notice that you cannot simply equip four copies of the same "disk." Cartridges are categorized into Types:
 *   **Type I:** Usually provides base flat stats (ATK/HP).
 *   **Type II:** The "Utility" slot where you find Charge Efficiency.
 *   **Type III:** The "Defensive" slot where you find DEF and HP percentages.

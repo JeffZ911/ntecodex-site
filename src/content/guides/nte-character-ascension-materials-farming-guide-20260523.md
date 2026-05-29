@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Ascension Materials Farming Guide: Nanally Build"
 slug: nte-character-ascension-materials-farming-guide-20260523
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-character-ascension-materials-farming-guide-20260523
 sources: []
 game: unknown
 hero_image: /img/nte-character-ascension-materials-farming-guide-20260523/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-1.webp
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-2.webp
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-3.webp
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-4.webp
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-5.webp
   - /img/nte-character-ascension-materials-farming-guide-20260523/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Dominating the urban battlefield of Hethereau requires a high-performance damage dealer, and [Nanally](/characters/nanally-guide-nte) currently stands at the top of the 1.0 meta. 
 
@@ -109,7 +109,7 @@ Street Boxer is a strong alternative for players who are focusing on a raw Basic
 
 ### Console and Module Stat Priorities
 
-When farming Disks, you must look for specific main stats on each piece
+When farming Disks, you must look for specific main stats on each piece:
 *   **Cartridge:** Anima DMG% (This is non-negotiable for her damage scaling).
 *   **Console:** Crit Rate or Crit DMG (Use Crit Rate until you hit 60%, then swap to Crit DMG).
 *   **Module:** ATK% (Provides the baseline for her summon's damage).
@@ -125,14 +125,14 @@ Nanally shines brightest when paired with characters who can trigger powerful el
 
 ### The 'Hyper Nanally' Meta Team
 
-The most effective team for Nanally consists of Nanally (Main DPS), Jiuyuan (Healer/Anima), Zero (Cosmos/Sub-DPS), and [Sakiri](/characters/sakiri-nte-free-5-star-guide) (Incantation/Support). This team focuses on two primary reactions
+The most effective team for Nanally consists of Nanally (Main DPS), Jiuyuan (Healer/Anima), Zero (Cosmos/Sub-DPS), and [Sakiri](/characters/sakiri-nte-free-5-star-guide) (Incantation/Support). This team focuses on two primary reactions:
 
 *   **The Blossom Reaction:** Triggered by combining Anima and Cosmos. This creates auto-attacking entities on the field that scale directly with Nanally's hit count. With Zero providing constant Cosmos application, the field becomes crowded with additional damage sources.
 *   **The Hexed Reaction:** Triggered by Anima and Incantation. This reaction replicates a portion of Nanally's damage in an area of effect, making it the premier choice for clearing waves of smaller enemies. Sakiri is the best enabler for this, as her kit also provides grouping capabilities.
 
 ### F2P Friendly Team Variations
 
-For players without a full roster of S-Rank characters, a highly effective F2P team includes
+For players without a full roster of S-Rank characters, a highly effective F2P team includes:
 1.  **Nanally** (Main DPS)
 2.  **Mint** (Anima Support/Healer)
 3.  **Zero** (Cosmos Sub-DPS - often available through early game rewards/selectors)

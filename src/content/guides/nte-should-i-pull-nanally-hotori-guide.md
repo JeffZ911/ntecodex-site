@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness: Should You Pull Nanally or Wait for Hotori?"
 game: nte
 slug: nte-should-i-pull-nanally-hotori-guide
@@ -7,7 +7,7 @@ qa_score: 8.3
 word_count: 1657
 published_at: "2026-05-10T15:04:16.057305+00:00"
 published_url: /guides/nte-should-i-pull-nanally-hotori-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsKwDQEHLxliCPoSI5BQW4kGJk5giHxTQ9SqrkC_drHY3vvJjf8QElbk8_oxAMSmoEPBk2dwm-onL8UMZ7mDuycEfpddRu1CI6dy525fgTk7d66XBfd6QA9axS6kcLOkD4aCXEuOl6RX3mItrVEHJodJQV4JMbbzv1EK-LvjljrQfNx7ddLVLjQAlai3KSbFIKjPaRBb33hi0iLK2L-yMEaj0ajptF8igo"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTh7anNRwCZApXRq9IDp0GZqZ8T1Hr_mY2QLC-lXLEjSXPJEVtieFjIXfDXpoxLskvNt3vs5TUqOPcRyrviRZmc38nv4SlWLBiotRdrhxz5SxRMu-MS_tONZa7-x_dHGBcE5q2Zd0gXwFA0Uza-A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfLRj1IvyhBbwzGzBTx0wkkIaF8D7XtET87BElJLdrqZXNXc8Jv1srWkA1vC3rkBI5h8a0vbiihhvUyNDZ1P6EHhrZ4ii7EZct68vVhXScnh6RNQaO0vzNTmPc067t2gvz3K_oRcHK-3veLkVFe2y0uJUGMRlkZYgjPQ1FIvCawXg="
@@ -31,17 +31,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0XCyfdzr0Xsg8EubQ7T4JM44_aKMn7RDuTosJz2-i5L2rOe1Kkp0wmP_dxragsLeeLobXTEll2i-WeRUtJfS-c5fnKFlGTLmUK6BoHhPOoej45ofRDamHQTSj6Nb0pm0tR3a6UAyybMr7fIBnO8yxWkonWowx-0iMSxd_"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4aW3g1eKBOCKynjHlE2s6EzqY4k_rvSQAZKGBa5wrgn3Mw5CULLSyba0DdaPfbrmyJRuoALii6CDOrefXxSocYljCQ7rQb1Xue8DVsNJtWqR01qOQehCGauFEdWoaRlDGqIChf0yRc3cvqsDrfj6JyVHCVSsQMIewfXMbGM931NRsseRexsZGUg=="
 hero_image: /img/nte-should-i-pull-nanally-hotori-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-1.webp
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-2.webp
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-3.webp
   - /img/nte-should-i-pull-nanally-hotori-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 With the supernatural streets of Hethereau finally open to the public, the first major dilemma for every anomaly investigator has arrived: do you spend your hard-earned Solid Dice on the current limited banner or save them for the next update? 
 
@@ -54,7 +54,7 @@ Deciding how to allocate your resources in the early days of a gacha game can de
 ![TL;DR Verdict](/img/nte-should-i-pull-nanally-hotori-guide/inline-1.webp)
 
 
-If you are looking for a quick answer, here is the breakdown of the launch meta decisions
+If you are looking for a quick answer, here is the breakdown of the launch meta decisions:
 
 *   **Nanally** is the premier Main DPS for the launch meta, offering high mobility and Plasma-element Anima damage. She is the best choice for players who want to dominate early-game combat and world exploration immediately.
 *   **Hotori** (releasing May 13, 2026) provides superior crowd control and Cosmos-element utility, making her a more versatile long-term investment for complex boss mechanics.
@@ -108,7 +108,7 @@ Nanally is arguably the best character for clearing the "Tiger Special" Arc Rese
 Releasing on May 13, 2026, Hotori represents the "Cosmos" faction. Where Nanally is about raw speed and aggression, Hotori is about tactical manipulation.
 
 *   **Non-Closed Timepiece:** Hotori’s unique mechanic is a gauge that builds energy over time up to 120. She doesn't need to be on the field to charge this, making her an elite Sub-DPS.
-*   **Present Replay:** Her skill, **Present Replay**, records the Support and Redirect skills used by your other teammates for 5 seconds. 
+*   **Present Replay:** Her skill, **Present Replay**, records the Support and Redirect skills used by your other teammates for 5 seconds.
 *   **World's Tide (Ultimate):** This is the game-changer. Hotori stops time for a period, preventing enemies (and even the mission timer) from moving. During this window, she replays every recorded skill from her teammates simultaneously. This creates a "burst window" that can delete boss health bars instantly.
 
 Hotori is likely to have more "staying power" in the meta because time-stop mechanics are historically difficult to power-creep in ARPGs.
@@ -121,7 +121,7 @@ Unlike other major gacha games where you have a 50% chance to lose your featured
 Furthermore, the **Board Modification** mechanic (soft pity) kicks in at 70 pulls. At this point, the board visually reconfigures, replacing standard "Hero Chests" with "Journey Together" tiles. This jumps your S-Rank rate from a base 1.87% to a staggering **19.59%**. Because this progress carries over between banners, you can safely pull for Nanally now; if you don't get her within 60 pulls, those 60 pulls will count toward an immediate "Board Modification" for Hotori on May 13.
 
 ### A-Rank Value: Are Edgar, Mint, and Adler Worth It?
-The A-Rank characters featured on Nanally's banner are surprisingly high-tier
+The A-Rank characters featured on Nanally's banner are surprisingly high-tier:
 *   **Mint (Anima):** A whirlwind specialist who provides excellent grouping. She is the perfect partner for Nanally, as she can suck enemies into a tight pack for Nanally’s AoE Plasma kicks.
 *   **Adler (Incantation):** The "Golden Edge Butler." He uses a Karma mechanic to provide shields to the team. In the early game where players are still learning boss patterns, Adler’s **Blessing Shield** is a literal lifesaver.
 *   **Edgar (Cosmos):** Provides essential elemental coverage for Cosmos-weak anomalies found in the later stages of Hethereau.

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Stamina Management Guide: Best Mint Build & Tips"
 slug: nte-stamina-management-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1861
 published_at: "2026-05-20T20:07:35.126851+00:00"
 published_url: /guides/nte-stamina-management-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWhUXdFqBWVQrEr6ef6UAKbNHv_XZCvAKk58HrZY8gJkC6rcM7uOEpPvyqprIotxgT6xrmt7i84QTUaBxM7Y_s8Ime76OKmlCx9gBqdIuwuh20o-UBQTJDnt0glea1qj7Tl2fZr1VQF0v8nBBB312PEf6UN3cosim1bcVLXIpLqM6UF1cJwvu0NUZjXCJiOV3zmi_LZd0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWlYwi64VIsGxvOWKuw-mSwHCmvu4HbemBkJfXY32zeN9dcUKfNdvrtUG6cRc0KxIc9Vk0v7syXxS-RpSWCtRLrqPippIBi88lJiQqdp2XJaO-nGVtUDEnp0QM1cdlWahUeEXIPiO_ZWe5Nq1QMITMHag4nEdf2fG8zZnsWiz6SQIXYrk-h4qGhSQEiOrOqzMrq1lsy4F52D9miOC1dI1ulT0bQnIlpCjgi_OG0LBT0qDDT15NQGs42KQwFn_JtyBBw-M2sp6ioFLsMueapntQtPhEmL8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfG0aWgudDY9aclIvJWSwr8lu3NB9GG5gAmurGy6zqOtZaJ4gpn4gP30mmPIiNSQ_yRNEPdwjDMzqr0psjngDE6dEohAYuS505PE49j7t8u0TOqo0KFSy9dft1Tpd2ZTfF2V1fVS38tyhFB1OSFTHy60n_L9BKPKXbWJsoYR7bsYUXP2j28hy1YWxc1uo="
@@ -27,21 +27,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-rQah_pMLVuFv-GHgaj6qTUdnl5oyKcqEImM4hFDy0ZUuVrlHQcFi8cfdNALfPJTuHFA_eLdtSrwuiMc3PsIPhJfFXwGPPUQgZezWNO7S_TVfpB8wpXur5osEUC_-Oqfof9nBrYh1RI3gT0KY"
 game: unknown
 hero_image: /img/nte-stamina-management-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-stamina-management-guide/inline-1.webp
   - /img/nte-stamina-management-guide/inline-2.webp
   - /img/nte-stamina-management-guide/inline-3.webp
   - /img/nte-stamina-management-guide/inline-4.webp
   - /img/nte-stamina-management-guide/inline-5.webp
   - /img/nte-stamina-management-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Efficiently managing your resources is the difference between a stalled account and a high-tier endgame roster in the urban open world of Hethereau. This NTE stamina management guide breaks down the dual-energy economy and provides the definitive Mint build to dominate Version 1.0 content.
 
@@ -99,7 +99,7 @@ Another viable option is **Shiny Days**, which focuses on **Break Intensity**. T
 
 ### Weapon Stat Priority
 
-When leveling and tuning your Arcs, prioritize the following attributes to maximize Mint's output
+When leveling and tuning your Arcs, prioritize the following attributes to maximize Mint's output:
 1.  **CRIT Rate:** Essential for triggering "Caramel Crisp" ripostes.
 2.  **Anima DMG%:** Direct multiplier for her entire kit.
 3.  **ATK%:** Scales her high base attack values.
@@ -184,9 +184,9 @@ To maximize Mint's damage, you must follow a strict rotation that ensures all te
 ### Stamina Management in Combat
 
 Once the field is set, swap to **Mint**. 
-*   Immediately use her Skill, **Overdrive: Super Claw**, to dash through the enemy pack. 
+*   Immediately use her Skill, **Overdrive: Super Claw**, to dash through the enemy pack.
 *   If an enemy attacks, perform a **Perfect Dodge**. This triggers her "Caramel Crisp" riposte, which instantly resets the cooldown of "Super Claw."
-*   After the second Skill use, **Hold Basic Attack** to enter the Minty Whirlwind. 
+*   After the second Skill use, **Hold Basic Attack** to enter the Minty Whirlwind.
 *   Stay in this state until your stamina bar is nearly empty. Do not let it reach zero, or Mint will enter a "Fatigued" animation that leaves her vulnerable for 2 seconds.
 
 ### Maximizing Ultimate Damage

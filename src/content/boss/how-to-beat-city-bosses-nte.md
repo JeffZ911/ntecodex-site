@@ -1,4 +1,4 @@
---
+---
 title: "How to Beat City Bosses in Neverness to Everness: Full Guide"
 slug: how-to-beat-city-bosses-nte
 article_type: boss_guide
@@ -9,17 +9,17 @@ published_url: /boss/how-to-beat-city-bosses-nte
 sources: []
 game: unknown
 hero_image: /img/how-to-beat-city-bosses-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-city-bosses-nte/inline-1.webp
   - /img/how-to-beat-city-bosses-nte/inline-2.webp
   - /img/how-to-beat-city-bosses-nte/inline-3.webp
   - /img/how-to-beat-city-bosses-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
---
+---
 
 Conquering the supernatural anomalies within Hethereau City requires a deep understanding of the Break system and specific elemental counters. This guide provides the tactical data necessary to defeat the high-level city bosses currently roaming the districts of Neverness to Everness.
 

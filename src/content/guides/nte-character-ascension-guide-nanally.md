@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Ascension Guide: Best Nanally Build & Materials"
 slug: nte-character-ascension-guide-nanally
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-character-ascension-guide-nanally
 sources: []
 game: unknown
 hero_image: /img/nte-character-ascension-guide-nanally/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-ascension-guide-nanally/inline-1.webp
   - /img/nte-character-ascension-guide-nanally/inline-2.webp
   - /img/nte-character-ascension-guide-nanally/inline-3.webp
   - /img/nte-character-ascension-guide-nanally/inline-4.webp
   - /img/nte-character-ascension-guide-nanally/inline-5.webp
   - /img/nte-character-ascension-guide-nanally/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Scaling your characters effectively in Neverness to Everness requires a deep understanding of the Ascension system and the specific material requirements for high-tier Espers. This guide focuses on maximizing [Nanally](/characters/nanally-guide-nte), the premier S-Class DPS currently dominating the version 1.0 meta.
 
@@ -64,7 +64,7 @@ When building Nanally, the priority is balancing her CRIT Rate with Anima DMG bo
 3. **ATK%:** While important, ATK% has diminishing returns compared to the raw multiplier provided by Anima DMG.
 4. **CRIT DMG:** Once your CRIT Rate is stable, stack CRIT DMG to capitalize on the "Ichi-daime's Authority" buffs.
 
-Nanally’s base stats at Level 80 (Ascension Tier 6) reflect her glass-cannon nature
+Nanally’s base stats at Level 80 (Ascension Tier 6) reflect her glass-cannon nature:
 
 | Stat | Base Value (Lvl 80) | Ascension Materials Required |
 | :--- | :--- | :--- |
@@ -113,7 +113,7 @@ The gear system in NTE is managed through the "Console," which consists of Cartr
 
 The "Fireflies and the Forest" 4-piece set is the mandatory endgame choice for Nanally. 
 *   **2-Piece Bonus:** Increases Anima DMG by 10%.
-*   **4-Piece Bonus:** When the character deals Anima DMG, they gain a stack of "Luminescent Drift." Each stack increases CRIT DMG by 7%, stacking up to 8 times (56% total). 
+*   **4-Piece Bonus:** When the character deals Anima DMG, they gain a stack of "Luminescent Drift." Each stack increases CRIT DMG by 7%, stacking up to 8 times (56% total).
 
 Because Nanally deals multi-hit Anima damage through her Underboss, she can reach maximum stacks within the first three seconds of her burst rotation.
 
@@ -128,7 +128,7 @@ The Console layout allows for the insertion of Modules. Nanally benefits most fr
 
 ### Recommended Substat Thresholds
 
-To clear high-level content like the endgame "Peril Hunts," aim for these statistics on your Nanally build
+To clear high-level content like the endgame "Peril Hunts," aim for these statistics on your Nanally build:
 *   **Total ATK:** 2,200+
 *   **CRIT Rate:** 75% - 85%
 *   **CRIT DMG:** 160%+
@@ -156,7 +156,7 @@ While Sakiri is the top-tier support for her raw ATK buffs, Haniel is a viable a
 
 ### F2P-Friendly Team Options
 
-If you are a free-to-play player and do not have the full S-Class roster, this team provides excellent synergy
+If you are a free-to-play player and do not have the full S-Class roster, this team provides excellent synergy:
 *   **Nanally** (Main DPS)
 *   **Esper Zero** (Cosmos Sub-DPS - obtained via story)
 *   **Haniel** (Support/Healer)
@@ -177,13 +177,13 @@ To achieve maximum DPS, you must follow a specific skill priority that ensures a
 
 ### Burst Window: Underboss Summoning
 
-Once the setup is complete, swap to Nanally to begin the damage phase
+Once the setup is complete, swap to Nanally to begin the damage phase:
 1.  **Cast Skill (Colucci Howling Technique):** This allows Nanally to enter the "Ichi-daime's Authority" state, granting her an immediate CRIT DMG buff.
 2.  **Cast Ultimate (Colucci Ultimate Technique):** This summons the Underboss. The Underboss will remain active for 6 seconds, performing follow-up attacks on every critical hit.
 
 ### Sustained DPS: The Charged Attack Loop
 
-During the 6 seconds the Underboss is active, use the following attack string
+During the 6 seconds the Underboss is active, use the following attack string:
 *   **3 Standard Basic Attacks**
 *   **3 Charged Attacks (Hold)**
 

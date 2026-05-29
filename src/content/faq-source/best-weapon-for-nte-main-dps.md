@@ -1,4 +1,4 @@
---
+---
 title: "Best Weapon for NTE Main DPS: Tier List & Guide (May 2026)"
 slug: best-weapon-for-nte-main-dps
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1726
 published_at: "2026-05-24T07:58:35.695700+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBSghl8iKCs9-Tuh09byzz2GW0ui9uvKLV_AwPOc3wu7VYcCmMzCInsdx0nLKDDxJptHo1MC8rYxzE0XagZG8fG7GCVa3rGh627jIeVZF7uczIHk_8U9XsMz0MZG96bazjd5NXSCI2aFikVQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-hGZvN8L8_Cxy95Rl8YqkKIY-ZQ9ccto9cZaNwhsH_fZka_JV5V5YMIqiv6jGipx0_DBbxDmt88fIqZ8MCiJqh0BT9uiKbwZ2V04e0PckkUUCnvdYZrwp0g="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZrR6qhA2ouTrNliwSkNi5zHlEysIV4jGcnmUnnyZocP_3jBNcyvQait7GSPDA7IBZRyvpOiLfHfh6oQ72Dr9ikxtyvR0_V8_b_r8rM8aUKir5BHyO4pQB2Q=="
@@ -26,17 +26,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-0TGkKLtp0B_OzyosAUnD5FC5yjDNGIIpEOY-SBOOn-lHfyzk5M5t8h7syA3AbrQ8XPyWjLfYdPsdX8VDGELQvi6zvVLk2vKNpsROdS-rPR-sYu8PeyVtUgc="
 game: unknown
 hero_image: /img/best-weapon-for-nte-main-dps/hero.webp
-inline_images
+inline_images:
   - /img/best-weapon-for-nte-main-dps/inline-1.webp
   - /img/best-weapon-for-nte-main-dps/inline-2.webp
   - /img/best-weapon-for-nte-main-dps/inline-3.webp
   - /img/best-weapon-for-nte-main-dps/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Selecting the right equipment for your primary damage dealer is the most significant factor in clearing high-level Anomalies and dominating the Hethereau skyline.
 
@@ -60,7 +60,7 @@ The answer depends on your character's Arc Type (Plasma, Solid, Gas, Liquid, or 
 ![Direct Answer](/img/best-weapon-for-nte-main-dps/inline-2.webp)
 
 
-The current meta for Neverness to Everness Main DPS characters is defined by three standout S-rank Arcs
+The current meta for Neverness to Everness Main DPS characters is defined by three standout S-rank Arcs:
 
 *   **Best Overall (Solid Type):** **Marching Beyond Time** is the premier choice for Solid-type DPS characters like [Hotori](/characters/hotori-best-team-nte). It offers a high CRIT Rate substat and the "Wastelab" passive, which stacks ATK and Ultimate CRIT DMG based on the frequency of Redirect and Support Skills.
 *   **Best Sustained DPS (Liquid Type):** **Fluff of Fleetness** is the unrivaled choice for Liquid-type "selfish" damage dealers like Mint. It provides a massive 44% CRIT DMG substat and an ATK buff that scales the longer the character stays on the field, reaching its peak after 5 seconds.
@@ -84,7 +84,7 @@ The combat system in Neverness to Everness revolves around the "Arc" system. Unl
 
 ### The 5 Arc Types and Their Roles
 
-Each Arc Type generally follows a specific combat philosophy
+Each Arc Type generally follows a specific combat philosophy:
 1.  **Plasma:** Primarily offensive, focusing on high-frequency attacks, burst damage, and boss-killing multipliers.
 2.  **Solid:** Balanced types that often incorporate "Redirect" mechanics, defensive ignore, or summon-based utility.
 3.  **Gas:** Often utility-heavy, focusing on Charge Efficiency, energy restoration, and team-wide ATK buffs.
@@ -120,7 +120,7 @@ Choosing the right Arc for your specific Esper is the difference between struggl
 
 ### A-Rank and F2P Alternatives for Beginners
 
-Not every player will have a full roster of S-rank Arcs early on. Fortunately, several A-rank options provide excellent value
+Not every player will have a full roster of S-rank Arcs early on. Fortunately, several A-rank options provide excellent value:
 
 *   **Clear Skies (A-Rank, Liquid):** A fantastic free option for Mint or other Liquid DPS users, offering reliable ATK boosts and energy restoration.
 *   **Mind Royale (A-Rank, Syringe/Liquid):** While technically listed as a "Syringe" in some databases, it functions as a Liquid-type Arc that provides high base ATK and increases "Break Intensity," allowing you to shatter enemy shields faster.
@@ -143,7 +143,7 @@ Maximizing your Main DPS involves more than just the weapon; you must also consi
 
 ### Esper Cycle and Elemental Synergy
 
-The **Esper Cycle** is the core reaction system in Neverness to Everness. Switching between characters of adjacent attributes triggers powerful effects
+The **Esper Cycle** is the core reaction system in Neverness to Everness. Switching between characters of adjacent attributes triggers powerful effects:
 *   **Blossom:** Triggered by combining Anima and Cosmos. This reaction deals massive area-of-effect damage and is currently the strongest meta for Nanally-led teams.
 *   **Hexed:** Triggered by Incantation and Anima. This reduces enemy resistance to elemental damage.
 *   **Charged:** Triggered by Cosmos and Lakshana. This generates massive amounts of energy, allowing for frequent Ultimate usage.
@@ -152,14 +152,14 @@ Matching your Arc's passive to these cycles—such as using an Arc that boosts d
 
 ### Best Cartridge Sets for Main DPS
 
-Arcs should be paired with the correct **Cartridges** (NTE's version of gear sets) to maximize efficiency
+Arcs should be paired with the correct **Cartridges** (NTE's version of gear sets) to maximize efficiency:
 *   **[Information not yet publicly available as of 2026-05-24] Set:** Often used with Marching Beyond Time to further stack CRIT DMG.
 *   **"Fireflies and the Forest" (Speculative):** Many players pair Liquid Arcs with sets that boost Elemental DMG or provide shields during long on-field durations.
 *   **Module Synergy:** Equipping "Type III Modules" in your character's console can increase the effectiveness of certain Arcs by up to 8% per module.
 
 ### Where to Farm High-Rank Arcs
 
-While many S-rank Arcs are found in the **Scarborough Fair** gacha (specifically the "Bright Moon Special" or "The Ichi-daime" banners), others can be earned through gameplay
+While many S-rank Arcs are found in the **Scarborough Fair** gacha (specifically the "Bright Moon Special" or "The Ichi-daime" banners), others can be earned through gameplay:
 *   **Raging Flames:** Dropped by the **Headless Rider** boss. You must encounter this boss at Fox Window Street at night (around 20:00) to trigger the fight.
 *   **Song of the Whale:** Earned by completing the **"Deep Blue Sorrow"** Anomaly Commission and defeating the Sea Prisoner.
 *   **City Tycoon Hunter Exchange:** High-level players can trade "Anomaly Shards" for specific A-rank and S-rank Arcs in the Hunter Exchange shop.

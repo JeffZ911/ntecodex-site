@@ -1,4 +1,4 @@
---
+---
 title: "Best F2P Team Comps in Neverness to Everness: Tier List (2026)"
 slug: best-f2p-team-comps-nte-tier-list
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.9
 word_count: 2068
 published_at: "2026-05-15T19:19:54.772344+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6r3N-jE89r8iSKsmMRqIXf6gUG5JPgH14NPfja17zNGsMVZYC-k4ZBVumqZ-maSELC2ABkmjbbbswym3M8VrMCitbTmfedgmgLiY3ogBCVFuiDkMVeEF2AdxldD3XJ23leSH6Yp3lJ3H3i2V_l98XMUIweY85hw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuGfH9BdPg0Xz7_TTifQTrUnXN-iJgnR1PtQgrDE-MiMvwwidtTnHlwUGN0gP70DxouEC_NZ50xkPhrVCACB4DdBz0fefSbx2yNsBFaNmioyIYfjEH_DS4LXvdxNx3QjxywI-2T5jgHcdTHDEO00IKyM7BN05WJkbIKMyKnWqWqFBTZVGQVQht9m8Zh4PzJLR95NE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqqJOogfTTqWQo9FHjeIgUDhaDV_-Y4qmpYVXAFuC1K-NYsoBDCjO0guxfOAx4JJ3ExvEp5JVgcGVQJcVEugg7ggDhEUuithgc_kpjdjYY2ElrYh5RuQR-h1E="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPps21ZAjqQo_NKuTfHhRsmxFbKkOYAqiGmColGCfWs0PVf6hXVvCACRkreaevZORZt9JQJKXQynigOiZoOfkfGNcGjzFtew_IhqzZgai7be3mGwYKMrS6AK4PZOl8pz2Ti5NX4O4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPVV_K0UkwV7S4xaYbXakX2SepjEDxdAWv-Fp0AEt8LYA7YlykMpDoom2GhL5tJ3uNuN20DO2JwoC049FZyf6H7XX4NKX2w8dmQ2CmNZrXhNy5uObDX34PGAjW2YbZFuJlSzrjVUGvf_DEE3TrR1a6S7iNjMlJ"
 hero_image: /img/best-f2p-team-comps-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-f2p-team-comps-nte-tier-list/inline-1.webp
   - /img/best-f2p-team-comps-nte-tier-list/inline-2.webp
   - /img/best-f2p-team-comps-nte-tier-list/inline-3.webp
   - /img/best-f2p-team-comps-nte-tier-list/inline-4.webp
   - /img/best-f2p-team-comps-nte-tier-list/inline-5.webp
   - /img/best-f2p-team-comps-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Navigating the neon-drenched streets of Hethereau requires more than just a fast car; you need a team of Espers that can handle the city's most dangerous Anomalies without breaking the bank.
 

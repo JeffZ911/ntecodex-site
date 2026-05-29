@@ -1,4 +1,4 @@
---
+---
 title: Best Disk Sets for Healers in Neverness to Everness (NTE)
 slug: best-disk-sets-nte-healers
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1590
 published_at: "2026-05-17T11:05:49.332028+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF78C8kFE2V9i5aZMlXyvAt1HQSKFDSc99EHQlFsGT-f3r7vWjf3gYkNIBtBvVsGHibH0FQWWAp9PfeW_Ro7GQ9ROXEzRsCzEKlUaWjrg1bqCA5gIJvgwtidVRlgqHuoZd7S6QaVbfn"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiBOshx7Azw4Zaq5_vkoMRCj8qk24FRxXeDnbEL220Po3K48bOrtmen0C8csXcVQykd0Zqp_ytjI1gSxGG2V42TKodXHA-QjCfR7cl4hYBTK9J9JKEFcvju3GIZkSt6QSGho-nV1k="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-BQSqQduc7p7qeJycTxu-J84UpeFg25Raj8WYDxwJNLF5RxcVj3Zi0qmuy595IaI5KxfB5ZB0QvWwvSbwRypGijCzUG9EKhuYwsV3sGjlnWZ8GQ6YZZYhgZMol_Ri2AqrYJDtoQjXoMtS3grZ_ZOWEq8RuzysrYl5YHr7KB029kW0PQ=="
@@ -24,17 +24,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhO04viCsq7NCZ8Avj2gHBTNISbksYOUPkaKXTnWRvgBfd_SwMB-YFSTK6ix_ibezMkA3aadtHh0me-HxU9M6rirvS7mwD4bvwuP8uKCIYzvCc894eSFzGGSVEyYn4X9GeVLcVd2CPhR-Cp8bMiZKkg6IJ9kMZuUcT3Qh2cQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfAJxfhjeKhqdpf8gBfN6CDswsq3AhMUcpDrbWHlQ1IdZyyBiJD5FlowblRJTfWw9pr0RSUKCqp-sGbaBg7D-Fyh9FbzA4KML0FtyXVibnAsszpz44atd7HTbX6w_1Zf7CXOnvVexUpkiz54nnp46-wVPnffeveighcRjaMqa8JDQ="
 hero_image: /img/best-disk-sets-nte-healers/hero.webp
-inline_images
+inline_images:
   - /img/best-disk-sets-nte-healers/inline-1.webp
   - /img/best-disk-sets-nte-healers/inline-2.webp
   - /img/best-disk-sets-nte-healers/inline-3.webp
   - /img/best-disk-sets-nte-healers/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Keeping your team alive in the supernatural urban sprawl of Hethereau requires more than just high damage; it demands a finely-tuned Console setup for your Survival Espers.
 
@@ -65,7 +65,7 @@ The most effective Disk Set for maximizing pure healing output is **The Knight's
 
 Character-specific "Best in Slot" (BiS) recommendations vary based on scaling. **Tiny Big Adventure** is the undisputed top choice for Fadia because it scales with her massive Max HP pool. For Edgar, both **The Knight's Tavern** (for healing) and **Speedy Hedgehog** (for team buffs) are viable depending on your team's needs.
 
-When optimizing healer Modules, you should prioritize the following stats
+When optimizing healer Modules, you should prioritize the following stats:
 *   **Main Stats:** Healing Bonus, Max HP%, or ATK% (depending on scaling).
 *   **Sub-stats:** Charge Efficiency (Energy Recharge), Max HP, and Universal DMG Bonus.
 
@@ -125,7 +125,7 @@ For dedicated healers, the **Healing Bonus** main stat on a Cartridge is almost 
 Note: Jiuyuan requires her A2 (Intel Turns Into Blades) or a second copy to function effectively as a team healer. Without this, she remains a pure burst DPS.
 
 ### Secondary Support Sets
-While not primary healing sets, two other Cartridges are worth noting for specific support builds
+While not primary healing sets, two other Cartridges are worth noting for specific support builds:
 *   **Shadow Creed:** Offers a 25% ATK self-buff after triggering a Redirect Skill. This is excellent for healers who also act as secondary damage dealers.
 *   **Kingdom's Guard:** Provides a 20% Shield strength bonus. This is the BiS set for Adler, who protects the team through damage absorption rather than direct HP restoration.
 
@@ -144,7 +144,7 @@ To obtain high-rarity (S-Rank) Cartridges like The Knight's Tavern or Tiny Big A
 *   **Rewards:** In addition to Cartridges, you will earn Carrota and upgrade materials necessary for leveling your Console.
 
 ### Alternative Healing Methods
-If you find yourself without a dedicated healer in your party, NTE provides several out-of-combat recovery options
+If you find yourself without a dedicated healer in your party, NTE provides several out-of-combat recovery options:
 *   **ReroRero Phone Booths:** These act as fast travel points and automatically restore the entire team's HP when approached.
 *   **Wertheimer Towers:** Similar to phone booths, these towers provide full team healing and serve as landmarks throughout Hethereau.
 *   **Food Items:** You can assign healing food to your shortcut menu to restore HP mid-combat.

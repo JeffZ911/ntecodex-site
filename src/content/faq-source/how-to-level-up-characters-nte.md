@@ -1,4 +1,4 @@
---
+---
 title: "How to Level Up Characters in Neverness to Everness: NTE Guide"
 slug: how-to-level-up-characters-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T22:48:07.786990+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-level-up-characters-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-level-up-characters-nte/inline-1.webp
   - /img/how-to-level-up-characters-nte/inline-2.webp
   - /img/how-to-level-up-characters-nte/inline-3.webp
   - /img/how-to-level-up-characters-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing the combat potential of your Espers in Hethereau City requires a deep understanding of the multi-layered progression systems introduced in Neverness to Everness.
 
@@ -69,7 +69,7 @@ Beetle Coins are consumed for every point of EXP gained. At lower levels, the co
 
 Once an Esper reaches their current maximum level (such as 20, 40, or 50), they hit a "Cap." To continue leveling, you must perform an Ascension. Each Ascension increases the base stats of the character significantly and unlocks new tiers for their Abilities.
 
-Ascension requires three types of materials
+Ascension requires three types of materials:
 1.  **Boss Materials:** Dropped by Major Anomalies in the open world or within specific instances. For example, [Nanally](/characters/nanally-guide-nte) requires drops from the "Phantom of the Opera" anomaly.
 2.  **Regional Specialties:** Items gathered in the streets of Hethereau, such as "Neon Flora" or "Discarded Circuits."
 3.  **Enemy Drops:** Common materials obtained by defeating standard urban thugs or minor anomalies.
@@ -119,7 +119,7 @@ Higher Life Skill levels improve the "Esper Cycle," which is a passive buff syst
 
 ### Best Farming Locations for Leveling Materials
 
-To level up efficiently, you must spend your Character Pixels on the right activities. The following locations are the most efficient for gathering resources
+To level up efficiently, you must spend your Character Pixels on the right activities. The following locations are the most efficient for gathering resources:
 
 1.  **Houdinii’s Magic Stage:** This is the primary source for Hunter Guides and Beetle Coins. It features multiple difficulty tiers that unlock as your Appraisal Level rises.
 2.  **Rabbit Hole Anomaly Zones:** These function as the "Artifact" or "Module" domains but also provide significant Esper EXP and Ability Scripts.
@@ -150,7 +150,7 @@ Upgrading Modules requires "Module Data" and Beetle Coins. This system becomes t
 
 ### Daily Checklist for Efficient Progression
 
-To ensure you never fall behind the Appraisal Level curve, follow this daily routine
+To ensure you never fall behind the Appraisal Level curve, follow this daily routine:
 1.  **Spend Pixels:** Never let your Character Pixels cap at 180/180. If you are short on time, dump them into Houdinii’s Magic Stage for Hunter Guides.
 2.  **City Commissions:** Complete the four daily urban requests for a large chunk of Hunter EXP.
 3.  **Business Check-in:** Collect passive income from your City Tycoon properties to fund your Beetle Coin needs.

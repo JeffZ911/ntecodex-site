@@ -1,4 +1,4 @@
---
+---
 title: "How to Beat Iron Sentinel in Neverness to Everness: Boss Guide"
 slug: how-to-beat-iron-sentinel-nte-20260520-e935
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1558
 published_at: "2026-05-20T21:57:38.796711+00:00"
 published_url: /boss/how-to-beat-iron-sentinel-nte-20260520-e935
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN679_MDJMjLeMjStBcguMfokXTHJ0kk3IpJBVVkiDKzqGC-NaVgxwu9h7T2xIysCdTIGC924zX3s-nZiJIr6YMFfVQfQCwWSNttbVrHjgDcSgWmqhQuyRTKatknhqOCYQxackg18JNLYg5ZeN8Q7WFMIF1-8_4A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhoLYWaptz4_6utfNbEgX4fYdD_jK0bNVTZFCpHsy0bcPjynoVeKONsH75XPMWfXOEbk6Nz2VyFnHZJjJu5Rgbmiwp4U1onFgZB-jIoJE95iEKuqp-9Iyu6H2Da4jTDPPB4C2YDXByCCkWY4VPCMXx2iQgZtCI"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh5PkMLJ8e11sLEiQtWwznCsSTKhq2YpKycUb0Wq8FHD-ZHQNb2BvO0AyaolTP7Z_b6LmLSY19AHCWbr7djb3cBCasOu3eJZe2auxK-wG3OwrR0TdcXWQdOpUIC7WuBK1HFGZAKjqbRBHgoJLAFI-m_0FEQiPLv-2gtatJTFbOGa-_I1Sbu5JR6tGy"
@@ -21,19 +21,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6O0sUyBsJUTVEWWbxYse6cCd8Vj0UGZ-ctt3QWeZyXKDgnNQ7xqsZORrooavCcWVUvLVieeJJgjwqG2yK7Xuryk5D-7kDFNa18772UwovYBYnV-LF78j_AjMH1zNX6nHPmkmcFxO-hYJQ-_V_AQC9U2QhToA="
 game: unknown
 hero_image: /img/how-to-beat-iron-sentinel-nte-20260520-e935/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-iron-sentinel-nte-20260520-e935/inline-1.webp
   - /img/how-to-beat-iron-sentinel-nte-20260520-e935/inline-2.webp
   - /img/how-to-beat-iron-sentinel-nte-20260520-e935/inline-3.webp
   - /img/how-to-beat-iron-sentinel-nte-20260520-e935/inline-4.webp
   - /img/how-to-beat-iron-sentinel-nte-20260520-e935/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Defeating the most formidable anomalies in Hethereau requires a deep understanding of the Esper Cycle and precise timing on your defensive maneuvers. This guide provides the essential strategies and team compositions needed to overcome the Iron Sentinel in Neverness to Everness.
 
@@ -66,7 +66,7 @@ The Iron Sentinel’s power scales directly with your Hunter Level, making it a 
 
 In Neverness to Everness, combat revolves around the six Esper types: Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche. These elements are arranged on the Esper Wheel, where adjacent elements can trigger powerful Duo and Triple Cycle reactions.
 
-The Iron Sentinel, being a mechanical construct, is heavily susceptible to reactions that focus on "Breaking" or "Staggering." The following table outlines the elemental effectiveness based on the standard NTE Esper Cycle
+The Iron Sentinel, being a mechanical construct, is heavily susceptible to reactions that focus on "Breaking" or "Staggering." The following table outlines the elemental effectiveness based on the standard NTE Esper Cycle:
 
 | Reaction Type | Required Elements | Combat Effect |
 | :--- | :--- | :--- |

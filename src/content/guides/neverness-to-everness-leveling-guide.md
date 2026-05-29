@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Leveling Guide: Best Builds & Progression"
 slug: neverness-to-everness-leveling-guide
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T05:53:37.214647+00:00"
 published_url: /guides/neverness-to-everness-leveling-guide
 sources: []
 hero_image: /img/neverness-to-everness-leveling-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-leveling-guide/inline-1.webp
   - /img/neverness-to-everness-leveling-guide/inline-2.webp
   - /img/neverness-to-everness-leveling-guide/inline-3.webp
   - /img/neverness-to-everness-leveling-guide/inline-4.webp
   - /img/neverness-to-everness-leveling-guide/inline-5.webp
   - /img/neverness-to-everness-leveling-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing your progression in Neverness to Everness requires a strategic approach to resource management and a deep understanding of the Hunter Level system. This guide provides the essential builds and rotation strategies to help you dominate the urban supernatural landscape of Hethereau.
 
@@ -153,7 +153,7 @@ For players just starting, the "Starter Trio" is surprisingly effective and can 
 
 ### Elemental Reactions and Synergy
 
-The two most important reactions to master are
+The two most important reactions to master are:
 
 1.  **Blossom:** Triggered when Anima meets Cosmos. This causes a massive explosion of area-of-effect (AoE) damage and applies a "Petal Mark" that increases the damage of the next follow-up attack.
 2.  **Scorch:** Triggered when Incantation meets any other element. This deals damage over time and reduces the enemy’s "Break Bar" more quickly.

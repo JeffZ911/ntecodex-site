@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer for Abyss Genshin Impact: Top Tier List & Guide"
 slug: best-healer-abyss-genshin-impact
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-15T15:22:55.054080+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-healer-abyss-genshin-impact/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-abyss-genshin-impact/inline-1.webp
   - /img/best-healer-abyss-genshin-impact/inline-2.webp
   - /img/best-healer-abyss-genshin-impact/inline-3.webp
   - /img/best-healer-abyss-genshin-impact/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the Spiral Abyss requires more than just high damage numbers; it demands a team capable of surviving the relentless aggression of Floor 12 enemies. Choosing the right healer can be the difference between a 36-star clear and a frustrating team wipe against high-pressure mechanics like Corrosion or the Bond of Life.
 
@@ -72,7 +72,7 @@ The S-Tier is defined by characters who do more than just keep the team alive.
 
 ### Best F2P Healer Options
 
-For players who do not have limited 5-star healers, several accessible options perform admirably in the Abyss
+For players who do not have limited 5-star healers, several accessible options perform admirably in the Abyss:
 1.  **Bennett:** Accessible through the Stardust Exchange and frequent banners, he is arguably the strongest 4-star in the game.
 2.  **Kuki Shinobu:** While her healing is modest, her value in Hyperbloom (the most F2P-friendly high-damage team) is unmatched.
 3.  **Charlotte:** A Cryo healer who provides team-wide healing on her Burst, making her a viable F2P alternative for Furina teams.
@@ -164,7 +164,7 @@ If you are running Furina in the Spiral Abyss, your healer choice is restricted.
 
 ### Managing Corrosion and Riftstalker Hounds
 
-When the Abyss features Rifthounds, the difficulty spikes because Corrosion ignores shields. To manage this
+When the Abyss features Rifthounds, the difficulty spikes because Corrosion ignores shields. To manage this:
 *   **Don't wait to heal:** Use your healing abilities as soon as the Corrosion stacks reach 3 or 4.
 *   **Use Team-wide Heals:** If your off-field characters are at 15% HP, a single-target healer like Bennett will require you to swap to every single character to heal them, wasting precious time. This is where Baizhu or Jean shine.
 *   **Focus on Energy:** Ensure your healer has enough Energy Recharge (ER) to use their Burst every rotation. A healer who can't Burst is dead weight.

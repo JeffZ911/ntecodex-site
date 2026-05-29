@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best DPS Weapons for Beginners: Tier List (May 2026)"
 slug: nte-best-dps-weapons-beginners-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 2405
 published_at: "2026-05-25T06:27:03.687630+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz6abhw9Dr9vRK3crKoKIg-TOizml7pzTQe3ax7k4LCI3tCEz0oZcAapn7SxIeWVH11IP1mP3h4p0peiehtE4Sr7tH9BlBuUiPoNjJQ50fQeaPd9v-J0HXI63Nr3rzgfpbK6QygrUQ4S2TCGvH"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Yz72QBLNNmr4XmKMtqxW6mwsF8tX4mEYW33l9ovkVl6kCnG41oFkBEXLyU3L_KPU1YwNA2BFlMEFSgAAS5GNy5JxNwops6XcrV5j6p6GHBdot8n9G_dD"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbFg9tyHMjebULIbij-cxRcdpwm5XXhf7VhmgOBAQgOTY1fWTFrbVBO5Q46ln9MsCKcpbEGerxfJXMRP3EAeQQbhenXAx5rYBUpj093nm5ub7ZWTnyJrHgKSspo9wkRy8EZ3BLX-372g=="
@@ -21,21 +21,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtp-aHtREPHYijSJO17v3MR45PYqRe3U8Z4TXLGptlRoRSpJHHP5L6wC2z7od5gIQcaxP3G-eyQHCbKdeYvDN4oDyfTwtlgMLGrocmPd4UBair6lrdfUawVz5IkoPCw_y7Ud0DIPawtZ54jYrcw2lId6wUbNx3UqDob3ki9VGk9deOJeKCNKQG"
 game: unknown
 hero_image: /img/nte-best-dps-weapons-beginners-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-1.webp
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-2.webp
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-3.webp
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-4.webp
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-5.webp
   - /img/nte-best-dps-weapons-beginners-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right weapon in Neverness to Everness (NTE) determines whether your team clears high-level anomalies or struggles against the city's supernatural threats. This tier list breaks down the best DPS Arcs for beginners, focusing on ease of use and maximum damage scaling for the May 2026 meta.
 

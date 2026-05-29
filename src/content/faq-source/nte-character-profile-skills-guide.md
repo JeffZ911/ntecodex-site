@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Profile and Skills: Full Guide & Best Builds (2026)"
 slug: nte-character-profile-skills-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-profile-skills-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-profile-skills-guide/inline-1.webp
   - /img/nte-character-profile-skills-guide/inline-2.webp
   - /img/nte-character-profile-skills-guide/inline-3.webp
   - /img/nte-character-profile-skills-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Succeeding in the urban supernatural world of Hethereau requires a deep understanding of the Esper roster and their unique combat synergies. This guide breaks down the essential character profiles and skill mechanics to help you master the current meta.
 
@@ -63,7 +63,7 @@ The current meta is dominated by Nanally (Main DPS), Sakiri (Support/CC), and Ho
 
 ### Core Combat Mechanics Summary
 
-Combat revolves around the management of energy and cooldowns to trigger elemental reactions. When two different elements interact on a target, they produce unique effects
+Combat revolves around the management of energy and cooldowns to trigger elemental reactions. When two different elements interact on a target, they produce unique effects:
 
 *   **Blossom (Anima + Cosmos):** [Information unavailable]
 *   **Hexed (Anima + Incantation):** [Information unavailable]
@@ -126,7 +126,7 @@ Chiz uses a kendama as her primary weapon and specializes in high-frequency Cosm
 
 ### The Esper Cycle: How Skills Trigger Reactions
 
-The "Esper Cycle" is the rhythmic swapping of characters to trigger reactions. A standard rotation involves
+The "Esper Cycle" is the rhythmic swapping of characters to trigger reactions. A standard rotation involves:
 1.  **Opener:** Using Sakiri's "Gravity Eater" to group enemies.
 2.  **Primer:** Swapping to Jiuyuan to apply "Lethal Rose Pact."
 3.  **Trigger:** Swapping to Zero or Nanally to trigger the "Blossom" reaction, resulting in massive elemental burst damage.

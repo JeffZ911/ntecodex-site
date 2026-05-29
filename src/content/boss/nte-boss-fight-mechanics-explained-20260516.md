@@ -1,4 +1,4 @@
---
+---
 title: "NTE Boss Fight Mechanics Explained: Master Every Anomaly"
 slug: nte-boss-fight-mechanics-explained-20260516
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-16T15:07:47.678468+00:00"
 published_url: /boss/nte-boss-fight-mechanics-explained-20260516
 sources: []
 hero_image: /img/nte-boss-fight-mechanics-explained-20260516/hero.webp
-inline_images
+inline_images:
   - /img/nte-boss-fight-mechanics-explained-20260516/inline-1.webp
   - /img/nte-boss-fight-mechanics-explained-20260516/inline-2.webp
   - /img/nte-boss-fight-mechanics-explained-20260516/inline-3.webp
   - /img/nte-boss-fight-mechanics-explained-20260516/inline-4.webp
   - /img/nte-boss-fight-mechanics-explained-20260516/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Surviving the supernatural anomalies of Hethereau requires more than just high-level gear; you need to master the rhythmic flow of parries and elemental reactions. This guide breaks down the core combat systems and boss-specific strategies you need to dominate the toughest encounters in Neverness to Everness.
 

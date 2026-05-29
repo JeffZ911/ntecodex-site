@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best DPS Tier List: Top Characters Ranked (May 2026)"
 slug: nte-best-dps-tier-list
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.1
 word_count: 1949
 published_at: "2026-05-17T18:55:16.820564+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7FC6sr_qejXjlME7A64QbDDr4bXgMeVVNVdDjbg-OHZNDmpRVahhJN2Ej5EELPwaeaYOQybsBtKGcPFPYy0HhaO1Rj9X9J5ahdV2AojJdLWhlhYGU5TYrU-S7tlkklJVoNg-aTnA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGREvYBuo2LpYzLD7SaHTbF-syZcYQaiv-8RlSLj33Hkzl7yqOa2BTXy21kaP8-2a1qPajD0IsYJnxOeGvkOjtfMUJIUGQuGbLu8KOcSm44lLyMtDdXI2odXurtLe-rGlol8b-m8JFg-YqRauw-Gt3FuNTZHNxSHWWd8EaQZgqseO92DkPA53wqzswxRdFhFCl8yw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6zdFrfqsE0p_d1Imu66CuJHLODuvsEp73velY2WyN-FGp0tmg1IvqzExYDbIbglq6CXtC92_BxC8Fwqo1yC_rKH576Fj-QmgBnMvfQkzchBUPwp6cALQEi_tVaCcUVmcgPVsQkvg="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzYg7vd4oDqkCiP9asnzKFf8269_9loukqU7g_F0XiG_koE_V9J10SHjv4sga0VVZDt450zWV6F452usnt7KtvJoUSjPa3nGrBUOyH5UdrLwO3jvXqtBWBlCFiabpPTryz1teahU30Eq9gwez11oKfkGoeVgiOlwM9d0cq"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtUVxFhjBvZeoqAz7dNkjN0E9qipGewBdwVpfkUAkMb7Zd6l3GSADBMzCIeL0fQtRH0nU4y8wtdkSYgwhT2R0azu9QLA0Cl3FtAbvQL3toBUaviqWSpu4Xcq3SRNJ9dGdu0s877nCxgoycR6YovCoocg3_JuW1"
 hero_image: /img/nte-best-dps-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-dps-tier-list/inline-1.webp
   - /img/nte-best-dps-tier-list/inline-2.webp
   - /img/nte-best-dps-tier-list/inline-3.webp
   - /img/nte-best-dps-tier-list/inline-4.webp
   - /img/nte-best-dps-tier-list/inline-5.webp
   - /img/nte-best-dps-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Selecting the right damage dealers is the primary hurdle for any Appraiser entering the supernatural metropolis of Hethereau. This NTE best DPS tier list ranks every major attacker following the global launch on April 29, 2026.
 
@@ -54,7 +54,7 @@ Building a powerful team in Neverness to Everness (NTE) requires more than just 
 
 This tier list is based on live data collected since the April 29, 2026, global launch. Our rankings prioritize a character’s performance in the current Version 1.0 environment, specifically looking at how they handle the scaling difficulty of Hethereau’s anomalies.
 
-The primary criteria for these rankings include
+The primary criteria for these rankings include:
 *   **Raw Damage Output:** We evaluate both sustained DPS (on-field presence) and burst DPS (Ultimate-focused windows).
 *   **Break Efficiency:** The ability to deplete an enemy’s Break bar quickly is essential for neutralizing high-rank anomalies and bosses like Swallowtail.
 *   **Esper Cycle Synergy:** How well a character triggers reactions like Blossom, Scorch, or Hexed when swapped into the rotation.
@@ -99,7 +99,7 @@ She utilizes a unique mechanic involving gun symbols that appear on the UI; once
 ### Hotori: Mastering Time and Space
 Released in the second half of Version 1.0 on the "Misty Tipsy Style" banner, Hotori has completely shifted the Cosmos meta. As a Cosmos/Solid hybrid, she provides a level of control that no other DPS can match. Her "Time Stop" mechanic allows players to freeze enemies in place, effectively creating a safe window for the entire team to unload their skills.
 
-Hotori’s skill-recording multiplier breakdown
+Hotori’s skill-recording multiplier breakdown:
 *   **Recorded Damage Percentage:** [Information not yet publicly available as of 2026-05-17]
 *   **Max Recording Duration:** [Information not yet publicly available as of 2026-05-17]
 *   **Time Stop Duration:** [Information not yet publicly available as of 2026-05-17]
@@ -182,7 +182,7 @@ The launch of "The Ichi-daime" banner on April 29 established Nanally as the bas
 The discovery of the "Blossom" (Cosmos + Anima) reaction as the most efficient energy generator has solidified the "Zero + Nanally + Hotori" team as the gold standard for boss clearing. This composition allows for nearly infinite Ultimate uptime, provided the player can time their swaps correctly.
 
 ### Patch 1.0.1 Balance Adjustments
-Following the May 12 emergency maintenance, several balance changes were implemented
+Following the May 12 emergency maintenance, several balance changes were implemented:
 *   **Daffodil Adjustments:** Small nerfs to her Break scaling were confirmed to prevent her from trivializing boss mechanics in co-op.
 *   **Bug Fixes:** The "Nani co-op floating glitch" and "Jiuyuan healing bug" were addressed, improving the consistency of these characters in multiplayer modes.
 *   **Fons Economy:** The cost of upgrading Arcs was slightly reduced, making it easier for F2P players to gear multiple DPS units for the Beyond the Rails mode.

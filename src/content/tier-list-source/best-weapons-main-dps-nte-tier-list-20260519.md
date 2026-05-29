@@ -1,4 +1,4 @@
---
+---
 title: Best Weapons for Main DPS in Neverness to Everness (NTE Tier List)
 slug: best-weapons-main-dps-nte-tier-list-20260519
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-weapons-main-dps-nte-tier-list-20260519/hero.webp
-inline_images
+inline_images:
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-1.webp
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-2.webp
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-3.webp
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-4.webp
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-5.webp
   - /img/best-weapons-main-dps-nte-tier-list-20260519/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Selecting the right Arcs for your Espers is the difference between struggling against Hethereau’s urban anomalies and clearing high-level content with ease. This guide ranks the best weapons for Main DPS units following the global launch of Neverness to Everness.
 

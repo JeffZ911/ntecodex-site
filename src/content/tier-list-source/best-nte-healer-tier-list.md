@@ -1,4 +1,4 @@
---
+---
 title: Best Neverness to Everness Healer Tier List (May 2026)
 slug: best-nte-healer-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T18:31:02.625512+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-nte-healer-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-healer-tier-list/inline-1.webp
   - /img/best-nte-healer-tier-list/inline-2.webp
   - /img/best-nte-healer-tier-list/inline-3.webp
   - /img/best-nte-healer-tier-list/inline-4.webp
   - /img/best-nte-healer-tier-list/inline-5.webp
   - /img/best-nte-healer-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Staying alive in the supernatural urban sprawl of Hethereau requires more than just high damage output; it demands a sophisticated understanding of the "Survival" role. This guide breaks down the most effective units for maintaining team health and mitigating damage in the current version of the game.
 

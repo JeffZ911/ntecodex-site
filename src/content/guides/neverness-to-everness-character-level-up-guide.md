@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Character Level Up Guide: Best Builds & Teams"
 slug: neverness-to-everness-character-level-up-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 2053
 published_at: "2026-05-20T10:49:55.172867+00:00"
 published_url: /guides/neverness-to-everness-character-level-up-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXPYpov9pTdIddoe90CdUoERxL1kMVWcUbnyYp3vB9is7fwLD_bUdch6TfvALbwKT2qDm4sBXR9maHxxUwJuie0SRGp2805xqrONGECyx5QiP-zlVlpNjVWFfZ4IRy19wGfIDTm7gazwc9nV3a2txUc2mbol_9PXofPiydwMEfIbynOUGG_7Ay0__B0E5BBQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3wAkUvLLM5UiZcjBx8DidcyQTU_zcLdi6gJnkDZ_ypB85jdN9t5qb66SyNSqnvRgA3pgx5TeeKLf694a3_A-W6pxDGNkCa1nxq-uFIQAnkkKGrJJ9DiABTwjtDfS4cH_hZyOSd0o="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk9iqLC1B7Bnk7cZl2LS22cjf-EXuPKr0ESLJG1csNRQQqoDv8NvmJWz4zZBY5OTVfqGTnplm6vVjnFrep-kHBtkZurmQYM48d-fCAe-0hAFAg5p37ctBrBN16L2MnuTTmgcr13h9yWIOLtMbsk3PSxCzYacsC6G8-LWDz07Gku6_--mLlV9zOoa2z5ppd_eRq4k-PhiJ7NPsqcDrSRgU="
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5EoRKKt90bkeeoENqvufYSvXa7RUEformhJ7gYWw8Ps9FLV54EW226NjJMZCxX7ulc5NkOrmtcIFEPWDDqNCpEu7kjGlYUAjDAE0s36jm43x2sopNWLHJzFVIxcoVOhy-2OPo1sOGOYvZMIGdBO4dKxICdJAPWjpxLY8dnwaHFfWUow=="
 game: unknown
 hero_image: /img/neverness-to-everness-character-level-up-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-character-level-up-guide/inline-1.webp
   - /img/neverness-to-everness-character-level-up-guide/inline-2.webp
   - /img/neverness-to-everness-character-level-up-guide/inline-3.webp
   - /img/neverness-to-everness-character-level-up-guide/inline-4.webp
   - /img/neverness-to-everness-character-level-up-guide/inline-5.webp
   - /img/neverness-to-everness-character-level-up-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Success in Hethereau’s supernatural streets requires more than just fast cars and flashy Esper abilities; it demands a deep understanding of the character progression systems that govern your power. Since the release of Neverness to Everness on April 29, 2026, players have discovered that the game’s dual-leveling system and the intricate "Esper Cycle" are the keys to overcoming high-level anomalies.
 
@@ -102,7 +102,7 @@ S-Rank Arcs are the gold standard for endgame builds. While many are obtained th
 | **Blow up the Crowd** | Solid | [Hotori](/characters/hotori-best-team-nte) / Zero | Increases ATK while off-field, making it the premier choice for quick-swap sub-DPS. |
 
 ### Best F2P Arcs and How to Get Them
-NTE is notably generous with farmable S-Rank Arcs. F2P players should prioritize the following
+NTE is notably generous with farmable S-Rank Arcs. F2P players should prioritize the following:
 *   **Day Off (Solid):** A powerful ATK-focused Arc that restores Ultimate Energy on kills. It is a reward for completing early-game exploration milestones in the Bridge Crossings district.
 *   **Hethereau's Keeper (Solid):** One of the best boss-killing Arcs, it summons "Officer Whisker" to deal coordinated strikes. This can be obtained by defeating the Justice Executioner world boss.
 *   **Oraora! (Plasma):** A solid entry-level Plasma Arc that boosts Basic Attack damage, often used as a placeholder for Nanally before acquiring Ready-Ready.

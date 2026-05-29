@@ -1,4 +1,4 @@
---
+---
 title: "Zenless Zone Zero Reroll Guide: Best Starters & How to Reroll"
 slug: reroll/zzz-reroll-guide-beginners-20260513
 game: zzz
@@ -9,19 +9,19 @@ published_at: "2026-05-13T02:36:00.472219+00:00"
 published_url: /guides/reroll/zzz-reroll-guide-beginners-20260513
 sources: []
 hero_image: /img/zzz-reroll-guide-beginners-20260513/hero.webp
-inline_images
+inline_images:
   - /img/zzz-reroll-guide-beginners-20260513/inline-1.webp
   - /img/zzz-reroll-guide-beginners-20260513/inline-2.webp
   - /img/zzz-reroll-guide-beginners-20260513/inline-3.webp
   - /img/zzz-reroll-guide-beginners-20260513/inline-4.webp
   - /img/zzz-reroll-guide-beginners-20260513/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Getting a top-tier S-Rank Agent at the start of Zenless Zone Zero can significantly smooth out your progression through New Eridu’s toughest Hollows. While the process requires patience, securing a powerful starter ensures your resources are invested in characters that remain relevant long into the endgame.
 
@@ -56,7 +56,7 @@ The gap between S-Rank and A-Rank Agents is noticeable in both raw numbers and m
 *Note: Stats are approximate based on launch-day character averages.*
 
 ### Future-Proofing Your Account
-The standard S-Rank roster at launch includes
+The standard S-Rank roster at launch includes:
 *   **Von Lycaon** (Ice / Stun)
 *   **Alexandrina "Rina" Sebastiane** (Electric / Support)
 *   **Grace Howard** (Electric / Anomaly)
@@ -124,7 +124,7 @@ When rerolling, your goal depends on whether you are aiming for a standard S-Ran
 *   **Nekomata:** A high-speed Physical attacker who excels at backstabbing enemies for increased damage.
 
 ### Understanding Agent Roles and Elements
-To build a functional team, you must understand the roles
+To build a functional team, you must understand the roles:
 *   **Attack:** Primary damage dealers.
 *   **Stun:** Focuses on filling the enemy's Daze bar to trigger Chain Attacks.
 *   **Support:** Provides buffs to the team or energy regeneration.

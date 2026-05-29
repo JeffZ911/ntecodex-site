@@ -1,4 +1,4 @@
---
+---
 title: Neverness to Everness Best Team Comps for Beginners (May 2026)
 slug: nte-best-team-comps-beginners-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-team-comps-beginners-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-team-comps-beginners-tier-list/inline-1.webp
   - /img/nte-best-team-comps-beginners-tier-list/inline-2.webp
   - /img/nte-best-team-comps-beginners-tier-list/inline-3.webp
   - /img/nte-best-team-comps-beginners-tier-list/inline-4.webp
   - /img/nte-best-team-comps-beginners-tier-list/inline-5.webp
   - /img/nte-best-team-comps-beginners-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Building a balanced squad in Hethereau requires more than just picking high-rarity characters; it requires a deep understanding of how elemental phantoms interact during active combat swaps.
 
@@ -38,7 +38,7 @@ Success in Neverness to Everness (NTE) hinges on the "Esper Cycle," a sophistica
 
 This tier list evaluates team compositions based on their effectiveness for players starting their journey after the April 29, 2026, global launch. We have prioritized teams that are accessible through the early-game economy, including the S-Class Selector, the "City Tycoon" event rewards, and the standard story progression roster.
 
-The primary criteria for these rankings include
+The primary criteria for these rankings include:
 
 *   **Esper Cycle Efficiency:** How quickly and reliably the team can trigger high-damage reactions like Blossom and Discord.
 *   **Lane Synergy:** The duration and effectiveness of character phantoms during swaps, ensuring elemental application remains constant.

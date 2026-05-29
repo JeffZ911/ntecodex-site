@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Reroll Guide: Best Characters & How-To"
 game: nte
 slug: reroll/neverness-to-everness-reroll-guide
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1883
 published_at: "2026-05-10T15:04:26.011064+00:00"
 published_url: /guides/reroll/neverness-to-everness-reroll-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_exIqQ_fzG0artb0buNpMHPzS11BfaerEJ_9H3TYgyTaO1uXp30yumhlZYot-VfXlWyJSzQN4cU9_Dz-ouDq8orbnaqgrQxT6PMt3QS_fbndDvvpM1vDtImYQyT57ziBUgXmNeFWVljLybgf71CglAxZRKw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe49B7fPqmjFTUyGNQcoM78LhQaWw3GDGWTX75ac3KZNwqpklmPpuuWd5ZB2RM1cNbLdeX1kgTup5Es8apn0q_fiqNHLdxFaoZ1kbuzEB2U8YWV-wB7bIhG7jL_JpXo3IST7o9b7jlGCg="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnsbQoGNSUfz_sfeGffyanJ3SFffevyW8zmBYoTVCa6PvPS0j8FlTrs5VTzQP44tJdYM_DpI49qtX3qpYCLsODUH6JcIuVy5ttIzMJHvnVrOa1R9x4Q1sOTXeXF7KZWjRV4QIQwt6LQ_5sMLMhcHr1Z9lHDhVHb_NN1A3s1A4gXvD4WaOT_JcNuAN3aTvxT7CcwmCZhIbokNSMU4r5VAMB"
@@ -20,19 +20,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCFHZ5O-XRTRoS_wdz6eLjAvBxdjt3G-suxaDF4WH9vx1doqTJ-rHxEr4mupiCZ6G3Bp5zk-QqXUth69LOxsn1deaVwf1L77W_aP69Bdd3YuUubDTMzX8bzg3xrr4jgQ5ARzxJNZp9tTRLFQbVVmgqge4rp3SIZnutV0U4tcgV-sg="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbo17nbO4ti9B4CWzYY-HAeJm5HE4l2-BeROFbN4jZskGaaKMo-RDMbCewiEvbrtCMRX9LKIrXCEY8_SNzvIzGjFu8MoUM_0Z2TY_p7FnGEmDhvMmcCTMYoGXMxOu_T6ZmPynjG8s9qRccVZVom7TNJYXM"
 hero_image: /img/neverness-to-everness-reroll-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-reroll-guide/inline-1.webp
   - /img/neverness-to-everness-reroll-guide/inline-2.webp
   - /img/neverness-to-everness-reroll-guide/inline-3.webp
   - /img/neverness-to-everness-reroll-guide/inline-4.webp
   - /img/neverness-to-everness-reroll-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Starting your journey in Hethereau with the right team can be the difference between struggling against anomalies and breezing through the urban supernatural world of Neverness to Everness. With the launch of Hotta Studio's latest open-world RPG, optimizing your initial pulls is the best way to secure a competitive edge without spending a dime.
 
@@ -132,14 +132,14 @@ Always aim for the limited character (Nanally) first. Limited characters in NTE 
 Rerolling is a marathon, not a sprint, but efficiency can cut your time in half.
 
 *   **Average Run Time:** 15 to 20 minutes per attempt on PC. Mobile users should expect 25 minutes due to loading.
-*   **Pulls per Run:** You will have approximately 32–41 pulls available immediately after the tutorial by using mail rewards and the following launch codes
+*   **Pulls per Run:** You will have approximately 32–41 pulls available immediately after the tutorial by using mail rewards and the following launch codes:
     *   `NTE0429`
     *   `NTENANALLYGO`
     *   `NTENOWTOENJOY`
     *   `NTEGIFT`
     *   `NTEHAVEFUN`
-*   **Efficiency Tips:** 
-    *   Use a PC for faster combat sequences. 
+*   **Efficiency Tips:**
+    *   Use a PC for faster combat sequences.
     *   Don't waste time customizing your character's appearance during a reroll run; you can change it later.
     *   Focus on the "Strange Encounters" banner first to utilize the 20% discount.
 

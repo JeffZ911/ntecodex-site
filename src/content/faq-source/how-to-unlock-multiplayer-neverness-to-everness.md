@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Multiplayer in Neverness to Everness (NTE)
 slug: how-to-unlock-multiplayer-neverness-to-everness
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1843
 published_at: "2026-05-20T22:30:12.944759+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDw_Xc080eFkxVeyBV7ulqbI9sjVufjvsp1bVEbYuO0NJYLk1PvXV28NOm2SySFHiuHkyFxyYXmqfwuBI5OlMZBABjX9ncrbDqz4ngQ0ZHpQnstcSC3hEs1TwXkOhEGOJIq4BBEONNZcy3iDW7mK1tdKnwd8m9b_Kxd3ozSGNkd8nEFwu6EMWtcQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYXxg64lfELJxM8N4l8Ty9SAjzbDgTUjntmFr1t_qFG5TUQBFPTBN-2um6PHSBR0-nNEbzKSyHT2xP3svYuHvkbQsLLAcypY-2lprce50V0h0tsMmf8QYH7Y_DySkEcd8CMuTAAoMNSawHp3Bcb1qMAhb2yKu-j2iXGls8TZmcr_X0IRt0WNSrnbNAZzz1uemsCz0oDz-0uA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCf4cVS9SLK9Dxuy0vzD32lseuWj53u17tx0X76SknXpqMf964Y-EYi37CKgvoXoWSpr3Y48MlebPKf0HbZkJbG6pg3wJoMICm2D5RMxNkqyZFtNaXB6bHN0UQQ__WUq5dLDZcMi-V-KrreNKs-2i_6oWg3OtIx3W8ZZbj71Nin1LypC-42TzbCcM="
@@ -22,17 +22,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-E3QXmE6LDfGaFjjzvPfsTA2xTJWkW_CgyOcIUwIa0hc26AG931719tdVhWnMaHLPHlGoq1f0-6FYZeU56v14cYV8oQURSKgDbbbUa55E_Nn51wPUycG-QoJnheNPlhsifjlytdWBYCGcYt96tip9U_wEebomZQ_FP3nrmnXfWNlpBEmnFoayqu48HP6r57dithRI4qg_1G2TIdHCMlSHBxoQRRWjhf2K_HYQ6QqhW2DqRv8dmKQYb_grTZC1gA=="
 game: unknown
 hero_image: /img/how-to-unlock-multiplayer-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-multiplayer-neverness-to-everness/inline-1.webp
   - /img/how-to-unlock-multiplayer-neverness-to-everness/inline-2.webp
   - /img/how-to-unlock-multiplayer-neverness-to-everness/inline-3.webp
   - /img/how-to-unlock-multiplayer-neverness-to-everness/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Exploring the supernatural urban landscape of Hethereau is a massive undertaking, but you don't have to face the anomalies of Neverness to Everness (NTE) alone. While the game starts as a solo journey to introduce you to the mechanics of Esper Zero and the Eibon shop, the co-op features eventually allow you to team up with friends for high-speed races and anomaly raids.
 
@@ -84,7 +84,7 @@ The story requirement, "Prologue II: Good Business, Better Treasure," is the fin
 ![Detailed Explanation](/img/how-to-unlock-multiplayer-neverness-to-everness/inline-3.webp)
 
 
-Navigating the multiplayer interface for the first time can be slightly confusing since NTE uses a "smartphone" UI that hides several apps on secondary screens. To begin a session, follow these steps
+Navigating the multiplayer interface for the first time can be slightly confusing since NTE uses a "smartphone" UI that hides several apps on secondary screens. To begin a session, follow these steps:
 
 1.  Open your in-game phone by tapping the icon in the top right corner (or pressing the designated hotkey on PC/PS5).
 2.  Swipe the screen to the left to access **Page 2** of the applications.
@@ -95,7 +95,7 @@ Navigating the multiplayer interface for the first time can be slightly confusin
 
 Every player in Neverness to Everness is assigned a unique 10-digit User ID (UID). You can find your own UID at the bottom of the main phone menu or within your profile settings. To add a friend, enter their UID into the search bar located at the top of the Multiplayer menu. Once the request is accepted, they will appear in your "Friends" list.
 
-When starting a session, you have two primary options
+When starting a session, you have two primary options:
 *   **Hosting (Invite to Join):** You act as the host, and friends join your version of Hethereau. Your world's progression (unlocked teleport points and world level) will be the standard for the session.
 *   **Joining (Request Access):** You enter a friend's world. While you can help them with combat and exploration, you cannot progress your own main story missions while in their world.
 
@@ -121,7 +121,7 @@ The "City Tycoon" system is deeply integrated with multiplayer. Once you unlock 
 
 ### Multiplayer Restrictions: What You Cannot Do
 
-While the co-op mode is expansive, there are several limitations to keep in mind
+While the co-op mode is expansive, there are several limitations to keep in mind:
 *   **Story Blocking:** You cannot initiate or progress main "Episode" quests while in a multiplayer session. If you reach a story trigger, the game will prompt you to leave the group.
 *   **Loot Sharing:** In modes like the Pink Paws Heist, loot is often calculated individually. If one player picks up a pile of Fons, it may disappear for others, meaning coordination is required to ensure everyone gets their share.
 *   **Teleport Points:** You can only use the teleport points (Phone Booths) that the **host** has unlocked. If you are joining a new player's world, you may find your travel options limited.

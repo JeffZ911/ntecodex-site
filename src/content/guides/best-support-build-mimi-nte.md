@@ -1,4 +1,4 @@
---
+---
 title: Best Support Build for Mimi (Haniel) in Neverness to Everness
 slug: best-support-build-mimi-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.8
 word_count: 1909
 published_at: "2026-05-17T16:13:10.892732+00:00"
 published_url: /guides/best-support-build-mimi-nte
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4WqIE88GlsAxjSiGfY8w_mVg7SQN0Pz2xCTcjHGMfKfi-HH1fmeJj_K49R7SFfJSYKXU1-UCPmx5ayqDoEqkAQTqHczzrapHTENDWyghrqo29PAfuqI2awPqNlgYsUUGo87wHl0WkGZZcTWa34ZKsQst8q8YPRYctdQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE16TqRZ4nRs11cUsUszMnzUpMs0htMY1T9Ff4Yq8oMiO60hZsH4BYMBC6x2kEMZH2fsJQDZEmVYrMZ7k_dA__poKkRpJG9y0O1JmRiixMZmQfL7oBAHms3UyQmMJA_guPoTqOfg8Y5pufdPuy1Xo3KWCw6aadSZ3yeA4BjOlPnw4sTsnwISvVITPZmUmZcMNFLozk8FOe0v_0TubNXcAhNtskmfcPFcmpo527TG_jjh6-3yadnW_JMqIbyFaefLM9pGaYMBXi27v0rBkNHKH1lkLC0leK30Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoyp6gHXbq0rCW3s1FG7THN_NAEx42N9X9WZ2R6QObweS0PKwofPguJjbW-OfLUbnG93jc8jAL1eLVrnr3Xy7YWxOLfLTex9DYJR5v5aZd-0BJ_2vSMghtzqQoLmJLdshTT_3z9Gw3h3mmRc5bzlblq93kacPwrfQ5BeyKJb2Pg6kUA2HFig=="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFv8GFItJiKejHuHg6C4iugtYLCdRkaK7wSdeh8Vx9Dk3vXG1cwEeBDV3z5ka5n6884W8y2_rPx0Wq9djEAGXWHUGYoUPn9UMHLovb85QOKdvg0vPZjS5lrJoabuovWjmxlg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEceA9L4s77RWqTsj6mvU1GXemI8IV2REUeOT_LeCYao13BqaCnmb3IVUjZJLUYtH7C8rcB0koDRxpvVQMfOUXxgxLd4sb93E2kx2UanjwltqnwGP-oSMIJ183yL5YH"
 hero_image: /img/best-support-build-mimi-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-support-build-mimi-nte/inline-1.webp
   - /img/best-support-build-mimi-nte/inline-2.webp
   - /img/best-support-build-mimi-nte/inline-3.webp
   - /img/best-support-build-mimi-nte/inline-4.webp
   - /img/best-support-build-mimi-nte/inline-5.webp
   - /img/best-support-build-mimi-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Finding the right support for your Anima-heavy team is the difference between struggling against Hethereau's anomalies and clearing the city's toughest content with ease.
 
@@ -113,7 +113,7 @@ Disks, or Cartridges, are the primary way to customize Haniel's stats. For a sup
 *   **Shadow Creed (2-Piece or 4-Piece):** A strong alternative that focuses purely on ATK. The 2-piece gives +10% ATK, and the 4-piece grants a 25% ATK bonus for 20 seconds after casting a Skill. This is easier to trigger than the Speedy Hedgehog bonus but lacks the team-wide utility.
 
 ### Optimal Stat Distribution and Breakpoints
-To maximize Haniel's potential, you must prioritize her Base ATK. Her buffs do not scale with "Total ATK" from all sources in the same way they scale with her core attributes, so focus on the following
+To maximize Haniel's potential, you must prioritize her Base ATK. Her buffs do not scale with "Total ATK" from all sources in the same way they scale with her core attributes, so focus on the following:
 
 1.  **Main Stat Priority:**
     *   **Sands/Goblet:** ATK% is mandatory. This is the primary driver of her buffing capability.
@@ -138,7 +138,7 @@ The most powerful team composition in the 1.0 meta revolves around the **Blossom
 *   **Haniel (Buffer):** Deploys Hootie to buff both Nanally and Zero, while contributing off-field Psyche damage.
 
 ### F2P Friendly Team Structures
-For players who did not pull for Nanally, Haniel can still lead a very effective team
+For players who did not pull for Nanally, Haniel can still lead a very effective team:
 *   **Zero (DPS):** Using the protagonist as your main damage dealer.
 *   **Haniel (Support):** Providing the necessary ATK boost to keep Zero's damage relevant.
 *   **Edgar (Healer):** An A-Rank Cosmos healer who ensures the team stays alive in difficult "Beyond the Rails" [Information not yet publicly available as of 2026-05-17] content.

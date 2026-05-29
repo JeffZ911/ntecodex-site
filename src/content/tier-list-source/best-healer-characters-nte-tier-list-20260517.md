@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Characters in Neverness to Everness: Tier List"
 slug: best-healer-characters-nte-tier-list-20260517
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-17T06:20:32.443151+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-healer-characters-nte-tier-list-20260517/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-characters-nte-tier-list-20260517/inline-1.webp
   - /img/best-healer-characters-nte-tier-list-20260517/inline-2.webp
   - /img/best-healer-characters-nte-tier-list-20260517/inline-4.webp
   - /img/best-healer-characters-nte-tier-list-20260517/inline-5.webp
   - /img/best-healer-characters-nte-tier-list-20260517/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Success in the urban anomalies of Hesperia depends on more than just raw firepower; keeping your team standing through high-intensity Esper Cycles is the difference between a successful hunt and a total wipe. This guide ranks the best healer and survival characters in Neverness to Everness (NTE) to help you optimize your roster for the current May 2026 meta.
 
@@ -34,7 +34,7 @@ Success in the urban anomalies of Hesperia depends on more than just raw firepow
 
 Ranking the sustain units in Neverness to Everness requires looking beyond simple health-per-second metrics. Since the game's launch on April 29, 2026, the community has realized that "pure healing" is often less valuable than "effective survival." Our methodology focuses on how a character contributes to the team's overall momentum while preventing downtime.
 
-We evaluate characters based on three primary pillars
+We evaluate characters based on three primary pillars:
 1.  **Sustain Efficiency:** The ability to negate or recover damage without requiring the active character to stop their offensive rotation.
 2.  **Utility and Buffing:** How much the character contributes to the Esper Cycle or provides offensive stat boosts.
 3.  **Meta Compatibility:** How well the character performs in endgame content like "Beyond the Rails" and high-level Anomaly Hunts.

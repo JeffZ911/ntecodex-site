@@ -1,4 +1,4 @@
---
+---
 title: "Best Support Weapons NTE Guide: Top Arcs for Every Team"
 slug: best-support-weapons-nte-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-support-weapons-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-support-weapons-nte-guide/inline-1.webp
   - /img/best-support-weapons-nte-guide/inline-2.webp
   - /img/best-support-weapons-nte-guide/inline-3.webp
   - /img/best-support-weapons-nte-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Selecting the right Arcs for your utility characters is the difference between a struggling squad and a high-efficiency team capable of clearing the toughest anomalies in Hethereau.
 
@@ -32,7 +32,7 @@ Selecting the right Arcs for your utility characters is the difference between a
 ![Question Restated](/img/best-support-weapons-nte-guide/inline-1.webp)
 
 
-When building a team in Neverness to Everness (NTE), players often prioritize their main damage dealers, but the effectiveness of those characters is directly tied to the support Arcs (weapons) equipped by the rest of the team. This guide addresses the following key questions regarding the current meta
+When building a team in Neverness to Everness (NTE), players often prioritize their main damage dealers, but the effectiveness of those characters is directly tied to the support Arcs (weapons) equipped by the rest of the team. This guide addresses the following key questions regarding the current meta:
 
 *   What are the best support weapons (Arcs) currently available in Neverness to Everness?
 *   Which Arcs provide the best team-wide buffs, energy regeneration, and off-field utility to maximize damage windows?
@@ -111,7 +111,7 @@ To make a support Arc truly effective, you must engage with the Mixing and Ascen
 Mixing is the process of consuming duplicate copies of an Arc to increase the rank of its passive ability. For support weapons, this is often more important than the weapon's level. For example, a T5 (Tier 5) 4-star Arc will frequently outperform a T1 5-star Arc because the potency of the team-wide buffs (such as the ATK% share) scales significantly with each Mixing level.
 
 **Ascension Requirements**
-Leveling an Arc requires specific materials found throughout Hethereau and the surrounding districts. To reach the Level 80 cap, you will need to farm
+Leveling an Arc requires specific materials found throughout Hethereau and the surrounding districts. To reach the Level 80 cap, you will need to farm:
 *   **Bubble Cans:** The primary experience material for Arcs.
 *   **Beetle Coins:** The standard currency used for all gear upgrades.
 *   **Enemy-specific drops:** Different Arcs require components from specific anomaly types (e.g., mechanical components for Solid Arcs or ethereal residues for Gas Arcs).

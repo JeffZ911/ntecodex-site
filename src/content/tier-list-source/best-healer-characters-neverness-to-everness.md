@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Characters in Neverness to Everness: Tier List"
 slug: best-healer-characters-neverness-to-everness
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1785
 published_at: "2026-05-20T06:05:41.769788+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHF-RTRusrk9UwMn0qSXCo2DjsGipCSBQGuyLfw8XvEJbCcKBf_busoxlTE3XBcZTBl8dQ6XXZr_GkejHPlR38cMWVrOzt-LWikOhRTEky7RTd-h4mCeE1XazBoLmhSqH7WXOv_ZUcJRnQkYL1SFlb"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDOa0sdD3IX3aBlhLnzeIO9qCvaHSOAKdYivgDjNz5W7-qrOQ_8QOZblY10zIBKBvI3C5mfTPJ-x-IorYMqny6X72m0WbxfK0vKT4sZETtmzFjuIv-YVCt0OI0405cF4y8xLATKs7Tx6LxoKo78f507pvVEdAb3oNxXF-KMeoH"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmyyRqQzU9qEVw1P_dF39WgRXdQ9k0JDiFAnUvY76PbsBJ2WKjwrw0PAOZos1DJIS6d_fvdYu615HqKpDdxmeYPDR46ofaZ78qFo6_ic_NGY3GJu1kaoAY_FoFN4USA60="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSRDgAWCFS-zIJcUFfqXExfDwNWBErx1D-PSc0Q0LEjJ3xQchpyFrh8V8KC40x1aQsYi9HtkKKyYB_pVZE-EBZ8LYuLZ8mA9_HkLidgepmue-CrXFEfqAUo9BVFA_HKlDZyyQ_cyfLaFdM9qTIFC_MI9AJGC7VMzvQOqLMoOSJu1Uy1rpRl0_VNsIZ100="
 game: unknown
 hero_image: /img/best-healer-characters-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-characters-neverness-to-everness/inline-1.webp
   - /img/best-healer-characters-neverness-to-everness/inline-2.webp
   - /img/best-healer-characters-neverness-to-everness/inline-3.webp
   - /img/best-healer-characters-neverness-to-everness/inline-4.webp
   - /img/best-healer-characters-neverness-to-everness/inline-5.webp
   - /img/best-healer-characters-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Since the launch of Neverness to Everness (NTE) on April 29, 2026, survival has become the cornerstone of high-level play in Hethereau’s most dangerous anomalies.
 
@@ -52,7 +52,7 @@ In Neverness to Everness, the "Survival" role encompasses more than just restori
 ![Methodology](/img/best-healer-characters-neverness-to-everness/inline-1.webp)
 
 
-Ranking the best healer characters in Neverness to Everness requires looking beyond raw healing numbers. Because the game utilizes a fast-paced "tag-in" combat system, a healer’s value is often determined by what they contribute while off-field or how quickly they can stabilize a team during a boss’s Enraged phase. Our tier list is based on the following five criteria
+Ranking the best healer characters in Neverness to Everness requires looking beyond raw healing numbers. Because the game utilizes a fast-paced "tag-in" combat system, a healer’s value is often determined by what they contribute while off-field or how quickly they can stabilize a team during a boss’s Enraged phase. Our tier list is based on the following five criteria:
 
 1.  **Healing Throughput:** We evaluate the raw HP restored per second (HPS). This includes both burst healing (instant recovery) and sustained healing (healing-over-time fields).
 2.  **Role Compression:** The highest-rated Espers are those who provide utility alongside healing. This includes damage redirection, shields, or significant offensive buffs that allow them to occupy a single team slot effectively.

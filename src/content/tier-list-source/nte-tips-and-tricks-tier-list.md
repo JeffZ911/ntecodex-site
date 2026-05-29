@@ -1,4 +1,4 @@
---
+---
 title: "NTE Tier List: Best Characters & Tips and Tricks (May 2026)"
 slug: nte-tips-and-tricks-tier-list
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T22:54:07.752299+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-tips-and-tricks-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-tips-and-tricks-tier-list/inline-1.webp
   - /img/nte-tips-and-tricks-tier-list/inline-2.webp
   - /img/nte-tips-and-tricks-tier-list/inline-3.webp
   - /img/nte-tips-and-tricks-tier-list/inline-4.webp
   - /img/nte-tips-and-tricks-tier-list/inline-5.webp
   - /img/nte-tips-and-tricks-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Hethereau is a city of anomalies where your team composition determines whether you dominate the urban sprawl or succumb to the supernatural. This NTE tier list and guide provides the essential strategies needed to master the current meta following the massive May 2026 "Beyond the Rails" update.
 

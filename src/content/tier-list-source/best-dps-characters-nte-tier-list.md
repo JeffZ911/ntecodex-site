@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: NTE Tier List (May 2026)"
 slug: best-dps-characters-nte-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T21:03:02.831743+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-characters-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-tier-list/inline-1.webp
   - /img/best-dps-characters-nte-tier-list/inline-2.webp
   - /img/best-dps-characters-nte-tier-list/inline-3.webp
   - /img/best-dps-characters-nte-tier-list/inline-4.webp
   - /img/best-dps-characters-nte-tier-list/inline-5.webp
   - /img/best-dps-characters-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right damage dealers in Hethereau determines how efficiently you can clear the most difficult anomalies and endgame content. This Neverness to Everness (NTE) tier list ranks the best DPS characters for May 2026 to ensure your resources are invested in the most powerful Espers available.
 

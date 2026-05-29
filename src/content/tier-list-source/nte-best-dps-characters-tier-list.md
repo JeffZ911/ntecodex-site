@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best DPS Characters Tier List: May 2026 Meta Rankings"
 slug: nte-best-dps-characters-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T11:24:07.079679+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-dps-characters-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-dps-characters-tier-list/inline-1.webp
   - /img/nte-best-dps-characters-tier-list/inline-2.webp
   - /img/nte-best-dps-characters-tier-list/inline-3.webp
   - /img/nte-best-dps-characters-tier-list/inline-4.webp
   - /img/nte-best-dps-characters-tier-list/inline-5.webp
   - /img/nte-best-dps-characters-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing damage output in Neverness to Everness (NTE) requires a deep understanding of how individual character kits interact with the game's complex elemental and state-based systems. With the first major meta shift following the May 13 update, players are now optimizing rotations around the newly introduced sub-DPS powerhouse, [Hotori](/characters/hotori-best-team-nte).
 
@@ -38,7 +38,7 @@ Maximizing damage output in Neverness to Everness (NTE) requires a deep understa
 
 Ranking the roster of Neverness to Everness involves more than simply looking at the highest numbers on a character sheet. Because combat revolves around the interaction between Arc types and the Esper Cycle, a character’s value is often determined by how efficiently they facilitate team-wide reactions and how quickly they can neutralize boss defenses. Our rankings prioritize characters who can maintain high up-time while contributing to the destruction of the Stagger Meter.
 
-The following table outlines the specific weight given to each evaluation category used for this May 2026 tier list
+The following table outlines the specific weight given to each evaluation category used for this May 2026 tier list:
 
 | Criteria | Weight | Description |
 | :--- | :--- | :--- |

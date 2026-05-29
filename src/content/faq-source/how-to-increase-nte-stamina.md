@@ -1,4 +1,4 @@
---
+---
 title: How to Increase Stamina in Neverness to Everness (NTE Guide)
 slug: how-to-increase-nte-stamina
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T14:27:24.776579+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-increase-nte-stamina/hero.webp
-inline_images
+inline_images:
   - /img/how-to-increase-nte-stamina/inline-1.webp
   - /img/how-to-increase-nte-stamina/inline-2.webp
   - /img/how-to-increase-nte-stamina/inline-3.webp
   - /img/how-to-increase-nte-stamina/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Managing your energy reserves is the difference between a successful day in Hesperia and a frustrating walk home. This guide explains how to increase stamina in Neverness to Everness (NTE) across all three primary resource systems.
 
@@ -60,7 +60,7 @@ City Stamina is a unique system tied to the "Everness" side of the game. It is u
 ![Direct Answer](/img/how-to-increase-nte-stamina/inline-2.webp)
 
 
-To increase your stamina in Neverness to Everness, you must focus on three specific progression paths
+To increase your stamina in Neverness to Everness, you must focus on three specific progression paths:
 
 *   **Exploration Stamina:** Permanently increased by leveling up the **Witch's House** system located southwest of Hankaku Street. You must collect birds (Oracle Birds) found throughout the world to earn **Oracle Stones**, which are the currency required for these upgrades.
 *   **Character Pixel Cap:** Increased by purchasing player housing, such as the **Wiener Apartments** or **Fangan Villa**, and placing specific **Anomaly Furniture**. These items provide passive bonuses to your maximum energy storage.

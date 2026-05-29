@@ -1,4 +1,4 @@
---
+---
 title: Best 4-Star Weapons for DPS in Neverness to Everness (NTE)
 slug: best-4-star-weapons-dps-nte
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.7
 word_count: 1983
 published_at: "2026-05-22T08:30:29.831389+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMV3A_WsNKX5m_1vBv3hSjsnXzVU_EYbCzK7FQB-wYaoji3f5JNKLwwfJqx9fgcEcvKO5qDeCdqW_m1Iv9vFjEhRzV9AEqHZkyLMZB9oW0LTEZd_FRrt2YQ3SG8sXgzKFd3NuAgaujW-97mQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoz1WeOAef2o6pREFplNgksYCgf1DO7D9nucpYkPOXq7_19guQxHfhTQ7KkNx6JgeW9BGvRc4RJCdvvrY5HBu-MNhPaWHrAbHkaz07jzpGkf3ZQ0p7bCQFmm_MjKfh7ZW7vUJMj_qVaslLJz72l-au9OdiwWXGNlif5A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE91Tyuqgt_d79cSNI0q4alPUILkxko27YJQkt58_WJXd_nkmVPr9jL19bWKrZCiiMD43D2QvpFbpAKLvKH06SVhXNmATlr3cO7T7ID3PijD3-Oi-Ev3QLqTCg2bVCfQVW-ru-3UERuR6Wejkne7vAxyb6z3hg3_Nn7D8wH_GIKS3gF1w=="
@@ -28,19 +28,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxSiwjgSO_uuhAJNbi0AQ2MMa16IF3CfZ_cU_cNAjAqgy4a4WE1ud9Pd32qFrpaU1d8nZosUqu_jUWVwuSQG630u239Lrhec_8yYrxzk1rXEzfN-a21_fOWrYggow9qsjosJUV0tybpXVqjA=="
 game: unknown
 hero_image: /img/best-4-star-weapons-dps-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-weapons-dps-nte/inline-1.webp
   - /img/best-4-star-weapons-dps-nte/inline-2.webp
   - /img/best-4-star-weapons-dps-nte/inline-3.webp
   - /img/best-4-star-weapons-dps-nte/inline-5.webp
   - /img/best-4-star-weapons-dps-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Finding the right weapon in the supernatural urban sprawl of Hethereau can be the difference between a clean Anomaly containment and a total team wipe.
 
@@ -65,7 +65,7 @@ Ranking Arcs in Neverness to Everness requires looking past raw numbers and into
 
 ### Stat Priority for DPS Espers
 
-When equipping your Espers, the attribute match is the first thing you must check. Neverness to Everness uses a strict typing system: Plasma, Solid, Gas, Liquid, and Synthesis. An Esper can only equip an Arc that matches their type. Beyond the type, a DPS Esper usually looks for the following stat priority
+When equipping your Espers, the attribute match is the first thing you must check. Neverness to Everness uses a strict typing system: Plasma, Solid, Gas, Liquid, and Synthesis. An Esper can only equip an Arc that matches their type. Beyond the type, a DPS Esper usually looks for the following stat priority:
 
 1.  **Attribute DMG Bonus:** (e.g., Psyche DMG, Anima DMG)
 2.  **Critical Hit Rate / Damage:** Essential for late-game scaling.

@@ -1,4 +1,4 @@
---
+---
 title: "How to Build Silver Wolf HSR: Best Light Cones, Relics & Teams"
 slug: how-to-build-silver-wolf-hsr
 game: hsr
@@ -9,21 +9,21 @@ published_at: "2026-05-13T19:33:29.691253+00:00"
 published_url: /guides/how-to-build-silver-wolf-hsr
 sources: []
 hero_image: /img/how-to-build-silver-wolf-hsr/hero.webp
-inline_images
+inline_images:
   - /img/how-to-build-silver-wolf-hsr/inline-1.webp
   - /img/how-to-build-silver-wolf-hsr/inline-2.webp
   - /img/how-to-build-silver-wolf-hsr/inline-3.webp
   - /img/how-to-build-silver-wolf-hsr/inline-4.webp
   - /img/how-to-build-silver-wolf-hsr/inline-5.webp
   - /img/how-to-build-silver-wolf-hsr/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Silver Wolf remains one of the most unique and impactful Nihility characters in Honkai: Star Rail due to her ability to manipulate enemy weaknesses. Whether you are looking to enable a Mono-Quantum team or maximize the damage of debuff-hungry carries like Acheron or Dr. Ratio, understanding her complex stat requirements is essential.
 
@@ -183,7 +183,7 @@ Silver Wolf is generally played as an SP-positive or SP-neutral character.
 2.  **Turn 2 & 3:** Use Basic Attacks. Her Talent will still apply "Bugs" on Basic Attacks, and the Weakness Implant lasts for 3 turns.
 3.  **Turn 4:** Re-apply Skill if the weakness has expired or if you are switching targets.
 
-If you are using the "Before the Tutorial Mission Starts" Light Cone at S5 along with an ERR Rope, you can achieve a 3-turn Ultimate rotation
+If you are using the "Before the Tutorial Mission Starts" Light Cone at S5 along with an ERR Rope, you can achieve a 3-turn Ultimate rotation:
 *   **Skill -> Basic -> Basic = 30 + 20 + 20 = 70 Energy.**
 *   **Tutorial Passive (8 energy per hit against DEF-shredded enemies) = 24 Energy.**
 *   **Total = 94 Energy.** With a 5% ERR from Planar sets or a 19.4% ERR Rope, you easily hit the 110 Energy requirement for her Ultimate.

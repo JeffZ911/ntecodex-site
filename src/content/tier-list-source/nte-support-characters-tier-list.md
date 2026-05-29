@@ -1,4 +1,4 @@
---
+---
 title: "NTE Support Characters Tier List: Best Espers (May 2026)"
 slug: nte-support-characters-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 2382
 published_at: "2026-05-25T07:15:09.592038+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYA92ocBf-BXVW-FIk493KoDulVkpDJOay8Vf8ntIQwzWnMlAhA2HDFIYxoOrXoQsW2u2h1-cgJ-KoPdNCWpyaLKHb_CdI6pxgLq3S1kFEvYkYycKpY7gFfAzKzaJEd4l7wnei4jHIZ8PgAdFD60qeOaXUGb-cwBgtcE6O"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE_L73h7pfQMIbmgJaObz_HgnK8WLNJ5g3e77bq5Y46sAXVPhqVDDtpbrGv9jSyXtAJghYgBAsdwuN7M1h2qPygk5_k2YrtzUOoq1dwFzG-xxSYPGCrIFIhRaVt59OT1GfDm71BN6EgyXr8he4Z8MfX9qR3e4FMA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFl0YY3uFue6ypC7Iscg3TUziUkcgIKXNVeoO7Wgq7MCrhDOBhniTmNib85GsOlLZVpARQKHGKMbETeApF4JSKJdhvkqVK0PfOUVpDXSfxQ3ZnzBpbAAphjRhB8HYnCF8346thfavjaTXaGIsSEsXgBGccfpOHPiwAvxfu57M5a9pN"
@@ -20,21 +20,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tc66hzUm0ZlcbFNm5lBjl8X5yGE-uJPWiwOKUeYgBUZw79NhHJydDAXKsUtDjZr3Bgmb1N8uoaMYb_6MmwrBe4igV-CGl_URHJ5EvPXuGf7qjHTuocXUEw8BPVN9aKDb3npYXcSKIWhoiwFkguqgKpLhn-whhAO8SvONoH89Xw=="
 game: unknown
 hero_image: /img/nte-support-characters-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-support-characters-tier-list/inline-1.webp
   - /img/nte-support-characters-tier-list/inline-2.webp
   - /img/nte-support-characters-tier-list/inline-3.webp
   - /img/nte-support-characters-tier-list/inline-4.webp
   - /img/nte-support-characters-tier-list/inline-5.webp
   - /img/nte-support-characters-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Navigating the supernatural streets of Hethereau requires more than just high-octane vehicles and raw firepower; it demands a strategic understanding of the Esper Cycle to keep your team alive and optimized.
 

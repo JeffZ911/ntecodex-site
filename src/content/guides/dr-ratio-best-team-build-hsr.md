@@ -1,4 +1,4 @@
---
+---
 title: "Dr. Ratio Best Team Build HSR: Best Light Cones & Relics"
 slug: dr-ratio-best-team-build-hsr
 game: hsr
@@ -9,21 +9,21 @@ published_at: "2026-05-13T11:34:11.190954+00:00"
 published_url: /guides/dr-ratio-best-team-build-hsr
 sources: []
 hero_image: /img/dr-ratio-best-team-build-hsr/hero.webp
-inline_images
+inline_images:
   - /img/dr-ratio-best-team-build-hsr/inline-1.webp
   - /img/dr-ratio-best-team-build-hsr/inline-2.webp
   - /img/dr-ratio-best-team-build-hsr/inline-3.webp
   - /img/dr-ratio-best-team-build-hsr/inline-4.webp
   - /img/dr-ratio-best-team-build-hsr/inline-5.webp
   - /img/dr-ratio-best-team-build-hsr/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Dr. Ratio remains the premier single-target DPS for players who enjoy surgical precision and devastating follow-up attacks. As a cornerstone of the follow-up attack (FUA) meta, mastering his debuff-centric mechanics is essential for clearing the game's toughest endgame challenges.
 

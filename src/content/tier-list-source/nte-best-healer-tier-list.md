@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Healer Tier List: Top Supports Ranked (May 2026)"
 slug: nte-best-healer-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T14:30:35.121212+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-healer-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-healer-tier-list/inline-1.webp
   - /img/nte-best-healer-tier-list/inline-2.webp
   - /img/nte-best-healer-tier-list/inline-3.webp
   - /img/nte-best-healer-tier-list/inline-4.webp
   - /img/nte-best-healer-tier-list/inline-5.webp
   - /img/nte-best-healer-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Surviving the supernatural anomalies of Hethereau requires more than just high damage; you need a support capable of keeping your team standing during intense urban combat. This NTE best healer tier list breaks down the top sustain characters in the Version 1.0 meta to ensure your squad never falls in the field.
 

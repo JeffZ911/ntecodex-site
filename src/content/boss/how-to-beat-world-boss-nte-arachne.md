@@ -1,4 +1,4 @@
---
+---
 title: How to Beat the Never-Ending Arachne World Boss in NTE
 slug: how-to-beat-world-boss-nte-arachne
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 1613
 published_at: "2026-05-16T10:16:03.020825+00:00"
 published_url: /boss/how-to-beat-world-boss-nte-arachne
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQfE7_CTeZ0eBt-EpklJZBCI-cFRibH4iEHagqgkFYMr_JTDX9-3IxtJF19XCkzU-A_-EhXcaZ6Da-DHac-Z7llh0ryrc-Eq6fw1GtZGPYjYIR1uuKeulFciupZGIkGobHX9misvw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH0yVM0i0-ei1iBnDyjZ8GtH0e_9ZNRVa2rlKQ3EU4izJw_Nw7VHciT6cEZ42Vtz2as8FfukJnZItX82mXWilMVmmRfxjIDgqcN2tlLTbrzw_hDQsKZ8Ywv84I0QFnMeWlhDF1bbI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeCcPgUhwu0QAuiR0qk5g8TerXjtjKMq2JqxJEnvSaO_pp0xLlErSpKUWYKg-MQ7JPwcPdsL9lqbVY1XpO-uZbnXPBekqCKSShI0GkPeiNYosOXg3bnKrTaHoXItzesMbRP5dLBjC-RBWeUuyqRHo52AUFfZAYZ1yxN9wk-SmwzXVabA8bzH6kVVjxmVyBwXCt5NpENSXbxSgooWlX8UjqQDOKr7yT8VKvggyzHyTCyg8TTctC"
@@ -26,19 +26,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_qvaREaVzMD_WwGTdvQw_kGO7xQrf2GMERYGhjKW7ni8Hzf3YLstj54IMUP4Y4zJftbPNF03h_s4XsESPtO4DNNMM7yJkRhLQcV1WBe_zlx_XNd7Gi-YZZe3H2PRkE1kaMjulTI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG84ehyqET-SGEDQNSLpY0U5tdemlO-7DmV3HmsAI8s7CQswoWXsiSFZGMSkZ6twBc1el1c8q7zvUoy4P4qsG4D9RM87xJr6L4dwVon91XRHn9xDNWRO03aqbskHqFsZnl-ClDKAenHeTX5ZaO1Mpq9M8E9hwepuCWLluopdKlTFWPXQx9HSM8="
 hero_image: /img/how-to-beat-world-boss-nte-arachne/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-world-boss-nte-arachne/inline-1.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-2.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-3.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-4.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 The Never-Ending Arachne is one of the most mechanically demanding High-Risk Anomalies in Neverness to Everness, requiring precise parry timing and a deep understanding of the Esper Cycle system to overcome.
 
@@ -128,7 +128,7 @@ During the Puppet Waltz, your only goal is to survive and build your Esper Cycle
 
 The white bar below the boss's HP is your primary target. In Phase 2, prioritize characters with high "Break Efficiency."
 *   **Parry Priority:** Every time you see the golden flash, switch to your "Breaker" (like Daffodil) and perform a parry. This is the fastest way to deplete the bar.
-*   **The Downed State:** When the bar is empty, the boss will collapse for approximately 10 seconds. She takes 50% increased damage during this window. 
+*   **The Downed State:** When the bar is empty, the boss will collapse for approximately 10 seconds. She takes 50% increased damage during this window.
 *   **Time Freezing:** Use your Ultimate abilities during this window. The animation for most Ultimates "freezes" the stagger timer, allowing you to squeeze out more damage than the 10-second window would normally allow.
 
 ### Managing the Esper Cycle Meter

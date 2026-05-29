@@ -1,4 +1,4 @@
---
+---
 title: "Lingyang Build Guide: Best Echoes, Weapons & Teams (WuWa)"
 slug: lingyang-build-guide-wuthering-waves
 game: wuthering_waves
@@ -9,21 +9,21 @@ published_at: "2026-05-14T06:51:18.289161+00:00"
 published_url: /guides/lingyang-build-guide-wuthering-waves
 sources: []
 hero_image: /img/lingyang-build-guide-wuthering-waves/hero.webp
-inline_images
+inline_images:
   - /img/lingyang-build-guide-wuthering-waves/inline-1.webp
   - /img/lingyang-build-guide-wuthering-waves/inline-2.webp
   - /img/lingyang-build-guide-wuthering-waves/inline-3.webp
   - /img/lingyang-build-guide-wuthering-waves/inline-4.webp
   - /img/lingyang-build-guide-wuthering-waves/inline-5.webp
   - /img/lingyang-build-guide-wuthering-waves/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Lingyang brings a high-energy, vertical playstyle to Wuthering Waves that sets him apart from the rest of the roster. Mastering his aerial maneuvers and Glacio-infused strikes allows players to bypass many ground-based enemy attacks while delivering consistent burst damage.
 
@@ -113,7 +113,7 @@ The **Lampylumen Myriad** is the essential 4-cost Echo for Lingyang. When activa
 
 ### Sub-stat Priority and Energy Requirements
 
-To ensure Lingyang performs optimally, aim for the following Echo stats
+To ensure Lingyang performs optimally, aim for the following Echo stats:
 
 | Echo Slot | Main Stat Priority |
 | :--- | :--- |

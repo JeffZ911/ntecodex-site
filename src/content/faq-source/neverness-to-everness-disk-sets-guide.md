@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Disk Sets Guide: Best Cartridges & Modules"
 slug: neverness-to-everness-disk-sets-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-disk-sets-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-disk-sets-guide/inline-1.webp
   - /img/neverness-to-everness-disk-sets-guide/inline-2.webp
   - /img/neverness-to-everness-disk-sets-guide/inline-3.webp
   - /img/neverness-to-everness-disk-sets-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character's Console in Hethereau requires more than just high-level gear; it demands a strategic approach to the spatial puzzle of the Disk Set system.
 
@@ -32,7 +32,7 @@ Optimizing your character's Console in Hethereau requires more than just high-le
 ![Question Restated](/img/neverness-to-everness-disk-sets-guide/inline-1.webp)
 
 
-In Neverness to Everness (NTE), players often find themselves overwhelmed by the complexity of the gear system. This guide addresses the core mechanics of the Console Architecture to answer the following questions
+In Neverness to Everness (NTE), players often find themselves overwhelmed by the complexity of the gear system. This guide addresses the core mechanics of the Console Architecture to answer the following questions:
 
 *   **What are Disk Sets (Cartridges) in Neverness to Everness?** We define the relationship between the central Cartridge and the supporting Modules.
 *   **How do you activate set bonuses using the Tetris-like Module system?** We explain the spatial requirements and the "No Rotation" rule that dictates build efficiency.
@@ -57,7 +57,7 @@ Set bonuses are divided into two tiers: the Epic (2-piece) bonus and the Legenda
 
 The Console is the heart of character progression in Neverness to Everness. Every character, from the anomaly-hunting Zero to the high-speed [Nanally](/characters/nanally-guide-nte), possesses a 20-slot grid. This grid is not just a menu; it is a physical space where gear must be arranged.
 
-The system is built on two distinct components
+The system is built on two distinct components:
 
 1.  **The Cartridge:** This is the primary component. It occupies a fixed portion of the grid and provides a random main stat, such as Elemental Damage Bonus or ATK%. Most importantly, the Cartridge defines the set bonus and lists the "Required Shapes" needed to unlock the 4-piece effect.
 2.  **Modules:** These are the Tetris-like blocks that fill the rest of the grid. Modules provide fixed main stats based on their "Type" (size) and several random substats.
@@ -117,7 +117,7 @@ Efficiency in the late game involves farming Rabbit Holes for Modules with perfe
 
 When evaluating a Disk Set, the Cartridge's main stat is your first priority. For DPS characters, you generally want an **Elemental DMG Bonus** that matches their attribute (e.g., Physical for Nanally, Fire for Zero). For supports, **Energy Regeneration** or **Cycle Intensity** are the preferred Cartridge stats.
 
-Substats on Modules are revealed immediately upon acquisition, removing the need to "level up" a piece of gear just to see if it is good. The priority for substats generally follows this hierarchy for damage dealers
+Substats on Modules are revealed immediately upon acquisition, removing the need to "level up" a piece of gear just to see if it is good. The priority for substats generally follows this hierarchy for damage dealers:
 
 1.  **CRIT Rate / CRIT DMG:** Essential for scaling late-game damage.
 2.  **Cycle Intensity:** Increases the damage and effects of elemental reactions within the Esper Cycle system.

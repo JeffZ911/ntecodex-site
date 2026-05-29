@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Map Exploration Guide: Best Nanally Build"
 slug: neverness-to-everness-map-exploration-guide-nanally-build
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1854
 published_at: "2026-05-24T04:16:53.164935+00:00"
 published_url: /guides/neverness-to-everness-map-exploration-guide-nanally-build
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAXD9WrGBaIM0vWEdZg4dAwICG7Wp0EqYSUkFQjtX81N5ZdjDlfmZLxBfyJw7kW9PvMMABDEAkJ_OqhRwqoVqt-VyapHjrBrDxMAQ4GfM6dxulIYrRfycDogesOAGA71BoTR_b-z14bVIbbTe6AyvOZZIvxGcB96M6SJb8APkC-i_bH3I6aYG0"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4RsdM4hX3leNAPHvvNyGNi7LRWevV1D6iHDwssMvXMOZOBy0SQ-aBBp6a0JhzFVr4GpKk4nc6ekdNRo_B_BRCvhqzPAp-eub6iJ-Ds6YvNDlFpF2gRAUTbFPyLbnxtV6tQxC7GSSQ1eCi8aiODSqafsCmrUFONXVNyXOcjjsulFkYYF0f_h1AGDx51Dy9v9llQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvkGPhsOukxEirwbZqi72-yNXzNxG-NQOWBEoWV65IBfpb7q1HTlBBzxQjl5g1oeHwe89laY0oWSZLoRqc8EO564p-TfpeDqzT36hEv9TPmtKvqnY1Xq5p4cVOjl91YhQmJ7H2iWwuHJXoZ1a6hUdC3MmWjkMLPzynRp884TgXP0heuXOegrXL8n3U3SgPi1oCwEXjBS-ccByDWFs="
@@ -31,21 +31,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD1THYfmdvpNApswi3ZC5k9o1tq8UOKsT5Ar6QhzXyn2vNp8ojKuRc6guSj9OReVCbCXsGPmLFdGD5B3UaqjXl_HREhL1g9mSQFHMEkC-JO7fMExusk1kl4y5h_1WD7VUC4y81sXv-PK4V7wWJ_viTFbCwINaBBAnginwqxByMJHcBFsQ09ARPplo="
 game: unknown
 hero_image: /img/neverness-to-everness-map-exploration-guide-nanally-build/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-1.webp
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-2.webp
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-3.webp
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-4.webp
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-5.webp
   - /img/neverness-to-everness-map-exploration-guide-nanally-build/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 With her signature cat-eared hood and gravity-defying combat style, [Nanally](/characters/nanally-guide-nte) has solidified her position as the premier damage dealer for the Hethereau urban sprawl. 
 
@@ -77,7 +77,7 @@ To maximize Nanally's potential, you must understand her scaling. At Level 80, h
 
 ### Exploration Perks
 
-Nanally’s utility extends far beyond her damage numbers. Her exploration-specific passives make her the most efficient choice for open-world traversal
+Nanally’s utility extends far beyond her damage numbers. Her exploration-specific passives make her the most efficient choice for open-world traversal:
 
 *   **Wall-Running Duration:** Entering the **Ichi-daime's Authority** state grants 12 seconds of gravity-defying movement. This duration is extended to 20 seconds when out of combat, allowing for massive vertical climbs.
 *   **Stamina Consumption Reduction:** While running on vertical surfaces, Nanally consumes 30% less stamina compared to standard sprinting, enabling her to scale the tallest skyscrapers in the Harbor District.
@@ -193,7 +193,7 @@ Once in the Ichi-daime's Authority state, cast **Colucci Ultimate Technique** to
 
 ### Exploration Rotation: Infinite Wall-Running
 
-To maintain vertical movement indefinitely
+To maintain vertical movement indefinitely:
 1.  Enter **Ichi-daime's Authority** via her Skill.
 2.  Sprint up the wall.
 3.  When the timer at the bottom of the screen reaches 2 seconds, use her **Ultimate**. This refreshes the gravity-defying state for an additional 6 seconds.

@@ -1,4 +1,4 @@
---
+---
 title: "Best Healers in Neverness to Everness: Tier List (May 2026)"
 slug: best-healers-neverness-to-everness-tier-list
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healers-neverness-to-everness-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-healers-neverness-to-everness-tier-list/inline-1.webp
   - /img/best-healers-neverness-to-everness-tier-list/inline-2.webp
   - /img/best-healers-neverness-to-everness-tier-list/inline-4.webp
   - /img/best-healers-neverness-to-everness-tier-list/inline-5.webp
   - /img/best-healers-neverness-to-everness-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Surviving the chaotic streets of Hethereau requires more than just high damage; it demands a robust support system to manage the constant pressure from Urban Anomalies.
 

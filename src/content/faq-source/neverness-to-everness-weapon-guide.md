@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Weapon Guide: Best Arcs & Gacha Tips"
 slug: neverness-to-everness-weapon-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 1718
 published_at: "2026-05-22T06:49:26.181464+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofgtHefOW7OpRz9YdmWPkV3w3kITVx45rZpkFsIxRjii7SHZwoa7SB3dy1E9ls05Ou473gkwaeA6pSAPZXWGCTkAcP7GM4yFJ7rWy0iL4kPnjmrxtRi2sgzRCUwZO5m6prI-OmWE6jnZIZFl1lA2Eo51r0Y_1cGBOe3rC8CroE5l2Kec="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFMHC2htc8AKYpwx6YKR_lPhhnqigyLyf1fpbJDsVgh_e2mGF1VOvHC-u1Hsz87H88FPi66E1ON6q6S5fJXB8QZ_ayNfQtaP0TSZ-ImvntTyqxvNvgI02VuIBtLMPhrOOSbi9pbw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwVCSvGiNWRQ0PDy4BfXQEhhn2HjC3taQB9_AB-TuHKe77c_h2yfst1187JXJ3wUPEmNo47AQvAzMg8vt5myhYDgddgRf83GvAFyaaPKeHLUXYfoFNCK8BTc2W019Lm6T0xxHG1Z24L6eizzvTTA=="
@@ -26,17 +26,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNAPNfk24IHzGwCohOGqsIDPELDwTilYQwE21kM5A06qxW13GZUVHY6A0eWEXCgmIoY274mID0bWuZegWU-LYobcUPOG-5m0d32c1hrTW_RfzfXJiAlLj0_lrNSF7uZW29AyeTxoslKZZrYexM-lgWm3CwFJEVumgsKcN8UPKlEHxjpZ_KA-5rehZb4U4N3ZrWBmRkWTJBelT8PN8GHJdSnHw_Jrzvv0l7L-YvZDZGJOaRogYAhxBDUkYHJ9dZg=="
 game: unknown
 hero_image: /img/neverness-to-everness-weapon-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-weapon-guide/inline-1.webp
   - /img/neverness-to-everness-weapon-guide/inline-2.webp
   - /img/neverness-to-everness-weapon-guide/inline-3.webp
   - /img/neverness-to-everness-weapon-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In the neon-drenched streets of Hethereau, your survival depends as much on your equipment as it does on your Esper’s innate abilities. Mastering the weapon system is the first step toward dominating the high-stakes combat of Neverness to Everness (NTE).
 
@@ -49,7 +49,7 @@ Navigating the equipment landscape in Neverness to Everness requires a firm unde
 ![Question Restated](/img/neverness-to-everness-weapon-guide/inline-1.webp)
 
 
-When diving into the gear progression of Neverness to Everness, players typically find themselves asking several core questions
+When diving into the gear progression of Neverness to Everness, players typically find themselves asking several core questions:
 
 *   **What are the different types of weapons (Arcs) in Neverness to Everness?** Understanding the five distinct categories—Plasma, Solid, Gas, Liquid, and Synthesis—is vital because Arcs are type-locked to specific Esper classes.
 *   **How does the weapon gacha (Arc Research Program) and pity system work?** Players need to know how to efficiently spend their Tri-Keys and Analith to secure S-Rank Arcs without wasting resources.
@@ -127,7 +127,7 @@ The **Arc Research Program** (often found under the Scarborough Fair menu) is wh
 
 ### Enhancing Your Arsenal: Leveling, Refinement, and Ascension
 
-To keep your Arcs effective in late-game Anomalies, you must engage with three upgrade systems
+To keep your Arcs effective in late-game Anomalies, you must engage with three upgrade systems:
 
 1.  **Leveling:** Uses standard enhancement materials to increase the Arc's level, directly boosting its Base ATK.
 2.  **Refinement (Mixing Level):** By feeding duplicate copies of an Arc into the original, you increase its Mixing Level from 1 to 5. This significantly enhances the percentages and durations of the Arc's passive skills.

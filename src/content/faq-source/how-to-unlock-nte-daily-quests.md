@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Daily Quests in Neverness to Everness (NTE Guide)
 slug: how-to-unlock-nte-daily-quests
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-nte-daily-quests/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-nte-daily-quests/inline-1.webp
   - /img/how-to-unlock-nte-daily-quests/inline-2.webp
   - /img/how-to-unlock-nte-daily-quests/inline-3.webp
   - /img/how-to-unlock-nte-daily-quests/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your progression in Hethereau requires a consistent approach to the daily systems introduced shortly after the game's launch. This guide explains the exact steps to access and complete your daily routine to ensure your Hunter level keeps pace with the story content.
 
@@ -67,7 +67,7 @@ To reach this milestone, you must follow the main objective marker through the i
 
 ### Where to Find the Exploration Guide
 
-The Exploration Guide serves as your central hub for all activity tracking. Within this menu, you will see several tabs
+The Exploration Guide serves as your central hub for all activity tracking. Within this menu, you will see several tabs:
 1.  **Participation Tasks:** Your primary daily goal list.
 2.  **Circle Bounty:** The seasonal battle pass objectives.
 3.  **Weekly Commissions:** High-reward tasks that reset every Monday.
@@ -129,7 +129,7 @@ There are two specific locations in Hethereau that offer daily buffs or items th
 
 ### City Tycoon: Cafe Management and Passive Income
 
-The "Cafe by Origen" is the first business you unlock. Daily management is required to keep the Fons flowing. You must
+The "Cafe by Origen" is the first business you unlock. Daily management is required to keep the Fons flowing. You must:
 1.  Collect the accumulated profits (capped at 24 hours).
 2.  Restock ingredients purchased from the city markets.
 3.  Assign characters with the "Service" trait to the floor to increase efficiency.

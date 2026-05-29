@@ -1,4 +1,4 @@
---
+---
 title: "NTE Support Tier List for Endgame: Best Characters Ranked (May 2026)"
 slug: nte-support-tier-list-endgame
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-support-tier-list-endgame/hero.webp
-inline_images
+inline_images:
   - /img/nte-support-tier-list-endgame/inline-1.webp
   - /img/nte-support-tier-list-endgame/inline-2.webp
   - /img/nte-support-tier-list-endgame/inline-3.webp
   - /img/nte-support-tier-list-endgame/inline-4.webp
   - /img/nte-support-tier-list-endgame/inline-5.webp
   - /img/nte-support-tier-list-endgame/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 As the metropolitan chaos of Hethereau reaches its peak, mastering the intricate Esper Cycle system is the only way to survive the punishing difficulty of the latest Anomaly Zones.
 
@@ -36,7 +36,7 @@ In the current meta of Neverness to Everness (NTE), team building has shifted fr
 ![Methodology](/img/nte-support-tier-list-endgame/inline-1.webp)
 
 
-Ranking the best support characters for the NTE endgame involves analyzing how a unit contributes to the team's total "Clear Speed" and "Survivability" in environments where enemy Stagger Bars are exceptionally high. The following criteria define our rankings
+Ranking the best support characters for the NTE endgame involves analyzing how a unit contributes to the team's total "Clear Speed" and "Survivability" in environments where enemy Stagger Bars are exceptionally high. The following criteria define our rankings:
 
 *   **Buffing Potency:** The raw percentage increase to ATK, Crit DMG, or Elemental DMG provided to the main DPS.
 *   **Esper Cycle Synergy:** How effectively the unit applies elements (Anima, Cosmos, Incantation, Chaos) to facilitate high-frequency reactions.

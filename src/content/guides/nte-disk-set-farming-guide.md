@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Disk Set Farming Guide: Best Cartridges"
 slug: nte-disk-set-farming-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-16T05:28:40.022936+00:00"
 published_url: /guides/nte-disk-set-farming-guide
 sources: []
 hero_image: /img/nte-disk-set-farming-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-disk-set-farming-guide/inline-2.webp
   - /img/nte-disk-set-farming-guide/inline-3.webp
   - /img/nte-disk-set-farming-guide/inline-4.webp
   - /img/nte-disk-set-farming-guide/inline-5.webp
   - /img/nte-disk-set-farming-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing your character's potential in Hethereau requires more than just leveling up; it demands a deep understanding of the Console system. This gear architecture is the backbone of character builds, dictating how your Espers perform in high-stakes combat within the Anomaly Zones.
 

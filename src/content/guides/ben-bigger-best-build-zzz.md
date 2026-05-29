@@ -1,4 +1,4 @@
---
+---
 title: "Ben Bigger Best Build ZZZ: Best W-Engines, Discs, & Teams"
 slug: ben-bigger-best-build-zzz
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-14T08:51:19.095297+00:00"
 published_url: /guides/ben-bigger-best-build-zzz
 sources: []
 hero_image: /img/ben-bigger-best-build-zzz/hero.webp
-inline_images
+inline_images:
   - /img/ben-bigger-best-build-zzz/inline-1.webp
   - /img/ben-bigger-best-build-zzz/inline-2.webp
   - /img/ben-bigger-best-build-zzz/inline-3.webp
   - /img/ben-bigger-best-build-zzz/inline-4.webp
   - /img/ben-bigger-best-build-zzz/inline-5.webp
   - /img/ben-bigger-best-build-zzz/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 As the only character in Zenless Zone Zero capable of directly blocking incoming attacks with a dedicated parry mechanic, Ben Bigger is the cornerstone of any defensive team composition. This massive bear from Belobog Heavy Industries does more than just soak up damage; he transforms defense into offense while providing critical utility that elevates his teammates' damage potential.
 
@@ -132,7 +132,7 @@ For the remaining two slots, **Swing Jazz** is the most popular choice. Ben’s 
 Alternatively, if you find your team lacks a dedicated Stunner, you can run **Shockstar Disco** for the 6% Impact bonus. This allows Ben's heavy counters to contribute more significantly to the enemy's Daze bar.
 
 ### Main Stats and Sub-stats to Prioritize
-When leveling your Drive Discs, look for the following main stats
+When leveling your Drive Discs, look for the following main stats:
 
 *   **Slot 4:** DEF% (Crucial for shield scaling)
 *   **Slot 5:** DEF% or Fire DMG% (DEF% is safer for pure tanking; Fire DMG% increases counter-attack damage)

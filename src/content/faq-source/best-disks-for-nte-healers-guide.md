@@ -1,4 +1,4 @@
---
+---
 title: "Best Disks for NTE Healers: Top Cartridge Sets & Builds"
 slug: best-disks-for-nte-healers-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-for-nte-healers-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-for-nte-healers-guide/inline-1.webp
   - /img/best-disks-for-nte-healers-guide/inline-2.webp
   - /img/best-disks-for-nte-healers-guide/inline-3.webp
   - /img/best-disks-for-nte-healers-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your support units is the key to surviving the high-intensity anomalies of Hethereau as the meta shifts toward sustain-heavy endgame encounters.
 
@@ -83,7 +83,7 @@ Specifically tailored for units that scale aggressively with Max HP, this set is
 The effectiveness of a healer is not just determined by their base kit but by the synergy between their Cartridges and their specific ability scaling. Below is a deep dive into the mechanics of the top sets and how to build the current roster of healers.
 
 ### Thea's Night Tavern: The Gold Standard for Medics
-Thea's Night Tavern is found in the "Midnight Urban" domain. Its synergy is straightforward
+Thea's Night Tavern is found in the "Midnight Urban" domain. Its synergy is straightforward: 
 *   **2-Piece Effect:** HP +10%.
 *   **4-Piece Effect:** Healing Bonus +20%.
 
@@ -97,7 +97,7 @@ Speedy Hedgehog is the preferred set for endgame "cycle" teams.
 In a game where Ultimates provide significant I-frames (invincibility frames) and utility, having 12% extra Charge Efficiency is massive. When equipped on a unit like Haniel, who has a low-cost Ultimate, you can maintain near 100% uptime on the 15% ATK buff. This makes Speedy Hedgehog a "force multiplier" rather than just a defensive tool.
 
 ### Tiny Big Adventure: The HP-Scaling Powerhouse
-This set is often overlooked because it does not mention "Healing" in its description. However, for Psyche-element healers
+This set is often overlooked because it does not mention "Healing" in its description. However, for Psyche-element healers:
 *   **2-Piece Effect:** HP +10%.
 *   **4-Piece Effect:** Increases Max HP by an additional [information unavailable]% based on the character's Break Intensity.
 
@@ -136,12 +136,12 @@ Haniel is the most versatile support in the Psyche element.
 *   **Stat Priority:** Charge Efficiency is the only stat that matters here. Aim for at least 160% Charge Efficiency to ensure she can trigger the Speedy Hedgehog buff every rotation.
 
 ### Main Stat and Sub-Stat Optimization Strategy
-When farming Cartridges, prioritize the following main stats for your healer's Console
+When farming Cartridges, prioritize the following main stats for your healer's Console:
 1.  **Module Type I:** Always Flat HP (Fixed).
 2.  **Module Type II:** HP% (Primary) or Charge Efficiency (if using Speedy Hedgehog).
 3.  **Module Type III:** Healing Bonus% (Primary) or HP%.
 
-For sub-stats, focus on
+For sub-stats, focus on:
 *   **Tier 1:** HP%, Charge Efficiency.
 *   **Tier 2:** Flat HP, Break Intensity.
 *   **Tier 3:** DEF%, Resistance.

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Disk Sets Explained: Gear Guide"
 slug: neverness-to-everness-disk-sets-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T07:40:59.779864+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-disk-sets-explained/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-disk-sets-explained/inline-1.webp
   - /img/neverness-to-everness-disk-sets-explained/inline-2.webp
   - /img/neverness-to-everness-disk-sets-explained/inline-3.webp
   - /img/neverness-to-everness-disk-sets-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your Esper's loadout in the supernatural urban sprawl of Hethereau requires more than just picking the highest rarity items. Since the game's launch on April 29, 2026, the gear system has stood out as one of the most unique mechanics in the gacha genre, blending traditional stat-building with a spatial puzzle.
 
@@ -34,7 +34,7 @@ Optimizing your Esper's loadout in the supernatural urban sprawl of Hethereau re
 
 When players discuss "Disk Sets" in Neverness to Everness (NTE), they are officially referring to the Console system. This is the primary equipment interface for every Esper in your roster. Unlike standard gear systems where you simply equip items into slots, NTE utilizes a grid-based equipment board where spatial management is just as important as the stats themselves.
 
-The core questions for any player looking to optimize their characters are
+The core questions for any player looking to optimize their characters are:
 *   **What is the Console system?** This is the character equipment grid where you install Cartridges and Modules to gain stat boosts and set bonuses.
 *   **How do Cartridges and Modules differ?** Cartridges act as the "brain" of the set, dictating the unique set bonuses, while Modules serve as the "body," providing raw stats and filling the grid to activate those bonuses.
 *   **Why does the "Tetris" grid matter?** You cannot simply equip any item you find. Every Module has a specific geometric shape (Type-2, Type-3, or Type-4). To maximize an Esper's power, you must fit these shapes into the Console grid without overlapping, ensuring you meet the requirements to trigger the Cartridge's 2-piece and 4-piece set effects.
@@ -80,7 +80,7 @@ Because the grid has limited space, using Type-4 Modules might give you more raw
 
 ### Understanding Stats: Main Stats and Sub-stats
 
-When farming for your Disk Sets, you must prioritize the Cartridge's Main Stat first. Below is a breakdown of the potential Main Stats found on Cartridges
+When farming for your Disk Sets, you must prioritize the Cartridge's Main Stat first. Below is a breakdown of the potential Main Stats found on Cartridges:
 
 | Stat Type | Description | Recommended For |
 | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ For example, **Nanally** (the Anima DPS featured in "The Ichi-daime" banner) has
 
 ### Farming Guide: Rabbit Hole and the Rewind System
 
-Acquiring the best Disk Sets requires engaging with two different systems
+Acquiring the best Disk Sets requires engaging with two different systems:
 
 1.  **Rabbit Hole Anomaly Zones:** This is where you farm **Cartridges**. These combat challenges cost Stamina (Fuel) and drop specific sets on different days of the week. 
     *   **Hunter Level 30:** S-Rank (Gold) Cartridges begin to drop at a low rate.
@@ -110,7 +110,7 @@ Acquiring the best Disk Sets requires engaging with two different systems
 
 ### Best Disk Sets for Every Role
 
-While the "best" set can vary based on your specific Esper, the following sets are currently considered the gold standard in the meta
+While the "best" set can vary based on your specific Esper, the following sets are currently considered the gold standard in the meta:
 
 *   **Fireflies and the Forest:** The premier set for Anima DMG dealers. The 4-piece bonus provides a significant boost to Elemental DMG after using a Skill. Ideal for Nanally.
 *   **Speedy Hedgehog:** Focuses on Attack Speed and Movement Speed. This set is excellent for characters who rely on Normal Attack strings to generate energy or trigger passives.
@@ -126,7 +126,7 @@ Remember that in NTE, the "grind" is front-loaded. Because you see all sub-stats
 ![Related](/img/neverness-to-everness-disk-sets-explained/inline-4.webp)
 
 
-To further improve your team's performance beyond the Console system, consider exploring our other guides
+To further improve your team's performance beyond the Console system, consider exploring our other guides:
 *   **Best Arcs (Weapons) for S-Rank Espers:** Learn which weapons complement your set bonuses.
 *   **Neverness to Everness Character Tier List:** Find out which Espers are worth the heavy investment of S-Rank Modules.
 *   **Esper Cycle and Elemental Reactions Guide:** Master how to use your Ultimates in sync with your Disk Set bonuses.

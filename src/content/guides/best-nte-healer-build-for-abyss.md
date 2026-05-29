@@ -1,4 +1,4 @@
---
+---
 title: "Best NTE Healer Build for Abyss: Haniel & Fadia Guide"
 slug: best-nte-healer-build-for-abyss
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1939
 published_at: "2026-05-15T04:08:30.504022+00:00"
 published_url: /guides/best-nte-healer-build-for-abyss
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr1ExHoPQ-9IdObSkUK5RSZpeUrrhURgjw3R7MFg64eXtDyHnEza98EsvJFgbHqM9ANT7i_77WPAWbzJq8pcVNPnSTo9R-KoTJlSQLua4X79GYze_F1oKWzjLpsOGrkxLF7gV8CiUFL-72t-AYDgvuioyVapIWn3LzcJZjT4Z_Bwo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTtGDdK5OGXYtyAj-yk6QGH0hiyxMRN4qbV7ihhkNc42djxEGbQbgQJHAlOc28S2K1KF1wmzF68Njd8cxFwii7_7IJgFUjCMWr7yBEH310NXPYDV8Pp4SpP8c8SkFFM8tkwlwiujAVi6A9v_5xjsGATZ0keQ1Jwq0Hb1_RcLbTkOk0"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDgdZnDGVPvkpuBMR27-pyurOuRGoC_S8bewzBAt2MGtOBhG6_yln7U6YF76XRBCksIgRPsXzs6kq5R2scUAf0ARnr0c-b6CP63KTH-jEtFAbm79seEQZXk1ZTM9CYBlkIvakRhBOVLDwg-w9qHK8olUnmZPfL1gTqVwjpOxsvEgHWxueKbDYKXR-TVg=="
@@ -27,21 +27,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB6LkgNspng5BjBIcWYE7DRCHpyIWC7jIxrGmsoql59iAjNerMEYWvT5_PdoNudh1brMuPnEWx-lo9aai1GV--TDxjYUV6GJb8BcxNSSBNv2pCuM8vEDxKLs0Ms-E-FrC5ozqPAF_ITI8-hHPb1j6gAyLdRJc1b-4-NyFdW1rPnQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS7tfy1j9PvJf1zkv5F8U4bb6CNoYr51eYMsm2fmL4ij00rl4X7pyARo3FOLjja0F4Yy6DvO-5ftaToG9isemPVoXDSoKkOY8W8tEVqUUJ6zbhYuNZ3zAQwkmceF0r5mFqaRz3UakvH0yBHLjRC4Gj9M5bSpcBGZV2CJAf74MoGT0YrrDaTx5XjXCixUc="
 hero_image: /img/best-nte-healer-build-for-abyss/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-healer-build-for-abyss/inline-1.webp
   - /img/best-nte-healer-build-for-abyss/inline-2.webp
   - /img/best-nte-healer-build-for-abyss/inline-3.webp
   - /img/best-nte-healer-build-for-abyss/inline-4.webp
   - /img/best-nte-healer-build-for-abyss/inline-5.webp
   - /img/best-nte-healer-build-for-abyss/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Surviving the high-pressure environment of the Fracture Circle requires more than just raw damage; it demands a sophisticated sustain strategy built around the game's unique urban combat mechanics.
 

@@ -1,4 +1,4 @@
---
+---
 title: "HSR Effect Hit Rate Explained: Formula, Caps, and Best Stats"
 slug: hsr-effect-hit-rate-explained
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-14T06:24:12.555351+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/hsr-effect-hit-rate-explained/hero.webp
-inline_images
+inline_images:
   - /img/hsr-effect-hit-rate-explained/inline-1.webp
   - /img/hsr-effect-hit-rate-explained/inline-2.webp
   - /img/hsr-effect-hit-rate-explained/inline-3.webp
   - /img/hsr-effect-hit-rate-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Understanding the mechanics of status application is the difference between a seamless clear in Memory of Chaos and a frustrating defeat.
 
@@ -64,7 +64,7 @@ The mechanics of status application are governed by a single formula. By underst
 
 ### The HSR Debuff Formula Breakdown
 
-The "Real Chance" of a debuff landing is calculated as follows
+The "Real Chance" of a debuff landing is calculated as follows:
 
 **Real Chance = Base Chance × (1 + EHR) × (1 - Effect RES) × (1 - Debuff RES)**
 
@@ -83,7 +83,7 @@ For example, Topaz’s "Proof of Debt" status is applied with a 100% Fixed Chanc
 
 ### Enemy Effect RES and Debuff RES Tiers
 
-Enemies in Honkai: Star Rail have different levels of resistance based on their "tier" (Normal, Elite, or Boss) and their level. As of the current game version, most high-level content (Level 90+) follows these general resistance patterns
+Enemies in Honkai: Star Rail have different levels of resistance based on their "tier" (Normal, Elite, or Boss) and their level. As of the current game version, most high-level content (Level 90+) follows these general resistance patterns:
 
 | Enemy Type | Base Effect RES | Notes |
 | :--- | :--- | :--- |

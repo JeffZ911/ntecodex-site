@@ -1,4 +1,4 @@
---
+---
 title: Best F2P Teams for Neverness to Everness (NTE) Tier List
 slug: best-f2p-teams-nte
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-f2p-teams-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-f2p-teams-nte/inline-1.webp
   - /img/best-f2p-teams-nte/inline-2.webp
   - /img/best-f2p-teams-nte/inline-3.webp
   - /img/best-f2p-teams-nte/inline-4.webp
   - /img/best-f2p-teams-nte/inline-5.webp
   - /img/best-f2p-teams-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your account's potential in the urban sprawl of Hethereau doesn't require a massive budget, provided you understand how to leverage the free units provided by Hotta Studio. Since the launch of Neverness to Everness (NTE) on April 29, 2026, the meta has rapidly evolved to favor complex elemental synergies over raw power.
 

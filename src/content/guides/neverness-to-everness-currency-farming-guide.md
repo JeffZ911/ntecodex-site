@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Currency Farming Guide: Best Team Build"
 slug: neverness-to-everness-currency-farming-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neverness-to-everness-currency-farming-guide
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-currency-farming-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-currency-farming-guide/inline-1.webp
   - /img/neverness-to-everness-currency-farming-guide/inline-2.webp
   - /img/neverness-to-everness-currency-farming-guide/inline-3.webp
   - /img/neverness-to-everness-currency-farming-guide/inline-4.webp
   - /img/neverness-to-everness-currency-farming-guide/inline-5.webp
   - /img/neverness-to-everness-currency-farming-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Establishing a steady flow of Fons and Annulith is the difference between driving a standard sedan and cruising through Hethereau in a custom-tuned supercar. This guide provides the most efficient strategies for farming every major currency in Neverness to Everness using the current meta-builds and city management tactics.
 
@@ -120,7 +120,7 @@ The **Cosmos Cartridge** set should be equipped on Zero. This set ensures that h
 
 ### Module Substat Priority for Farming
 
-When tuning your Cartridges, prioritize the following substats in order
+When tuning your Cartridges, prioritize the following substats in order:
 1.  **Charge Efficiency:** Essential for keeping Ultimates available for every wave.
 2.  **Cycle Intensity:** Increases the damage of elemental reactions (Blossom).
 3.  **Break Intensity:** Helps finish off elite enemies (Anomaly Elites) faster by shattering their shields.

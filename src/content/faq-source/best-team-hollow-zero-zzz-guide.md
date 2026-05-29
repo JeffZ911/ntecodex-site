@@ -1,4 +1,4 @@
---
+---
 title: "Best Team for Hollow Zero ZZZ: Top Comps and Resonia Guide"
 slug: best-team-hollow-zero-zzz-guide
 game: zzz
@@ -7,23 +7,23 @@ qa_score: 5.9
 word_count: 1743
 published_at: "2026-05-13T06:54:01.319234+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmUtUZUmMR31W6Gp661Zr1snsXmdkn0HlyyUjwM1rlZ0DBEmD4M9eA0OiooXxaOXklszDC6Xr0PgBH_I02V5zlsWspdTPDPL4CdEWyOtpAor-baaBaMyM9l6Q="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAi4OmlJGUUDsKoV2jNs1bUZWu1aq1PvwLuHCblGML8qjB1H42PUmbqAcUi8_aWUoRLsvjGi-UnkYG___Eg-KFtAWARdEH10JWlysnu4RYsGgnXZte-TrwiED6_7BaCJX0L1UGKH61vDcrccYmsDJBskBoyTA88cM_Y5_VaQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPxlOz8a-gxArXDz0tAjToEU7lqkit5gtnv_i5-qXIusDwKd_E9DZyOD5n9qGqDr-Ojan0-a0iT4-RKDg2zDgCVas_wH_deOZp58eGv9RBT0w9OCTNPFRWjRRjbkGwtt_evtfNMFoZoRunGJSjecsW9Kr5CaUQHIrJfnzkKRVFQNo3KQhRhgWW-Zg11q2H0Pc4YSHNJ_GF"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtgDCaMApQQnSWtNMO28ZBJ8v63W2PeVkqm1TjTudIXnCSuf2LHPAGkqMMYVb-rg6INg9nnDpL1rjYadhHqZBWhOB1PNOj13cxkLKtSffC1zkIlNU0GRN_wYhxrhbg_ETtDk9rXvqO1ZKIoNYQ3FxRzOQbiOU6nlZOhebxrNuNxMLuAP_m94ys-pggybE="
 hero_image: /img/best-team-hollow-zero-zzz-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-team-hollow-zero-zzz-guide/inline-1.webp
   - /img/best-team-hollow-zero-zzz-guide/inline-2.webp
   - /img/best-team-hollow-zero-zzz-guide/inline-3.webp
   - /img/best-team-hollow-zero-zzz-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Success in Hollow Zero hinges on the synergy between your chosen Agents and the Resonia sets you collect throughout each floor. As of May 2026, the meta has expanded to include high-tier factions like the Angels of Delusion and Section 6, but the core mechanics of managing Pressure and matching elements to Resonia remain the foundation of any successful run.
 
@@ -38,7 +38,7 @@ Success in Hollow Zero hinges on the synergy between your chosen Agents and the 
 
 Clearing Hollow Zero, particularly high-intensity zones like Withering Garden or the newer Deadly Assault nodes, requires more than just high-level characters. Players frequently ask which team compositions provide the most consistent results when facing escalating Corruption and the relentless Pressure mechanic. 
 
-Success in this mode involves answering three primary concerns
+Success in this mode involves answering three primary concerns:
 *   **What are the most effective team compositions for clearing Hollow Zero?** You need a team that can handle both large waves of "trash" mobs and high-HP bosses like Nineveh or the latest Eridan threats.
 *   **How do character roles (Attacker, Stun, Support) influence success in high-intensity runs?** While raw damage is important, the ability to build Daze quickly and provide defensive utility becomes mandatory at Intensity 11 and above.
 *   **Which teams synergize best with specific Resonia paths like Freeze, Duel, or Shield?** Your team's elemental affinity and combat style must align with the Resonia you prioritize to unlock powerful "Advanced Resonia" bonuses.
@@ -112,7 +112,7 @@ Resonia are the "roguelike" power-ups found in Hollow Zero. Collecting 4 cards o
 
 ### Managing Pressure and Corruption
 To keep your Pressure low, prioritize "Safe" tiles and avoid "Purple" or "Red" paths unless they lead to a high-value Resonia. If your Pressure hits 100, you will gain a Corruption. 
-*   **Corruption Removal:** Look for the "Purification" tiles or the "Helpful Hollow Resident" events. 
+*   **Corruption Removal:** Look for the "Purification" tiles or the "Helpful Hollow Resident" events.
 *   **The Noodle Shop:** Before entering a run, always visit the Noodle Shop in the Sixth Street or Lumina Square. The **"Veggie Master"** or **"Bone Broth"** noodles provide buffs that can reduce Pressure gain or increase your HP, making the early floors much easier.
 
 ### Best Bangboos for Hollow Zero

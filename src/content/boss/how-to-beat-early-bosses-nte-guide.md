@@ -1,4 +1,4 @@
---
+---
 title: How to Beat Early Bosses in Neverness to Everness (NTE)
 slug: how-to-beat-early-bosses-nte-guide
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1661
 published_at: "2026-05-21T10:39:00.965613+00:00"
 published_url: /boss/how-to-beat-early-bosses-nte-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELle2xyUa4dIk86avyx5CX40dn6s7bP6tYenPH1w_Lqe-lCqCFRCkcMuLpnU0ClaM-Hjpqd1Rm5As_A5iQYLtTREV8k1wCfaFJSFAq189y44CW9-V8KqbBdiReGOogZeQJ_EkQSN5zRsnJlaUm_cmVkjJHFh9s"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp3a7RQ30klfxM25xCdRkU4g8UjH1izfO2A1PAzZvLCGqzH2aB7gZHCPPkgTmJiEuwQSLhs2cg9j7GjgepvUJ9P0MH-Vh2TxXOtuUtN4pcg6LX9QMJdgmqIpkRXYq2JITKvxG2HVn98nA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEnlg__qNuetg_WuH6tQNkf6VA0SA0S4MRjWBnvwH6bcdlp8f2Bz35mfG68MZiUvTHTfAm8pACbiypuD3G6HUSP974p1G6C2EYqBs9tvqlZL0b5H4m8UDh43uBk66_C9sxjFcCGvk="
@@ -20,19 +20,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBsuuMF9pIvJDknAPJorHhgATtgMI_iL44gu9E_i8SPjW8JHWzF4yAb3jPhQMO_5guPRVRrDYL829MpL60i4u0bBFxh08qZJ1SNLFRktRidtIsxm_DLmV0mM0qGgoDWlLiyjniYvZoFpd1Y71KsofBWWn4WSTmA60PUwxVV-KQZDebWkPQPVkbVrJINBns3suQURpLSudZIo63Ef3nZbLzLArZcHspn8M15FrgKTV15Er3IK9eCz2PM2U8PXBuJlcofnEJ0X1tcDBpm1jdnb1LcfHpvi1UUzFQIh88Igo="
 game: unknown
 hero_image: /img/how-to-beat-early-bosses-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-early-bosses-nte-guide/inline-1.webp
   - /img/how-to-beat-early-bosses-nte-guide/inline-2.webp
   - /img/how-to-beat-early-bosses-nte-guide/inline-3.webp
   - /img/how-to-beat-early-bosses-nte-guide/inline-4.webp
   - /img/how-to-beat-early-bosses-nte-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Conquering the supernatural threats lurking in the neon-lit streets of Hethereau requires more than just high-level gear; it demands a deep understanding of the city's complex elemental resonance. This guide provides the essential strategies needed to dismantle the early-game challenges in Neverness to Everness (NTE), from the gravity-defying Nestbound Bird to the puppet-weaving Never-Ending Arachne.
 
@@ -120,7 +120,7 @@ To maximize your damage, you should never stay on one character for too long. As
 
 The Shatter reaction, triggered by combining Incantation and Anima, is specifically tuned for breaking stagger bars. It deals "Toughness Fixed DMG," which ignores the boss's natural defense and directly depletes the white bar.
 
-When a boss prepares a red-marked attack, you have two options
+When a boss prepares a red-marked attack, you have two options:
 *   **Parry:** Press your skill button exactly as the attack connects to instantly fill your Esper Meter and deal high posture damage.
 *   **Critical Dodge:** Dodge at the last possible second to trigger a slowdown effect and enable a **Critical Riposte**. This follow-up attack deals the highest amount of posture damage available in the game and is the fastest way to ground the Nestbound Bird.
 
@@ -135,7 +135,7 @@ Building a team in NTE is about connecting neighboring elements on the Esper Whe
 
 ### The Best F2P Starter Team for Bossing
 
-If you are just starting out, you can clear all early content with the following free characters
+If you are just starting out, you can clear all early content with the following free characters:
 
 | Slot | Character | Element | Role |
 | :--- | :--- | :--- | :--- |
@@ -171,7 +171,7 @@ Defeating these bosses is the primary way to obtain Arcs—the powerful equipmen
 
 ### Ascension Materials and Weekly Reset Rewards
 
-Bosses like the Never-Ending Arachne and Mammon can be farmed up to three times per week using **Character Pixels** (stamina). These weekly clears provide
+Bosses like the Never-Ending Arachne and Mammon can be farmed up to three times per week using **Character Pixels** (stamina). These weekly clears provide:
 *   **Esper Skill Upgrade Materials:** Essential for leveling up your character's unique abilities.
 *   **Fons:** The primary currency needed for gear enhancement.
 *   **Chaos Silhouettes / Cold Desserts:** Specific materials required to ascend characters like Nanally and Chiz past Level 40.

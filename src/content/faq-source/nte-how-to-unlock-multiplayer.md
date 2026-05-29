@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Multiplayer in Neverness to Everness (NTE)
 slug: nte-how-to-unlock-multiplayer
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T18:55:22.272809+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-how-to-unlock-multiplayer/hero.webp
-inline_images
+inline_images:
   - /img/nte-how-to-unlock-multiplayer/inline-1.webp
   - /img/nte-how-to-unlock-multiplayer/inline-2.webp
   - /img/nte-how-to-unlock-multiplayer/inline-3.webp
   - /img/nte-how-to-unlock-multiplayer/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Exploring the neon-soaked streets of Hethereau is a highlight of the experience, but the journey is often more rewarding when shared with other players. Before you can start racing through the urban sprawl or tackling anomalies with a squad, you must progress through the initial stages of the game to unlock the cooperative features.
 
@@ -79,7 +79,7 @@ Every player in Neverness to Everness is assigned a Unique ID (UID). This number
 
 ### Inviting Friends and Joining Worlds
 
-There are two primary ways to start a co-op session
+There are two primary ways to start a co-op session:
 1.  **Invite to Join:** From your friend list, you can select a friend and click "Invite." This sends a notification to their screen. If they accept, they will be teleported to your current location in Hethereau.
 2.  **Request Access:** If you see a friend is already online, you can click "Request to Join." The host must manually approve this request.
 
@@ -109,7 +109,7 @@ In NTE, the multiplayer experience is expansive but has specific rules regarding
 
 ### Pre-Multiplayer Connection Checklist
 
-Before attempting to connect, ensure the following conditions are met to avoid "Connection Failed" errors
+Before attempting to connect, ensure the following conditions are met to avoid "Connection Failed" errors:
 *   [ ] All players have reached Hunter Level 8.
 *   [ ] The host and guests have completed 'Good Business, Better Treasure'.
 *   [ ] All players are on the same regional server (Server transfers are not available).

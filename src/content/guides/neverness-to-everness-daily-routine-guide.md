@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Daily Routine Guide: Best Nanally Build"
 slug: neverness-to-everness-daily-routine-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neverness-to-everness-daily-routine-guide
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-daily-routine-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-daily-routine-guide/inline-1.webp
   - /img/neverness-to-everness-daily-routine-guide/inline-2.webp
   - /img/neverness-to-everness-daily-routine-guide/inline-3.webp
   - /img/neverness-to-everness-daily-routine-guide/inline-4.webp
   - /img/neverness-to-everness-daily-routine-guide/inline-5.webp
   - /img/neverness-to-everness-daily-routine-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing [Nanally](/characters/nanally-guide-nte)'s damage in Neverness to Everness requires a disciplined daily routine and a precise build centered on her high-frequency follow-up attacks. This guide outlines the optimal path to gearing the premier S-Rank Anima DPS and managing your resources in the urban landscape of Hethereau.
 

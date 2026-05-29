@@ -1,4 +1,4 @@
---
+---
 title: "Wuthering Waves Taoqi Build Guide: Best Echoes, Weapons, and Teams"
 slug: taoqi-build-guide-wuthering-waves
 game: wuthering_waves
@@ -9,21 +9,21 @@ published_at: "2026-05-13T22:14:34.449879+00:00"
 published_url: /guides/taoqi-build-guide-wuthering-waves
 sources: []
 hero_image: /img/taoqi-build-guide-wuthering-waves/hero.webp
-inline_images
+inline_images:
   - /img/taoqi-build-guide-wuthering-waves/inline-1.webp
   - /img/taoqi-build-guide-wuthering-waves/inline-2.webp
   - /img/taoqi-build-guide-wuthering-waves/inline-3.webp
   - /img/taoqi-build-guide-wuthering-waves/inline-4.webp
   - /img/taoqi-build-guide-wuthering-waves/inline-5.webp
   - /img/taoqi-build-guide-wuthering-waves/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Taoqi is the ultimate defensive anchor in Wuthering Waves, turning her massive Defense stat into both a shield for allies and a devastating counter-attack for enemies. While often overlooked for faster damage dealers, her ability to provide a 38% Resonance Skill DMG Deepen buff makes her an indispensable support for high-tier units like Danjin and Jiyan.
 
@@ -164,7 +164,7 @@ Taoqi thrives in teams where the Main DPS relies heavily on their Resonance Skil
 
 The synergy between Danjin and Taoqi is currently one of the strongest pairings in Wuthering Waves. Danjin is a "glass cannon" who consumes her own HP to deal massive Havoc damage through her Resonance Skill. 
 
-Taoqi solves both of Danjin's problems
+Taoqi solves both of Danjin's problems:
 1.  **Protection:** Taoqi provides shields and damage reduction, preventing Danjin from being one-shot while at low HP.
 2.  **Damage:** Taoqi’s Outro Skill grants a 38% Resonance Skill DMG Deepen. Since almost 80% of Danjin’s damage comes from her Resonance Skill, this buff results in a massive DPS increase.
 

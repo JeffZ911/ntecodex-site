@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Elemental Reactions Explained: Esper Guide"
 slug: neverness-to-everness-elemental-reactions-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T21:59:39.548709+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-elemental-reactions-explained/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-elemental-reactions-explained/inline-1.webp
   - /img/neverness-to-everness-elemental-reactions-explained/inline-2.webp
   - /img/neverness-to-everness-elemental-reactions-explained/inline-3.webp
   - /img/neverness-to-everness-elemental-reactions-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the Esper Cycle is the difference between struggling against Hethereau's anomalies and clearing the most difficult urban challenges with ease. This guide breaks down every elemental interaction to help you optimize your team rotations.
 
@@ -63,7 +63,7 @@ The combat system in Neverness to Everness is built around the "Cycle" philosoph
 
 The Esper Wheel is the core UI element that dictates valid reactions. In the character menu and during combat, you can see this hexagonal wheel. Elements must be connected by a direct line on the wheel to interact. If you swap from a Lakshana character to an Incantation character, no reaction will occur because they are on opposite sides of the wheel and lack a direct connection.
 
-The six elements are split into two distinct groups
+The six elements are split into two distinct groups:
 1.  **The Top Trio:** Lakshana, Cosmos, and Anima. These elements generally focus on battlefield control, energy regeneration, and sustained damage.
 2.  **The Bottom Trio:** Incantation, Chaos, and Psyche. These elements focus on high-burst damage, status ailments, and breaking enemy defenses.
 
@@ -95,7 +95,7 @@ Triple Cycles are advanced combos that require a specific rotation involving thr
 
 You cannot trigger a reaction simply by swapping characters. The incoming character must have a 100% full Esper Meter. This meter is visible as a circular gauge around the character's portrait on the right side of the screen.
 
-The Esper Meter is charged through various combat actions, with some being much more efficient than others
+The Esper Meter is charged through various combat actions, with some being much more efficient than others:
 
 | Combat Action | Esper Meter Gain Rate |
 | :--- | :--- |
@@ -132,7 +132,7 @@ Understanding these utilities is essential for reaching high-tier loot crates hi
 ![Related](/img/neverness-to-everness-elemental-reactions-explained/inline-4.webp)
 
 
-To further refine your gameplay and make the most of the elemental reactions described above, consult our other specialized resources
+To further refine your gameplay and make the most of the elemental reactions described above, consult our other specialized resources:
 
 *   Check out our Neverness to Everness Character Tier List to see which Espers dominate the current meta and which elements are currently overperforming.
 *   Learn how to optimize your damage with our Neverness to Everness Team Building Guide, where we provide specific team compositions for the Bottom and Top Trios.

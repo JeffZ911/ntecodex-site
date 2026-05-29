@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: NTE Tier List (May 2026)"
 slug: best-dps-characters-nte-ranking
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T20:50:27.970431+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-characters-nte-ranking/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-ranking/inline-1.webp
   - /img/best-dps-characters-nte-ranking/inline-2.webp
   - /img/best-dps-characters-nte-ranking/inline-3.webp
   - /img/best-dps-characters-nte-ranking/inline-4.webp
   - /img/best-dps-characters-nte-ranking/inline-5.webp
   - /img/best-dps-characters-nte-ranking/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Mastering the urban anomalies of Hesperia requires a team capable of handling high-pressure combat scenarios and complex elemental reactions. This guide evaluates the current roster to determine the most effective damage dealers for clearing the game's most challenging content.
 
@@ -54,7 +54,7 @@ Damage in NTE is amplified through "Esper Cycle" reactions. These occur when dif
 *   **Discord:** A high-impact reaction between Chaos and Psyche that focuses on depleting enemy stance bars.
 *   **Remora:** A specialized reaction involving Lakshana and Plasma that increases the frequency of follow-up attacks.
 
-The following table outlines the primary Esper Types and their typical roles within a DPS-focused team
+The following table outlines the primary Esper Types and their typical roles within a DPS-focused team:
 
 | Esper Type | Primary Role | Common Forms | Synergy Focus |
 | :--- | :--- | :--- | :--- |
@@ -183,7 +183,7 @@ The release of Hotori on May 13 has fundamentally changed how players build team
 
 ### Post-Launch Balance Tweaks
 
-Following the Version 1.0.1 hotfix, several minor adjustments were made to ensure a healthy meta
+Following the Version 1.0.1 hotfix, several minor adjustments were made to ensure a healthy meta:
 *   **Daffodil:** Base Attack reduced slightly to emphasize her role as a "Breaker" rather than a raw damage dealer.
 *   **Esper Zero:** Improved the transition speed of the "Instant Cycle" mechanic, making the protagonist feel more fluid in combat.
 *   **Triple Cycle Discovery:** The community recently discovered that the "Triple Cycle" (Chaos + Psyche + Incantation) yields a [information unavailable] boost to reaction damage, which has seen a rise in use for characters like Sakiri and Fadia.

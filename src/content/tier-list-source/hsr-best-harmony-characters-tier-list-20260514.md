@@ -1,4 +1,4 @@
---
+---
 title: "HSR Best Harmony Characters Tier List: Top Supports (May 2026)"
 slug: hsr-best-harmony-characters-tier-list-20260514
 game: hsr
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1661
 published_at: "2026-05-14T17:17:12.874990+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTs-OAhdt9MqKYj1odi4EJpgrRsYsr9fPJTaPPcXQYdNjF0F666fjj-sNGxzL3U0QaYZX1jTrKkAYpTEVuxnVyFic15LQIK2OZALD7kVvt45xC17sBLTcHm-2324q4gkRM5yPsg-HovfCqqlxTlcT-FyyBNfjXViJNDEQtpDqK2zBS6ltgbcwmVBcArBI8IGbYVh2dUtOQWLChwf_CmHwdjg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlh8he0wLDe7L4TWJKoIU3catitl3UiDKs-xnPuDCzar7_ICkdjjanT09Wd3-E6KlC0hGFDChmBvcGWmYz9AcDShrEK4uQYyJyieHWtI72NmwJiNlk6lRqiZLaGSSrpTYnv7XnqbPtCvxy6AOJ860MspvVOcxt"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTWfhwZJUXXJe5vFH4UaIsIlMMBJ43IuI-aQeQn0VJMa0n6D4l4tmZ_2VPAf5wlngYmXISqgXLRKZmEYixJx-HbVwI6q2DKwxZozq2wjO5AVCOQKgtnjKijb9O43D1-3RTj4YyO2FsXreQJRl3_As2IGlgb4mDg9TIGOncQGnifV7y12xLwWq1QM4krGiJhTm2onXfSP9OqeA3mis5Jc5-2sudscpZ7f4qMIfSCeYPHSA="
@@ -17,21 +17,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIpXw19qGYXmcmUnibWPQI3ceyEjBscFY8p8VLokl7nzOJ3j0sDSlTVglAMxhoCRov0Ry_GGJhRIcx9Pb_i43IAd2-HfVsIohyhremhUqYGobWauyLiBxXVH00XOa6WlnfMu20eg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmSrVlrdR8HW8Gjjgg-h4bPDuUYMcJcoz5GBLd7U645KCCmGwR2atFxULxdX_FvOKGBgpNaYy2r_YFOrJiQBjixNzhOojegIdrl4_7BxWbcnYbCeGRV45OP6P0m_xkquVHGeLq2Hp_WpU8YyGD3XAyRWYca8aAMpmJW7AqV4Bj7gIZiBB3aBB_vem1d5AlqHB7REUIfmoHmuyiFeE_aiU1irD"
 hero_image: /img/hsr-best-harmony-characters-tier-list-20260514/hero.webp
-inline_images
+inline_images:
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-1.webp
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-2.webp
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-3.webp
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-4.webp
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-5.webp
   - /img/hsr-best-harmony-characters-tier-list-20260514/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 As the meta shifts toward the complex "Memosprite" summon mechanics of the Amphoreus arc, selecting the right support has never been more critical for clearing endgame content. This guide ranks the current roster to help you build the strongest possible teams for the May 2026 landscape.
 
@@ -106,7 +106,7 @@ Sparkle (Quantum) is still the go-to support for SP-hungry characters like Dan H
 The Harmony Trailblazer (Imaginary) remains a mandatory unit for any Super Break composition. Their "Backup Dancer" buff is the only way for many characters to access Super Break damage.
 
 **Super Break Damage Calculation Example:**
-To understand the Trailblazer's value, consider this simplified formula for Super Break DMG
+To understand the Trailblazer's value, consider this simplified formula for Super Break DMG:
 `Level Multiplier * (Toughness DMG of Attack / 30) * (1 + Break Effect) * (1 + Super Break Multiplier)`
 With the Trailblazer’s Ultimate active, a character with 300% Break Effect can easily hit for 100,000+ damage on a broken target, regardless of their personal ATK or CRIT stats.
 
@@ -128,7 +128,7 @@ B-tier characters are reliable budget options or niche specialists who have been
 *   **Hanya (Physical):** Hanya provides decent SP recovery and SPD, but she is almost entirely overshadowed by Sparkle. She is best used as a "second Sparkle" in dual-team modes if you lack other 5-star Harmony units.
 
 ### 4-Star vs. 5-Star Buff Multiplier Comparison
-At E6, 4-star units provide significant value, but they generally fall behind E0 5-stars in raw scaling
+At E6, 4-star units provide significant value, but they generally fall behind E0 5-stars in raw scaling:
 *   **Tingyun (E6):** ~50% ATK buff + 50% DMG (single target).
 *   **Sunday (E0):** ~40% DMG + 100% Action Advance + CRIT DMG scaling (single target + summon).
 *   **Robin (E0):** ~50% DMG + ~1000 ATK (team-wide).
@@ -152,7 +152,7 @@ C-tier characters are generally not recommended for endgame content unless you h
 ![Recent Changes](/img/hsr-best-harmony-characters-tier-list-20260514/inline-6.webp)
 
 
-The landscape of the Harmony Path has been altered significantly by recent patches
+The landscape of the Harmony Path has been altered significantly by recent patches:
 
 1.  **The Memosprite Revolution (Version 3.0):** The introduction of the "Remembrance" path brought Memosprites—summons that act as independent team members. This shifted the value of Harmony units toward those who can buff "allies" (which includes summons) rather than just "characters." Characters like Sunday and Robin, whose buffs are team-wide or summon-aware, have seen a massive surge in usage.
 2.  **Apocalyptic Shadow Adjustments (Version 3.2):** Recent balance changes in this mode have increased boss Toughness bars. This has solidified Ruan Mei and Fugue as the "Golden Duo" for breaking, as traditional hypercarries struggle to deplete these bars fast enough without Weakness Break Efficiency buffs.

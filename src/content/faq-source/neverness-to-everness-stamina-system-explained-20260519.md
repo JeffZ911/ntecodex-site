@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Stamina System Explained: Pixels & City Energy"
 slug: neverness-to-everness-stamina-system-explained-20260519
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-stamina-system-explained-20260519/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-stamina-system-explained-20260519/inline-1.webp
   - /img/neverness-to-everness-stamina-system-explained-20260519/inline-2.webp
   - /img/neverness-to-everness-stamina-system-explained-20260519/inline-3.webp
   - /img/neverness-to-everness-stamina-system-explained-20260519/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Understanding the resource management systems in Hethereau is the first step toward optimizing your progression and maximizing your daily rewards.
 
@@ -34,7 +34,7 @@ Understanding the resource management systems in Hethereau is the first step tow
 
 How does the stamina system work in Neverness to Everness (NTE)? Many players entering the urban open-world of Hethereau are finding that progression is tied to more than just a single energy bar. Unlike traditional gacha games that utilize one universal "Resin" or "Stamina" pool, NTE introduces a split approach to resource management.
 
-To fully master the game, you need to understand
+To fully master the game, you need to understand:
 *   What is the difference between Character Pixels and City Stamina?
 *   How often does stamina refresh and what are the maximum caps for each?
 *   Which activities consume these resources and how can you replenish them?

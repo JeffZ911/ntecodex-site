@@ -1,4 +1,4 @@
---
+---
 title: "Best Weapons for NTE F2P Players: May 2026 Arc Tier List"
 slug: best-weapons-nte-f2p-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.3
 word_count: 1685
 published_at: "2026-05-21T17:41:34.980556+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6raA4qWkKIQgvDGlsCY9Le5W1SPmR7PixMzfw_jFh2-WKwsLmZY-iTqtUK8wB2v9mRGwBwEhaNC4YgWTauv6Qxiy3j3vVgUUMwApPTr-ZxFcG0JsWtpQ4Ka5GHzP31z6rkIALgCEOxjsqmkYrnjhiD3LZ0IOiXHinA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV3kBBYHexnoxzBDethzY6mHjvhPT2P8ZCfXWFtv0OPtfzyUYZC8-TuIiqKscKTJVYjuF8C-1JViy5QH-zZg7dHEqWWDqbTvMHqVAt4TcnZb6YLWzQQD6IyxkrWzf9HZtQD_XcgMF4nxsPqamE7KvvRiPhPxcYmHcyefTbTicOHxYT3_cKi2IJHVgV56OqBuOd5lTWd4Pr4_T7"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq87so2TLItSx5kk1anJdLOUweijQU_BqX20zu27l5UXWXP__dVMAGiRA7pln4-BLWHO5XNJOtckYYMfYl3zOMHEvxH583OwWJI-2khq6p9kczetj_KjL18dV_sSfihxLPDnSyUUkNreitp0JRwsl2uRl0Xi6B3yKpifxgaPjbYvOMvnHcIZKGeHbKvJDjlr6bDJ0Q3a_IessXlCAV4no7NnVNFmo1HaSqbf_Hs_TgjoF0wdICE_eRbsuFF9wnVWsbogUIFyQ68redVOacGPcdZK9znSH9Bw=="
@@ -23,21 +23,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFktapGHQR_PgKjGORy6ykYvO2LmPp-hdIfeJdaUZnj4YLRxlnUzLh_lrsjp3wqniUAOzKJhqYnFRjdXnLDKhWeqFU6S7c433NXaz5RAOQ6UOTTS3ydluhlWbzdYGj2cIvyf-2xPfVxPdJoA1sraQnW9Z8ezO1zrZpmzYKoPai_"
 game: unknown
 hero_image: /img/best-weapons-nte-f2p-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-weapons-nte-f2p-tier-list/inline-1.webp
   - /img/best-weapons-nte-f2p-tier-list/inline-2.webp
   - /img/best-weapons-nte-f2p-tier-list/inline-3.webp
   - /img/best-weapons-nte-f2p-tier-list/inline-4.webp
   - /img/best-weapons-nte-f2p-tier-list/inline-5.webp
   - /img/best-weapons-nte-f2p-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Selecting the right Arcs can transform a struggling team into an urban legend, especially for players who prefer to save their Fons for future banners.
 

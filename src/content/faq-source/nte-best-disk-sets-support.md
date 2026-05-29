@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Disk Sets for Support: Top Cartridges for Healers & Buffers"
 slug: nte-best-disk-sets-support
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.8
 word_count: 1806
 published_at: "2026-05-14T22:16:51.048852+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3U4olrvCHi5UckN6nl3QtNdrq_IpSHDNuZBLF8fAsrlAKv9-P7XzIBcgDryqBJHa4BjGTWcAudcz1yCs2OdlUqwxwoC0FB5_FovDZkyyXQS_MN8iGVgnFp1R6h-p7y2cseUcvr6efOpUNPdiRCBlt89nl-2MKDN75o9ihrTU20pbvVZNE6S9zpEbDy74sqlZ_Sg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYKaB086MuLmoD1NT6LW0i7O-BqyUBwbEN91-xlqW36aXf3whivuIDzht6eO8kvKri1CiHv6hmkCCyepy8EsB_uvuKkKWkbGCu8cs8cV9iqCbVxhnqimEA8Zk6hvJS_hydAeM8E7uQSaCeP4Vv0tYHWKfRzEif1hOnLEqXi9_jvbQLLKS6bY615ap_nI9twfZToYn3cIZc0pU04A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1eockvYUh56CptBYt4HeARkh36mXLIPo0s6EmFPpz26TLAlHBJQ3mbrReWNhmiAVegjJCtznDGDloIuwtCw6ye1TJy0qSTqTzmin_9MQMgigCA8sVB-4o_HQZCVVdik_36PNVZpNAgQzA21jJdXJGbUQ7pwC54iueHpSKw6ecm9XButwT-kI="
@@ -20,17 +20,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9g3yv31mMJyDd2nJ-4xYo4Ik_X-kQ09GREltV11kxjytORZXRLUi6Rso1SNsFRXRhaVBbw4VIxfvi9n4L1ZCrIDCG1_lzmCLRMei2bBzSWTef_sGPgAssbXA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfbW8Abnkil5eXpFaphie7hyo-ghZiLfp5xVJ9pPdC69PiuzrE8fouyqCiqjRJS1koTxphKJ_ZZf0wtwyrI52U82GOrmSelLWxIGAmR4Y-WapfN03B3OMyO6-UGP3DgJozn16b28g7h91WccQ9sRJ8NyKAzFL8PnlKEKAnowmq46A="
 hero_image: /img/nte-best-disk-sets-support/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-disk-sets-support/inline-1.webp
   - /img/nte-best-disk-sets-support/inline-2.webp
   - /img/nte-best-disk-sets-support/inline-3.webp
   - /img/nte-best-disk-sets-support/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In the urban supernatural sprawl of Hethereau, your squad’s survival depends as much on your technical gear as it does on your reflexes. This guide breaks down the best support disk sets, known as Cartridges, to ensure your healers and buffers provide maximum utility in every encounter.
 
@@ -41,7 +41,7 @@ In the urban supernatural sprawl of Hethereau, your squad’s survival depends a
 ![Question Restated](/img/nte-best-disk-sets-support/inline-1.webp)
 
 
-Optimizing support characters in Neverness to Everness requires a deep understanding of the Console system and how specific gear sets interact with the game's elemental mechanics. Players frequently ask
+Optimizing support characters in Neverness to Everness requires a deep understanding of the Console system and how specific gear sets interact with the game's elemental mechanics. Players frequently ask:
 
 *   **What are the best Cartridge sets (disks) for support characters in NTE?**
 *   **Which gear sets provide the best buffs for the whole team?**
@@ -83,7 +83,7 @@ Unlike traditional gacha gear systems, Neverness to Everness uses a "Console" sy
 
 To activate a 4-piece Legendary set bonus, you must slot four Modules belonging to that specific Cartridge into the Console. However, the system allows for more than four Modules to be equipped simultaneously. Any extra space on the grid can be filled with "loose" Modules that provide raw stats or trigger a character's **Console Passive**.
 
-Every character in NTE has a unique passive that grants bonuses based on the **Type** of Modules equipped. Modules are categorized into three main types
+Every character in NTE has a unique passive that grants bonuses based on the **Type** of Modules equipped. Modules are categorized into three main types:
 *   **Type II:** Small, 2-cell blocks.
 *   **Type III:** Medium, 3-cell blocks.
 *   **Type IV:** Large, 4-cell blocks.
@@ -127,9 +127,9 @@ NTE is more forgiving than other gacha games because you can see all four substa
 
 To acquire high-rank Cartridges, you must venture into the **Rabbit Hole Anomaly Zones**, located on the south side of the **New Herland District**. 
 
-*   **Character Pixels:** Each run costs 40 Character Pixels (the game's stamina system). 
-*   **Carrota Coins:** Completing these zones also rewards you with Carrota Coins (Bronze, Silver, or Gold depending on difficulty). 
-*   **The Rewind System:** Carrota Coins are used in the "Rewind" gacha, located on the Console screen. This is the primary way to obtain specific Module shapes. 
+*   **Character Pixels:** Each run costs 40 Character Pixels (the game's stamina system).
+*   **Carrota Coins:** Completing these zones also rewards you with Carrota Coins (Bronze, Silver, or Gold depending on difficulty).
+*   **The Rewind System:** Carrota Coins are used in the "Rewind" gacha, located on the Console screen. This is the primary way to obtain specific Module shapes.
 
 For early-game players, focus on farming A-Rank (Pink) sets. Once you reach Hunter Level 30, you should transition exclusively to S-Rank (Orange) farming. Always check the "Drop Info" on the Anomaly Zone entrance to ensure you are farming the specific set you need, as different zones drop different Cartridges.
 

@@ -1,4 +1,4 @@
---
+---
 title: "Best Neverness to Everness Starter Character Build: Mint Guide"
 slug: best-nte-starter-character-build-mint
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/best-nte-starter-character-build-mint
 sources: []
 game: unknown
 hero_image: /img/best-nte-starter-character-build-mint/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-starter-character-build-mint/inline-1.webp
   - /img/best-nte-starter-character-build-mint/inline-2.webp
   - /img/best-nte-starter-character-build-mint/inline-3.webp
   - /img/best-nte-starter-character-build-mint/inline-4.webp
   - /img/best-nte-starter-character-build-mint/inline-5.webp
   - /img/best-nte-starter-character-build-mint/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Mint is the first powerhouse many players will unlock in Neverness to Everness, offering a high-octane playstyle that rewards precision and aggressive ability usage. This guide breaks down the optimal build to maximize her potential as your primary damage dealer during the early to mid-game.
 
@@ -52,7 +52,7 @@ Her combat identity is defined by the Liquid Arc weapon type, which facilitates 
 
 ### Skill Priority
 
-To optimize Mint's performance, resources should be allocated to her abilities in the following order
+To optimize Mint's performance, resources should be allocated to her abilities in the following order:
 
 1.  **Skill (Main Source of DMG/Resets)**
 2.  **Basic Attack (Filler and Energy Generation)**
@@ -123,7 +123,7 @@ Every character in Neverness to Everness has a "Console" that grants extra stats
 
 ### Main Stat and Substat Priority
 
-When farming for Fireflies and the Forest Cartridges, prioritize the following
+When farming for Fireflies and the Forest Cartridges, prioritize the following:
 
 *   **Position 1 (Fixed):** HP
 *   **Position 2 (Fixed):** ATK
@@ -159,7 +159,7 @@ Zero is the protagonist and is given to players for free. His kit allows him to 
 
 ### Alternative Support Options
 
-If you do not have Sakiri or Haniel, consider these alternatives
+If you do not have Sakiri or Haniel, consider these alternatives:
 *   **Adler (Psyche):** Provides shields and interruption resistance, which is helpful if you are still learning the Critical Riposte timing.
 *   **Edgar (Anima):** Offers healing and creates Anima Resonance with Mint, increasing the rate at which enemies enter the "Break" state.
 *   **Jiuyuan (Anima):** A premium S-Class support who can replace Haniel. She provides a massive Anima DMG buff and can shred enemy defenses.

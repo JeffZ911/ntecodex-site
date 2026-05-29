@@ -1,4 +1,4 @@
---
+---
 title: "NTE Boss Fight Mechanics Guide: How to Beat Morphix"
 slug: nte-morphix-boss-fight-mechanics-guide
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-morphix-boss-fight-mechanics-guide
 sources: []
 game: unknown
 hero_image: /img/nte-morphix-boss-fight-mechanics-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-morphix-boss-fight-mechanics-guide/inline-1.webp
   - /img/nte-morphix-boss-fight-mechanics-guide/inline-2.webp
   - /img/nte-morphix-boss-fight-mechanics-guide/inline-3.webp
   - /img/nte-morphix-boss-fight-mechanics-guide/inline-4.webp
   - /img/nte-morphix-boss-fight-mechanics-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Conquer the shifting shadows of Hethereau by mastering the most complex encounter in the current endgame.
 
@@ -191,7 +191,7 @@ The "Watch Your Heads!" Arc is an A-Rank item specifically designed for Skia and
 *   **Fons and Pawn Coins:** High yield of currency used in the Tycoon shop to purchase rare Cartridge upgrade materials.
 
 ### Cartridges
-At Hunter Level 40 and above, Morphix has a chance to drop legendary Cartridges from the following sets
+At Hunter Level 40 and above, Morphix has a chance to drop legendary Cartridges from the following sets:
 *   **Shadow Crit:** Increases Crit Rate by 10% and adds a shadow explosion effect on critical hits.
 *   **Crimson Twin Butterflies:** A two-piece set that boosts Scorch damage and increases the duration of the Discord reaction debuff.
 

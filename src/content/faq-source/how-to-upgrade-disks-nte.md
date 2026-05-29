@@ -1,4 +1,4 @@
---
+---
 title: "How to Upgrade Disks in Neverness to Everness: A Complete Guide"
 slug: how-to-upgrade-disks-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1399
 published_at: "2026-05-19T16:59:10.605815+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU21_8MEj7emAQ39P5ssxiTApx63QfmTBm62dOCl1X4DAMlvPO385jLXCMJoHo3VbOzpfbavNFGjfwb2Oifz6rh_hx7NzDszGTmHlGZ7MZUGFEz_RfFqzzbmA1RBnNxvAbfP64pAL74Om7cPAWCudzJpJrT7k0i6M2-0QNtO1zUEH83yTbentgC4yRg4vONvEGAhOP"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4fEqGZOsNe2a3X3yuePjUkFdxziLJcjcFbHkpBjCDHxr9Ld-ZgJ--Wx9N5amOPWRDU1gUmT1Ah0O1QOJLaITUk4X8aOwRo595t_VEeQm0FQNu3iwpm1MtlJy7iU7Ky704xgA7TSo2y_0bXYM6uEQR6nq0mGzjT7jZ51ygKrgR3NE0lTWWLapqM3lcZERGQA3Ozo6J273nJIrUAkQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMFHSuBif4kT2iG7KBDJF99BrRXPE4-wJv3O1QaehmeiXPKkz8bOKCTmnqBWp2sEm8N1jlmjxxix4joCKkDiNlTAFiyWhQqDeBXnwu4CD5fZC6kwwFguUG2ed6meUUWM8xpooFn9uO-30bxadXxB1n94fmPn2AbztXUW1kG8MClTYN2Sd0TluPKj4JfshZQyZq3DiAGKHPOfVUzee_"
@@ -23,15 +23,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELdUWOtQK1JGSdu3iQWz1QYCTgoKaJtJEIZSSf7ONbXtvqkZzLnSrNifaoK93M4pz-54d0OOU3aICtMPabJNLiDPQmap6YVASHJ86PKvmiY3cWk3PD04uOyf2aMFGPv9MPOgDa_WHUKt5SNe7538Fu1BR7v0V04ceKi6OSrD8CUORAhA=="
 game: unknown
 hero_image: /img/how-to-upgrade-disks-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-upgrade-disks-nte/inline-2.webp
   - /img/how-to-upgrade-disks-nte/inline-3.webp
   - /img/how-to-upgrade-disks-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your gear in Hethereau requires a firm grasp of both the Arc weapon system and the intricate Console grid. This guide explains how to upgrade Disks (Arcs) and Console components to ensure your Espers are ready for high-level Anomaly containment.
 
@@ -41,7 +41,7 @@ Optimizing your gear in Hethereau requires a firm grasp of both the Arc weapon s
 
 ## Question Restated
 
-Players frequently ask how to maximize the potential of their equipment in Neverness to Everness (NTE). The most common points of confusion involve
+Players frequently ask how to maximize the potential of their equipment in Neverness to Everness (NTE). The most common points of confusion involve:
 
 *   How do I increase the level and power of Disks (Arcs) in Neverness to Everness?
 *   What materials are required for upgrading gear and weapons in NTE?
@@ -58,7 +58,7 @@ In Neverness to Everness, "Disks" primarily refers to Arcs, which serve as the w
 
 To upgrade your gear (Cartridges and Modules), you must access the **Console tab** in the Character menu. Upgrading these components requires **Manhole** EXP materials or the consumption of lower-rarity gear. 
 
-Key materials for character progression include
+Key materials for character progression include:
 *   **Dye / Pigments:** Used exclusively for leveling up Arcs.
 *   **Manhole Fragments (Thug, Crook, Boss):** Used for leveling up Cartridges and Modules.
 *   **Beetle Coins:** The universal currency required for almost every enhancement process.
@@ -114,7 +114,7 @@ Upgrading these pieces is essential for endgame viability. Both Cartridges and M
 
 One of the most player-friendly aspects of the NTE gear system is **Substat Transparency**. When you acquire a Cartridge or Module, all four substats are visible immediately. You do not need to level the item to see what stats you are working with.
 
-However, these substats are not active at level 1. They "switch on" at specific level intervals
+However, these substats are not active at level 1. They "switch on" at specific level intervals:
 *   **Level +5:** First substat activates.
 *   **Level +10:** Second substat activates.
 *   **Level +15:** Third substat activates.
@@ -140,7 +140,7 @@ Beyond the basic upgrade path, optimizing your characters involves matching the 
 
 ### Best Early Game Disks (Arcs)
 
-For players just starting their journey in Hethereau, certain Arcs provide much higher value per upgrade
+For players just starting their journey in Hethereau, certain Arcs provide much higher value per upgrade:
 
 *   **Ready-Ready (S-Rank):** The best-in-slot choice for Nanally. It provides a permanent 15% ATK boost and increases Basic Attack damage after using an Ultimate.
 *   **Fluff of Fleetness (A-Rank):** An exceptional choice for Mint. Even at Mixing Intensity T1, it provides a stacking ATK buff every second Mint is on the field.
@@ -149,7 +149,7 @@ For players just starting their journey in Hethereau, certain Arcs provide much 
 
 ### Efficient Stamina Management for Upgrades
 
-Your **Character Pixels** cap at 240 and regenerate over time. To avoid wasting resources
+Your **Character Pixels** cap at 240 and regenerate over time. To avoid wasting resources:
 *   Prioritize **Anomaly Pilgrimage** (weekly bosses) first, as these provide rare materials for Esper Ability levels.
 *   Farm the **Bubble Can Factory** only when you are close to a level cap (e.g., reaching Level 20 or 40).
 *   Spend the majority of your daily stamina in the **Rabbit Hole** once your Arcs are capped. This allows you to accumulate Carrota for the Rewind system while hunting for better Cartridges.

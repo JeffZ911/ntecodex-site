@@ -1,4 +1,4 @@
---
+---
 title: How to Trigger Ultimate Abilities in Neverness to Everness (NTE)
 slug: how-to-trigger-ultimate-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-trigger-ultimate-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-trigger-ultimate-nte/inline-1.webp
   - /img/how-to-trigger-ultimate-nte/inline-2.webp
   - /img/how-to-trigger-ultimate-nte/inline-3.webp
   - /img/how-to-trigger-ultimate-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the timing and execution of Ultimate abilities is the difference between struggling against urban anomalies and dominating the battlefield in Hethereau. This guide provides the exact steps and mechanical requirements needed to trigger these devastating finishers in Neverness to Everness.
 
@@ -43,7 +43,7 @@ Understanding the distinction between a character’s Special Skill, their Esper
 
 To trigger an Ultimate in Neverness to Everness, you must first fill the Ultimate Energy meter, which is visualized as a circular border or a highlighted bar located directly above the character's skill icons on the bottom right of the HUD. Once this meter reaches 100%, the icon will glow with a distinct elemental aura, signaling that the ability is ready for use.
 
-Triggering the ability requires a specific input based on your gaming platform
+Triggering the ability requires a specific input based on your gaming platform:
 
 | Platform | Default Keybind / Input |
 | :--- | :--- |
@@ -64,7 +64,7 @@ The path to triggering an Ultimate involves more than just waiting for a timer t
 
 The Ultimate Energy meter is the primary gatekeeper for your most powerful attacks. Every character has a specific energy requirement—often ranging from [exact value pending official confirmation] to [exact value pending official confirmation] energy points. You can monitor this by looking for the glow effect on the character's portrait in the party list or the main skill icon. 
 
-Energy is generated through several combat actions
+Energy is generated through several combat actions:
 *   **Basic Attack Strings:** Each successful hit provides a small, flat amount of energy.
 *   **Special Skills:** These provide a significant "chunk" of energy upon impact.
 *   **Critical Ripostes:** Triggered by dodging an attack during a "Red Flash" window, these provide a massive boost to the active character's energy pool.
@@ -109,7 +109,7 @@ While Ultimates deal massive health damage, some are specifically designed to "s
 
 ### Top Team Compositions for Fast Ultimate Rotations
 
-To maximize the frequency of your Ultimate triggers, consider the following team structures
+To maximize the frequency of your Ultimate triggers, consider the following team structures:
 
 1.  **The Energy Battery Comp:** Featuring characters with high "Cycle Rate" stats. This stat determines the multiplier applied to all incoming energy.
 2.  **The "Charge" Trio:** Specifically using a Lakshana-element lead, a Cosmos-element sub-DPS, and an Anima-element support to maintain the Resonance Overflow buff.
@@ -128,7 +128,7 @@ It is a common mistake for new players to confuse these two mechanics.
 
 ### Common Mistakes: When NOT to Use Your Ultimate
 
-There are several scenarios where holding your Ultimate is better than triggering it immediately
+There are several scenarios where holding your Ultimate is better than triggering it immediately:
 *   **During Enemy Invulnerability:** Many bosses in NTE have phase transitions where they become "Untouchable." Triggering an Ultimate during this animation will result in zero damage and a total loss of energy.
 *   **Before the Break:** As mentioned, using a burst on a full Stability Bar is inefficient.
 *   **Overkill:** If a wave of minor enemies is at 5% health, save the energy for the next wave or the upcoming elite spawn.

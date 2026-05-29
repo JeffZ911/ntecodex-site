@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Weapons for Beginners: Tier List & Arc Guide (2026)"
 slug: nte-best-weapons-beginners-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-weapons-beginners-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-weapons-beginners-tier-list/inline-1.webp
   - /img/nte-best-weapons-beginners-tier-list/inline-2.webp
   - /img/nte-best-weapons-beginners-tier-list/inline-3.webp
   - /img/nte-best-weapons-beginners-tier-list/inline-4.webp
   - /img/nte-best-weapons-beginners-tier-list/inline-5.webp
   - /img/nte-best-weapons-beginners-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Starting your journey through the anomaly-ridden streets of Hesperia requires more than just a fast car; you need the right Arcs to empower your Espers. This guide ranks the best beginner-friendly weapons to ensure your squad is prepared for the challenges of Neverness to Everness.
 
@@ -52,7 +52,7 @@ Every Arc in NTE belongs to one of five elemental or structural categories: Plas
 
 ### How We Evaluated Beginner Friendliness
 
-Our ranking criteria prioritize the following
+Our ranking criteria prioritize the following:
 *   **F2P Accessibility:** Can the Arc be obtained through story missions, the Hunter Exchange, or low-pity gacha?
 *   **Starter Synergy:** How well does the weapon work with Esper Zero (the protagonist), Chiz, and Mint?
 *   **Scaling Potential:** Does the weapon remain viable when you move from the starting districts into the more dangerous Nanbu or Hethereau sectors?

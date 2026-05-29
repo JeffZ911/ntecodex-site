@@ -1,4 +1,4 @@
---
+---
 title: Is Neverness to Everness Reroll Worth It? Best Starters Guide
 slug: reroll/is-nte-reroll-worth-it-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-16T13:32:14.430515+00:00"
 published_url: /guides/reroll/is-nte-reroll-worth-it-guide
 sources: []
 hero_image: /img/is-nte-reroll-worth-it-guide/hero.webp
-inline_images
+inline_images:
   - /img/is-nte-reroll-worth-it-guide/inline-1.webp
   - /img/is-nte-reroll-worth-it-guide/inline-2.webp
   - /img/is-nte-reroll-worth-it-guide/inline-3.webp
   - /img/is-nte-reroll-worth-it-guide/inline-4.webp
   - /img/is-nte-reroll-worth-it-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Starting your journey in the sprawling metropolis of Hethereau with the right team of Espers can drastically change your early-game experience and long-term resource management.
 

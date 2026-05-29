@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Healer Characters Tier List: Top Sustain Units"
 slug: nte-best-healer-characters-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T16:13:07.521702+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-healer-characters-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-healer-characters-tier-list/inline-1.webp
   - /img/nte-best-healer-characters-tier-list/inline-2.webp
   - /img/nte-best-healer-characters-tier-list/inline-3.webp
   - /img/nte-best-healer-characters-tier-list/inline-4.webp
   - /img/nte-best-healer-characters-tier-list/inline-5.webp
   - /img/nte-best-healer-characters-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in Hesperia requires more than just high damage output; it demands a robust support system to navigate the high-pressure encounters of "Beyond the Rails." This guide ranks the current roster of healers and sustain units to help you optimize your team for the Version 1.0 meta.
 

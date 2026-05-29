@@ -1,4 +1,4 @@
---
+---
 title: Neverness to Everness Character Combat Mechanics Explained
 slug: nte-character-combat-mechanics-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-combat-mechanics-explained/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-combat-mechanics-explained/inline-1.webp
   - /img/nte-character-combat-mechanics-explained/inline-2.webp
   - /img/nte-character-combat-mechanics-explained/inline-3.webp
   - /img/nte-character-combat-mechanics-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Master the fast-paced, supernatural combat of Hetaereau by understanding the intricate systems that power your team of Espers. This guide breaks down the core mechanics of Neverness to Everness (NTE) to help you optimize your team rotations and dominate every encounter.
 
@@ -77,7 +77,7 @@ The "Cycle" refers to the constant rotation of these characters. You do not simp
 
 ### Mastering the Esper Cycle & Meter Management
 
-The Esper Meter is the engine of your team’s performance. It is filled primarily through
+The Esper Meter is the engine of your team’s performance. It is filled primarily through:
 1.  **Normal and Skill Attacks:** Landing hits consistently builds the meter.
 2.  **Successful Parries:** A well-timed parry provides a significant instant boost to the active character's meter.
 3.  **Passive Regeneration:** Certain Arcs and Modules can increase the rate at which the meter fills while a character is off-field.
@@ -103,7 +103,7 @@ Trio reactions occur when a third element is introduced to an existing Duo state
 
 Elite enemies and bosses possess a white "Break Meter" underneath their health bar. While this bar is active, the enemy has high resistance to interruptions and takes standard damage. Once the bar is depleted, the enemy enters a "Break" state.
 
-During a Break
+During a Break:
 *   The enemy is completely immobilized.
 *   Damage taken is increased by a multiplier (estimated at [exact value pending official confirmation]).
 *   Players can perform specific "Finisher" animations if the enemy's health is low enough.
@@ -127,7 +127,7 @@ NTE rewards aggressive defense. Players must choose between parrying and dodging
 
 ### Character Roles and Team Composition Strategy
 
-A balanced team usually consists of characters filling three primary roles
+A balanced team usually consists of characters filling three primary roles:
 1.  **Damage (DPS):** Characters with high scaling on their normal attacks and Ultimates. They stay on the field longest during a "Break" window.
 2.  **Buff (Support):** Characters whose Esper Abilities provide team-wide damage boosts or elemental shredding.
 3.  **Survival (Tank/Healer):** Characters who provide shields or healing. In NTE, even survival characters are expected to contribute to the Esper Cycle and Break damage.

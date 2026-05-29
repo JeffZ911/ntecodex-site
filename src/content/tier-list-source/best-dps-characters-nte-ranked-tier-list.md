@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-dps-characters-nte-ranked-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T09:37:03.641092+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-characters-nte-ranked-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-ranked-tier-list/inline-1.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-2.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-3.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-4.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-5.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your damage output in the supernatural metropolis of Hethereau requires a deep understanding of how specific character elements and "Arc" weapon types interact. This guide ranks the current roster to help you prioritize your resources and dominate the game's most challenging anomalies.
 

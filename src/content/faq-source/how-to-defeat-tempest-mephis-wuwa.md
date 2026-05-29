@@ -1,4 +1,4 @@
---
+---
 title: "How to Defeat Tempest Mephis in Wuthering Waves: Boss Guide"
 slug: how-to-defeat-tempest-mephis-wuwa
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-14T06:38:23.978546+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-defeat-tempest-mephis-wuwa/hero.webp
-inline_images
+inline_images:
   - /img/how-to-defeat-tempest-mephis-wuwa/inline-1.webp
   - /img/how-to-defeat-tempest-mephis-wuwa/inline-2.webp
   - /img/how-to-defeat-tempest-mephis-wuwa/inline-3.webp
   - /img/how-to-defeat-tempest-mephis-wuwa/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Tempest Mephis stands as one of the most mechanically demanding boss encounters in Wuthering Waves, requiring players to master high-speed parry timings and dodge-heavy patterns. This Electro-attribute phantom serves as a gatekeeper for character ascension materials and high-tier Echo sets, making it a mandatory stop for any player building a powerful Electro team.
 
@@ -32,7 +32,7 @@ Tempest Mephis stands as one of the most mechanically demanding boss encounters 
 ![Question Restated](/img/how-to-defeat-tempest-mephis-wuwa/inline-1.webp)
 
 
-When approaching the Tempest Mephis boss fight, players typically look for answers to several core questions to ensure a successful hunt. This guide addresses the following
+When approaching the Tempest Mephis boss fight, players typically look for answers to several core questions to ensure a successful hunt. This guide addresses the following:
 
 *   **Where can I find the Tempest Mephis boss in Wuthering Waves?** Many players struggle to locate the arena because it is tucked away in an underground cavern rather than being visible on the surface map.
 *   **What are the best strategies and team compositions to defeat Tempest Mephis?** Understanding the elemental resistances and the most effective Resonators for this specific encounter is vital for efficiency.
@@ -104,7 +104,7 @@ The white bar under the boss's HP represents its posture. Once this bar is deple
 
 ### Tactical Hologram: Difficulty Modifiers
 
-In the Tactical Hologram: Tempest Mephis challenge, the boss becomes significantly more dangerous. Starting at Difficulty 4 and above, new mechanics are introduced
+In the Tactical Hologram: Tempest Mephis challenge, the boss becomes significantly more dangerous. Starting at Difficulty 4 and above, new mechanics are introduced:
 1.  **Shadow Clones:** The boss will summon a clone that mimics its attacks. This means you may have to dodge two lasers or parry two dashes in rapid succession.
 2.  **Increased Aggression:** The windows between attacks are shortened, requiring perfect stamina management.
 3.  **One-Shot Potential:** At Difficulty 6, many of the boss's heavy attacks will instantly defeat a character regardless of their DEF stats.
@@ -134,20 +134,20 @@ The Tempest Mephis Echo is a "Calamity Class" Echo. Its transformation skill all
 
 ### Tempest Mephis vs. Thundering Mephis
 
-Players often confuse these two bosses as they share a similar model and name. However, their Echo skills and rewards differ significantly
+Players often confuse these two bosses as they share a similar model and name. However, their Echo skills and rewards differ significantly:
 *   **Tempest Mephis:** Focuses on Heavy Attack damage buffs. Use this for characters whose kits revolve around heavy strikes.
 *   **Thundering Mephis:** Focuses on Resonance Liberation (Ultimate) damage and Electro damage buffs. This is often preferred for Yinlin or quick-swap Electro teams.
 *   **Farming Tip:** You can equip both on different characters in the same team to stack different Electro buffs, but you can only have one "active" transformation skill per character.
 
 ### Other Central Plains Bosses
 
-The Central Plains is a high-traffic area for farming. While you are in the area for Tempest Mephis, you might also consider hunting
+The Central Plains is a high-traffic area for farming. While you are in the area for Tempest Mephis, you might also consider hunting:
 *   **Impermanence Heron:** Located to the east, providing Havoc ascension materials.
 *   **Feilian Beringal:** Found in the Giant Banyan area (technically Dim Forest but close to the southern border), providing Aero materials.
 
 ### Echo Farming Tips
 
-To increase your efficiency when farming for a Gold-tier Tempest Mephis Echo
+To increase your efficiency when farming for a Gold-tier Tempest Mephis Echo:
 1.  **Data Bank Level:** Ensure your Data Bank is at least Level 15. This is the threshold where Gold (5-star) Echoes have a 50% chance to drop. At Level 20, the drop rate for Gold Echoes increases to 80% or higher.
 2.  **Enhanced Drop Rate:** Use your "Enhanced Drop Rate" chances from the Guidebook on this boss if you are specifically looking for a Crit Rate main stat piece, as 4-cost Echoes are the hardest to optimize.
 3.  **Multiplayer:** If you are struggling with the higher difficulty versions or the Tactical Hologram, you can invite friends to your world. However, note that Tactical Hologram rewards are one-time first-clear bonuses, whereas the world boss rewards can be farmed as long as you have Waveplates.

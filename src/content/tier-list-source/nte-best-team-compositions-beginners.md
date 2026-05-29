@@ -1,4 +1,4 @@
---
+---
 title: Neverness to Everness Best Team Compositions for Beginners
 slug: nte-best-team-compositions-beginners
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-team-compositions-beginners/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-team-compositions-beginners/inline-1.webp
   - /img/nte-best-team-compositions-beginners/inline-2.webp
   - /img/nte-best-team-compositions-beginners/inline-4.webp
   - /img/nte-best-team-compositions-beginners/inline-5.webp
   - /img/nte-best-team-compositions-beginners/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Understanding how to synchronize the Esper Cycle and trigger high-impact elemental reactions is the difference between struggling against Hethereau anomalies and clearing high-risk commissions with ease.
 

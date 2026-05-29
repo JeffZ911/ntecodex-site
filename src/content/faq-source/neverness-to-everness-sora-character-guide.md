@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Sora Character Guide: Roster & Confusion"
 slug: neverness-to-everness-sora-character-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T16:09:52.627998+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-sora-character-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-sora-character-guide/inline-1.webp
   - /img/neverness-to-everness-sora-character-guide/inline-2.webp
   - /img/neverness-to-everness-sora-character-guide/inline-3.webp
   - /img/neverness-to-everness-sora-character-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 The neon-soaked streets of Hethereau are home to many supernatural anomalies, but players searching for a specific character named Sora might find themselves lost in the urban sprawl. This guide clarifies the confusion surrounding the Neverness to Everness (NTE) roster and provides the essential details for the actual stars of the game.
 
@@ -151,7 +151,7 @@ The upcoming arrival of Lacrimosa is highly anticipated because she is expected 
 
 ### Best Beginner Team Compositions
 
-For those just starting their journey on April 29 or early May, the most reliable team consists of
+For those just starting their journey on April 29 or early May, the most reliable team consists of:
 1.  **Nanally (Main DPS):** Focus on her heavy attack combos.
 2.  **Zero (Support/Sub-DPS):** Use Zero to setup elemental reactions.
 3.  **Haniel (Healer):** Essential for maintaining health during high-level urban exploration.

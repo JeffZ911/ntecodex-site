@@ -1,4 +1,4 @@
---
+---
 title: Best Hathor (Liora) Build in Neverness to Everness (NTE)
 slug: best-build-for-liora-nte
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/best-build-for-liora-nte
 sources: []
 game: unknown
 hero_image: /img/best-build-for-liora-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-build-for-liora-nte/inline-1.webp
   - /img/best-build-for-liora-nte/inline-2.webp
   - /img/best-build-for-liora-nte/inline-3.webp
   - /img/best-build-for-liora-nte/inline-4.webp
   - /img/best-build-for-liora-nte/inline-5.webp
   - /img/best-build-for-liora-nte/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Hathor dominates the current meta as a premier Lakshana damage dealer, providing unparalleled mobility and high-frequency burst damage for players who master her stack management. This guide provides the definitive Hathor build to maximize her potential in the high-speed urban combat of Hethereau.
 
@@ -109,7 +109,7 @@ In Neverness to Everness, "Disks" are referred to as Cartridges, which are slott
 The Street Boxer cartridge set is specifically designed for Lakshana characters who rely on critical hits and elemental reactions. 
 
 *   **2-Piece Bonus:** Increases Lakshana DMG by 10%. This is a straightforward multiplicative boost to Hathor's entire kit.
-*   **4-Piece Bonus:** Increases CRIT Rate by 14%. This bonus is doubled to 28% for 20 seconds whenever the team triggers a **Remora** (Lakshana + Cosmos) or **Stain** (Lakshana + Psyche) reaction. 
+*   **4-Piece Bonus:** Increases CRIT Rate by 14%. This bonus is doubled to 28% for 20 seconds whenever the team triggers a **Remora** (Lakshana + Cosmos) or **Stain** (Lakshana + Psyche) reaction.
 
 Because Hathor is almost always paired with a Cosmos character like Zero, she can maintain the 28% CRIT Rate bonus indefinitely. This allows players to focus almost entirely on CRIT DMG in their sub-stats, leading to massive damage numbers.
 
@@ -123,7 +123,7 @@ When equipping your Street Boxer set, pay attention to the Module Placement on y
 
 ### Recommended Main and Sub-stats
 
-To reach the "Golden Ratio" of 1:2 (CRIT Rate to CRIT DMG), aim for the following stats on your cartridges
+To reach the "Golden Ratio" of 1:2 (CRIT Rate to CRIT DMG), aim for the following stats on your cartridges:
 
 1.  **Main Stats:** Lakshana DMG% (Slot 1), CRIT Rate or CRIT DMG (Slot 2, depending on your weapon), ATK% (Slot 3).
 2.  **Sub-stats Priority:** 
@@ -150,7 +150,7 @@ The "Charge" reaction is a trio-element synergy that occurs when you combine **L
 
 ### F2P Friendly Composition
 
-If you do not have Nanally or Haniel, Hathor can still excel with the starting roster
+If you do not have Nanally or Haniel, Hathor can still excel with the starting roster:
 
 *   **Hathor:** Burst DPS.
 *   **Zero (MC):** Cosmos support and Cycle management.

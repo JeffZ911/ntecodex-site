@@ -1,4 +1,4 @@
---
+---
 title: Neverness to Everness Elemental System & Esper Cycle Explained
 slug: neverness-to-everness-elemental-system-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-elemental-system-explained/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-elemental-system-explained/inline-1.webp
   - /img/neverness-to-everness-elemental-system-explained/inline-2.webp
   - /img/neverness-to-everness-elemental-system-explained/inline-3.webp
   - /img/neverness-to-everness-elemental-system-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Understanding the intricate combat mechanics of Hethereau is essential for any player looking to survive the anomalies of Neverness to Everness. This guide breaks down the complex interactions of the Esper Cycle to ensure you are maximizing your team's damage potential.
 
@@ -32,7 +32,7 @@ Understanding the intricate combat mechanics of Hethereau is essential for any p
 ![Question Restated](/img/neverness-to-everness-elemental-system-explained/inline-1.webp)
 
 
-Players arriving in the urban supernatural world of Neverness to Everness (NTE) often find themselves asking several core questions about how combat functions. The most frequent inquiries include
+Players arriving in the urban supernatural world of Neverness to Everness (NTE) often find themselves asking several core questions about how combat functions. The most frequent inquiries include:
 
 *   **What is the elemental system in Neverness to Everness (NTE)?** Unlike basic "rock-paper-scissors" systems, NTE utilizes a complex web of interactions that dictate how characters swap and trigger abilities.
 *   **How do the six different Esper types interact with each other?** The game features six distinct elements, but they do not all interact with one another equally.
@@ -114,7 +114,7 @@ The highest level of elemental play involves the Triple Cycle, or Trio Reaction.
 
 ### Key Stats: Cycle Rate vs. Cycle Intensity
 
-When equipping your characters with Arcs and Modules, you will notice two primary stats related to the elemental system
+When equipping your characters with Arcs and Modules, you will notice two primary stats related to the elemental system:
 
 1.  **Cycle Rate:** This stat determines how quickly a character generates Esper Meter. A high Cycle Rate is essential for "Battery" characters who need to swap in and out frequently to keep the rotation moving.
 2.  **Cycle Intensity:** This stat scales the actual damage and utility of the reactions themselves. For example, a character with high Cycle Intensity will create "Blossom" turrets that deal significantly more damage or a "Scorch" explosion with a larger radius.

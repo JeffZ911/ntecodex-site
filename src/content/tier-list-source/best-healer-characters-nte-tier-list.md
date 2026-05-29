@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Characters NTE Tier List: Top Sustain Units (May 2026)"
 slug: best-healer-characters-nte-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T21:03:05.058744+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-healer-characters-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-characters-nte-tier-list/inline-1.webp
   - /img/best-healer-characters-nte-tier-list/inline-2.webp
   - /img/best-healer-characters-nte-tier-list/inline-3.webp
   - /img/best-healer-characters-nte-tier-list/inline-4.webp
   - /img/best-healer-characters-nte-tier-list/inline-5.webp
   - /img/best-healer-characters-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in the Hesperia urban sprawl depends on more than just high DPS; as enemy levels scale in the Anomaly Pilgrimage, having a reliable sustain unit becomes mandatory for clearing high-tier content.
 
@@ -38,7 +38,7 @@ Selecting the right healer in Neverness to Everness (NTE) involves balancing raw
 
 Ranking the best healers in NTE requires a look at how these characters interact with the game's core combat systems. Unlike traditional RPGs where a healer simply tops off health bars, NTE rewards "Role Compression"—the ability of a single character to fulfill multiple needs, such as breaking enemy shields or applying elemental status effects.
 
-Our rankings are based on the following five criteria
+Our rankings are based on the following five criteria:
 
 1.  **Healing Output (HPS) and Survival Utility:** We measure the raw Healing Per Second (HPS) provided by skills and Ultimates. This also includes damage mitigation tools like shields, damage redirection, and barriers that prevent health loss in the first place.
 2.  **Role Compression:** Characters who provide significant ATK buffs, Energy regeneration, or personal damage while healing are ranked higher. In the current May 2026 meta, a healer who does nothing but heal is often considered a liability in timed challenges.

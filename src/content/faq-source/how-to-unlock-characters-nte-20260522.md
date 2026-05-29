@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Characters in Neverness to Everness (NTE) Guide
 slug: how-to-unlock-characters-nte-20260522
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1696
 published_at: "2026-05-22T17:20:46.603424+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApk8i-HoueQ7mE2i9rfU0OXOPTiSVPDWSEamzW9SwWWbb_stH8BxuoZAlcQmEraNl6Mr399YPpVgioGq0c_gcNk7QZQybNb7TAbttUs89Tn_pCRfnMl6ek_IAdMvfsXnbh3RqgXTP7hsuRA_QJ7a8lTtVHU7EJsU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZJmdGbDZqFkMiUATbSO4qfqNLxw8MSkr-Kb8QZ1o1Tl-t4byRHgb4Jyz9YPDpyzkOm34qtp4UdT_oZK5XDVCPXZWn4eso6xI0ts5aajYC8jwHHLQ35Q6qpVWHehRGvYL9gmx9zUa6zA56f4aK-f2eW6fGiEHXiFv90ycSYRbYzIk5XF9PxHteJ51yKOi8thznWEc="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRpPndU_oNFh6cytOYEd3EqaPHoLMn5CK6sv8NA7Z23NkHZM1m7ajyXsasgerq_SeUsUAx3w2SZVrE8iV_G9vNY477UhiUbvTOxF8rKT_auDewUGyvQf1_A-iP0S2tL6E2So_Umg_Y_DDcC8d4JwRJSWTrIxYgduaxvewjlVXJoAytTpwjKWYnID2JEA=="
@@ -29,17 +29,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERTZkQsquzUtzAYMW2q0EPcIutFtqK6sttqWvre8HpX7vQryQVgyFk1f50iAYoY9ePjuR90vu8Z4cJGo4_2Lf2niZJBTnzV6w5ylHEQC3GMSQzLZ1kR0GTwtgV03Wb5QVYoSYgnMYsxbuDJXjL3GIymA=="
 game: unknown
 hero_image: /img/how-to-unlock-characters-nte-20260522/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-characters-nte-20260522/inline-1.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-2.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-3.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 In the neon-drenched streets of Hethereau, building a versatile team of Espers is the difference between clearing high-level anomalies and getting stuck at a level cap.
 
@@ -171,7 +171,7 @@ Characters are only half of the equation; they also require Arcs. Arcs are obtai
 
 ### Resource Management: Annulith and Dice
 
-Annulith is the most precious resource in Hethereau. It is primarily earned through
+Annulith is the most precious resource in Hethereau. It is primarily earned through:
 *   First-time exploration of Anomaly Zones.
 *   Completing Hunter Commissions.
 *   Achievement rewards and event participation.

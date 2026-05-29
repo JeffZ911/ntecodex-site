@@ -1,4 +1,4 @@
---
+---
 title: "Best Nanally Build Guide: Neverness to Everness (NTE)"
 slug: nanally-build-nte-guide
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T02:25:57.279394+00:00"
 published_url: /guides/nanally-build-nte-guide
 sources: []
 hero_image: /img/nanally-build-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/nanally-build-nte-guide/inline-1.webp
   - /img/nanally-build-nte-guide/inline-2.webp
   - /img/nanally-build-nte-guide/inline-3.webp
   - /img/nanally-build-nte-guide/inline-4.webp
   - /img/nanally-build-nte-guide/inline-5.webp
   - /img/nanally-build-nte-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 [Nanally](/characters/nanally-guide-nte) has quickly established herself as the premier Anima-element powerhouse since the game's launch on April 29, 2026. This guide breaks down the optimal setups to maximize her devastating follow-up damage and unique summon mechanics.
 

@@ -1,4 +1,4 @@
---
+---
 title: How to Get More Astrites in Neverness to Everness (Annulith Guide)
 slug: how-to-get-more-astrites
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 5.4
 word_count: 1400
 published_at: "2026-05-13T02:32:20.605476+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2PEwY6Ee-6NojNrLazYQy84mvlp91PTwB6-sGkFnenrp1DC5lTbH_m0L8UmgEW9H_O7SxJYqsW758dAxBlUHFx6qjvT3wd2P05-aeK-YWBQ7bZ3fW3MlWEQd30OkX1U8x1j5qhNdEvNyhc5QcHTGCC5X8pP1KvjMjTTFgW04="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrqAK5p1ycSIx2QbXb1NIva78HmJR7-Oo54wx6BPKTx0fW4iNH2ZLOc70MYkLjXP-Eek-ecf2HhOQP8yw52ugxkIzI3UCs9l8JS5tyyhT9wR9C-WJSwML6fkqkl_6AxPDirUSNM5CAKFvThG0QzRYz3SiRdF-bL42BSsUAWsqgSlqGsCaR9SOslKHOz1Va4BykHqLW1jWNsBWVQEOI18ucerme650="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0LcX5Agpjr_9MWoZpVLFQElNRkS_ZFrQqgQ5BZpoU3MRvSfH-DgbuSRrNcv8giGIfkPEIVBTLohi1aHGcufraliDGRdIoFsAiQSiNVy2qxW0Kr9uikxgb9D29ea5Wv2vptoNQ-nd6HRcYBqpSaHVbS-ZjoFmCQY0="
@@ -24,7 +24,7 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG46_Og7NxewA1EZyN4KR8kTOthRcpY_L51RCgIqn_QatHTozykcm0bE4VqZXlrTUqeRwlg2gK84EVTCsSZUtAMUvhIweOvRznqiwr-taMWfhp2lTi3Dwm4rvp6ge2qKYXFzhrDeULNoyG4xdFbf5S_2TaGnfWaGqrvGa7AKEoAvdF_EQiMocnp-G4MfSwIlFTVb-BL"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQg5DywAd3MoHyUL1oRDTREzijmWsJgiuvisEx8sxdGnBVFBUCU2kiXL4i-2Z5Ks7wQS9foHefv6LWNSBMYjsO2buOUfOiMn3l0hMCX8ca7D_cDXX19MUkrVcd_Ec-z4JbApsupA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75Tl0MPHdL_WRXigHTzRqQtE-ZnpeA_eLUZ0a4peqPs2qTy9HOjKzRxgQx5oqd2bAm-iRbfoCdXk2-4v8yFWiBvUGGQF0Od0QzCMJO2t3CTUy56Kis3c8XWWWF-1QRDFFTGKI20Q="
---
+---
 
 If you are transitioning from Wuthering Waves and wondering how to get more Astrites in Neverness to Everness, you have likely noticed that the premium currency goes by a different name in the neon-lit streets of Hethereau. While players often use the familiar term from other gacha titles, the official resource you need to hoard for your pulls is actually called Annulith.
 
@@ -74,7 +74,7 @@ Beyond the main narrative, keep an eye out for **Urban Legends** and side storie
 
 ### Exploration and World Interaction
 
-Hethereau is a massive city filled with "Oddities" and hidden rewards. Exploration is tracked through several specific systems
+Hethereau is a massive city filled with "Oddities" and hidden rewards. Exploration is tracked through several specific systems:
 
 *   **Chests:** Scattered throughout districts like Bridge Crossings and Unheard Shores, you will find **Apprentice Chests** and **Hero Chests**. While most contain upgrade materials, higher-tier chests frequently award small amounts of Annulith.
 *   **Oracle Stones:** There are 21 Oracle Stones hidden across the city. Collecting these and leveling up your progress at the Witch's House rewards you with 50 Annulith per level, totaling approximately 600 Annulith for full completion.
@@ -116,7 +116,7 @@ The summoning system, **Scarborough Fair**, is a board game where you roll dice 
 
 ### Secondary Gacha Currencies: Warp and Lost Pieces
 
-When you land on specific tiles or pull duplicate characters, you earn secondary currencies
+When you land on specific tiles or pull duplicate characters, you earn secondary currencies:
 *   **Warp Pieces:** These are earned from S-rank duplicates or specific Hero Chest tiles. They can be traded in the shop for an unlimited number of pulls or even specific standard S-rank characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) or Daffodil.
 *   **Lost Pieces:** These are more common and are earned from A-rank or B-rank duplicates. They are primarily used to buy a limited number of discounted Solid and Fabricated Dice each month (usually 5 of each), along with essential upgrade materials.
 

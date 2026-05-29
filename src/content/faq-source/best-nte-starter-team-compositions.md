@@ -1,4 +1,4 @@
---
+---
 title: Best Neverness to Everness Starter Team Compositions Guide
 slug: best-nte-starter-team-compositions
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-nte-starter-team-compositions/hero.webp
-inline_images
+inline_images:
   - /img/best-nte-starter-team-compositions/inline-1.webp
   - /img/best-nte-starter-team-compositions/inline-2.webp
   - /img/best-nte-starter-team-compositions/inline-3.webp
   - /img/best-nte-starter-team-compositions/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a balanced team in Neverness to Everness (NTE) is the difference between struggling against low-level anomalies and effortlessly clearing the streets of Hethereau. This guide covers the most effective starter compositions using free characters and early-game pulls to ensure your progression remains smooth.
 

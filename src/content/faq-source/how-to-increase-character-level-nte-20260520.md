@@ -1,4 +1,4 @@
---
+---
 title: How to Increase Character Level in Neverness to Everness (NTE)
 slug: how-to-increase-character-level-nte-20260520
 article_type: faq
@@ -9,15 +9,15 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-increase-character-level-nte-20260520/hero.webp
-inline_images
+inline_images:
   - /img/how-to-increase-character-level-nte-20260520/inline-2.webp
   - /img/how-to-increase-character-level-nte-20260520/inline-3.webp
   - /img/how-to-increase-character-level-nte-20260520/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Increasing the power of your Espers is the primary way to survive the high-intensity anomaly encounters found throughout the streets of Hesperia.
 
@@ -61,7 +61,7 @@ The progression loop involves four main steps: gaining account experience to rai
 ### The Core Leveling Process: Using Hunter Guides
 The most direct method of leveling is the manual application of Hunter Guides. Unlike some traditional RPGs where characters gain significant experience from defeating overworld enemies, NTE relies on a "bottled EXP" system. This ensures that you can instantly bring a newly pulled Esper, such as [Nanally](/characters/nanally-guide-nte) or Zero, up to the level of your current team without grinding low-level mobs.
 
-To level up
+To level up:
 1. Open the main menu and select the 'Esper' tab.
 2. Choose the character you wish to upgrade.
 3. Click on the 'Level Up' or 'Upgrade' button.
@@ -85,7 +85,7 @@ Once you reach the Hunter Level milestone (such as Level 20), you must complete 
 ### Character Ascension: Breaking Through the Level Wall
 Even if your Appraisal Level allows for Level 40, an individual Esper will still stop gaining experience at Level 20, 30, and 40 until they undergo Ascension (also known as Breakthrough). This process requires specific boss drops and regional materials.
 
-Common materials include
+Common materials include:
 *   **Anomaly Drops:** Obtained by defeating specific world bosses or completing Anomaly Pilgrimages.
 *   **Lost Pieces:** Regional specialty items found while exploring Hesperia's various districts.
 *   **Beetle Coins:** The standard currency required for every upgrade transaction.
@@ -116,7 +116,7 @@ Prioritize your Main DPS (such as Nanally or Byron) first, keeping them at the m
 ### The Impact of Character Level on Combat Stats and Scaling
 Leveling up does more than just increase raw numbers. In NTE, certain combat mechanics scale based on the level difference between your Esper and the enemy Anomaly. If your character is significantly lower level than the target, you may suffer a "Level Penalty," which reduces the damage you deal and increases the damage you take.
 
-Stat growth per level
+Stat growth per level:
 *   **HP:** Increases survivability against heavy-hitting anomaly AOE attacks.
 *   **ATK:** Directly increases the damage of basic attacks, skills, and Ultimates.
 *   **DEF:** Reduces the flat damage taken from physical and elemental sources.
@@ -137,7 +137,7 @@ Character level is only one part of the power equation in Neverness to Everness.
 Arcs, the weapons equipped by Espers, require a separate leveling process. Instead of Hunter Guides, Arcs consume EXP Dyes. Arcs also have their own Ascension requirements, often necessitating materials like 'Golden Appleseed' or specific refined ores found in the industrial sectors of the city. Like characters, Arcs are capped at certain levels and must be "Enhanced" to continue progressing.
 
 ### Increasing Your Hunter Level Fast
-Since your character level is gated by your Appraisal Level, increasing your Hunter Level (account level) is a top priority. The most efficient ways to gain account EXP include
+Since your character level is gated by your Appraisal Level, increasing your Hunter Level (account level) is a top priority. The most efficient ways to gain account EXP include:
 *   Completing Daily Commissions.
 *   Clearing the Main Story chapters.
 *   Opening supply crates scattered throughout Hesperia.

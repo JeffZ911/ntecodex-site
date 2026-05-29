@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness F2P Team Building Guide: Best Starter Comps"
 slug: nte-f2p-team-building-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-f2p-team-building-guide
 sources: []
 game: unknown
 hero_image: /img/nte-f2p-team-building-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-f2p-team-building-guide/inline-1.webp
   - /img/nte-f2p-team-building-guide/inline-2.webp
   - /img/nte-f2p-team-building-guide/inline-3.webp
   - /img/nte-f2p-team-building-guide/inline-4.webp
   - /img/nte-f2p-team-building-guide/inline-5.webp
   - /img/nte-f2p-team-building-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Navigating the neon-soaked streets of Hethereau doesn't require a massive budget, provided you understand how to cycle your Espers effectively and exploit the city's unique combat rhythm.
 
@@ -50,7 +50,7 @@ F2P players should focus on reactions that contribute to the "Break Meter." Ever
 
 Resource management is the backbone of F2P progression. You will primarily be managing [Information not yet publicly available as of 2026-05-19], the main currency used for leveling, and [Information not yet publicly available as of 2026-05-19], which are required to access Arc Research and gear farming. 
 
-Your first major milestone is reaching Hunter Level 30. This level unlocks the second tier of character passives and allows you to equip higher-tier Arcs. Do not spread your resources too thin; focus on one "Damage" (DPS) character and one "Survival" (Healer/Shielder) character first. In the character menu, pay attention to the role tags
+Your first major milestone is reaching Hunter Level 30. This level unlocks the second tier of character passives and allows you to equip higher-tier Arcs. Do not spread your resources too thin; focus on one "Damage" (DPS) character and one "Survival" (Healer/Shielder) character first. In the character menu, pay attention to the role tags:
 *   **Solid:** High defense and crowd control.
 *   **Damage:** Primary field-time characters.
 *   **Buff:** Support characters that enhance the team's Cycle Value.
@@ -100,7 +100,7 @@ The "Cassette & Blocks" system is NTE's version of artifacts. Instead of just eq
 
 Each character has a grid that expands as they level up. Your priority should be activating the 2-piece and 4-piece set bonuses. For F2P players, the [Information not yet publicly available as of 2026-05-19] 2-piece set is the most important early-game objective. This set increases "Charge Efficiency," ensuring that your Ultimates are ready every time you swap through your rotation. Without high Charge Efficiency, your rotation will "stall," leaving you with no ways to trigger reactions.
 
-Primary stats you should target include
+Primary stats you should target include:
 *   **ATK%:** For main damage dealers like Zero or Chiz.
 *   **DEF%:** Specifically for Adler, as his shields and damage scale directly with his Defense stat.
 *   **HP%:** For dedicated healers like Edgar to increase their healing output.
@@ -126,7 +126,7 @@ Building an effective F2P team requires balancing elements to ensure you can alw
 ### The Ultimate F2P Starter Team
 
 The most reliable team for new players consists of **Zero**, **Edgar**, and **Haniel**. 
-*   **Zero (Cosmos DPS):** As the protagonist, Zero has a versatile kit that excels at both single-target and AoE damage. 
+*   **Zero (Cosmos DPS):** As the protagonist, Zero has a versatile kit that excels at both single-target and AoE damage.
 *   **Edgar (Cosmos Healer):** Edgar provides consistent healing and can help maintain the Cosmos elemental lane.
 *   **Haniel (Psyche Support):** Haniel offers crowd control and buffs that increase the team's movement speed and attack speed.
 
@@ -158,7 +158,7 @@ Combat in NTE is highly reactive. When an enemy is about to attack, a yellow fla
 
 ### Maximizing the Break Window
 
-The standard combat loop should follow this sequence
+The standard combat loop should follow this sequence:
 1.  **Build Meter:** Start with your Support (like Haniel or Mint) and use basic attacks and skills to build Cycle Value.
 2.  **Apply Element A:** Use a skill to apply the first element to the enemy.
 3.  **Esper Swap:** Switch to your secondary character (like Adler) to trigger the first reaction and build the Break Meter.

@@ -1,4 +1,4 @@
---
+---
 title: How to Trigger Elemental Reactions in Neverness to Everness (NTE)
 slug: how-to-trigger-elemental-reactions-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.8
 word_count: 1427
 published_at: "2026-05-15T17:06:42.438881+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgm8DRxiNXGwlwFgQGzW_3i57c8G3JZlgG4XaGsXGEOZ708aak1m3hi8_LPrvMwg66bMIf05mSSopsHPJtA1Yyt_ep15tktgTRC0o1_G5tQ3xPgtYrXoieVl0pm6McEyQ1JFPhgjwoZdm9oB-9IBj-Eg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsMupgo_nHbPc1TODkA9XzE-nTiLabMVByqh3yXhDKPM3WY75PKKKjHyO79gzxfbTBMjYUXhOP3U-jaQV1LyjlB_d_GXJojQ4EtKFtHXax-bvuiJfyr9aoayjbyw_VYFvDpm1D5H6_gJNe1zwF23ktWuppCI_rPQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo5ap-nMXBgDLQjtISJhSLV1rsimtEHlUOkyx6Q4hCh6gMMmoGF9RslSyuKvx0LCmHmo9QAv4PGzLMqMGG-ysV5A6_n4FTZ9cNWmaaJghQnIzvTphTT6lxIxRtK8bvk7zrw1F0Dy6dL9Kl26FSC57NCw1SJriF6PM="
@@ -27,17 +27,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5C0zzdpeK796wAL91y2Gg3HDlOsu3_pdjBYsupDGyUxpzN30bbHur7TDzYCykzh5g2eTuHUeYDpYu3DJ2iNqZfAdoFRnsTtFYRPpJo6cRKJQXTzZ6U-VOPg0MI0GR9hvcYTyNBcn3pb3GzUH9SEpWPN39DyxZvY1YncYq3hVQgKox3tYd"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx9TdxSfyKXheqVASREErE9sZF-yIRC-afSC_3nDc0cQjLnIHloebrP9bsGu-4E2ySrJq2ddAI7WTVQLPKUGiVRlitDrJBFCZFnJD3we7ZRlOxEi4HuCRK1BX3Czk8OEVr6yatr0FgP7EKXN4_Dw7PhlRpx2hkqJyndilwkue_vCffwW9nXndC0DQtVYKyz6jPA0GmkPvcI0pEz-AOfaUHFgAm9w=="
 hero_image: /img/how-to-trigger-elemental-reactions-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-trigger-elemental-reactions-nte/inline-1.webp
   - /img/how-to-trigger-elemental-reactions-nte/inline-2.webp
   - /img/how-to-trigger-elemental-reactions-nte/inline-3.webp
   - /img/how-to-trigger-elemental-reactions-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Success in Neverness to Everness (NTE) depends on your ability to chain elemental abilities and maintain a constant flow of swaps. Mastering the Esper Cycle is the difference between struggling against high-level anomalies and clearing them with ease.
 
@@ -48,7 +48,7 @@ Success in Neverness to Everness (NTE) depends on your ability to chain elementa
 ![Question Restated](/img/how-to-trigger-elemental-reactions-nte/inline-1.webp)
 
 
-Understanding the combat mechanics of Neverness to Everness requires more than just knowing how to dodge and attack. Players often find themselves asking
+Understanding the combat mechanics of Neverness to Everness requires more than just knowing how to dodge and attack. Players often find themselves asking:
 
 *   What is the specific process for triggering elemental reactions in Neverness to Everness (NTE)?
 *   How do the different Esper types interact with each other during combat to maximize DPS?
@@ -63,7 +63,7 @@ While the game provides a basic tutorial, the nuances of the "Esper Wheel" and t
 
 To trigger an elemental reaction in NTE, you must fill a character's Esper Meter through combat actions and then swap to them while the outgoing character’s element is still active on the target. Reactions only occur between elements that are adjacent to each other on the "Esper Wheel."
 
-The six core Esper elements are
+The six core Esper elements are:
 *   **Cosmos** (Silver)
 *   **Anima** (Green)
 *   **Incantation** (Red)
@@ -99,7 +99,7 @@ The most important rule in NTE combat is the **Adjacency Rule**. Reactions only 
 
 Every character has a circular Esper Meter located next to their portrait in the party UI. You cannot trigger a reaction until this meter is 100% full. Once charged, the character’s portrait will glow, signaling they are ready for a "Cycle Swap."
 
-There are three primary ways to fill this meter
+There are three primary ways to fill this meter:
 1.  **Normal Attacks:** These provide a slow, steady trickle of energy. This is your baseline tempo while a character is on the field.
 2.  **Skills and Ultimates:** Using a character’s active abilities provides a moderate to large burst of energy. Some characters, like **Zero**, have skills that can fill the meter almost instantly.
 3.  **Perfect Parries:** This is the most efficient method. Successfully parrying an enemy attack (timing the shrinking inner circle with the outer ring) instantly fills the character’s Esper Meter to 100%.

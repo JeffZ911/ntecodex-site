@@ -1,4 +1,4 @@
---
+---
 title: "Best F2P Weapons for Neverness to Everness DPS: Arc Tier List"
 slug: best-f2p-weapons-nte-dps-tier-list-20260524
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1537
 published_at: "2026-05-24T07:58:35.939937+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3R5HLxy5PM8liH7ZN55FUf-YhaD0xDK0OgdHuKV8LibHPxm-CrQ-pQDJUrq8UZqM1MPNuPSKWVIe_PwBzuNQSHFGx5lV7cR0TU4g4rwteead_vsG7UVBV2UFAovhawrhqKSXf0HU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG72CsgIE33wM8VSta09Uwc2sS05w_KOlfQNR_4ybVrI74onXH6zOSTjESzCdODROgaemK4-oZwXuAX_AJdNAU6st3UwDK6vXujqy6QGaBTUMKO5z1I7Q4S2Xim9D4X1Imbew3byw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlYrzbT-SPBAK_5lsPHgScHcktWllpL39YIxyP8uPHXGvODH_PiRoEsHM6MLX3ZjVVzHmchqVr1OeaLP0UXhAY16CQm4EmgQv5VLacxkL79d_pN2KlhzJ3coempSUqzvbUHkdr6x4U66ou_v3D0bv8RNHFOUGIL0gMIg4Rk5dSlsGj39kNFtJL5NdVelGjpgtYRup4cg_IONoXztkqkfUIZ8oA1FepVQrnWy8wSPoixUpDCUvX9Y08qb1QO8HMvPmeXe9PX8uP7avdpFhGaPXYU34="
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI-SVWJiS4a2k-_GrR3-F1F-4E-Z9y58K7sEFANWgzQ4I33X1dIq73IWf-liHWnUbKl1VXBFdOkcDwvwqCa4Zb29llmI3Wd3G8fwEGf4fAg723uw0M6bFl01NvTxyZmJR16z9pol4I_7mC_TuHyZ5dVTQGhkhr1SsyzNd-"
 game: unknown
 hero_image: /img/best-f2p-weapons-nte-dps-tier-list-20260524/hero.webp
-inline_images
+inline_images:
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-1.webp
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-2.webp
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-3.webp
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-4.webp
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-5.webp
   - /img/best-f2p-weapons-nte-dps-tier-list-20260524/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 With Neverness to Everness (NTE) having officially launched on April 29, 2026, F2P players have spent the last few weeks scouring the city of Hethereau for the best gear. While gacha-exclusive Arcs like "Ready-Ready" provide massive power spikes, the game is surprisingly generous with high-tier weapons obtainable through Anomaly Commissions, world bosses, and secret quests.
 
@@ -88,7 +88,7 @@ Obtained by defeating the **Headless Rider** Anomaly boss, Raging Flames is wide
 **Type:** Synthesis | **Substat:** CRIT Rate (12% at Max Level)
 This weapon is the signature F2P choice for Baicang and Fadia. It is earned by defeating the **Serenetti** boss in the Serenetti Manor, which is unlocked after completing the Lacrimosa and Baicang companion stories.
 
-*   **Arc Skill (Silent Garden):** Increases CRIT DMG by 12% for 5 seconds when the wearer's HP is reduced without taking damage (stacks up to 4 times). It also triggers the "Silent Garden" burst, which consumes 5% HP to unleash one of two random attacks
+*   **Arc Skill (Silent Garden):** Increases CRIT DMG by 12% for 5 seconds when the wearer's HP is reduced without taking damage (stacks up to 4 times). It also triggers the "Silent Garden" burst, which consumes 5% HP to unleash one of two random attacks:
     *   **Harsh Rebuke:** Deals 5 instances of Incantation DMG (24% ATK each).
     *   **Incessant Nagging:** Deals 6 instances of Incantation DMG (18% ATK each), with the final hit dealing double damage.
 

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Beginner Character Leveling Guide: Build Your Best Team"
 slug: nte-beginner-character-leveling-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1898
 published_at: "2026-05-23T08:35:04.115467+00:00"
 published_url: /guides/nte-beginner-character-leveling-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtWIXEjMjOMN8A1tLixXuibApsNyoRWAx3WvkknftplEv28sFU4igwG3bxtSXDHFiQyfs0ETDYee-_Nx_0Y0ZynOmZenW_-SpUqwygINjZy47TDsvXuTnfPCr2du-nMfJ_MVcsjko="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgSCHFk3TfWfHjZNv7zsQRgZoEZec-RnAjotdBwzZcdm_GMcGF5T300JMsSAuzRS-IFrpFaDRmo7-tyuCD5Np9oQ6YRpg9mRrFsVbnDK0U2agXsbB_Ymq2SumCeR2FrhT6d3UqY3jVGwgeyJmmsM6Zk3aLmgvsfdXCJvcbip1SkFb_SimMHmzWgbyTd04Pr2RZHmsLouI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTcOHLpzahCCIj3AJK-EZl2eJOtNgFVWD424GnOFdWZODoGZsleJFN5yZQ_OGBLWQVeqgPj_bvcrs42eIEX_DsA3CTWOgt_YVGZFUdunlW43G_HQrUzia_6KFU1ZWlNRanW9aLmQWzpQW0aQqN38TsxSxXYKVff4pBO6dGplA-5oQroiMOL65MwYWCa3RU6vhjLLPy"
@@ -20,21 +20,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG33TpGhenVGsy2eaJfdU5ciC9kzNx1Wl14g-2DE9D81Rn34zSsWi7m1AKzv3FYL-wpMSFT-rSd9Httd7cAkRwvpxeJ5he6mIydgvOBzJQJZxhpnnCFeQpuM56TI3t-FJJYsV6Aq5Sjn4-4Jw=="
 game: unknown
 hero_image: /img/nte-beginner-character-leveling-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-beginner-character-leveling-guide/inline-1.webp
   - /img/nte-beginner-character-leveling-guide/inline-2.webp
   - /img/nte-beginner-character-leveling-guide/inline-3.webp
   - /img/nte-beginner-character-leveling-guide/inline-4.webp
   - /img/nte-beginner-character-leveling-guide/inline-5.webp
   - /img/nte-beginner-character-leveling-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Getting your team ready for the supernatural challenges of Hethereau City requires a clear understanding of how character progression functions in Neverness to Everness (NTE). Since its release on April 29, 2026, players have discovered that leveling up is not just about raw power; it is a multi-layered system involving account-wide ranks, elemental synergies, and a unique "Tetris-style" gear interface.
 
@@ -183,7 +183,7 @@ Mastering your rotation is the difference between struggling against a boss for 
 
 ### Specific Nanally Rotation Tips
 
-If you are lucky enough to have Nanally, her rotation follows a specific "Authority" loop
+If you are lucky enough to have Nanally, her rotation follows a specific "Authority" loop:
 *   **Step 1:** Use her Skill (**Ichi-daime's Authority**) to enter an empowered state for 12 seconds.
 *   **Step 2:** Immediately cast her Ultimate to summon the **Underboss**.
 *   **Step 3:** Perform a combo of three Basic Attacks followed by a **Charged Attack** (hold the button). This triggers follow-up strikes from the Underboss and maximizes her Anima damage output.

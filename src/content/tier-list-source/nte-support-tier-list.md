@@ -1,4 +1,4 @@
---
+---
 title: "NTE Support Tier List: Best Characters Ranked (May 2026)"
 slug: nte-support-tier-list
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T18:14:36.123686+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-support-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-support-tier-list/inline-1.webp
   - /img/nte-support-tier-list/inline-2.webp
   - /img/nte-support-tier-list/inline-3.webp
   - /img/nte-support-tier-list/inline-4.webp
   - /img/nte-support-tier-list/inline-5.webp
   - /img/nte-support-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your team's potential in Hethereau City requires more than just raw damage; it demands a deep understanding of how utility units facilitate the "Esper Cycle" to dismantle enemy defenses.
 

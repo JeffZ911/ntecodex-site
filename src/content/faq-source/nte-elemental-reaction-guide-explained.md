@@ -1,4 +1,4 @@
---
+---
 title: "NTE Elemental Reaction Guide: All Esper Cycles Explained"
 slug: nte-elemental-reaction-guide-explained
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1428
 published_at: "2026-05-15T19:19:54.546754+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8YzRuAePRnwI56AdvvIul-Ju91W6ZfkE3yvlwb4JDwB9JfEiypbk2D3qCEHBdaKuSNhyqMSzMRSXu8z1G-0yc26Vm7kh6mzmh4LToCm0SX32ZZzYyy_90FhaWpxp1rSXYoLWJedPrkw7dcMhltrv0CPu0r5BsqA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDSVCNgf9YTC726zscu1eAN9VvreMJ5EF7IKIscFHKftGBLwGKBPIRvYUKbDOQYr_h3LOeh9rq2UNhHdJS4UbeEQivbkz9LLNY_I6MUUMp8UJl1TstBcCS7017TC9GcD1A8tAhhWE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcYzVzU-Hh_zEBbJM1ZLVrszBYb8wDuKEPbews25ScxInpIb7EMvhxJbBRKESDefGEWpW5TdFurqQ8nK8z_BECnNiF981w5HiAqQuJbzDRVsScvdWgbevLU9DiGV_2oC6F9qqN9byjzl83xP_mio8kbwBlZYFJ8aVngC1xqMV6iA0I"
@@ -22,17 +22,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFySmDa24b_ejC-TxPdeldd8Pr93hxp4sDWYXkVAz1lE5vsu9sZ40Ngpp0z3p4QlprXEBlfLMXTijBaB1bl1PZ8zjSDMRyUVSKd1xmXgIPKaF6ASYsysrXrQd0O02iJaj0QmLZ-N50hmrRW2FpZOlkOlMjaA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjiJNEObwllAUnxw3aaV1KWhwiOamm-9e2ZYhdw9rRvUGQO3Hk8WR_W_FaX6WFkkcGzfGKtRTpIBa1BZFc2TGngxRivpEAuOKPSc3y8LfZfKgxv0XFxEvNB4bktq7nnKzu-C8ZhrQk7WY5hLT0CCF4WxVuEnRBN8qeHGf7ez3YEkhS3-lD"
 hero_image: /img/nte-elemental-reaction-guide-explained/hero.webp
-inline_images
+inline_images:
   - /img/nte-elemental-reaction-guide-explained/inline-1.webp
   - /img/nte-elemental-reaction-guide-explained/inline-2.webp
   - /img/nte-elemental-reaction-guide-explained/inline-3.webp
   - /img/nte-elemental-reaction-guide-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the Esper Cycle is the difference between a struggling Anomaly Hunter and a top-tier DPS in the supernatural city of Hethereau.
 
@@ -45,7 +45,7 @@ Mastering the Esper Cycle is the difference between a struggling Anomaly Hunter 
 ![Question Restated](/img/nte-elemental-reaction-guide-explained/inline-1.webp)
 
 
-Understanding the combat system in Neverness to Everness (NTE) requires a deep dive into the elemental mechanics that govern every encounter. Players often ask
+Understanding the combat system in Neverness to Everness (NTE) requires a deep dive into the elemental mechanics that govern every encounter. Players often ask:
 
 *   **What are elemental reactions in Neverness to Everness (NTE)?** These are known as "Esper Cycles," unique combat effects triggered by combining specific elemental types.
 *   **How do you trigger the Esper Cycle during combat?** You must fill a character's Esper Meter and swap them into the field while a compatible elemental status is active on the enemy.
@@ -59,7 +59,7 @@ Understanding the combat system in Neverness to Everness (NTE) requires a deep d
 
 Elemental reactions in NTE are called "Esper Cycles" and occur when you swap between characters with neighboring elements on the Esper Wheel. Unlike traditional elemental systems where any two elements might interact, NTE uses a strict adjacency rule. If two elements are not next to each other on the wheel, swapping between them will result in a "Dry Swap" with no bonus reaction damage or effects.
 
-There are six primary elements, known as Espers, in the game
+There are six primary elements, known as Espers, in the game:
 
 | Esper Element | Color/Theme | Combat Role Tendency |
 | :--- | :--- | :--- |

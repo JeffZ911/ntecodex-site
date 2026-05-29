@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-dps-characters-neverness-to-everness
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T20:11:09.054862+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-characters-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-neverness-to-everness/inline-1.webp
   - /img/best-dps-characters-neverness-to-everness/inline-2.webp
   - /img/best-dps-characters-neverness-to-everness/inline-3.webp
   - /img/best-dps-characters-neverness-to-everness/inline-4.webp
   - /img/best-dps-characters-neverness-to-everness/inline-5.webp
   - /img/best-dps-characters-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Dominating the urban sprawl of Hethereau requires more than just a fast car; you need a team of Espers capable of dismantling Anomalies with surgical precision. This guide ranks the best DPS characters in Neverness to Everness to help you optimize your Riftcrystals and build a high-performance squad for the current May 2026 meta.
 
@@ -36,7 +36,7 @@ Dominating the urban sprawl of Hethereau requires more than just a fast car; you
 
 Determining the ranking of Espers in Neverness to Everness involves analyzing how their kits interact with the game's core "Esper Cycle" and the "Arc" equipment system. Unlike traditional action RPGs, damage in NTE is often a product of elemental states and follow-up triggers rather than just button-mashing.
 
-The following criteria are used to weight the characters in this tier list
+The following criteria are used to weight the characters in this tier list:
 
 | Criteria | Weighting | Description |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ In the current 1.0 and 1.1 meta, characters generally fall into two categories. 
 
 Arcs serve as the primary weapon system in Neverness to Everness. Each Arc is tuned to specific elemental attributes (Anima, Cosmos, Incantation, etc.) and States (Plasma, Solid, Liquid, Synthesis, Bose). A character's tier placement is heavily influenced by how many viable Arcs are available for their specific combination. For example, Cosmos/Solid characters currently have access to the widest variety of high-scaling Arcs, giving units like Chiz and Hotori a distinct advantage over more niche combinations.
 
-Elemental interactions also play a vital role in damage multiplication
+Elemental interactions also play a vital role in damage multiplication:
 
 | Element A | Element B | Interaction Effect |
 | :--- | :--- | :--- |

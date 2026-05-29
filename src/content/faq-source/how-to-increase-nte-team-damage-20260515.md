@@ -1,4 +1,4 @@
---
+---
 title: How to Increase Team Damage in Neverness to Everness (NTE Guide)
 slug: how-to-increase-nte-team-damage-20260515
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T13:07:24.813709+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-increase-nte-team-damage-20260515/hero.webp
-inline_images
+inline_images:
   - /img/how-to-increase-nte-team-damage-20260515/inline-1.webp
   - /img/how-to-increase-nte-team-damage-20260515/inline-2.webp
   - /img/how-to-increase-nte-team-damage-20260515/inline-3.webp
   - /img/how-to-increase-nte-team-damage-20260515/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing damage in Neverness to Everness requires more than just leveling up characters; it demands a deep understanding of the Esper Cycle and the intricate Console system. Success in high-level Hethereau content hinges on how well you synchronize elemental reactions and optimize your gear layout.
 
@@ -79,7 +79,7 @@ To increase team damage, you must prioritize "Set Bonuses." Each Module belongs 
 
 [Screenshot description: A screenshot of the NTE Console UI demonstrating how different shaped Modules fit into the grid to activate set bonuses. Aspect ratio: 16:9]
 
-When placing Modules, keep these key damage stats in mind
+When placing Modules, keep these key damage stats in mind:
 *   **ATK %:** Increases your base damage.
 *   **CRIT Rate / CRIT DMG:** Essential for late-game scaling.
 *   **Cycle Intensity:** Increases the damage dealt by Esper Abilities when swapping.
@@ -99,7 +99,7 @@ Arcs are the weapons of NTE, and they come in five distinct types based on their
 | Liquid | Healers / Elemental Enablers | HP, Elemental Mastery, Healing Bonus |
 | Synthesis | Hybrid / Specialized | [Information not yet publicly available as of 2026-05-15] |
 
-To increase your damage via Arcs, you must follow three progression paths
+To increase your damage via Arcs, you must follow three progression paths:
 1.  **Enhancement:** Use "Arc XP" materials to level up the weapon, increasing its base ATK.
 2.  **Ascension:** Once an Arc reaches its level cap, use specific boss drops to "Ascend" it, unlocking higher levels and often boosting the weapon's passive ability.
 3.  **Mixing:** This is the NTE version of refinement. By consuming duplicate copies of the same Arc, you "Mix" them to increase the rank of the weapon's unique passive. For a 5-star Arc like those found in "The Ichi-daime" banner, Mixing can lead to a [Information unavailable] percentage increase in overall damage.

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Beginner Guide for Daily Tasks: The Ultimate Daily Routine"
 slug: nte-beginner-guide-daily-tasks
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-guide-daily-tasks/hero.webp
-inline_images
+inline_images:
   - /img/nte-beginner-guide-daily-tasks/inline-1.webp
   - /img/nte-beginner-guide-daily-tasks/inline-2.webp
   - /img/nte-beginner-guide-daily-tasks/inline-3.webp
   - /img/nte-beginner-guide-daily-tasks/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your progress in Hethereau requires a disciplined approach to the various energy systems and interaction points scattered throughout the city. This guide outlines the essential daily routine for new players to ensure no resources are wasted during the critical early-game push.
 
@@ -32,7 +32,7 @@ Maximizing your progress in Hethereau requires a disciplined approach to the var
 ![Question Restated](/img/nte-beginner-guide-daily-tasks/inline-1.webp)
 
 
-Players arriving in the anomaly-filled streets of Hethereau often find themselves overwhelmed by the sheer volume of activities available. To progress efficiently, beginners need to identify which tasks provide the highest return on investment for their limited time and resources. Specifically, players frequently ask
+Players arriving in the anomaly-filled streets of Hethereau often find themselves overwhelmed by the sheer volume of activities available. To progress efficiently, beginners need to identify which tasks provide the highest return on investment for their limited time and resources. Specifically, players frequently ask:
 
 *   What are the most important daily tasks for beginners in Neverness to Everness (NTE)?
 *   How do the different stamina systems, namely Character Pixels and City Stamina, function and recover?
@@ -54,7 +54,7 @@ Daily resets occur at 5:00 AM server time, while weekly resets—which include t
 
 ### The NTE Daily Checklist at a Glance
 
-For players on a tight schedule, follow this priority list to ensure maximum account efficiency
+For players on a tight schedule, follow this priority list to ensure maximum account efficiency:
 
 1.  **Character Pixels:** Spend all 240 Pixels in Anomaly Zones or Resource Instances.
 2.  **Exploration Guide:** Complete tasks until you hit 100 Participation Points.
@@ -95,7 +95,7 @@ NTE utilizes two distinct stamina pools that do not overlap, which can be confus
 
 The Exploration Guide serves as the "Daily Mission" hub for NTE. By completing Participation Tasks, you earn points that unlock tiered rewards. Reaching the 100-point milestone is mandatory for any player looking to save for upcoming banners.
 
-The standard daily tasks usually include
+The standard daily tasks usually include:
 *   **Daily Login:** 10 Points.
 *   **Earn 10,000 Fons:** 20 Points (Easily done via the Cafe or open-world combat).
 *   **Spend 120 Character Pixels:** 40 Points (Half of your daily natural regen).
@@ -109,7 +109,7 @@ Hethereau is filled with "Interaction Points" that offer unique long-term benefi
 
 **Nacupeda’s Pool** is located in the [Information unavailable] district. Every day, you can interact with the pool and select the "Sincere Wish" option. This grants you **Mhm! Coins**. While the daily amount seems small, these coins are the only currency used in the Nacupeda Exchange Shop. Saving 100 Mhm! Coins allows you to purchase a guaranteed S-Rank Arc, making this a vital task for F2P players.
 
-**The Witch’s House** offers a daily "Fortune Telling" mechanic. Depending on your luck, you will receive one of three buffs
+**The Witch’s House** offers a daily "Fortune Telling" mechanic. Depending on your luck, you will receive one of three buffs:
 1.  **Lost Tales:** Reveals the location of a hidden "Anomaly Side Quest" on your map.
 2.  **Bless:** Provides a combat buff (e.g., +10% Elemental DMG) that lasts for 24 hours.
 3.  **Treasure Hunt:** Marks a nearby location where you can find Oracle Stones, which are used for high-level gear refinement.
@@ -118,7 +118,7 @@ Hethereau is filled with "Interaction Points" that offer unique long-term benefi
 
 The City Tycoon system is NTE’s business management layer. As a beginner, your focus is the **Cafe by Origen**. This establishment generates Fons (the standard gold currency) passively over time.
 
-To maximize your daily intake
+To maximize your daily intake:
 *   **Check the Ledger:** Collect your accumulated Fons. The storage has a limit based on your City Tycoon level, so don't let it sit for more than 12-18 hours.
 *   **Restock Ingredients:** Use Chiz to source ingredients from the open world or local vendors. Without ingredients, the Cafe stops producing Fons.
 *   **Assign Staff:** Ensure your most efficient characters are assigned to the Cafe roles to boost the "Fons per Hour" metric.

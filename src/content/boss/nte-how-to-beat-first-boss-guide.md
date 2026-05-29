@@ -1,4 +1,4 @@
---
+---
 title: How to Beat the First Boss in Neverness to Everness (NTE Guide)
 slug: nte-how-to-beat-first-boss-guide
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-how-to-beat-first-boss-guide
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-beat-first-boss-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-how-to-beat-first-boss-guide/inline-1.webp
   - /img/nte-how-to-beat-first-boss-guide/inline-2.webp
   - /img/nte-how-to-beat-first-boss-guide/inline-3.webp
   - /img/nte-how-to-beat-first-boss-guide/inline-4.webp
   - /img/nte-how-to-beat-first-boss-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Mastering the early combat encounters in Helleana is essential for progressing through the opening hours of Hotta Studio’s urban open-world RPG. This guide provides the specific tactics needed to overcome the initial hurdles in the Eibon Antique Shop district.
 
@@ -88,7 +88,7 @@ Taygedo, however, enters an "Angry" state at 50% HP. During this transition, Tay
 The core combat loop in Neverness to Everness follows a specific rhythm: **Dodge/Parry -> Break -> Burst.** Following this sequence is the most efficient way to clear both the Picture Frame and Taygedo.
 
 ### Mastering the Break Meter
-The Break Meter is your primary objective. While the boss is "Active," they take significantly reduced damage. To deplete the white bar
+The Break Meter is your primary objective. While the boss is "Active," they take significantly reduced damage. To deplete the white bar:
 1.  **Perform Critical Ripostes:** After a Perfect Dodge, your next Basic Attack becomes a Critical Riposte. This deals massive "Stagger Damage" to the Break Meter.
 2.  **Use Break-Heavy Skills:** Mint is your primary "Breaker" in the early game. Her Anima-based attacks are designed to chip away at the meter faster than Zero or Adler.
 

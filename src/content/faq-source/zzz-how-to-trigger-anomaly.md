@@ -1,4 +1,4 @@
---
+---
 title: "How to Trigger Anomaly in Zenless Zone Zero: A Complete Guide"
 slug: zzz-how-to-trigger-anomaly
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 8.3
 word_count: 1831
 published_at: "2026-05-14T04:50:31.475379+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUav3nB8MMyr2LRixA5vF4C408ptzOZKSpH0IOhkB0BsxPPpcWtCNozpTZ_pU7jkPOK1Ca_p7YjO6mJvqbZJZ5TzdSwRqaK-0myUTK_J4vRWdWQFRw2VKmVtstphzonrNnHj0fAr0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6oOoPsN8XYRCstG2L_WX3hZU67vqAA6PwrQdNXckWI5QsfLlaLNyL3R1oCiuqYOonvRd41h-2QdnLhm0rHybhiSeMLY8rWSnd-ZhZAB2_ft1oq8babBV5O2XNicqjPAXBnT3NcymCyD57UA5QdhPZ"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr1kZjIYqo0KipxbvRUhQ8QTleJgaOw-3msCnFNC8IYY3lsvvXUmgqj9S4a_XfFtDFJr45ZTmPPqWd7FSoA2QVamecU3Ro01Dpevqs9W2jzz7GdBhr9RO6ND1hR7-dFM9iToaJ8k4="
@@ -23,17 +23,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW-E8Mc4eZ3PBZ9x37Sx1Y6_JkIZz7OPrq1XCbHnRHkXgYhEIp85nXiAhfCcOPwSi2JExCQHQ4Vk-zOELxD6KIWoUSzuhLI86rx72824IVyuSnb93GSr7DiLAP37HwMr07ZT8oUfA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9mLy5QVOk_k5sBH2v9xU6s-ugFai5_fkuu9vrioLjjqVtKpmgFr6KvTTRuUPir9tdot62rWKzVGRNRM6AXJDutrMxWYt-4B6z4dKw8FHaX1ocyX3L41EcJD5wkTM_YbJxShBxbBeIl04Zg4FzlVN-90Y6P1UcxwGYCik9CX3OYG-2Z6yy5XnFtLif"
 hero_image: /img/zzz-how-to-trigger-anomaly/hero.webp
-inline_images
+inline_images:
   - /img/zzz-how-to-trigger-anomaly/inline-1.webp
   - /img/zzz-how-to-trigger-anomaly/inline-2.webp
   - /img/zzz-how-to-trigger-anomaly/inline-3.webp
   - /img/zzz-how-to-trigger-anomaly/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the Anomaly system is the difference between struggling against elite Ethereals and melting them in seconds. This guide breaks down exactly how to trigger Attribute Anomalies, optimize your buildup stats, and execute the devastating Disorder combo.
 
@@ -46,7 +46,7 @@ Mastering the Anomaly system is the difference between struggling against elite 
 
 Understanding the Anomaly system is vital for any Proxy looking to tackle late-game challenges like Shiyu Defense or the Battle Tower. But what exactly is an Attribute Anomaly in Zenless Zone Zero? Simply put, it is a powerful status effect and damage burst triggered when an enemy is subjected to enough elemental pressure.
 
-To master this system, players need to answer several key questions
+To master this system, players need to answer several key questions:
 *   How do you initiate the Anomaly buildup process during fast-paced combat?
 *   What are the visual indicators that tell you an Anomaly is about to "pop"?
 *   Why is the Anomaly system considered the premier damage engine for endgame content compared to traditional Crit-based builds?
@@ -64,7 +64,7 @@ Triggering an Anomaly in Zenless Zone Zero requires dealing consistent Attribute
 
 Once the gauge is completely filled, the corresponding Attribute Anomaly triggers. This results in an immediate burst of damage and applies a unique status effect, such as Burn or Shock, which persists for a set duration.
 
-Key rules for triggering Anomalies include
+Key rules for triggering Anomalies include:
 *   **Gauge Ownership:** While any character can contribute to the buildup, the character who lands the hit that fills the final 1% of the gauge is considered the "trigger owner." However, the final damage calculation is weighted based on the stats of every character who contributed to that specific gauge.
 *   **Role Specialization:** While all Agents can build Anomaly, specialized "Anomaly" class Agents like Grace Howard, Jane Doe, and Burnice White possess significantly higher Anomaly Mastery, allowing them to fill the gauge much faster than Attack or Stun roles.
 *   **Internal Cooldowns:** Most Anomalies have a short internal cooldown (typically 3 seconds) before the same attribute can be triggered again on the same target.
@@ -104,7 +104,7 @@ Two primary stats govern the effectiveness of your Anomaly triggers. Mixing thes
 2.  **Anomaly Proficiency:** This stat determines the **damage** of the trigger. 1 point of Anomaly Proficiency increases the final Anomaly damage by 1%. For DoT effects like Burn or Shock, this scales every tick of damage. This stat is usually found on Disk Drive slot 4.
 
 **The Scaling Formula:**
-Anomaly damage scales based on the following factors
+Anomaly damage scales based on the following factors:
 *   **Base ATK:** The combined attack stat of the contributing Agents.
 *   **Agent Level:** Level provides a massive hidden multiplier (Level Coefficient). A Level 60 Agent deals significantly more Anomaly damage than a Level 50 Agent, even with identical gear.
 *   **Anomaly Proficiency:** The primary damage multiplier.
@@ -114,7 +114,7 @@ Anomaly damage scales based on the following factors
 
 Disorder is the "reaction" mechanic of Zenless Zone Zero. It occurs when you trigger a second, different Attribute Anomaly while a previous one is still active on the enemy.
 
-When Disorder triggers
+When Disorder triggers:
 1.  The remaining damage from the first Anomaly (the DoT ticks of Burn, Shock, or Corruption) is instantly front-loaded into a single burst.
 2.  An additional "Disorder Bonus" damage instance is applied.
 3.  A significant amount of Daze is dealt to the enemy, often leading to an immediate Stun.
@@ -151,7 +151,7 @@ While Anomaly and Stun (Daze) are separate systems, they are highly synergistic.
 
 ### Optimizing Gear for Anomaly Agents
 
-To trigger Anomalies effectively, you must equip the correct Drive Discs. As of May 2026, the following sets are the gold standard for Anomaly builds
+To trigger Anomalies effectively, you must equip the correct Drive Discs. As of May 2026, the following sets are the gold standard for Anomaly builds:
 
 *   **Freedom Blues (4-Piece):** Reduces the enemy's Anomaly Buildup RES to the equipper's attribute by 20% for 8 seconds after an EX Special Attack hits. This is essential for fast triggers.
 *   **Chaos Jazz (4-Piece):** Provides a 15% Fire/Electric DMG bonus and increases off-field EX Special/Assist DMG by 20%. This is the premier set for off-field Anomaly triggers like Burnice or Yanagi.

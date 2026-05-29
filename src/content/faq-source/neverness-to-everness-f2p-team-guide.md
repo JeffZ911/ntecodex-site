@@ -1,4 +1,4 @@
---
+---
 title: "Best Neverness to Everness F2P Team Guide: Top FTP Lineups"
 slug: neverness-to-everness-f2p-team-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1633
 published_at: "2026-05-24T23:58:16.620777+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkG8MuueKrxzFWm9bZjbm_O3B4T1q5WGTMUik4xQiMVjYrs3gIBGpGXBU-Pwoqk1kc9lnYAjH3MK7vOyj4P-eBIRPVYhdYRIWpcTHewYbqR8udm22z_UuG_4pURK2NI82MSQMgyh7xnEdrDmZwHap70FBtSC2Fw5x0dx3TY78L_9DyTRI_"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09iivLTeQ73o4kzlYEsnP3pBLY0mCPh3Cg6pekjL1rfgLGDZiwYYBHdO3YfpzCqEBPR8TWGcTsRDLu0qVCW1G4NiUv1q1Vg_geZ1aa9qyu_eHBswtyukl6BprAPVveSxnrQzG72w4_5eNEJaa9gdjc4V-4rX5IfWqJSLYeORL_PotNQBMKzo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHouClIY8wvrIoeyjtT1SpR_x5aEcqERsxV82fAWXXwMTWwc7zZY4A0krf-2I9w8XNTA2m-4f5ve-NjORC8fSv892MpjhPzbifi7Aq3vDZdt9RKIabQTlqew-khf-BczxhU_XZGv_gZQMs1mKrP"
@@ -22,15 +22,15 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjeH49fAD1QIgzr4DlyzgtulP1Dq6uIcP1RMJejH_7skMIj8WKjoEf90UmMBae8ejOu4k5SxeyeRQ6MAIXHLteF8RIEU3tDHP6KVyUz3DBAkZvqg1rbmOj0LjzRASpWlAP-4p5j3eziU2xGMmJ1a9SVdqBSCDluxdM5R1h2yuvMetgemFrkM9Es5FZJpIpOO8W1Xk0V6ygAvxNgRjz"
 game: unknown
 hero_image: /img/neverness-to-everness-f2p-team-guide/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-f2p-team-guide/inline-2.webp
   - /img/neverness-to-everness-f2p-team-guide/inline-3.webp
   - /img/neverness-to-everness-f2p-team-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a powerful roster without spending a single Beetle Coin is not only possible in Neverness to Everness (NTE)—it is the intended way to experience the game’s deep urban management and supernatural combat systems.
 
@@ -42,7 +42,7 @@ Neverness to Everness (NTE) launched on April 29, 2026, introducing a unique "Es
 
 ## Question Restated
 
-When starting your journey in Hethereau, the most common questions involve how to maximize a limited budget. Specifically, players need to know
+When starting your journey in Hethereau, the most common questions involve how to maximize a limited budget. Specifically, players need to know:
 
 *   **What are the best free-to-play (F2P) team compositions in Neverness to Everness?**
 *   **Which free characters should F2P players prioritize for investment?**
@@ -57,7 +57,7 @@ Effective F2P play in NTE is not about finding a single "strongest" character, b
 
 The best F2P team in Neverness to Everness (NTE) centers on the Cosmos-Anima core, utilizing Zero (S-Rank), Chiz (S-Rank), and Mint (A-Rank). This "Blossom" focused lineup excels because it triggers autonomous turret spawns that provide consistent off-field damage, allowing F2P players to maintain high DPS even while dodging complex boss patterns.
 
-Players receive six high-quality characters for free through various gameplay milestones
+Players receive six high-quality characters for free through various gameplay milestones:
 
 | Character | Rank | Element | Unlock Method |
 | :--- | :--- | :--- | :--- |
@@ -119,12 +119,12 @@ For F2P players, the **Cosmos-Anima-Incantation** arc of the wheel is the most a
 
 #### 3. The "Discord" Stagger Team (Adler, Aurelia, Sakiri/Baicang)
 *   **Focus:** Staggering Bosses.
-*   **Rotation:** This team requires using your S-Rank Selector on either **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** or **Baicang**. 
+*   **Rotation:** This team requires using your S-Rank Selector on either **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** or **Baicang**.
 *   **Why it works:** By combining Incantation (Adler/Sakiri) and Psyche (Aurelia/Haniel), you can trigger the Discord reaction. This is the most efficient way to deplete a boss’s Break Meter, leading to long windows where the enemy is incapacitated and takes 150% increased damage.
 
 ### F2P Character Investment Priority
 
-Not all free characters deserve equal resources. Use the following priority list to manage your Fons and upgrade materials
+Not all free characters deserve equal resources. Use the following priority list to manage your Fons and upgrade materials:
 
 *   **T0 (Max Immediately):** **Zero** (Universal utility) and **Chiz** (Best F2P DPS).
 *   **T1 (High Priority):** **Haniel** (The only free ATK buffer) and **Adler** (Essential for survival).
@@ -140,7 +140,7 @@ Chiz is unique because she cannot be pulled from the gacha. She is exclusively t
 
 ### Best F2P Arcs (Weapons) and Gear for Early Game
 
-In the early game, do not waste your Fabricated Dice on the weapon banner. The game provides several "Growth Arcs" through the Hunter Exchange
+In the early game, do not waste your Fabricated Dice on the weapon banner. The game provides several "Growth Arcs" through the Hunter Exchange:
 
 *   **Zero:** Use the **[Information not yet publicly available as of 2026-05-24]** or the standard 4-star "Antique Blade."
 *   **Chiz:** Her signature Yokai Hammer is free at Tycoon Level 21. Use a generic "Heavy Impact" Arc until then.
@@ -150,7 +150,7 @@ For gear, focus on the **Solid** set for Zero and the **Gas** set for Chiz. Thes
 
 ### S-Rank Selector Strategy: Who to Pick?
 
-After 50 pulls on the Standard Board, you receive an S-Rank Selector. For F2P players, there are two primary choices
+After 50 pulls on the Standard Board, you receive an S-Rank Selector. For F2P players, there are two primary choices:
 
 1.  **Jiuyuan (Anima):** The best choice for most players. She is a direct upgrade to Mint and has perfect synergy with Zero and Chiz for the Blossom reaction. Her "Control" capabilities allow you to group enemies, making Chiz’s hammer swings much more effective.
 2.  **Sakiri (Incantation):** Pick her if you prefer the "Discord" playstyle. She is an elite support buffer who makes Adler much more viable in the late game.
@@ -162,7 +162,7 @@ Avoid picking **Daffodil** or **Hathor** as your first selector unless you happe
 ![Related](/img/neverness-to-everness-f2p-team-guide/inline-4.webp)
 
 
-Optimizing your F2P account is about more than just combat. To keep your resource flow steady, ensure you are engaging with all aspects of Hethereau
+Optimizing your F2P account is about more than just combat. To keep your resource flow steady, ensure you are engaging with all aspects of Hethereau:
 
 *   **NTE Tier List:** Check out our full Neverness to Everness Character Tier List for meta rankings to see how your F2P units stack up against limited characters like [Nanally](/characters/nanally-guide-nte).
 *   **City Tycoon Guide:** Learn how to optimize your urban exploration and property management with our Hethereau City Guide to unlock Chiz faster.

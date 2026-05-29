@@ -1,4 +1,4 @@
---
+---
 title: "Best Nanally Build Guide: Neverness to Everness (NTE)"
 slug: nanally-build-guide-nte
 game: nte
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 1953
 published_at: "2026-05-13T02:29:09.096495+00:00"
 published_url: /guides/nanally-build-guide-nte
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyhRXyambXSK6FwVjfV0oAi4cc9qym9LdFLXvRFGiToBEw4Wbx21OEFVYhO9Xj9LISCKOCdLTdYdnOLSZ5L83bn5DdD5xnXVc4Ct8g_XdSVE3daRVE_I5HGtc6R00bDoqfIg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFryYcy78J7EIC_MgjwbfyRZZ6F7PapGbpDPGVO0sNgERusPZDIdnoT13uV39XavBgYMIBtqQhwoJwcg0ViiDp2RDKy20Bp5g0Df5SGH2S0ifImVny_b4BKi63tTWIWF8cAR5MM-os="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXh6w_EAEhj-alJdIxpXIl96M3KH8QDLnRhnw2Kiwj0pIp5wu6pwJIjcwarMFtuL7xTpcfKnCuQ2YEMFsSXzXWSWoVTEmWeU7FfwA1TLxlSkIoS6l1fyGguQY_v8oIW9lVyikitKkxkAYyvb1d_E6fU6OdezHANZPTZzvlpba2oyc="
@@ -28,7 +28,7 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGregHqGjp5cJ2JSWPKyC1dibhe05GkHo0aQk6yp77A8rHtJTqflb-X8lOBD_v18BqIs4FCiOJVesVO-yuow7R9H5YcXsI-EB4L0EKlZYlGU6p5bGg_c2mEke0CJr8V2zWKb8LCVbq93dQqU9AyEPTRw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1MThfDj7HGaogHa-d_iS7j3zK5v0uFj_HHcS6PnWJ7wjiK8PMVHVqBIrFF2z8_XGdadxAeZaqxDqrXK_5k2eNwZEOHMQs5yoqy-9Xafaiag8a8KtEs3RU7MI-pZhbUNv7KLFvzNBjAn_ZWrIjXkZdxUpz7g_wZh4"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7mg43ER-iWM-pDnYxERDRwqPXHK8H-y-H5mVcHm2qBTYeULI-qm8A1r38e0xtYoTpUsrENeINR-yE1Pb3sf5sCLRKJa-Ul2AJOE_Ysxzm8IDpew9EcNnCZtHQ1Ida9sOzGuRQh7PGvtMl0xHx92JdK31qF-pdaKf69iCLL6qOhm_nZh71cgEwL1TdyC3nfE77oWg4qHyd"
---
+---
 
 [Nanally](/characters/nanally-guide-nte) Coluccis has quickly established herself as the premier Anima DPS in Neverness to Everness, dominating the urban battlefield with her high-frequency follow-up attacks and unique wall-walking mobility.
 
@@ -110,7 +110,7 @@ The **Fireflies and the Forest** Cartridge set is currently the only viable choi
 
 ### Module Stat Priority & Grid Optimization
 
-When slotting Modules into your Console, prioritize the following stats
+When slotting Modules into your Console, prioritize the following stats:
 1.  **Main Stat:** Anima DMG Bonus (Cartridge)
 2.  **Substats:** Crit Rate > Crit DMG > ATK% > Cycle Intensity
 
@@ -127,7 +127,7 @@ Nanally shines brightest in teams that can trigger frequent Esper Cycles and rea
 
 ### The Meta Blossom Team
 
-The current highest-performing team for Nanally consists of
+The current highest-performing team for Nanally consists of:
 *   **Nanally (Main DPS):** The primary damage dealer who triggers follow-ups and enhances Blossom buds.
 *   **Jiuyuan (Sub-DPS/Support):** Provides Anima resonance, crowd control, and increases the maximum number of Blossom buds allowed on the field.
 *   **Zero (Battery/Reaction Trigger):** Essential for her "Instant Cycle" skill, which immediately generates Esper Meter to trigger Blossom reactions frequently.
@@ -135,7 +135,7 @@ The current highest-performing team for Nanally consists of
 
 ### F2P Friendly Team Options
 
-If you do not have the full premium roster, you can run a highly effective "Budget Blossom" or "Sustained Anima" team
+If you do not have the full premium roster, you can run a highly effective "Budget Blossom" or "Sustained Anima" team:
 *   **Nanally / Zero / Adler / Haniel**
     *   **Adler** provides reliable Incantation application for the Hexed reaction.
     *   **Haniel** is a top-tier A-Rank healer/buffer whose ATK bonus scales with her own base stats, making her very F2P friendly.
@@ -162,7 +162,7 @@ Mastering Nanally requires a strict adherence to her buff windows. Because her I
 
 ### Sustained DPS Combo
 
-Once the Underboss is active (6-second window), use the following combo to maximize follow-up triggers
+Once the Underboss is active (6-second window), use the following combo to maximize follow-up triggers:
 *   **3x Basic Attack -> 3x Charged Attack (Heavy Hitter!)**
 *   Repeat this sequence until the Underboss disappears.
 *   If the enemy attempts a ground-based AoE, use the wall-walking mechanic to run up a nearby building or vertical surface, then use **Grand Entrance!** (Plunge Attack) to dive back into the fight for up to 200% bonus damage based on height.
@@ -173,7 +173,7 @@ Once the Underboss is active (6-second window), use the following combo to maxim
 Yes. As the first limited S-Rank DPS, Nanally is designed to be the "benchmark" for damage in the early versions of Neverness to Everness. Her ability to deal damage off-field through the Underboss and her unique mobility make her a safe investment for both F2P and whale players. She is currently ranked as the #1 DPS on the Neverness to Everness Tier List for both single-target and AoE scenarios.
 
 ### Awakening Priority (A1 - A6)
-If you are aiming for duplicates, here is the priority for Nanally’s Awakenings
+If you are aiming for duplicates, here is the priority for Nanally’s Awakenings:
 *   **A1: Gang Formation (High Priority):** Grants 2.5 Ultimate Energy for every follow-up attack. This is vital for maintaining 100% uptime on her Underboss summon.
 *   **A2: Second Member:** Increases Underboss damage by 30%.
 *   **A5: Followers Everywhere (High Priority):** Stacks ATK by 2% for every follow-up hit, up to 20%. This provides a massive boost during long boss encounters.

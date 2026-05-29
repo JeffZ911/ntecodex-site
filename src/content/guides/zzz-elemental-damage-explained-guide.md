@@ -1,4 +1,4 @@
---
+---
 title: "ZZZ Elemental Damage Explained: Best Builds & Mechanics Guide"
 slug: zzz-elemental-damage-explained-guide
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T21:29:59.823834+00:00"
 published_url: /guides/zzz-elemental-damage-explained-guide
 sources: []
 hero_image: /img/zzz-elemental-damage-explained-guide/hero.webp
-inline_images
+inline_images:
   - /img/zzz-elemental-damage-explained-guide/inline-1.webp
   - /img/zzz-elemental-damage-explained-guide/inline-2.webp
   - /img/zzz-elemental-damage-explained-guide/inline-3.webp
   - /img/zzz-elemental-damage-explained-guide/inline-4.webp
   - /img/zzz-elemental-damage-explained-guide/inline-5.webp
   - /img/zzz-elemental-damage-explained-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Mastering the elemental interactions in New Eridu is the difference between struggling against high-level Ethereals and clearing Shiyu Defense with ease. This guide breaks down how Attribute Anomalies and Disorder reactions function to maximize your squad's combat efficiency.
 
@@ -56,7 +56,7 @@ Disorder deals a massive burst of damage that accounts for the remaining potenti
 
 ### Mastery vs. Proficiency: Which Stat Matters?
 
-Building an elemental specialist requires balancing two specific stats found on W-Engines and Disk Drives
+Building an elemental specialist requires balancing two specific stats found on W-Engines and Disk Drives:
 
 *   **Anomaly Mastery:** This stat determines the speed at which you fill the Anomaly Buildup meter. Higher Mastery means fewer hits are required to trigger an effect like Burn or Assault. This is essentially your "application speed."
 *   **Anomaly Proficiency:** This stat determines the final damage dealt by the Anomaly effect once it procures. Every point of Proficiency increases the base damage of effects like Burn, Shock, or Corruption.
@@ -107,7 +107,7 @@ Disk Drives provide the necessary stat thresholds to make elemental builds viabl
 
 ### Optimal Main Stats and Substats
 
-To maximize elemental output, prioritize the following main stats on your Disk Drive slots
+To maximize elemental output, prioritize the following main stats on your Disk Drive slots:
 
 *   **Slot 4:** Anomaly Proficiency (Mandatory for Anomaly DPS)
 *   **Slot 5:** Elemental DMG Bonus (Matching the Agent's element)

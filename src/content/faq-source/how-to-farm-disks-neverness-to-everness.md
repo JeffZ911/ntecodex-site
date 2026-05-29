@@ -1,4 +1,4 @@
---
+---
 title: "How to Farm Disks in Neverness to Everness: Complete Guide"
 slug: how-to-farm-disks-neverness-to-everness
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-farm-disks-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/how-to-farm-disks-neverness-to-everness/inline-1.webp
   - /img/how-to-farm-disks-neverness-to-everness/inline-2.webp
   - /img/how-to-farm-disks-neverness-to-everness/inline-3.webp
   - /img/how-to-farm-disks-neverness-to-everness/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Maximizing your character's potential in the urban sprawl of New Herland requires a deep understanding of the Disk system, the primary gear mechanic that dictates your combat efficiency. This guide provides the most efficient paths to farming high-tier Disks and optimizing your Character Pixel usage to ensure your team is ready for the challenges of Neverness to Everness.
 
@@ -32,7 +32,7 @@ Maximizing your character's potential in the urban sprawl of New Herland require
 ![Question Restated](/img/how-to-farm-disks-neverness-to-everness/inline-1.webp)
 
 
-When players reach the mid-game of Neverness to Everness, the focus shifts from basic character leveling to the optimization of Disks. Understanding how to farm these effectively involves answering several key questions
+When players reach the mid-game of Neverness to Everness, the focus shifts from basic character leveling to the optimization of Disks. Understanding how to farm these effectively involves answering several key questions:
 
 *   **What are Disks (Cartridges and Modules) in Neverness to Everness?** Disks are the core equipment system, functioning similarly to "artifacts" or "relics" in other RPGs. They are split into two distinct components: the Cartridge, which provides the set bonus, and Modules, which provide the individual stats and sub-stats.
 *   **Where is the primary location to farm these gear pieces?** The most consistent source for Disks is the Rabbit Hole domain, located in the Cape Square area of the New Herland District.

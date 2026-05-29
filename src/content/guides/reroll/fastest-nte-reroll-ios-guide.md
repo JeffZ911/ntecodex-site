@@ -1,4 +1,4 @@
---
+---
 title: "Fastest NTE Reroll Guide for iOS: Get Best S-Rank Starters"
 slug: reroll/fastest-nte-reroll-ios-guide
 game: nte
@@ -9,19 +9,19 @@ published_at: "2026-05-15T05:54:21.542435+00:00"
 published_url: /guides/reroll/fastest-nte-reroll-ios-guide
 sources: []
 hero_image: /img/fastest-nte-reroll-ios-guide/hero.webp
-inline_images
+inline_images:
   - /img/fastest-nte-reroll-ios-guide/inline-1.webp
   - /img/fastest-nte-reroll-ios-guide/inline-2.webp
   - /img/fastest-nte-reroll-ios-guide/inline-3.webp
   - /img/fastest-nte-reroll-ios-guide/inline-4.webp
   - /img/fastest-nte-reroll-ios-guide/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
---
+---
 
 Securing a powerful S-Rank character early in your Hethereau journey provides a massive advantage for clearing anomalies and progressing through the urban open world. This guide details the most efficient path to maximizing your starting pulls on iOS devices using the salted email method.
 
@@ -133,7 +133,7 @@ Do not aim for characters that are provided through the main story or beginner l
 
 ### Synergy Chart: Best A-Rank Pairings
 
-If you pull one of the S-ranks above, look for these A-rank characters in the same multi-pull to solidify your team
+If you pull one of the S-ranks above, look for these A-rank characters in the same multi-pull to solidify your team:
 *   **Jiuyuan + [A-Rank Anima Support]:** Boosts Anima resonance for increased crit rate.
 *   **Daffodill + [A-Rank Chaos/Utility]:** Focuses on shredding enemy resistances.
 *   **Sakiri + [A-Rank Status Inflictor]:** Maximizes the DoT ticks from Sakiri’s Incantation skills.

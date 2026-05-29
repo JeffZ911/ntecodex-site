@@ -1,4 +1,4 @@
---
+---
 title: "NTE Elemental Resonance Guide: Best Team Buffs & Esper Cycles"
 slug: nte-elemental-resonance-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-elemental-resonance-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-elemental-resonance-guide/inline-1.webp
   - /img/nte-elemental-resonance-guide/inline-2.webp
   - /img/nte-elemental-resonance-guide/inline-3.webp
   - /img/nte-elemental-resonance-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the elemental interactions in Hethereau is the difference between struggling against Anomalies and clearing high-level content with ease. This guide breaks down the complex Esper Cycle system to help you build the most efficient teams in Neverness to Everness.
 
@@ -32,7 +32,7 @@ Mastering the elemental interactions in Hethereau is the difference between stru
 ![Question Restated](/img/nte-elemental-resonance-guide/inline-1.webp)
 
 
-Understanding the combat flow in Neverness to Everness (NTE) requires a deep dive into the Elemental Resonance system. Players frequently ask
+Understanding the combat flow in Neverness to Everness (NTE) requires a deep dive into the Elemental Resonance system. Players frequently ask:
 
 *   **What is Elemental Resonance in Neverness to Everness (NTE)?** It is a combat mechanic where swapping characters at specific times triggers reactions based on their elemental attributes.
 *   **How do the six elemental attributes (Espers) interact on the Esper Wheel?** The elements are arranged in a hexagonal wheel where only adjacent elements can trigger Duo Cycle reactions.

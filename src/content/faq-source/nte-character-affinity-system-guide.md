@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Affinity System Guide: Maximize Bonds & Rewards"
 slug: nte-character-affinity-system-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-affinity-system-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-affinity-system-guide/inline-1.webp
   - /img/nte-character-affinity-system-guide/inline-2.webp
   - /img/nte-character-affinity-system-guide/inline-3.webp
   - /img/nte-character-affinity-system-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building strong connections with your Espers is just as important as upgrading their gear in the neon-soaked streets of Hethereau. The deeper your relationship with characters like Mint and [Nanally](/characters/nanally-guide-nte), the more you unlock their potential both in and out of combat.
 
@@ -32,7 +32,7 @@ Building strong connections with your Espers is just as important as upgrading t
 ![Question Restated](/img/nte-character-affinity-system-guide/inline-1.webp)
 
 
-Players often ask how the social mechanics in Neverness to Everness (NTE) actually impact gameplay and character progression. Specifically, the community frequently looks for answers to the following
+Players often ask how the social mechanics in Neverness to Everness (NTE) actually impact gameplay and character progression. Specifically, the community frequently looks for answers to the following:
 
 *   What is the character affinity system in Neverness to Everness (NTE)?
 *   How do you increase Bond levels with Espers like Mint, Nanally, and [Sakiri](/characters/sakiri-nte-free-5-star-guide)?
@@ -118,7 +118,7 @@ The generation of "Fluffy Clouds" is tied to your apartment's comfort level. By 
 
 Higher bond levels unlock date locations throughout Hethereau. These are not repeatable daily but provide one-time massive affinity boosts and fully voiced lore scenes that expand on the character's backstory.
 
-Common date locations include
+Common date locations include:
 1.  **The Ferris Wheel:** Located in the central park area, this provides a scenic view of the city and is a favorite for characters like Mint.
 2.  **The Movie Theater:** Located in the commercial district, this allows you to choose different film genres. Selecting a genre that matches the Esper's personality (e.g., Action for Nanally) will maximize the affinity gain.
 

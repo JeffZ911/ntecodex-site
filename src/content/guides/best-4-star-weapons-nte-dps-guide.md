@@ -1,4 +1,4 @@
---
+---
 title: "Best 4-Star Weapons for NTE DPS: Top A-Rank Arcs Ranked"
 slug: best-4-star-weapons-nte-dps-guide
 article_type: comparison
@@ -6,7 +6,7 @@ qa_score: 7.5
 word_count: 1702
 published_at: "2026-05-22T15:52:54.465561+00:00"
 published_url: /guides/best-4-star-weapons-nte-dps-guide
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6UTvT2Ti48kQHIXn25iAjF36rzJc1d4gqxQ2is1UdvaYSIbhyR7z9FXsodFRE8Stibn8jhxwMPYASpg_Gwv6qBBxmGk_XZN16guf2eV4rpUifoqdVOwwggja97dwRaPDRcAtGkQkkROvdNCyuNYrEaVL7RECb1N-3PyO_BYg6nb47dJTTGNe3XCBnGy1z"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHejfdB4CLeUDNKdufC64kwSk-fR_HMMhNkleZyE6z6LJh1E0lB44zwAgWEWrS7dZCMWMEH6efs9OxwyPM7ge4UcfDxEs2WWTT1DVU_opPpD58M0bvl2EjL_u4eYifadgeLyCJHXEMTQqqg6k-g3Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfcO9SHqtiSPkbzHgpKtBey9UY6Du1VBuapHGfZYGN3YDWKTxKxFgvfMxsiz_s8IfNYUhlKo_sRtsVjHRkGsWJimpd2tWh6JcXEky4Xdjw86NMCmOAIJJq-21-"
@@ -20,17 +20,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqZt8xnygNP1thqf0kwuhw3p5lcFzc6McJaOYcgQj-ha9z9jT65gwgh1o9CmOIH7cfHEloBwKKlF33tEarwvKyi467rA3aprdr8tIke8aER62dVDzdU7j6RkuTaIrBefbrlvQ81cPZgfHSOvA7FqmtRtp7f20V6Q-b3QFQ6d4iDRvh1yAaY1wYuAzFTw=="
 game: unknown
 hero_image: /img/best-4-star-weapons-nte-dps-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-4-star-weapons-nte-dps-guide/inline-1.webp
   - /img/best-4-star-weapons-nte-dps-guide/inline-2.webp
   - /img/best-4-star-weapons-nte-dps-guide/inline-3.webp
   - /img/best-4-star-weapons-nte-dps-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Choosing the right Arc in Neverness to Everness is the difference between a clean Anomaly Hunt and a grueling struggle against the clock. While S-Rank signature weapons often dominate the headlines, the high accessibility and refinement potential of A-Rank Arcs make them the backbone of most DPS builds for F2P players and low-spenders alike.
 
@@ -41,7 +41,7 @@ Choosing the right Arc in Neverness to Everness is the difference between a clea
 ![TL;DR Verdict](/img/best-4-star-weapons-nte-dps-guide/inline-1.webp)
 
 
-Selecting the best 4-star weapon (A-Rank Arc) depends heavily on your character’s Arc Type and your specific needs for Critical stats versus raw Attack power. In the current 2026 meta, the following Arcs stand out as the premier choices for damage dealers
+Selecting the best 4-star weapon (A-Rank Arc) depends heavily on your character’s Arc Type and your specific needs for Critical stats versus raw Attack power. In the current 2026 meta, the following Arcs stand out as the premier choices for damage dealers:
 
 *   **Fluff of Fearlessness** is the best overall 4-star DPS Arc due to its rare CRIT Rate substat and massive ATK boost after using an Ultimate.
 *   For sustained combat and high-frequency attackers, **Fluff of Ferocity** offers the highest damage ceiling through its stacking CRIT DMG passive.
@@ -179,7 +179,7 @@ Low-spenders who participate in the "Arc Research Program" should prioritize obt
 
 ### Character-Specific Matching
 
-To maximize efficiency, always adhere to the following pairings
+To maximize efficiency, always adhere to the following pairings:
 *   **Zero:** Match with **Solid** Arcs (Fearlessness).
 *   **Baicang:** Match with **Synthesis** Arcs (Ferocity).
 *   **Daffodil:** Match with **Liquid** Arcs (Fleetness).

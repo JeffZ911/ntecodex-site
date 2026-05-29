@@ -1,4 +1,4 @@
---
+---
 title: "Genshin Impact Beginner Guide 2026: Essential Tips for New Players"
 slug: genshin-impact-beginner-guide-2026
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T13:05:39.800649+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/genshin-impact-beginner-guide-2026/hero.webp
-inline_images
+inline_images:
   - /img/genshin-impact-beginner-guide-2026/inline-1.webp
   - /img/genshin-impact-beginner-guide-2026/inline-2.webp
   - /img/genshin-impact-beginner-guide-2026/inline-3.webp
   - /img/genshin-impact-beginner-guide-2026/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 With seven massive nations now open for exploration and the snowy peaks of Snezhnaya appearing on the horizon, starting your journey in Teyvat has never been more exciting or more complex.
 
@@ -136,7 +136,7 @@ As the game moves toward its seventh year, the community focus has shifted towar
 
 ### Preparing for the Cryo Archon
 
-The release of Snezhnaya in Version 7.0 is expected to bring a massive shift in the Cryo meta. New players should begin preparing by
+The release of Snezhnaya in Version 7.0 is expected to bring a massive shift in the Cryo meta. New players should begin preparing by:
 *   Leveling a strong Pyro character (like Xiangling or a Natlan unit) to counter Cryo shields.
 *   Hoarding Mora and Hero’s Wit, as the level cap and talent requirements for Archons are traditionally resource-heavy.
 *   Understanding the "Sheer Cold" mechanic, which was first introduced in Dragonspine and is expected to play a major role in the Snezhnaya wilderness.
@@ -155,7 +155,7 @@ While the exact date for Version 7.0 is [Information not yet publicly available 
 
 ### Best F2P Teams for the 2026 Spiral Abyss
 
-A reliable F2P-friendly team that remains effective in the 2026 meta is the "National Team" or its variations
+A reliable F2P-friendly team that remains effective in the 2026 meta is the "National Team" or its variations:
 *   **Xiangling** (Sub-DPS, Pyro)
 *   **Xingqiu** (Sub-DPS, Hydro)
 *   **Bennett** (Support/Healer, Pyro)

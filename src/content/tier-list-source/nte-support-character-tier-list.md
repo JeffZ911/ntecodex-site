@@ -1,4 +1,4 @@
---
+---
 title: "NTE Support Character Tier List: Best Buffers & Healers (May 2026)"
 slug: nte-support-character-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-support-character-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/nte-support-character-tier-list/inline-1.webp
   - /img/nte-support-character-tier-list/inline-2.webp
   - /img/nte-support-character-tier-list/inline-3.webp
   - /img/nte-support-character-tier-list/inline-4.webp
   - /img/nte-support-character-tier-list/inline-5.webp
   - /img/nte-support-character-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Choosing the right support can make the difference between clearing the highest floors of Beyond the Rails and hitting a hard progression wall. This guide ranks every support character in the current 1.0 Phase 2 meta to help you optimize your team.
 
@@ -36,7 +36,7 @@ Choosing the right support can make the difference between clearing the highest 
 
 Ranking support units in Neverness to Everness requires looking beyond simple healing numbers. Because the game utilizes a fast-paced urban combat system where time-to-kill (TTK) is the primary metric for endgame success, offensive utility is often valued more highly than pure defensive sustain. This tier list evaluates characters based on their performance in the Version 1.0 Phase 2 meta, specifically during the [Hotori](/characters/hotori-best-team-nte) banner period.
 
-The following criteria determine a character's placement
+The following criteria determine a character's placement:
 
 *   **Buff Efficiency:** We measure how much a character increases the team's total damage output. This includes flat ATK bonuses, percentage DMG increases, and elemental resistance shredding.
 *   **Sustain & Survival:** The effectiveness of shields, damage reduction, and healing is tested in Beyond the Rails. As enemy damage scales significantly in higher floors, "one-shot" protection becomes vital.

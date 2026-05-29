@@ -1,4 +1,4 @@
---
+---
 title: "Best 5-Star Disks for NTE Tanks: Top S-Rank Cartridge Sets"
 slug: best-5-star-disks-nte-tanks-20260523
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-5-star-disks-nte-tanks-20260523/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disks-nte-tanks-20260523/inline-1.webp
   - /img/best-5-star-disks-nte-tanks-20260523/inline-2.webp
   - /img/best-5-star-disks-nte-tanks-20260523/inline-3.webp
   - /img/best-5-star-disks-nte-tanks-20260523/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a resilient front line in Neverness to Everness (NTE) requires a deep understanding of the Disk system, specifically how S-Rank Cartridges and Modules interact with a tank's unique scaling. As you push into high-level Rabbit Hole domains, the transition from A-Rank to 5-star S-Rank gear becomes the deciding factor in whether your team survives Hethereau’s most punishing boss encounters.
 

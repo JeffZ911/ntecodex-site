@@ -1,4 +1,4 @@
---
+---
 title: "Best Disks for NTE DPS: Top Cartridges & Modules Guide"
 slug: best-disks-nte-dps-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-nte-dps-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-nte-dps-guide/inline-1.webp
   - /img/best-disks-nte-dps-guide/inline-2.webp
   - /img/best-disks-nte-dps-guide/inline-3.webp
   - /img/best-disks-nte-dps-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Choosing the right gear in Neverness to Everness defines the difference between struggling in the Rabbit Hole and clearing endgame content with ease. This guide breaks down the optimal Disk configurations to maximize your damage output for the current Version 1.0 meta.
 
@@ -30,7 +30,7 @@ Choosing the right gear in Neverness to Everness defines the difference between 
 ![Question Restated](/img/best-disks-nte-dps-guide/inline-1.webp)
 
 
-Players aiming to optimize their damage in Neverness to Everness often find themselves overwhelmed by the dual-layer gear system. Selecting the best "disks"—which consist of both Cartridges and Modules—is essential for any DPS character to scale effectively into the late game. This guide addresses the following core questions
+Players aiming to optimize their damage in Neverness to Everness often find themselves overwhelmed by the dual-layer gear system. Selecting the best "disks"—which consist of both Cartridges and Modules—is essential for any DPS character to scale effectively into the late game. This guide addresses the following core questions:
 
 *   **What are the best 'disks' (Cartridges and Modules) for DPS characters in Neverness to Everness?**
 *   **How do different gear sets impact the damage output of top-tier Espers like [Nanally](/characters/nanally-guide-nte) and Mint?**
@@ -98,7 +98,7 @@ Every Esper in NTE has a "Preferred Type" for Modules. This is not a suggestion;
 
 The Console is a 20-slot grid where Cartridges and Modules must be placed. Cartridges usually take up 2 or 3 slots each, and you must fit four of the same set to get the full bonus. This leaves roughly 8 to 12 slots for Modules.
 
-To optimize the grid
+To optimize the grid:
 1.  Place your 4-piece Cartridge set first.
 2.  Fill every remaining empty slot with Modules of the character's preferred Type.
 3.  Ensure no slots are left empty, as even a low-rarity Module is better than an empty space for triggering the Resonance bonuses.
@@ -143,7 +143,7 @@ The **Esper Cycle** system allows for reactions that significantly buff your gea
 
 ### Recommended DPS Team Rotations
 
-To maximize the 4-piece bonus of your Disks, your rotation must be precise. For a **Nanally** DPS team
+To maximize the 4-piece bonus of your Disks, your rotation must be precise. For a **Nanally** DPS team:
 1.  **Sakiri (Support):** Use her abilities to group enemies. This ensures that when Nanally enters the field, her Anima attacks hit the maximum number of targets to stack the **Fireflies and the Forest** bonus quickly.
 2.  **Sub-DPS:** Apply an element to prime a reaction (e.g., Incantation for Nova).
 3.  **Nanally (Main DPS):** Use Ultimate to trigger **Lost Radiance** DEF-ignore or **Fireflies** stacks, then follow up with her Skill sequence.

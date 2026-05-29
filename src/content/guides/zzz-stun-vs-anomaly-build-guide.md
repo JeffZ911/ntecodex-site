@@ -1,4 +1,4 @@
---
+---
 title: "ZZZ Stun vs Anomaly Build Guide: Which Team Comp is Better?"
 slug: zzz-stun-vs-anomaly-build-guide
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T01:51:47.183751+00:00"
 published_url: /guides/zzz-stun-vs-anomaly-build-guide
 sources: []
 hero_image: /img/zzz-stun-vs-anomaly-build-guide/hero.webp
-inline_images
+inline_images:
   - /img/zzz-stun-vs-anomaly-build-guide/inline-1.webp
   - /img/zzz-stun-vs-anomaly-build-guide/inline-2.webp
   - /img/zzz-stun-vs-anomaly-build-guide/inline-3.webp
   - /img/zzz-stun-vs-anomaly-build-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Determining whether to prioritize Daze-heavy Stun compositions or status-driven Anomaly builds is the most critical decision you will make when optimizing your Hollow Zero and Shiyu Defense teams. While traditional Attack-based teams rely on opening windows of vulnerability, Anomaly teams rewrite the rules of combat by turning elemental status effects into your primary source of damage.
 
@@ -74,7 +74,7 @@ Anomaly mechanics, conversely, revolve around **Attribute Buildup**. Every eleme
 ### Stat Priorities: Impact vs. Anomaly Proficiency & Mastery
 For a Stunner, **Impact** is the only stat that matters for their primary role. It is found exclusively as a main stat on Disk Slot 6. A high Impact stat ensures the enemy spends more time stunned and less time attacking you.
 
-For Anomaly Agents, the stat priority is more complex
+For Anomaly Agents, the stat priority is more complex:
 1.  **Anomaly Mastery (Slot 6):** Increases the rate of buildup. This is essentially your "Attack Speed" for status effects.
 2.  **Anomaly Proficiency (Slot 4 or Substats):** This acts as the "Crit Damage" of the Anomaly world. The formula for Anomaly DMG is roughly calculated as `Base Damage * (Anomaly Proficiency / 100)`.
 3.  **ATK%:** Anomaly damage still scales off the Agent's base Attack, so do not ignore this stat entirely.
@@ -98,13 +98,13 @@ The **Disorder Meta** functions differently. A typical Disorder team might featu
 Choosing between these builds often comes down to which S-Rank Agents you have pulled from the Signal Search.
 
 ### When to Choose a Stun Build
-You should prioritize a Stun build if
+You should prioritize a Stun build if:
 *   **You own a top-tier Attacker:** If you have Ellen Joe or Zhu Yuan, their damage is heavily weighted toward their burst windows. They need a Stunner to function at 100% efficiency.
 *   **You are struggling with boss mechanics:** Stunning a boss cancels their current animation and provides a long breather. This is vital for surviving aggressive bosses in the higher floors of Shiyu Defense.
 *   **Beginner/Mid-game focus:** Building Anby with Shockstar Disco is the most cost-effective way to progress through the early game.
 
 ### When to Choose an Anomaly Build
-You should prioritize an Anomaly build if
+You should prioritize an Anomaly build if:
 *   **You own Jane Doe or Burnice:** These characters are designed to carry teams without a traditional Attacker. Jane Doe, in particular, can "Crit" with her Assault procs, bridging the gap between Anomaly and Attack styles.
 *   **You are tackling high-level endgame content:** As enemy HP pools grow to millions, the percentage-based nature of certain anomalies and the massive scaling of Disorder often outperform traditional Crit-based builds.
 *   **You prefer a fast-paced, swap-heavy playstyle:** Anomaly teams require constant switching to manage multiple elemental gauges.

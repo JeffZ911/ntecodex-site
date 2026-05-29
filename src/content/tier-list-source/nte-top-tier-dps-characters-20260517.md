@@ -1,4 +1,4 @@
---
+---
 title: "NTE Top Tier DPS Characters: Best Damage Dealers Ranked (May 2026)"
 slug: nte-top-tier-dps-characters-20260517
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T17:15:39.651624+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-top-tier-dps-characters-20260517/hero.webp
-inline_images
+inline_images:
   - /img/nte-top-tier-dps-characters-20260517/inline-1.webp
   - /img/nte-top-tier-dps-characters-20260517/inline-2.webp
   - /img/nte-top-tier-dps-characters-20260517/inline-3.webp
   - /img/nte-top-tier-dps-characters-20260517/inline-4.webp
   - /img/nte-top-tier-dps-characters-20260517/inline-5.webp
   - /img/nte-top-tier-dps-characters-20260517/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing damage output in Neverness to Everness (NTE) requires more than just high-level gear; it demands an understanding of the Esper Cycle and how specific characters exploit the Stagger Bar system in Hethereau’s toughest encounters.
 
@@ -40,7 +40,7 @@ The combat landscape of Neverness to Everness has shifted significantly since it
 
 Ranking characters in NTE involves testing units across three primary metrics: raw damage per second (DPS), Break efficiency against the Stagger Bar, and their contribution to the Esper Cycle. Testing occurs primarily within high-level Anomaly Hunter commissions and world bosses located in the Hethereau districts.
 
-The Esper Cycle is the heart of NTE combat. Unlike traditional action RPGs where one character stays on field indefinitely, NTE rewards rapid swapping to trigger elemental reactions. We evaluate DPS units based on how well they initiate or capitalize on these reactions
+The Esper Cycle is the heart of NTE combat. Unlike traditional action RPGs where one character stays on field indefinitely, NTE rewards rapid swapping to trigger elemental reactions. We evaluate DPS units based on how well they initiate or capitalize on these reactions:
 *   **Blossom (Cosmos/Anima):** High-frequency damage ticks.
 *   **Scorch (Incantation):** Stacking Damage over Time (DoT) effects.
 *   **Nova (Chaos/Psyche):** Massive burst damage that scales with the target's missing Stagger Bar.

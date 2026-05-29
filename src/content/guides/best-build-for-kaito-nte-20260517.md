@@ -1,4 +1,4 @@
---
+---
 title: Best Kaito (Zero) Build Guide | Neverness to Everness (NTE)
 slug: best-build-for-kaito-nte-20260517
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.8
 word_count: 2119
 published_at: "2026-05-17T17:15:42.418847+00:00"
 published_url: /guides/best-build-for-kaito-nte-20260517
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbWFv6f375-fAaLuYMWiU9bGWSLUSRnYcAvIrL2x2s6Cw-aCqCwMTvuROn56aiCskrIKyiLtPNM5ydgp3ouIl5CK9NvXtYox_4IEIw_n1FEmF5DE3qgjVzI7AGsYIZbNMYc0KgjPAY"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE65wxQAPxpU3eu_ApLPzgxYXBRXxyAJnJxoFxUB_jVxSE_OQ69iGBEQUbmlNhN3IKmECQActE6t9vSmIZd8bx4P_X2ZD-LJM0TBUyh53oLPtjVb0trTEVP9MKo6RjEb7Nvf7G_HLUFFzdWycDEudOhklloBijYy_zA44n__Lw0AqNVX5YuFxaj5pr90K6GnIN4x3khFQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG34yPn9Q-2xyyvi8e5EjT9rVMrJytQMn51y80PuY4qYVrtBNmuqqTGgpHq8X5JRJjzhds-h48XMudCBbVCeUI_JtGH9FTKsQO-YJ--IzKaw30tD0_5VmNSmODo1FSKOlwRKWlnGQhmN1cJLaDc2up7EzXLs2jfSwSB0tSdsSo-LLNUitqIG8-eLSP3Nx6t6w981R22TY37t1Na-pk2B4lEeurLNvjyrDmb2Sr5r59fY_D4FA=="
@@ -26,21 +26,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbGT58vg0pcgmDZJh2L8kSQgubq3OXSu4ISb5gVEFKIvuShsP_hzBfYmwmfjYjPaoLTXmAwKa_bBEUOz4ZQRg5gYQ7yw5R99IlgiF_6wMvsVfQMGSneHS1ddo4rrtg2f3xsitwzqinDxXCDgabx1Mg"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIsopWZtXK-CeeN7p_qY_FJNtAnYDPvPs-8NzDsnJhEiWla_iFJVpSe_tM509WXamc35mYNb5sJgSMBjRkkLN4A9IyjJQIl4egYVYRPBZzS26DTfBxQNLyxprDItx0tppjztFTnbZNfLcqdCKZ-IFX7AO1YOKe7EoYXb_TFRyfRzKXAcVT"
 hero_image: /img/best-build-for-kaito-nte-20260517/hero.webp
-inline_images
+inline_images:
   - /img/best-build-for-kaito-nte-20260517/inline-1.webp
   - /img/best-build-for-kaito-nte-20260517/inline-2.webp
   - /img/best-build-for-kaito-nte-20260517/inline-3.webp
   - /img/best-build-for-kaito-nte-20260517/inline-4.webp
   - /img/best-build-for-kaito-nte-20260517/inline-5.webp
   - /img/best-build-for-kaito-nte-20260517/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 As the protagonist of Hethereau's urban supernatural mystery, Kaito (Esper Zero) serves as the mechanical and narrative anchor for every player's journey through the streets of Neverness to Everness. Whether you are weaving through traffic in a customized sports car or engaging in high-stakes combat against Anomalies, optimizing this Cosmos-element specialist is essential for mastering the game’s complex elemental reaction system.
 
@@ -129,7 +129,7 @@ This set is particularly potent because the DEF-ignore effect is near-unconditio
 
 The Console is a grid-based system where the shape of your Modules determines how many you can fit. Kaito benefits most from **Type III Modules** (3-cell shapes) which, when correctly placed, can activate a unique Console bonus that provides [Information not yet publicly available as of 2026-05-17] per module.
 
-When rolling for Module stats, prioritize the following
+When rolling for Module stats, prioritize the following:
 1.  **Crit Rate:** Target at least 75% to ensure consistent damage.
 2.  **Crit DMG:** Aim for a 1:2 ratio with your Crit Rate.
 3.  **Cosmos DMG:** Essential for his scaling.

@@ -1,4 +1,4 @@
---
+---
 title: Best Support Characters in Neverness to Everness Tier List (May 2026)
 slug: best-support-characters-neverness-to-everness-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-characters-neverness-to-everness-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-1.webp
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-2.webp
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-3.webp
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-4.webp
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-5.webp
   - /img/best-support-characters-neverness-to-everness-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your team's potential in Hethereau requires more than just raw DPS; it demands a strategic backbone of Espers who can manipulate the battlefield and amplify damage. This guide ranks the top utility units to help you conquer the most difficult urban anomalies.
 
@@ -38,7 +38,7 @@ Determining the value of a support character in Neverness to Everness (NTE) invo
 
 ### Ranking Criteria
 
-We evaluate support characters based on four primary pillars
+We evaluate support characters based on four primary pillars:
 1.  **Utility and Buffing:** The ability to increase the team's total damage output through ATK buffs, Crit Rate/Damage increases, or elemental shred.
 2.  **Healing and Survivability:** The raw throughput of HP recovery and the reliability of shields or damage redirection.
 3.  **Crowd Control (CC):** The capacity to group enemies or stun high-threat targets, which is vital for clearing timed challenges.

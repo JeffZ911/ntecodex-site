@@ -1,4 +1,4 @@
---
+---
 title: "NTE Stamina Management Guide: Best Builds & Tips for Beginners"
 slug: nte-stamina-management-guide-beginners-20260524
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-stamina-management-guide-beginners-20260524
 sources: []
 game: unknown
 hero_image: /img/nte-stamina-management-guide-beginners-20260524/hero.webp
-inline_images
+inline_images:
   - /img/nte-stamina-management-guide-beginners-20260524/inline-1.webp
   - /img/nte-stamina-management-guide-beginners-20260524/inline-2.webp
   - /img/nte-stamina-management-guide-beginners-20260524/inline-3.webp
   - /img/nte-stamina-management-guide-beginners-20260524/inline-4.webp
   - /img/nte-stamina-management-guide-beginners-20260524/inline-5.webp
   - /img/nte-stamina-management-guide-beginners-20260524/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Maximizing your efficiency in the neon-soaked streets of Hethereau requires a deep understanding of the game's complex resource systems. 
 
@@ -177,7 +177,7 @@ The goal is to fill the circular meter at the bottom of the screen. You do this 
 
 1.  **Setup:** Start with your supports (like Adler or Haniel). Cast their shields or off-field healing Arcs.
 2.  **Application:** Swap to your sub-DPS to apply an initial element (e.g., Incantation or Psyche).
-3.  **Reaction:** Swap to your main DPS (Nanally or Chiz) to apply a secondary element like Chaos. This triggers reactions
+3.  **Reaction:** Swap to your main DPS (Nanally or Chiz) to apply a secondary element like Chaos. This triggers reactions:
     *   **Scorch (Incantation + Chaos):** High damage over time and reduces enemy defense.
     *   **Nova (Psyche + Chaos):** Massive AOE burst that deals heavy "Break" damage to shields.
 4.  **Finisher:** Once the meter is full, a character icon in your UI will "glow." Immediately swap to that character to execute the Esper Cycle finisher. This move consumes no stamina and deals massive damage.

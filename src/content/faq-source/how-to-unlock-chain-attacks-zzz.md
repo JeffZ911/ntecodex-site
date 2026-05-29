@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock and Use Chain Attacks in Zenless Zone Zero (ZZZ)
 slug: how-to-unlock-chain-attacks-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T10:12:34.477034+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-unlock-chain-attacks-zzz/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-chain-attacks-zzz/inline-1.webp
   - /img/how-to-unlock-chain-attacks-zzz/inline-2.webp
   - /img/how-to-unlock-chain-attacks-zzz/inline-3.webp
   - /img/how-to-unlock-chain-attacks-zzz/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the rhythm of combat in New Eridu requires more than just button mashing; it demands a deep understanding of how to coordinate your squad for devastating combo finishers.
 
@@ -41,7 +41,7 @@ The game introduces this combat mechanic very early, but the tutorial can be fas
 
 Chain Attacks are unlocked automatically during the Prologue tutorial of Zenless Zone Zero, specifically during the first few combat encounters in the Hollow. You do not need to reach a specific Inter-Knot level to access this feature; it is a core component of the combat system provided to all players from the start of the game.
 
-To trigger a Chain Attack, you must follow these specific steps
+To trigger a Chain Attack, you must follow these specific steps:
 1.  **Fill the Daze Meter:** Attack an enemy until the yellow bar beneath their health pool reaches 100%.
 2.  **Enter the Stunned State:** Once the meter is full, the enemy will become immobilized and enter a "Stunned" state.
 3.  **Land a Heavy Attack:** Hit the Stunned enemy with a move classified as a "Heavy Attack." This includes the final hit of most Basic Attack strings, EX Special Attacks, or Dodge Counters.

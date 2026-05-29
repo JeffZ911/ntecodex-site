@@ -1,4 +1,4 @@
---
+---
 title: "NTE Character Build for Beginners: Best Weapons, Disks & Teams"
 slug: nte-character-build-beginners-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-character-build-beginners-guide
 sources: []
 game: unknown
 hero_image: /img/nte-character-build-beginners-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-character-build-beginners-guide/inline-1.webp
   - /img/nte-character-build-beginners-guide/inline-2.webp
   - /img/nte-character-build-beginners-guide/inline-3.webp
   - /img/nte-character-build-beginners-guide/inline-4.webp
   - /img/nte-character-build-beginners-guide/inline-5.webp
   - /img/nte-character-build-beginners-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Master the urban supernatural combat of Hethereau by optimizing your starting roster for maximum damage and survivability.
 
@@ -114,7 +114,7 @@ A Console has a limited number of squares. Each Module has a specific shape (e.g
 
 ### Module Stat Priority: What to Look For
 
-When farming Modules in the Hethereau Anomaly zones, look for the following primary stats
+When farming Modules in the Hethereau Anomaly zones, look for the following primary stats:
 *   **Main DPS:** Crit Rate, Crit DMG, and Elemental DMG % (matching their element).
 *   **Supports:** Energy Recharge %, ATK % (for buffers like Haniel), or HP % (for healers like Edgar).
 *   **Sub-DPS:** Elemental Mastery and Energy Recharge % to ensure they can frequently apply elements for reactions.

@@ -1,4 +1,4 @@
---
+---
 title: "Best Healer Characters in Neverness to Everness: NTE Tier List"
 slug: best-healer-characters-nte-guide
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T07:41:02.218193+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-healer-characters-nte-guide/hero.webp
-inline_images
+inline_images:
   - /img/best-healer-characters-nte-guide/inline-1.webp
   - /img/best-healer-characters-nte-guide/inline-2.webp
   - /img/best-healer-characters-nte-guide/inline-3.webp
   - /img/best-healer-characters-nte-guide/inline-4.webp
   - /img/best-healer-characters-nte-guide/inline-5.webp
   - /img/best-healer-characters-nte-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Survival in the supernatural urban landscape of Hethereau requires more than just high DPS; you need a reliable sustain unit to weather the storm of Anomalies.
 
@@ -44,7 +44,7 @@ The ranking of characters in this list is based on their performance in the curr
 
 ### Defining the Survival Role in NTE
 
-In NTE, "Sustain" refers to any character whose primary kit utility prevents the team from reaching zero HP. This is categorized into three main mechanics
+In NTE, "Sustain" refers to any character whose primary kit utility prevents the team from reaching zero HP. This is categorized into three main mechanics:
 1.  **Pure Healing:** Restoring lost HP (e.g., Edgar).
 2.  **Shielding:** Providing a buffer that absorbs damage before it hits the HP bar (e.g., Adler).
 3.  **Damage Redirection:** Moving damage taken by allies to a tankier unit (e.g., Fadia).

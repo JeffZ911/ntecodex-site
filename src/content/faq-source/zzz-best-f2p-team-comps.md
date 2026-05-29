@@ -1,4 +1,4 @@
---
+---
 title: "Best ZZZ F2P Team Comps: Top Free-to-Play Squads Guide"
 slug: zzz-best-f2p-team-comps
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:33:41.608966+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/zzz-best-f2p-team-comps/hero.webp
-inline_images
+inline_images:
   - /img/zzz-best-f2p-team-comps/inline-1.webp
   - /img/zzz-best-f2p-team-comps/inline-2.webp
   - /img/zzz-best-f2p-team-comps/inline-3.webp
   - /img/zzz-best-f2p-team-comps/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a powerful roster in Zenless Zone Zero doesn't require a massive budget if you understand how to leverage the game's synergy mechanics and free-to-play characters. By utilizing the guaranteed agents provided through the story and events, you can clear even the most difficult endgame challenges without spending Polychromes on the limited banners.
 
@@ -124,7 +124,7 @@ For Drive Discs, F2P players should aim for the 4-piece **Woodpecker Electro** s
 
 Shiyu Defense is the ultimate test for any F2P account because it requires two separate teams starting from Floor 7. This is where roster depth becomes an issue for non-spenders.
 
-To succeed, you must split your free characters effectively. A common strategy is
+To succeed, you must split your free characters effectively. A common strategy is:
 *   **Team 1:** Anby, Billy, Nicole (The Cunning Hares). This team handles the side with Ether or Physical weaknesses.
 *   **Team 2:** Ben, Soukaku, Corin (or Anton). This team utilizes Ben's survivability and Soukaku's massive buffs to carry the second half.
 

@@ -1,4 +1,4 @@
---
+---
 title: "NTE Top Tier Healers List: Best Sustain Espers (May 2026)"
 slug: nte-top-tier-healers-list-20260517
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.5
 word_count: 1809
 published_at: "2026-05-17T05:48:38.675679+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGknyTrn_JDi98aQTqDcO1hkb_TH7Uq_DVhiDJ-jTkeDVJkxfFKKKBSugW9N9Z9Os8MQDhb6z0xSIZ7xbrkZ_t03o5ShDghM9_-3688MISUhne5GWv9dj8lJoB9ioe_lD0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE483mTRgXKlGZ41UNemlmepWENSwF43aeFO1GbGKtcsXIND-nbtmHGjDeKbvJ5Qa31d4XP48eSO6mJRABamrNq05q8nS8AmhIpFlO3W_63njn5pI8yXOh8DMVRqNbg7WtlFP--gGQIRvdbG2-2iQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0SbWocTRS-WQksH4V8PownRcSJEGvHSrhwgnQy1xlniGOE2HRNtbWUjdPYPj84EWi3qMGyJ1FHjrdQgLQJutPTqjlXlczBGi42uGAcZYygQVwyzkXVgMc10XF57g8bWjaysrmuhB1eG3UwNRRAnyt_jW5zdadhHLUd_Zq1uVR"
@@ -17,21 +17,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbTCfvDUfihSzh7TtugU_3-2vaMO1tpFhpMD2JgcuzOCxgrgnmFe-faQUP_xzDG1AjUOuK5Ldki5SnR1jdtRL2G1ZtvNTyVRf2CHYfMzhbgtAzI3c2SfXzk1Q3ruw0gakwJjI3hI0fq5nTwgRE9gs="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUDekGFQnIWRL4wpjV8TnoYUQDfKEpvXbokZ9qvKO8JD_hl3kxwfpcbd03BG01EuYdh-Lf-UsLgPjQXe-_EOGA3MjjNtOU7baZD_94PYbj8zF3VS93HJRGTYkk_x6fLIL-PWxmtTrcuJJdLvH0"
 hero_image: /img/nte-top-tier-healers-list-20260517/hero.webp
-inline_images
+inline_images:
   - /img/nte-top-tier-healers-list-20260517/inline-1.webp
   - /img/nte-top-tier-healers-list-20260517/inline-2.webp
   - /img/nte-top-tier-healers-list-20260517/inline-3.webp
   - /img/nte-top-tier-healers-list-20260517/inline-4.webp
   - /img/nte-top-tier-healers-list-20260517/inline-5.webp
   - /img/nte-top-tier-healers-list-20260517/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Surviving the neon-soaked streets of Hesperia requires more than just high damage; it demands a team that can withstand the unpredictable anomalies of the urban sprawl. With the release of [Hotori](/characters/hotori-best-team-nte) shifting the support landscape, choosing the right sustain Esper has become the difference between clearing Anomaly Pilgrimage Tier 5 and hitting a wall.
 
@@ -54,7 +54,7 @@ To rank the sustain Espers in NTE, we evaluate them based on five primary metric
 
 ### Healing Scaling and Utility Comparison
 
-The following table compares the primary scaling and utility of the current sustain roster
+The following table compares the primary scaling and utility of the current sustain roster:
 
 | Character | Element | Scaling Metric | Primary Utility | Healing Type |
 | :--- | :--- | :--- | :--- | :--- |

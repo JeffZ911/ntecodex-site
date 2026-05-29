@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Build NTE: Neverness to Everness Tier List (May 2026)"
 slug: best-dps-build-nte-tier-list
 game: nte
@@ -8,7 +8,7 @@ word_count: 1891
 published_at: "2026-05-13T02:28:52.817115+00:00"
 published_url: /tier-list
 sources: []
---
+---
 
 Optimizing your damage output in Neverness to Everness requires a deep understanding of how elemental reactions and character roles intersect within the urban landscape of Hethereau. This guide breaks down the most effective combatants and equipment configurations to ensure you are prepared for the game's toughest anomalies.
 
@@ -24,7 +24,7 @@ The evaluation of the Neverness to Everness tier list is rooted in several key p
 
 ### The Role of Esper Cycles in DPS
 
-The core of combat in NTE is the Esper Cycle, a system where swapping between characters of different elements triggers powerful reactions. For a character to reach S-tier status, they must excel in one of the primary damage-dealing reactions
+The core of combat in NTE is the Esper Cycle, a system where swapping between characters of different elements triggers powerful reactions. For a character to reach S-tier status, they must excel in one of the primary damage-dealing reactions:
 
 *   **Blossom (Cosmos + Anima):** This reaction is currently the gold standard for pure damage. It creates a localized explosion that scales with the ATK of the character who triggered the reaction.
 *   **Hexed (Incantation + Anima):** This reaction focuses on high-frequency debuffs and damage-over-time (DoT) effects, making it ideal for clearing waves of smaller anomalies.

@@ -1,4 +1,4 @@
---
+---
 title: How to Beat Early Game Bosses in Neverness to Everness (NTE)
 slug: how-to-beat-early-game-bosses-nte
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-15T20:30:10.027041+00:00"
 published_url: /boss/how-to-beat-early-game-bosses-nte
 sources: []
 hero_image: /img/how-to-beat-early-game-bosses-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-early-game-bosses-nte/inline-1.webp
   - /img/how-to-beat-early-game-bosses-nte/inline-2.webp
   - /img/how-to-beat-early-game-bosses-nte/inline-3.webp
   - /img/how-to-beat-early-game-bosses-nte/inline-4.webp
   - /img/how-to-beat-early-game-bosses-nte/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Success in Neverness to Everness (NTE) depends on your ability to read the supernatural anomalies of Hethereau and exploit their elemental vulnerabilities before they overwhelm your squad.
 

@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS for Shiyu Defense ZZZ: Tier List & Rankings"
 slug: best-dps-shiyu-defense-zzz-tier-list
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T02:34:35.263120+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-shiyu-defense-zzz-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-1.webp
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-2.webp
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-3.webp
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-4.webp
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-5.webp
   - /img/best-dps-shiyu-defense-zzz-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Achieving an S-Rank clear in the later stages of Shiyu Defense requires a deep understanding of the current elemental meta and the specific burst windows of your primary damage dealers.
 
@@ -38,7 +38,7 @@ Shiyu Defense remains the ultimate testing ground for any Proxy’s roster in Ze
 ![Methodology](/img/best-dps-shiyu-defense-zzz-tier-list/inline-1.webp)
 
 
-To provide an accurate ranking, we evaluate agents based on their performance within the Critical Nodes of Shiyu Defense, specifically looking at Version 2.7+ data. The following criteria are used to determine an agent's placement
+To provide an accurate ranking, we evaluate agents based on their performance within the Critical Nodes of Shiyu Defense, specifically looking at Version 2.7+ data. The following criteria are used to determine an agent's placement:
 
 *   **Clear Speeds:** We analyze average clear times for Critical Nodes 5 through 8. An S-tier unit is expected to facilitate a clear in under 150 seconds (half-stage time) even with neutral elemental matchups.
 *   **Burst Damage vs. Sustained DPS:** With the massive HP pools found in the "Deadly Assault" difficulty tiers, agents must either possess overwhelming burst damage during the Stun window or maintain extremely high sustained DPS through Anomaly procs.

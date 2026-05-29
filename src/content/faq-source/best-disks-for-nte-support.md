@@ -1,4 +1,4 @@
---
+---
 title: Best Disks for Support in Neverness to Everness (NTE) Guide
 slug: best-disks-for-nte-support
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1804
 published_at: "2026-05-19T16:23:23.322427+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3rkBYB4UnHuOK1TaYNmI4TLIVw6WBFKaU_JFer39dLc1CclBy-G6EBMsoNetA2BtkeqOtWAqPmFXS1iIQbog94ZOrl3LxX5EnN6Um3GmkxAAlkhsWQUrOLwwRD09Bdk2"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ8EDo2vCmcXKUIxeMClFAmvf7z02PiVpueBMS4fG0f4sMjEv4RNYTJ6UTziHeiM98ugub5_PrzvnoVIZELFIx9ptW6avkebQNsxRfVERpwIBLV06cEaUs_BrTSiPzCny81O--IZ28W2_qxi2xIdnDdQ1fh3SXb3zf9neoI9CSaJwwqH-zavvIV5q-Fw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf1JvJQX_fAinmLzKY9OWYC119fVFBM37wItekbTuqQeG9nixHFNDuDp2Skmdqe_8AoXGKLYHpaMutzdvRMpF6FLyX-UvFznJad7gmN-0LFce_oPfWP8SPz_YfZIVdXggGtXMEa98rlA23BKrZBjpE98gA28qNQ4TW1Ii1fmvIYUrjbVrfhC7hyAYnejVTIb1RdYuqy8ySCz5AbL6tYNuH8JPWMRs="
@@ -34,17 +34,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_MafkxNruVcda5HRsfwZu8WO2XTq4uKMaLUMLQnCIMY1AUZ8yJYvkdn-yhYBqiCAUBDQxBILYeZvBJ-cyWy-IFH-zJY32-PDM1ZIJDqIiDoMF8W1uu7FZksaq_ihkSp-icvcGsH4="
 game: unknown
 hero_image: /img/best-disks-for-nte-support/hero.webp
-inline_images
+inline_images:
   - /img/best-disks-for-nte-support/inline-1.webp
   - /img/best-disks-for-nte-support/inline-2.webp
   - /img/best-disks-for-nte-support/inline-3.webp
   - /img/best-disks-for-nte-support/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your support units with the correct gear is the fastest way to clear high-level Anomalies and boss encounters in Hethereau. This guide breaks down the best Arcs and Cartridge sets to maximize your team's utility and damage output.
 
@@ -59,7 +59,7 @@ Players often ask which "disks" they should equip on their support Espers to max
 
 Equipping support-oriented gear sets is essential for two reasons. First, they provide massive stat boosts, such as team-wide Attack (ATK) increases or enemy Defense (DEF) reduction, which allow your main DPS to reach their maximum damage ceiling. Second, they enhance survivability through shields and healing bonuses, ensuring your team can withstand the aggressive attack patterns of bosses like the Nestbound Bird or the Headless Rider.
 
-To get the most out of your roster, you must prioritize specific gear for top-tier supports
+To get the most out of your roster, you must prioritize specific gear for top-tier supports:
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Needs high Charge Efficiency and team ATK buffs.
 *   **Adler:** Requires DEF-scaling gear to strengthen his shields.
 *   **Edgar:** Relies on HP-scaling and healing bonus sets to keep the party healthy.
@@ -113,22 +113,22 @@ Speedy Hedgehog is the premier support Cartridge because it addresses the two mo
 
 Kingdom's Guard is designed specifically for characters who convert their defensive stats into utility. Adler is the primary benefactor here. His skill, "Evil's Bane," creates a shield that scales directly with his DEF. 
 *   **2-piece Effect:** Increases DEF by 15%.
-*   **4-piece Effect:** Increases the wearer's shield strength by 20%. 
+*   **4-piece Effect:** Increases the wearer's shield strength by 20%.
 By stacking DEF main stats on the Modules used to activate this set, Adler can provide shields that absorb thousands of damage, allowing your DPS to ignore minor enemy hits and continue their attack strings uninterrupted.
 
 ### Shadow Creed as an Alternative
 
 Shadow Creed is often overlooked but serves as an excellent set for sub-DPS supports who need to contribute damage while cycling. 
 *   **2-piece Effect:** +10% ATK.
-*   **4-piece Effect:** Increases the wearer's ATK by 25% for 20 seconds after casting a Redirect Skill. 
+*   **4-piece Effect:** Increases the wearer's ATK by 25% for 20 seconds after casting a Redirect Skill.
 This is particularly useful for Haniel. Since Haniel's signature Arc, "Blow Up the Crowd," already buffs the team while she is off-field, Shadow Creed allows her to deal significant damage during the brief window she is on-field to cast her skills.
 
 ### Optimizing the Console: Module Shapes and Stats
 
 The Console system is where you finalize your build. To activate a 4-piece Cartridge bonus, you must slot four Modules that match the Cartridge's required shapes into the grid. 
 *   **Speedy Hedgehog:** Requires four "Corner" Modules. These are typically Type III or Type IV modules. Support characters should prioritize Type III modules because they often carry Charge Efficiency or HP/DEF substats.
-*   **Kingdom's Guard:** Requires specific Type III shapes (Horizontal, Vertical, and L-shapes). 
-*   **Stat Priority:** For supports, the "Main Stat" on the Cartridge is crucial. 
+*   **Kingdom's Guard:** Requires specific Type III shapes (Horizontal, Vertical, and L-shapes).
+*   **Stat Priority:** For supports, the "Main Stat" on the Cartridge is crucial.
     *   **Sakiri:** Target ATK% or Incantation DMG.
     *   **Adler:** Target DEF% Main stats.
     *   **Edgar:** Target Healing Bonus or HP% Main stats.

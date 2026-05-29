@@ -1,4 +1,4 @@
---
+---
 title: Best 5-Star Support Weapons in Neverness to Everness (NTE) Tier List
 slug: best-5-star-support-weapons-nte-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1903
 published_at: "2026-05-23T10:28:23.592466+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjYubdQI9wtoAjHO-NlNOvYq_mE2KkpzHaiUNkqDgBKLNIC2cR40WVdVJttOS_SfhwF9mWCPP3MiNIdP1eL73wyxv-mUhsdE_OxInqt0C-gBSIjL0Y6I4FebMUjhqktZcO_zgvknqZcSSENGGxnAiCuGS6-e9X5CZ1HDASU-Wn0iFCdW8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMq1_0HQwGTu6QaCuxL3w6xFHlNSnRsHSW-OhKbLpBKMEKNsjXXuhuI6JCZi21bC28u_ulPw7miyz90cFPxlmHiWQvn_b3h143a8UIsEhlIr-7LYYlKq6njIgfZ2_A9AQ5ZD_8rGz9EYMnJFy3DREtB2E8yPF_V8gDfKQb9yiqDxdLUwj-UH7TVTUqhJQ5T6o5-Wbrk81l-jsZ"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELfZGIDjppoaias2uft-Daibv6OZI1S5k8Wh-wJFUBYtKcFBbmWLlLGVgayausvMdlQA638_LGA6nRW8Jem60uMiGNiND1MlbOtK4BwYefMYiIx-MPae_M-Mo3s8iVNtTusO2WI4ysM4bNEOlc5-jZkqc="
@@ -22,21 +22,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpY6DnRzTmqOaZIv85fyulQLgp3IOmhitGymC6CnhHfJct5PdRmPzkjnjUCD9eqaXzYEX4kPLYJZV5rLBMdl-uYI00qHuE1DREhm34PUE5kiJUjzgtzu8ekRNd"
 game: unknown
 hero_image: /img/best-5-star-support-weapons-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-support-weapons-nte-tier-list/inline-1.webp
   - /img/best-5-star-support-weapons-nte-tier-list/inline-2.webp
   - /img/best-5-star-support-weapons-nte-tier-list/inline-3.webp
   - /img/best-5-star-support-weapons-nte-tier-list/inline-4.webp
   - /img/best-5-star-support-weapons-nte-tier-list/inline-5.webp
   - /img/best-5-star-support-weapons-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Equipping the right Arcs can transform a mediocre team into a high-performance squad capable of clearing Level 60+ Anomalies. This guide ranks the best 5-star support weapons currently available in Neverness to Everness (NTE) to help you prioritize your Tri-Keys and resources.
 
@@ -52,7 +52,7 @@ Ranking support Arcs in Neverness to Everness requires a shift in perspective fr
 The current meta favors "Quick-Swap" rotations where characters enter the field only to cast their Redirect Skills or Ultimates before swapping back to the main damage dealer. Therefore, Arcs that provide persistent buffs even when the wearer is not active are weighted significantly higher than those requiring long field times.
 
 ### Ranking Criteria
-To ensure an objective assessment, we utilize a weighted scoring system for each Arc
+To ensure an objective assessment, we utilize a weighted scoring system for each Arc:
 
 *   **Utility (40%):** Includes crowd control, shield strength, Break Intensity, and unique mechanics like summoning companions or creating environmental zones.
 *   **Team Buffs (40%):** Evaluation of ATK%, DMG%, and elemental amplification provided to other party members.

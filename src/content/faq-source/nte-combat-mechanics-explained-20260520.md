@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Combat Mechanics Explained: Full Guide"
 slug: nte-combat-mechanics-explained-20260520
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-combat-mechanics-explained-20260520/hero.webp
-inline_images
+inline_images:
   - /img/nte-combat-mechanics-explained-20260520/inline-1.webp
   - /img/nte-combat-mechanics-explained-20260520/inline-2.webp
   - /img/nte-combat-mechanics-explained-20260520/inline-3.webp
   - /img/nte-combat-mechanics-explained-20260520/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the Esper Cycle and understanding the interplay between elemental attributes is the key to surviving the supernatural threats of Hethereau. This guide breaks down every layer of the combat system in Neverness to Everness (NTE) to help you optimize your team rotations and maximize your damage output.
 
@@ -32,7 +32,7 @@ Mastering the Esper Cycle and understanding the interplay between elemental attr
 ![Question Restated](/img/nte-combat-mechanics-explained-20260520/inline-1.webp)
 
 
-Players transitioning from other action RPGs often find the unique flow of Neverness to Everness distinct due to its focus on urban traversal and high-speed character swapping. The primary questions surrounding the combat system include
+Players transitioning from other action RPGs often find the unique flow of Neverness to Everness distinct due to its focus on urban traversal and high-speed character swapping. The primary questions surrounding the combat system include:
 
 *   How does the combat system in Neverness to Everness (NTE) function?
 *   What is the "Esper Cycle" and how do elemental reactions work?
@@ -59,7 +59,7 @@ The combat loop revolves around alternating between offensive pressure and timin
 
 Every Esper in Neverness to Everness is attuned to one of six elements. These elements are not just for thematic flair; they dictate how your characters interact during a swap. The elements are arranged in a specific circular UI element known as the Esper Wheel.
 
-The six elements are
+The six elements are:
 1.  **Lakshana:** Often associated with high-impact fire-based damage.
 2.  **Cosmos:** Focused on ice-based crowd control and freezing effects.
 3.  **Anima:** Represents physical prowess and raw kinetic energy.
@@ -112,7 +112,7 @@ Esper Meter generation is not uniform across all actions. While basic attacks pr
 NTE rewards proactive defense. Unlike many games where dodging is the only viable option, NTE places a heavy emphasis on the Parry mechanic, especially during boss encounters.
 
 **The Parry Mechanic:**
-When an enemy is about to perform a "Heavy Attack," two red circles will appear on the screen, closing in on the enemy's center. You must press the attack button exactly when the two circles overlap. A successful Parry results in
+When an enemy is about to perform a "Heavy Attack," two red circles will appear on the screen, closing in on the enemy's center. You must press the attack button exactly when the two circles overlap. A successful Parry results in:
 1.  **Instant Esper Meter:** Your active character's meter fills to 100% immediately.
 2.  **Massive Stagger:** The enemy's white Break Meter takes a significant hit.
 3.  **Time Slow:** A brief moment of "bullet time" allowing you to reposition or swap.
@@ -124,7 +124,7 @@ Dodging just before an attack lands triggers a Perfect Dodge. While this does no
 
 Most elite enemies and bosses in Hethereau possess a white bar beneath their health pool known as the Break Meter (or Stagger bar). As long as this bar is active, the enemy has high resistance to hit-stun and takes reduced damage.
 
-To "Break" an enemy, you must deplete this bar using heavy attacks, Parries, or Discord reactions. Once the bar reaches zero, the enemy enters the **Punish Window**. During this state
+To "Break" an enemy, you must deplete this bar using heavy attacks, Parries, or Discord reactions. Once the bar reaches zero, the enemy enters the **Punish Window**. During this state:
 *   The enemy is completely immobilized for [Information not yet publicly available as of 2026-05-20] seconds.
 *   All damage dealt to the enemy is increased by a multiplier (scaling with the "Break Power" stat).
 *   This is the optimal time to unleash Ultimate Abilities and Trio Reactions.

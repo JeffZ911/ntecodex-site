@@ -1,4 +1,4 @@
---
+---
 title: "Best Burnice White Build in ZZZ: W-Engines, Disks & Teams"
 slug: zzz-burnice-white-best-build
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T18:17:35.564073+00:00"
 published_url: /guides/zzz-burnice-white-best-build
 sources: []
 hero_image: /img/zzz-burnice-white-best-build/hero.webp
-inline_images
+inline_images:
   - /img/zzz-burnice-white-best-build/inline-1.webp
   - /img/zzz-burnice-white-best-build/inline-2.webp
   - /img/zzz-burnice-white-best-build/inline-3.webp
   - /img/zzz-burnice-white-best-build/inline-4.webp
   - /img/zzz-burnice-white-best-build/inline-5.webp
   - /img/zzz-burnice-white-best-build/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Burnice White brings a fiery explosive energy to Zenless Zone Zero as the premier off-field Fire Anomaly Agent. Her ability to apply Burn while tucked away in your backline makes her an essential piece for any high-performance Disorder team.
 

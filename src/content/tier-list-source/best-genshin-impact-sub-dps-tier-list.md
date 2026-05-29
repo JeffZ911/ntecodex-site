@@ -1,4 +1,4 @@
---
+---
 title: Best Genshin Impact Sub-DPS Tier List (May 2026 Update)
 slug: best-genshin-impact-sub-dps-tier-list
 game: genshin
@@ -7,7 +7,7 @@ qa_score: 7.5
 word_count: 1932
 published_at: "2026-05-14T19:33:27.025606+00:00"
 published_url: /tier-list
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG44TJe0-kiZBqX0OCqlsp90Du94f_gaxclAu2w9kdysVGMWgVsPT7OfhOY1qvlQ9sNhd_a35O288Jyxfeagj8bID2-Qgq5pbwtD2omyaD3zstURQxBJPCtRnNai2wYqR4KDjE2ER7qMZEwMWvMg1jtz-waPg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9HsWVjktXqADvNGv2mlGO0b-N2wYQklF-gb8613xT6fiY3Sm4ZE51cnABDzurcIMjauy5GH8QRYgj_Ml-o_98lR39T2nJ87RV-4ZMHeytJgOtVYcDepaNco41lM5Tlhd_OfXcfpNGdbovYET-jsbDwPy8YiKkiKekYwLzhtjrg4PBkPs2jYoOvM-Wf_EBGx_ORjGAkeBlHMVrnmRjTPphaHXNxA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqaDyZiih87TFrqh64cOtO_BlklhVfk9fi7s39ytI774QLn-o6tspTJmlKywq1nkVJw0Xin25EB92qo7uRJBkAq1G8Sn42bAYoM7tShDXoWVHCQlQI86bV1bm2-hALYyJM_K-q2It-TONr1h4zefSsu97AhFPEYC6XCAmf"
@@ -24,21 +24,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6lFJYPcOoMtNd26B8UoNZKKa2eCUjTIiwn6n6_Th9zpyshkOMS2Uvsjb0bBX6BqByq72aYs7gbLhugaiM6oZY5AmBbtjiP4oyt6Zpv8E2-vCxL7IyU548npCGMR4QuMoyShj95ekLMWnM3w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVWCH2D7YDdE0N1YG89lv9Fq8ZFCkbIaay5jt_umV18s_p3kwJfUTiptwypt_EifsWexwkDEEdxwy3q8vwGiPs0-59GGG-Npdk4rrmImLRg-A4C_fvUmcFClQlmlmPJ75eUhsSDhf0uAaWC6gXAaYMmj7WoJw0M5DBbFRRql0="
 hero_image: /img/best-genshin-impact-sub-dps-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-genshin-impact-sub-dps-tier-list/inline-1.webp
   - /img/best-genshin-impact-sub-dps-tier-list/inline-2.webp
   - /img/best-genshin-impact-sub-dps-tier-list/inline-3.webp
   - /img/best-genshin-impact-sub-dps-tier-list/inline-4.webp
   - /img/best-genshin-impact-sub-dps-tier-list/inline-5.webp
   - /img/best-genshin-impact-sub-dps-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 The meta of Genshin Impact has undergone a radical transformation with the arrival of Version 6.x and the introduction of the Nod-Krai region. As of May 14, 2026, the traditional reliance on standard transformative reactions has shifted toward the high-ceiling "Lunar" system, placing a premium on off-field units that can facilitate these crit-capable interactions.
 
@@ -53,7 +53,7 @@ The sub-DPS role is more vital than ever in the current 6.x meta, where team-wid
 
 Ranking sub-DPS characters in 2026 requires a multifaceted look at how they interact with the evolving combat systems of Snezhnaya and the independent Nod-Krai region. Our evaluation prioritizes characters who provide consistent off-field presence while maintaining high damage-per-second (DPS) floors.
 
-Key evaluation criteria include
+Key evaluation criteria include:
 *   **Off-Field Scaling:** The ability to deal significant damage without taking up field time, particularly through skills that persist after swapping.
 *   **Lunar Synergy:** Effectiveness in triggering or enhancing Lunar-Bloom, Lunar-Charged, and Lunar-Crystallize reactions, which now allow transformative damage to land critical hits.
 *   **Elemental Application (ICD):** Analysis of Internal Cooldowns to determine how frequently a character can apply their element for reactions.
@@ -150,7 +150,7 @@ B-Tier characters are solid performers who are usually situational or have been 
 
 C-Tier characters are generally not recommended for endgame content unless you have high investment or a specific love for the character's design.
 
-*   **Dehya:** While her interruption resistance is useful, her off-field Pyro damage and application frequency are too low to compete with Xiangling or Mavuika. 
+*   **Dehya:** While her interruption resistance is useful, her off-field Pyro damage and application frequency are too low to compete with Xiangling or Mavuika.
 *   **Amber:** Her usage is almost entirely limited to "Elegy for the End" support builds where she acts as a Pyro resonance bot and a quick-swap Burst support for shield breaking.
 *   **Aloy:** Lacking constellations and having a clunky Elemental Skill that makes consistent Cryo application difficult, Aloy remains at the bottom of the sub-DPS meta.
 *   **Xinyan:** Her split scaling between ATK and DEF continues to plague her kit. Even with Physical-focused buffs, she lacks the damage or utility to justify a slot over modern 4-star supports.

@@ -1,4 +1,4 @@
---
+---
 title: How to Get More Currency in Neverness to Everness (NTE Guide)
 slug: how-to-get-more-currency-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T06:25:46.411141+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-get-more-currency-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-get-more-currency-nte/inline-1.webp
   - /img/how-to-get-more-currency-nte/inline-2.webp
   - /img/how-to-get-more-currency-nte/inline-3.webp
   - /img/how-to-get-more-currency-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Building a powerful roster of Espers and high-tier Arcs in Neverness to Everness requires a steady flow of resources and a clear understanding of the Hethereau economy. This guide breaks down every method to maximize your currency gains, from daily City Tycoon management to hidden exploration rewards across the streets of Hethereau.
 
@@ -32,7 +32,7 @@ Building a powerful roster of Espers and high-tier Arcs in Neverness to Everness
 ![Question Restated](/img/how-to-get-more-currency-nte/inline-1.webp)
 
 
-Understanding the economy of Neverness to Everness is the first step toward efficient account progression. Many players find themselves asking specific questions about how to manage their resources
+Understanding the economy of Neverness to Everness is the first step toward efficient account progression. Many players find themselves asking specific questions about how to manage their resources:
 
 *   **What are the primary currencies used for summoning characters and weapons in Neverness to Everness?** The game utilizes a multi-tiered system where premium resources are converted into specific "Dice" or "Keys" depending on the banner type.
 *   **How can free-to-play players maximize their daily and weekly Annulith income?** Beyond one-time rewards, there are several recurring systems designed to provide a consistent flow of premium currency.
@@ -77,7 +77,7 @@ Annulith is the "free" equivalent that can be earned through gameplay. Whether y
 
 ### Summoning Currencies: Solid Dice, Fabricated Dice, and Tri-Keys
 
-Neverness to Everness separates its summoning items to prevent players from accidentally spending limited-pull resources on the standard pool
+Neverness to Everness separates its summoning items to prevent players from accidentally spending limited-pull resources on the standard pool:
 
 1.  **Solid Dice:** These are reserved for Limited-Time Character Banners (such as [Nanally](/characters/nanally-guide-nte)'s "The Ichi-daime" banner). These should always be your priority when spending Annulith.
 2.  **Fabricated Dice:** Used for the "Permanent" or "Standard" banner. You will naturally accumulate these through leveling up your account and completing certain milestones. It is generally advised not to spend Annulith on these.
@@ -91,7 +91,7 @@ Weekly rewards are tracked through the "Urban Report" progress bar. By completin
 
 ### World Exploration: Chests, Anomalies, and Achievements
 
-Hethereau is filled with hidden rewards. Exploration is categorized into three main types
+Hethereau is filled with hidden rewards. Exploration is categorized into three main types:
 *   **Supply Chests:** Found in alleys, on rooftops, and inside buildings. Common chests provide 5 Annulith, while Rare and Precious chests provide 10 to 20 Annulith respectively.
 *   **Anomalies:** These are world puzzles or combat encounters. Clearing an Anomaly for the first time usually rewards a small amount of Annulith and specialized city tokens.
 *   **Achievements:** The achievement menu tracks everything from your driving distance to the number of cats you’ve petted. Each achievement milestone grants 5, 10, or 20 Annulith.
@@ -159,7 +159,7 @@ NTE employs a "No 50/50" rule on its limited character banners, which significan
 ![Related](/img/how-to-get-more-currency-nte/inline-4.webp)
 
 
-To make the most of your hard-earned Annulith and Solid Dice, it is important to spend them on the right targets. Whether you are looking for the strongest damage dealers or the most versatile Arcs, these resources will help guide your spending
+To make the most of your hard-earned Annulith and Solid Dice, it is important to spend them on the right targets. Whether you are looking for the strongest damage dealers or the most versatile Arcs, these resources will help guide your spending:
 
 ### NTE Character Tier List
 Before committing your 12,800 Annulith to a banner, check the latest Neverness to Everness character tier list. Understanding which Espers excel in the current meta—and which ones require specific Arcs to function—will save you from wasting resources on characters that don't fit your playstyle.

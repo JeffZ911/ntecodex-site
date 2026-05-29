@@ -1,4 +1,4 @@
---
+---
 title: "Best Drive Disc Sets in ZZZ: Complete Meta Guide & Rankings"
 slug: best-drive-disc-sets-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-13T06:26:11.691559+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-drive-disc-sets-zzz/hero.webp
-inline_images
+inline_images:
   - /img/best-drive-disc-sets-zzz/inline-1.webp
   - /img/best-drive-disc-sets-zzz/inline-2.webp
   - /img/best-drive-disc-sets-zzz/inline-3.webp
   - /img/best-drive-disc-sets-zzz/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your character builds is the most effective way to clear high-difficulty content like Shiyu Defense and Hollow Zero. This guide breaks down the best Drive Disc sets currently dominating the Zenless Zone Zero meta to help you maximize your squad's potential.
 
@@ -110,7 +110,7 @@ Each Drive Disc slot has a specific pool of potential main stats. Farming for th
 *   **Slot 6:** Impact, Anomaly Mastery, Energy Regen, ATK%, HP%, or DEF%. Stunners MUST have Impact here. Anomaly characters need Anomaly Mastery to trigger procs faster, and Supports need Energy Regen.
 
 **Substat Priority:**
-For most damage dealers, the substat priority follows a strict hierarchy
+For most damage dealers, the substat priority follows a strict hierarchy:
 1. Crit Rate / Crit DMG (Maintain a 1:2 ratio)
 2. ATK%
 3. PEN Ratio

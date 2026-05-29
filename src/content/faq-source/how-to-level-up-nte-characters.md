@@ -1,4 +1,4 @@
---
+---
 title: "How to Level Up NTE Characters: A Complete Progression Guide"
 slug: how-to-level-up-nte-characters
 game: unknown
@@ -9,15 +9,15 @@ published_at: "2026-05-15T18:31:02.904235+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-level-up-nte-characters/hero.webp
-inline_images
+inline_images:
   - /img/how-to-level-up-nte-characters/inline-1.webp
   - /img/how-to-level-up-nte-characters/inline-3.webp
   - /img/how-to-level-up-nte-characters/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering character progression is the key to overcoming the supernatural anomalies lurking within Hethereau. This guide provides the exact steps needed to maximize your Espers' potential and push past the level caps of Neverness to Everness.
 
@@ -30,7 +30,7 @@ Mastering character progression is the key to overcoming the supernatural anomal
 ![Question Restated](/img/how-to-level-up-nte-characters/inline-1.webp)
 
 
-Players arriving in the urban sprawl of Hethereau often find themselves facing increasingly difficult anomalies that require more than just skillful dodging. To progress through the main story and high-level containment zones, you must understand the nuances of character growth. Specifically, players need to know
+Players arriving in the urban sprawl of Hethereau often find themselves facing increasingly difficult anomalies that require more than just skillful dodging. To progress through the main story and high-level containment zones, you must understand the nuances of character growth. Specifically, players need to know:
 
 *   What is the most efficient way to increase Esper levels in Neverness to Everness?
 *   How do you bypass the level caps that stall character growth?

@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Beginner Tips: Best Nanally Build Guide"
 slug: neverness-to-everness-beginner-tips-nanally-build
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neverness-to-everness-beginner-tips-nanally-build
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-beginner-tips-nanally-build/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-1.webp
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-2.webp
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-3.webp
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-4.webp
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-5.webp
   - /img/neverness-to-everness-beginner-tips-nanally-build/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 With the release of Neverness to Everness (NTE) on April 29, 2026, players are diving into the supernatural urban landscape of Hethereau to build the ultimate team of Espers.
 
@@ -94,7 +94,7 @@ In NTE, the gear system for optimizing stats is known as "Cartridges." These fun
 
 The "Fireflies and the Forest" set is the definitive best choice for Nanally. 
 *   **2-Piece Bonus:** Provides a 10% Anima DMG boost.
-*   **4-Piece Bonus:** Increases the team's Crit DMG whenever Anima DMG is dealt to an enemy. 
+*   **4-Piece Bonus:** Increases the team's Crit DMG whenever Anima DMG is dealt to an enemy.
 
 Because Nanally and her Underboss deal Anima DMG constantly, she can maintain 100% uptime on the 4-piece bonus, effectively buffing herself and her sub-DPS teammates throughout the entire fight.
 
@@ -102,7 +102,7 @@ If you are still below Hunter Level 35, do not spend your precious stamina over-
 
 ### Optimal Main Stats and Sub-stats
 
-When rolling for Cartridges, you should prioritize the following stat distribution to ensure Nanally scales correctly into the late game
+When rolling for Cartridges, you should prioritize the following stat distribution to ensure Nanally scales correctly into the late game:
 
 *   **Head (Fixed):** HP
 *   **Drive (Variable):** Anima DMG %
@@ -124,7 +124,7 @@ Nanally shines brightest when placed in a team that can facilitate the "Blossom 
 
 ### The Premium Blossom Team
 
-The strongest lineup for Nanally currently consists of
+The strongest lineup for Nanally currently consists of:
 1.  **Nanally (Main DPS):** The primary source of damage and Anima application.
 2.  **Zero (Sub-DPS/Cycle Enabler):** As the Cosmos-element protagonist, Zero is mandatory for triggering the Blossom reaction.
 3.  **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Support):** Provides massive ATK buffs and essential crowd control to group enemies for the Underboss.
@@ -134,7 +134,7 @@ This team works because of the "Blossom" reaction. When Anima (Nanally) hits a t
 
 ### Best F2P Starter Team for Nanally
 
-If you haven't pulled the premium S-Class supports yet, you can still run a highly effective "Budget Blossom" team
+If you haven't pulled the premium S-Class supports yet, you can still run a highly effective "Budget Blossom" team:
 *   **Nanally:** Main DPS.
 *   **Zero:** Cosmos application and reaction trigger.
 *   **Haniel:** An A-Rank buffer who can provide decent offensive utility.

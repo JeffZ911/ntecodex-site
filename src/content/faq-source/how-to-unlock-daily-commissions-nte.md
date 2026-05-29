@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Daily Commissions in Neverness to Everness (NTE)
 slug: how-to-unlock-daily-commissions-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T09:47:14.662908+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-unlock-daily-commissions-nte/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-daily-commissions-nte/inline-1.webp
   - /img/how-to-unlock-daily-commissions-nte/inline-2.webp
   - /img/how-to-unlock-daily-commissions-nte/inline-3.webp
   - /img/how-to-unlock-daily-commissions-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Establishing a consistent routine in Hethereau is the fastest way to grow your roster of Anomaly Hunters and fund your urban lifestyle. This guide explains how to unlock Daily Commissions in Neverness to Everness (NTE) so you can begin earning Annulith and Hunter EXP immediately.
 
@@ -39,7 +39,7 @@ In Neverness to Everness (NTE), this system is officially known as 'Daily Quests
 Players often wonder why the Exploration Guide or daily objectives menu is missing during the first few hours of gameplay. If you are currently exploring Bridge Crossings and cannot find a list of tasks to complete, it is likely because you have not yet reached the necessary chapter in the Appraiser’s Journey. This guide clarifies the exact story milestones and level requirements needed to access your daily routine.
 
 ### What are Daily Commissions in NTE?
-Daily Commissions in NTE serve as the primary source of Hunter EXP and Annulith (the premium currency used for character and weapon banners). The system is comprised of two distinct but overlapping mechanics
+Daily Commissions in NTE serve as the primary source of Hunter EXP and Annulith (the premium currency used for character and weapon banners). The system is comprised of two distinct but overlapping mechanics:
 1.  **Daily Quests:** Four fixed tasks that refresh every 24 hours, focusing on combat or simple urban interactions.
 2.  **Participation Tasks:** A broader checklist of activities—ranging from driving your vehicle to managing your business—that contribute to a daily "Participation" score.
 
@@ -64,7 +64,7 @@ The 'Prologue - Part 2' is a significant story beat where you move beyond simple
 Once unlocked, you can access your dailies by opening the main menu and selecting the **Exploration Guide**. Inside this menu, look for the tab labeled "Daily Quests" or "Participation." This interface tracks your progress toward the 100-point daily goal and lists the four specific quests assigned to you for the day.
 
 ### Daily Server Reset Times by Region
-The following table outlines when your Daily Quests and Participation Tasks will refresh based on your server region
+The following table outlines when your Daily Quests and Participation Tasks will refresh based on your server region:
 
 | Server Region | Reset Time (Local Time) | UTC Offset |
 | :--- | :--- | :--- |
@@ -127,7 +127,7 @@ As you accumulate Participation Points, you can claim rewards at specific interv
 Character Pixels (Stamina) play a crucial role in your daily routine. Spending them in Anomaly Zones to farm for upgrade materials or Arcs is the fastest way to complete your daily activity requirements. Since spending 30 Pixels grants 20 Participation Points, using your entire daily cap of Pixels can often complete 60% to 80% of your daily requirements without even touching the specific Daily Quests.
 
 ### Best Daily Routine for Maximum Efficiency
-To finish your dailies in under 15 minutes, follow this sequence
+To finish your dailies in under 15 minutes, follow this sequence:
 1.  **Login and check the Old Mailbox:** Collect any overnight rewards or City Tycoon income.
 2.  **Spend Character Pixels:** Run 2-3 Anomaly Zones for materials. This will usually net you 40-60 Participation Points.
 3.  **Complete the 2 easiest Daily Quests:** Usually the "Interaction" or "Exploration" ones. This will push you to 100 points.

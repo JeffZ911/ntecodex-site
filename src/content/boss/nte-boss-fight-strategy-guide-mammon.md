@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Boss Guide: Mammon Strategy & Best Teams"
 slug: nte-boss-fight-strategy-guide-mammon
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-boss-fight-strategy-guide-mammon
 sources: []
 game: unknown
 hero_image: /img/nte-boss-fight-strategy-guide-mammon/hero.webp
-inline_images
+inline_images:
   - /img/nte-boss-fight-strategy-guide-mammon/inline-1.webp
   - /img/nte-boss-fight-strategy-guide-mammon/inline-2.webp
   - /img/nte-boss-fight-strategy-guide-mammon/inline-3.webp
   - /img/nte-boss-fight-strategy-guide-mammon/inline-4.webp
   - /img/nte-boss-fight-strategy-guide-mammon/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Conquering the most formidable challenge in Hethereau’s endgame requires a precise understanding of the mechanics within the Realm of Greed. This guide breaks down the strategies needed to survive the Mammon encounter and maximize your weekly Fons income.
 
@@ -157,7 +157,7 @@ Fons is the primary currency used for purchasing high-end vehicles and property 
 Covetous Coins are a guaranteed drop from Mammon. You should use these immediately to level up your Blind Mammon plushie. Higher plushie levels not only increase the Fons drop but also increase the chance of receiving S-Rank weapon blueprints.
 
 ### Weekly Reset Checklist
-The Realm of Greed rewards reset every Monday at 04:00 AM server time. To maximize your efficiency, follow this checklist
+The Realm of Greed rewards reset every Monday at 04:00 AM server time. To maximize your efficiency, follow this checklist:
 *   [ ] Clear the highest possible Plushie Level for the one-time first-clear bonus.
 *   [ ] Farm Mammon until you hit the weekly Fons cap (visible in the Anomaly Furniture menu).
 *   [ ] Exchange any Mhm Coins at the "Happiness is Priceless" shop for limited-time upgrade materials.

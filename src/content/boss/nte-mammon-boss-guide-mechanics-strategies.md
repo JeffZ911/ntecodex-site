@@ -1,4 +1,4 @@
---
+---
 title: "NTE Boss Guide: Mammon Mechanics and Strategies"
 slug: nte-mammon-boss-guide-mechanics-strategies
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1533
 published_at: "2026-05-23T15:13:14.774982+00:00"
 published_url: /boss/nte-mammon-boss-guide-mechanics-strategies
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExAjF-qhcT58idxEuSORU61MIiLBGKRAOJ1DLSUzLH_5Vcx1kRCk92XtWCGedofXHHDZAeUrdpfI1q_GX919Jpos_qsFFF13dDX_KZUJtIdHpm4PY-sr5yyiau0Pp-OgLkSi6hV15nbdRxMeCvrvIgpxz6wkYMe-hS1hdWOiZgvxCm4Y5DKnoc5qzrHFC3YG41"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBCmY1mfdjNOR8szV7LzZX0WzKGzKi-_vEjRYY3ntHrfxKa25-MHRPTEoat8c-x_Q59-gxr6ytdZQJGtAx35oHSovtJtCyqpRYjEnD0CARasVjd5jA2pCnLmV3s4P4d1M3RTwTJTg="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvfPrVlZ0O06AHwTLOZWY8meYP9Qx7MV9r05fB6RI1Q_AtctbCPznUuxXxFq7kdYCPhIMPpkypqGv1byw_hmd9_O9Ap5HyT3hlvUjbZ45TSit4gKSdcS5yP-wo4z8j_h8KZ9FyfNB0l_ZGA6Ht0k7OP77afIi10CM7jn0="
@@ -20,19 +20,19 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCHapr5C3WMvPvu_JoBzzNB5FQ_YrKdbCywKcD7-3JM0yPRqxONwS8aHLyIb7tbWKvwnOnVjWUl8KdA6tgAaU1cZpHyogepYFd1BwBorKFUnEBixKWJ04LeuF3lCd-i_hRvcIkYrw="
 game: unknown
 hero_image: /img/nte-mammon-boss-guide-mechanics-strategies/hero.webp
-inline_images
+inline_images:
   - /img/nte-mammon-boss-guide-mechanics-strategies/inline-1.webp
   - /img/nte-mammon-boss-guide-mechanics-strategies/inline-2.webp
   - /img/nte-mammon-boss-guide-mechanics-strategies/inline-3.webp
   - /img/nte-mammon-boss-guide-mechanics-strategies/inline-4.webp
   - /img/nte-mammon-boss-guide-mechanics-strategies/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Defeating the massive Anomaly known as Mammon is the most consistent way to secure your weekly Fons income in Neverness to Everness. This guide breaks down the essential mechanics, team compositions, and strategies needed to master the Realm of Greed and the Pink Paws Bank Heist.
 
@@ -58,7 +58,7 @@ Mammon is characterized by a "Greed Meter," a unique gauge that fills as the bat
 | Difficulty V | Level 90+ | [Information unavailable] |
 
 ### How to Unlock the Mammon Boss Fight
-Unlocking Mammon requires completing a specific sequence of story and side content
+Unlocking Mammon requires completing a specific sequence of story and side content:
 1. **Clear Chapter 3**: You must finish the "Deal? Deal!" main story mission.
 2. **Yarn Ball or Fons**: Complete the Anomaly Commission of the same name. You can find the NPC "Date" at the Gold Apple Collection Hall in the New Herland District to initiate this.
 3. **Ebisu Auction House**: Bid on and win the **Gluttonous Eye** item. This is required to activate the boss.
@@ -146,7 +146,7 @@ Farming Mammon is a non-negotiable part of the weekly loop for any player lookin
 Rewards in the Realm of Greed reset every **Monday at 4:00 AM server time**. While you can challenge Mammon an unlimited number of times, you can only collect the Fons payout up to your weekly cap. However, hitting a new "Personal Record" (defeating Mammon faster or at a higher level) grants bonus stacks of Fons that can exceed your standard cap for that week.
 
 ### Farming Fons Efficiently
-To maximize your Fons income
+To maximize your Fons income:
 *   **Pink Paws Bank Heist**: Defeating Mammon as the final boss of the Bank Heist (3rd Floor Vault) rewards between **70,000 and 170,000 Fons** per run. This requires a **Gold Permission Card** and a **Chaotic Cube**, which are RNG drops within the heist.
 *   **Covetous Coins**: These are used exclusively to level up your Blind Mammon plushie. Always prioritize spending these to unlock the next Difficulty Tier, as the Fons payout increases exponentially at Difficulty IV and V.
 *   **Anomaly Fragments**: Mammon has a low chance to drop rare fragments used to craft high-tier Arcs. These are essential for endgame character builds.

@@ -1,4 +1,4 @@
---
+---
 title: "WuWa Standard Banner vs Limited: Which Should You Pull? (2026)"
 slug: wuwa-standard-banner-vs-limited
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1688
 published_at: "2026-05-15T10:21:24.047772+00:00"
 published_url: /guides/wuwa-standard-banner-vs-limited
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7xp1uOoNkm4aQFFOKOhDKGumNQq_mtzxAWpSDeDej4Aajf8-L-jpxcoPqKis2gMAUH5IDivrHG8dBF9tUvzeatd9XocZZDNeEV-8J4T-KIjfY8ihdsD7FrWI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSQiBu0lbLmDRoLWsjUA3Dt93vdOUQ1xJ3BM-HCt4xcgTw7oStvRCidigjZZzCoQUDixKlfqwHqz3qTMuN7dXXp_lJazcQlxElmYWfaUXFrfOSpsU05yFP4ToM65byPTprAx7GUvTvMlBRpHTICD2D2IrPpBfSkoM1cJMH9UQDeqdcLQnhDD2AcJZXa6EF8JjSLreVuE9heygCgXZgEZypDn5Vmw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3EX6JT8SMarfH87DyMxOq66JS1C6TPTPIg5VVwRd5t60fYurKbg3-5l_iAgh9Jhx4x3y9wxPuaLzNwFUGaRFoXvyuoxtPyM_7MSqiJ3oAchPXupvTfbGM0FNy6hzNWWb_QflYLELU2CRdIorqXrT_pipu"
@@ -25,17 +25,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP9vnn8Kqa61lC6ON5GU9r0uLwDkydbvMc9D6pdOe11ay7ZCMiRdfqbPyrcx7Jluu3RbQ71GOulSMuyomZlvfEsXTDkEdtkgoABNZ92OS9vfCBfljlt8PchBefOV63tQjiBi-G0oI-pLNtt9K4JvEwEOYFTc7l77qnXbx94BEJ8_4lTA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_CvCQrqVNwK0sFsJBBcwdy5-clFVNYDNbRrCV8_8oSxOuscgZq5MiYJ8VtOgLWihF103gO2Cjj5YB3L1F1K57SQfHJgdByGtgWm7R2cdrBP9mpVXJChu2bJ-ymKV6--HMdsv4MrNe3ZhaEBQy6VQ="
 hero_image: /img/wuwa-standard-banner-vs-limited/hero.webp
-inline_images
+inline_images:
   - /img/wuwa-standard-banner-vs-limited/inline-1.webp
   - /img/wuwa-standard-banner-vs-limited/inline-2.webp
   - /img/wuwa-standard-banner-vs-limited/inline-3.webp
   - /img/wuwa-standard-banner-vs-limited/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Choosing the right banner in Wuthering Waves (WuWa) is the difference between a high-tier account capable of clearing the Tower of Adversity and one stuck with a roster of under-leveled resonators. As of May 2026, the complexity of the gacha system has only grown with the introduction of Version 3.3 and the looming Version 3.4 collaboration event.
 
@@ -98,7 +98,7 @@ One of the most praised aspects of Wuthering Waves' gacha system is the Weapon E
 If you pull a 5-star on the limited weapon banner, it is guaranteed to be the featured signature weapon. With a hard pity of 80, this makes signature weapons much more accessible for F2P players who want to maximize a specific character's potential. For example, Hiyuki's signature sword, Frostburn, provides a massive boost to Glacio damage and Concerto energy that 4-star alternatives cannot match.
 
 ### Novice and Beginner Choice: Your First 5-Stars
-New accounts have access to a specific pipeline designed to jumpstart their roster
+New accounts have access to a specific pipeline designed to jumpstart their roster:
 1.  **Novice Convene (Utterance of Marvels):** Costs Lustrous Tides. You get a 20% discount (8 Tides for a 10-pull) and a guaranteed random standard 5-star within 50 pulls. Once you get a 5-star, this banner disappears.
 2.  **Beginner's Choice Convene:** After the Novice banner ends, this selector banner appears. It allows you to pick one of the five standard 5-star resonators and guarantees them within 80 pulls. 
 
@@ -129,7 +129,7 @@ For F2P players, the goal is horizontal investment: building two to three strong
 3.  **Skip Signatures:** Unless a signature weapon is a "game-changer" (providing 25% or more total damage increase over the best 4-star option), save your Astrite for the next character instead.
 
 ### When Should You Pull for Weapons?
-You should pull on the Weapon Event Convene only if
+You should pull on the Weapon Event Convene only if:
 *   You already have the character and plan to use them for at least the next 6-12 months.
 *   You have enough Astrite to reach 80 pity (approx. 12,800 Astrite).
 *   The weapon has a "Universal" stat (like Crit Rate or Crit DMG) that makes it usable on other resonators of the same weapon type in the future.

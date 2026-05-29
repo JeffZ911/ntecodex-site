@@ -1,4 +1,4 @@
---
+---
 title: Best 5-Star Disks for DPS in Neverness to Everness (NTE)
 slug: best-5-star-disks-dps-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1629
 published_at: "2026-05-17T18:05:06.885611+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENZcdAkzuvUd1kRe68cY3s6W4iT_FXPyoIt_nK_P2sTmOAKv88lhvHWu2zEcoXwnaqRn6cZYj8MDquXn4jFVaV4Pjci11yXBNzsupk11JhbcBQ-wuY2JjfuTQ1PY1plwaDm8oII824"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlO2crfounMjn88ZUgvVHCm4hFkaZBxAmiQMhG38bF624Cjq4HOzpwwdMAECPqXOO9o0Cs3vBGgBXiWmWvPkzhgRGPL6_qvgOCD34rrZ1azT-pw69xw2KoSDECiit-fn9fhr-VpwInca4QPwEEt0wcewMg0gzmXmaslnSGK1Hk6VpHjM7UXziz1jX7nzU0YFDsqEQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn61TUHYn2xuyb7AfdU3ABUCUFQ9mdqFJ4k3xH44kEmSgiHoVjQANaJ64oXc8fNxye1p3jtCbxo6gWNLQPvrPKKZij-iQyqsoeYiSXC5Z-fbOv4uneVAGD51gcda9NWIPO8Wsc29E81maLt946ZBxpdKSuR0rWd0fM"
@@ -23,17 +23,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgOB0Told-UNqNnT5orD-XNFrpUObDJ1mrVdZn8zWpFiuODnqGRj77Wn1qM0DMGW0b9MN4SDgAe4MxeN8xX9TxKMGED1SiuboL7Zb5bjnpORL_ze1nIL7fELwmF9mWBIUflZLvwTjCxY0E3bosjWaL7Rup8ETfEKVq10dePhRnHqoi1nI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNzktjBYPht9N-n7FwhCoJDcONBzxUD52XNHGwLrRX1S4wSgIwTcuq1g8jHPi0YNW4z3y0oyemP2siXwVO9VpbqFQwdUIRneV_vM51pNimFYMzgnGFqJZU536df_ZDzhsewvnrRnfh3N79UBXkxyaZFIOKINW24pkAJWYZmjWK7DT0IcaD"
 hero_image: /img/best-5-star-disks-dps-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-5-star-disks-dps-nte/inline-1.webp
   - /img/best-5-star-disks-dps-nte/inline-2.webp
   - /img/best-5-star-disks-dps-nte/inline-3.webp
   - /img/best-5-star-disks-dps-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your damage output in Neverness to Everness (NTE) hinges on the synergy between your Esper's elemental kit and their equipped Cartridges. As players reach the mid-to-late game of Version 1.0, transitioning from Purple (A-rank) to Gold (S-rank) 5-star disks becomes the primary method for overcoming high-difficulty anomalies in Hethereau.
 

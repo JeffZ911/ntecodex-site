@@ -1,4 +1,4 @@
---
+---
 title: "Best DPS Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-dps-characters-nte-tier-list-20260519-334b
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-dps-characters-nte-tier-list-20260519-334b/hero.webp
-inline_images
+inline_images:
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-1.webp
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-2.webp
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-3.webp
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-4.webp
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-5.webp
   - /img/best-dps-characters-nte-tier-list-20260519-334b/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Mastering the high-speed urban combat of Hesperia requires more than just quick reflexes; it demands a deep understanding of the current Esper meta. Since the official launch on April 29, 2026, the power ceiling in Neverness to Everness (NTE) has been defined by a select group of attackers capable of shredding Stagger Bars and triggering devastating elemental reactions.
 
@@ -65,7 +65,7 @@ The Stagger Bar (or "Shield") is the most significant hurdle in NTE boss fights.
 
 A **Main DPS** (e.g., Nanally, Chiz) requires the most "on-field" time to generate damage. They typically have long-duration combat states or high-frequency basic attacks. A **Sub-DPS** (e.g., Hotori, [Sakiri](/characters/sakiri-nte-free-5-star-guide)) provides significant damage or utility while "off-field" or through quick-swap skills. The current meta heavily favors a "Quick-Swap" style where the Main DPS only stays on field during the Stagger window.
 
---
+---
 
 ## S Tier
 
@@ -96,7 +96,7 @@ When comparing Nanally and Chiz at Awakening 0, Nanally wins in sustained DPS by
 
 Daffodill is the absolute best "Break Specialist." While her raw HP-depletion speed is lower than Nanally's, her ability to delete Stagger Bars is unparalleled. In the current Version 1.0.5 meta, boss shields have been buffed, making Daffodill an essential unit for any speed-clear attempt. Her Chaos-element attacks also prime enemies for the "Discord" reaction, which reduces enemy DEF by a significant margin.
 
---
+---
 
 ## A Tier
 
@@ -121,7 +121,7 @@ As the protagonist unit, Esper Zero is surprisingly viable in the May 2026 meta.
 
 Haniel is widely regarded as the best A-Class support/sub-DPS. Her Psyche-element buffs provide a flat ATK increase that scales with her own Max HP. Hathor, on the other hand, is a Lakshana-element burst specialist known for her "Motorcycle Summon" ultimate. While the damage is high, the animation is long, requiring players to use "animation canceling" via dashing to maintain optimal DPS.
 
---
+---
 
 ## B Tier
 
@@ -142,7 +142,7 @@ Mint is a fan favorite due to her Anima-based tornado charged attack. She is exc
 
 Fadia provides excellent defensive utility with her Psyche-element cross-shield, but in a meta defined by "Time-to-Kill," her lack of offensive throughput holds her back. Skia is a Lakshana fighter with a shadow-stepping mechanic that makes her difficult to hit. While she is fun to play, she requires maximum Awakenings (A6) to compete with the raw damage of an A0 Nanally or Chiz.
 
---
+---
 
 ## C Tier
 
@@ -163,7 +163,7 @@ Aurelia is a Psyche-element Main DPS given to players early in the story. Her sc
 
 Lacrimosa has been teased in recent developer livestreams as a Chaos-element character arriving in Version 1.1. While community hype is high, there is currently no finalized performance data or kit details available. Early leaks suggest she may focus on a new "Life-Drain" mechanic, but until her release, she remains unranked.
 
---
+---
 
 ## Recent Changes
 

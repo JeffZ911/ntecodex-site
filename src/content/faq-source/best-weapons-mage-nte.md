@@ -1,4 +1,4 @@
---
+---
 title: Best Weapons for Mage Characters in Neverness to Everness (NTE)
 slug: best-weapons-mage-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1555
 published_at: "2026-05-21T06:52:52.461845+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHvhwwzbbcT90J_U71_mmKPb58ufIA8gqAsemqJCCwRjrq-OlGEPtu5njLev18AnAZwId4osXfwlDmEUlMnh8x84QJKPG5J0fh7LkK-J43iKQtEzOOW9dxEzBMVECfvzMJx-ilTZgoFGhT980I6CFQPR4Y-nE5Hld0Qv9hBe2YW61Fcw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIzsDPLbcaAXrj3EGq-dr73SyeqvH012PR8W-D36gbDoTijDvnEgBxtJFjJwuRiwCQKtTQ8vwcnjdWL543TbhITJbQA-pYrv9Pt43qesIq_q-lg15h-_UPJpBgedmOURLW-j3hEkUs0TgrtegeOxjWAGSqjapuCJ4yENxSK4dsg3FB"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwqTFgXzhwgI32_FEFDwLNzpWMmWJ3jOgC9mnr-inZ4a1GKXv4OXFFMOy8RlcbI2lsllmS4rLNcEIoZKetvIAZCMB0FaRI5vMjZle_ICtvSSaa6CDPQ7HVY7s7j3n_cGei9slvUoAXdLH9v-2t4Bj-JvhAn8xGWtQ9TtbnZHvzbjxFxg=="
@@ -25,17 +25,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-4n8m-xA4a8-rM1R7SIRrIgTi0o4_JZO71xHwkFLJSFlP0tHYWkXYp6hu1jjE-L5RSG7i6GEn_M87Ffy8NFD69a6eB09a9asSBj6QIcprBlPMhDPdBOPNFfX6_mcwJ74iSkQDmZujjKZNOm3pXeVewSZpThCAjwQf5NmbylNcpWPG"
 game: unknown
 hero_image: /img/best-weapons-mage-nte/hero.webp
-inline_images
+inline_images:
   - /img/best-weapons-mage-nte/inline-1.webp
   - /img/best-weapons-mage-nte/inline-2.webp
   - /img/best-weapons-mage-nte/inline-3.webp
   - /img/best-weapons-mage-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Selecting the right weapon in Neverness to Everness (NTE) is the difference between struggling with anomalies and clearing high-level commissions with ease. As of May 21, 2026, the meta for "mage" characters—those who specialize in Anima, Incantation, and Mental damage—has solidified around high-rarity Arcs that prioritize elemental scaling and energy management.
 
@@ -49,7 +49,7 @@ Selecting the right weapon in Neverness to Everness (NTE) is the difference betw
 What are the best weapons (Arcs) for magic-focused characters in Neverness to Everness? In the current May 2026 meta, "mage" characters are defined not by staves or wands, but by their reliance on high-frequency elemental skills and ultimate abilities. Players often ask which Arcs provide the highest damage for Incantation, Anima, and Mental damage types, and how the different weapon types—specifically Plasma, Liquid, and Synthesis—benefit these specific playstyles. Furthermore, identifying the top-tier options for popular characters like [Nanally](/characters/nanally-guide-nte), Mint, and Fadia is crucial for efficient resource allocation.
 
 ### Defining the Mage Archetype in NTE
-In Neverness to Everness, there is no formal "Mage" class. Instead, players use the term to describe Espers who deal non-physical damage. These characters typically fall into the following elemental categories
+In Neverness to Everness, there is no formal "Mage" class. Instead, players use the term to describe Espers who deal non-physical damage. These characters typically fall into the following elemental categories:
 *   **Anima:** Focused on high-speed multi-hits and "Blossom" reactions (e.g., Nanally, Mint).
 *   **Incantation:** Often involving damage-over-time (DoT) and "Scorch" or "Hexed" effects (e.g., [Sakiri](/characters/sakiri-nte-free-5-star-guide), Baicang).
 *   **Mental/Psyche:** Scaling heavily with Max HP or Mental stats to trigger "Nova" reactions (e.g., Fadia).
@@ -120,13 +120,13 @@ To maximize these weapons, you must pair them with the correct Cartridge sets.
 
 
 ### How to Get Free S-Rank Arcs
-While many S-Rank Arcs are found in the "Scarborough Fair" weapon banner, several can be farmed through gameplay
+While many S-Rank Arcs are found in the "Scarborough Fair" weapon banner, several can be farmed through gameplay:
 *   **Raging Flames:** Obtained by defeating the **Headless Rider** world boss. You must encounter him at Fox Window Street around 20:00 in-game time.
 *   **Eternal Waltz:** Unlocked by completing the "Arachne" story quest and revisiting the boss in the Anomaly Realm.
 *   **Day Off:** Obtained through the "Solar Eclipse" hidden quest. You must find the NPC "Eclipse" in five different locations across Hethereau City during specific weather conditions.
 
 ### Recommended Team Comps for Mage DPS
-To make the most of your mage weapons, you need to trigger the right elemental cycles
+To make the most of your mage weapons, you need to trigger the right elemental cycles:
 1.  **Blossom Team:** Nanally (Main DPS) + Jiuyuan (Sub-DPS) + Zero (Support) + Sakiri (Buffer). This team focuses on Anima and Cosmos reactions to clear waves of enemies.
 2.  **Nova Team:** Fadia (Sub-DPS/Tank) + Daffodill (Main DPS) + Adler (Shield) + Haniel (Buffer). This team uses Fadia’s HP-scaling Mental damage to trigger high-damage Nova explosions.
 

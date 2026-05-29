@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Sumeru Daily Commissions in Genshin Impact
 slug: how-to-unlock-sumeru-daily-commissions
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T14:24:25.418989+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-unlock-sumeru-daily-commissions/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-sumeru-daily-commissions/inline-1.webp
   - /img/how-to-unlock-sumeru-daily-commissions/inline-2.webp
   - /img/how-to-unlock-sumeru-daily-commissions/inline-3.webp
   - /img/how-to-unlock-sumeru-daily-commissions/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Reaching the Dendro region is a major milestone for any Traveler, but you might notice your daily tasks are still sending you back to Mondstadt or Liyue. To streamline your journey through the rainforests and deserts, you must complete a specific set of quests to shift your focus to the land of Wisdom.
 
@@ -42,7 +42,7 @@ Another point of confusion involves the Adventurer's Handbook. Even after unlock
 
 ### The Importance of Daily Commissions for Sumeru Progression
 
-Unlocking Sumeru daily commissions is vital for several reasons
+Unlocking Sumeru daily commissions is vital for several reasons:
 *   **Reputation Experience:** Completing commissions in Sumeru is one of the primary ways to gain reputation points with the Corps of Thirty, which eventually unlocks the Dendroculus Resonance Stone and the Sumeru wings.
 *   **Exclusive Achievements:** Sumeru features a vast array of hidden achievements tied to specific commission RNG, such as the "Garcia’s Paean" questline and the "Scholarly in Sumeru" quiz.
 *   **Local Materials:** Many Sumeru commissions reward you with regional specialties or enemy drops (like Fungal Spores or Chaos Bolts) that are necessary for ascending Sumeru characters and weapons.
@@ -53,7 +53,7 @@ Unlocking Sumeru daily commissions is vital for several reasons
 ![Direct Answer](/img/how-to-unlock-sumeru-daily-commissions/inline-2.webp)
 
 
-To unlock Sumeru daily commissions, you must follow these four essential steps
+To unlock Sumeru daily commissions, you must follow these four essential steps:
 
 1.  **Complete Archon Quest Chapter III: Act II:** Finish the quest titled "The Morn a Thousand Roses Brings," specifically the final sub-quest "Denouement."
 2.  **Wait for the Daily Server Reset:** The unlock quest will not appear immediately after finishing the Archon Quest. You must wait until 4:00 AM server time the following day.

@@ -1,4 +1,4 @@
---
+---
 title: "How to Beat Terror Raptor in Zenless Zone Zero: Boss Guide"
 slug: how-to-beat-terror-raptor-zzz
 game: zzz
@@ -9,19 +9,19 @@ published_at: "2026-05-15T22:04:24.375024+00:00"
 published_url: /boss/how-to-beat-terror-raptor-zzz
 sources: []
 hero_image: /img/how-to-beat-terror-raptor-zzz/hero.webp
-inline_images
+inline_images:
   - /img/how-to-beat-terror-raptor-zzz/inline-1.webp
   - /img/how-to-beat-terror-raptor-zzz/inline-2.webp
   - /img/how-to-beat-terror-raptor-zzz/inline-3.webp
   - /img/how-to-beat-terror-raptor-zzz/inline-4.webp
   - /img/how-to-beat-terror-raptor-zzz/inline-5.webp
-inline_image_sections
+inline_image_sections:
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
---
+---
 
 Facing the agile Terror Raptor in Zenless Zone Zero requires quick reflexes and a deep understanding of its mechanical patterns to avoid a swift defeat. This high-speed combatant serves as a significant skill check in both the early Shiyu Defense stages and high-level Hollow Zero runs.
 
@@ -191,7 +191,7 @@ If you are farming the Terror Raptor for Ferrous Plates, ensure you are at the h
 | 50+ | Purple (High Chance) | 40,000 | 1,000 |
 
 ### W-Engines Requiring Terror Raptor Materials
-The following W-Engines often require materials dropped by the Terror Raptor for their ascension
+The following W-Engines often require materials dropped by the Terror Raptor for their ascension:
 *   [Information not yet publicly available as of 2026-05-15] — Specific W-Engine names for the latest patches require verification against the in-game workshop. However, standard A-Rank engines like "The Vault" and "Big Cylinder" typically use Ferrous-type components.
 
 By focusing on Electric anomalies and mastering the timing of the Flame Ball parry, you can turn the Terror Raptor from a high-speed threat into a manageable encounter. Prioritize Daze buildup and save your strongest attacks for the Groggy window to ensure an efficient victory.

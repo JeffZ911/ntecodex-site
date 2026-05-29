@@ -1,4 +1,4 @@
---
+---
 title: "NTE Best Weapons for F2P Players: Top Arcs Guide"
 slug: nte-best-weapons-f2p-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1387
 published_at: "2026-05-19T15:33:01.969266+00:00"
 published_url: /faq
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ1QjAJzqE4eFsqTRC2vJ_MhI3GfZRzxQCs-w429Z6zkSG_jbsVZA7sHjdlKPwSaGJkQjebftfs7LibcLjz5K34ZYp9mfH9FqrH_pmpBMerSODGC5WnYA1_slU"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMe0bIEesajgFzQgC7NPprvSGjZFsQpy4-LhsuZWSPaOGChsT2l0HzLx_GCv6UhhzamZ9kuGU9jsXTodLdRxYcPr1OAWeRbnkML5SuG2u0UHqHSfNNyEEmGfsd7G03l3foUfNEszZH64H3CixhASuUt2Ibpu6WX0ECWHpId_58A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpNL9DJaZpQndHKzCo4Bwfhy4-RdE6ZGnN2ykwxOQx3LZAlRZ4CoIPZsVB_Tz1u5LUk_jBlY9fr4z47kchUbxsd_LOkQRuc4frGcFDW1NFHQrOToDdpnyJ8ilL--2sEn_WBTAXINEQWT0ivlJ0aJqi54Ec4ZPsFJoe44togHnV-9GvqoPzxTOv10VIx_r6buMZUT_l3KGyxfa7xEY_Za8omorwPuad-m7K2IUS4lWgjPk5aeORxBgnar9-pGSg2Ab7egB4wj6ds0jFFGa_WOIc_S3ysTv4-Q=="
@@ -25,17 +25,17 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7oKLl0rXgn9_TC7rF4IRPGmyCkPSqAguX1CmkL5l_mQRKDThY7LKm2l2vjkp7floMmASchbhoSYJNmWs0TWJzUi807kGoX_UsNGNh23jCslKgGvIVOeXEQ2C1JwcenpKZ5hZUuJ7sOpMXNzPRHUEzx7TPhfXXH_h951jKkcwt6_anb_xS0tRd12AmpqcBIfVAgro="
 game: unknown
 hero_image: /img/nte-best-weapons-f2p-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-weapons-f2p-guide/inline-1.webp
   - /img/nte-best-weapons-f2p-guide/inline-2.webp
   - /img/nte-best-weapons-f2p-guide/inline-3.webp
   - /img/nte-best-weapons-f2p-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Neverness to Everness (NTE) provides a surprisingly deep selection of high-rarity equipment for players who prefer to save their Lunaria for character banners rather than weapon pulls.
 
@@ -109,7 +109,7 @@ Before you have the Hunter Level or gear to take on S-rank world bosses like the
 
 The "Mixing" system is the NTE equivalent of refinement or resonance. To increase an Arc's Rank, you must consume a duplicate of that same Arc. 
 *   **Rank 1 to Rank 5:** Each rank significantly boosts the percentages on the weapon's passive effect.
-*   **Farming Duplicates:** For world boss Arcs like **Raging Flames**, you can challenge the boss once per week (or use specific reset items) to get more copies. 
+*   **Farming Duplicates:** For world boss Arcs like **Raging Flames**, you can challenge the boss once per week (or use specific reset items) to get more copies.
 *   **Arc Shop:** The Mall features an Arc Shop where you can exchange **Mhm Coins** (earned from Nacupeda’s Pool activities) or **Tri-Keys** for specific S-rank and A-rank duplicates.
 
 ### Where to Find Anomaly Commissions and Hidden Quests

@@ -1,4 +1,4 @@
---
+---
 title: "How to Unlock NTE Multiplayer: Co-op Guide & Requirements"
 slug: how-to-unlock-nte-multiplayer-guide
 article_type: faq
@@ -9,15 +9,15 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-nte-multiplayer-guide/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-nte-multiplayer-guide/inline-1.webp
   - /img/how-to-unlock-nte-multiplayer-guide/inline-3.webp
   - /img/how-to-unlock-nte-multiplayer-guide/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Exploring the supernatural urban sprawl of Hethereau is a highlight of Neverness to Everness, and many players want to know exactly when they can bring their friends along for the ride. While the game features a robust cooperative system, it is not available immediately upon starting your journey as a Proxy.
 
@@ -68,7 +68,7 @@ Unlocking the multiplayer feature is just the beginning of the social experience
 
 ### How to Level Up Fast to Hunter Level 8
 
-To reach Hunter Level 8 as quickly as possible, focus on the following activities
+To reach Hunter Level 8 as quickly as possible, focus on the following activities:
 
 1.  **Main Story Quests:** These provide the largest chunks of Hunter EXP. Completing the initial tutorial combat against the first Anomaly and meeting [Nanally](/characters/nanally-guide-nte) will jump-start your leveling.
 2.  **Anomaly Containment:** While exploring Hethereau during the prologue, you will encounter minor "glitches" or Anomalies in the environment. Defeating these enemies provides substantial EXP and upgrade materials.
@@ -91,7 +91,7 @@ The player who sends the invitation or whose world is being joined acts as the "
 
 ### What Can You Do Together in Hethereau?
 
-Multiplayer in NTE is more than just fighting enemies. The urban setting allows for a variety of lifestyle activities
+Multiplayer in NTE is more than just fighting enemies. The urban setting allows for a variety of lifestyle activities:
 
 *   **Open-World Exploration:** You can drive through the streets together. NTE features a "Vehicle Sharing" mechanic where a passenger can ride in the host's car, or players can bring their own customized vehicles into the host's instance.
 *   **Anomaly Combat:** High-level Anomalies found in the city outskirts or within "Distortion Zones" are significantly easier to manage with a full party of four.
@@ -113,7 +113,7 @@ The **Pink Paws Heist** is a particularly sought-after mode where players work t
 
 ### Multiplayer Restrictions and Limitations
 
-While the multiplayer system is expansive, there are several key limitations to keep in mind
+While the multiplayer system is expansive, there are several key limitations to keep in mind:
 
 *   **Main Story Missions:** You cannot progress through the main "Yellow" story quests while in a multiplayer session. If you or the host starts a story-critical cutscene, the session may be temporarily suspended or guests may be placed in a spectator mode.
 *   **World Progress:** Only the Host's world progress is saved regarding chest collection and environmental puzzles. If you find a rare chest in a friend's world, you will receive the rewards, but it will not count as "collected" in your own world.
@@ -133,7 +133,7 @@ The game also supports **cross-save**. By linking your account to a Hotta ID or 
 
 ### NTE Server Regions Explained
 
-When you first launch Neverness to Everness, you are prompted to select a server. It is vital to coordinate this with your friends before you start your characters. Currently, the game offers three primary regions
+When you first launch Neverness to Everness, you are prompted to select a server. It is vital to coordinate this with your friends before you start your characters. Currently, the game offers three primary regions:
 *   **North America (NA)**
 *   **Europe (EU)**
 *   **Asia**

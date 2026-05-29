@@ -1,4 +1,4 @@
---
+---
 title: "NTE Weapon Upgrade Materials Guide: Best Arcs & Builds"
 slug: nte-weapon-upgrade-materials-guide
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T23:51:05.994888+00:00"
 published_url: /guides/nte-weapon-upgrade-materials-guide
 sources: []
 hero_image: /img/nte-weapon-upgrade-materials-guide/hero.webp
-inline_images
+inline_images:
   - /img/nte-weapon-upgrade-materials-guide/inline-1.webp
   - /img/nte-weapon-upgrade-materials-guide/inline-2.webp
   - /img/nte-weapon-upgrade-materials-guide/inline-3.webp
   - /img/nte-weapon-upgrade-materials-guide/inline-4.webp
   - /img/nte-weapon-upgrade-materials-guide/inline-5.webp
   - /img/nte-weapon-upgrade-materials-guide/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Optimizing your Espers in Neverness to Everness requires a deep understanding of the Arc system and the specific materials needed to push your gear to its maximum potential. Following the game's global launch on April 29, 2026, players have identified the most efficient farming routes to ensure their team remains competitive in high-level Anomaly Hunts and Urban Open World challenges.
 

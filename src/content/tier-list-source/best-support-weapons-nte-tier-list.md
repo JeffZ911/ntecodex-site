@@ -1,4 +1,4 @@
---
+---
 title: "Best Support Weapons for NTE Characters: Tier List (May 2026)"
 slug: best-support-weapons-nte-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-weapons-nte-tier-list/hero.webp
-inline_images
+inline_images:
   - /img/best-support-weapons-nte-tier-list/inline-1.webp
   - /img/best-support-weapons-nte-tier-list/inline-2.webp
   - /img/best-support-weapons-nte-tier-list/inline-3.webp
   - /img/best-support-weapons-nte-tier-list/inline-4.webp
   - /img/best-support-weapons-nte-tier-list/inline-5.webp
   - /img/best-support-weapons-nte-tier-list/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Building the right team in Neverness to Everness (NTE) requires more than just high-damage Espers; it demands a tactical selection of Arcs that amplify your squad's overall performance. As the meta shifts following the recent introduction of [Hotori](/characters/hotori-best-team-nte), understanding which support weapons provide the best off-field utility is essential for clearing high-level Anomalies.
 
@@ -48,7 +48,7 @@ Ranking support weapons in NTE involves analyzing how a single piece of gear inf
 
 ### Primary Support Stats in NTE
 
-Support characters typically do not benefit from raw flat ATK. Instead, the most valuable stats for a support Arc are
+Support characters typically do not benefit from raw flat ATK. Instead, the most valuable stats for a support Arc are:
 
 1.  **Charge Efficiency:** Increases the rate at which the Esper's Ultimate gauge fills.
 2.  **Mental DMG / Healing Bonus:** Directly affects the potency of shields and restoration skills.

@@ -1,4 +1,4 @@
---
+---
 title: Best F2P Team Compositions in Neverness to Everness (May 2026)
 slug: nte-best-f2p-team-compositions
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-f2p-team-compositions/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-f2p-team-compositions/inline-1.webp
   - /img/nte-best-f2p-team-compositions/inline-2.webp
   - /img/nte-best-f2p-team-compositions/inline-3.webp
   - /img/nte-best-f2p-team-compositions/inline-4.webp
   - /img/nte-best-f2p-team-compositions/inline-5.webp
   - /img/nte-best-f2p-team-compositions/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
---
+---
 
 Maximizing your damage in Hethereau does not require a heavy wallet if you understand how the Esper Cycle rewards specific character synergies. By focusing on free-to-play (F2P) units and the Standard Board Selector, you can clear endgame content like "Beyond the Rails" without spending a single E-Coin.
 
@@ -50,7 +50,7 @@ Every player receives a "Standard Board Selector" after reaching 50 pulls on the
 
 ### Role Distribution: DPS, Support, and Sustain
 
-A viable F2P team requires a clear hierarchy
+A viable F2P team requires a clear hierarchy:
 1.  **Main DPS:** The character who stays on field the longest (e.g., Chiz or Zero).
 2.  **Sub-DPS/Enabler:** Provides off-field elemental application (e.g., Mint or Aurelia).
 3.  **Support/Buffer:** Enhances the team's stats or energy regeneration (e.g., Haniel).
@@ -152,7 +152,7 @@ C-Tier teams should be avoided as they actively hinder your progress by ignoring
 
 The most frequent mistake is building a "Rainbow" team. For example, a team consisting of Lakshana, Incantation, Chaos, and Anima units. Looking at the Esper Wheel, these elements do not sit adjacent to one another. 
 
-When you switch from a Lakshana character to an Incantation character, the Esper Meter does not fill. This results in
+When you switch from a Lakshana character to an Incantation character, the Esper Meter does not fill. This results in:
 *   No Cycle Skill activation.
 *   Zero reaction damage.
 *   Slow Ultimate energy gain.

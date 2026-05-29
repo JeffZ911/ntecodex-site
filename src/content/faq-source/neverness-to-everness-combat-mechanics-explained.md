@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Combat Mechanics Explained: The Ultimate Guide"
 slug: neverness-to-everness-combat-mechanics-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-14T22:55:09.183576+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-combat-mechanics-explained/hero.webp
-inline_images
+inline_images:
   - /img/neverness-to-everness-combat-mechanics-explained/inline-1.webp
   - /img/neverness-to-everness-combat-mechanics-explained/inline-2.webp
   - /img/neverness-to-everness-combat-mechanics-explained/inline-3.webp
   - /img/neverness-to-everness-combat-mechanics-explained/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Mastering the supernatural urban landscape of Hethereau requires more than just flashy skills; it demands a deep understanding of how elements interact through the Esper Cycle. This guide breaks down every layer of the Neverness to Everness combat system to help you optimize your team rotations and dismantle the toughest Anomalies.
 
@@ -82,7 +82,7 @@ There are six primary elements in NTE, each represented on the Esper Wheel. Unde
 *   **Psyche:** Represented by pink/light blue; focuses on mental energy, speed, and illusion.
 
 **Duo Cycle Reactions:**
-When two elements interact, they create a Duo Cycle. While the exact damage percentages for every combination are [exact value pending official confirmation], the primary effects are as follows
+When two elements interact, they create a Duo Cycle. While the exact damage percentages for every combination are [exact value pending official confirmation], the primary effects are as follows:
 
 | Reaction Name | Elements Involved | Primary Effect |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ Triple Cycles occur when you successfully rotate three different elements onto a
 
 Every elite enemy and boss in NTE has a "Break Meter" (a yellow bar located directly beneath their health bar). While this bar is active, the enemy has high damage resistance and cannot be interrupted.
 
-To defeat these enemies, you must focus on "Break DMG." Once the meter reaches zero, the enemy is "Broken." During this state
+To defeat these enemies, you must focus on "Break DMG." Once the meter reaches zero, the enemy is "Broken." During this state:
 1.  The enemy is completely immobilized.
 2.  All incoming damage is increased by a set multiplier (base is [information unavailable], though certain Arcs can increase this).
 3.  The "Elemental Lane" is wide open, meaning reactions triggered during this window deal significantly more damage.
@@ -118,7 +118,7 @@ NTE rewards aggressive, high-skill play through its defensive systems.
 
 Building a team in Neverness to Everness isn't just about picking your favorite characters; it's about building an "Elemental Lane." This is the specific sequence of elements (e.g., Anima -> Chaos -> Incantation -> Lakshana) that your team uses to maximize Cycle triggers.
 
-A standard team usually follows this structure
+A standard team usually follows this structure:
 1.  **The Opener:** Usually a Support or Sub-DPS who applies the first element and buffs the team.
 2.  **The Breaker:** A character specifically designed to shred the yellow Break Meter.
 3.  **The Catalyst:** A character who triggers the first Duo Cycle and sets up the Triple Cycle.

@@ -1,4 +1,4 @@
---
+---
 title: "How to Build Anby Demara in ZZZ: Best W-Engines & Disks"
 slug: how-to-build-anby-demara-zzz
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T23:00:16.263880+00:00"
 published_url: /guides/how-to-build-anby-demara-zzz
 sources: []
 hero_image: /img/how-to-build-anby-demara-zzz/hero.webp
-inline_images
+inline_images:
   - /img/how-to-build-anby-demara-zzz/inline-1.webp
   - /img/how-to-build-anby-demara-zzz/inline-2.webp
   - /img/how-to-build-anby-demara-zzz/inline-3.webp
   - /img/how-to-build-anby-demara-zzz/inline-4.webp
   - /img/how-to-build-anby-demara-zzz/inline-5.webp
   - /img/how-to-build-anby-demara-zzz/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Anby Demara is the first character most players encounter in Zenless Zone Zero, serving as the reliable, burger-loving backbone of the Cunning Hares. As a free A-Rank Electric Stun agent, she provides the essential utility needed to break enemy defenses and trigger the devastating Chain Attack mechanic.
 
@@ -55,7 +55,7 @@ Her Core Passive is the heart of her gameplay. It significantly boosts the Daze 
 *Note: Impact remains at a base of 110 across all levels, but increases through W-Engines, Disk Drive main stats, and character promotions.*
 
 ### Skill Priority List
-To optimize your resources, focus on upgrading Anby's skills in the following order
+To optimize your resources, focus on upgrading Anby's skills in the following order:
 1. **Basic Attack:** This is her primary method of generating Daze and the foundation of her Thunderbolt combo.
 2. **Special Attack:** Increases the damage and Daze scaling of her Thunderbolt and EX Special Attack.
 3. **Core Passive:** Directly improves her Daze multipliers and provides essential stat boosts.
@@ -82,7 +82,7 @@ While technically the signature weapon for Koleda, **Hellfire Gears** is the bes
 This is Anby’s signature A-Rank W-Engine and is specifically designed to complement her kit. It provides a flat bonus to Electric DMG and significantly boosts Energy Regen whenever she hits an enemy with a Dodge Counter or an EX Special Attack. Since Anby relies on her EX Special to trigger her most powerful Daze moves, the increased energy flow from this engine makes her rotations much smoother.
 
 ### F2P Alternatives
-For players who haven't pulled the options above, there are several accessible choices
+For players who haven't pulled the options above, there are several accessible choices:
 *   **Steam Oven (A-Rank):** This craftable W-Engine is surprisingly effective. It increases Impact for every 10 Energy the character currently possesses. Since Anby often accumulates Energy while working toward a Stun, this passive provides a consistent boost to her Daze output.
 *   **Six Shooter (A-Rank):** Another craftable option, this engine focuses on increasing the Daze dealt by Special Attacks. Since Anby's Thunderbolt counts as a Special Attack, she benefits greatly from the stacking Daze buffs provided by this weapon.
 *   **[Information not yet publicly available as of 2026-05-13]** (B-Rank): Most B-Rank engines are generic, but any engine providing flat Impact or Energy Regen will suffice in the early game.
@@ -108,12 +108,12 @@ The **Shockstar Disco** set is the gold standard for Anby.
 Since Anby spends most of her time on field using her Basic Attack combo to reach the Thunderbolt finisher, this set provides the highest consistent Daze increase available in the game.
 
 ### Optimal 2-Piece Pairings
-For the remaining two slots, you have two primary options
+For the remaining two slots, you have two primary options:
 1. **Swing Jazz:** Increases Energy Regen by 20%. This is generally the preferred choice, as it allows Anby to reach her EX Special Attack threshold much faster.
 2. **Thunder Metal:** Increases Electric DMG by 10%. This is a secondary option if you want Anby to contribute more personal damage, though it is usually less efficient than the utility provided by Swing Jazz.
 
 ### Stat Priority Breakdown
-When leveling your Disk Drives, focus on the following main stats for Slots 4, 5, and 6
+When leveling your Disk Drives, focus on the following main stats for Slots 4, 5, and 6:
 *   **Slot 4:** Crit Rate or ATK%. While Anby is a Stunner, having some Crit helps clear smaller mobs faster.
 *   **Slot 5:** Electric DMG or ATK%. Electric DMG is generally superior for her overall kit.
 *   **Slot 6:** **Impact.** This is mandatory. You should never run anything other than Impact in Slot 6 for a Stun character.

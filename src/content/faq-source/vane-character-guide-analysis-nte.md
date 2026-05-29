@@ -1,4 +1,4 @@
---
+---
 title: "Vane Character Guide and Analysis NTE: Is Vane Playable?"
 slug: vane-character-guide-analysis-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/vane-character-guide-analysis-nte/hero.webp
-inline_images
+inline_images:
   - /img/vane-character-guide-analysis-nte/inline-1.webp
   - /img/vane-character-guide-analysis-nte/inline-2.webp
   - /img/vane-character-guide-analysis-nte/inline-3.webp
   - /img/vane-character-guide-analysis-nte/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 As players explore the neon-soaked streets of Helios City following the global launch of Neverness to Everness, many are searching for specific character builds to optimize their urban supernatural adventures. This guide addresses the common community inquiry regarding the existence and viability of a character named Vane within the NTE roster.
 
@@ -45,7 +45,7 @@ As of the Neverness to Everness (NTE) global release on April 29, 2026, and the 
 
 It is highly probable that "Vane" is a character from another title, such as Granblue Fantasy: Relink, or perhaps a misunderstood reference in community discussions or fan-made "wishlist" rosters. In the current version of Helios City, the S-Rank roster consists of a specific set of supernatural specialists tailored to the game's unique Esper Cycle mechanics.
 
-To clarify the current state of the game, the following table lists the confirmed S-Rank characters available as of May 20, 2026
+To clarify the current state of the game, the following table lists the confirmed S-Rank characters available as of May 20, 2026:
 
 | Character Name | Rarity | Element / Type | Primary Combat Role |
 | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@ If your interest in Vane was sparked by a desire for a character who can soak up
 Fadia is the definitive "tank" of Neverness to Everness. She wields a Transforming Cross-Shield, a weapon that allows her to alternate between a defensive stance and a heavy-hitting offensive mode. 
 
 *   **Role:** Survival / Damage Mitigation.
-*   **Key Gimmick:** Fadia can deploy her shield to create a localized "Nullification Zone," which absorbs incoming projectile damage from Hethereau entities. 
+*   **Key Gimmick:** Fadia can deploy her shield to create a localized "Nullification Zone," which absorbs incoming projectile damage from Hethereau entities.
 *   **Why she fits the Vane niche:** Much like a traditional bruiser, Fadia rewards players who enjoy being in the thick of the fight. Her ability to shrug off hits that would one-shot squishier characters like Nanally or Chiz makes her indispensable for high-tier boss encounters.
 
 #### Baicang Analysis: The Incantation Bruiser
@@ -112,7 +112,7 @@ To maximize a team's potential, you must ensure your "Appraiser" (the player cha
 
 As of May 20, 2026, Hotta Studio has released the roadmap for the remainder of Version 1.1 and teased Version 1.2. The current focus is on the debut of Lacrimosa and the expansion of the "Chaos" narrative arc. 
 
-Regarding the possibility of a character named Vane appearing in the future
+Regarding the possibility of a character named Vane appearing in the future:
 *   **Official Roadmaps:** There has been no mention of a character named Vane in any official developer livestream or blog post from Hotta Studio.
 *   **Leaked Data:** While some "leaks" appear on community forums, no verified assets or skill names associated with Vane have been found in the game files as of the 2026-05-20 update.
 *   **Collaborations:** It is possible that a collaboration with another IP could bring a character named Vane to Helios City, but no such partnership has been announced.
@@ -124,7 +124,7 @@ Players are advised to be cautious of "clickbait" guides or YouTube videos claim
 ![Related](/img/vane-character-guide-analysis-nte/inline-4.webp)
 
 
-If you are looking to optimize your current roster or plan for future pulls now that you know Vane is not a playable option, consider exploring these topics
+If you are looking to optimize your current roster or plan for future pulls now that you know Vane is not a playable option, consider exploring these topics:
 
 *   **Neverness to Everness Tier List:** Discover which S-Rank characters like Nanally and Baicang are currently dominating the Helios City leaderboards.
 *   **How to Master the Esper Cycle:** A deep dive into the elemental reaction wheel and how to time your character swaps for maximum damage output.

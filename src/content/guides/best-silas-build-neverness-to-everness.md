@@ -1,4 +1,4 @@
---
+---
 title: Best Silas Build in Neverness to Everness (NTE) Guide
 slug: best-silas-build-neverness-to-everness
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.9
 word_count: 1876
 published_at: "2026-05-17T04:08:18.657375+00:00"
 published_url: /guides/best-silas-build-neverness-to-everness
-sources
+sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH60yddXuEnpJNiRW3QTY8r36N81MKclRD7MZr9IJEXblCLwa_raAcdBs2FYIAh0Yvh8SMvsE9bLFBBG5RX11Xrlx07RPKSn_ZkOhCwuMMZZNO3o7YcGQhjmUGbI04J72sbA1BXjg70lnc9GKY_34cLOv4S_PP"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHFXwhTqZgr9lg20q59QAS9E6jl29ZjzTTB8sMhpmI0Ttl8eZiaZ6vm1GSybvS6fbw2ecPvt_gpc96DyJavt0fUILs2kadLxCwCxNqQs1YlEW8x_JNuRarv_E="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjG_sgXdntMGWcD19pQV7pgriVPpeWNu9zsWtdodllqrnXG060GLqJoZdxcvCc-dNVvSfISPeGfl0fElpeZUmrV-ivbMchxj8JW7ws94xx7wTH1rC5Kdu5ZSl3ybAow3t7GrdhNAGYJsbE5IhAJ-xSPE59EQOELQ65OIgWPwtGmw="
@@ -21,21 +21,21 @@ sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Ve9HhVOY8N51qzuGUfvWkxoKHSkI7WbDiZjscxjmzbbKC1OiNaOQVk3G33uSUeSCFxDjk8ELsthSQBHGHs4_h9KBs8Y0Y91NdXkbKUbVuH0kcpLpQkt3RMFhbBopxpb8bovw4pLd"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJk9ejpvdcFHOC1TQeudeP6fKLxnFmeVDHGFkKd-rjCKE7Kj94_qY-2Vu-Bx678cgGeph9rvsgHH5lorE51JXSCmJUfYVPtVWrJ9SCqJGRBnGWlREEuwBpZIGlyM5PmVzEQ9I0gEBpn96F_MtGPWEwRUW9shJ3FI1RqZDapLBX0zE0vZG_x6MyVU0qg87Efo="
 hero_image: /img/best-silas-build-neverness-to-everness/hero.webp
-inline_images
+inline_images:
   - /img/best-silas-build-neverness-to-everness/inline-1.webp
   - /img/best-silas-build-neverness-to-everness/inline-2.webp
   - /img/best-silas-build-neverness-to-everness/inline-3.webp
   - /img/best-silas-build-neverness-to-everness/inline-4.webp
   - /img/best-silas-build-neverness-to-everness/inline-5.webp
   - /img/best-silas-build-neverness-to-everness/inline-6.webp
-inline_image_sections
+inline_image_sections:
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
---
+---
 
 Finding the right setup for a high-performance character in Hethereau’s supernatural urban landscape requires a deep understanding of the Arc and Cartridge systems. While players are currently focused on mastering the 1.0 and 1.1 rosters, many are already looking ahead to potential future additions like Silas.
 
@@ -118,7 +118,7 @@ The current meta favors sets that provide unconditional ATK boosts or defense pe
 **Shadow Creed (4-Piece)**
 The Shadow Creed set is the gold standard for DPS units in Version 1.0. 
 *   **2-Piece Bonus:** ATK +10%
-*   **4-Piece Bonus:** Increases the wearer's ATK by 25% for 20 seconds after casting a Skill. 
+*   **4-Piece Bonus:** Increases the wearer's ATK by 25% for 20 seconds after casting a Skill.
 This set is highly favored because the 20-second window is long enough to cover most character rotations, ensuring near-permanent uptime on the damage buff.
 
 **Lost Radiance / Legendary Set (4-Piece)**
@@ -134,7 +134,7 @@ This is the premier set for Incantation-based teams.
 
 ### Recommended Main and Sub-Stats
 
-While Silas's specific scaling is [Information not yet publicly available as of 2026-05-17], most damage dealers in NTE follow a standard stat priority
+While Silas's specific scaling is [Information not yet publicly available as of 2026-05-17], most damage dealers in NTE follow a standard stat priority:
 
 1.  **Main Stat (Cartridge):** Elemental DMG Bonus (matching the character's attribute) or ATK%.
 2.  **Main Stat (Modules):** Flat ATK and Flat HP (these are fixed based on the Module type).
@@ -160,7 +160,7 @@ A high-end team in the current 1.0/1.1 meta typically consists of one Main DPS, 
 
 ### F2P Friendly Team
 
-For players working with limited resources, a highly effective team can be built using guaranteed characters
+For players working with limited resources, a highly effective team can be built using guaranteed characters:
 
 1.  **Esper Zero (Cosmos):** The protagonist is a surprisingly strong S-Class unit who can carry the team through the early and mid-game.
 2.  **Adler (Incantation):** Obtained through the story, Adler provides essential shields and off-field damage over time.
@@ -176,7 +176,7 @@ Maximizing damage in Neverness to Everness requires a strict rotation to ensure 
 
 ### Optimal Skill Sequence
 
-While Silas's specific sequence is [Information not yet publicly available as of 2026-05-17], the standard high-damage rotation in NTE follows this flow
+While Silas's specific sequence is [Information not yet publicly available as of 2026-05-17], the standard high-damage rotation in NTE follows this flow:
 
 1.  **Initiate with Supports:** Start with a character like Sakiri or Haniel. Use their Skills to apply elemental status effects to the enemies.
 2.  **Trigger the Esper Cycle:** Swap to your second support (e.g., Adler) to trigger a reaction. This will often drop the enemy's "Break" bar or apply a significant debuff.

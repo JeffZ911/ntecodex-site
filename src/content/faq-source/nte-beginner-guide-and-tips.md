@@ -1,4 +1,4 @@
---
+---
 title: "Neverness to Everness Beginner Guide: Top Tips for Hethereau"
 slug: nte-beginner-guide-and-tips
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-guide-and-tips/hero.webp
-inline_images
+inline_images:
   - /img/nte-beginner-guide-and-tips/inline-1.webp
   - /img/nte-beginner-guide-and-tips/inline-2.webp
   - /img/nte-beginner-guide-and-tips/inline-3.webp
   - /img/nte-beginner-guide-and-tips/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Surviving the supernatural anomalies of Hethereau requires more than just fast cars; it demands a deep understanding of the Esper Cycle and the city's complex economic systems.
 
@@ -32,7 +32,7 @@ Surviving the supernatural anomalies of Hethereau requires more than just fast c
 ![Question Restated](/img/nte-beginner-guide-and-tips/inline-1.webp)
 
 
-Starting a journey in a massive urban open-world like Neverness to Everness (NTE) can be overwhelming due to the sheer density of its systems. New players often ask
+Starting a journey in a massive urban open-world like Neverness to Everness (NTE) can be overwhelming due to the sheer density of its systems. New players often ask: 
 
 *   **What are the most effective strategies for new players starting in Neverness to Everness (NTE)?** Success in the early game depends on balancing combat progression with city management. Prioritizing the main story to unlock the full map of Hethereau while simultaneously engaging with the City Tycoon system ensures you have the Fons (currency) needed for high-end upgrades.
 *   **How do the core systems like the Esper Cycle, City Tycoon, and Scarborough Fair gacha work?** The Esper Cycle is the heart of combat, utilizing elemental reactions between six distinct types. City Tycoon is the life-simulation layer where you manage businesses and generate passive income. Scarborough Fair is the unique gacha system that uses a board-game mechanic rather than a simple pull screen.
@@ -56,7 +56,7 @@ Resource management is split between two distinct stamina pools. Spend your Char
 
 The gacha system in Neverness to Everness, known as Scarborough Fair, departs from traditional "pull" mechanics. It functions as a Monopoly-style board where players use dice to move their avatar across various reward tiles. There are two types of dice: Solid Dice, used for limited-time banners like Nanally’s "The Ichi-daime," and Fabricated Dice, used for the standard permanent banner.
 
-The board contains tiles for Arcs (weapons), upgrade materials, and character shards. Landing on a "Resonance" tile triggers a character recruitment. The pity system is integrated into the board's mechanics
+The board contains tiles for Arcs (weapons), upgrade materials, and character shards. Landing on a "Resonance" tile triggers a character recruitment. The pity system is integrated into the board's mechanics:
 
 | Pity Type | Pull Count | Guarantee |
 | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ Vehicles are the primary mode of transportation in Hethereau's sprawling distric
 
 To mitigate these costs, look for characters with vehicle-related passives. For instance, Jiuyuan possesses a passive ability that reduces repair costs and slightly increases vehicle durability. 
 
-Customization takes place at "Rampage Players" shops located throughout the city. Here, you can modify
+Customization takes place at "Rampage Players" shops located throughout the city. Here, you can modify:
 *   **Performance:** Engines, tires, and nitrous systems to improve speed and handling.
 *   **Aesthetics:** Paint jobs, body kits, and neon underglow.
 *   **Summoning:** You can summon your primary vehicle to your location at any time, provided you are near a road.

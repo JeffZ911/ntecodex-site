@@ -1,4 +1,4 @@
---
+---
 title: How to Unlock Dailies in Neverness to Everness (NTE Guide)
 slug: how-to-unlock-nte-dailies
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-nte-dailies/hero.webp
-inline_images
+inline_images:
   - /img/how-to-unlock-nte-dailies/inline-1.webp
   - /img/how-to-unlock-nte-dailies/inline-2.webp
   - /img/how-to-unlock-nte-dailies/inline-3.webp
   - /img/how-to-unlock-nte-dailies/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 To maximize your progression in the supernatural urban open world of Hethereau, establishing a consistent routine is mandatory. Unlocking dailies is the first major milestone for any player looking to accumulate Annulith for premium banners or bypass the strict Hunter Level gates that block main story progression.
 
@@ -32,7 +32,7 @@ To maximize your progression in the supernatural urban open world of Hethereau, 
 
 Players arriving in Hethereau often find themselves overwhelmed by the sheer scale of the city and the variety of side activities available. However, many core progression systems remain locked behind the initial narrative. Understanding how to access the daily mission structure is the most common hurdle for new Hunters.
 
-Specifically, players frequently ask
+Specifically, players frequently ask:
 *   What are the specific requirements to unlock daily missions in Neverness to Everness?
 *   At what point in the main story do dailies become available?
 *   Where can players find the daily task menu once it is unlocked?
@@ -86,7 +86,7 @@ The daily loop in Neverness to Everness is more than just a simple checklist. It
 
 The Participation system uses a 100-Point System. Every daily task you complete awards a specific number of points (usually between 10 and 30). As you accumulate these points, you unlock five reward chests at intervals of 20, 40, 60, 80, and 100 points.
 
-Common Daily Tasks include
+Common Daily Tasks include:
 *   **Daily Login:** Grants 10 points automatically.
 *   **Spend 10,000 Fons:** Spend the local currency at any shop or for gear upgrades.
 *   **Consume Character Pixels:** Spend at least 30 Pixels (the game's stamina system) on resource domains or boss fights.
@@ -134,7 +134,7 @@ NTE operates on a global reset schedule. All daily tasks, Participation points, 
 
 ### Optimal Daily Routine Checklist
 
-To ensure you never miss a reward, follow this sequence
+To ensure you never miss a reward, follow this sequence:
 1.  **Log in** to claim the initial 10 Participation points.
 2.  **Visit Nacupeda’s Pool** in Hethereau City for your daily wish and Mhm! Coins.
 3.  **Check the Witch’s House** for your daily combat buff.

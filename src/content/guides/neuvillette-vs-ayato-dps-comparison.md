@@ -1,4 +1,4 @@
---
+---
 title: "Neuvillette vs. Ayato: Who is the Best Hydro DPS in Genshin?"
 slug: neuvillette-vs-ayato-dps-comparison
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-13T05:34:45.552674+00:00"
 published_url: /guides/neuvillette-vs-ayato-dps-comparison
 sources: []
 hero_image: /img/neuvillette-vs-ayato-dps-comparison/hero.webp
-inline_images
+inline_images:
   - /img/neuvillette-vs-ayato-dps-comparison/inline-1.webp
   - /img/neuvillette-vs-ayato-dps-comparison/inline-2.webp
   - /img/neuvillette-vs-ayato-dps-comparison/inline-3.webp
   - /img/neuvillette-vs-ayato-dps-comparison/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
---
+---
 
 Choosing between the two most prominent "Hydro Husbandos" in Genshin Impact often comes down to a choice between overwhelming raw power and versatile team utility. While both characters occupy the Main DPS slot, their mechanical execution and the way they interact with the game's elemental systems differ significantly.
 

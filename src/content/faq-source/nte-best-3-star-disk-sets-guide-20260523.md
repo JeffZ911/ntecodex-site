@@ -1,4 +1,4 @@
---
+---
 title: Best 3-Star Disk Sets in Neverness to Everness (NTE) Guide
 slug: nte-best-3-star-disk-sets-guide-20260523
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-best-3-star-disk-sets-guide-20260523/hero.webp
-inline_images
+inline_images:
   - /img/nte-best-3-star-disk-sets-guide-20260523/inline-1.webp
   - /img/nte-best-3-star-disk-sets-guide-20260523/inline-2.webp
   - /img/nte-best-3-star-disk-sets-guide-20260523/inline-3.webp
   - /img/nte-best-3-star-disk-sets-guide-20260523/inline-4.webp
-inline_image_sections
+inline_image_sections:
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
---
+---
 
 Optimizing your early-game loadout in Hethereau requires a firm grasp of the gear systems that govern character power. While high-rarity gear eventually becomes the standard, understanding which B-rank options provide the most utility will significantly accelerate your progress through the initial chapters of Neverness to Everness.
 
@@ -133,7 +133,7 @@ Farming for B-rank gear is straightforward compared to the late-game grind. The 
 
 ### Optimizing Your Console Grid (The Tetris Strategy)
 
-As you acquire B-rank Modules, you will notice they come in various shapes even within the same set. To optimize your grid
+As you acquire B-rank Modules, you will notice they come in various shapes even within the same set. To optimize your grid:
 
 *   **Prioritize Type IV for DPS:** Your main damage dealer should use Type IV Modules in the center of the grid to maximize their base ATK or Elemental DMG.
 *   **Use Type II for Fillers:** Use the small 2-block Modules of the Speedy Hedgehog set on your supports to fill the edges of the grid, allowing you to hit the 4-piece bonus without blocking your high-stat pieces.
@@ -164,7 +164,7 @@ For specific breakdowns on how to build your roster, it is important to look at 
 
 ### Hethereau Exploration & Farming Tips
 
-Beyond gear, your character's power is capped by their Level and Resonance. Ensure you are spending your daily "Stamina" on the following
+Beyond gear, your character's power is capped by their Level and Resonance. Ensure you are spending your daily "Stamina" on the following:
 *   **Anomaly Suppression:** For character ascension materials.
 *   **New Herland Patrols:** For "Module XP" components.
 *   **The Fair:** This is the gacha system where you spend your hard-earned gems to pull for new Arcs and characters. Always check the "Rate Up" schedule to see if a support character that fits your current Cartridge sets is available.
