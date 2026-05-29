@@ -1,4 +1,4 @@
----
+--
 title: "Best Weapons for DPS in NTE: Top Tier List & Guide"
 slug: best-weapons-for-dps-in-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1808
 published_at: "2026-05-21T17:41:31.477732+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV0vS02zEXseL_P1-kE3XZ-Ehql_XwfA-ig3gp8pExHrz0Rbn45V1gJQu-yFLn4meBzGRQnoa15hL8ouz_u6OGmF5A3UPQ3HiVE6jCvKVXYUhxB07nbEwe6WC20a51GbKCpJKMGcQYHNj5VAYYn6AS8c-8Vs7Eog7tsAUy"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxbwhpiKJdRM76yEhKU_CuGOOs9u9CnfY_SUQy2sGbmJNmbHXPDBDCCeBLf8uXE1OStXfRYqR8fJ1r9nYHtiGTj0NptoUkUPMbchtQkCBP8MZSVTuDFtAAAbEquB7-ez4chdDCZC7N4c96XVkd9SjJa6GAP95CalCV7LTmeUS_TAivfyk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH30-H3Q8dIwHP0P83GFLaG8pitKDSu3pUNa1pGd6nVEMfpV7oJSmi2gG9yHMaJshRjKAML5CiukQsaWN7I9l5tTFwL5_hTDY3xQi4VekEnCibfWektjeL_BuAhtdtZwDkCpMfsCQ="
@@ -23,17 +23,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbQPbcRF3CJ7VHNURW6mtnub50v6i60CA5BNM3qWrE2STRYpb-_apTQw9ywpwu_WfFFmjQWymhu3Zsow2Kr7a6pwdh8W1SYDI2vmU9dZJlpMRddsich_e_jVbvbeXERPVFuT-ZPU2W96Wd8_C1p_yzFJIE5aOjAA-kvu9eitQGQAXASLRKcNYO64mpwxXxHEXO20o_3vKmUAUDfA=="
 game: unknown
 hero_image: /img/best-weapons-for-dps-in-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-weapons-for-dps-in-nte/inline-1.webp
   - /img/best-weapons-for-dps-in-nte/inline-2.webp
   - /img/best-weapons-for-dps-in-nte/inline-3.webp
   - /img/best-weapons-for-dps-in-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your damage output in the supernatural urban sprawl of Hethereau requires more than just high-level Espers; you need the right Arcs to scale your combat efficiency. This guide breaks down the best weapons for DPS in Neverness to Everness (NTE) to help you dominate the current May 2026 meta.
 
@@ -78,7 +78,7 @@ For players who are Free-to-Play (F2P) or haven't had luck with the Arc Research
 | **Song of the Whale** | S-Rank | Plasma | 27.5% ATK | Deep Blue Sorrow |
 
 ### Best F2P DPS Alternatives
-If you are saving your Tri-Keys for future banners, focus on these accessible options:
+If you are saving your Tri-Keys for future banners, focus on these accessible options
 *   **Dangerous Game (A-Rank/Synthesis):** Excellent for breaking enemy resistance quickly, increasing Break Intensity by up to 84 at max refinement.
 *   **First Step to Success (B-Rank/Solid):** Despite its lower rarity, its "Noros" effect provides a consistent 12-16% ATK boost whenever you cast a Redirect Skill, which is essential for most DPS rotations.
 *   **Day Off (S-Rank/Solid):** A farmable S-Rank Arc that provides reliable general DPS stats, making it a great placeholder for Zero or other Solid-type attackers.
@@ -96,7 +96,7 @@ The current power gap between S-Tier and A-Tier Arcs in NTE is largely due to th
 This Arc is designed for the current meta-queen, Nanally. Its passive, **Commander Tiger Talisman**, functions through a two-step trigger. Using a Redirect Skill grants a "Left Tiger Talisman," while an Ultimate grants a "Right Tiger Talisman." If both are obtained within 15 seconds, you unlock the full Commander effect, which increases damage dealt to boss units by 10% (at T1). Additionally, it provides a base 15% ATK increase and a 15% buff to Basic Attack and Critical Riposte damage. For a follow-up specialist like Nanally, these layers of multipliers are incomparable.
 
 **Camellia Society (Synthesis)**
-This is the highest-scaling Synthesis weapon in the game. Its **Silent Garden** passive increases CRIT DMG by 12% whenever the wearer’s HP is reduced without taking direct damage (e.g., through kit-based HP consumption), stacking up to 4 times. At max stacks, you are looking at a 48% CRIT DMG boost. Furthermore, it triggers random high-damage Incantation bursts:
+This is the highest-scaling Synthesis weapon in the game. Its **Silent Garden** passive increases CRIT DMG by 12% whenever the wearer’s HP is reduced without taking direct damage (e.g., through kit-based HP consumption), stacking up to 4 times. At max stacks, you are looking at a 48% CRIT DMG boost. Furthermore, it triggers random high-damage Incantation bursts
 *   **Harsh Rebuke:** 5 instances of 24% ATK damage.
 *   **Incessant Nagging:** 6 instances of 18% ATK damage, with the final hit dealing double damage.
 
@@ -128,7 +128,7 @@ When choosing between two Arcs of the same type, always prioritize the substat t
 Beyond the weapon itself, your damage in Neverness to Everness is influenced by the characters you choose and the secondary gear systems that support your Arcs.
 
 ### Top DPS Characters in the Current Meta
-To make the most of the Arcs listed above, you should pair them with the following high-tier Espers:
+To make the most of the Arcs listed above, you should pair them with the following high-tier Espers
 *   **Nanally (S-Rank/Plasma):** The current apex DPS. Her follow-up attack frequency and "Ichi-daime's Authority" state make her the best user for **Ready-Ready**.
 *   **Jiuyuan (S-Rank/Synthesis):** A powerful Synthesis carry who excels in high-intensity combat and benefits immensely from the CRIT DMG scaling of **Camellia Society**.
 *   **Baicang (S-Rank/Synthesis):** Another top-tier Synthesis choice, often used for his high burst potential and synergy with HP-manipulation Arcs.
@@ -146,10 +146,10 @@ The **Console** and **Cartridge** system provides the final layer of stat custom
 
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-all-arcs-weapons-stats-and-effects-guide-breakdown-for-newbies
 - icy-veins.com — https://www.icy-veins.com/nte/arcs/database
-- gmtreks.com — https://gmtreks.com/nte/arcs/list-of-all-arcs-weapons-database
+- gmtreks.com
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-weapon-tier-list-guide.html
 - gamewith.net — https://gamewith.net/nte/article/show/47255
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-arc-tier-list/
+- thegamer.com
 - gosugamers.net — https://www.gosugamers.net/news/69829-here-are-all-the-neverness-to-everness-nte-launch-characters-and-how-to-obtain-them
 - fandom.com — https://neverness-to-everness.fandom.com/wiki/Nanally
-- kaiden.gg — https://kaiden.gg/nte/characters/nanally-guide/
+- kaiden.gg

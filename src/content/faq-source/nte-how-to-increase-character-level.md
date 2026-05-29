@@ -1,4 +1,4 @@
----
+--
 title: How to Increase Character Level in Neverness to Everness (NTE)
 slug: nte-how-to-increase-character-level
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-increase-character-level/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-increase-character-level/inline-1.webp
   - /img/nte-how-to-increase-character-level/inline-2.webp
   - /img/nte-how-to-increase-character-level/inline-3.webp
   - /img/nte-how-to-increase-character-level/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Scaling your Espers is the most effective way to survive the supernatural anomalies and high-threat containment zones scattered throughout Hethereau City.
 
@@ -85,7 +85,7 @@ To apply these guides, open the Esper menu and click the "Enhance" or "+" button
 
 Once an Esper reaches their current maximum level (initially Level 20), their EXP bar will turn gold, and you will no longer be able to apply Hunter Guides. To continue, you must click the **Breakthrough** button. This screen will list several required items. 
 
-Breakthroughs generally require:
+Breakthroughs generally require
 1.  **Beetle Coins:** The cost increases significantly at higher tiers.
 2.  **Common Mob Drops:** Items like [Information not yet publicly available as of 2026-05-22] which are found by defeating standard enemies in the city.
 3.  **Specialized Boss Materials:** Dropped by world bosses or Anomaly Hunt targets.
@@ -121,7 +121,7 @@ Every time you claim rewards from Houdinii's Magic Stage or an Anomaly Hunt, you
 
 ### Leveling Priority: Which Espers to Focus On First
 
-Resources in NTE are finite, especially Beetle Coins during the mid-game (Levels 40-60). You should avoid leveling every character you pull from banners like "The Ichi-daime." Instead, follow this priority:
+Resources in NTE are finite, especially Beetle Coins during the mid-game (Levels 40-60). You should avoid leveling every character you pull from banners like "The Ichi-daime." Instead, follow this priority
 
 1.  **Main Damage Dealer (DPS):** This character should always be at the maximum possible level allowed by your Appraisal Level. Their damage scales most heavily with base stats.
 2.  **Sub-DPS:** Keep them within 5-10 levels of your main DPS. They provide necessary elemental reactions and off-field damage.
@@ -162,6 +162,6 @@ The Awakening system is the NTE version of a "constellation" or "duplicate" syst
 
 - Neverness to Everness Official Site — https://nte.hotta.games/
 - Game8 Neverness to Everness Guide Hub — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Section — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Section
 - Neverness to Everness Reddit Community — https://www.reddit.com/r/NTE_Official/
 - IGN: Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/

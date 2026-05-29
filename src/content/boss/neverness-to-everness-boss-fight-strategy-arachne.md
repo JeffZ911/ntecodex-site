@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Boss Fight Strategy: Beat The Never-Ending Arachne"
 slug: neverness-to-everness-boss-fight-strategy-arachne
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/neverness-to-everness-boss-fight-strategy-arachne
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-boss-fight-strategy-arachne/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-boss-fight-strategy-arachne/inline-1.webp
   - /img/neverness-to-everness-boss-fight-strategy-arachne/inline-2.webp
   - /img/neverness-to-everness-boss-fight-strategy-arachne/inline-3.webp
   - /img/neverness-to-everness-boss-fight-strategy-arachne/inline-4.webp
   - /img/neverness-to-everness-boss-fight-strategy-arachne/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Conquering the most challenging urban anomalies requires a blend of precise timing and a deep understanding of the Esper Cycle. This guide provides the definitive strategy for taking down the Never-Ending Arachne, the formidable weekly boss guarding the New Herland District.
 
@@ -112,7 +112,7 @@ Prioritize positioning over DPS during the spotlight phase. The spotlights move 
 
 ### Optimal Rotation for the Break Window
 
-Once the Break Bar is depleted, the boss will collapse. This is your window for maximum burst. The optimal rotation involves:
+Once the Break Bar is depleted, the boss will collapse. This is your window for maximum burst. The optimal rotation involves
 1.  **Buffer Entry:** Switch to [Sakiri](/characters/sakiri-nte-free-5-star-guide) to apply ATK buffs.
 2.  **Elemental Setup:** Use [Hotori](/characters/hotori-best-team-nte) to apply elemental statuses and trigger the Esper Cycle.
 3.  **Main DPS Burst:** Switch to [Nanally](/characters/nanally-guide-nte). Use her Time Stop ability to freeze the boss's recovery timer, then unleash her full skill rotation.
@@ -179,6 +179,6 @@ Once you have collected enough Sleeves, prioritize upgrading Nanally’s "Time S
 
 - Neverness to Everness Official Website — https://www.nevernesstoeverness.com/
 - Game8 NTE Wiki — https://game8.jp/nte
-- Prydwen Institute NTE Guide — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Guide
 - IGN Neverness to Everness Boss Guides — https://www.ign.com/games/neverness-to-everness
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/

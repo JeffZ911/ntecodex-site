@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Elemental Resonance Guide: Every Esper Cycle Reaction"
 slug: nte-character-elemental-resonance-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-elemental-resonance-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-elemental-resonance-guide/inline-1.webp
   - /img/nte-character-elemental-resonance-guide/inline-2.webp
   - /img/nte-character-elemental-resonance-guide/inline-3.webp
   - /img/nte-character-elemental-resonance-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 To maximize your damage output in the supernatural urban sprawl of Hethereau, understanding the intricacies of the Esper Cycle is mandatory for every player. This nte character elemental resonance guide breaks down how to chain elements, trigger powerful Duo and Trio reactions, and build team "lanes" that dominate the 1.0 meta.
 
@@ -134,7 +134,7 @@ Every character in NTE possesses a unique Esper Passive. These passives often bu
 
 ### Character Element Categorization
 
-To build your lanes effectively, refer to the following categorization of popular characters as of May 2026:
+To build your lanes effectively, refer to the following categorization of popular characters as of May 2026
 
 *   **Cosmos:** Zero
 *   **Anima:** Nanally, Jiuyuan
@@ -161,5 +161,5 @@ When selecting your team, ensure you aren't picking elements that are too far ap
 - Neverness to Everness Wiki (Game8) — https://game8.jp/nte
 - NTE Combat Mechanics Overview (IGN) — https://www.ign.com/guides/neverness-to-everness
 - Neverness to Everness Subreddit — https://www.reddit.com/r/NTE_Official/
-- NTE Character Database — https://www.prydwen.gg/nte/characters/
+- NTE Character Database
 - Hotta Studio Official Discord — https://discord.com/invite/nte

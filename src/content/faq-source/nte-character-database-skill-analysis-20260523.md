@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Database and Skill Analysis: Full Guide"
 slug: nte-character-database-skill-analysis-20260523
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-database-skill-analysis-20260523/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-database-skill-analysis-20260523/inline-1.webp
   - /img/nte-character-database-skill-analysis-20260523/inline-2.webp
   - /img/nte-character-database-skill-analysis-20260523/inline-3.webp
   - /img/nte-character-database-skill-analysis-20260523/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the supernatural urban landscape of Hethereau requires a deep understanding of the Espers under your command. This guide breaks down every character, element, and combat mechanic available in Neverness to Everness as of the May 2026 update.
 
@@ -32,7 +32,7 @@ Mastering the supernatural urban landscape of Hethereau requires a deep understa
 ![Question Restated](/img/nte-character-database-skill-analysis-20260523/inline-1.webp)
 
 
-Players arriving in Hethereau often find themselves overwhelmed by the complexity of the supernatural combat system and the diverse roster of Espers. The most common questions regarding the game's lineup include:
+Players arriving in Hethereau often find themselves overwhelmed by the complexity of the supernatural combat system and the diverse roster of Espers. The most common questions regarding the game's lineup include
 
 *   What are the playable characters currently available in Neverness to Everness (NTE)?
 *   How do character skills, ESP abilities, and the Esper Cycle work in combat?
@@ -79,7 +79,7 @@ The six Esper elements are not merely aesthetic; they dictate the flow of combat
 *   **Chaos:** Debuff-heavy elements focusing on void energy and disruption.
 *   **Psyche:** Mental energy used for buffs and tactical field manipulation.
 
-The interaction between these elements produces six core Duo Reactions:
+The interaction between these elements produces six core Duo Reactions
 
 | Reaction Name | Element Combination | Primary Effect |
 | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Every character in NTE follows a specific skill hierarchy. Understanding when to
 Beyond just pressing skills, NTE rewards mechanical skill through two specific systems: Parrying and Breaking.
 
 **The Esper Cycle Meter**
-The meter required to swap characters and trigger Intro Skills fills at different rates based on your actions:
+The meter required to swap characters and trigger Intro Skills fills at different rates based on your actions
 *   **Parries:** Successfully timing a block against an incoming attack provides an instant, significant fill to the Esper Meter.
 *   **Dodge Counters:** Dodging at the last second and following up with a Basic Attack provides a fast fill.
 *   **Standard Skills:** Using your Special Skill provides a moderate fill.
@@ -142,7 +142,7 @@ While every character is viable, the current meta heavily favors S-Rank units li
 Espers are equipped with "Arcs" (the game's weapon equivalent) and "Modules" (the artifact/gear system). Arcs are element-specific, meaning an Incantation character like Nanally must equip an Incantation-type Arc to receive stat bonuses. Modules provide set bonuses, such as increasing Break Efficiency or boosting Duo Reaction damage.
 
 ### Urban Life Guide
-Outside of combat, your characters possess "Life Skills." These are used in the city of Hethereau for various activities:
+Outside of combat, your characters possess "Life Skills." These are used in the city of Hethereau for various activities
 *   **Racing:** Certain characters have higher handling stats for the city's street racing circuits.
 *   **Delivery:** Speed-based characters excel at the courier mini-games.
 *   **City Tycoon:** Characters like Chiz provide bonuses to business management and passive income generation when assigned to urban properties.
@@ -155,5 +155,5 @@ Neverness to Everness uses a standard 90-pull pity system for S-Rank characters.
 *   IGN — https://www.ign.com/games/neverness-to-everness
 *   Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-characters-elements-roles
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
-*   Mobalytics — https://mobalytics.gg/blog/neverness-to-everness-characters-guide/
+*   Mobalytics
 *   BlueStacks — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html

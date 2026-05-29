@@ -1,4 +1,4 @@
----
+--
 title: "NTE Best Support Weapons Tier List: May 2026 Rankings"
 slug: nte-best-support-weapons-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-support-weapons-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-support-weapons-tier-list/inline-1.webp
   - /img/nte-best-support-weapons-tier-list/inline-2.webp
   - /img/nte-best-support-weapons-tier-list/inline-3.webp
   - /img/nte-best-support-weapons-tier-list/inline-4.webp
   - /img/nte-best-support-weapons-tier-list/inline-5.webp
   - /img/nte-best-support-weapons-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your support units is the fastest way to clear high-level Anomaly Zones and dominate the current endgame meta in Hesperia.
 
@@ -40,7 +40,7 @@ In the current May 2026 meta of Neverness to Everness (NTE), the effectiveness o
 
 Ranking support Arcs requires looking beyond raw Attack stats. In NTE, the "Esper Cycle" refers to the rhythm of switching between characters to trigger resonance effects and dump Ultimate abilities. A support weapon is only as good as its ability to accelerate this cycle.
 
-Our ranking criteria are built on three primary pillars:
+Our ranking criteria are built on three primary pillars
 
 1.  **Charge Efficiency (CE):** This is the most critical stat for any support. High CE allows characters to generate Ultimate energy faster. We prioritize Arcs that offer at least a 20% baseline increase to CE.
 2.  **Team-wide Buff Utility:** Arcs that provide "Aura" effects or post-Ultimate buffs (like ATK% or Elemental DMG% increases) to the entire squad are ranked significantly higher than those that only buff the wearer.
@@ -190,4 +190,4 @@ The introduction of the "Miracle Box" pity system is perhaps the biggest change 
 - Neverness to Everness Reddit — https://www.reddit.com/r/NTE_Official/
 - IGN: Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Weapon Tier List — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Arcs Database — https://www.prydwen.gg/nte/arcs/
+- Prydwen Institute: NTE Arcs Database

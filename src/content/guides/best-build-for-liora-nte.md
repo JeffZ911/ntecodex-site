@@ -1,4 +1,4 @@
----
+--
 title: Best Hathor (Liora) Build in Neverness to Everness (NTE)
 slug: best-build-for-liora-nte
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/best-build-for-liora-nte
 sources: []
 game: unknown
 hero_image: /img/best-build-for-liora-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-build-for-liora-nte/inline-1.webp
   - /img/best-build-for-liora-nte/inline-2.webp
   - /img/best-build-for-liora-nte/inline-3.webp
   - /img/best-build-for-liora-nte/inline-4.webp
   - /img/best-build-for-liora-nte/inline-5.webp
   - /img/best-build-for-liora-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Hathor dominates the current meta as a premier Lakshana damage dealer, providing unparalleled mobility and high-frequency burst damage for players who master her stack management. This guide provides the definitive Hathor build to maximize her potential in the high-speed urban combat of Hethereau.
 
@@ -123,7 +123,7 @@ When equipping your Street Boxer set, pay attention to the Module Placement on y
 
 ### Recommended Main and Sub-stats
 
-To reach the "Golden Ratio" of 1:2 (CRIT Rate to CRIT DMG), aim for the following stats on your cartridges:
+To reach the "Golden Ratio" of 1:2 (CRIT Rate to CRIT DMG), aim for the following stats on your cartridges
 
 1.  **Main Stats:** Lakshana DMG% (Slot 1), CRIT Rate or CRIT DMG (Slot 2, depending on your weapon), ATK% (Slot 3).
 2.  **Sub-stats Priority:** 
@@ -150,7 +150,7 @@ The "Charge" reaction is a trio-element synergy that occurs when you combine **L
 
 ### F2P Friendly Composition
 
-If you do not have Nanally or Haniel, Hathor can still excel with the starting roster:
+If you do not have Nanally or Haniel, Hathor can still excel with the starting roster
 
 *   **Hathor:** Burst DPS.
 *   **Zero (MC):** Cosmos support and Cycle management.
@@ -204,6 +204,6 @@ If you are still farming for the Street Boxer set, prioritize **ATK%** and **Lak
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Reddit: NTE Character Guides — https://www.reddit.com/r/NevernessToEverness/
-- Game8: Hathor Build & Best Weapons — https://game8.jp/nte/hathor-guide
-- Prydwen Institute: NTE Tier List and Mechanics — https://www.prydwen.gg/nte/characters/hathor
+- Game8: Hathor Build & Best Weapons
+- Prydwen Institute: NTE Tier List and Mechanics
 - IGN: Neverness to Everness Walkthrough — https://www.ign.com/games/neverness-to-everness

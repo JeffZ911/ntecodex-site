@@ -1,4 +1,4 @@
----
+--
 title: "NTE Early Boss Guide: How to Beat Headless Rider & More"
 slug: nte-how-to-beat-early-bosses-20260522-8506
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-how-to-beat-early-bosses-20260522-8506
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-beat-early-bosses-20260522-8506/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-beat-early-bosses-20260522-8506/inline-1.webp
   - /img/nte-how-to-beat-early-bosses-20260522-8506/inline-2.webp
   - /img/nte-how-to-beat-early-bosses-20260522-8506/inline-3.webp
   - /img/nte-how-to-beat-early-bosses-20260522-8506/inline-4.webp
   - /img/nte-how-to-beat-early-bosses-20260522-8506/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 To survive the supernatural streets of Hethereau, players must master the intricate combat systems of Neverness to Everness (NTE) before facing its first major hurdles. This guide provides the essential tactics needed to overcome the early world bosses and story encounters that define the opening hours of your journey.
 
@@ -136,7 +136,7 @@ Defeating these bosses is the primary way to upgrade your Arcs and progress your
 *   **Hethereau's Keeper:** Obtained from the Justice Executioner. This Arc provides a unique passive that increases defense based on the number of enemies nearby, making it perfect for tank-oriented characters like Adler.
 
 ### Farming Materials for Passive Upgrades
-Bosses also drop specific Anomaly Materials used in the "City Tycoon" upgrade tree. These upgrades provide passive bonuses such as:
+Bosses also drop specific Anomaly Materials used in the "City Tycoon" upgrade tree. These upgrades provide passive bonuses such as
 *   Increased Fons (currency) gain from city activities.
 *   Reduced stamina consumption while sprinting or climbing.
 *   Enhanced elemental reaction damage for the Esper Cycle.
@@ -156,5 +156,5 @@ By focusing on the Break Meter and mastering the timing of the Red Flash, these 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Boss Guides — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Combat Mechanics — https://www.ign.com/games/neverness-to-everness
-- Prydwen.gg NTE Database — https://www.prydwen.gg/nte/
+- Prydwen.gg NTE Database
 - Neverness to Everness Official Discord — https://discord.com/invite/nte

@@ -1,4 +1,4 @@
----
+--
 title: How to Unlock Shiyu Defense in Zenless Zone Zero (ZZZ)
 slug: how-to-unlock-shiyu-defense-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-13T06:26:11.378945+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-unlock-shiyu-defense-zzz/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-shiyu-defense-zzz/inline-1.webp
   - /img/how-to-unlock-shiyu-defense-zzz/inline-2.webp
   - /img/how-to-unlock-shiyu-defense-zzz/inline-3.webp
   - /img/how-to-unlock-shiyu-defense-zzz/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Shiyu Defense stands as the premier endgame challenge for Proxies looking to test their combat prowess and team synergy in Zenless Zone Zero. This high-difficulty mode requires players to clear waves of enemies within strict time limits to earn premium rewards, including Polychromes and rare enhancement materials.
 
@@ -32,7 +32,7 @@ Shiyu Defense stands as the premier endgame challenge for Proxies looking to tes
 ![Question Restated](/img/how-to-unlock-shiyu-defense-zzz/inline-1.webp)
 
 
-Players often find themselves looking for the Shiyu Defense entrance early in their journey, only to find the terminal inactive or the location inaccessible. To access this mode, you must satisfy several progression milestones. Specifically, Proxies need to know:
+Players often find themselves looking for the Shiyu Defense entrance early in their journey, only to find the terminal inactive or the location inaccessible. To access this mode, you must satisfy several progression milestones. Specifically, Proxies need to know
 
 *   What are the specific requirements to unlock Shiyu Defense in Zenless Zone Zero?
 *   At what point in the story does the Shiyu Defense challenge mode become available?
@@ -45,7 +45,7 @@ Unlocking this mode is not just about reaching a certain point in the narrative;
 ![Direct Answer](/img/how-to-unlock-shiyu-defense-zzz/inline-2.webp)
 
 
-To unlock Shiyu Defense in Zenless Zone Zero, you must meet the following requirements:
+To unlock Shiyu Defense in Zenless Zone Zero, you must meet the following requirements
 
 1.  **Reach Inter-Knot Level 35:** You must progress your account until you hit Level 35 and successfully promote your Proxy Reputation to "Certified Proxy."
 2.  **Complete the "Shiyu Defense" Commission:** This is a main side quest that appears in your schedule once the level requirement is met.
@@ -93,7 +93,7 @@ Shiyu Defense is divided into different "Node" categories, each serving a differ
 
 As you progress through the stages, the complexity of team building increases. Each stage features a "Frontline Resonance" or "Stage Buff" that provides massive bonuses to specific elements or combat styles (such as Daze application or Chain Attack damage).
 
-One of the most important milestones in Shiyu Defense is the transition from one team to multiple teams:
+One of the most important milestones in Shiyu Defense is the transition from one team to multiple teams
 *   **Stages 1–6:** Require only one team of three Agents.
 *   **Stages 7–10 (Stable):** Require two separate teams. You cannot use the same Agent on both teams for a single stage.
 *   **Critical Node Stage 5+:** As of recent updates, the final tiers of Critical Nodes now require three distinct teams to clear the various "fronts" of the simulation.
@@ -127,7 +127,7 @@ While both modes are located at Scott Outpost, they offer very different experie
 
 ### Tips for Clearing Stable Node Stage 10 to Unlock Critical Nodes
 
-Stable Node 10 is the final gatekeeper. To clear it, you need two well-invested teams. Focus on:
+Stable Node 10 is the final gatekeeper. To clear it, you need two well-invested teams. Focus on
 1.  **Leveling your DPS:** Ensure your primary damage dealers are at the maximum level allowed by your current Proxy Reputation.
 2.  **Disk Drive Sets:** Equip 4-piece and 2-piece sets that complement your Agent's kit.
 3.  **Bangboo Selection:** Don't overlook your Bangboo. In multi-team stages, having a Bangboo that matches your team's element (like Sharkboo for Ice teams) can significantly reduce clear times. Check a guide for best team comps for Shiyu Defense to see which Bangboo synergy works best for your roster.
@@ -143,7 +143,7 @@ If you find that a run is going poorly—perhaps an Agent was defeated or you mi
 ## Sources
 
 - Zenless Zone Zero Fandom: Shiyu Defense — https://zenless-zone-zero.fandom.com/wiki/Shiyu_Defense
-- Prydwen Institute: ZZZ Shiyu Defense Guide — https://www.prydwen.gg/zenless-zone-zero/guides/shiyu-defense
+- Prydwen Institute: ZZZ Shiyu Defense Guide
 - Game8: How to Unlock Shiyu Defense — https://game8.co/games/Zenless-Zone-Zero/archives/459700
 - Official Zenless Zone Zero Website — https://zenless.hoyoverse.com/en-us/news
-- TopUpLive: ZZZ Unlock Requirements — https://www.topuplive.com/blog/Zenless-Zone-Zero-Shiyu-Defense-Unlock-Guide
+- TopUpLive: ZZZ Unlock Requirements

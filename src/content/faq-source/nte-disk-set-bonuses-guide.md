@@ -1,4 +1,4 @@
----
+--
 title: "NTE Disk Set Bonuses Guide: Best Cartridge & Module Sets"
 slug: nte-disk-set-bonuses-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-disk-set-bonuses-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-disk-set-bonuses-guide/inline-1.webp
   - /img/nte-disk-set-bonuses-guide/inline-2.webp
   - /img/nte-disk-set-bonuses-guide/inline-3.webp
   - /img/nte-disk-set-bonuses-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing gear in Neverness to Everness (NTE) requires a departure from traditional gacha equipment systems. Instead of simply equipping a set of items, players must engage with a spatial puzzle mechanic known as the Console. This system involves slotting a central Cartridge and surrounding it with geometric Modules to unlock powerful combat bonuses.
 
@@ -32,7 +32,7 @@ Optimizing gear in Neverness to Everness (NTE) requires a departure from traditi
 ![Question Restated](/img/nte-disk-set-bonuses-guide/inline-1.webp)
 
 
-Understanding the gear progression in Neverness to Everness involves several layers of complexity. Players frequently ask:
+Understanding the gear progression in Neverness to Everness involves several layers of complexity. Players frequently ask
 
 *   **What are the Disk (Cartridge) set bonuses in Neverness to Everness?** These are the primary stat and effect modifiers that define an Esper's combat role.
 *   **How do you activate the 2-piece and 4-piece Legendary effects?** Unlike other games where you just wear four items, NTE requires specific spatial arrangements on a grid.
@@ -81,14 +81,14 @@ Modules come in various geometric shapes. To unlock the Legendary (4-piece) effe
 
 Legendary effects are the most powerful passives in the game. They often change how a character is played. For instance, the **Lost Radiance** set's DEF ignore is essential for clearing high-level Anomaly Zones where enemy armor scaling becomes a significant hurdle. 
 
-To activate these:
+To activate these
 1.  **Check the Cartridge Requirements:** View the "Resonance" tab on your Cartridge.
 2.  **Match the Geometry:** Use the Module inventory to find shapes that fit the empty spaces around the central Cartridge.
 3.  **Color Coding:** Some high-tier Cartridges also require Modules of a specific color (Type) to be placed in specific quadrants of the grid.
 
 ### Complete Cartridge Set List & Effects (Version 1.0)
 
-As of the current patch, the following sets are the most prevalent in the meta:
+As of the current patch, the following sets are the most prevalent in the meta
 
 *   **Lost Radiance:**
     *   **2-pc:** +15% ATK.
@@ -127,7 +127,7 @@ The most efficient players keep a wide variety of "trash" Modules in their inven
 
 ### Where to Farm: Anomaly Zones and the Rewind System
 
-Farming gear in NTE is divided into two distinct activities:
+Farming gear in NTE is divided into two distinct activities
 
 1.  **Anomaly Zones (The Rabbit Hole):** This is the primary source of Cartridges. Each "Floor" or "Zone" of the Rabbit Hole drops specific sets. For example, the "Neon District Anomaly" is the best place to farm the **Lost Radiance** set. You consume **Stamina** (Energy) to claim rewards here.
 2.  **The Rewind System:** Modules are often obtained as side-drops in Anomaly Zones, but the **Rewind** system is how you perfect them. By using **Carrotas**—a currency earned through daily missions and recycling unwanted gear—you can "Rewind" a Module. This process allows you to reroll either its sub-stats or its geometric shape. 
@@ -141,7 +141,7 @@ Progression in NTE is gated by your **Hunter Level**. Before Hunter Level 30, it
 ![Related](/img/nte-disk-set-bonuses-guide/inline-4.webp)
 
 
-To further improve your Esper builds, consider exploring our other NTE resources:
+To further improve your Esper builds, consider exploring our other NTE resources
 
 *   **Best Arcs (Weapons) for NTE Characters:** A guide on matching your Cartridge sets with the right weapons.
 *   **NTE Elemental Reactions (Esper Cycles) Explained:** Learn how to trigger "Collapse" and "Resonance" effects.
@@ -150,7 +150,7 @@ To further improve your Esper builds, consider exploring our other NTE resources
 
 ## Sources
 
-- games.gg — https://games.gg/neverness-to-everness/gear-guide-cartridges-modules/
-- kaiden.gg — https://kaiden.gg/nte/console-system-explained/
-- ntewiki.org — https://ntewiki.org/wiki/Cartridge_Sets_and_Bonuses
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/45821
+- games.gg
+- kaiden.gg
+- ntewiki.org
+- gamewith.net

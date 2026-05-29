@@ -1,4 +1,4 @@
----
+--
 title: "Best 5-Star Disk Sets in NTE: Top Cartridges & Modules Guide"
 slug: best-5-star-disk-sets-nte-20260516
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T03:46:04.073291+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-5-star-disk-sets-nte-20260516/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-disk-sets-nte-20260516/inline-1.webp
   - /img/best-5-star-disk-sets-nte-20260516/inline-2.webp
   - /img/best-5-star-disk-sets-nte-20260516/inline-3.webp
   - /img/best-5-star-disk-sets-nte-20260516/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your character's potential in Neverness to Everness requires a deep understanding of the Cartridge and Module system, often referred to by the community as "Disks."
 
@@ -40,7 +40,7 @@ Cartridges provide the set bonuses (2-piece and 4-piece) that define a character
 
 ### The Importance of 5-Star S-Rank Sets
 
-In NTE, rarity dictates more than just the magnitude of the stats. While 4-star (A-Rank) Cartridges are useful for the mid-game, 5-star (S-Rank) sets are essential for late-game content for several reasons:
+In NTE, rarity dictates more than just the magnitude of the stats. While 4-star (A-Rank) Cartridges are useful for the mid-game, 5-star (S-Rank) sets are essential for late-game content for several reasons
 
 1.  **Higher Level Cap:** S-Rank Cartridges can be leveled up to 20, whereas A-Rank pieces cap out earlier, significantly limiting their total stat contribution.
 2.  **Sub-stat Unlocks:** S-Rank pieces unlock additional sub-stat slots at levels 5, 10, 15, and 20.
@@ -103,7 +103,7 @@ Not every encounter in NTE is a DPS race. Some high-level "Rewind" challenges re
 
 The Cartridge set bonus is only half of the equation. Each character has a **Console** with a specific grid shape. To activate the full potential of your 5-star Cartridges, you must fit **Modules** (Types II, III, and IV) into this grid.
 
-Modules come in different shapes:
+Modules come in different shapes
 *   **Type II:** Usually L-shaped or small blocks.
 *   **Type III:** Long, straight pieces (3-4 units long).
 *   **Type IV:** Large square or T-shaped blocks.
@@ -127,7 +127,7 @@ Obtaining S-Rank Cartridges is a multi-step process located primarily in the **N
 
 ### Cartridge Leveling Milestones and Sub-stat Unlocks
 
-Since NTE removes the RNG from stat values, the strategy lies in hitting specific leveling milestones. Every S-Rank Cartridge follows this progression:
+Since NTE removes the RNG from stat values, the strategy lies in hitting specific leveling milestones. Every S-Rank Cartridge follows this progression
 
 *   **Level 5:** First Sub-stat Unlocked (Fixed value based on Cartridge Type).
 *   **Level 10:** Second Sub-stat Unlocked.
@@ -145,7 +145,7 @@ To fully utilize your 5-star disk sets, you must pair them with the correct weap
 
 ### Advanced NTE Combat Guides
 
-The effectiveness of sets like **Devil's Blood: Curse** depends entirely on your mastery of the **Esper Cycle**. This is the system of elemental reactions in NTE. For example:
+The effectiveness of sets like **Devil's Blood: Curse** depends entirely on your mastery of the **Esper Cycle**. This is the system of elemental reactions in NTE. For example
 *   **Nova:** Triggered by combining Anima and [Information not yet publicly available as of 2026-05-16]. It creates a localized explosion that shreds enemy resistances.
 *   **Stain:** A reaction that applies a damage-over-time effect, which is then amplified by specific Cartridge bonuses.
 
@@ -153,7 +153,7 @@ Knowing which reaction your team focuses on will dictate whether you should farm
 
 ### Character Build Directories
 
-For more specific information on how to equip your favorite Espers, refer to our specialized guides:
+For more specific information on how to equip your favorite Espers, refer to our specialized guides
 *   **Nanally Build Guide:** Best Arcs for Nanally, including her signature weapon and the optimal Module layout for her Console.
 *   **Zero Optimization Guide:** How to maximize the DEF ignore from Lost Radiance using his unique passive stacks.
 *   **Mint Support Guide:** Using Speedy Hedgehog and Type IV Modules to ensure 100% Ultimate uptime.
@@ -164,5 +164,5 @@ For more specific information on how to equip your favorite Espers, refer to our
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Neverness to Everness Reddit Community — https://www.reddit.com/r/NTE_Official/
 - Game8 NTE Database — https://game8.co/games/NTE
-- Prydwen Institute NTE Gear Analysis — https://www.prydwen.gg/nte/guides/cartridge-system/
+- Prydwen Institute NTE Gear Analysis
 - IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/

@@ -1,4 +1,4 @@
----
+--
 title: "NTE Sub DPS Tier List: Best Off-Field Damage Dealers (May 2026)"
 slug: nte-sub-dps-tier-list
 game: nte
@@ -7,7 +7,7 @@ qa_score: 6.3
 word_count: 1652
 published_at: "2026-05-14T20:35:29.017578+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfsLpj6lnvyi-TnNTC6kMhvJkkM004pR7eBFy9V7YC3YQc9d5-dUiBp11r0PlY6JTW_ZqztScPcwyJklad58Fshy9Bed2g9P4Xa9iY0hKPRf1w0zdJZ2BSscTfoLIQRbfBaI-YjmVkbJNWS7GtoL4SqPaOSFuf_l2n"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFSViD9HVIDuvL4CpD0FpNz0pdKLJZcqCi19WpARdB4aekDI4MDcbYuKHDvX2GqpTcHqrg-PTkc8lU0XB7z3yWjEy035FJnquDlvQ1p6cSIbpA2kiNXjyGXotzP7NHEHRlH2IiOa0xF0x-sngOtX8fNS6JxV_yrCkbFlBDqikG8oNcQAPKpe_SkVR_o8fDlfVcRQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyFBBhRxnrdgqJ3bq1sEC3eBZ_imedKVemE8VzC1l7FxwX2IYtGfCPbO5Za6QC6_4lLxoz1-Vy437-zK-4m_z0Y-TqAX6GIFDonyllmuiSkKUpXiqWpYbEyN7Uj3mgcpWmvx1L6Mo="
@@ -24,21 +24,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTVH922dKAIDRJIboudVMwe65MsbteUwNPXIQIB1mn_YUrmSM25BeFS4ki4jzL_mOCNqtcdGZbyc-GSoUCf9pdMYfDFacrrChKDaJGDTXV-YSMWeX_iy23rTQN9sXAtXzv"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL2mUQBsgZnNJhIrRIv11mLWAxKNerceSfOMcmXbixbfx_CScuwhXCsBg3qFAG7LEfLEKV3zQ9gmbKEKMk-jOreDXmOqyG3qcExX3SPKqdOblMOm8F0vQDAZPg29oRCyAUzw1NBRBNNXfaAHyxGfhC_GKpDG0B"
 hero_image: /img/nte-sub-dps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-sub-dps-tier-list/inline-1.webp
   - /img/nte-sub-dps-tier-list/inline-2.webp
   - /img/nte-sub-dps-tier-list/inline-3.webp
   - /img/nte-sub-dps-tier-list/inline-4.webp
   - /img/nte-sub-dps-tier-list/inline-5.webp
   - /img/nte-sub-dps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Selecting the right off-field support can turn a difficult High Risk Commission into a smooth execution of the Esper Cycle.
 
@@ -65,7 +65,7 @@ High-tier content like High Risk Commissions features enemies with a white Stagg
 
 ### Resource Investment Priority
 
-We also consider how well a character scales with the current gear system. In Version 1.0, this includes:
+We also consider how well a character scales with the current gear system. In Version 1.0, this includes
 *   **Arcs:** The primary weapon system. We assess characters based on their compatibility with Solid, Liquid, Gas, Plasma, or Synthesis Arcs.
 *   **Cartridges:** The 4-piece gear sets that provide massive stat boosts.
 *   **Modules:** Shape-based stat fillers on the character's Console grid.
@@ -174,8 +174,8 @@ Additionally, recent balance adjustments to the Stagger Bar mechanics have made 
 ## Sources
 
 - ldshop.gg — https://www.ldshop.gg/news/nte-new-upcoming-characters-full-playable-character-list
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-break-mechanic-explained/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness/combat-basics-guide/
+- gamerant.com
+- mobalytics.gg
 - neverness.gg — https://neverness.gg/characters/
 - pockettactics.com — https://www.pockettactics.com/neverness-to-everness/characters
 - gamewith.net — https://gamewith.net/nte/article/show/47264

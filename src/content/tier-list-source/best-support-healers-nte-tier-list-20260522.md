@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Healers in Neverness to Everness: Tier List (May 2026)"
 slug: best-support-healers-nte-tier-list-20260522
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-healers-nte-tier-list-20260522/hero.webp
-inline_images:
+inline_images
   - /img/best-support-healers-nte-tier-list-20260522/inline-1.webp
   - /img/best-support-healers-nte-tier-list-20260522/inline-2.webp
   - /img/best-support-healers-nte-tier-list-20260522/inline-3.webp
   - /img/best-support-healers-nte-tier-list-20260522/inline-4.webp
   - /img/best-support-healers-nte-tier-list-20260522/inline-5.webp
   - /img/best-support-healers-nte-tier-list-20260522/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Survival in Hethereau's neon-soaked streets requires more than just raw firepower; it demands a team capable of weathering the supernatural storms of the Anomaly.
 
@@ -175,7 +175,7 @@ The release of Hotori on May 13 has fundamentally changed how players approach t
 
 ### Version 1.0.1 Balance Tweaks
 
-Patch 1.0.1, which went live alongside the Hotori banner, introduced several key adjustments to the support roster:
+Patch 1.0.1, which went live alongside the Hotori banner, introduced several key adjustments to the support roster
 *   **Adler:** Increased shield duration by [Information not yet publicly available as of 2026-05-22] seconds and reduced the cooldown of his primary defensive skill.
 *   **Edgar:** A slight reduction in Ultimate energy cost was implemented to help his uptime, though it hasn't been enough to move him out of C-Tier.
 *   **Nanally Banner Conclusion:** With "The Ichi-daime" banner ending, many players are now focusing on building the supports they pulled while chasing Nanally duplicates.
@@ -196,4 +196,4 @@ Staying ahead in Neverness to Everness requires balancing your resources between
 - IGN — https://www.ign.com/games/neverness-to-everness
 - Game8 Neverness to Everness Guide — https://game8.co/games/Neverness-to-Everness
 - Neverness to Everness Fandom Wiki — https://nevernesstoeverness.fandom.com/wiki/Neverness_to_Everness_Wiki
-- Prydwen Institute — https://www.prydwen.gg/nte/
+- Prydwen Institute

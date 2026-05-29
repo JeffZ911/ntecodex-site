@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for Support in Neverness to Everness: Tier List (2026)"
 slug: best-disks-for-support-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 1923
 published_at: "2026-05-16T18:03:36.339944+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwcPEfp_KgL7niAc1bjNrWn3F-uJPOjuX6f14dvbKCsDVomsL976oMy-64suL8KC7-tYhvSVTZRwwFrlAOolnti_XZk-pz_OA4VNu3isNM6R6VrLM9emw3ypAgUkXbbdIFb_62ZUyppn16nvCtTGb0dPE54EzzgHNJhPDf8AIBkTWz1Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBA-byh77094pZLn3lOTADTCad38NuU7u4f3cd6t1heTcEg1lsLhxLOwHmVR_Jrx7DSEkgSSS7zDM3zBE9ontvLZ9x9-XHiX-Zjj0ANRHA66LyNf21DbJ0Xa-K7LNCUpjNykZtakCfp_BmZMikAiEo-Mk7B1JG2euGYz-NVrk1WG26QEJZpY7rqQMDMP_8kPn7yvbwswp6X_05b2V-WvMi6HKWkJQ8Iw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCIoW2LblWdVpKcKoN2PN0eTXJbhMHh3CdK4QOdFzn5dwmrwCSv1AWeh2oT7ozOL0OG05EZjMdt8hds02Y2EbX--wiVHGySgzTdek4nS7htep02QynrU_j7mf3IKn2neBJ4DrfR0IXArBvd_Aa8mVIHPlUy_4swA="
@@ -19,21 +19,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYEu2dDRD0G62fvtVY6sGlaYJmqE-Irr5uvN1DslXsOMkGAEwAg--5En8WyGBXyUhQ20BSh-CyiGcR6uDkm6FQfYk_Vlz6PS9wB21s-tgyatYZ6RM6wprxA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO0FaRzFwzmbbLTlghJq0VKRAeonsx64cC-My6_mEdoHxq4ofgzjs0oagdd21XNbsm9oB_KMiYYlgJRNsjzNyPgo92MME93bX2OFdfhc7MeTdPXQQGQ9L7vwLmSA-1YbegzHBt35xz_5wZdAr_4tzhZSgLEhNGOfhwC-NYEPl34KnRr8JgJzESQbOBCsKGlwqsSAOh_SIv5BHL-k2MlUySETQHyQTWh0g8wtk8YXvsS8puy9yKfeyzAstpQVxqSg=="
 hero_image: /img/best-disks-for-support-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-for-support-nte/inline-1.webp
   - /img/best-disks-for-support-nte/inline-2.webp
   - /img/best-disks-for-support-nte/inline-3.webp
   - /img/best-disks-for-support-nte/inline-4.webp
   - /img/best-disks-for-support-nte/inline-5.webp
   - /img/best-disks-for-support-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 In the high-octane urban environment of Hethereau, your team's performance often hinges less on your main DPS and more on the utility provided by your support units. Mastering the Console system is essential for any Appraiser looking to tackle high-level Anomaly Zones following the global launch on April 29, 2026.
 
@@ -52,7 +52,7 @@ This tier list evaluates the current Disk meta for support roles, focusing on se
 
 This evaluation is based on extensive testing within the current 1.0.1 version of the game. We have analyzed each set's performance across various endgame activities, including "Beyond the Rails" and high-risk "Anomaly Commissions." Our rankings prioritize sets that offer universal utility or best-in-slot performance for the game's premier support characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide), Haniel, and Adler.
 
-The following criteria were used to determine placement:
+The following criteria were used to determine placement
 *   **Team-Wide Utility:** Does the set provide buffs (ATK%, DMG%) or debuffs (RES shred) that benefit the entire party?
 *   **Energy Economy:** How well does the set facilitate "Charge Efficiency" (Energy Regeneration) to ensure Ultimates are available on cooldown?
 *   **Esper Cycle Synergy:** Effectiveness in accelerating the swap-in mechanics triggered when a character’s portrait glows.
@@ -179,7 +179,7 @@ Hotori is a Cosmos-element support who utilizes time manipulation to extend the 
 
 ### Patch 1.0.1 Balance Adjustments
 
-The latest patch included several critical fixes and adjustments for support gear:
+The latest patch included several critical fixes and adjustments for support gear
 *   **Vanguard's Anthem Fix:** Resolved an issue where multiple instances of the 4-piece buff could cause unintended lag or visual glitches. The buff now correctly refreshes rather than stacking.
 *   **Anima Reaction Buff:** "Anima" reactions now grant a slight boost to the Esper Meter, making Cycle Synchronizer even more potent for Anima-heavy teams.
 *   **New Farming Locations:** High-rarity Modules and Cartridges can now be farmed more efficiently in the "Rabbit Hole" Anomaly Zone within the New Herland District. This zone has been optimized to drop more "Solid" and "Liquid" type Modules, which are required for the top-tier support sets.
@@ -197,11 +197,11 @@ By prioritizing the S-Tier sets and understanding the intricacies of the Console
 
 - GosuGamers — https://www.gosugamers.net/gaming/news/71618-neverness-to-everness-nte-release-date-finally-revealed-launching-in-april-2026
 - LagoFast — https://www.lagofast.com/en/blog/neverness-to-everness-release-date/
-- Neverness.gg Guides — https://neverness.gg/guides/cartridges-modules/
-- GameWith NTE Wiki — https://www.gamewith.net/neverness-to-everness/article/show/47285
+- Neverness.gg Guides
+- GameWith NTE Wiki
 - Neverness.gg Characters — https://neverness.gg/characters/
 - Mobalytics NTE Cartridges — https://www.mobalytics.gg/nte/cartridges
-- Dot Esports Console Guide — https://dotesports.com/neverness-to-everness/news/neverness-to-everness-console-guide-how-to-get-cartridges-and-modules
-- Kaiden.gg Patch Notes — https://kaiden.gg/nte-may-13-maintenance-hotori-banner-patch-notes/
-- Esports Tales NTE Birthdays — https://www.esportstales.com/neverness-to-everness/characters-ages-birthdays
+- Dot Esports Console Guide
+- Kaiden.gg Patch Notes
+- Esports Tales NTE Birthdays
 - Icy Veins NTE Characters — https://www.icy-veins.com/neverness-to-everness/characters-list

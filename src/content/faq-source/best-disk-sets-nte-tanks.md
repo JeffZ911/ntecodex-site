@@ -1,4 +1,4 @@
----
+--
 title: "Best Disk Sets for NTE Tanks: Top Defensive Builds & Stats"
 slug: best-disk-sets-nte-tanks
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T21:03:03.989242+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-disk-sets-nte-tanks/hero.webp
-inline_images:
+inline_images
   - /img/best-disk-sets-nte-tanks/inline-1.webp
   - /img/best-disk-sets-nte-tanks/inline-2.webp
   - /img/best-disk-sets-nte-tanks/inline-3.webp
   - /img/best-disk-sets-nte-tanks/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Surviving the supernatural anomalies of Hethereau requires more than just high damage; it demands a frontline that can withstand the most punishing Esper attacks. This guide breaks down the best disk sets for tanks in Neverness to Everness to ensure your team stays standing in Version 1.0.
 
@@ -155,8 +155,8 @@ Finally, tanks play a vital role in triggering Esper Cycles such as Nova and Dis
 ## Sources
 
 - Neverness to Everness Official Wiki — https://neverness.gg
-- Game8 NTE Guide Hub — https://game8.jp/nevernesstoeverness
-- Prydwen Institute: NTE Character Analysis — https://www.prydwen.gg/nte/
+- Game8 NTE Guide Hub
+- Prydwen Institute: NTE Character Analysis
 - IGN: Neverness to Everness Walkthrough — https://www.ign.com/games/neverness-to-everness
 - Official Neverness to Everness Discord — https://discord.com/invite/nte
 - Reddit r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/

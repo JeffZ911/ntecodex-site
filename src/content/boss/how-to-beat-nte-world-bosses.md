@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat World Bosses in Neverness to Everness: Full Guide"
 slug: how-to-beat-nte-world-bosses
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-15T17:57:07.001650+00:00"
 published_url: /boss/how-to-beat-nte-world-bosses
 sources: []
 hero_image: /img/how-to-beat-nte-world-bosses/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-nte-world-bosses/inline-1.webp
   - /img/how-to-beat-nte-world-bosses/inline-2.webp
   - /img/how-to-beat-nte-world-bosses/inline-3.webp
   - /img/how-to-beat-nte-world-bosses/inline-4.webp
   - /img/how-to-beat-nte-world-bosses/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Conquering the Anomalies of Hethereau requires more than just high-level gear; it demands a deep understanding of elemental lanes and stagger windows. This guide provides the tactical breakdown necessary to defeat the world bosses currently roaming the streets and outskirts of Neverness to Everness.
 
@@ -137,7 +137,7 @@ Defeating world bosses is the primary way to progress your characters in the mid
 Good Boy Stamps are a mandatory material for ascending characters beyond level 60. They drop exclusively from Morphix. At World Level 5, you can expect [Information not yet publicly available as of 2026-05-15] stamps per kill. Because world bosses require "Stamina" (Fons energy) to claim rewards, it is recommended to prioritize Morphix during the early weeks of a new patch to ensure your main team can reach the level cap.
 
 ### Rare Arc Drop Rates
-Arcs are the "weapons" or "equipment" of NTE. World bosses have a small chance to drop S-Class Arcs:
+Arcs are the "weapons" or "equipment" of NTE. World bosses have a small chance to drop S-Class Arcs
 - **Swallowtail Arc:** Best-in-slot for Jiuyuan, increasing Anima damage by [Information not yet publicly available as of 2026-05-15]%.
 - **Beat King Arc:** A universal support Arc that grants the entire team an ATK bonus after a Perfect Dodge.
 The drop rate for these is approximately [Information not yet publicly available as of 2026-05-15]%, making them a long-term farm for dedicated players.
@@ -154,5 +154,5 @@ By mastering the timing of the Toughness Bar break and ensuring your Elemental L
 - Neverness to Everness Official Site — https://nte.hotta.games/
 - Game8 NTE Boss Guide — https://game8.co/games/Neverness-to-Everness/
 - IGN: Neverness to Everness Combat Mechanics — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Character and Boss Database — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character and Boss Database
 - Reddit: r/NTE_Official Boss Strategy Thread — https://www.reddit.com/r/NTE_Official/

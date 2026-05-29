@@ -1,4 +1,4 @@
----
+--
 title: How to Unlock Multiplayer in Neverness to Everness (NTE)
 slug: how-to-unlock-multiplayer-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T06:20:30.770242+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-unlock-multiplayer-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-multiplayer-nte/inline-1.webp
   - /img/how-to-unlock-multiplayer-nte/inline-2.webp
   - /img/how-to-unlock-multiplayer-nte/inline-3.webp
   - /img/how-to-unlock-multiplayer-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Exploring the neon-drenched streets of Hethereau is a highlight of the experience, but the urban sprawl of Neverness to Everness (NTE) feels even more alive when you have a crew of friends riding shotgun in your customized vehicle.
 
@@ -55,7 +55,7 @@ To unlock multiplayer in Neverness to Everness, you must reach Hunter Level 8 an
 
 This process typically takes between 25 to 35 minutes of active gameplay focusing on the main narrative. If you ignore side distractions and focus entirely on the yellow "Main" quest markers, you can reach this milestone very quickly. Once these conditions are met, the "Multiplayer" app will automatically appear on the second page of your in-game phone menu.
 
-Multiplayer supports up to 4 players in a single session for world exploration, racing, and specific combat challenges. Below is a quick reference for the unlock requirements:
+Multiplayer supports up to 4 players in a single session for world exploration, racing, and specific combat challenges. Below is a quick reference for the unlock requirements
 
 | Requirement Category | Detail |
 | :--- | :--- |
@@ -76,7 +76,7 @@ Unlocking the ability to play with others is a straightforward process, but if y
 
 ### Reaching Hunter Level 8 Fast
 
-Hunter Level is your overall account progression rank, separate from the individual levels of your characters (Esper Level). To reach Hunter Level 8 quickly, you should prioritize the following activities:
+Hunter Level is your overall account progression rank, separate from the individual levels of your characters (Esper Level). To reach Hunter Level 8 quickly, you should prioritize the following activities
 
 1.  **Main Story Quests:** These provide the largest chunks of Hunter XP. Following the narrative from the opening sequence through the first encounter with the "Antique Shop" staff will get you most of the way to Level 8.
 2.  **City Navigation Tutorials:** Early tasks that teach you how to use the "Glider" or how to summon your first car provide small but frequent XP boosts.
@@ -95,7 +95,7 @@ The quest concludes after a scripted combat encounter in a warehouse district. O
 
 Neverness to Everness uses a UID (Unique Identifier) system to connect players across different platforms. Your UID is a 9-digit number located in the bottom-right corner of your screen at all times, and it is also visible at the top of your profile menu.
 
-To invite a friend:
+To invite a friend
 1.  Open your in-game phone (default key 'Esc' on PC or tapping the phone icon on mobile).
 2.  Swipe to the second page and tap the **Multiplayer** app.
 3.  Select the **Search** tab.
@@ -157,7 +157,7 @@ Similarly, the Antique Shop serves as a public-facing social space where you can
 
 ### Troubleshooting: Why Can't I Join My Friend?
 
-If you meet the Hunter Level 8 requirement but still cannot join a friend, check the following common issues:
+If you meet the Hunter Level 8 requirement but still cannot join a friend, check the following common issues
 
 1.  **Region Mismatch:** As mentioned, you must be on the same server.
 2.  **Update Version:** Ensure both players have the latest game patch installed.
@@ -175,4 +175,4 @@ For now, focus on reaching Level 8 and finishing the Prologue so you can start b
 
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-everness-multiplayer-co-op-explained
 - icy-veins.com — https://www.icy-veins.com/nte/guides/multiplayer-unlock-guide/
-- insider-gaming.com — https://insider-gaming.com/neverness-to-everness-everything-we-know/
+- insider-gaming.com

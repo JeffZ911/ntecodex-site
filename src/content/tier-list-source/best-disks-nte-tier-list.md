@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks in Neverness to Everness: NTE Disk Tier List (May 2026)"
 slug: best-disks-nte-tier-list
 game: nte
@@ -9,19 +9,19 @@ published_at: "2026-05-14T19:02:31.799074+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-disks-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-nte-tier-list/inline-1.webp
   - /img/best-disks-nte-tier-list/inline-2.webp
   - /img/best-disks-nte-tier-list/inline-4.webp
   - /img/best-disks-nte-tier-list/inline-5.webp
   - /img/best-disks-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Equipping the right Cartridges in your Console is the difference between struggling in Anomaly Zones and clearing the toughest urban threats in record time. 
 
@@ -164,8 +164,8 @@ Understanding these shifts is key to staying ahead in NTE. As the game evolves a
 ## Sources
 
 - neverness.gg — https://neverness.gg
-- prydwen.gg — https://www.prydwen.gg/nte/
-- kaiden.gg — https://kaiden.gg/nte/disks/
+- prydwen.gg
+- kaiden.gg
 - Official NTE Discord — https://discord.gg/nteofficial
 - Mobalytics NTE Guide — https://mobalytics.gg/nte/tier-list/disks
-- NTE Wiki — https://ntewiki.org/systems/cartridges
+- NTE Wiki

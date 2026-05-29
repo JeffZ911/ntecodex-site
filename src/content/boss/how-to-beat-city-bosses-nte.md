@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat City Bosses in Neverness to Everness: Full Guide"
 slug: how-to-beat-city-bosses-nte
 article_type: boss_guide
@@ -9,17 +9,17 @@ published_url: /boss/how-to-beat-city-bosses-nte
 sources: []
 game: unknown
 hero_image: /img/how-to-beat-city-bosses-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-city-bosses-nte/inline-1.webp
   - /img/how-to-beat-city-bosses-nte/inline-2.webp
   - /img/how-to-beat-city-bosses-nte/inline-3.webp
   - /img/how-to-beat-city-bosses-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
----
+--
 
 Conquering the supernatural anomalies within Hethereau City requires a deep understanding of the Break system and specific elemental counters. This guide provides the tactical data necessary to defeat the high-level city bosses currently roaming the districts of Neverness to Everness.
 
@@ -188,12 +188,12 @@ Repeatedly completing Anomaly Hunts also increases your **Appraisal Level**. A h
 ## Sources
 
 - ldshop.gg — https://ldshop.gg/neverness-to-everness-boss-guide
-- mobi.gg — https://mobi.gg/nte/guides/combat-mechanics-break-meter
+- mobi.gg
 - gamewith.net — https://gamewith.net/nte/article/show/45821
-- games.gg — https://games.gg/neverness-to-everness/boss-locations-map
+- games.gg
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-character-ascension-materials-guide
 - mobalytics.gg — https://mobalytics.gg/nte/tier-list/team-comps
-- kaiden.gg — https://kaiden.gg/nte/anomaly-hunt-rewards-table
-- ntegame.com — https://www.ntegame.com/en/news/combat-system-overview
+- kaiden.gg
+- ntegame.com
 - youtube.com — https://www.youtube.com/watch?v=nte-boss-mechanics-explained
 - youtube.com — https://www.youtube.com/watch?v=jiuyuan-daffodill-showcase

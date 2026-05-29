@@ -1,4 +1,4 @@
----
+--
 title: Best Dendro Reaction Team Comps in Genshin Impact (2026 Guide)
 slug: best-dendro-reaction-team-comps-genshin-impact
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-13T06:54:03.546317+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-dendro-reaction-team-comps-genshin-impact/hero.webp
-inline_images:
+inline_images
   - /img/best-dendro-reaction-team-comps-genshin-impact/inline-1.webp
   - /img/best-dendro-reaction-team-comps-genshin-impact/inline-2.webp
   - /img/best-dendro-reaction-team-comps-genshin-impact/inline-3.webp
   - /img/best-dendro-reaction-team-comps-genshin-impact/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Since its introduction in the Sumeru cycle, the Dendro element has fundamentally reshaped the combat landscape of Teyvat, offering some of the highest damage floors for both F2P players and whales alike.
 
@@ -34,12 +34,12 @@ Since its introduction in the Sumeru cycle, the Dendro element has fundamentally
 
 Understanding the current state of the elemental meta requires looking at how Dendro interacts with Hydro, Electro, and Pyro to produce high-frequency damage numbers. As of the 2026 meta, players are looking for the most efficient ways to clear the Spiral Abyss and high-level Natlan challenges using these green-number-heavy reactions. 
 
-The primary concerns for players today include:
+The primary concerns for players today include
 *   **What are the most effective Dendro-based team compositions in the current Genshin Impact meta?**
 *   **Which characters are essential for triggering high-damage reactions like Hyperbloom, Spread, and Burning?**
 *   **How have new characters like Kinich, Emilie, and [Information not yet publicly available as of 2026-05-13] changed the Dendro landscape?**
 
-The following tier list provides a snapshot of where specific Dendro reactions stand in the current 2026 power rankings:
+The following tier list provides a snapshot of where specific Dendro reactions stand in the current 2026 power rankings
 
 | Tier | Reaction Type | Primary Characteristics |
 | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ The 2026 meta heavily features Natlan characters who bring "Nightsoul" mechanics
 
 ### F2P Alternatives: Best Dendro Teams for Beginners
 
-You do not need a full roster of 5-star characters to utilize Dendro. The "F2P Hyperbloom" team is one of the strongest low-budget options in the game:
+You do not need a full roster of 5-star characters to utilize Dendro. The "F2P Hyperbloom" team is one of the strongest low-budget options in the game
 1.  **Dendro Traveler:** Provides consistent off-field Dendro via their Burst.
 2.  **Collei:** Adds more Dendro application and can use the Deepwood Memories set.
 3.  **Barbara:** Acts as the Hydro enabler and healer.
@@ -173,7 +173,7 @@ Energy Recharge (ER) is also a critical factor. Dendro Traveler and Baizhu both 
 
 ### Team Rotations for Maximum DPS
 
-To ensure the correct character triggers the reaction (and thus uses their high EM stat), follow this general sequencing:
+To ensure the correct character triggers the reaction (and thus uses their high EM stat), follow this general sequencing
 1.  **Dendro Application:** Use Nahida's Skill or Traveler's Burst to mark enemies.
 2.  **Hydro Application:** Use Xingqiu or Yelan's Burst to start generating Dendro Cores.
 3.  **Buffs/Shields:** Switch to your defensive support (Zhongli, Baizhu, or Xilonen).
@@ -184,6 +184,6 @@ To ensure the correct character triggers the reaction (and thus uses their high 
 
 - Genshin Impact Fandom — https://genshin-impact.fandom.com/wiki/Dendro
 - Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact/archives/384795
-- Game Rant: Best Dendro Teams — https://gamerant.com/genshin-impact-best-dendro-teams-guide/
+- Game Rant: Best Dendro Teams
 - Reddit r/Genshin_Impact: Dendro Theorycrafting — https://www.reddit.com/r/Genshin_Impact/comments/16l6r9o/dendro_reactions_guide/
 - LDShop: Dendro Meta Analysis — https://www.ldshop.gg/news/genshin-impact-dendro-teams-guide/

@@ -1,4 +1,4 @@
----
+--
 title: "How to Farm NTE Currency: Best Ways to Get Annulith & Fons"
 slug: how-to-farm-nte-currency-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-farm-nte-currency-guide/hero.webp
-inline_images:
+inline_images
   - /img/how-to-farm-nte-currency-guide/inline-1.webp
   - /img/how-to-farm-nte-currency-guide/inline-2.webp
   - /img/how-to-farm-nte-currency-guide/inline-3.webp
   - /img/how-to-farm-nte-currency-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your resource income in Hethereau is the primary way to secure the best characters and luxury upgrades for your urban lifestyle. This guide provides the most efficient strategies for farming every major currency in Neverness to Everness.
 
@@ -32,7 +32,7 @@ Maximizing your resource income in Hethereau is the primary way to secure the be
 
 Players arriving in the supernatural metropolis of Hethereau often find themselves overwhelmed by the various denominations of money required to progress. Whether you are looking to pull for the latest limited character on "The Ichi-daime" banner or simply want to purchase a new high-end sports car, understanding where to focus your time is essential.
 
-Effective farming requires answering three main questions:
+Effective farming requires answering three main questions
 *   What are the most efficient ways to farm currency in Neverness to Everness?
 *   How do I distinguish between premium Annulith and lifestyle Fons?
 *   Where can I find daily and weekly tasks that reward gacha pulls?
@@ -43,7 +43,7 @@ The economy of Neverness to Everness is split into three distinct categories: pr
 
 ### The Difference Between Annulith, Fons, and Beetle Coins
 
-Before starting your farm, you must know what you are digging for:
+Before starting your farm, you must know what you are digging for
 
 1.  **Annulith:** This is the premium currency used primarily for purchasing "Warp" items to summon new characters and Arcs (weapons). It is the most valuable and scarcest resource.
 2.  **Fons:** The "lifestyle" currency. You use Fons to buy cars, furniture for your apartment, clothing, and items at the various shops throughout Hethereau. While it is more abundant than Annulith, high-end luxury items require millions of Fons.
@@ -139,7 +139,7 @@ The Prime Circle is a weekly boss challenge. While it doesn't provide much Annul
 
 ### Resource Conversion: Using Warp Pieces and Lost Pieces
 
-When you perform summons (Warps), you will occasionally receive "Lost Pieces" (for duplicate lower-rarity pulls) or "Warp Pieces" (for higher-rarity duplicates). These can be traded in the Exchange Shop for:
+When you perform summons (Warps), you will occasionally receive "Lost Pieces" (for duplicate lower-rarity pulls) or "Warp Pieces" (for higher-rarity duplicates). These can be traded in the Exchange Shop for
 *   **Direct Annulith:** [Information not yet publicly available as of 2026-05-22].
 *   **Limited Warp Tickets:** Highly recommended to save your pieces for these.
 *   **Rare Upgrade Materials:** Only purchase these if you are in immediate need of a breakthrough and have an excess of pieces.
@@ -176,8 +176,8 @@ Maximizing your Fons per hour requires a specific balance of "Comfort" and "Flav
 
 ## Sources
 
-- lootbar.gg — https://www.lootbar.gg/blog/neverness-to-everness-release-date-platforms-and-gameplay-explained
-- gamerant.com — https://gamerant.com/neverness-to-everness-open-world-features-explained/
+- lootbar.gg
+- gamerant.com
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-all-we-know-so-far
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-everything-we-know/
-- dexerto.com — https://www.dexerto.com/gaming/neverness-to-everness-release-date-platforms-trailers-more-2826725/
+- thegamer.com
+- dexerto.com

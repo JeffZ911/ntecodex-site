@@ -1,4 +1,4 @@
----
+--
 title: "Best 5-Star Disk for NTE DPS: Top S-Rank Arcs Guide"
 slug: best-5-star-disk-nte-dps
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1799
 published_at: "2026-05-22T09:42:36.973088+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVgh9q5OAVPXgsXJHIeGPBrGwZW_6R8SOa1ccVVX3wIUkODtXKwUhQrqGve3UCaL1ySSYHhoVaCi6AOuEZ7LTZsdkD0lcLUEZvrCJoCMkVfGj9cujd2jhMxXvXvWe71orewOKob6rlMf69eCywLkwHTfXqf9zLAaxjOzTnAsvJMcNEQb4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhX5yLWVY73pknmOPHhWTx74Ymbff3iqHtu3Ctqtoa8g5s9EYv18Ag99lLIib0XWe9XqodqFJBTGwaKW_Tw81qxRaG5ArMx7drbTfd4dN5e-oqJHOaeomCynFcc8y_yoO5bcgmx08oMurEQsGrkc_jGt22fB7wJetFnqzVtRgyIo26MrFS-T7epb8gJoOmuCMDiCYgW0uHAaQk3dZSaQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq5kBs69cWfZQoJZXgn5Kg3GhVgOY8NBFWPkVUDQQq4alTY_POt7U2g6kgXLBb3R--G_DKePsi8v2q2z4TdJ5KKEr4MKUSPPnfnm7tfKHOfiCBv7BxjNs8mHsMPi4VLrD5tKiEfJg="
@@ -27,17 +27,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkpsUvNVekQtpopzRP1IPcPBEppupmW8c2UyqeNDynNm-lL_DZKlGyeXLnJR8jLOvdEG5Lf_o5DdDAkBJ1rIqOpwHUDkzR8-_mUmQ-Tr-b_v_F3dczYWn8x30XpigLTk6wW5XHAc4_UUZMyRlzgexasLgiNHGT7ZSSasvWiSF6WYy9PLQvF9i0"
 game: unknown
 hero_image: /img/best-5-star-disk-nte-dps/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-disk-nte-dps/inline-1.webp
   - /img/best-5-star-disk-nte-dps/inline-2.webp
   - /img/best-5-star-disk-nte-dps/inline-3.webp
   - /img/best-5-star-disk-nte-dps/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Choosing the right equipment in Neverness to Everness (NTE) is the difference between struggling against high-level Anomalies and effortlessly clearing the Hethereau endgame content. To maximize your damage output, you must understand how to optimize your S-Rank Arcs and Cartridge sets.
 
@@ -100,7 +100,7 @@ Another notable set is **Speedy Hedgehog**. While often used on supports, it can
 
 ### Optimizing the Console and Module Synergy
 
-The "Console" is where you slot your Cartridges and Modules (the tetris-like pieces that provide stats). Each character has a unique "Character-specific Module Bonus" that activates based on the shape and Type of modules you use:
+The "Console" is where you slot your Cartridges and Modules (the tetris-like pieces that provide stats). Each character has a unique "Character-specific Module Bonus" that activates based on the shape and Type of modules you use
 
 *   **Nanally's Module Bonus:** She gains a **6% CRIT Rate bonus** for every **Type II Module** (2-cell pieces) equipped on her Console. To optimize her, you should prioritize filling the remaining space on her board with Type II modules after you have activated your 4-piece Cartridge set.
 *   **Mint's Module Bonus:** Mint receives a **7.5% CRIT Rate bonus** for every **Type III Module** (3-cell pieces) used. This makes her one of the easiest characters to build for 100% CRIT Rate, as Type III modules are common and provide high base stats.
@@ -115,7 +115,7 @@ To obtain Modules, you must use the **Rewind** system found within the Console m
 
 ### Secret Quest Guide: How to Get the 'Day Off' Arc for Free
 
-You do not need to spend Annulith to get a top-tier S-Rank Arc for Zero. Follow these steps to obtain **Day Off** from the Bureau of Anomaly Control:
+You do not need to spend Annulith to get a top-tier S-Rank Arc for Zero. Follow these steps to obtain **Day Off** from the Bureau of Anomaly Control
 
 1.  Teleport to the Bureau of Anomaly Control (BAC) in Area M10.
 2.  Locate the NPC **Eclipse** standing in the corner near the energy ball. Speak with her to start the "Unfinished Business" hidden mission.
@@ -130,7 +130,7 @@ You do not need to spend Annulith to get a top-tier S-Rank Arc for Zero. Follow 
 
 ### Best A-Rank (4-Star) Alternatives
 
-If you haven't pulled an S-Rank Arc yet, there are several powerful 4-star options that can carry you through the mid-game:
+If you haven't pulled an S-Rank Arc yet, there are several powerful 4-star options that can carry you through the mid-game
 
 *   **Oraora!:** The best F2P option for Nanally. it provides a stacking Basic Attack DMG bonus that synergizes with her high-speed combo strings.
 *   **Song of the Whale:** A free A-Rank Arc obtained by defeating world bosses. It provides a 12% ATK boost and increases damage against "Broken" (staggered) enemies, making it excellent for elite encounters.
@@ -140,7 +140,7 @@ In terms of stat scaling, an S-Rank Arc at level 80 typically has ~512-570 Base 
 
 ### Sub-stat Priority for DPS Disks
 
-In the late-game "Hethereau" challenges, flat ATK falls off significantly compared to crit-based scaling. When rolling your Cartridges and Modules, prioritize stats in this order:
+In the late-game "Hethereau" challenges, flat ATK falls off significantly compared to crit-based scaling. When rolling your Cartridges and Modules, prioritize stats in this order
 
 1.  **CRIT DMG%:** Especially important if you are running the Fireflies set.
 2.  **CRIT Rate%:** Aim for at least 60-70% total CRIT Rate (including character and module bonuses).
@@ -149,7 +149,7 @@ In the late-game "Hethereau" challenges, flat ATK falls off significantly compar
 
 ### Team Compositions for Maximum DPS
 
-Your 5-star disks are only as good as the team supporting them. Support characters can provide buffs that multiply the effectiveness of your Arcs:
+Your 5-star disks are only as good as the team supporting them. Support characters can provide buffs that multiply the effectiveness of your Arcs
 
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Often used with the **Speedy Hedgehog** set to provide team-wide ATK buffs and grouping, allowing your main DPS to hit all enemies at once.
 *   **Haniel:** Provides massive shields and damage buffs. When paired with a DPS wearing the **Ready-Ready** Arc, she ensures the character can stay on the field to maintain their "Commander Tiger" stacks without being interrupted.
@@ -161,13 +161,13 @@ As of May 2026, the current Arcs are highly specialized. However, leaks regardin
 
 ## Sources
 
-- allthings.how — https://allthings.how/how-to-get-ready-ready-in-nte/
+- allthings.how
 - icy-veins.com — https://www.icy-veins.com/nte/characters/nanally-build-guide/
 - mobalytics.gg — https://mobalytics.gg/nte/characters/nanally/build
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-nanally-best-build-guide/
+- gamerant.com
 - sportskeeda.com — https://www.sportskeeda.com/esports/best-nanally-build-guide-neverness-everness-nte-arcs-team-comps
-- ntegame.com — https://ntegame.com/arcs/ready-ready/
+- ntegame.com
 - kaiden.gg — https://kaiden.gg/nte/cartridges/fireflies-and-the-forest/
-- neverness.gg — https://neverness.gg/guides/cartridges-and-modules-explained/
+- neverness.gg
 - escorenews.com — https://escorenews.com/en/neverness-to-everness/guide/how-to-get-secret-5-star-arc-weapon-day-off-in-neverness-to-everness
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-weapon-tier-list-arc-guide.html

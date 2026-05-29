@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for NTE Tank Characters: Top Cartridge Builds (2026)"
 slug: best-disks-nte-tank-characters-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 1475
 published_at: "2026-05-24T22:00:39.539472+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyzJhHifxZJFdTQxjrAXaZWFaAAjIoQlcQba4QfeLPuqDm5GwSyD_6fI3TQYKSuFAgJlIjlWEwf0O43EO7I8W4oaEgVbYBmX3C68i-QGZ_VTv6FpoGcQiFaaqHIE3RmovnPLL7nOSNFfU2GPNuFp9GU3dgGbHz-xZSeCO01gtZlQSMijM="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluC96ym30ySjmtzKUL7lH-UtIkWeZcfD1alVN9IBnk5doT35xVVNAY0Oy1dHgvLyQq6Zd_zmUEJJfx3aPkExO8bLgrvzenDORaoX6WIQrm4Ksr8sVcuiSrFksivSKfednXYghWRJvwQCmRKmXS-mwmA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP0SpsBKFcROx_lchM4J5bX8Is6G6JsKJt3Gt7KnNUq0N4GfSR98TXxkTVKgynr4HybFfZnH2t30zVa4pC3_WBVlVD1qSw7TMQIPlRB5nutWIBBmOhNavSgjasO9zPvyX_L3GwGto="
@@ -26,15 +26,15 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Vzb4NK7aVVx2FyCeWnukgi6xtqqSL2eaiuIB2snuFIigrhyZvxmqlZ5aSY_Y4rk7-_SghQ-pG1LNN5BT_ZO6V2TjuFpWIcztvdiXPYuWx_KAb5hL6iS4z_UKlCPQ3-pRhsy7Eg3mSnGecKxyTyMnRut35jk="
 game: unknown
 hero_image: /img/best-disks-nte-tank-characters-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-nte-tank-characters-guide/inline-1.webp
   - /img/best-disks-nte-tank-characters-guide/inline-3.webp
   - /img/best-disks-nte-tank-characters-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building a frontline that can withstand the chaotic anomalies of Hethereau requires more than just high levels; you need to master the interaction between Arcs and the Console system. This guide breaks down the best Disks and Cartridges for Neverness to Everness tank characters to ensure your team survives the toughest endgame content.
 
@@ -144,6 +144,6 @@ In the current 1.0 meta, the survival category is dominated by a few key names. 
 - Neverness to Everness Official Wiki — https://neverness.gg/
 - Icy Veins: Eternal Waltz Arc Guide — https://www.icy-veins.com/nte/weapons/eternal-waltz/
 - Kaiden.gg: Tiny Big Adventure Cartridge Details — https://kaiden.gg/nte/cartridges/tiny-big-adventure/
-- Prydwen.gg: Fadia Build and Team Comps — https://www.prydwen.gg/nte/characters/fadia/
+- Prydwen.gg: Fadia Build and Team Comps
 - GameWith: Speedy Hedgehog Set Effects — https://gamewith.net/nte/article/show/speedy-hedgehog-set-effects/
 - Escorenews: Top 5 Cartridges in NTE — https://escorenews.com/en/nte/guides/best-cartridges-abilities-neverness-to-everness/

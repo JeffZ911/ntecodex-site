@@ -1,4 +1,4 @@
----
+--
 title: Best Disks for Support in Neverness to Everness (NTE) Guide
 slug: best-disks-for-nte-support
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 10.0
 word_count: 1804
 published_at: "2026-05-19T16:23:23.322427+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo3rkBYB4UnHuOK1TaYNmI4TLIVw6WBFKaU_JFer39dLc1CclBy-G6EBMsoNetA2BtkeqOtWAqPmFXS1iIQbog94ZOrl3LxX5EnN6Um3GmkxAAlkhsWQUrOLwwRD09Bdk2"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ8EDo2vCmcXKUIxeMClFAmvf7z02PiVpueBMS4fG0f4sMjEv4RNYTJ6UTziHeiM98ugub5_PrzvnoVIZELFIx9ptW6avkebQNsxRfVERpwIBLV06cEaUs_BrTSiPzCny81O--IZ28W2_qxi2xIdnDdQ1fh3SXb3zf9neoI9CSaJwwqH-zavvIV5q-Fw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf1JvJQX_fAinmLzKY9OWYC119fVFBM37wItekbTuqQeG9nixHFNDuDp2Skmdqe_8AoXGKLYHpaMutzdvRMpF6FLyX-UvFznJad7gmN-0LFce_oPfWP8SPz_YfZIVdXggGtXMEa98rlA23BKrZBjpE98gA28qNQ4TW1Ii1fmvIYUrjbVrfhC7hyAYnejVTIb1RdYuqy8ySCz5AbL6tYNuH8JPWMRs="
@@ -34,17 +34,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_MafkxNruVcda5HRsfwZu8WO2XTq4uKMaLUMLQnCIMY1AUZ8yJYvkdn-yhYBqiCAUBDQxBILYeZvBJ-cyWy-IFH-zJY32-PDM1ZIJDqIiDoMF8W1uu7FZksaq_ihkSp-icvcGsH4="
 game: unknown
 hero_image: /img/best-disks-for-nte-support/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-for-nte-support/inline-1.webp
   - /img/best-disks-for-nte-support/inline-2.webp
   - /img/best-disks-for-nte-support/inline-3.webp
   - /img/best-disks-for-nte-support/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your support units with the correct gear is the fastest way to clear high-level Anomalies and boss encounters in Hethereau. This guide breaks down the best Arcs and Cartridge sets to maximize your team's utility and damage output.
 
@@ -59,7 +59,7 @@ Players often ask which "disks" they should equip on their support Espers to max
 
 Equipping support-oriented gear sets is essential for two reasons. First, they provide massive stat boosts, such as team-wide Attack (ATK) increases or enemy Defense (DEF) reduction, which allow your main DPS to reach their maximum damage ceiling. Second, they enhance survivability through shields and healing bonuses, ensuring your team can withstand the aggressive attack patterns of bosses like the Nestbound Bird or the Headless Rider.
 
-To get the most out of your roster, you must prioritize specific gear for top-tier supports:
+To get the most out of your roster, you must prioritize specific gear for top-tier supports
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Needs high Charge Efficiency and team ATK buffs.
 *   **Adler:** Requires DEF-scaling gear to strengthen his shields.
 *   **Edgar:** Relies on HP-scaling and healing bonus sets to keep the party healthy.
@@ -176,13 +176,13 @@ Upgrading your disks is essential for mid-to-late game progression.
 By focusing on the Speedy Hedgehog and Kingdom's Guard sets while equipping Arcs like Good Boy's Grand Adventure or Umbrella, you will create a support foundation capable of carrying your team through any challenge Hethereau has to offer.
 
 ## Sources
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-best-sakiri-build-team/
+- thegamer.com
 - sportskeeda.com — https://www.sportskeeda.com/esports/best-sakiri-build-guide-nte-neverness-everness-best-arcs-team-comps
-- games.gg — https://games.gg/neverness-to-everness/sakiri-build-guide/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47254
-- neverness.gg — https://neverness.gg/nte/sakiri-build-guide/
+- games.gg
+- gamewith.net
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/characters/adler-build-guide
-- prydwen.gg — https://www.prydwen.gg/nte/arcs/
-- dotesports.com — https://dotesports.com/neverness-to-everness/news/neverness-to-everness-console-guide-how-to-get-cartridges-and-modules
+- prydwen.gg
+- dotesports.com
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-all-arcs-weapons-stats-and-effects-guide/
 - kaiden.gg — https://kaiden.gg/nte/cartridges/speedy-hedgehog/

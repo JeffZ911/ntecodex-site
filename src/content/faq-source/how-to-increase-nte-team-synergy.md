@@ -1,4 +1,4 @@
----
+--
 title: "How to Increase NTE Team Synergy: Best Team Building Guide"
 slug: how-to-increase-nte-team-synergy
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-increase-nte-team-synergy/hero.webp
-inline_images:
+inline_images
   - /img/how-to-increase-nte-team-synergy/inline-1.webp
   - /img/how-to-increase-nte-team-synergy/inline-2.webp
   - /img/how-to-increase-nte-team-synergy/inline-3.webp
   - /img/how-to-increase-nte-team-synergy/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Success in the anomaly-filled streets of Hethereau depends on more than just raw power; it requires a deep mastery of the Esper Cycle to maximize every character swap.
 
@@ -49,7 +49,7 @@ Proper synergy directly impacts your "Break" efficiency. Most bosses in Hetherea
 
 Increasing team synergy in Neverness to Everness is primarily achieved by mastering the **Esper Cycle system**, which centers on swapping between characters with adjacent elements on the Elemental Wheel. To maximize efficiency, you must align your team based on the six core elements: **Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche**.
 
-A high-synergy team typically balances four specific roles:
+A high-synergy team typically balances four specific roles
 *   **Main DPS:** The primary damage dealer who stays on field the longest.
 *   **Sub-DPS:** A character who provides off-field damage or quick-burst utility.
 *   **Buffer/Support:** A character dedicated to filling the Cycle Meter or enhancing team stats.
@@ -94,7 +94,7 @@ Synergy isn't just about the order of characters; it's about how fast you can sw
 When an enemy flashes with a gold or red indicator, performing a perfectly timed dodge or skill-based parry will instantly fill a significant portion of the Cycle Meter. This allows for a "Forced QTE," where the next character in your synergy chain can enter the field with an empowered attack immediately, skipping the usual cooldowns.
 
 ### Building the Perfect 4-Slot Team: Roles and Archetypes
-A team with four DPS characters will have poor synergy because they will compete for field time and "Energy Particles." A synergized team follows a strict hierarchy:
+A team with four DPS characters will have poor synergy because they will compete for field time and "Energy Particles." A synergized team follows a strict hierarchy
 
 1.  **Main DPS (e.g., [Nanally](/characters/nanally-guide-nte), Zero):** This character is the "payoff." You spend the rest of your rotation setting up buffs and reactions so that when this character enters, they deal maximum damage.
 2.  **Sub-DPS (e.g., [Hotori](/characters/hotori-best-team-nte)):** These characters usually have "Lingering Skills" that stay on the field after they swap out, allowing them to contribute to reactions while the Main DPS is active.
@@ -102,7 +102,7 @@ A team with four DPS characters will have poor synergy because they will compete
 4.  **Sustainer (e.g., [Information not yet publicly available as of 2026-05-23]):** These characters ensure your rotation isn't interrupted by enemy attacks.
 
 ### Optimizing Gear and Consoles for Team-Wide Buffs
-Consoles (NTE’s version of equipment) often come with set bonuses that only trigger upon an Esper Cycle swap. To increase team synergy through gear:
+Consoles (NTE’s version of equipment) often come with set bonuses that only trigger upon an Esper Cycle swap. To increase team synergy through gear
 *   Equip your Support with the "Urban Resonance" set, which grants an ATK buff to the *next* character who swaps in.
 *   Equip your Main DPS with sets that increase damage against enemies affected by specific Duo Reactions (e.g., increased damage against "Hexed" enemies).
 *   Ensure your Sub-DPS has enough "Cycle Regen" to ensure their Ultimate is ready every time the rotation comes back to them.
@@ -143,7 +143,7 @@ As of May 23, 2026, the most anticipated addition is the rumored Psyche-element 
 
 ## Sources
 - ldshop.gg — https://www.ldshop.gg/news/neverness-to-everness-combat-mechanics-guide
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47281
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-team-building-synergy/
+- gamewith.net
+- mobalytics.gg
 - icy-veins.com — https://www.icy-veins.com/nte/guides/esper-cycle-elemental-reactions/
-- neverness.gg — https://neverness.gg/wiki/combat-systems-overview/
+- neverness.gg

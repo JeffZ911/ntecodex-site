@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Disk Set Guide: Best Cartridges & Modules"
 slug: neverness-to-everness-disk-set-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-disk-set-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-disk-set-guide/inline-1.webp
   - /img/neverness-to-everness-disk-set-guide/inline-2.webp
   - /img/neverness-to-everness-disk-set-guide/inline-3.webp
   - /img/neverness-to-everness-disk-set-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your Espers in Neverness to Everness requires a deep understanding of the Console system, a unique gear mechanic that blends traditional RPG stat-stacking with spatial puzzle-solving. This guide breaks down how to master the Tetris-like Module layout and which Cartridge sets will maximize your performance in the supernatural streets of Hesperia.
 
@@ -32,7 +32,7 @@ Optimizing your Espers in Neverness to Everness requires a deep understanding of
 ![Question Restated](/img/neverness-to-everness-disk-set-guide/inline-1.webp)
 
 
-Players transitioning from other urban open-world titles may find the gear progression in Neverness to Everness (NTE) significantly different due to its "Console" architecture. If you are looking to maximize your Esper's potential, you likely have several questions regarding the optimization of your loadout:
+Players transitioning from other urban open-world titles may find the gear progression in Neverness to Everness (NTE) significantly different due to its "Console" architecture. If you are looking to maximize your Esper's potential, you likely have several questions regarding the optimization of your loadout
 
 *   **What are Disk Sets (Cartridges and Modules) in Neverness to Everness?** These are the core equipment pieces that define an Esper's combat stats and passive abilities. Unlike traditional gear slots, they function as a unified system within the character's "Console."
 *   **How does the Console equipment system work for Espers?** The system relies on a spatial grid where a central Cartridge dictates the available bonuses, and various Modules must be physically fitted into a grid to activate those bonuses.
@@ -66,7 +66,7 @@ Every Esper has a Console that serves as their equipment motherboard. This mothe
 
 ### The Tetris Mechanic: How to Activate Set Bonuses
 
-Activating a set bonus is not as simple as clicking "Equip All." You must engage with the Tetris mechanic. Each Module shape corresponds to a specific number of tiles on the Console grid:
+Activating a set bonus is not as simple as clicking "Equip All." You must engage with the Tetris mechanic. Each Module shape corresponds to a specific number of tiles on the Console grid
 
 *   **Type I:** Usually a compact 2x2 square or a small L-shape.
 *   **Type II:** Often a 3-tile straight line or a T-shape.
@@ -77,7 +77,7 @@ To activate a 2-piece bonus, two Modules of the same set name as the Cartridge m
 
 ### Best Cartridge Sets for Every Role (DPS, Support, Tank)
 
-The following table outlines the top-tier Cartridge sets currently dominating the Hesperia meta:
+The following table outlines the top-tier Cartridge sets currently dominating the Hesperia meta
 
 | Set Name | Primary Role | 2-Piece Bonus | 4-Piece Bonus |
 | :--- | :--- | :--- | :--- |
@@ -141,6 +141,6 @@ By tailoring your Cartridge and Modules to these reactions, you can clear Rabbit
 
 *   Neverness to Everness Official Site — https://nte.hotta.studio/
 *   Game8 NTE Equipment Guide — https://game8.co/games/Neverness-to-Everness/
-*   Prydwen Institute: NTE Cartridge Database — https://www.prydwen.gg/nte/
+*   Prydwen Institute: NTE Cartridge Database
 *   Neverness to Everness Official Discord — https://discord.com/invite/nte
 *   IGN: Neverness to Everness Review and Mechanics — https://www.ign.com/games/neverness-to-everness

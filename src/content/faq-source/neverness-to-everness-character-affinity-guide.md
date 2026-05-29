@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Character Affinity Guide: Maximize Bonds"
 slug: neverness-to-everness-character-affinity-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1369
 published_at: "2026-05-20T17:02:42.802979+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK3iWojuy29k7Tq3uaVzl3R7JF2HBNV5CRIc_cDH70cZa_P5audANGa8bF3okhI6DnuFgODj4I0DyDkmF7M_KCCA6gqKXFL3wS_mtmW6YBSClDo9vsOjaHcUU6FiiU5_l9W9oNH0voXbCO87wM3ktfqXwTJFPugx-JXSvSEcH3_RgiH7SBgeqY90GuM_lA45U6ThuBgqE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCwSvAi_7GVdlFmGoWz94f12J8iL1Ogkyxs255y2ox-G96S5VbcASnGJxObSeG1NCqUD8QCsFzAF7w00GDXfpRynIDKcZKbqI3Z6cuctbjmWZBXizvzA553T7Mv9T1siufiVSSXM_gExVoFRx7fqQ0MkaNQzoGTrk1tK4VjSytnMa7gQV9ybUy_mz6mA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH_UwPntH5W3GVSZOFMX0c8fNLAJw-lHCNY1WiCuXzUx-DfP9XD-OTVaegeaOEAfNvr6uea6gqgX-5EOZQU0kaMgvZ6EVCcv3IYJ6szhQ0BB0RzouHYCVBFBj3xvGsNa5_v6r0rGipD7u7pFBJjOTqsqQJdssPPKU5pHCNYTg6INTUi3fEmeeq1iLKScGU0JqPjRZS2QXOmw=="
@@ -20,17 +20,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyerNEwOkHD2dMqrcWTgCZyVYxZg5lCSU8iMuCiDGUiw1NfvPf1XeyD80F7JgORSHx5A-wl16EcPgN5vVm_MID3yQbCTwUmaBauW5Up11VzSDcCrxOGz69mtYcYntPo2IWWk8oPpLAs4IqjHa2onRuBLcrzdsFwYkVHpQSfM7H9n0v6wbTut6c083q_U2rhp9DIqZ5XEVVUkDv5waImBX6Ynl9NQd1Je5GSz-2iETQnUKq3s8Dw=="
 game: unknown
 hero_image: /img/neverness-to-everness-character-affinity-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-affinity-guide/inline-1.webp
   - /img/neverness-to-everness-character-affinity-guide/inline-2.webp
   - /img/neverness-to-everness-character-affinity-guide/inline-3.webp
   - /img/neverness-to-everness-character-affinity-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Deepening your relationships with the supernatural residents of Hethereau is just as important as mastering the Esper Cycle in combat.
 
@@ -133,7 +133,7 @@ Raising Bond levels isn't just for lore enthusiasts; it provides tangible power 
 *   **Adler:** Receives a boost to his Shielding efficiency.
 *   **Sakiri:** [information unavailable]
 
-To maximize these gains, you should level up Esper Zero’s "Five-Star Paragon" life skill. This skill provides a tiered bonus to all AP gained from gifts:
+To maximize these gains, you should level up Esper Zero’s "Five-Star Paragon" life skill. This skill provides a tiered bonus to all AP gained from gifts
 *   **Tier 1:** +5% AP if Bond Level is 4 or below.
 *   **Tier 5:** +25% AP across all Bond Levels (maxed).
 
@@ -156,11 +156,11 @@ The current limited banner, "The Ichi-daime," featuring the S-Class Esper Nanall
 
 ## Sources
 
-- gamewith.net — https://www.gamewith.net/neverness-to-everness/article/show/bonds-guide
+- gamewith.net
 - sportskeeda.com — https://www.sportskeeda.com/esports/how-increase-bond-character-nte-neverness-everness
-- dotesports.com — https://dotesports.com/neverness-to-everness/news/neverness-to-everness-bonding-guide-and-romance-options
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-best-gifts-guide/
-- allthings.how — https://allthings.how/neverness-to-everness-best-gifts-bond-affinity-guide/
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/neverness-to-everness-bond-system-explained-2684123/
+- dotesports.com
+- gamerant.com
+- allthings.how
+- dexerto.com
 - icy-veins.com — https://www.icy-veins.com/nte/a-handwritten-letter-guide/
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/guides/beginner-guide/

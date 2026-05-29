@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Weekly Boss Guide: Arachne Strategy"
 slug: nte-weekly-boss-fight-strategy-arachne
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-weekly-boss-fight-strategy-arachne
 sources: []
 game: unknown
 hero_image: /img/nte-weekly-boss-fight-strategy-arachne/hero.webp
-inline_images:
+inline_images
   - /img/nte-weekly-boss-fight-strategy-arachne/inline-1.webp
   - /img/nte-weekly-boss-fight-strategy-arachne/inline-2.webp
   - /img/nte-weekly-boss-fight-strategy-arachne/inline-3.webp
   - /img/nte-weekly-boss-fight-strategy-arachne/inline-4.webp
   - /img/nte-weekly-boss-fight-strategy-arachne/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 High-Risk Anomalies in New Herland require more than just raw power; they demand a mastery of the Esper Cycle and perfect timing to survive.
 
@@ -98,7 +98,7 @@ Defeating Arachne requires a disciplined approach to cooldown management and pos
 
 ### How to Force a Stagger Break
 
-To end the fight quickly, you must focus on the Stagger Meter located beneath the boss's health bar. Standard attacks do very little to this bar. To force a Break, you should follow this rotation:
+To end the fight quickly, you must focus on the Stagger Meter located beneath the boss's health bar. Standard attacks do very little to this bar. To force a Break, you should follow this rotation
 1.  Apply the Anima status using Mint’s rapid dual-blade strikes.
 2.  Switch to a Psyche-type character to trigger the Resonance reaction.
 3.  Look for the overlapping warning rings during Arachne's Dash-Thrust attack. This is a "Parry Window." If you hit your skill button when the rings overlap, you deal massive posture damage, often instantly breaking the boss if her meter is already partially depleted.
@@ -174,7 +174,7 @@ The weekly reset occurs every Monday at 4 AM server time. Because the rewards sc
 
 ## Sources
 
-- TheGamer — https://www.thegamer.com/neverness-to-everness-everything-we-know/
+- TheGamer
 - Official Neverness to Everness Site — https://nte.hotta.studio/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
 - IGN Gaming News — https://www.ign.com/games/neverness-to-everness

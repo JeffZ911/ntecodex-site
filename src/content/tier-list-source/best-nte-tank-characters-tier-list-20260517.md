@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Tank Characters Tier List: Top Defenders Ranked"
 slug: best-nte-tank-characters-tier-list-20260517
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T09:05:45.252610+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-nte-tank-characters-tier-list-20260517/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-tank-characters-tier-list-20260517/inline-1.webp
   - /img/best-nte-tank-characters-tier-list-20260517/inline-2.webp
   - /img/best-nte-tank-characters-tier-list-20260517/inline-3.webp
   - /img/best-nte-tank-characters-tier-list-20260517/inline-4.webp
   - /img/best-nte-tank-characters-tier-list-20260517/inline-5.webp
   - /img/best-nte-tank-characters-tier-list-20260517/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Surviving the chaotic streets of Hethereau requires more than just high-octane damage; you need a front-line defender capable of weathering the storm of Anomalies. This guide ranks the best tank characters in Neverness to Everness (NTE) to help you build a squad that can withstand the game’s toughest endgame challenges.
 
@@ -177,6 +177,6 @@ By focusing on Fadia or Sakiri for your primary team, you ensure a level of safe
 
 - Neverness to Everness Official Site — https://nte.hotta.games/
 - Neverness to Everness Wiki (Game8) — https://game8.co/games/NTE
-- PC Gamer: NTE Launch Guide — https://www.pcgamer.com/games/rpg/neverness-to-everness-guide/
-- Prydwen Institute: NTE Character Tier List — https://www.prydwen.gg/nte/tier-list/
+- PC Gamer: NTE Launch Guide
+- Prydwen Institute: NTE Character Tier List
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/

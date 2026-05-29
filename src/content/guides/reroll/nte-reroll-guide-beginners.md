@@ -1,4 +1,4 @@
----
+--
 title: "NTE Reroll Guide for Beginners: Best Characters & Fastest Method"
 slug: reroll/nte-reroll-guide-beginners
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-15T07:01:22.810172+00:00"
 published_url: /guides/reroll/nte-reroll-guide-beginners
 sources: []
 hero_image: /img/nte-reroll-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-reroll-guide-beginners/inline-1.webp
   - /img/nte-reroll-guide-beginners/inline-2.webp
   - /img/nte-reroll-guide-beginners/inline-3.webp
   - /img/nte-reroll-guide-beginners/inline-4.webp
   - /img/nte-reroll-guide-beginners/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a powerful start in the urban supernatural world of Hethereau can significantly influence your early progression and long-term resource management. This Neverness to Everness (NTE) reroll guide provides the most efficient strategies to land top-tier S-rank characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) and Jiuyuan before you commit to your main account.
 
@@ -136,7 +136,7 @@ A standard reroll run in Neverness to Everness takes between 15 and 20 minutes. 
 
 ### Tutorial Speedrun Tips
 
-To minimize your time per run, follow these optimization strategies:
+To minimize your time per run, follow these optimization strategies
 *   **Combat Mechanics:** Use the dodge-counter mechanic. Successfully dodging an enemy attack at the last moment triggers a time-slow effect, allowing you to burn down enemy health bars much faster than standard attacking.
 *   **Navigation:** Use the sprint function constantly. Hethereau is a large city, and while the "Bridge Crossings" objective is straightforward, walking instead of sprinting can add 3–4 minutes to your total time.
 *   **Skip Dialogue:** NTE features a high volume of story dialogue. Aggressively using the skip button in the upper right corner is mandatory for efficient rerolling.
@@ -170,4 +170,4 @@ No. Annulith should be strictly reserved for Solid Dice (Limited Banners). Fabri
 - IGN: Neverness to Everness Preview and Mechanics — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Reroll Tier List and Guide — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official Community Reroll Discussion — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

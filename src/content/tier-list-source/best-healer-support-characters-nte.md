@@ -1,4 +1,4 @@
----
+--
 title: Best Healer & Support Characters in Neverness to Everness (NTE)
 slug: best-healer-support-characters-nte
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healer-support-characters-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-healer-support-characters-nte/inline-1.webp
   - /img/best-healer-support-characters-nte/inline-2.webp
   - /img/best-healer-support-characters-nte/inline-3.webp
   - /img/best-healer-support-characters-nte/inline-4.webp
   - /img/best-healer-support-characters-nte/inline-5.webp
   - /img/best-healer-support-characters-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Surviving the supernatural anomalies of Hethereau requires more than just raw firepower; it demands a finely tuned team of supports and healers to manage the chaos. As the meta stabilizes following the April 2026 launch, selecting the right utility units has become the difference between clearing high-level Esper Cycles and hitting a progression wall.
 
@@ -40,7 +40,7 @@ In the current state of Neverness to Everness (NTE), the distinction between a "
 
 The ranking of characters in NTE is determined by their contribution to overall team efficiency rather than a single stat like "Healing Per Second." Because the endgame content often involves strict time limits, a support character who increases team damage by 30% is generally more valuable than one who purely restores HP.
 
-Our evaluation is based on the following key pillars:
+Our evaluation is based on the following key pillars
 
 *   **Role Compression:** Characters who occupy a single slot but provide healing, damage buffs, and crowd control are prioritized.
 *   **Reaction Synergy:** The ability to trigger or enhance high-value Esper Cycles such as Blossom (Anima), Hex (Incantation), and Scorch (Gas).
@@ -178,8 +178,8 @@ Sakiri remains at the top of the charts, though some players have noted that her
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- IGN: Neverness to Everness Characters and Combat Guide — https://www.ign.com/articles/neverness-to-everness-everything-we-know
+- IGN: Neverness to Everness Characters and Combat Guide
 - Game8: NTE Tier List and Best Supports — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official May 2026 Meta Discussion — https://www.reddit.com/r/NTE_Official/
-- Pocket Tactics: Neverness to Everness release date and characters — https://www.pockettactics.com/neverness-to-everness/release-date
+- Pocket Tactics: Neverness to Everness release date and characters
 - GamerBraves: NTE Gameplay Mechanics and Esper Cycles — https://www.gamerbraves.com/neverness-to-everness-is-hotta-studios-next-big-urban-open-world-rpg/

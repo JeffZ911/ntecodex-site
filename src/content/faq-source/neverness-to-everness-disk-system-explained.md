@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Disk System Explained: Arcs & Gear Guide"
 slug: neverness-to-everness-disk-system-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-disk-system-explained/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-disk-system-explained/inline-1.webp
   - /img/neverness-to-everness-disk-system-explained/inline-2.webp
   - /img/neverness-to-everness-disk-system-explained/inline-3.webp
   - /img/neverness-to-everness-disk-system-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Understanding the gear mechanics in Hecta City is vital for surviving the supernatural anomalies that plague the streets following the April 2026 launch.
 
@@ -91,7 +91,7 @@ Upgrading your Arcs involves two distinct processes: Leveling and Refinement.
 
 ### Farming Guide: Where to Spend Your Character Pixels
 
-To improve your Disks, you must spend "Character Pixels" (the game's stamina system). Following the April 2026 launch, two locations are paramount for gear progression:
+To improve your Disks, you must spend "Character Pixels" (the game's stamina system). Following the April 2026 launch, two locations are paramount for gear progression
 
 1.  **The Rabbit Hole:** This Anomaly Zone is the primary source for high-tier Cartridges and Modules. Higher difficulty tiers increase the drop rate of S-rank (Orange) gear.
 2.  **Houdini’s Magic Stage:** This challenge mode drops the materials needed for Arc Breakthroughs and "Lost Pieces," which are used to level up your Console components.
@@ -113,7 +113,7 @@ To improve your Disks, you must spend "Character Pixels" (the game's stamina sys
 
 The Disk system is the engine behind the "Esper Cycle," the elemental reaction system in Neverness to Everness. Your Arc's stats directly influence the potency of reactions. For example, increasing your "Psyche Efficiency" via a Module will increase the damage of a **Nova** reaction (triggered by combining Chaos and Psyche attributes). 
 
-Key reactions to monitor when building your Disk sets include:
+Key reactions to monitor when building your Disk sets include
 *   **Nova:** Chaos + Psyche (High burst damage).
 *   **Scorch:** Incantation + Chaos (Damage over time).
 *   **Blossom:** [Information not yet publicly available as of 2026-05-23].
@@ -134,5 +134,5 @@ Finally, do not neglect the "Rampage Players" shop. While the Disk system handle
 - Neverness to Everness Official Website — https://www.nevernesstoeverness.com/
 - Neverness to Everness Wiki (Game8) — https://game8.co/games/Neverness-to-Everness
 - NTE Community Subreddit — https://www.reddit.com/r/NevernessToEverness/
-- Prydwen Institute NTE Database — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Database
 - IGN Neverness to Everness Launch Guide — https://www.ign.com/games/neverness-to-everness

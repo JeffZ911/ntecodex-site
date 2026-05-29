@@ -1,4 +1,4 @@
----
+--
 title: "Best 4-Star Disks in Neverness to Everness: Top A-Rank Arcs"
 slug: best-4-star-disks-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.9
 word_count: 1728
 published_at: "2026-05-16T13:32:16.839635+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJNvVEnE_fXa_M3wD_BqATCPkt_ZhwxJZ_3FiTlhu6LWFzMNK9JEb_NS7MByPxYApQMa0oQSS1uIa3K962NS4__GoqmIBw8p8ireKWNpo4_FxMaqm1oudZ0DOn_20P4SKPwf6brZdLQv-NnGeQ3ruIlLN0VyAskeSaX-lam6BUWJnJBaY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo8CuPZwmy7L7xcHjCz4C6ig5s4_sHIwjNy9p_05qb49jO8-FElBbtnLPZl0NyX-9eCyaYvRhahysh6h6ImX1NrELbhoYh5sFkkJnQ3PtpiFCxhRta8-r4w-WkB0m6HqqlAJ05GoezU1u-pA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqlO_9jhr5sdeyqwHIsiaoyi0qc4Bn7Rx8L_zh3mNsawp59a3hQCXHOtJWKtQAp9bqHzj4GmDWLL2AI50iqjnDrAD2Bxoe5MiSKCp-tDuDYkBom-KJ9sx17hXw6Ynd_1xjGCypS74LhO2T3-55bk6dngJ8cz2LT9uvV4QT"
@@ -21,17 +21,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED6_UFfNeXgXClAX04bG3OwSFYARb90eX1CLutc6T56ILCdu5nIX6Vy6tVYnaeIgqU7cxgackXv-YCzv6fiFAD_Xx3dDMcW0EvHLQF6GKRnlZlgY2PJrY_jYLzZXSMI9K1ls-YNT_uFR07c23A0zripctSScr0v9u7Q88-vuTvE4sK0Wui6HTT3Ov6TCVRx6603XQ8jP1yQPrePkyNrrs="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE-ppJhw-QVendsQrGTZ1bYeaZaqVoGEXlgq0LKOo4LHgiTWiP2rurkvw_U6O5BVeT6o4q-kKwKxVWVtQUeg8gSTEJ_LS22YMtUht3Av6Ryx9-RmFT5Kj95DN2eUHh4_XGoo1yITbhVkEQRPqvGOvIY5US8Qgv5TQ="
 hero_image: /img/best-4-star-disks-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-4-star-disks-nte/inline-1.webp
   - /img/best-4-star-disks-nte/inline-2.webp
   - /img/best-4-star-disks-nte/inline-3.webp
   - /img/best-4-star-disks-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Securing the right equipment is the first major hurdle for any Appraiser in Hethereau, especially when S-rank options remain out of reach.
 
@@ -140,14 +140,14 @@ Every character has a "Signature" Arc that they were designed to use. While A-ra
 ## Sources
 
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-banner-schedule-guide-plan-your-pulls-like-a-pro/
-- neverness.gg — https://neverness.gg/all-arcs-in-neverness-to-everness-stats-and-effects/
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/the-forgotten-best-characters-and-materials/
 - icy-veins.com — https://www.icy-veins.com/nte/the-good-the-bad-the-bitter-best-characters-and-materials/
-- ntegame.com — https://ntegame.com/arcs/the-forgotten/
-- prydwen.gg — https://www.prydwen.gg/nte/arcs/the-forgotten/
-- games.gg — https://www.games.gg/neverness-to-everness-arc-upgrade-guide-how-to-enhance-ascend-mix/
-- gamewith.net — https://gamewith.net/nte-strategy-guide/article/show/47923
-- kaiden.gg — https://kaiden.gg/nte/characters/mint-build-guide/
-- prydwen.gg — https://www.prydwen.gg/nte/characters/edgar/
-- mobi.gg — https://mobi.gg/neverness-to-everness-arcs-list-stats-and-optimisation/
+- ntegame.com
+- prydwen.gg
+- games.gg
+- gamewith.net
+- kaiden.gg
+- prydwen.gg
+- mobi.gg
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-weapon-tier-list-guide-for-the-best-arcs.html

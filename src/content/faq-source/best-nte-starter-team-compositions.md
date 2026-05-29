@@ -1,4 +1,4 @@
----
+--
 title: Best Neverness to Everness Starter Team Compositions Guide
 slug: best-nte-starter-team-compositions
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-nte-starter-team-compositions/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-starter-team-compositions/inline-1.webp
   - /img/best-nte-starter-team-compositions/inline-2.webp
   - /img/best-nte-starter-team-compositions/inline-3.webp
   - /img/best-nte-starter-team-compositions/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building a balanced team in Neverness to Everness (NTE) is the difference between struggling against low-level anomalies and effortlessly clearing the streets of Hethereau. This guide covers the most effective starter compositions using free characters and early-game pulls to ensure your progression remains smooth.
 
@@ -151,9 +151,9 @@ Understanding the stats on your equipment is vital. Learn which Arcs provide the
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-characters-everything-known-far
 - icy-veins.com — https://www.icy-veins.com/nte/tier-list
 - neverness.gg — https://neverness.gg/characters/
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-open-world-supernatural-rpg-from-the-tower-of-fantasy-devs/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-everything-we-know/
+- pcgamer.com
+- mobalytics.gg
 - mumuplayer.com — https://www.mumuplayer.com/blog/neverness-to-everness-characters-guide.html
 - oslink.io — https://www.oslink.io/blog/neverness-to-everness-all-characters
-- neverness.gg — https://neverness.gg/guides/beginner-guide/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-combat-mechanics-explained/
+- neverness.gg
+- mobalytics.gg

@@ -1,4 +1,4 @@
----
+--
 title: Best Tank Disk Sets in Neverness to Everness (NTE) Tier List
 slug: nte-best-tank-disk-sets-tier-list
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-15T13:07:25.410553+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-tank-disk-sets-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-tank-disk-sets-tier-list/inline-1.webp
   - /img/nte-best-tank-disk-sets-tier-list/inline-2.webp
   - /img/nte-best-tank-disk-sets-tier-list/inline-4.webp
   - /img/nte-best-tank-disk-sets-tier-list/inline-5.webp
   - /img/nte-best-tank-disk-sets-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing the durability of your squad in Hethereau’s most dangerous Anomaly Zones requires a deep understanding of the Cartridge system and how specific defensive bonuses scale with your frontline units.
 
@@ -40,7 +40,7 @@ To determine the ranking of each Cartridge set, we evaluate two primary factors:
 
 ### Understanding the Cartridge and Module System
 
-Cartridges are equipped via the Console, a grid-based interface where players must fit different Module shapes. These Modules come in three primary types:
+Cartridges are equipped via the Console, a grid-based interface where players must fit different Module shapes. These Modules come in three primary types
 *   **Type II:** Generally provides defensive main stats like HP% and DEF%.
 *   **Type III:** Often carries utility stats such as Energy Charge Efficiency and Elemental RES.
 *   **Type IV:** The "Core" module that usually dictates the primary set bonus and offers the highest stat scaling.
@@ -180,6 +180,6 @@ Current drop rates for S-Rank (Legendary) Cartridges in Level 5 Anomaly Zones ha
 
 *   Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 *   Game8 NTE Cartridge Guide — https://game8.co/games/Neverness-to-Everness/archives/cartridge-guide
-*   Prydwen Institute NTE Tier List — https://www.prydwen.gg/nte/tier-list/
+*   Prydwen Institute NTE Tier List
 *   IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/
 *   Official NTE Discord Patch Notes — https://discord.com/channels/nte-official/announcements/1.0.1-patch-notes

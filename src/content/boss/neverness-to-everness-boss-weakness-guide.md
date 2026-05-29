@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Boss Weakness Guide: Best Teams & Strategies"
 slug: neverness-to-everness-boss-weakness-guide
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/neverness-to-everness-boss-weakness-guide
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-boss-weakness-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-boss-weakness-guide/inline-1.webp
   - /img/neverness-to-everness-boss-weakness-guide/inline-2.webp
   - /img/neverness-to-everness-boss-weakness-guide/inline-3.webp
   - /img/neverness-to-everness-boss-weakness-guide/inline-4.webp
   - /img/neverness-to-everness-boss-weakness-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Conquering the supernatural anomalies of Hesperia requires more than just high-octane driving; you need to master the elemental rhythms and physical vulnerabilities of the city's most dangerous entities. This comprehensive guide breaks down every major boss encounter in Neverness to Everness, ensuring your team has the right elemental affinity and strategy to secure S-Rank Arcs and rare upgrade materials.
 
@@ -51,7 +51,7 @@ Boss scaling is tied directly to your Appraisal Level. As you progress through t
 
 ### Break Meter Shredding Efficiency
 
-Shredding the Break Meter is most efficient when using specific reaction types. The efficiency varies based on the elemental interaction:
+Shredding the Break Meter is most efficient when using specific reaction types. The efficiency varies based on the elemental interaction
 
 *   **Discord (Incantation + Chaos + Psyche):** 150% Break Meter Shred. This is the gold standard for bossing, as it bypasses standard guard values.
 *   **Shatter (Frost + Physical):** 120% Break Meter Shred. Highly effective against armored targets like the Nestbound Bird.
@@ -192,4 +192,4 @@ Completing high-risk commissions (Appraisal Level 50+) grants high-tier Modules 
 - Neverness to Everness Official Discord — https://discord.com/invite/nte
 - IGN: Neverness to Everness Combat Guide — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Boss Weakness Table — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Character and Team Meta — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character and Team Meta

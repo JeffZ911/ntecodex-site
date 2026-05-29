@@ -1,4 +1,4 @@
----
+--
 title: How to Increase Stamina in Neverness to Everness (NTE Guide)
 slug: how-to-increase-stamina-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-increase-stamina-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-increase-stamina-nte/inline-1.webp
   - /img/how-to-increase-stamina-nte/inline-2.webp
   - /img/how-to-increase-stamina-nte/inline-3.webp
   - /img/how-to-increase-stamina-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your activity in Hethereau requires a deep understanding of the various energy systems that govern combat, city life, and exploration. This guide breaks down every method to increase your stamina caps and optimize your daily resource consumption in Neverness to Everness.
 
@@ -36,7 +36,7 @@ Whether you are looking to increase the amount of Character Pixels available for
 ![Question Restated](/img/how-to-increase-stamina-nte/inline-1.webp)
 
 
-Players frequently ask: How do I increase the maximum stamina cap in Neverness to Everness? To answer this, we first have to identify which stamina system you are trying to improve. NTE utilizes three separate bars that do not share a pool:
+Players frequently ask: How do I increase the maximum stamina cap in Neverness to Everness? To answer this, we first have to identify which stamina system you are trying to improve. NTE utilizes three separate bars that do not share a pool
 
 *   **Character Pixels (Combat Stamina):** This is your primary "gacha" energy used for rewards in Anomaly Zones, boss fights, and talent material domains.
 *   **City Stamina (Tycoon Stamina):** This is a weekly resource used for non-combat "urban" activities like fishing, professional racing, and business deliveries.
@@ -159,7 +159,7 @@ If you are out of both Character Pixels and City Stamina, you can still progress
 
 Properties are the primary gate for increasing your stamina caps. The **Eden Apartment** costs roughly 1.5 million Fons, while luxury penthouses can exceed 10 million. 
 
-To farm Fons efficiently without spending stamina:
+To farm Fons efficiently without spending stamina
 1.  **Daily Commissions:** These provide a steady stream of Fons and Hunter XP.
 2.  **Open World Chests:** Exploring the nooks and crannies of the city districts.
 3.  **Selling Materials:** You can sell excess materials gathered from the world to vendors, though this is generally less efficient than business deliveries.
@@ -179,6 +179,6 @@ By balancing your property investments with active Tycoon Level grinding, you ca
 - Neverness to Everness Official Website — https://nte.hotta.com/
 - Game8 NTE Wiki and Strategy Guide — https://game8.jp/nte/
 - IGN: Neverness to Everness Combat and City Systems Explained — https://www.ign.com/games/neverness-to-everness
-- Prydwen.gg: NTE Character and Mechanics Database — https://www.prydwen.gg/nte/
+- Prydwen.gg: NTE Character and Mechanics Database
 - Reddit: r/NTE_Official Megathread on Stamina and Tycoon Levels — https://www.reddit.com/r/NTE_Official/
-- GameWith: How to Increase Pixel Cap in NTE — https://gamewith.net/neverness-to-everness/article/show/stamina-guide/
+- GameWith: How to Increase Pixel Cap in NTE

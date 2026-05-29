@@ -1,4 +1,4 @@
----
+--
 title: "Anton Ivanov Best Build Guide: Best W-Engines, Discs, & Teams (ZZZ)"
 slug: anton-ivanov-best-build-zzz
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-14T11:17:56.163850+00:00"
 published_url: /guides/anton-ivanov-best-build-zzz
 sources: []
 hero_image: /img/anton-ivanov-best-build-zzz/hero.webp
-inline_images:
+inline_images
   - /img/anton-ivanov-best-build-zzz/inline-1.webp
   - /img/anton-ivanov-best-build-zzz/inline-2.webp
   - /img/anton-ivanov-best-build-zzz/inline-3.webp
   - /img/anton-ivanov-best-build-zzz/inline-4.webp
   - /img/anton-ivanov-best-build-zzz/inline-5.webp
   - /img/anton-ivanov-best-build-zzz/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 If you are looking for a high-energy attacker who can tear through enemy health bars with a massive drill, Anton Ivanov is the Belobog Heavy Industries Agent you need to master.
 
@@ -59,7 +59,7 @@ His effectiveness is heavily tied to his Core Passive, which allows him to deal 
 
 ### Skill Priority List
 
-To maximize Anton's damage efficiency, prioritize upgrading his skills in the following order:
+To maximize Anton's damage efficiency, prioritize upgrading his skills in the following order
 
 1.  **Special Attack:** This is the source of his Burst Mode. Higher levels increase the damage multiplier of his drills and the initial Piledriver.
 2.  **Basic Attack:** Since Anton spends most of his time in Burst Mode using Enhanced Basic Attacks, this is your primary source of consistent DPS.
@@ -131,7 +131,7 @@ If you are running a team that struggles to maintain the Shocked status, **4-Pie
 
 ### Stat Priority: Crit vs. Energy Regen
 
-When optimizing Drive Disc slots 4, 5, and 6, follow this priority:
+When optimizing Drive Disc slots 4, 5, and 6, follow this priority
 
 *   **Slot 4 (Crit Rate or Crit DMG):** Aim for a 1:2 ratio. Since Anton hits many times, a high Crit Rate (60%+) is vital to ensure his damage is consistent.
 *   **Slot 5 (Electric DMG Bonus):** This is a non-negotiable multiplier for Anton's entire kit.
@@ -213,7 +213,7 @@ Anton requires **Augment Chips** (Basic, Advanced, and Specialized Burner Chips)
 ## Sources
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
-- Anton Ivanov - Prydwen Institute — https://www.prydwen.gg/zenless-zone-zero/characters/anton-ivanov
+- Anton Ivanov - Prydwen Institute
 - Zenless Zone Zero Wiki - Fandom — https://zenless-zone-zero.fandom.com/wiki/Anton_Ivanov
 - Anton Ivanov Build & Best Team - Game8 — https://game8.co/games/Zenless-Zone-Zero/archives/435532
 - ZZZ Database - Icy Veins — https://www.icy-veins.com/zzz/anton-ivanov-build-guide

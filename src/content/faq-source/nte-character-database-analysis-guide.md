@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Database and Analysis: Full Roster & Meta Guide"
 slug: nte-character-database-analysis-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 1387
 published_at: "2026-05-23T22:00:08.647051+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqU6-arNnthXLqj0w5Ao4FhgOQo2cqHNpLpZ4BwzZrh8s5WWF-QVA48nzatjaczVroBXPm5SB07pxZ07zSTJ7Fgey7gNqZjISwVwno03QUSNmOyD6wjpPgM0qHwePVOGw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsqrxkWEmNWRou-ccol3kw_0NtkJHDk6Xy5i_1K2MZu_sa7RyhWBhHHcxXi5a6BMGl5E43uRgShESp2RPT2mMt_wWD-WKGPtEd-qWq7CLjVG7wwek030xyIrIidLA4xe0TuBvkm0sY_MrSNYtYW4operlnt6FwALuSxQQNK_g-S4U="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXoPkbgdTkCRp9LNWpli4JvMz94sYvpf8PHYTa-G68fMd4bagXKadFjiVM-rheBtE9OY_xrBUjlNHDDkR8jrGTeGuuhxAt5c8j5Av3_qH8i_AsLeqTVwAcgXluAkmc2r2QlR5FMVs="
@@ -27,17 +27,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoP1VAHBgw33S4rQYF69kdePR6ddYWmwiKp2HBnZxrN4IBLSsAVx4piqK7O_BXc21nK3kLktdM3LKdBSfyocTHV-JnUhEEtVF5d4Vbby3WdYWYgJmuDldrB82-HSM-"
 game: unknown
 hero_image: /img/nte-character-database-analysis-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-database-analysis-guide/inline-1.webp
   - /img/nte-character-database-analysis-guide/inline-2.webp
   - /img/nte-character-database-analysis-guide/inline-3.webp
   - /img/nte-character-database-analysis-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the urban sprawl of Hethereau requires a deep understanding of the diverse residents who call this anomaly-filled city home. This NTE character database and analysis provides the essential breakdown of every playable unit, their elemental synergies, and their performance in the current version 1.0 meta.
 
@@ -122,7 +122,7 @@ Archetypes (Solid, Liquid, Gas, Plasma, Synthesis) determine which Arcs (weapons
 
 The "Scarborough Fair" gacha system is a departure from traditional pull-based mechanics. Players spend Solid Dice (limited) or Fabricated Dice (standard) to move a piece across a board. Rewards are determined by the tile the piece lands on.
 
-Key features include:
+Key features include
 *   **90-Pull Pity:** You are guaranteed the featured S-Class character by the 90th roll.
 *   **No 50/50:** If you land on an S-Class character tile on a limited banner, it is guaranteed to be the featured unit.
 *   **Board Modification:** After 70 rolls without an S-Class, the board transforms, turning several tiles into S-Class character tiles, significantly increasing your chances of a "soft pity" win.
@@ -148,12 +148,12 @@ Critical Ripostes are another core mechanic. When an enemy flashes red, performi
 ## Sources
 
 *   gosugamers.net — https://www.gosugamers.net/general/guides/69772-here-are-all-the-neverness-to-everness-nte-launch-characters-and-how-to-obtain-them
-*   gamerant.com — https://gamerant.com/neverness-to-everness-nte-beyond-the-rails-guide-location-how-to-play/
+*   gamerant.com
 *   icy-veins.com — https://www.icy-veins.com/nte/beyond-the-rails-guide
 *   mobalytics.gg — https://mobalytics.gg/nte/tier-list
-*   kaiden.gg — https://kaiden.gg/nte/characters/nanally-guide
-*   ign.com — https://www.ign.com/wikis/neverness-to-everness/Character_Tier_List
-*   neverness.gg — https://neverness.gg/characters/mint-build-guide
+*   kaiden.gg
+*   ign.com
+*   neverness.gg
 *   sportskeeda.com — https://www.sportskeeda.com/esports/nte-city-tycoon-guide-free-chiz-rewards
 *   bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-gacha-pity-system-en.html
 *   ntegame.com — https://ntegame.com/characters/

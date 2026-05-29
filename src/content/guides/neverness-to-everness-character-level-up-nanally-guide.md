@@ -1,4 +1,4 @@
----
+--
 title: Neverness to Everness Character Level Up & Nanally Build Guide
 slug: neverness-to-everness-character-level-up-nanally-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neverness-to-everness-character-level-up-nanally-guide
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-character-level-up-nanally-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-1.webp
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-2.webp
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-3.webp
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-4.webp
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-5.webp
   - /img/neverness-to-everness-character-level-up-nanally-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your roster in the supernatural urban landscape of Hesperia requires a firm grasp of the progression systems and elemental synergies unique to the Esper characters. This guide covers the essential Neverness to Everness character level up mechanics and provides a definitive build for [Nanally](/characters/nanally-guide-nte), the premier Anima DPS.
 
@@ -118,7 +118,7 @@ Since Nanally is an Anima element attacker who hits multiple times per second, s
 
 When placing Modules into Nanally's Console, you should prioritize "Type 2 Modules." Nanally has a unique hidden synergy where she gains a bonus to her base CRIT Rate for every Type 2 Module equipped, regardless of the individual stats on those modules. 
 
-The stat priority for Nanally’s Modules should be:
+The stat priority for Nanally’s Modules should be
 1.  **Anima DMG Bonus** (Primary stat on the main Cartridge)
 2.  **CRIT Rate** (Until reaching ~70%)
 3.  **CRIT DMG**
@@ -169,7 +169,7 @@ Swap to Nanally and immediately activate her Skill, "Colucci Howling Technique."
 
 ### Optimal Combo Strings and Underboss Coordination
 
-While "Ichi-daime's Authority" is active, do not simply mash the attack button. The optimal combo string is:
+While "Ichi-daime's Authority" is active, do not simply mash the attack button. The optimal combo string is
 1.  **Three Basic Attacks:** To build momentum and trigger Underboss strikes.
 2.  **Three Charged Attacks:** Hold the attack button for three successive strikes. This consumes stamina but deals significantly higher Anima DMG and has a higher chance to trigger Critical Ripostes.
 3.  **Repeat:** Continue this 3-3 cycle until the Authority state ends.
@@ -214,4 +214,4 @@ Beetle Coins are rewarded for almost every activity, but the "Golden Pursuit" st
 - Neverness to Everness Wiki (Game8) — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE Official Community — https://www.reddit.com/r/NTE/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

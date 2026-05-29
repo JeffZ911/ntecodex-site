@@ -1,4 +1,4 @@
----
+--
 title: "NTE for Beginners: Best Builds, Teams, and Gear Guide (2026)"
 slug: nte-for-beginners-build-guide
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T20:57:10.593891+00:00"
 published_url: /guides/nte-for-beginners-build-guide
 sources: []
 hero_image: /img/nte-for-beginners-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-for-beginners-build-guide/inline-1.webp
   - /img/nte-for-beginners-build-guide/inline-2.webp
   - /img/nte-for-beginners-build-guide/inline-3.webp
   - /img/nte-for-beginners-build-guide/inline-4.webp
   - /img/nte-for-beginners-build-guide/inline-5.webp
   - /img/nte-for-beginners-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the supernatural streets of Hethereau requires more than just quick reflexes; it demands a deep understanding of how your Espers, Arcs, and Console configurations interact. This guide provides the essential framework for building a powerful early-game roster to clear Anomaly Commissions and dominate the City Tycoon leaderboards.
 
@@ -193,9 +193,9 @@ The City Tycoon system unlocks automatically after completing the Chapter 1 stor
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/beginner-build-guide-nte
-- kaiden.gg — https://kaiden.gg/nte/characters/zero-build-best-arcs
-- prydwen.gg — https://www.prydwen.gg/nte/guides/elemental-reactions-explained
+- neverness.gg
+- kaiden.gg
+- prydwen.gg
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-nte-elemental-reaction-guide
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-beginner-guide-and-tips.html
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-open-world-urban-supernatural-rpg/
+- pcgamer.com

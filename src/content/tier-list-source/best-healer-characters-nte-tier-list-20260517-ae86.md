@@ -1,4 +1,4 @@
----
+--
 title: "Best Healer Characters in Neverness to Everness: Tier List"
 slug: best-healer-characters-nte-tier-list-20260517-ae86
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 10.0
 word_count: 1907
 published_at: "2026-05-17T06:51:44.034500+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB4DcOUapqh02LLSq7lnwXu-wHnBg9P5dS25bK2AlV3pd0IXmRaeFGLtsFUYFDxi7CTFj6-YbvWOFWegpBd6Mzuvx8Ta6CXn4SMvcK8bGprk0Okk00qgzMgmGJDCa3zMqaBw_0n_g="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkjs8ykEF3xakWy0Za_FdtY3vj4_ela3Rifxs92PrDWAW9-lE-Yygc_EqEMwzELAfTm5b69vXmq4Za6TJWLzXg24pJJYaAGdB2w2aIKaA3SYES9BkX7oigdcKqDB5LGkzzpliK4cz60QjGt9j7iohK9qeEmEKC-bc16nzVZLKIbTCHy62CjMD1Te_Bv4pbTFWZ5sCwNvE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIhBju704N8eJq8cJLbdxPpZgDokE3Pt26uv4m6Ekbh8eAvHgJA7-ThUH2NK47EAp1cJcr8pJ7aPoJRSOm3V76jaHctToCnTKs2771BOYILX8vF1H3vEkjPZ0="
@@ -17,21 +17,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuS1R3j8j1oQO_vZuOZCoRNqtKWHbqJv0vhYMBFwmpohwJjeb0522_a12PSTEVWD3yr36XO7QgsnxeeyMt0YA1PaT-9Alkl1v8EJ2rzds5iL0PYz3WgptH04F5LH0lzt8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi4ZnVD4yzDScuXcxrowEQLVxlzzcHIAwBN1iSEOvzGkLye2j1XarVz7ZSZ3dHZtz-6Q4DE3Lmv6N-llSDI_1vGMLcdTFDsOUl0dg9LuaSWauuZqpS6O8I2w=="
 hero_image: /img/best-healer-characters-nte-tier-list-20260517-ae86/hero.webp
-inline_images:
+inline_images
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-1.webp
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-2.webp
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-3.webp
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-4.webp
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-5.webp
   - /img/best-healer-characters-nte-tier-list-20260517-ae86/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Survival in the supernatural urban landscape of Hethereau requires more than just high damage output; it demands a robust sustain strategy to weather the city's most volatile anomalies. Since the launch of Neverness to Everness (NTE) on April 29, 2026, the meta has rapidly evolved from a reliance on pure healing to a preference for "Role Compression" units that keep the team alive while contributing to the Esper Cycle.
 
@@ -44,7 +44,7 @@ Choosing the right support can be the difference between clearing a high-level P
 ![Methodology](/img/best-healer-characters-nte-tier-list-20260517-ae86/inline-1.webp)
 
 
-Ranking sustain characters in NTE is more complex than simply looking at HP-per-second values. Because the game rewards fast rotations and constant "Esper Cycle" triggers, a character who only heals is often less valuable than one who heals while facilitating damage. Our evaluation is based on five core pillars:
+Ranking sustain characters in NTE is more complex than simply looking at HP-per-second values. Because the game rewards fast rotations and constant "Esper Cycle" triggers, a character who only heals is often less valuable than one who heals while facilitating damage. Our evaluation is based on five core pillars
 
 *   **Sustain Value:** This is a holistic look at a character's defensive contribution, combining raw healing output, shield strength, and damage redirection.
 *   **Role Compression:** We prioritize characters who provide DPS or offensive buffs alongside their survivability. In the current 1.0 meta, "pure healers" are often seen as a DPS loss.
@@ -159,11 +159,11 @@ Rumors regarding the Version 1.1 update suggest the arrival of Lacrimosa, a Chao
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/characters/edgar-build-guide/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/edgar-best-build-guide
+- neverness.gg
+- gamewith.net
 - icy-veins.com — https://www.icy-veins.com/nte/hotori-guide-skills-kit-and-awakenings
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-best-hotori-build/
+- gamerant.com
 - ldshop.gg — https://www.ldshop.gg/news/nte-new-upcoming-characters-full-playable-character-list
-- frvr.com — https://frvr.com/neverness-to-everness-best-characters-tier-list/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-best-fadia-build-team/
+- frvr.com
+- thegamer.com
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/characters/jiuyuan-build-guide/

@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Character Profile List: All Espers & Stats"
 slug: neverness-to-everness-character-profile-list
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 7.5
 word_count: 1600
 published_at: "2026-05-15T09:08:06.309530+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfpkFGD2XR72NbRX3Qv4L97mZIbBQ5hGWSn-wiGA2Nzl0EIrl0IM54juQbBCHhSLRoxuPL-0G2YxShWpxKrv8VKsMTdf89BeMGM7LNiXe1X3F1u-Kb8SuPSU6he7ZHRz4X-JlqOrvnF9FL5cGAG3cuVL5W19iqQQ18xHQASfg4-IfIetlt"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYZxRk9S0kyWBejZ-WAYcf7adNhFCYId9SSuPagujKRT4bNbaTu0pw-BDNil95NGBlXjxgCnzl24NZlIsZUONNAvo1XBm-yfusqH4doJuQcwDrhxYkE9Ivz-RUUfTA2Znxox1W8gesYwgNLrigi7J2K_S9aVUsrw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUnq-leL2B7ea93QcXcTWH-MIDxnZ0bI1nbpTxz360eC7wcTIqjUsw-niqrYzeAKPP50TKfwfQNRbhRw1HM5KmIXBKdIK3HJC3yW7K-gsDkhxKUGSdn_Ce5XmwA_-SziZ56vMpEhqXektOEdtaGy7rfOAu89KZcY9QaFZKZKcdi3w="
@@ -28,17 +28,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDkgfrrKlcokLJGxqfCxZtYL5BQoYaACqTOOFmtwnj5lTf-7JG2OV9IX16vn37lcU-dUY-YMA8pWV-g6GVna72skafLrKp-F-1tpbUxOMNRbguH_b-3Cg3s6aLw5gBEkooREPKGv4YyhoblkugtRtvvXz7-t6CtGzGA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEfLy3ArtFwsw455AEGQJnZqF-qry0eaCRepUCGIJSeoLXjMbvlOh4U3scJRS7eI-DsI7wDYwB5Wz7tkRhGsqdD0rdpDswuJsLZkEPWsftlDCrjKNKryDU5KqzGksJtw4GQb8enQ=="
 hero_image: /img/neverness-to-everness-character-profile-list/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-profile-list/inline-1.webp
   - /img/neverness-to-everness-character-profile-list/inline-2.webp
   - /img/neverness-to-everness-character-profile-list/inline-3.webp
   - /img/neverness-to-everness-character-profile-list/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Choosing the right Espers for your team is the first step toward reclaiming the streets of Hethereau from the supernatural anomalies plaguing the city. This Neverness to Everness character profile list provides the essential stats, elements, and roles for every playable unit available at launch.
 
@@ -167,13 +167,13 @@ Understanding these synergies is what separates a casual player from a Hethereau
 
 ## Sources
 
-- gamewith.net — https://www.gamewith.net/neverness-to-everness/article/show/nanally-build-guide
-- neverness.gg — https://neverness.gg/characters/nanally-guide
+- gamewith.net
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/nanally-build-guide
-- kaiden.gg — https://kaiden.gg/nte/nanally-strategic-guide
+- kaiden.gg
 - mobalytics.gg — https://mobalytics.gg/nte/tier-list
-- gamerant.com — https://gamerant.com/neverness-to-everness-character-tier-list/
+- gamerant.com
 - sportskeeda.com — https://www.sportskeeda.com/gaming/neverness-to-everness-esper-reactions-guide
-- theouterhaven.net — https://www.theouterhaven.net/2026/05/neverness-to-everness-hotori-gacha-guide/
-- allthings.how — https://allthings.how/nte-city-tycoon-rewards-chiz-guide/
-- ntebuild.com — https://ntebuild.com/arcs-list/
+- theouterhaven.net
+- allthings.how
+- ntebuild.com

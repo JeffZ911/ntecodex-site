@@ -1,4 +1,4 @@
----
+--
 title: "Best Weapons in Neverness to Everness: Tier List & Arc Guide"
 slug: best-weapons-neverness-to-everness-guide
 game: nte
@@ -9,19 +9,19 @@ published_at: "2026-05-13T02:25:29.917533+00:00"
 published_url: /weapons/best-weapons-neverness-to-everness-guide
 sources: []
 hero_image: /img/best-weapons-neverness-to-everness-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-weapons-neverness-to-everness-guide/inline-1.webp
   - /img/best-weapons-neverness-to-everness-guide/inline-2.webp
   - /img/best-weapons-neverness-to-everness-guide/inline-3.webp
   - /img/best-weapons-neverness-to-everness-guide/inline-4.webp
   - /img/best-weapons-neverness-to-everness-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Stats"
   - "Effect"
   - "Best On (Characters)"
   - "How to Get"
   - "Comparison"
----
+--
 
 Choosing the right gear in Hethereau City can mean the difference between a clean Anomaly suppression and a total squad wipe. This guide breaks down the top-performing Arcs in the current meta to ensure your Espers are equipped for the toughest challenges.
 
@@ -186,7 +186,7 @@ Choosing the right Arc requires balancing your available resources with the spec
 ## Sources
 
 - Hotta Studio Official — https://www.nevernesstoeverness.com/
-- IGN: Neverness to Everness Preview — https://www.ign.com/articles/neverness-to-everness-is-a-supernatural-open-world-rpg
+- IGN: Neverness to Everness Preview
 - Game8: NTE Weapon Database — https://game8.co/games/Neverness-to-Everness/
-- Prydwen Institute: NTE Arcs Tier List — https://www.prydwen.gg/nte/tier-list/
+- Prydwen Institute: NTE Arcs Tier List
 - Official NTE Discord — https://discord.gg/nte-official

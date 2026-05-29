@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Disk Sets for Support: Tier List & Guide (2026)"
 slug: best-nte-disk-sets-support-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-nte-disk-sets-support-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-disk-sets-support-tier-list/inline-1.webp
   - /img/best-nte-disk-sets-support-tier-list/inline-2.webp
   - /img/best-nte-disk-sets-support-tier-list/inline-3.webp
   - /img/best-nte-disk-sets-support-tier-list/inline-4.webp
   - /img/best-nte-disk-sets-support-tier-list/inline-5.webp
   - /img/best-nte-disk-sets-support-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing a support character in Neverness to Everness (NTE) requires a shift in mindset from raw damage to team-wide utility and energy economy. Since the game's launch on April 29, 2026, the meta has solidified around maximizing the "Esper Cycle" through specific gear configurations known as Cartridges.
 
@@ -40,7 +40,7 @@ The effectiveness of a support character is measured by their ability to maintai
 
 Ranking support Cartridges involves analyzing how a set's bonuses interact with the Console system and the character's internal cooldowns. Unlike DPS sets that prioritize Critical Rate or Elemental DMG, support sets are evaluated on three primary pillars: Team Utility, Charge Efficiency, and Activation Ease.
 
-The following criteria were used to determine the rankings:
+The following criteria were used to determine the rankings
 
 *   **Team-Wide Utility**: Does the set provide buffs like ATK, Break Intensity, or Resistance Shred to all allies?
 *   **Charge Efficiency (CE)**: How much does the set contribute to the wearer’s Ultimate uptime? In NTE, "Charge Efficiency" is the specific stat governing energy regeneration for Resonance Skills.
@@ -50,7 +50,7 @@ The following criteria were used to determine the rankings:
 
 ### Support Stat Priority
 
-When equipping these sets, prioritizing the correct main stats on your Consoles is vital. For most supports, the priority follows this hierarchy:
+When equipping these sets, prioritizing the correct main stats on your Consoles is vital. For most supports, the priority follows this hierarchy
 
 | Stat Priority | Primary Benefit | Recommended Console Slots |
 | :--- | :--- | :--- |
@@ -185,7 +185,7 @@ The introduction of Hotori on May 13, 2026, has shifted the priority toward sub-
 
 ### May 19 Hotfix Analysis
 
-On May 19, 2026, a significant hotfix was deployed to address several mechanical issues affecting support performance:
+On May 19, 2026, a significant hotfix was deployed to address several mechanical issues affecting support performance
 
 *   **Jiuyuan Ultimate Fix**: Resolved a bug where Jiuyuan's Ultimate: Final Reckoning failed to trigger the "Pact Settlement" passive correctly. This fix has stabilized Jiuyuan’s role as a hybrid healer/DPS, making her a viable candidate for Shadow Creed or Speedy Hedgehog.
 *   **High-Risk Commission Bug**: Fixed an issue where character-swapping in "High-Risk Commissions" within the Beyond the Rails mode would occasionally cancel active Cartridge buffs.
@@ -197,6 +197,6 @@ As the game moves toward Version 1.1, players should keep an eye on new Cartridg
 
 * Neverness to Everness Official Site — https://nte.perfectworld.com/
 * Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
-* Prydwen Institute: NTE Cartridge Database — https://www.prydwen.gg/nte/
+* Prydwen Institute: NTE Cartridge Database
 * IGN: Neverness to Everness Walkthrough — https://www.ign.com/games/neverness-to-everness
 * Reddit: r/NTE_Official May 19 Hotfix Notes — https://www.reddit.com/r/NTE_Official/comments/hotfix_may_19_2026/

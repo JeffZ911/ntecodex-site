@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Daily Tasks Guide: Best Nanally Build"
 slug: neverness-to-everness-daily-tasks-guide-nanally-build
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 2196
 published_at: "2026-05-21T06:52:52.061852+00:00"
 published_url: /guides/neverness-to-everness-daily-tasks-guide-nanally-build
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyV-6udGAnWhPA3mAoz5S8nR1HVbWrYmHv09r24vnAMNOHRs_d11k8EsdNelXLOdnbd7ZvywjU4qCXPfl_RuyG2M3VE5tkdKRquNWPn5HkDSJTtqsK7E0N5A=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8RcHaJiaMukdoI_RRtcl3rpQOrGVDVvRQml8iY-YJ2L4aqnQPt5xEMcX0U_eAz0ZRWmUVrS84X_W5RyAUyV9vig9trEwFi1re_7nZy1JMkFL2CbCr25zPyKgB3ZAwZQ0nkh_Ok5S2icvNj0dJb2NZcRObU8JABM9BjL26VdDHeaNf673l0icf"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESJyObadTvqknMxmT6LeYyWWNehwHMPcN5P-Z7RwYmgVAwTTgRh796eY-X950Y7hkfrlI0v29_uaTa9WmVSue59T5vQAQ1nCQmMfupHjrb89PHxIXBdgoZhgTVroQdNCiq2pmGYb1S9zXZaqF0Vf0cHhxlVkpswnWGy69wubYMxqCUf1FXwg=="
@@ -25,19 +25,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDqt3Kv9Tm9F4UndS6L6DQnrOKpCRbXme4HaPmNg5hJ96FRq5jQ3zEbrUjYIo-qL6rpdTgeILfnsRps1x8ICGFMtONbvb6ZFdCRZQAiTXUAwN-9oNrrSilf9q7g7JrmT1UerXUe3Hk_jrCmeV2tREDTRbGS9cwQ5RFxD3IssSTIFa90dx89WokQ8zXFsmOFD-Rcj47"
 game: unknown
 hero_image: /img/neverness-to-everness-daily-tasks-guide-nanally-build/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-daily-tasks-guide-nanally-build/inline-1.webp
   - /img/neverness-to-everness-daily-tasks-guide-nanally-build/inline-2.webp
   - /img/neverness-to-everness-daily-tasks-guide-nanally-build/inline-3.webp
   - /img/neverness-to-everness-daily-tasks-guide-nanally-build/inline-4.webp
   - /img/neverness-to-everness-daily-tasks-guide-nanally-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "FAQ"
----
+--
 
 Staying on top of your daily routine in Hethereau is the only way to keep your team competitive in the ever-shifting supernatural landscape of Neverness to Everness.
 
@@ -144,7 +144,7 @@ Nanally has a unique interaction with the Console grid: she gains a **6% CRIT Ra
 
 ### Optimal Stat Distribution
 
-When farming Modules, prioritize the following stats:
+When farming Modules, prioritize the following stats
 
 1.  **Main Stat (Cartridge):** Anima DMG Bonus.
 2.  **Main Stat (Modules):** CRIT DMG (if CRIT Rate is over 70%) or ATK%.
@@ -168,7 +168,7 @@ This is currently the highest-performing team for Nanally in endgame content lik
 
 ### F2P Friendly Team Compositions
 
-If you are just starting out, you can build a highly effective team using only guaranteed characters:
+If you are just starting out, you can build a highly effective team using only guaranteed characters
 1.  **Nanally** (Main DPS)
 2.  **Esper Zero** (Cosmos Enabler)
 3.  **Mint** (Anima Resonance / AOE)
@@ -195,7 +195,7 @@ To maximize Nanally’s damage, you must align her "Underboss" window with your 
 
 ### Maximizing the Underboss Window
 
-Once Nanally is in her Authority state, cast her Ultimate, **Colucci Ultimate Technique**. This summons the **Underboss** for 6 seconds. During this 6-second window, you must execute the following combo:
+Once Nanally is in her Authority state, cast her Ultimate, **Colucci Ultimate Technique**. This summons the **Underboss** for 6 seconds. During this 6-second window, you must execute the following combo
 
 *   **Combo String:** 3-Basic Attacks -> 3-Charged Attacks (Hold).
 *   **Why this works:** The Underboss coordinates with every hit Nanally lands. By using the 3-Basic + 3-Charged combo, you trigger the maximum number of follow-up instances while the 56% CRIT DMG buff from the "Fireflies and the Forest" set is at peak stacks.
@@ -238,11 +238,11 @@ The fastest way to hit 100 points is to spend all 240 Character Pixels first, th
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/dailies-checklist/
-- gamerant.com — https://gamerant.com/neverness-to-everness-daily-checklist-guide/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47214
+- neverness.gg
+- gamerant.com
+- gamewith.net
 - icy-veins.com — https://www.icy-veins.com/nte/nanally-build-guide/
 - mobalytics.gg — https://mobalytics.gg/nte/characters/nanally-build/
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-banner-schedule-guide/
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/dailies_weekly_checklist/
-- kaiden.gg — https://kaiden.gg/nte/nanally-rotation-team-guide/
+- kaiden.gg

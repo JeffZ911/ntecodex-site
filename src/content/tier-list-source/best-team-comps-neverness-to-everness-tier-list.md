@@ -1,4 +1,4 @@
----
+--
 title: "Best Team Comps for Neverness to Everness: Tier List (May 2026)"
 slug: best-team-comps-neverness-to-everness-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-team-comps-neverness-to-everness-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-1.webp
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-2.webp
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-3.webp
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-4.webp
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-5.webp
   - /img/best-team-comps-neverness-to-everness-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your Esper squad in Hethereau requires a deep understanding of the Esper Cycle and the complex elemental reactions that define the current meta. As players push further into the "Beyond the Rail" endgame, the difference between a haphazardly assembled group and a synergistic team composition becomes the deciding factor in clearing high-difficulty Prime Circle stages.
 
@@ -70,7 +70,7 @@ The ranking criteria for this tier list are heavily weighted toward performance 
 *   **Sub-DPS (1-2):** Provides off-field elemental application and quick-swap burst damage.
 *   **Support/Survival (1):** Provides shields, healing, or massive stat buffs to the Main DPS.
 
----
+--
 
 ## S Tier
 
@@ -133,7 +133,7 @@ The core of this team is the interaction between **Zero’s** "Instant Cycle" (b
 | Nanally Hyper | 9.5/10 | 7/10 | Easy |
 | Cosmos Cycle | 9/10 | 8/10 | Hard |
 
----
+--
 
 ## A Tier
 
@@ -161,7 +161,7 @@ This composition focuses on the "Stain" reaction, created by combining Lakshana 
 
 **Hathor** applies the "Remora" mark, which, when combined with **Daffodil’s** Chaos application, creates a vulnerability window where enemies take 25% increased damage from all sources. This team is a strong alternative for players who did not pull for Baicang.
 
----
+--
 
 ## B Tier
 
@@ -192,7 +192,7 @@ For players who are struggling to stay alive in high-level districts, this defen
 *   **Instead of Sakiri:** Use Mint (CC/Support).
 *   **Instead of Fadia:** Use Edgar (Survival).
 
----
+--
 
 ## C Tier
 
@@ -216,7 +216,7 @@ The default team of **Zero, Skia, and Edgar** is functional for the prologue and
 4.  You have two or more characters competing for field time.
 5.  You are struggling to break enemy shields before they regenerate.
 
----
+--
 
 ## Recent Changes
 
@@ -248,4 +248,4 @@ As the Beyond the Rail Prime Circle rotation changes next month, we expect to se
 - IGN: Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Character Tier List — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Combat Mechanics — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Combat Mechanics

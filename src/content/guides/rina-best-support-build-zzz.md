@@ -1,4 +1,4 @@
----
+--
 title: "Rina Best Support Build ZZZ: Best W-Engines and Disk Drives"
 slug: rina-best-support-build-zzz
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T23:00:16.461240+00:00"
 published_url: /guides/rina-best-support-build-zzz
 sources: []
 hero_image: /img/rina-best-support-build-zzz/hero.webp
-inline_images:
+inline_images
   - /img/rina-best-support-build-zzz/inline-1.webp
   - /img/rina-best-support-build-zzz/inline-2.webp
   - /img/rina-best-support-build-zzz/inline-3.webp
   - /img/rina-best-support-build-zzz/inline-4.webp
   - /img/rina-best-support-build-zzz/inline-5.webp
   - /img/rina-best-support-build-zzz/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Alexandrina Sebastiane, the elegant head maid of Victoria Housekeeping Co., provides the most powerful penetration-based buffs in Zenless Zone Zero through her unique puppet-driven mechanics. Maximizing her PEN Ratio is the key to unlocking Rina's potential as the premier support for Victoria Housekeeping and Electric-attribute teams.
 
@@ -71,7 +71,7 @@ The passive effect of Weeping Cradle allows Rina to regenerate Energy while off-
 
 ### Best A-Rank Alternatives
 
-For players who do not have her signature S-Rank, several A-Rank options provide excellent utility:
+For players who do not have her signature S-Rank, several A-Rank options provide excellent utility
 
 1.  **Slice of Time:** This is widely considered the best A-Rank choice for Rina. It provides a secondary stat of PEN Ratio [exact value pending official confirmation at level 60]. Its passive increases the amount of Decibels and Energy generated when using EX Special Attacks, helping the team reach Ultimates faster.
 2.  **Kaboom the Cannon:** This W-Engine focuses heavily on Energy Regeneration. While it lacks the PEN Ratio secondary stat, it allows Rina to use her EX Special Attack more frequently. This is useful for maintaining puppet uptime if you are struggling with Energy management.
@@ -112,7 +112,7 @@ This set allows Rina to shred the enemy's resistance to Shock, allowing Grace or
 
 ### Main Stat and Substat Priority
 
-To optimize Rina, focus on the following Main Stats for Disk Drive slots 4, 5, and 6:
+To optimize Rina, focus on the following Main Stats for Disk Drive slots 4, 5, and 6
 
 *   **Slot 4:** Anomaly Proficiency or ATK% (Rina's personal damage is secondary, so Anomaly Proficiency is preferred for stronger Shocks).
 *   **Slot 5:** **PEN Ratio** (This is mandatory. Do not use Electric DMG or ATK% here).
@@ -128,7 +128,7 @@ To optimize Rina, focus on the following Main Stats for Disk Drive slots 4, 5, a
 
 The community-accepted "sweet spot" for Rina is **72% PEN Ratio**. This number is derived from her Core Passive scaling. At max level, Rina converts a portion of her PEN Ratio into a team-wide buff, capped at a maximum of 30% PEN Ratio for the squad. 
 
-To reach this 72% target, you will typically need:
+To reach this 72% target, you will typically need
 *   An S-Rank PEN Ratio W-Engine (24%).
 *   The 2-piece Puffer Electro set bonus (8%).
 *   A Slot 5 PEN Ratio Main Stat (24%).
@@ -174,7 +174,7 @@ Using Rina effectively requires understanding the "Quick Assist" mechanic. You s
 
 ### The Quick Assist Loop
 
-The standard combat loop for Rina follows these steps:
+The standard combat loop for Rina follows these steps
 1.  **Engage with Stunner:** Use your Stun agent (like Lycaon or Anby) to build up the enemy's Daze meter.
 2.  **Rina's Entry:** Once you have enough Energy, swap to Rina and use her **EX Special Attack: Diminuendo**. This sends Drusilla and Anastella out to perform a multi-hit circular attack.
 3.  **Quick Assist:** Immediately after the EX Special, a "Quick Assist" prompt will often appear (if the move triggers it) or you can manually swap. The puppets will stay on the field for several seconds even after Rina leaves.
@@ -182,7 +182,7 @@ The standard combat loop for Rina follows these steps:
 
 ### Chain Attack Order
 
-During a Chain Attack (triggered by hitting a Dazed enemy with a heavy attack):
+During a Chain Attack (triggered by hitting a Dazed enemy with a heavy attack)
 *   Always place Rina **before** your primary DPS. 
 *   The ideal sequence is: **Stunner -> Rina -> DPS**.
 *   This ensures that the DPS agent benefits from the PEN Ratio buff for their entire duration on the field, including their Ultimate if it is available.
@@ -219,7 +219,7 @@ Rina's M1 is one of the most impactful early Mindscapes in the game. It increase
 ## Sources
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
-- Prydwen Institute ZZZ Rina Guide — https://www.prydwen.gg/zenless-zone-zero/characters/alexandrina-sebastiane
+- Prydwen Institute ZZZ Rina Guide
 - Game8 ZZZ Rina Build & Best Team — https://game8.co/games/Zenless-Zone-Zero/archives/454261
 - ZZZ Fandom Wiki: Rina — https://zenless-zone-zero.fandom.com/wiki/Alexandrina_Sebastiane
 - Lootbar ZZZ Rina Build Guide — https://lootbar.gg/blog/zenless-zone-zero-rina-best-build-w-engines-and-disk-drives-5830.html

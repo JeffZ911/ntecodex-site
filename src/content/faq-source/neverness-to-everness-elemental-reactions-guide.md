@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Elemental Reactions Guide: All Esper Cycles"
 slug: neverness-to-everness-elemental-reactions-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T06:32:23.204433+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-elemental-reactions-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-elemental-reactions-guide/inline-1.webp
   - /img/neverness-to-everness-elemental-reactions-guide/inline-2.webp
   - /img/neverness-to-everness-elemental-reactions-guide/inline-3.webp
   - /img/neverness-to-everness-elemental-reactions-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the supernatural flow of combat in Hesperia requires more than just high-level gear; it demands a deep understanding of how different energies interact through the Esper Cycle. By timing your character swaps and managing your Esper Meter, you can trigger devastating elemental reactions that shred enemy shields and maximize your damage output.
 
@@ -115,7 +115,7 @@ Resonance levels, often upgraded through the character's "Arc" or weapon system,
 
 ### Best Characters for Each Reaction Type
 
-As of the current meta, certain characters excel at triggering specific parts of the Esper Wheel:
+As of the current meta, certain characters excel at triggering specific parts of the Esper Wheel
 
 *   **[Nanally](/characters/nanally-guide-nte) (Incantation):** Her "The Ichi-daime" banner highlight showcases her ability to generate meter rapidly through her rapid-fire normal attacks. She is the premier choice for triggering **Blossom** or **Scorch**.
 *   **Jiuyuan (Anima):** Known for high "Break" damage, Jiuyuan is essential for teams looking to trigger **Remora** or **Blossom** frequently.
@@ -139,7 +139,7 @@ Most elite enemies and bosses possess a "Break Meter" (the white bar under their
 
 ### Recommended Character Pairings
 
-Based on current community testing, the following pairings are highly recommended for maximizing the Esper Cycle:
+Based on current community testing, the following pairings are highly recommended for maximizing the Esper Cycle
 
 *   **Nanally + Jiuyuan:** This pairing focuses on the **Blossom** reaction. Nanally provides the high-frequency Incantation application, while Jiuyuan provides the Anima triggers that keep the team healthy while dealing sustained damage.
 *   **Sakya + [Information not yet publicly available as of 2026-05-15]:** Sakya’s Chaos abilities pair exceptionally well with Cosmos users to create a "Black Hole" effect through the **Hexed** reaction, pulling enemies together before the explosion.
@@ -151,6 +151,6 @@ Understanding the Esper Cycle is not just about memorizing names; it is about fe
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 - Game8 Neverness to Everness Guide — https://game8.co/games/Neverness-to-Everness
-- IGN: NTE Combat Mechanics Explained — https://www.ign.com/articles/neverness-to-everness-combat-guide
+- IGN: NTE Combat Mechanics Explained
 - Reddit: r/NTE_Official Theorycrafting — https://www.reddit.com/r/NTE_Official/
-- Mobalytics: NTE Character and Element Tier List — https://mobalytics.gg/blog/neverness-to-everness-tier-list/
+- Mobalytics: NTE Character and Element Tier List

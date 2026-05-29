@@ -1,4 +1,4 @@
----
+--
 title: Fastest Neverness to Everness Reroll Strategy Guide (May 2026)
 slug: reroll/fastest-nte-reroll-strategy-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-17T10:27:22.438218+00:00"
 published_url: /guides/reroll/fastest-nte-reroll-strategy-guide
 sources: []
 hero_image: /img/fastest-nte-reroll-strategy-guide/hero.webp
-inline_images:
+inline_images
   - /img/fastest-nte-reroll-strategy-guide/inline-1.webp
   - /img/fastest-nte-reroll-strategy-guide/inline-2.webp
   - /img/fastest-nte-reroll-strategy-guide/inline-3.webp
   - /img/fastest-nte-reroll-strategy-guide/inline-4.webp
   - /img/fastest-nte-reroll-strategy-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a top-tier Esper at the start of your journey through Hethereau is the most effective way to ensure long-term success in the supernatural urban landscape.
 
@@ -71,7 +71,7 @@ The most effective way to reroll in Neverness to Everness is the "Salted Email" 
 If your email is `example@gmail.com`, you can register an account using `example+1@gmail.com`, `example+2@gmail.com`, and so on. Hotta Studio’s login system recognizes these as unique accounts, but all verification codes and communications are sent to your primary `example@gmail.com` inbox. This is the fastest way to manage multiple reroll attempts without losing track of login credentials.
 
 ### Step-by-Step Speedrun Walkthrough
-To minimize the time spent in the prologue, follow this specific route:
+To minimize the time spent in the prologue, follow this specific route
 
 1.  **Account Creation:** Log in using a salted email.
 2.  **Prologue Skip:** Skip every skippable cutscene. During dialogue sequences, tap rapidly to advance the text.
@@ -173,7 +173,7 @@ The base rate is 0.99%. Soft pity begins at **70 pulls**, where the rate for an 
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Hotta Studio Developer Blog — https://www.hottastudio.com/blog/nte-launch-details
-- IGN: Neverness to Everness Beginner Guide — https://www.ign.com/articles/neverness-to-everness-guide-tips-tricks
+- IGN: Neverness to Everness Beginner Guide
 - Game8: NTE Reroll Tier List — https://game8.co/games/Neverness-to-Everness/archives/reroll-tier-list
 - Reddit: r/NTE_Official Gacha Mechanics Discussion — https://www.reddit.com/r/NTE_Official/comments/nte_gacha_pity_explained/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

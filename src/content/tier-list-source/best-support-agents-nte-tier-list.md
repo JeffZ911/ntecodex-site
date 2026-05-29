@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Agents in Neverness to Everness: May 2026 Tier List"
 slug: best-support-agents-nte-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T18:03:35.810158+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-support-agents-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-support-agents-nte-tier-list/inline-1.webp
   - /img/best-support-agents-nte-tier-list/inline-2.webp
   - /img/best-support-agents-nte-tier-list/inline-3.webp
   - /img/best-support-agents-nte-tier-list/inline-4.webp
   - /img/best-support-agents-nte-tier-list/inline-5.webp
   - /img/best-support-agents-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your team composition in Hethereau requires more than just high damage numbers; it demands a backbone of utility to survive the city's supernatural anomalies. This May 2026 tier list breaks down the best support agents in Neverness to Everness (NTE) to help you dominate the current meta.
 
@@ -40,7 +40,7 @@ The meta of Neverness to Everness has shifted significantly since the game's lau
 
 Ranking Support Agents in NTE requires a nuanced look at how they interact with the Esper Cycle and the game's unique elemental reactions. A support that provides a massive heal but zero offensive utility often slows down clear times, which is detrimental in high-level timed content.
 
-Our ranking criteria are weighted as follows:
+Our ranking criteria are weighted as follows
 
 | Criteria | Weight | Description |
 | :--- | :--- | :--- |
@@ -184,7 +184,7 @@ When building your team, remember that the "best" support is the one that enable
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- IGN: Neverness to Everness Character Guide — https://www.ign.com/wikis/neverness-to-everness/Characters
+- IGN: Neverness to Everness Character Guide
 - Game8: NTE Tier List and Rankings — https://game8.co/games/Neverness-to-Everness/archives/tier-list
 - Reddit: r/NTE_Official May Meta Discussion — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Analysis — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Analysis

@@ -1,4 +1,4 @@
----
+--
 title: "Nanally vs. Hotori: Which S-Rank Character Should You Pull in NTE?"
 slug: nanally-vs-hotori-nte-comparison-guide
 game: nte
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 1662
 published_at: "2026-05-13T02:27:58.815955+00:00"
 published_url: /guides/nanally-vs-hotori-nte-comparison-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFtU1xIDh9W3s4KlDDQOo_JTact6z9_JoiYF7iJ-MuDj9rCIQHXw1m8bmVxTZM71JN4kn_l4ms_8xO6k9EdrbRxQJvqJgeKb8AVeMtX7WyzXsPD5TtZ--TRr6OAUMneQkM6_SY8naFct2B3U4Dig6nBTK5VhtG8fHi3__hSkknkEcev7YsLp3Sl4nu5PdkUd-AHvl-FGoxWgEVCis="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGLjKYkHcZ4hKlKFm7KnC_PBOMd8GIfBUnMZUkLdfv0a6WhltHPfWtZN2CXj6t3CoJXiIS5dO-HW0h5nLD6yEAagh4BxscNDYwbtoIn38-mOKfpxixv1ESAsqmW64SEw4S7_1ePfk="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6aX1DHivw0T8iXYV_s_UVmORsoHUnFRmYuH41sTJuDUm62XueC8R8tWrKdexypESbGuzOACBx1rQ_gwTOBslmoM-vV_8hMbSGYDhscwJY4pPH3GeFxChwnH9PbFoMr5mDCEB8K9kwBI9HqVOAgxz9kyxQaw=="
@@ -20,17 +20,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF383dhKPBMOqBRDgmys3ENww1yWikeflfa2F5t426vaZaCZbbu3NICzE52Cl-PRv0GxUcj-eUXWMKEHaB_JXYuIIzSqejZ8Fi8vnSV2uHhrhWfylR4hYaNeh4CaDpuVaXJZBKcg2CcfNZW4NJLAgPmfTxvKd_PwKAEqoR-NaRRLwIRs2TWoqrkcYjLX2iVQhjkJIPg_lccfiMPpwgg2qHdfYj1ch4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHcGacOyT2cEjbJVDEP6uwRJuHjf6hWjoFZphQp59nfyY85_2MQx6h-3WAs7Jt5nZNSQH7oKFALHCOPYEtHzNfLkckBtIW4qYLFwgYIY1GmChi88Hbt_WEZbZPxbXMQlEPt6CtolaUiPJLtXp006-C9D0LJRP1Xjc="
 hero_image: /img/nanally-vs-hotori-nte-comparison-guide/hero.webp
-inline_images:
+inline_images
   - /img/nanally-vs-hotori-nte-comparison-guide/inline-1.webp
   - /img/nanally-vs-hotori-nte-comparison-guide/inline-2.webp
   - /img/nanally-vs-hotori-nte-comparison-guide/inline-3.webp
   - /img/nanally-vs-hotori-nte-comparison-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 With the global launch of Neverness to Everness (NTE) finally here as of April 29, 2026, players are facing the first major dilemma of the 1.0 meta: choosing between the two debut S-Rank powerhouses.
 
@@ -113,13 +113,13 @@ Nanally’s high hit frequency from her Vita Pistils and Underboss follow-ups he
 Choosing who to pull depends heavily on your current resources (Solid Dice and Annulith) and what your account currently lacks.
 
 ### Who Should Pull Nanally?
-You should pull for Nanally if:
+You should pull for Nanally if
 *   **You are a F2P player:** Nanally has a very high "floor," meaning she performs exceptionally well even with F2P weapons like the "Song of the Whale."
 *   **You enjoy fast-paced action:** Her "Street Fighter" style combos and wall-running mechanics make her one of the most mechanically fun characters to pilot.
 *   **You need a Main DPS:** If your current team is struggling to kill enemies before the timer runs out, Nanally is the solution. Her follow-up attacks provide the consistent DPS needed for early-game progression.
 
 ### Who Should Pull Hotori?
-You should pull for Hotori if:
+You should pull for Hotori if
 *   **You plan for the long term:** Support and utility characters like Hotori typically stay in the meta much longer than pure damage dealers. Her Time Stop is a unique mechanic that is unlikely to be powercrept soon.
 *   **You like technical rotations:** If you enjoy the "math" of gacha combat—timing your skills perfectly to maximize a 5-second window—you will find her extremely rewarding.
 *   **You already have a Main DPS:** If you got lucky with a standard S-Rank pull and already have a solid damage dealer, Hotori is the best character to make that dealer hit even harder. Check out our [Hotori build guide](#TODO:keyword:best-hotori-build-nte) to see how to maximize her recording windows.
@@ -136,7 +136,7 @@ The NTE gacha system is notably player-friendly because it lacks the "50/50" mec
 ## Sources
 
 - neverness.gg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNGEyJWhdIrV3-XJhThVsMAcVOWA9LRhNWeo7AfE48MuTJnaCU9gS4qfYRGQljkJzarUd8_pQSaICNPy9FJsCw_Wf5KCffjjTrI-aLWfOstwl03I-sgxjNqJEjppnLrHyB
-- kaiden.gg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6aX1DHivw0T8iXYV_s_UVmORsoHUnFRmYuH41sTJuDUm62XueC8R8tWrKdexypESbGuzOACBx1rQ_gwTOBslmoM-vV_8hMbSGYDhscwJY4pPH3GeFxChwnH9PbFoMr5mDCEB8K9kwBI9HqVOAgxz9kyxQaw==
+- kaiden.gg
 - ldshop.gg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJYrvIXkSLxeHdEBBbpWE8tGPDPzokzJ88Co3bqo8JajqUjtxCBD5Wnpcx4jK61keKMDkn5w4bcPasND0yKrkcMfSVVx6CKFljDZ1ACtrG8V51qTbu-axHOwxEKlKs6inT3WdCkIcfXAAecgJSTRP8A==
 - oslink.io — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNIUb1EVoKvWY9eQtykAAQVBXmvIyiSZmEzo5NrFZ3X_Btdcpio32sZUdzkRhwaOU29IQkykzmuQ1X781wCsm8JJRzTR7JGFVI6LJqHzJV15bz5qRqtEulQt1k_mQ4CeR55VnYLa_HSCuKi9qtKlaG27Ld5sYXQkpFy_SUOurM94u5o8PujrMy4Q==
 - buffhub.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFtU1xIDh9W3s4KlDDQOo_JTact6z9_JoiYF7iJ-MuDj9rCIQHXw1m8bmVxTZM71JN4kn_l4ms_8xO6k9EdrbRxQJvqJgeKb8AVeMtX7WyzXsPD5TtZ--TRr6OAUMneQkM6_SY8naFct2B3U4Dig6nBTK5VhtG8fHi3__hSkknkEcev7YsLp3Sl4nu5PdkUd-AHvl-FGoxWgEVCis=

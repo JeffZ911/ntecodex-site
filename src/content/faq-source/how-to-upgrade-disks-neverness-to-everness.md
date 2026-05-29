@@ -1,4 +1,4 @@
----
+--
 title: "How to Upgrade Disks in Neverness to Everness: Full Guide"
 slug: how-to-upgrade-disks-neverness-to-everness
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-upgrade-disks-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/how-to-upgrade-disks-neverness-to-everness/inline-1.webp
   - /img/how-to-upgrade-disks-neverness-to-everness/inline-2.webp
   - /img/how-to-upgrade-disks-neverness-to-everness/inline-3.webp
   - /img/how-to-upgrade-disks-neverness-to-everness/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your character's potential in Neverness to Everness (NTE) requires a deep understanding of the Console system and the intricate process of upgrading Disks. Whether you are looking to boost your Esper's damage or increase their survivability against high-level Anomalies, mastering Disk enhancement is the most critical step in the mid-to-late game.
 
@@ -37,7 +37,7 @@ In Neverness to Everness, "Disks" represent the primary equipment system used to
 To effectively power up your roster, you must know how to navigate the Console, which materials to prioritize for level-ups, and how to manage the RNG associated with sub-stat rolls. This guide addresses the core mechanics of Disk progression, from basic leveling to the nuances of the "Tetris" grid system.
 
 ### Understanding the Terminology: Disks vs. Cartridges and Modules
-While the community often uses "Disks" as a catch-all term for gear, the game technically differentiates between two types of equipment that occupy the Console:
+While the community often uses "Disks" as a catch-all term for gear, the game technically differentiates between two types of equipment that occupy the Console
 *   **Cartridges:** These function as the "brain" of your gear setup. They provide the primary Main Stat (such as % ATK, % CRIT Rate, or % Elemental Damage) and dictate the set bonuses your character receives.
 *   **Modules:** These are smaller, Tetris-shaped pieces that provide flat bonuses (primarily Flat ATK and Flat HP). Their main purpose is to fill the grid space around the Cartridge to activate additional passive effects.
 
@@ -49,7 +49,7 @@ The Console is the dedicated equipment interface for every character in NTE. Unl
 ![Direct Answer](/img/how-to-upgrade-disks-neverness-to-everness/inline-2.webp)
 
 
-To upgrade Disks in Neverness to Everness, you must access the **Console** tab within the Character menu. Once inside, follow these steps to enhance your gear:
+To upgrade Disks in Neverness to Everness, you must access the **Console** tab within the Character menu. Once inside, follow these steps to enhance your gear
 
 1.  **Select the Component:** Choose either a Cartridge or a Module from the Console grid.
 2.  **Enter the Enhance Menu:** Tap the "Enhance" button to open the upgrade interface.
@@ -81,7 +81,7 @@ The Console is a grid-based system where spatial management is as important as t
 ### How to Level Up Cartridges (The "Artifact" Equivalent)
 Cartridges are the primary source of your Esper's power. When you upgrade a Cartridge, the Main Stat increases linearly. For example, an S-Rank Cartridge with a % ATK main stat will see a significant jump in value at level 20 compared to its base level.
 
-To level up Cartridges efficiently:
+To level up Cartridges efficiently
 *   Use **High-Density Manhole EXP** for the most significant gains.
 *   Avoid using A-Rank Cartridges as fodder until you have a full set of S-Rank gear, as the EXP loss during "recycling" is roughly 20%.
 
@@ -96,7 +96,7 @@ Every Disk starts with a set number of sub-stats based on its rarity. S-Rank (Go
 [Information not yet publicly available as of 2026-05-21] regarding the exact percentage weight of each sub-stat roll.
 
 ### Farming Guide: Rabbit Hole and Rewind Systems
-To sustain a constant stream of upgrade materials, you must engage with two primary systems:
+To sustain a constant stream of upgrade materials, you must engage with two primary systems
 1.  **The Rabbit Hole (Anomaly Zone):** This is the primary dungeon for farming Cartridges. Higher difficulty tiers (unlocked via Hunter Level) guarantee S-Rank drops and provide larger quantities of Manhole EXP.
 2.  **The Rewind System:** This is a specialized gacha mechanic for Modules. By spending **Carrota Coins**, you can "Rewind" or pull for specific Module shapes and stats. Carrota Coins are primarily earned through daily urban missions and world exploration.
 
@@ -162,7 +162,7 @@ By carefully balancing your Beetle Coin expenditures between Arcs and Disks, and
 ## Sources
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
-- neverness.gg — https://neverness.gg/guides/disk-upgrade-system
-- games.gg — https://games.gg/nte/how-to-upgrade-disks/
+- neverness.gg
+- games.gg
 - gamewith.net — https://gamewith.net/nte/article/show/45821
 - gamewith.net — https://gamewith.net/nte/article/show/45822

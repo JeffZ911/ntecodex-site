@@ -1,4 +1,4 @@
----
+--
 title: "Kazuha vs. Sucrose: The Ultimate Anemo Support Comparison"
 slug: kazuha-vs-sucrose-support-comparison
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T06:51:20.506664+00:00"
 published_url: /guides/kazuha-vs-sucrose-support-comparison
 sources: []
 hero_image: /img/kazuha-vs-sucrose-support-comparison/hero.webp
-inline_images:
+inline_images
   - /img/kazuha-vs-sucrose-support-comparison/inline-1.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-2.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-3.webp
   - /img/kazuha-vs-sucrose-support-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing between the wandering samurai of Inazuma and the bio-alchemist of Mondstadt remains one of the most frequent debates for players looking to maximize their team's damage potential.
 
@@ -88,7 +88,7 @@ Kazuha has a significantly easier time managing his Burst, Kazuha Slash. With a 
 ### Buffing Math: EM vs. Elemental DMG%
 The value of Kazuha vs. Sucrose often comes down to the "Damage Formula." Kazuha provides Elemental DMG%, which is added to your character's Goblet and other DMG% bonuses. Sucrose provides Elemental Mastery, which increases the multiplier of reactions like Vaporize, Melt, and Aggravate.
 
-At 1,000 EM:
+At 1,000 EM
 *   **Kazuha** provides a 40% DMG bonus. For a character like Neuvillette, who already has high built-in DMG bonuses, this 40% is still a significant multiplicative increase to his total output.
 *   **Sucrose** provides approximately 250 EM. If your Xiangling has 0 EM, that 250 EM increases her Vaporize damage by roughly 42%. However, if your Xiangling already has 300 EM, adding another 250 EM provides diminishing returns, increasing the reaction damage by a much smaller relative percentage.
 
@@ -151,4 +151,4 @@ However, **Kaedehara Kazuha** remains the single best quality-of-life upgrade fo
 - Kazuha vs Sucrose - Which Anemo Support is Better? | Game8 — https://game8.co/games/Genshin-Impact/archives/335544
 - Poetics of Fuubutsu - Skill | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Poetics_of_Fuubutsu
 - Elemental Mastery Sharing Mechanics | Hoyolab — https://www.hoyolab.com/article/568524
-- Best Anemo Characters Tier List | GenshinLab — https://genshinlab.com/tier-list/anemo-characters/
+- Best Anemo Characters Tier List | GenshinLab

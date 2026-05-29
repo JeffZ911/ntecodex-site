@@ -1,4 +1,4 @@
----
+--
 title: "How to Get More Astrites in Wuthering Waves: Ultimate Farming Guide"
 slug: how-to-get-more-astrites-wuthering-waves
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:35:05.295367+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-get-more-astrites-wuthering-waves/hero.webp
-inline_images:
+inline_images
   - /img/how-to-get-more-astrites-wuthering-waves/inline-1.webp
   - /img/how-to-get-more-astrites-wuthering-waves/inline-2.webp
   - /img/how-to-get-more-astrites-wuthering-waves/inline-3.webp
   - /img/how-to-get-more-astrites-wuthering-waves/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your currency income is the most important part of building a powerful team of Resonators in Wuthering Waves. This guide provides every reliable method to secure more Astrites, ensuring you never miss a limited-time banner.
 
@@ -47,7 +47,7 @@ Astrites serve as the primary premium currency in Wuthering Waves. You use them 
 
 To get more Astrites, you must combine daily activities with world exploration and high-level combat challenges. The most consistent source is the Guidebook’s Daily Activity rewards, which grant 60 Astrites every 24 hours. For large, one-time gains, you should prioritize completing the Main Quest, leveling up your Data Bank, and hunting for Supply Chests across the map.
 
-The following table summarizes the primary Astrite sources available in the game:
+The following table summarizes the primary Astrite sources available in the game
 
 | Source Type | Specific Activity | Astrite Yield | Frequency |
 | :--- | :--- | :--- | :--- |
@@ -144,7 +144,7 @@ Always keep an eye on your in-game mail. Wuthering Waves often provides "Compens
 
 ### Paid Options: Lunite Subscription and Pioneer Podcast
 
-For players willing to spend a small amount of money, there are two high-efficiency options:
+For players willing to spend a small amount of money, there are two high-efficiency options
 
 1.  **Lunite Subscription:** This costs $4.99 USD and provides 300 Lunite (which can be converted 1:1 to Astrites) immediately, plus 90 Astrites every day for 30 days. This is the most cost-effective way to gain currency, totaling 3,000 Astrites per month.
 2.  **Pioneer Podcast:** This is the Wuthering Waves Battle Pass. The paid "Insider Channel" provides a mix of Astrites and Radiant Tides, along with a massive amount of character development resources.
@@ -183,4 +183,4 @@ To manage your currency effectively, always keep a "reserve" of at least 12,800 
 - Prydwen Institute Wuthering Waves — https://www.prydwen.gg/wuthering-waves/
 - Wuthering Waves Wiki — https://wuthering.wiki/
 - Game8 Wuthering Waves Guide — https://game8.co/games/Wuthering-Waves
-- Eurogamer Wuthering Waves Currency Guide — https://www.eurogamer.net/wuthering-waves-astrite-how-to-get-farm-9403
+- Eurogamer Wuthering Waves Currency Guide

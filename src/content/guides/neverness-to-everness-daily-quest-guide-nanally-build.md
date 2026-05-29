@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Daily Quest Guide: Best Nanally Build"
 slug: neverness-to-everness-daily-quest-guide-nanally-build
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1739
 published_at: "2026-05-21T04:23:40.235960+00:00"
 published_url: /guides/neverness-to-everness-daily-quest-guide-nanally-build
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS8ofOdKXGjOzaOdJhrr13ThMkousWvR7lJ_1rifzs241scVygnjp4RZDIkWv1IR-ehFU58GJkAbX3IJL0wB-7e-wQhlzLIAUNQVFcCOA7ohkxTHqpzeG0Kw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-FxHd8LyIqC0jNxTBKMTTf9TBUhlBnezTl73z0yIwN28WwBi6O1LJjei93IWWx0bb9LsOkXqZWtVYswvJ8aNvg1TF1ap2jnzaSzjZRb3Ukdt8bMqvnsf3AQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQqU6Bz1Zx0m4PGaEZxiow3BycnmXoh80G7CPHMX0qIuSGzHZM-wO3rWDahMVnp9E2LpSwhkRsAjkd5Z9Y2JrZLU3lRcNYI2eOMsSVESmRL0Qjwt4Fxy31VYXm0L2T-lfWQMaew9A="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdVoE5uZpjQm6yw8_NCYxrUNd-kiW6Ub5OFyl0V4Nrd8Tuj13qgBLaLpdAv2SZl8iVrW5Ag9mgMzPTcN3-pS8Swg_JRO921iHFWE4UBFeL8qhPA-25ChHVRn3zh-_24BBCebBXDQK1jN6zWvyoIX3TBi5TGDZPVCMOEiUSq9iQTanbSJpYd-NuA4P_1CcTl1XDLrm4_5icBed5"
 game: unknown
 hero_image: /img/neverness-to-everness-daily-quest-guide-nanally-build/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-1.webp
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-2.webp
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-3.webp
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-4.webp
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-5.webp
   - /img/neverness-to-everness-daily-quest-guide-nanally-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Neverness to Everness (NTE) has taken the gacha world by storm since its April 29, 2026 release, and if you are looking to optimize your daily routine in Hethereau, there is no better character to lead your squad than [Nanally](/characters/nanally-guide-nte). As an S-Class Anima DPS, her high-frequency attacks and area-of-effect (AoE) capabilities make her the premier choice for clearing daily commissions with lightning speed.
 
@@ -62,7 +62,7 @@ The daily quest system in NTE is divided into three primary pillars: **Participa
 Nanally’s primary strength for daily content is her "Ichi-daime's Authority" state. Activated by her skill, this state grants her a 30% Crit DMG bonus and allows her to ignore gravity, making her incredibly mobile for urban traversal. When paired with a Cosmos support like Zero, she triggers the Blossom reaction, which spawns autonomous "Vita Buds" that fire at enemies automatically. This "set and forget" damage style is ideal for clearing waves of daily mobs.
 
 ### Daily Checklist Integration
-To reach 100 Participation Points efficiently, you should integrate Nanally into the following routine:
+To reach 100 Participation Points efficiently, you should integrate Nanally into the following routine
 1.  **Nacupeda's Pool:** Visit daily for a blessing and progress toward a free S-Rank Arc.
 2.  **The Witch's House:** Get your daily fortune to receive minor combat buffs.
 3.  **Participation Tasks:** These are found in the Exploration Guide and include tasks like "Spend 100 Character Pixels" or "Defeat 10 Anomalies."
@@ -95,7 +95,7 @@ In Neverness to Everness, weapons are known as **Arcs**. For Nanally, you want A
 *   **Unique Mechanic:** Obtaining both the "Left Tiger Talisman" (from Skill) and "Right Tiger Talisman" (from Ultimate) within 15 seconds unlocks the "Commander Tiger Talisman," increasing damage against Bosses by 10%.
 
 ### Best F2P Arcs
-If you didn't pull for her signature weapon, there are several powerful alternatives:
+If you didn't pull for her signature weapon, there are several powerful alternatives
 
 1.  **Fluff of Fortitude (Battle Pass):** This S-Class Arc provides a 27.5% ATK substat. Its passive, "Jawbreaker's Candy," increases all DMG by 22%, jumping to 28% when the enemy's HP falls below 50%. It is a fantastic "stat stick" for consistent daily clearing.
 2.  **Raging Flames (F2P S-Rank):** Obtained by completing the "Ride Assault" and "Bridge Crossings" anomaly commissions. It offers a 24% Crit Rate substat and boosts Lakshana/Anima damage after an Ultimate.
@@ -147,7 +147,7 @@ To clear daily content fast, you want a team that triggers the **Blossom** react
 3.  **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Incantation Buffer):** Sakiri provides team-wide ATK buffs and can trigger the "Hexed" reaction (Anima + Incantation), which deals a burst of damage based on the total damage dealt in the previous 3 seconds.
 
 ### F2P Daily Farming Squad
-If you are playing on a budget, this team uses guaranteed or highly accessible units:
+If you are playing on a budget, this team uses guaranteed or highly accessible units
 *   **Nanally (DPS)**
 *   **Mint (Anima Support):** Provides Anima resonance for increased damage and helps group enemies.
 *   **Adler (Shield/Support):** Provides survivability so you can ignore enemy attacks while performing Nanally's long basic attack strings.
@@ -190,7 +190,7 @@ During daily farming, you may need to use "Minty Whirlwind" (if using Mint) or N
 Open your in-game phone or the main menu and navigate to the **Exploration Guide**. The second tab on the left, labeled with a "70" icon, contains your **Participation Tasks**.
 
 **What time is the NTE daily reset?**
-The servers reset globally at **5:00 AM (UTC+8)**. For players in other regions, this translates to:
+The servers reset globally at **5:00 AM (UTC+8)**. For players in other regions, this translates to
 *   **NA (East):** 5:00 PM EST (Previous Day)
 *   **NA (West):** 2:00 PM PST (Previous Day)
 *   **Europe:** 10:00 PM GMT (Previous Day)
@@ -207,10 +207,10 @@ You must complete **Prologue - Part 2** of the main story. Once you reach the ci
 ## Sources
 
 - Icy Veins — https://www.icy-veins.com/nte/nanally-build-guide
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/nanally-build
-- Insider Gaming — https://insider-gaming.com/neverness-to-everness-nanally-build-guide/
-- Mobalytics — https://mobalytics.gg/neverness-to-everness/builds/nanally
-- Neverness.gg — https://neverness.gg/guides/nanally-build-guide/
+- GameWith
+- Insider Gaming
+- Mobalytics
+- Neverness.gg
 - Reddit — https://www.reddit.com/r/NevernessToEverness/comments/nanally_ideal_stats/
 - Sportskeeda — https://www.sportskeeda.com/gaming/nte-daily-reset-time-server-reset-schedule
-- Game Rant — https://gamerant.com/neverness-to-everness-daily-checklist-guide/
+- Game Rant

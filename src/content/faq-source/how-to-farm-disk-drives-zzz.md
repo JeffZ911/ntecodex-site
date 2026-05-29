@@ -1,4 +1,4 @@
----
+--
 title: "How to Farm Disk Drives in Zenless Zone Zero: A Complete Guide"
 slug: how-to-farm-disk-drives-zzz
 game: zzz
@@ -9,17 +9,17 @@ published_at: "2026-05-14T05:47:29.798945+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-farm-disk-drives-zzz/hero.webp
-inline_images:
+inline_images
   - /img/how-to-farm-disk-drives-zzz/inline-1.webp
   - /img/how-to-farm-disk-drives-zzz/inline-2.webp
   - /img/how-to-farm-disk-drives-zzz/inline-3.webp
   - /img/how-to-farm-disk-drives-zzz/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your Agent's potential in New Eridu requires more than just leveling up; you must master the Disk Drive system to optimize stats and set bonuses. This guide details every method for acquiring these essential items, from high-stakes Routine Cleanup missions to precision tuning at the Bardic Needle music store.
 
@@ -32,7 +32,7 @@ Maximizing your Agent's potential in New Eridu requires more than just leveling 
 ![Question Restated](/img/how-to-farm-disk-drives-zzz/inline-1.webp)
 
 
-Players often find themselves hitting a progression wall where simple character levels are no longer enough to clear difficult Hollow Zero or Shiyu Defense stages. This leads to several common questions regarding the equipment system:
+Players often find themselves hitting a progression wall where simple character levels are no longer enough to clear difficult Hollow Zero or Shiyu Defense stages. This leads to several common questions regarding the equipment system
 
 *   **What are the primary methods for obtaining Disk Drives in Zenless Zone Zero?** The two main avenues are Routine Cleanup missions, which use Battery Charge, and the Bardic Needle music store, which uses Master Copies obtained through dismantling or mission rewards.
 *   **At what Inter-Knot Level (IKL) does Disk Drive farming become available?** While the system introduces itself early, efficient farming only begins once you reach specific milestones that unlock higher-tier rewards.
@@ -75,7 +75,7 @@ Farming Disk Drives is a multi-layered process that evolves as your Inter-Knot L
 
 Routine Cleanup is accessed via the Compendium or by physically traveling to Scott Outpost. Each stage features a unique set of enemies and an "Environmental Effect" (buff) that usually favors a specific element or combat style. For example, some stages might provide a 50% DMG boost to Ice attacks, making Ice-based Agents like Ellen Joe or Lycaon ideal for clearing them quickly.
 
-Each stage drops two specific sets. For example:
+Each stage drops two specific sets. For example
 *   **Monster and Stranger:** Drops *Woodpecker Electro* (CRIT) and *Hormone Punk* (ATK).
 *   **Hunter and Hound:** Drops *Soul Rock* (DEF) and *Shockstar Disco* (Impact).
 *   **The Iron-Hearted:** Drops *Swing Jazz* (Energy Regen) and *Blues and Jazz* (Anomaly).
@@ -112,7 +112,7 @@ Slots 1, 2, and 3 are the easiest to farm because their main stats never change.
 
 ### Farming Efficiency: When to Spend Your Battery Charge
 
-The golden rule of Zenless Zone Zero progression is to avoid "hard farming" Disk Drives until IKL 45. Before this point, your Battery Charge is better spent on:
+The golden rule of Zenless Zone Zero progression is to avoid "hard farming" Disk Drives until IKL 45. Before this point, your Battery Charge is better spent on
 1.  **Agent Promotion Materials** (Combat Simulation)
 2.  **W-Engine Components** (Combat Simulation)
 3.  **Skill Chips** (Combat Simulation)
@@ -128,7 +128,7 @@ Farming the disks is only half the battle; you also need the materials to upgrad
 
 ### Top Disk Drive Sets for Every Role
 
-Knowing which sets to farm is essential for team building. Here are the most prominent sets as of May 2026:
+Knowing which sets to farm is essential for team building. Here are the most prominent sets as of May 2026
 
 *   **Woodpecker Electro:** 2-Piece: CRIT Rate +8%. 4-Piece: Triggering a CRIT hit with a Basic Attack, Dodge Counter, or EX Special Attack grants an ATK buff. This is the "gold standard" for Attack Agents.
 *   **Shockstar Disco:** 2-Piece: Impact +6%. 4-Piece: Increases Daze inflicted by Basic Attacks and Dash Attacks. Essential for Stun Agents like Anby or Lycaon.
@@ -153,8 +153,8 @@ As your inventory fills up, you must decide which disks to dismantle at the Bard
 By following this structured approach to farming—prioritizing IKL milestones, using coffee buffs, and being selective with Tuning Calibrators—you will ensure your Agents are equipped to handle the toughest challenges New Eridu has to offer.
 
 ## Sources
-- prydwen.gg — https://www.prydwen.gg/zenless/guides/disk-detail
+- prydwen.gg
 - game8.co — https://game8.co/games/Zenless-Zone-Zero/archives/459424
 - zenless-zone-zero.fandom.com — https://zenless-zone-zero.fandom.com/wiki/Disk_Drive
 - hoyolab.com — https://www.hoyolab.com/article/30740348
-- mobalytics.gg — https://mobalytics.gg/zzz/guides/farming-disk-drives/
+- mobalytics.gg

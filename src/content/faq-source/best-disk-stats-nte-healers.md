@@ -1,4 +1,4 @@
----
+--
 title: "Best Disk Stats for NTE Healers: Neverness to Everness Guide"
 slug: best-disk-stats-nte-healers
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disk-stats-nte-healers/hero.webp
-inline_images:
+inline_images
   - /img/best-disk-stats-nte-healers/inline-1.webp
   - /img/best-disk-stats-nte-healers/inline-2.webp
   - /img/best-disk-stats-nte-healers/inline-3.webp
   - /img/best-disk-stats-nte-healers/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your team's survivability in Neverness to Everness requires a deep understanding of the Console system to balance raw healing output with energy regeneration. Choosing the correct stats for your Disks, Cartridges, and Modules determines whether your Espers can sustain through the high-damage bursts found in late-game "Beyond the Rails" challenges.
 
@@ -34,7 +34,7 @@ Maximizing your team's survivability in Neverness to Everness requires a deep un
 
 Players seeking to optimize their support units often ask: what are the most effective stats for "Disks" (Arc Weapons) for healers in Neverness to Everness? Because the game utilizes a multi-layered equipment system, the answer involves more than just picking a single primary attribute. You must consider how primary and secondary attributes prioritize different aspects of a sustain-focused Esper's kit.
 
-Specifically, this guide addresses:
+Specifically, this guide addresses
 *   The priority for primary and secondary attributes on Cartridges and Arc Weapons.
 *   The scaling differences between healers like Edgar and Jiuyuan.
 *   The impact of the "Tetris" Module system on overall healing efficiency.
@@ -81,7 +81,7 @@ Not all healers in NTE use the same stats for their base calculations. Misalloca
 
 ### Best Cartridge Sets for Healers
 
-Choosing the right set bonus is the foundation of a healer build. As of May 23, 2026, two sets dominate the meta:
+Choosing the right set bonus is the foundation of a healer build. As of May 23, 2026, two sets dominate the meta
 
 1.  **Thea’s Night Tavern (4-Piece):** This is the gold standard for pure sustain. The 2-piece bonus grants 10% Healing Bonus, while the 4-piece bonus increases the healing received by all allies by an additional 15% for 10 seconds after the wearer uses an Ultimate.
 2.  **Speedy Hedgehog (4-Piece):** This set is designed for "Cycle" teams. The 2-piece bonus increases Charge Efficiency by 20%. The 4-piece bonus grants the entire team a 10% ATK boost whenever the wearer uses a support skill. This is ideal for Zero or Jiuyuan in high-speed compositions.
@@ -98,7 +98,7 @@ For endgame content like "Beyond the Rails," a healer should aim for a **Charge 
 
 ### Healing Bonus vs. Scaling Stat Efficiency
 
-A common mistake is stacking Max HP on Edgar or ATK on Jiuyuan while ignoring the Healing Bonus stat. In NTE, the healing formula is roughly:
+A common mistake is stacking Max HP on Edgar or ATK on Jiuyuan while ignoring the Healing Bonus stat. In NTE, the healing formula is roughly
 
 `Total Heal = (Base Scaling Stat * Skill Multiplier) * (1 + Healing Bonus)`
 
@@ -135,6 +135,6 @@ To unlock the "Fountain" weapon for a Healer-Main Character (Zero) build, you mu
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Character Analysis — https://www.prydwen.gg/nte/characters/
-- IGN: Neverness to Everness Gear Guide — https://www.ign.com/wikis/neverness-to-everness/Console_Systems
+- Prydwen Institute: NTE Character Analysis
+- IGN: Neverness to Everness Gear Guide
 - Reddit: r/NTE_Official Theorycrafting — https://www.reddit.com/r/NTE_Official/comments/healing_stats_math/

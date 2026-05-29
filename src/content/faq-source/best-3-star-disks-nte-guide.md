@@ -1,4 +1,4 @@
----
+--
 title: "Best 3-Star Disks in Neverness to Everness: Early Game Arc Guide"
 slug: best-3-star-disks-nte-guide
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 6.7
 word_count: 1822
 published_at: "2026-05-17T21:59:46.797567+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2vxOPfofd8wreLABYEDKxUCP_P0hvLkWfDWXF69-JKiji9cw__6F9kPt_mQ-KyB2sP8G13NK3EBHwXmJTIFGKERS-EZEmDHaSUiG84T3sav7HjJ8JgComUZhWQtN4JpsMJpKjJAB0AsCPvuRvN6pzMCnfwoP1o4A"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDGQH3z0Rl1siYnI1cXWGhQMcCV9cr-LfprsQ0HcgKuJqFqJHOCWLmZhRV8NxrDzP1rAAlaJ4RCsOM1J1DlQjDiD5MIblAxkkynTB0zJUv97kWCiwMsJzkfk_B-b7V9ACMplFHIYX5agr3Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2vaijLL6T69-fLsPoXeeOzesNqY0Le1Srg4_t9M62BNe1VXz8kB2z5VbYhFNl9Gj3rfs93xR0m2TXLF8VjuXYREayvbPhbwfYmqNb3XzLA7FY9E1D9HR1kZA8GGhS-CZgKFyHL21pnt87HSvIBluX3RVN8HgUyCw0As5cjwMktGNJIdk="
@@ -15,17 +15,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgHQc2t5dhlH0UtqbLdinQnaf-vCmR1jWpHociA149z0HluJAynneXzs7SMNWkNGsj5IBqzVxmqzcT5f2uzqEMohZOaJbsdypeX9omYoxfM3PaIjg-L_oOlzXrGtjYfPUFxTVGIJwzbda-vws4UW8J9Xb10FvrXTv9nwopas-IgfU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbhP1Wx9BxMAWLGV4Lb9H-QdQHpKTy9-Hs-chsmPwUenwUyy0OF4C_ekriBOCxBliN0C_RI7JNQHLun8jQAgMoQ9z7nC-AsV-qny1EsWjYH7bwTIL361_y37zmBm_3-fyf4dUBQ1PqG_APA04O3GpK_znagnjCACGHNi-P2cZ8B80="
 hero_image: /img/best-3-star-disks-nte-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-3-star-disks-nte-guide/inline-1.webp
   - /img/best-3-star-disks-nte-guide/inline-2.webp
   - /img/best-3-star-disks-nte-guide/inline-3.webp
   - /img/best-3-star-disks-nte-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your early game efficiency in Hethereau requires more than just leveling up your Espers; it demands the right equipment to complement their unique Arc Types. While S-rank Arcs like "Ready-Ready" dominate the late-game meta, understanding the best 3-star disks for NTE is the key to clearing early commissions and urban anomalies without hitting a progression wall.
 
@@ -40,7 +40,7 @@ Maximizing your early game efficiency in Hethereau requires more than just level
 
 In the early stages of Neverness to Everness (NTE), players often wonder which 3-star (B-rarity) Disks provide the most value for their investment. With the game's release on April 29, 2026, the community has quickly identified that while S-rank and A-rank Arcs offer higher base stats, the accessibility of B-rarity Arcs makes them indispensable for early-game progression.
 
-The primary questions for new Appraisers include:
+The primary questions for new Appraisers include
 *   **What are the top-performing 3-star (B-rarity) Disks in Neverness to Everness?** Players need to know which low-rarity weapons punch above their weight class.
 *   **How do 3-star Arcs compare to higher rarity S-rank and A-rank weapons?** This involves understanding the trade-off between raw stats and the ease of "Mixing" (refining) lower-tier gear.
 *   **Which 3-star Disks should players prioritize for early game progression?** Identifying the "must-haves" for specific roles like DPS, support, and shield-breaking.
@@ -78,7 +78,7 @@ The best 3-star Disks (B-rarity Arcs) in Neverness to Everness are **Oraora!** f
 
 ### Understanding the Arc and Disk System
 
-In Neverness to Everness, "Disks" are the physical, equippable form of Arcs, which serve as the game’s primary weapon system. Unlike traditional RPGs where weapons might be swords or staves, Arcs are supernatural objects that resonate with an Esper’s power. Every Arc has three core components:
+In Neverness to Everness, "Disks" are the physical, equippable form of Arcs, which serve as the game’s primary weapon system. Unlike traditional RPGs where weapons might be swords or staves, Arcs are supernatural objects that resonate with an Esper’s power. Every Arc has three core components
 1.  **Base ATK:** This scales with the Arc's level and provides the foundation for your character's damage.
 2.  **Substat:** A secondary stat such as CRIT Rate, ATK%, HP%, or Break Intensity.
 3.  **Arc Skill:** A unique passive ability that can be enhanced through the "Mixing" system.
@@ -101,7 +101,7 @@ For tankier characters or dedicated shielders, **Umbrella** is the gold standard
 
 One of the most critical mechanics in NTE is the Arc Type restriction. Characters are strictly categorized into one of five types: **Plasma, Solid, Gas, Liquid, or Synthesis**. You cannot equip a Plasma Arc on a Solid-type character. 
 
-This restriction means that even if you have a Max-Mixed "Oraora!", you can only use it if you have a Plasma-type DPS on your team. This makes it vital to keep at least one high-quality 3-star Disk for every Arc Type. For example:
+This restriction means that even if you have a Max-Mixed "Oraora!", you can only use it if you have a Plasma-type DPS on your team. This makes it vital to keep at least one high-quality 3-star Disk for every Arc Type. For example
 *   **Gas Type:** Look for **Be Happy**, which restores 12% to 20% HP upon defeating an enemy, making it great for mob clearing.
 *   **Liquid Type:** **Shiny Days** is your go-to for breaking enemy stagger bars.
 *   **Solid Type:** **Time Bandit** is excellent for utility, as it summons the companion "Picky" to help unlock objects in the open world while boosting Break Intensity.
@@ -114,7 +114,7 @@ A Max-Mixed (T5) 3-star Arc will often outperform a base (T1) 4-star Arc. For in
 
 ### Early Game Character Pairings
 
-To get the most out of your 3-star Disks, pair them with the following starting characters:
+To get the most out of your 3-star Disks, pair them with the following starting characters
 *   **Nanally (Plasma):** Always equip **Oraora!**. Her rapid-fire "Ichi-daime" style attacks build stacks almost instantly.
 *   **Zero (Solid):** Pair with **The Forgotten** or **Time Bandit**. Zero benefits from the ATK/DEF swap of The Forgotten, especially when using his self-healing passives to stay above the 50% HP threshold.
 *   **Chiz (Gas):** Use **Be Happy** or **Watch Your Heads!** (if available). Chiz relies on high critical uptime, and the utility of Gas-type Arcs helps maintain her presence on the field.
@@ -140,7 +140,7 @@ A common mistake for new players is focusing entirely on their Disk level while 
 
 ### Farming Materials for Arc Development
 
-To level up your 3-star Disks, you will need a steady supply of **Beetle Coins** and **Elite Hunter Guides**. These can be farmed through:
+To level up your 3-star Disks, you will need a steady supply of **Beetle Coins** and **Elite Hunter Guides**. These can be farmed through
 *   **Daily Commissions:** The most reliable source of XP materials.
 *   **Scarborough Fair [Information not yet publicly available as of 2026-05-17]:** Using [Information not yet publicly available as of 2026-05-17] to pull for new Arcs often yields "fodder" Arcs that can be used to level up your primary Disks.
 *   **Hethereau Field Bosses:** Defeating anomalies in the open world frequently drops Arc ascension materials.
@@ -149,11 +149,11 @@ By efficiently managing your resources and focusing on the top-tier 3-star Disks
 
 ## Sources
 
-- perfectworld.com — https://www.perfectworld.com/news/nte-launch-faq
-- neverness.gg — https://neverness.gg/guides/arcs-stats-effects/
+- perfectworld.com
+- neverness.gg
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-weapon-tier-list.html
 - icy-veins.com — https://www.icy-veins.com/nte/arcs/oraora-guide/
-- ntegame.com — https://ntegame.com/database/arcs/the-forgotten/
-- prydwen.gg — https://www.prydwen.gg/nte/arcs/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/umbrella-arc-guide
+- ntegame.com
+- prydwen.gg
+- gamewith.net
 - lootbar.gg — https://lootbar.gg/guide/nte-mint-best-build-arcs-teams

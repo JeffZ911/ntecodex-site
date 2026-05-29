@@ -1,4 +1,4 @@
----
+--
 title: Best Neverness to Everness Team Comps Tier List (May 2026)
 slug: best-team-comps-nte-beginners
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-team-comps-nte-beginners/hero.webp
-inline_images:
+inline_images
   - /img/best-team-comps-nte-beginners/inline-1.webp
   - /img/best-team-comps-nte-beginners/inline-2.webp
   - /img/best-team-comps-nte-beginners/inline-3.webp
   - /img/best-team-comps-nte-beginners/inline-4.webp
   - /img/best-team-comps-nte-beginners/inline-5.webp
   - /img/best-team-comps-nte-beginners/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Building a functional team in Hethereau requires more than just high-level characters; it demands a deep understanding of how various Esper abilities interact to trigger high-damage reactions. With the recent launch of Neverness to Everness on April 29, 2026, the meta has rapidly crystallized around specific elemental synergies that define how efficiently you can clear "Beyond the Rail" challenges and story content.
 
@@ -38,7 +38,7 @@ Building a functional team in Hethereau requires more than just high-level chara
 
 Ranking team compositions in Neverness to Everness (NTE) involves analyzing the "Cycle Efficiency" of a four-person squad. Unlike traditional RPGs where you might focus solely on a single DPS, NTE rewards players for rotating through their entire roster to fill "Esper Meters." Once these meters are full, switching characters triggers elemental reactions that provide the bulk of your damage output.
 
-Our evaluation criteria focus on the following pillars:
+Our evaluation criteria focus on the following pillars
 
 *   **Cycle Efficiency:** The speed at which a team can cycle through all four members' skills to trigger reactions.
 *   **Reaction Uptime:** We prioritize teams that can maintain a constant stream of "Blossom" (Cosmos + Anima) or "Scorch" (Incantation + Chaos) procs.
@@ -224,4 +224,4 @@ For beginners, the best strategy remains focusing on a Blossom-centric team usin
 - Neverness to Everness Official X (formerly Twitter) — https://x.com/NTE_GL
 - Game8 NTE Wiki & Character Database — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Release and Gameplay Guide — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Tier List and Character Rankings — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Tier List and Character Rankings

@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Reroll Tier List: Best Characters to Pull"
 slug: neverness-to-everness-reroll-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-reroll-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-reroll-tier-list/inline-1.webp
   - /img/neverness-to-everness-reroll-tier-list/inline-2.webp
   - /img/neverness-to-everness-reroll-tier-list/inline-3.webp
   - /img/neverness-to-everness-reroll-tier-list/inline-4.webp
   - /img/neverness-to-everness-reroll-tier-list/inline-5.webp
   - /img/neverness-to-everness-reroll-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Securing a powerful start in the supernatural urban landscape of Hethereau requires more than just luck; it requires a strategic approach to your initial pulls. This Neverness to Everness (NTE) reroll tier list breaks down the best characters to target in May 2026 to ensure your account remains competitive through the Version 1.0 endgame.
 
@@ -168,9 +168,9 @@ By targeting Hotori or Sakiri during your reroll process, you ensure that your a
 ## Sources
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
-- PC Gamer — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-open-world-supernatural-urban-rpg-from-the-tower-of-fantasy-devs/
-- Pocket Tactics — https://www.pockettactics.com/neverness-to-everness/release-date
-- Beebom — https://beebom.com/neverness-to-everness-release-date-trailers-platforms-gameplay/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-everything-we-know/
-- India Times — https://www.indiatimes.com/trending/human-interest/neverness-to-everness-nte-release-date-check-latest-updates-638356.html
-- Neverness.gg — https://neverness.gg/characters/hotori-guide/
+- PC Gamer
+- Pocket Tactics
+- Beebom
+- TheGamer
+- India Times
+- Neverness.gg

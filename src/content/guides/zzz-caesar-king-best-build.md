@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Caesar King Best Build: Best W-Engines, Discs, and Teams"
 slug: zzz-caesar-king-best-build
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T17:31:21.843652+00:00"
 published_url: /guides/zzz-caesar-king-best-build
 sources: []
 hero_image: /img/zzz-caesar-king-best-build/hero.webp
-inline_images:
+inline_images
   - /img/zzz-caesar-king-best-build/inline-1.webp
   - /img/zzz-caesar-king-best-build/inline-2.webp
   - /img/zzz-caesar-king-best-build/inline-3.webp
   - /img/zzz-caesar-king-best-build/inline-4.webp
   - /img/zzz-caesar-king-best-build/inline-5.webp
   - /img/zzz-caesar-king-best-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Caesar King stands as one of the most transformative Agents in Zenless Zone Zero, blending the durability of a Defense unit with the utility of a top-tier Stunner and Support. As the leader of the Sons of Calydon, she brings a unique Physical kit that revolves around massive shields and flat attack buffs.
 
@@ -171,7 +171,7 @@ Mastering Caesar requires understanding that she is a "reactive" character. You 
 5.  Swap back to your Main DPS.
 
 ### Maintaining Radiant Aegis
-The shield lasts 60 seconds, but it can be broken by heavy hits. To maintain 100% uptime:
+The shield lasts 60 seconds, but it can be broken by heavy hits. To maintain 100% uptime
 *   Use Caesar’s **Chain Attack** whenever a Stun is triggered. This refreshes the shield for free without consuming Caesar's energy.
 *   If the shield breaks early, wait for a Defensive Assist window or manually swap to Caesar and use her EX Special Attack.
 
@@ -200,6 +200,6 @@ It is not mandatory for clearing content, but it provides a significant power sp
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
 - Caesar King Wiki Page — https://zenless-zone-zero.fandom.com/wiki/Caesar_King
-- Prydwen Caesar King Build Guide — https://www.prydwen.gg/zenless-zone-zero/characters/caesar-king
+- Prydwen Caesar King Build Guide
 - Game8 Caesar King Best Build — https://game8.co/games/Zenless-Zone-Zero/archives/469449
-- ZZZ Database - W-Engines — https://zzz.gg/en-US/w-engine
+- ZZZ Database - W-Engines

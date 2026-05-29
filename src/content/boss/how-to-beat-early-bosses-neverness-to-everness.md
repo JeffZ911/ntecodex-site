@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Early Bosses in Neverness to Everness: Full Guide"
 slug: how-to-beat-early-bosses-neverness-to-everness
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/how-to-beat-early-bosses-neverness-to-everness
 sources: []
 game: unknown
 hero_image: /img/how-to-beat-early-bosses-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-early-bosses-neverness-to-everness/inline-1.webp
   - /img/how-to-beat-early-bosses-neverness-to-everness/inline-2.webp
   - /img/how-to-beat-early-bosses-neverness-to-everness/inline-3.webp
   - /img/how-to-beat-early-bosses-neverness-to-everness/inline-4.webp
   - /img/how-to-beat-early-bosses-neverness-to-everness/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering the urban anomalies of Hethereau requires more than just high-level gear; it demands a deep understanding of the telegraphs and elemental weaknesses of the city’s most dangerous residents. This guide provides the tactical breakdown necessary to overcome the initial difficulty spikes in Neverness to Everness, ensuring your team survives the transition from the tutorial to the complex multi-phase encounters of Episode 3.
 
@@ -166,4 +166,4 @@ By focusing on the Break Gauge and mastering the Discord reaction, you can overc
 - IGN: Neverness to Everness Combat Guide — https://www.ign.com/guides/neverness-to-everness
 - Game8: NTE Boss Weakness Table — https://game8.co/games/Neverness-to-Everness/archives/boss-guide
 - Reddit: r/NTE - Arachne Phase 2 Parry Windows — https://www.reddit.com/r/NTE/comments/1cd456/arachne_guide/
-- Prydwen.gg: Neverness to Everness Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen.gg: Neverness to Everness Character Database

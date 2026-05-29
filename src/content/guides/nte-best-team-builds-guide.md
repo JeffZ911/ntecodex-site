@@ -1,4 +1,4 @@
----
+--
 title: "NTE Best Team Builds Guide: Top Meta Comps & Synergies"
 slug: nte-best-team-builds-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-best-team-builds-guide
 sources: []
 game: unknown
 hero_image: /img/nte-best-team-builds-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-team-builds-guide/inline-1.webp
   - /img/nte-best-team-builds-guide/inline-2.webp
   - /img/nte-best-team-builds-guide/inline-3.webp
   - /img/nte-best-team-builds-guide/inline-4.webp
   - /img/nte-best-team-builds-guide/inline-5.webp
   - /img/nte-best-team-builds-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your team composition in Neverness to Everness (NTE) is the most effective way to clear high-level Anomaly containment zones and dominate the streets of Hethereau.
 
@@ -178,7 +178,7 @@ The gacha system in Neverness to Everness uses a dice-board mechanic rather than
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- IGN: Neverness to Everness Everything We Know — https://www.ign.com/articles/neverness-to-everness-everything-we-know-about-the-new-open-world-rpg
+- IGN: Neverness to Everness Everything We Know
 - Game8: NTE Character and Team Guide — https://game8.co/games/Neverness-to-Everness
 - Neverness to Everness Official X (Twitter) — https://x.com/NTE_GLO
 - Hotta Studio Official Developer Blog — https://www.hottastudio.com/news

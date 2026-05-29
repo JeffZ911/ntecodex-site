@@ -1,4 +1,4 @@
----
+--
 title: How Does Elemental Mastery Work in Genshin Impact? (2024 Guide)
 slug: how-does-elemental-mastery-work-genshin
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T11:41:40.265983+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-does-elemental-mastery-work-genshin/hero.webp
-inline_images:
+inline_images
   - /img/how-does-elemental-mastery-work-genshin/inline-1.webp
   - /img/how-does-elemental-mastery-work-genshin/inline-2.webp
   - /img/how-does-elemental-mastery-work-genshin/inline-3.webp
   - /img/how-does-elemental-mastery-work-genshin/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the nuances of Elemental Mastery is the difference between a character that hits like a wet noodle and one that clears the Spiral Abyss in seconds.
 
@@ -87,7 +87,7 @@ The formula for the damage bonus is a hyperbolic curve. For example, the bonus f
 
 ### Best Characters for Elemental Mastery Builds
 
-The following characters are the most prominent users of EM-centric builds in the current meta:
+The following characters are the most prominent users of EM-centric builds in the current meta
 
 | Rank | Character | Primary Reason for EM Build |
 | :--- | :--- | :--- |
@@ -163,4 +163,4 @@ Regarding specific Natlan-specific mechanics like "Lunar" reactions: [Informatio
 - Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact/archives/297488
 - Paimon.moe Database — https://paimon.moe
 - HoYoLAB Official Community — https://www.hoyolab.com/article/563454
-- KeqingMains Theorycrafting Library — https://keqingmains.com/misc/multipliers/
+- KeqingMains Theorycrafting Library

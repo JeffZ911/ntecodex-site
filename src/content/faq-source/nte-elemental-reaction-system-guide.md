@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Elemental Reaction Guide: Esper Cycles"
 slug: nte-elemental-reaction-system-guide
 article_type: faq
@@ -9,15 +9,15 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-elemental-reaction-system-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-reaction-system-guide/inline-1.webp
   - /img/nte-elemental-reaction-system-guide/inline-3.webp
   - /img/nte-elemental-reaction-system-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the streets of Hethereau requires more than just fast reflexes; you must understand the intricate flow of the Esper Cycle to dismantle the city's supernatural Anomalies. 
 
@@ -111,7 +111,7 @@ Parrying is the fastest way to trigger reactions. A successful Perfect Parry not
 
 ### Team Building Strategy: The 'Blossom' and 'Soup' Archetypes
 
-When building a team in NTE, you generally follow one of two philosophies:
+When building a team in NTE, you generally follow one of two philosophies
 
 **The Blossom Archetype**
 This team focuses on the "Charge" side of the Esper Wheel (Lakshana, Cosmos, Anima). The goal is to maximize uptime on character skills and maintain a high Cycle Rate. A typical Blossom team might use [Nanally](/characters/nanally-guide-nte) (Anima) as the primary driver, Zero (Cosmos) for grouping, and a Lakshana-element support to complete the Trio Cycle. This archetype excels in long fights where sustained damage and resource management are key.
@@ -132,7 +132,7 @@ Understanding the elements is only the first step. To truly master NTE, you must
 
 ### NTE Character Element Assignments
 
-Knowing your roster's elemental alignment is crucial for planning your rotations. Below is a list of known characters and their corresponding Esper types:
+Knowing your roster's elemental alignment is crucial for planning your rotations. Below is a list of known characters and their corresponding Esper types
 
 *   **Cosmos (Silver):** Zero
 *   **Anima (Green):** Nanally
@@ -154,13 +154,13 @@ Anomalies in Hethereau often have "Esper Shields" that are highly resistant to m
 
 ## Sources
 
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-combat-elements-guide/
-- ntegame.com — https://www.ntegame.com/en/news/detail/102
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-combat-system-explained/
-- kaiden.gg — https://kaiden.gg/nte/guides/elemental-reactions-esper-cycle/
+- thegamer.com
+- ntegame.com
+- mobalytics.gg
+- kaiden.gg
 - gamingonphone.com — https://gamingonphone.com/guides/neverness-to-everness-beginners-guide-tips-and-tricks/
-- neverness.gg — https://neverness.gg/wiki/elements/
+- neverness.gg
 - youtube.com — https://www.youtube.com/watch?v=dQw4w9WgXcQ (Example link for video guide reference)
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-combat-guide-elements-reactions-explained
 - enjoygm.com — https://www.enjoygm.com/news/neverness-to-everness-elemental-system-guide
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-elemental-reaction-system-esper-cycle-explained/
+- gamerant.com

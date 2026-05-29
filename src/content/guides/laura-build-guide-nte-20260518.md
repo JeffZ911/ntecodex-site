@@ -1,4 +1,4 @@
----
+--
 title: "Laura (Nanally) Build Guide: Best Weapons, Disks, and Teams (NTE)"
 slug: laura-build-guide-nte-20260518
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-18T06:13:36.003059+00:00"
 published_url: /guides/laura-build-guide-nte-20260518
 sources: []
 hero_image: /img/laura-build-guide-nte-20260518/hero.webp
-inline_images:
+inline_images
   - /img/laura-build-guide-nte-20260518/inline-1.webp
   - /img/laura-build-guide-nte-20260518/inline-2.webp
   - /img/laura-build-guide-nte-20260518/inline-3.webp
   - /img/laura-build-guide-nte-20260518/inline-4.webp
   - /img/laura-build-guide-nte-20260518/inline-5.webp
   - /img/laura-build-guide-nte-20260518/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 As the premier Anima DPS in the current meta, [Nanally](/characters/nanally-guide-nte)—widely known by the community as Laura—dominates the battlefield with her unique umbrella-based combat style and devastating follow-up attacks. This guide provides the optimal configuration to maximize her damage output and master her complex "Blossom" mechanics in Neverness to Everness.
 
@@ -182,7 +182,7 @@ Yes. While Scarborough Fair is a significant power spike, she is perfectly viabl
 This is Nanally's enhanced combat state, triggered by her Skill or Ultimate. While in this state, her umbrella glows with a teal Anima aura. It grants her a [Information not yet publicly available as of 2026-05-18]% Crit DMG bonus and is the only time she can generate Vita Pistils. Maintaining 100% uptime on this state is the primary goal of her rotation.
 
 ### Troubleshooting Damage Output
-If your Nanally feels like she isn't doing enough damage, check the following:
+If your Nanally feels like she isn't doing enough damage, check the following
 *   **Pistil Count:** Are you maintaining at least 3 Pistils? If not, check your rotation.
 *   **Reaction Trigger:** Are you applying Cosmos with Zero or Jiuyuan? Without the Blossom reaction, your damage will drop by nearly 40%.
 *   **Disk Levels:** Ensure your Slot 4 (Anima DMG) Disk is maxed out, as this is her most important scaling factor.
@@ -190,6 +190,6 @@ If your Nanally feels like she isn't doing enough damage, check the following:
 ## Sources
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
-- IGN: Neverness to Everness Beginner's Guide — https://www.ign.com/articles/neverness-to-everness-guide
+- IGN: Neverness to Everness Beginner's Guide
 - Reddit: r/NTE_Official Nanally Theorycrafting — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Tier List and Builds — https://www.prydwen.gg/nte/characters/nanally
+- Prydwen Institute: NTE Tier List and Builds

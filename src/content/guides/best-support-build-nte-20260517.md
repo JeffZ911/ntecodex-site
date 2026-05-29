@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Build for Neverness to Everness (NTE): Top Gear"
 slug: best-support-build-nte-20260517
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T09:37:08.399173+00:00"
 published_url: /guides/best-support-build-nte-20260517
 sources: []
 hero_image: /img/best-support-build-nte-20260517/hero.webp
-inline_images:
+inline_images
   - /img/best-support-build-nte-20260517/inline-1.webp
   - /img/best-support-build-nte-20260517/inline-2.webp
   - /img/best-support-build-nte-20260517/inline-3.webp
   - /img/best-support-build-nte-20260517/inline-4.webp
   - /img/best-support-build-nte-20260517/inline-5.webp
   - /img/best-support-build-nte-20260517/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Success in the high-stakes urban combat of Hesperia depends entirely on how efficiently you can cycle through your team to trigger devastating elemental reactions. While the flashy DPS characters like [Nanally](/characters/nanally-guide-nte) or Baicang take the spotlight, the support units are the engine that drives the Esper Cycle and ensures your team survives the city's most dangerous Anomalies.
 
@@ -115,7 +115,7 @@ The current meta identifies two primary sets for support characters, depending o
 
 ### Module Stat Priority for Supports
 
-When leveling your Modules within these Cartridges, you should focus on the following stat hierarchy:
+When leveling your Modules within these Cartridges, you should focus on the following stat hierarchy
 
 1.  **Charge Efficiency:** This is the non-negotiable priority. You want your support to have their Ultimate ready every single rotation.
 2.  **ATK% or HP%:** Depending on the character's scaling. Sakiri scales with ATK, while Haniel and Fadia scale with HP.
@@ -194,6 +194,6 @@ Yes, buffs from different sources generally stack. For example, the ATK buff fro
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki & Character Hub — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute NTE Guide — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Guide
 - IGN Neverness to Everness Walkthrough — https://www.ign.com/games/neverness-to-everness
 - Reddit r/NTE_Official Community — https://www.reddit.com/r/NTE_Official/

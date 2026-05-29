@@ -1,4 +1,4 @@
----
+--
 title: "Best W-Engine for Support in Zenless Zone Zero: Tier List & Guide"
 slug: zzz-best-w-engine-for-support
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 9.6
 word_count: 2049
 published_at: "2026-05-14T10:12:33.422929+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGSjDCix-pmuC5VNIX9m-uY8GHr1SudVYGDcgw-xgmKxI6NgE8W7yVzyvANEIrJ3Hpf5_yMhgB6oDTTzb6f5E9v2YrX2C5oPY8kRQtdH3dv4iFMAy2CGBDBrYn0BWw40XwOsenJP6P67Jq1mH_dC-jai9rDw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaV-kPZ5yuOQlFUrfcV4KEpJaFZ_F1b0-b0pGKeeJrnQ5DqwIVdFBXPf9EgkYlx7svRs3Rr_X_nLIgbt9QibOKLDQQXHHX8azAS8gRYpqMQiEnSpK81Cm1Cnnaf-kkXjKm5qEyT0RcXpw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ReuWW_KqFSeljLEi9q1WLhl06FF8kli3ediZX93qekn_8-Bz3BprFDjAJYN8q1evIPuD8m8Sx_9RrMveWy01NP6qicPUIZt5jMXGHA8OBbHzUxirss19HTzlC-VB"
@@ -34,17 +34,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAb43aV4tWJ5G_sPrJTOALdAg4VWwYfm2XDa586Z47CsFxBMdC_AoHvMp7T00EacPFDom28qqccHuCTEAy2JmbOh1StSWkbKMKvX0EI6hoWt48HShudd1nC3ODRXyLLymqVqEZUUw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAkmBnrdj6jAVAfDuaYVh6N0HfivWveIc4V0T9bJC5VQuwaMQDQx8nD31QUH2AcnUiyftnJdI7WmCOUd_kOPAxR-zj6kK48YR_PSSE61VyPWzUGN8DUjsD1yyHScDphD908pXrmJJrAJSy7HQJqZeFwGgkcCe0kbqkDrUlAB_n3NTK1vPRVXgo6-6_4UfdvxRG8dA1SPA9Xdgpnek="
 hero_image: /img/zzz-best-w-engine-for-support/hero.webp
-inline_images:
+inline_images
   - /img/zzz-best-w-engine-for-support/inline-1.webp
   - /img/zzz-best-w-engine-for-support/inline-2.webp
   - /img/zzz-best-w-engine-for-support/inline-3.webp
   - /img/zzz-best-w-engine-for-support/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Support Agents are the backbone of high-tier team compositions in Zenless Zone Zero, providing the essential buffs and energy utility required to clear high-difficulty Shiyu Defense stages. Selecting the right gear for these characters ensures your primary damage dealers can maintain maximum uptime on their burst windows.
 
@@ -65,7 +65,7 @@ Support Agents in Zenless Zone Zero are designed to enhance the performance of t
 
 ### Key Stats for Support W-Engines
 
-The most critical stats for a Support W-Engine are:
+The most critical stats for a Support W-Engine are
 
 *   **Energy Regen / Energy Generation Rate (ERR):** This allows the Support Agent to use their EX Special Move more frequently. Since most Support buffs are tied to EX Special Moves or Ultimates, high ERR is mandatory for consistent rotations.
 *   **PEN Ratio:** This stat allows the team to ignore a portion of the enemy's DEF. While often seen on Attack units, some Support W-Engines (like Weeping Cradle) provide PEN Ratio to help the Support contribute meaningful chip damage and amplify the team's total output.
@@ -125,7 +125,7 @@ A-Rank W-Engines often provide more specialized bonuses than their S-Rank counte
 
 ### Utility Options: Slice of Time and Unfettered Game Ball
 
-These two A-Rank options provide utility that doesn't fit into a specific elemental niche:
+These two A-Rank options provide utility that doesn't fit into a specific elemental niche
 
 *   **Slice of Time:** This engine is focused on Decibel generation. It allows the team to reach their Ultimate faster. It is a niche pick for teams that rely on heavy Ultimate usage rather than sustained Basic Attack damage.
 *   **Unfettered Game Ball:** This Battle Pass (New Eridu City Fund) exclusive weapon provides a team-wide CRIT Rate buff of 12% to 20% whenever the equipper triggers an Attribute Counter. It is highly effective in teams that frequently exploit elemental weaknesses.
@@ -164,7 +164,7 @@ When deciding between a W-Engine with high Energy Regen (like Kaboom) and one wi
 
 ### How to Obtain and Upgrade Support W-Engines
 
-Support W-Engines can be obtained through several methods:
+Support W-Engines can be obtained through several methods
 
 1.  **Signal Search:** Standard and Limited banners are the primary sources for S-Rank and A-Rank engines.
 2.  **Box Galaxy (Gadget Store):** You can craft specific A-Rank W-Engines using W-Engine Chips and specialized components.
@@ -180,7 +180,7 @@ Maximizing your Support Agents requires more than just a good W-Engine. You must
 
 ### Top Support Agents in ZZZ
 
-As of Version 2.7, the Support meta is dominated by **Sunna** and **Ukinami Yuzuha**, who offer unprecedented utility for Physical and [Information not yet publicly available as of 2026-05-14] teams respectively. However, the 1.0 roster remains essential for F2P players:
+As of Version 2.7, the Support meta is dominated by **Sunna** and **Ukinami Yuzuha**, who offer unprecedented utility for Physical and [Information not yet publicly available as of 2026-05-14] teams respectively. However, the 1.0 roster remains essential for F2P players
 
 *   **Nicole:** Essential for Ether teams and grouping enemies.
 *   **Soukaku:** The premier buffer for Ice teams.
@@ -197,7 +197,7 @@ Support W-Engines shine best when paired with the correct Drive Discs. For most 
 ## Sources
 
 - Zenless Zone Zero Fandom Wiki — https://zenless-zone-zero.fandom.com/wiki/W-Engine
-- Prydwen Zenless Zone Zero Guide — https://www.prydwen.gg/zenless-zone-zero/w-engines/
+- Prydwen Zenless Zone Zero Guide
 - Game8 ZZZ W-Engine Tier List — https://game8.co/games/Zenless-Zone-Zero/archives/435905
 - Mobalytics ZZZ W-Engine Database — https://mobalytics.gg/zzz/w-engines
 - Honey Hunter World ZZZ Database — https://zzz.honeyhunterworld.com/w-engine/

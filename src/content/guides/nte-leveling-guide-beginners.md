@@ -1,4 +1,4 @@
----
+--
 title: "NTE Leveling Guide for Beginners: Best Builds and Progression Tips"
 slug: nte-leveling-guide-beginners
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1851
 published_at: "2026-05-21T16:23:54.213456+00:00"
 published_url: /guides/nte-leveling-guide-beginners
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH89rkJa0QLx0-2epfPm46wXQOUzW1w2Ers3NMNth7LJ3c4kO2o_AxgRnJh640Xfi5JjhHzO3Xs4aYb-bxO0ffIXhG2bgcmUGgFI8pMPXBQb-4qXKPKMYthp-tEEnjtNZDk22vEp0WOnsudi1gVgbZx6HP3QtpLSDnx_JG7PCro6nXrX7On_ZcfxpMmTQfZ9c-Hv7rhMmvwPTLNPjNKBw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdq9PTpD2CAadU5Fe4DNFQI16rTkSYAC654uMTeYDA5kCcra4PFbU2xxNSGgn3AtfgJ5x4I3OLPrpv0cQVf1ojLNQ4n4k6igPUVmPDQl7_exjuxm3Uqqvk7WAbIJoaMN4OunomjiSD5bl1rr4YHcJF09x4CHXfWQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZUa5xQ6AWYiNE7E8S9LcfJFor7AY4KRh9lqjhmVSUGMbWWfsDNy7SZuSJpA0es5Gj09rXlg22PNWSeNJD48F-plS0bXKWwU6YbkjV3yTsm7xxAadj_50AcqP8qk75VCLR76L3MZ9IZFX3lql9h5sgUMQnzJ2aiR9LtclDPeULao7lM8ssDF4NpAx0oKhIxTKxDupXBM="
@@ -33,21 +33,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuSQIuh78g29JynN57smWZ3duXMTb8p_l1K0nxtbhC_hol-1QVAL3_5j-IP0CRg_lBpsREt6FUVgmHX0dOoV4_A79sq2C6skwuo2k-CLqveCgwA3NSdoEYAY75ZN6N-AVQYc09_AEgb29_fT8Gm1x4v9Qi-XVTcRKK1lU8Cppyu68rWR2yLp3g1TXxJOirHhwRd4A1cVHlIhKbivAsr0wz3pC_PO5CeAb3nFPssf3bXg=="
 game: unknown
 hero_image: /img/nte-leveling-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-leveling-guide-beginners/inline-1.webp
   - /img/nte-leveling-guide-beginners/inline-2.webp
   - /img/nte-leveling-guide-beginners/inline-3.webp
   - /img/nte-leveling-guide-beginners/inline-4.webp
   - /img/nte-leveling-guide-beginners/inline-5.webp
   - /img/nte-leveling-guide-beginners/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Navigating the supernatural metropolis of Hethereau requires more than just fast reflexes; it demands a deep understanding of the city's complex progression systems and the "Esper Cycle" that drives combat. Whether you are hunting anomalies for the Eibon antique shop or managing a burgeoning cafe empire in the City Tycoon mode, your efficiency depends on how well you balance your Hunter Level with your character builds.
 
@@ -128,7 +128,7 @@ A Console consists of a grid and a central Cartridge that defines the set bonus.
 
 ### The Console Grid System
 
-NTE is remarkably player-friendly regarding stats; all four sub-stats on a Module are visible immediately upon acquisition. You do not need to level a piece to see if it is "trash." When building your Console, prioritize the following stats:
+NTE is remarkably player-friendly regarding stats; all four sub-stats on a Module are visible immediately upon acquisition. You do not need to level a piece to see if it is "trash." When building your Console, prioritize the following stats
 1. **Elemental DMG Bonus** (matches your Esper's element)
 2. **Crit Rate / Crit DMG** (for DPS characters)
 3. **ATK%** (universal scaling)
@@ -227,13 +227,13 @@ Fons are primarily farmed through the **City Tycoon** system.
 Once you reach Hunter Level 50, you unlock the highest difficulty of the **Anomaly Zones**. This is where you farm Legendary (Gold) Cartridges. The ultimate challenge is the **Beyond the Rail** mode, a multi-stage combat trial that requires two fully built teams. Focus on building a "Discord" team for one half and a "Blossom" team for the other to cover all elemental resistances.
 
 ## Sources
-- perfectworld.com — https://www.perfectworld.com/news/nte-official-launch-april-29
-- frvr.com — https://frvr.com/neverness-to-everness-release-date-times-countdown
+- perfectworld.com
+- frvr.com
 - wikipedia.org — https://en.wikipedia.org/wiki/Neverness_to_Everness
-- neverness.gg — https://neverness.gg/guides/city-tycoon-guide
+- neverness.gg
 - mobalytics.gg — https://mobalytics.gg/nte/guides/beginner-leveling-guide
 - gamewith.net — https://gamewith.net/nte/article/show/hunter-level-appraisal-guide
-- ntewiki.org — https://ntewiki.org/esper-cycle-reactions-guide
-- gamerant.com — https://gamerant.com/nte-all-free-s-rank-arcs-locations
-- kaiden.gg — https://kaiden.gg/nte/characters/nanally-rotation-guide
+- ntewiki.org
+- gamerant.com
+- kaiden.gg
 - icy-veins.com — https://www.icy-veins.com/nte/news/launch-banners-revealed-nanally-hotori

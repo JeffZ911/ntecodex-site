@@ -1,4 +1,4 @@
----
+--
 title: "NTE Current Banner Schedule: May 2026 Character & Weapon Rotations"
 slug: nte-current-banner-schedule-may-2026
 game: nte
@@ -8,7 +8,7 @@ word_count: 1875
 published_at: "2026-05-13T02:28:38.665450+00:00"
 published_url: /news/nte-current-banner-schedule-may-2026
 sources: []
----
+--
 
 Neverness to Everness (NTE) has officially entered its second week of live service following its global launch on April 29, 2026. Players in the supernatural city of Hethereau are currently navigating the final days of the Version 1.0 Phase 1 banners before the first major rotation occurs later this month.
 
@@ -81,7 +81,7 @@ The most revolutionary change in NTE is the complete removal of the 50/50 mechan
 | **Selection Mechanic** | Dice/Board Movement | Random Pull |
 
 **Standard Banner S-Class Pool**
-The "Standard Board" is a permanent banner that uses a different currency but maintains the same board-game mechanics. Players receive a one-time selector after 50 pulls on this board. The current pool includes:
+The "Standard Board" is a permanent banner that uses a different currency but maintains the same board-game mechanics. Players receive a one-time selector after 50 pulls on this board. The current pool includes
 - [Sakiri](/characters/sakiri-nte-free-5-star-guide)
 - Baicang
 - Hathor
@@ -164,5 +164,5 @@ The first month of Neverness to Everness has set a high bar for player-friendly 
 - Neverness to Everness Official X (Twitter) — https://x.com/NTE_GL
 - Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki
 - Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
-- Prydwen.gg NTE Section — https://www.prydwen.gg/nte/
+- Prydwen.gg NTE Section
 - IGN: Neverness to Everness Release News — https://www.ign.com/games/neverness-to-everness

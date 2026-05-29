@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elemental Reaction System Explained: Master the Esper Cycle"
 slug: nte-elemental-reaction-system-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T11:53:31.773757+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-elemental-reaction-system-explained/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-reaction-system-explained/inline-1.webp
   - /img/nte-elemental-reaction-system-explained/inline-2.webp
   - /img/nte-elemental-reaction-system-explained/inline-3.webp
   - /img/nte-elemental-reaction-system-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Master the intricate elemental dance of Neverness to Everness by understanding how the Esper Cycle dictates your combat efficiency and team synergy.
 
@@ -32,7 +32,7 @@ Master the intricate elemental dance of Neverness to Everness by understanding h
 ![Question Restated](/img/nte-elemental-reaction-system-explained/inline-1.webp)
 
 
-Understanding the combat mechanics in Neverness to Everness (NTE) requires a deep dive into how characters, known as Espers, interact with one another on the battlefield. Players frequently ask:
+Understanding the combat mechanics in Neverness to Everness (NTE) requires a deep dive into how characters, known as Espers, interact with one another on the battlefield. Players frequently ask
 
 *   What is the elemental reaction system in Neverness to Everness (NTE)?
 *   How do the six different Esper types interact with each other to produce unique effects?
@@ -50,7 +50,7 @@ This guide breaks down the "Esper Cycle" system, providing the data needed to op
 
 The elemental reaction system in NTE is formally called the "Esper Cycle." Unlike other open-world RPGs where any two elements might interact, NTE utilizes a hexagonal "Esper Wheel" where reactions only occur between adjacent elements.
 
-There are six primary elements (Espers) in the game:
+There are six primary elements (Espers) in the game
 1.  **Lakshana** (Yellow/Gold)
 2.  **Cosmos** (Blue/Silver)
 3.  **Anima** (Green/Teal)
@@ -156,7 +156,7 @@ By focusing on the adjacency rules of the Esper Wheel and utilizing characters l
 
 *   NTE Official Website — https://nte.perfectworld.com/
 *   Game8 NTE Combat Guide — https://game8.co/games/Neverness-to-Everness/
-*   Prydwen Institute NTE Elemental Tables — https://www.prydwen.gg/nte/guides/elemental-system/
+*   Prydwen Institute NTE Elemental Tables
 *   IGN Neverness to Everness Review and Mechanics — https://www.ign.com/games/neverness-to-everness
 *   Official NTE Discord - Combat-Discussion Channel — https://discord.com/invite/nte
 *   Kaden.gg NTE Character Database — https://kaiden.gg/nte/characters/

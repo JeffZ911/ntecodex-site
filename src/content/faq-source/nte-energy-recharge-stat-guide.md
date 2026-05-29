@@ -1,4 +1,4 @@
----
+--
 title: "NTE Energy Recharge Stat Guide: Maximize Your Ultimate Uptime"
 slug: nte-energy-recharge-stat-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-energy-recharge-stat-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-energy-recharge-stat-guide/inline-1.webp
   - /img/nte-energy-recharge-stat-guide/inline-2.webp
   - /img/nte-energy-recharge-stat-guide/inline-3.webp
   - /img/nte-energy-recharge-stat-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your Ultimate uptime is the difference between a stalled rotation and a seamless combat flow in the neon-drenched streets of Hethereau. Understanding how to generate and manage your resources is vital for clearing high-level Anomaly Zones and mastering the Esper-swapping combat system.
 
@@ -30,7 +30,7 @@ Maximizing your Ultimate uptime is the difference between a stalled rotation and
 ![Question Restated](/img/nte-energy-recharge-stat-guide/inline-1.webp)
 
 
-When players first enter the world of Neverness to Everness (NTE), one of the most common questions involves the "Energy Recharge" mechanic found in other urban RPGs. Specifically, players want to know:
+When players first enter the world of Neverness to Everness (NTE), one of the most common questions involves the "Energy Recharge" mechanic found in other urban RPGs. Specifically, players want to know
 
 *   What is the Energy Recharge stat called in Neverness to Everness (NTE)?
 *   How does this stat function compared to other combat resources like the Esper Cycle Meter?
@@ -48,7 +48,7 @@ In Neverness to Everness, the equivalent of Energy Recharge is the **Charge Effi
 
 Charge Efficiency increases the energy generated from basic attacks, combat skills, successful parries, and specific elemental reactions. It is important to distinguish this from **Cycle Rate**, which is the stat governing the fill speed of the **Esper Cycle Meter**. While the Esper Cycle Meter allows for character swapping and "Esper Swap" skills, Charge Efficiency is dedicated solely to your Ultimate ability uptime.
 
-The primary methods to boost Charge Efficiency include:
+The primary methods to boost Charge Efficiency include
 *   **Cartridge Sets:** Equipping the **Speedy Hedgehog** set.
 *   **Arcs:** Equipping specific weapons (Arcs) that feature Charge Efficiency as a secondary attribute.
 *   **Elemental Reactions:** Utilizing the **Charge** trio reaction, which consists of the Lakshana, Cosmos, and Anima elements.
@@ -156,7 +156,7 @@ For teams utilizing the **Charge Trio Reaction**, you can often run lower Charge
 ![Related](/img/nte-energy-recharge-stat-guide/inline-4.webp)
 
 
-To further optimize your performance in Hethereau, consider exploring our other specialized guides:
+To further optimize your performance in Hethereau, consider exploring our other specialized guides
 
 *   **NTE Esper Cycle and Elemental Reactions Guide:** Learn the intricacies of combining elements beyond just the Charge reaction.
 *   **Best Support Characters Tier List for NTE:** Find out which characters best utilize the Speedy Hedgehog set to buff your team.
@@ -168,6 +168,6 @@ To further optimize your performance in Hethereau, consider exploring our other 
 *   Neverness to Everness Official Website — https://nte.perfectworld.com/
 *   Reddit: Neverness to Everness Community — https://www.reddit.com/r/NTE_Official/
 *   Game8: NTE Character and Stat Database — https://game8.co/games/Neverness-to-Everness
-*   Prydwen Institute: NTE Combat Mechanics — https://www.prydwen.gg/nte/
+*   Prydwen Institute: NTE Combat Mechanics
 *   IGN: Neverness to Everness Wiki and Guides — https://www.ign.com/games/neverness-to-everness
-*   Mobalytics: NTE Team Building and Energy Stats — https://mobalytics.gg/blog/nte-energy-recharge-guide/
+*   Mobalytics: NTE Team Building and Energy Stats

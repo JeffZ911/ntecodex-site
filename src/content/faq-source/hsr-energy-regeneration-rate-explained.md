@@ -1,4 +1,4 @@
----
+--
 title: "HSR Energy Regeneration Rate Explained: Breakpoints & Guide"
 slug: hsr-energy-regeneration-rate-explained
 game: hsr
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1924
 published_at: "2026-05-14T06:24:08.041942+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMe1esw_h4fCj00nWWNJg5m_SuvCXkZHAMU3WS9wFfUA4T2q0khu3IWADQLqNlLbl5EbbGv6zrCM2buC3_IGtGHPUusa5IZz1u8Lgn5I2mdSxAx1r8Wj9p8aY3vWHvbH3Oy08p0vOBIsGPwNtOobtUW7-sz-r8tPjSVPC5xvTZXZWbMV0VJzeP636ECwVDwcR0CKGtjahGR-xm4v0rSw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5yzrRDdm1Jk8tzF7Nglg76MFFHCmI8-tAyESlB8A-mEmbBQyE0WHBFdPzv3NhihZt_tYtEoO6zN5lE7nnayJX4RMwsMo_MDGYWTb4puvBTBXCnCJ7MGVoe25_8KVKDmADneijrw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEURc0VGtrWG9mYJTlTn4AZFylthEw_UugdjimKOZplXNUWHOay1m7qcUoZXR8eWvOsO5AvBeK7XuA3s08UKx2Y1LgqshjOpwvLmpqts7XsBTh9MROfUn_I-Fi-nbPlQ3JAVMYb4podEC_F7ymWIr184MI="
@@ -23,17 +23,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuuKMwmkn1I_2WcVoIpr7OrLK6PsOIhDHrAJkdaBtk8ml74ib_v20eq_Amyy0GNhYj13-1sjWQYeXaTZe33NWc4G3dfG7uOTqM8NqXp0SqJw4J-CXWXOS1B08aQKTixwyIGewgPSM7sIsiagTsUK6lwpQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM2w_aGKlS4cbKuI7mKpiu6ycCnOK7unSkkkvHVXnkaoS4dYS_VPYAkaKNLYMi-r6ReMBEzV3g33ZJGfsTBU1Lmvd2eZ-bM09EyDQaawCmYl-FyAM9Xqfzqy2KK56tMZDmXiieYQ=="
 hero_image: /img/hsr-energy-regeneration-rate-explained/hero.webp
-inline_images:
+inline_images
   - /img/hsr-energy-regeneration-rate-explained/inline-1.webp
   - /img/hsr-energy-regeneration-rate-explained/inline-2.webp
   - /img/hsr-energy-regeneration-rate-explained/inline-3.webp
   - /img/hsr-energy-regeneration-rate-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 In Honkai: Star Rail, the difference between a character who feels clunky and one who feels unstoppable often comes down to a single stat: Energy Regeneration Rate (ERR). Managing your Ultimate uptime is the most effective way to maintain buffs, sustain your team, and maximize damage windows during difficult content like Memory of Chaos or Apocalyptic Shadow.
 
@@ -82,7 +82,7 @@ The primary and most consistent source of ERR is the Link Rope (Planar Ornament)
 
 Every character in Honkai: Star Rail has a Max Energy cap, ranging from as low as 90 to as high as 180. To use an Ultimate, the character must fill this gauge. Energy is generated through several standard actions, and the amount gained is then multiplied by your total Energy Regeneration Rate.
 
-The formula for actual energy gained is:
+The formula for actual energy gained is
 **Total Energy Gained = Base Action Energy x (Total ERR% / 100)**
 
 For instance, if a character with 120% ERR uses a Skill (30 base energy), they will receive 36 energy (30 x 1.2).
@@ -114,7 +114,7 @@ Because you cannot "farm" ERR through sub-stats, your ability to optimize a char
 
 ### Light Cones and Relic Sets: Maximizing Your Recharge
 
-While the Link Rope provides the bulk of your ERR, several other sources are vital for hitting specific thresholds:
+While the Link Rope provides the bulk of your ERR, several other sources are vital for hitting specific thresholds
 
 1.  **Planar Ornament Sets:** Sprightly Vonwacq, Penacony Land of the Dreams, and Lushaka the Sunken Seas all provide a flat 5% ERR bonus. Penacony is particularly popular for mono-element teams, while Lushaka provides an additional ATK boost to the first character in the team lineup.
 2.  **Harmony Light Cones:** "But the Battle Isn't Over" (Bronya's signature) is a staple for Harmony units, offering 10% ERR at S1. For players looking at newer options, "A Grounded Ascent" (Sunday's signature) provides 12% ERR and significant team-wide utility.
@@ -123,7 +123,7 @@ While the Link Rope provides the bulk of your ERR, several other sources are vit
 
 ### Exceptions to the Rule: Acheron, Robin, and Fixed Energy
 
-Not every character follows the standard ERR rules. As the game has evolved, several unique mechanics have been introduced:
+Not every character follows the standard ERR rules. As the game has evolved, several unique mechanics have been introduced
 
 *   **Acheron:** Acheron does not use Energy at all. Her Ultimate is charged by "Slashed Dream" stacks, which are gained when she uses her Skill or when any unit (ally or enemy) inflicts a debuff. Consequently, ERR stats and ERR Link Ropes are completely useless on Acheron.
 *   **Robin:** Robin has a massive 160 Energy cost. While she benefits from ERR, her primary energy source is her Talent, "Tonal Resonance," which grants her a fixed 2 Energy whenever an ally attacks. [Information not yet publicly available as of 2026-05-14] regarding whether future ERR-style buffs will interact with this fixed talent value.
@@ -153,7 +153,7 @@ As a general rule, Support characters (Harmony, Abundance, and some Nihility) al
 
 ### External Energy Sources: Batteries and Light Cone Procs
 
-If you cannot find a high-quality ERR Link Rope, you can supplement your energy needs through "Batteries." These are characters or equipment that provide energy to others:
+If you cannot find a high-quality ERR Link Rope, you can supplement your energy needs through "Batteries." These are characters or equipment that provide energy to others
 
 *   **Tingyun (Ultimate):** Grants 50–60 energy to a single target.
 *   **Huohuo (Ultimate):** Grants energy equal to 15%–20% of each ally's Max Energy.
@@ -167,7 +167,7 @@ By combining these external sources with your character's internal ERR, you can 
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Energy
 - Prydwen Institute - HSR Guides — https://www.prydwen.gg/star-rail/guides/
 - Game8 HSR Wiki — https://game8.co/games/Honkai-Star-Rail/archives/405905
-- Mobalytics HSR Robin Guide — https://mobalytics.gg/blog/hsr-robin-guide/
-- Mobalytics HSR Firefly Guide — https://mobalytics.gg/blog/hsr-firefly-guide/
+- Mobalytics HSR Robin Guide
+- Mobalytics HSR Firefly Guide
 - HoYoLAB Acheron Mechanics — https://www.hoyolab.com/article/26425971
 - Reddit Theorycrafting: Energy Optimization — https://www.reddit.com/r/HonkaiStarRail/comments/14hqn87/an_optimization_guide_on_energy_recharge/

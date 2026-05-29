@@ -1,4 +1,4 @@
----
+--
 title: "Best 5-Star Sword in Wuthering Waves: 2026 Comparison Guide"
 slug: best-5-star-sword-wuwa-comparison
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:49:14.243290+00:00"
 published_url: /guides/best-5-star-sword-wuwa-comparison
 sources: []
 hero_image: /img/best-5-star-sword-wuwa-comparison/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-sword-wuwa-comparison/inline-1.webp
   - /img/best-5-star-sword-wuwa-comparison/inline-2.webp
   - /img/best-5-star-sword-wuwa-comparison/inline-3.webp
   - /img/best-5-star-sword-wuwa-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing the right weapon for your Resonator can define your success in the Tower of Adversity, especially when deciding where to invest your hard-earned Lustrous and Forging Tides. This guide evaluates every option to help you determine the best 5 star sword wuwa has to offer for your specific team composition.
 
@@ -111,7 +111,7 @@ If you are reaching Union Level 45 and opening your 5-Star Weapon Supply Chest, 
 If you are pushing the highest floors of the Tower of Adversity and use Changli or Havoc Rover as your primary carry, pulling for **Blazing Brilliance** is a significant upgrade. The 56% Skill DMG bonus provides a scaling factor that ATK% weapons cannot match. For sub-DPS characters, the choice becomes more nuanced. If your Sanhua or Yangyang is struggling to get their Liberation back on cooldown, a weapon focused on Energy Regeneration like Laser Shearer [Information not yet publicly available as of 2026-05-12] may be preferable.
 
 ### Character-Specific Best-in-Slot (BiS) List
-Based on current testing and the 2026 meta, here are the top recommendations for every current sword user:
+Based on current testing and the 2026 meta, here are the top recommendations for every current sword user
 
 *   **Rover (Havoc/Spectro):** Blazing Brilliance (BiS for Damage), Emerald of Genesis (Best Generalist).
 *   **Changli:** Blazing Brilliance (BiS).
@@ -125,8 +125,8 @@ Based on current testing and the 2026 meta, here are the top recommendations for
 Emerald of Genesis is the most future-proof sword in Wuthering Waves. Its combination of Crit Rate, Energy Regeneration, and ATK% covers every base a Resonator needs. Even as newer, more specialized swords like Blazing Brilliance are released, the "Standard" sword remains the baseline against which all others are measured. Unless a character has a very specific mechanic that scales off a different stat (like Defense or HP), Emerald of Genesis will likely remain a top-tier choice well into the 3.x and 4.x patches.
 
 ## Sources
-- wuthering.wiki — https://wuthering.wiki/weapon_12050015.html
+- wuthering.wiki
 - prydwen.gg — https://www.prydwen.gg/wuthering-waves/weapons/
 - game8.co — https://game8.co/games/Wuthering-Waves/archives/454533
 - Official Wuthering Waves Website — https://wutheringwaves.kurogames.com/en/main/news/detail/823
-- Game Rant — https://gamerant.com/wuthering-waves-wuwa-best-swords-ranked/
+- Game Rant

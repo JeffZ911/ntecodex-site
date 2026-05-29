@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Bosses in Neverness to Everness: NTE Boss Guide"
 slug: how-to-beat-boss-nte-guide
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.1
 word_count: 1420
 published_at: "2026-05-19T23:04:50.156003+00:00"
 published_url: /boss/how-to-beat-boss-nte-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUbaLUH9Wb4DUWe9s38oJFpyCpF6S5QAzyU5ZQ-njpDx3M4eJLstz-QkG2qvf5sKbSdrQon8smiBbf4MDHExi72DMOPCF0evKqNvzV5qLaKrkpS77OillL"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvjOH6ki_0KW2CMvCj-IMBSXNhyqTyKFgbMyPXjMWrJv7zQlgDgT3F4_BAuY9p-JjkuCfXILg3YKzb9TamtW4tvSSVXqeig1pK7p7n9jspOaJLumA_QjXRh7Tl0futIqX6YXb3wWBhhF-oXg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX-xzeKOoLcQ_pmq4qEbXbYs6h6Hdpg1G7u0InhyXT3x-L4ejVQMkm4Y_qluBq9FF8i3z8cPvQ8gl0Cno6vvu8Pzmdeq52NX9ShHSEGODPHBAa3hMleLgor9TFGV4YZ1yurRlABZhw4Cfc6c4sr0n4aixzs55UMEzI_1JzfEi10ayWiwMI2-WbGqckFUbQV4_2qUha4ApKPqw4ouzYPmrAx2Yopw=="
@@ -24,19 +24,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXPYusT5V1KNYgT2POGRaZza4fRoDX169DU2SqHY_rvI2whvOZn8IxZMBFeP8TU2PDftMbTnFmHBtgC5saImyvFk7i46uqEhHPBMX6ZJxur3UlR6u5JomSk9g-Mp4AZQdr2OsmXrIkGegjJYFD6zoq1QPwtN6aKGNZhckvumcfy_oQ5NY="
 game: unknown
 hero_image: /img/how-to-beat-boss-nte-guide/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-boss-nte-guide/inline-1.webp
   - /img/how-to-beat-boss-nte-guide/inline-2.webp
   - /img/how-to-beat-boss-nte-guide/inline-3.webp
   - /img/how-to-beat-boss-nte-guide/inline-4.webp
   - /img/how-to-beat-boss-nte-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering the high-stakes anomalies of Hethereau requires more than just raw power; it demands a deep understanding of the Esper Cycle system.
 
@@ -167,9 +167,9 @@ Stockpiling Dress Sleeves of Vanity is recommended even if you aren't currently 
 
 ## Sources
 - Icy Veins — https://www.icy-veins.com/nte/characters/adler-build-guide/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-nte-never-ending-arachne-boss-guide/
-- GameRant — https://gamerant.com/neverness-to-everness-nte-esper-cycle-guide-discord-charge/
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/46522
+- TheGamer
+- GameRant
+- GameWith
 - Nerd's Chalk — https://nerdschalk.com/neverness-to-everness-nte-how-to-get-dress-sleeves-of-vanity/
 - Icy Veins — https://www.icy-veins.com/nte/items/dress-sleeves-of-vanity/
-- PowerPyx — https://www.powerpyx.com/neverness-to-everness-walkthrough-all-quests/
+- PowerPyx

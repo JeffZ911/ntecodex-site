@@ -1,4 +1,4 @@
----
+--
 title: Best Disk Sets for Healers in Neverness to Everness (NTE)
 slug: best-disk-sets-healers-nte
 game: nte
@@ -9,17 +9,17 @@ published_at: "2026-05-14T13:05:42.973773+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/best-disk-sets-healers-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-disk-sets-healers-nte/inline-1.webp
   - /img/best-disk-sets-healers-nte/inline-2.webp
   - /img/best-disk-sets-healers-nte/inline-3.webp
   - /img/best-disk-sets-healers-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Keeping your team healthy in the supernatural urban landscape of Hethereau requires more than just a powerful Esper; you need the right gear to maximize every drop of healing. This guide breaks down the best Disk Sets (Cartridges) for healers in Neverness to Everness (NTE) to ensure your squad survives the toughest anomalies.
 
@@ -81,7 +81,7 @@ The 2-piece bonus provides a 12% boost to Charge Efficiency. This is arguably th
 
 Edgar is currently the premier dedicated healer in NTE. His kit revolves around his "Wild Current" skill and his Ultimate, which provides sustained recovery. However, Edgar has a unique nuance: his "Wild Current" skill scales off the *ally's* Max HP rather than his own for a portion of the heal, while his Ultimate scales off his own Max HP.
 
-To optimize Edgar:
+To optimize Edgar
 *   **Disk Set:** Speedy Hedgehog (Meta) or Thea’s Night Tavern (Survival).
 *   **Main Stat Priority:** Healing Bonus (Circuit 4), HP% (Circuit 2), Charge Efficiency (Circuit 3).
 *   **Sub-stats:** Charge Efficiency > HP% > Flat HP.
@@ -109,7 +109,7 @@ When farming for Cartridges, knowing which stats to keep and which to recycle is
 
 ### Optimizing the Tetris Console for Supports
 
-The Console system can be frustrating for new players. To optimize your healer's grid:
+The Console system can be frustrating for new players. To optimize your healer's grid
 *   **Prioritize Type IV Modules:** These usually carry the most potent main stats like Healing Bonus.
 *   **Shape Management:** Don't be afraid to use a lower-rarity Module if its shape allows you to complete a 4-piece set bonus. A Blue (B-rank) Module that completes the Speedy Hedgehog set is often better than an Orange (S-rank) Module that breaks the set.
 *   **Symmetry:** Most healer Consoles have a central core. Place your highest-priority stats there to benefit from any "Core Resonance" bonuses your specific Esper might have.
@@ -141,7 +141,7 @@ Healers are the backbone of any elemental reaction team.
 
 ### How to Farm Healer Gear Efficiently
 
-To maximize your farming efficiency:
+To maximize your farming efficiency
 1.  **Check Daily Anomalies:** Some daily world events provide "Cartridge Scraps" which can be traded for specific set pieces.
 2.  **Level Your World Rank:** Higher World Ranks significantly increase the drop rate of S-rank (Orange) Modules.
 3.  **Use the Recycler:** Any Modules with "Dead Stats" (like Flat DEF on an offensive healer) should be recycled into "Module Dust" to buy targeted boxes from the shop.
@@ -152,8 +152,8 @@ As the game evolves, upcoming characters like Lacrimosa are expected to introduc
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/disk-sets-healers
-- kaiden.gg — https://kaiden.gg/nte/database/cartridges
-- prydwen.gg — https://www.prydwen.gg/nte/guides/healer-builds
+- neverness.gg
+- kaiden.gg
+- prydwen.gg
 - Official Neverness to Everness Discord — https://discord.gg/nte-official
 - Reddit r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/comments/gearing_guide_supports/

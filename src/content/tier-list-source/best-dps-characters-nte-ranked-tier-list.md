@@ -1,4 +1,4 @@
----
+--
 title: "Best DPS Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-dps-characters-nte-ranked-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T09:37:03.641092+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-dps-characters-nte-ranked-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-dps-characters-nte-ranked-tier-list/inline-1.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-2.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-3.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-4.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-5.webp
   - /img/best-dps-characters-nte-ranked-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Maximizing your damage output in the supernatural metropolis of Hethereau requires a deep understanding of how specific character elements and "Arc" weapon types interact. This guide ranks the current roster to help you prioritize your resources and dominate the game's most challenging anomalies.
 
@@ -176,10 +176,10 @@ Early data from the version 1.1 preview suggests the arrival of a new character,
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- PC Gamer: Neverness to Everness Preview — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-open-world-urban-supernatural-rpg-from-the-tower-of-fantasy-devs/
-- IGN: NTE Character Reveal — https://www.ign.com/articles/neverness-to-everness-announcement-details
+- PC Gamer: Neverness to Everness Preview
+- IGN: NTE Character Reveal
 - Pocket Tactics: NTE Tier List Guide — https://www.pockettactics.com/neverness-to-everness/tier-list
-- Eurogamer: Hotta Studio's New Project — https://www.eurogamer.net/hotta-studio-announces-supernatural-urban-open-world-rpg-neverness-to-everness
-- Lootbar: NTE Character Stats and Mechanics — https://www.lootbar.gg/blog/neverness-to-everness-characters-and-elements
+- Eurogamer: Hotta Studio's New Project
+- Lootbar: NTE Character Stats and Mechanics
 - LDShop: Best Teams for NTE 1.0 — https://www.ldshop.gg/blog/nte-best-team-compositions-guide
-- Neverness.gg Wiki — https://neverness.gg/wiki/characters
+- Neverness.gg Wiki

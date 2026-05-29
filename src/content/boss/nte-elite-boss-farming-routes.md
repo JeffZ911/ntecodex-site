@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elite Boss Farming Routes: Best Locations & Strategies"
 slug: nte-elite-boss-farming-routes
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 2057
 published_at: "2026-05-20T21:57:42.271172+00:00"
 published_url: /boss/nte-elite-boss-farming-routes
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT7sPXSkMLmv69vdIsFz6iXZ3VCD7P36ZwfA_-b9O7fV20XTNdrYAq-gx1c30lZ1HOD04l1tTlWsRTOOtDO2hYeIyQ2jB0Qjw-_2koTytSaAMmu0aWdc9gaIRdeCvZR3HFLH3adQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH05tZZAxIp0BSLndhZjvQxPe50LMdOAs2LVCRxRtycRA9S6Y7kC_Epxw_S36j5Zq0Gllh6fJiyboZbRYx58WRVHeRwm2qpfj0zFcZNBtjOwaTJZ3C6jqAgiA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQoMfQpcqJhh_sVJ6Z2OwpH_ABU2aNPf7fU7_C_L2TNonN3AX2KsMdVn6urdw7suJnOm6xS5t4j3AbcH0H6FmQ5ErcseN2MiTJEuTKc8vhD2jyhD-wP-qsX0fFAXjij3gvKLl_Hld"
@@ -23,19 +23,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpr4Y4ZGUH_XWQmOw4KXrC7WttcI3dK9mw2mpPdaluj0Asc9b_LCIGo_7H0dlnMt06yzMMHLGPktRiE_zXELa4232iYr1PlzMmHQDkcRPGx8worSEWEvsveBAWLycwD2K_HwDaTGLGJ_4CXoDUazV-b1rsTjURkhXfTA7CGGIiNPPCyCijrW1tIrc9JA53JZGUETP9YFlIYIv5"
 game: unknown
 hero_image: /img/nte-elite-boss-farming-routes/hero.webp
-inline_images:
+inline_images
   - /img/nte-elite-boss-farming-routes/inline-1.webp
   - /img/nte-elite-boss-farming-routes/inline-2.webp
   - /img/nte-elite-boss-farming-routes/inline-3.webp
   - /img/nte-elite-boss-farming-routes/inline-4.webp
   - /img/nte-elite-boss-farming-routes/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Optimization in Neverness to Everness (NTE) requires a disciplined approach to Anomaly Hunts, as Elite Bosses provide the necessary materials for character ascension and high-tier gear. Efficiently clearing these encounters is the fastest way to progress through the Hunter Levels and secure S-Rank Arcs for your team.
 
@@ -77,7 +77,7 @@ Every Elite Boss features a secondary bar beneath their health known as the Brea
 Success in Elite Boss farming is as much about defense as it is about offense. NTE utilizes a high-action combat system where telegraphs are your primary source of information. Ignoring these cues often leads to a quick team wipe, especially in high-risk Anomaly Hunts.
 
 ### Critical Dodge vs. Parry Windows
-There are two main defensive mechanics to master:
+There are two main defensive mechanics to master
 *   **Critical Dodge:** When an enemy's attack flashes red, timing your dodge perfectly will trigger a "Critical Dodge." This slows down time slightly and allows your character to perform a powerful counter-attack, often restoring a portion of your stamina or energy.
 *   **Parry Windows:** Certain heavy attacks are preceded by closing red circles. If you use a skill or a heavy attack just as the circles overlap, you perform a Parry. This deals massive damage to the boss's Break Meter and can interrupt their entire combo chain.
 
@@ -136,7 +136,7 @@ The current meta for Elite Boss farming revolves around the "Discord" reaction. 
 **Why it works:** When you apply Scorch (Incantation + Chaos) and Nova (Psyche + Chaos) to the same target, you trigger **Discord**. This reaction instantly deducts a large percentage of the boss's Break Meter.
 
 ### Budget Friendly: F2P Anomaly Hunters
-If you haven't pulled the S-Rank units yet, this team can still clear all Elite content:
+If you haven't pulled the S-Rank units yet, this team can still clear all Elite content
 *   **DPS: Zero (Cosmos).** The protagonist has an "Instant Cycle" mechanic on their skill that allows for rapid character swapping.
 *   **Healer: Edgar (Cosmos).** Provides reliable healing and helps maintain the Cosmos resonance.
 *   **CC: Sakiri (Incantation).** (Available via the Standard Board selector or early pulls).
@@ -189,12 +189,12 @@ While you can fight these bosses as often as you like for practice, "containing"
 
 ## Sources
 
-- Gamewith — https://gamewith.net/neverness-to-everness/article/show/46571
+- Gamewith
 - Icy Veins — https://www.icy-veins.com/nte/baicang-guide-builds/
 - LDPlayer — https://www.ldplayer.net/blog/neverness-to-everness-baicang-build-guide.html
 - Siliconera — https://www.siliconera.com/nte-neverness-to-everness-launches-alongside-twitch-drops-promotion/
 - Push Square — https://www.pushsquare.com/news/2026/04/nte-launch-guide-release-times-free-pulls-codes-and-more
-- GameRant — https://gamerant.com/nte-esper-cycle-guide-reactions/
-- Games.gg — https://games.gg/nte/how-to-beat-sea-prisoner/
-- AllClash — https://www.allclash.com/best-discord-core-reaction-team-nte/
-- Kaiden.gg — https://kaiden.gg/nte/baicang-build-guide/
+- GameRant
+- Games.gg
+- AllClash
+- Kaiden.gg

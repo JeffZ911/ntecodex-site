@@ -1,4 +1,4 @@
----
+--
 title: "How to Unlock NTE Endgame Content: Beyond the Rails & More"
 slug: how-to-unlock-nte-endgame-content
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-nte-endgame-content/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-nte-endgame-content/inline-1.webp
   - /img/how-to-unlock-nte-endgame-content/inline-2.webp
   - /img/how-to-unlock-nte-endgame-content/inline-3.webp
   - /img/how-to-unlock-nte-endgame-content/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Reaching the level cap and optimizing your Esper roster is the primary goal for any dedicated player in Hethereau. This guide explains the specific requirements and milestones you must hit to unlock Neverness to Everness (NTE) endgame content, including the Beyond the Rails challenge and high-tier City Tycoon features.
 
@@ -34,7 +34,7 @@ Reaching the level cap and optimizing your Esper roster is the primary goal for 
 
 Players arriving in the urban sprawl of Hethereau often find themselves wondering exactly when the training wheels come off. Specifically, many are looking for the exact Hunter Level requirements to access the most difficult combat modes and the prerequisites for high-tier economic systems.
 
-The most common questions regarding the NTE endgame include:
+The most common questions regarding the NTE endgame include
 *   What are the specific Hunter Level requirements to access endgame modes in Neverness to Everness?
 *   When does the "Beyond the Rails" combat challenge become available for players?
 *   What are the prerequisites for unlocking high-tier economic and gear-farming systems like the Rabbit Hole?
@@ -96,7 +96,7 @@ If you have focused all your resources on a single "hypercarry" like [Hotori](/c
 
 As you progress through Beyond the Rails, you will earn an endgame-exclusive currency known as Shadowquill. This currency can be spent at Miss Levi’s shop or used to activate temporary tactical buffs during your run. These buffs are essential for overcoming the time limits in later stages.
 
-Available buffs often include:
+Available buffs often include
 *   Anima DMG +8%
 *   Team ATK +20%
 *   Energy Regeneration +15%
@@ -144,7 +144,7 @@ Success in the NTE endgame requires more than just high levels; it requires a de
 
 Building a team in NTE revolves around the "Esper Cycle" wheel. Connecting adjacent attributes on the wheel triggers powerful reactions that can shred enemy shields or provide massive damage multipliers.
 
-For the endgame, two primary strategies have emerged:
+For the endgame, two primary strategies have emerged
 1.  **Hotori Hypercarry:** This team focuses on maximizing Hotori's field time. Supports like Haniel provide shields and healing, while a secondary Anima character helps build energy.
 2.  **Chiz Quickswap:** Utilizing the S-rank character Chiz, this team focuses on rapidly cycling through abilities. Characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) and Jiuyuan are essential here, as their off-field elemental application allows Chiz to trigger constant reactions.
 
@@ -172,5 +172,5 @@ By following this progression path—hitting Hunter Level 12 for the basics, Lev
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki & Guides — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Combat and Progression — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Character and Endgame Database — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character and Endgame Database
 - Reddit: r/NTE_Official Megathread — https://www.reddit.com/r/NTE_Official/

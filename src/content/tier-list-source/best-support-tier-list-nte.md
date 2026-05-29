@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Tier List NTE: Top Characters Ranked (May 2026)"
 slug: best-support-tier-list-nte
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-tier-list-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-support-tier-list-nte/inline-1.webp
   - /img/best-support-tier-list-nte/inline-2.webp
   - /img/best-support-tier-list-nte/inline-3.webp
   - /img/best-support-tier-list-nte/inline-4.webp
   - /img/best-support-tier-list-nte/inline-5.webp
   - /img/best-support-tier-list-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 As the Hethereau skyline continues to evolve, mastering the intricate "Esper Cycle" rotations has become the definitive way to conquer the city's toughest anomalies. 
 
@@ -42,7 +42,7 @@ Ranking the best support characters in Neverness to Everness requires looking be
 
 ### Defining the Support Role in NTE
 
-In NTE, supports are categorized by their primary contribution to the team:
+In NTE, supports are categorized by their primary contribution to the team
 *   **Buffers:** Units that increase team-wide stats like ATK%, Crit Rate, or Elemental DMG.
 *   **Batteries:** Characters designed to generate Energy for the team’s Ultimates.
 *   **Crowd Controllers (CC):** Units that group enemies together, essential for maximizing AoE (Area of Effect) damage.
@@ -50,7 +50,7 @@ In NTE, supports are categorized by their primary contribution to the team:
 
 ### Key Performance Indicators (KPIs) for Supports
 
-To determine a character's placement on this tier list, we analyze four primary KPIs:
+To determine a character's placement on this tier list, we analyze four primary KPIs
 1.  **Buff Uptime:** Can the character maintain their buffs throughout a full 20-second rotation?
 2.  **Reaction Synergy:** How effectively does the character apply their element to trigger high-damage reactions like **Blossom (Anima)**, **Hexed (Incantation)**, or **Remora (Cosmos)**?
 3.  **Grouping Radius:** For CC units, the physical range of their pull effect is measured against standard mob spacing in endgame challenges.
@@ -157,6 +157,6 @@ While Cosmos is currently dominant, the **Blossom** meta (Anima + Psyche) has se
 - Neverness to Everness Official Site — https://nte.hotta.games/
 - Neverness to Everness Wiki (Fandom) — https://nevernesstoeverness.fandom.com/wiki/Neverness_to_Everness_Wiki
 - Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Tier List & Analytics — https://www.prydwen.gg/nte/tier-list/
-- Beebom: NTE Characters and Abilities Guide — https://beebom.com/neverness-to-everness-characters-abilities/
+- Prydwen Institute: NTE Tier List & Analytics
+- Beebom: NTE Characters and Abilities Guide
 - Reddit: r/NTE_Official Meta Discussion — https://www.reddit.com/r/NTE_Official/

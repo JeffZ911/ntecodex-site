@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Pity System Explained: Rates, Guarantees, and Tips"
 slug: nte-character-pity-system-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T13:29:51.512196+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-character-pity-system-explained/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-pity-system-explained/inline-1.webp
   - /img/nte-character-pity-system-explained/inline-2.webp
   - /img/nte-character-pity-system-explained/inline-3.webp
   - /img/nte-character-pity-system-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the Scarborough Fair board is the most effective way to optimize your roster in Neverness to Everness (NTE). This guide breaks down the specific pull rates, the 90-roll hard pity, and the unique lack of a 50/50 mechanic that sets this urban supernatural RPG apart from its competitors.
 
@@ -32,7 +32,7 @@ Mastering the Scarborough Fair board is the most effective way to optimize your 
 ![Question Restated](/img/nte-character-pity-system-explained/inline-1.webp)
 
 
-Understanding the gacha system in Neverness to Everness is vital for both Free-to-Play (F2P) players and spenders looking to maximize their Annulith. Because NTE utilizes a board-game style interface rather than a traditional "pulling" animation, many new players find the mechanics confusing. This guide addresses the most frequent questions regarding character acquisition:
+Understanding the gacha system in Neverness to Everness is vital for both Free-to-Play (F2P) players and spenders looking to maximize their Annulith. Because NTE utilizes a board-game style interface rather than a traditional "pulling" animation, many new players find the mechanics confusing. This guide addresses the most frequent questions regarding character acquisition
 
 *   **What is the pity system in Neverness to Everness (NTE)?** It is a cumulative counter that guarantees high-rarity rewards after a set number of attempts.
 *   **How many pulls are required to guarantee an S-class character?** The hard pity is set at 90 rolls, though most players will see results much sooner.
@@ -91,7 +91,7 @@ The standard banner, titled "Strange Encounters," uses Fabricated Dice. This ban
 Furthermore, the standard banner features an S-Class Selector reward. After reaching a specific milestone of total lifetime pulls on the standard banner (typically 300 pulls), players can choose any one S-class character from the standard pool to add to their roster for free. This is a one-time bonus designed to help players round out their team compositions.
 
 ### Pity Carryover Rules: What Stays and What Resets
-A common point of confusion is how pity carries over when a banner ends. In NTE, pity is tracked separately for three categories:
+A common point of confusion is how pity carries over when a banner ends. In NTE, pity is tracked separately for three categories
 1.  **Limited Character Boards:** Progress on "The Ichi-daime" (Nanally) will carry over to the next limited character banner. If you are at 60 pulls when Nanally's banner ends, you will start the next character's banner at 60 pulls.
 2.  **Limited Weapon (Arc) Boards:** These track separately from characters.
 3.  **Standard Boards:** These never reset and do not interact with limited pity.
@@ -99,7 +99,7 @@ A common point of confusion is how pity carries over when a banner ends. In NTE,
 It is important to understand that while pull counts carry over, **Cosmetic Milestones do not.** If a banner offers a special vehicle at 120 pulls, and you only reach 110 before the banner rotates, that progress is lost. You will not start the next banner at 110 pulls for the vehicle reward.
 
 ### Arc Research Program: Weapon Banner Pity Explained
-Weapons in NTE are known as "Arcs." The "Arc Research Program" is the gacha system for S-class Arcs. The pity system here is slightly different from the character system:
+Weapons in NTE are known as "Arcs." The "Arc Research Program" is the gacha system for S-class Arcs. The pity system here is slightly different from the character system
 *   **S-Class Arc Pity:** Guaranteed at 60 pulls.
 *   **Featured Arc Guarantee:** While the character banner has no 50/50, the weapon banner uses a "Targeted Research" system. If the first S-class Arc you pull is not the featured one, the next S-class Arc is guaranteed to be the featured one. However, most banners offer a hard guarantee for the featured weapon at 80 pulls.
 
@@ -144,7 +144,7 @@ Once you understand the pity system, the next step is managing your resources to
 ### NTE Beginner Guide: Tips for Saving Dice
 F2P players should prioritize "Solid Dice" over "Fabricated Dice." Since the standard banner eventually gives you a selector and its pity never resets, you should never spend Annulith on Fabricated Dice. Only use the Fabricated Dice you receive as rewards from level-ups or the "Hantz's Guide" missions.
 
-To farm Annulith efficiently:
+To farm Annulith efficiently
 *   **Urban Anomalies:** Complete the world exploration tasks in the city. Each anomaly cleared provides a small amount of Annulith.
 *   **Side Stories:** Character-specific "Bond" missions are a significant source of Solid Dice.
 *   **Weekly Tasks:** Ensure you clear the "Deep Sea" combat challenges, as these reset weekly and provide the primary source of recurring gacha currency.
@@ -160,10 +160,10 @@ By understanding that the 90-pull hard pity is a safety net rather than a goal, 
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- neverness.gg — https://neverness.gg/guides/pity-system-explained
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/character-gacha-guide/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47210
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/nte-pity-system-guide-rates-banners-1002341/
-- dotesports.com — https://dotesports.com/neverness-to-everness/news/nte-gacha-pity-explained
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-pity-guide/
+- gamewith.net
+- dexerto.com
+- dotesports.com
+- thegamer.com
 - youtube.com — https://www.youtube.com/watch?v=nte_gacha_mechanics_breakdown

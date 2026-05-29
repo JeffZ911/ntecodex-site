@@ -1,4 +1,4 @@
----
+--
 title: "NTE Best Disk Sets for Healers: Top Cartridges Guide"
 slug: nte-best-disk-sets-for-healers
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1599
 published_at: "2026-05-21T05:21:51.296997+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7UOyq_Nic0NIS8y1aJEWR2MDh1i9IlyqkmmVq_DTsCidpAwtM7Qh5gFbJSXxJp--cu1C718EJTLt06JDUMiJKRcIAdKOH1RCj6PooHX7rZu-IF3KS__Euetl5siRACKh2uxaAGDTOzPac1_XrvrFKIeWd1diEGMDI1ctJrq_Eu_0TA4Dgv1Y9R4GlS8KdFfmvi8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCuT-8-_P2Bm2xCNkR6VckHyB7wHpWjGl-Hzt_chEYeV_Al7UpimAWRrbURSG8SvxP5_mngY14VRLDY_OKZEaaKclP2xANGe63CXaLz_27NzHB73xPofCQCA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESz3FqE_c3e36hXVEX0SKE9ytKJeHBVjX38IEX5UolK1bNmdgm97iTaMFdmTKU_7O0Q4klknPMfdBqRXrv80gRpGrh0Uon-fbN0GCyf2XpfKXX34W4ztkAv4GI40WnUAm5fPJoanfp"
@@ -18,17 +18,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdox5xsYp-KiJxBMoFvpCJM0RGXERhW3G717is2La5Td05jvqbj_9dDrQM9hxdjod97qf20ZtmJ3PT-rBpA8l6oaw1AJUUt_tNUVfGcoBwBkOVIcmlVpbKmAR9iylVt7Y="
 game: unknown
 hero_image: /img/nte-best-disk-sets-for-healers/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-disk-sets-for-healers/inline-1.webp
   - /img/nte-best-disk-sets-for-healers/inline-2.webp
   - /img/nte-best-disk-sets-for-healers/inline-3.webp
   - /img/nte-best-disk-sets-for-healers/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Keeping your team alive in the high-stakes anomaly hunts of Hethereau requires more than just high damage; it demands a perfectly optimized support build.
 
@@ -139,12 +139,12 @@ NTE allows for a flexible survival slot. If you find yourself getting "one-shot"
 
 ## Sources
 
-- games.gg — https://games.gg/neverness-to-everness/cartridge-tier-list/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47231
+- games.gg
+- gamewith.net
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/cartridges/
-- neverness.gg — https://neverness.gg/guides/cartridges-modules/
-- neonlightsmedia.com — https://neonlightsmedia.com/nte-character-tier-list/
+- neverness.gg
+- neonlightsmedia.com
 - ldshop.gg — https://ldshop.gg/blog/nte-character-list-and-builds/
-- niveaumax.com — https://niveaumax.com/nte-how-to-heal-guide/
+- niveaumax.com
 - bo3.gg — https://bo3.gg/neverness-to-everness/guides/how-to-heal-in-nte/
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-how-to-restore-hp/
+- gamerant.com

@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for NTE Healer Characters: Top Support Builds"
 slug: best-disks-nte-healer-characters-20260524
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-nte-healer-characters-20260524/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-nte-healer-characters-20260524/inline-1.webp
   - /img/best-disks-nte-healer-characters-20260524/inline-2.webp
   - /img/best-disks-nte-healer-characters-20260524/inline-3.webp
   - /img/best-disks-nte-healer-characters-20260524/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Keeping your team alive in the supernatural urban sprawl of Hethereau requires more than just dodging; you need the right Disk (Cartridge) builds for your sustain units.
 
@@ -117,7 +117,7 @@ For healers, always check the **Central Module** slot. This slot often provides 
 
 ### Optimal Sub-stats for Endgame Healer Disks
 
-Once you have your 4-piece set, you must optimize the sub-stats through the enhancement system. For healers, the priority list is generally consistent across the board:
+Once you have your 4-piece set, you must optimize the sub-stats through the enhancement system. For healers, the priority list is generally consistent across the board
 1.  **Charge Efficiency:** Essential for keeping healing Ultimates available.
 2.  **Scaling Stat (ATK% for Edgar, HP% for Fadia):** Increases the raw healing/shielding numbers.
 3.  **Flat HP:** Provides a safety net for the healer themselves.
@@ -163,7 +163,7 @@ For the most difficult content, a "Dual Sustain" approach is recommended: use Fa
 
 ### How to unlock and choose Awakenings for sustain characters
 
-Awakenings are permanent upgrades to a character's kit. For healers, you should prioritize the following:
+Awakenings are permanent upgrades to a character's kit. For healers, you should prioritize the following
 *   **Edgar A1:** Increases the range of "Wild Current."
 *   **Jiuyuan A2:** Crucial for turning her into a healer; without this, she is strictly a DPS.
 *   **Fadia A4:** Allows her shields to refresh automatically when an ally falls below 30% HP.
@@ -171,7 +171,7 @@ Awakenings are permanent upgrades to a character's kit. For healers, you should 
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- PC Gamer: Neverness to Everness Release and Mechanics — https://www.pcgamer.com/games/rpg/neverness-to-everness-everything-we-know/
+- PC Gamer: Neverness to Everness Release and Mechanics
 - Game8: NTE Character and Disk Guide — https://game8.co/games/Neverness-to-Everness
 - Reddit: NTE Theorycrafting Community — https://www.reddit.com/r/NTE_Official/
 - IGN: Hethereau Exploration and Anomaly Guide — https://www.ign.com/games/neverness-to-everness

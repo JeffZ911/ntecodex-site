@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Disk Sets in Neverness to Everness: Top Cartridges"
 slug: best-support-disk-sets-neverness-to-everness
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.3
 word_count: 1499
 published_at: "2026-05-15T04:59:54.486411+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8WlbUk8ONMfLR_acwtB62M4zie7itge3_ajftYvEo5oWLtnT-dBDHUv4o6jGtvnmLWaqhARkJRpdQC0zGNIsGPo8umx5fNTH82EFFdqPSYqEIVf73g0KHBc4UdllqAI2eLGCIaNFCgKL_QA3NI4ry1qfu3-Mq-2_h0EV_YgRqlyHofm6rFr7wPCPqLML5WTmWg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlsAgCz67X79qilPPq-I9KEcnI-PBzbVkh8OXnlZIldAY9Y40uWjVkg2VwbbKlXB2LUjzzZHw8nUhoPm-t2xYLJFkxNQdvEKDzW3oI7s6qssP4Ed5Snf1X1JQUxOnYbNtZLpwCyes="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjIYqJPmJOSTIXKrpMFqO7Y1WEHnXv8dTha5dShSYcuwlxswoHOtzahMdYa9fq-0GIR3Ce5nRTI4aqzHRJMVsVMRBov7KRix7wCRr7JnjeVq_6X7lmo3pZePfYPaJGZrjY2nuMrlqU5XqA37fHqmPTUraxv-JZ_qViZxk708HmpRWCL8okXA=="
@@ -20,17 +20,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1A76motRW1Fy8oUBGhUT-bk6PiKlx5xYxq6gxATEdNpISj5c0wSPXPbSdI2-21SfYsjaPUHrtUBTRDh9WWE-zDd135t8fGWn3u9dJ2Sec_5MuDq0csxWz"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtSlM5AKOQxU8-H2dLL_JE-_OhkxGacab09ukgYDtFWAp2Yl0iY1WIix-FqHIpkzY0XAI50uhhisMYMKZ5Potlhj8A6zLAWIFdlaHBqef-SmHZqLhn4wWjMmad86aJ9w=="
 hero_image: /img/best-support-disk-sets-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/best-support-disk-sets-neverness-to-everness/inline-1.webp
   - /img/best-support-disk-sets-neverness-to-everness/inline-2.webp
   - /img/best-support-disk-sets-neverness-to-everness/inline-3.webp
   - /img/best-support-disk-sets-neverness-to-everness/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your team’s support units is the fastest way to clear high-tier Anomaly Zones in Hethereau City. While your main DPS often takes the spotlight, the right combination of Cartridges and Modules on your buffers determines how often you can trigger the Esper Cycle and keep your team alive.
 
@@ -47,7 +47,7 @@ Support characters in the current meta generally fall into two categories: **Buf
 
 Choosing the right Cartridge set is critical because support units often have high energy costs for their Ultimates. Without sets that provide **Charge Efficiency** or team-wide ATK buffs, your DPS will struggle to maintain high numbers during the 20-second burst windows that define endgame combat.
 
-The primary support characters currently in the roster include:
+The primary support characters currently in the roster include
 *   **Sakiri:** S-Rank Incantation Buffer/CC.
 *   **Haniel:** A-Rank Psyche Buffer.
 *   **Edgar:** A-Rank Cosmos Healer.
@@ -89,7 +89,7 @@ This set is particularly powerful because it matches the typical 20-second coold
 
 ### Alternative Sets for Niche Supports
 
-While Speedy Hedgehog dominates, other sets provide specialized value:
+While Speedy Hedgehog dominates, other sets provide specialized value
 
 *   **Shadow Creed:** This set is ideal for "quick-swap" supports or offensive buffers like Haniel if you find yourself using her Skill (*Paranormal Cannon*) more frequently than her Ultimate. The 4-piece bonus grants the wearer a 25% ATK increase for 20 seconds after casting a Skill. Since many support buffs scale off the support's own ATK stat, this self-buff indirectly boosts the numbers they provide to the DPS.
 *   **Tiny Big Adventure:** This is the definitive set for Fadia. Fadia's utility comes from her ability to redirect 50% of incoming team damage to herself. Tiny Big Adventure increases Max HP by 4% every time the wearer takes damage, stacking up to 10 times. Since Fadia is constantly taking "redirected" hits, she reaches the 40% Max HP cap almost instantly, which in turn increases her survivability and the damage of her Psyche-scaling attacks.
@@ -105,7 +105,7 @@ For example, Sakiri typically prefers Type III Modules. Speedy Hedgehog requires
 
 ### Substats: Cycle Intensity vs. Charge Efficiency
 
-For supports, the priority of substats differs significantly from DPS units. You should prioritize the following hierarchy:
+For supports, the priority of substats differs significantly from DPS units. You should prioritize the following hierarchy
 
 1.  **Charge Efficiency:** The most critical stat. It ensures your Ultimate is ready as soon as the cooldown ends.
 2.  **Cycle Intensity:** This stat increases the effectiveness of elemental reactions triggered during the **Esper Cycle**. For supports like Haniel, high Cycle Intensity makes the *Nova* or *Stain* reactions deal significantly more damage when the DPS swaps in.
@@ -144,7 +144,7 @@ The Rabbit Hole is unique because it drops both Cartridges and **Carrota Coins**
 ![Related](/img/best-support-disk-sets-neverness-to-everness/inline-4.webp)
 
 
-For more information on optimizing your team in Neverness to Everness, check out our other specialized guides:
+For more information on optimizing your team in Neverness to Everness, check out our other specialized guides
 
 *   **Sakiri Build Guide:** A deep dive into the best Arcs and Awakening priorities for the game's top CC unit.
 *   **Haniel Best Weapons:** How to choose between "Blow up the Crowd" and "The Forgotten" for your Psyche buffer.
@@ -154,10 +154,10 @@ For more information on optimizing your team in Neverness to Everness, check out
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/cartridges-and-modules-guide
+- neverness.gg
 - escorenews.com — https://escorenews.com/en/neverness-to-everness/guide/top-5-cartridges-in-nte
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/edgar-best-build
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-sakiri-build-guide-best-arcs-cartridges/
+- gamewith.net
+- thegamer.com
 - sportskeeda.com — https://www.sportskeeda.com/esports/best-haniel-build-guide-nte-neverness-to-everness-best-arcs-team-comps-more
 - kaiden.gg — https://kaiden.gg/nte/cartridges/speedy-hedgehog/
-- games.gg — https://games.gg/neverness-to-everness/cartridge-tier-list-ranked/
+- games.gg

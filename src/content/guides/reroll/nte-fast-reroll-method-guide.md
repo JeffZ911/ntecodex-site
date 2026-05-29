@@ -1,4 +1,4 @@
----
+--
 title: "NTE Fast Reroll Method Guide: Best Starters & Banners (2026)"
 slug: reroll/nte-fast-reroll-method-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-17T18:55:19.490085+00:00"
 published_url: /guides/reroll/nte-fast-reroll-method-guide
 sources: []
 hero_image: /img/nte-fast-reroll-method-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-fast-reroll-method-guide/inline-1.webp
   - /img/nte-fast-reroll-method-guide/inline-2.webp
   - /img/nte-fast-reroll-method-guide/inline-3.webp
   - /img/nte-fast-reroll-method-guide/inline-4.webp
   - /img/nte-fast-reroll-method-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a top-tier S-Rank Esper during the launch window of Neverness to Everness (NTE) provides a massive power spike for clearing early Anomaly zones and progressing through the Hethereau storyline. This guide details the most efficient path to maximizing your starting pulls and securing the best possible roster for the 2026 launch.
 
@@ -113,7 +113,7 @@ Hotori offers a different playstyle, focusing on Cosmos-element off-field damage
 
 ### Standard S-Rank Rankings
 
-If you aren't pulling on the limited banner or if you're using your 50-pull selector, prioritize these characters:
+If you aren't pulling on the limited banner or if you're using your 50-pull selector, prioritize these characters
 
 1.  **Sakiri (S Tier - Support/CC):** Her ability to group enemies and apply [Information not yet publicly available as of 2026-05-17] makes her the best long-term investment. Supports usually outlast DPS units in the meta.
 2.  **Jiuyuan (S Tier - DoT DPS):** Excellent for sustained damage. She pairs exceptionally well with free units that apply elemental debuffs.
@@ -182,4 +182,4 @@ In many games, when you hit the highest rarity, you only have a 50% chance of ge
 * Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
 * IGN: Neverness to Everness Release Coverage — https://www.ign.com/games/neverness-to-everness
 * Reddit: r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/
-* Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/
+* Prydwen Institute: NTE Character Database

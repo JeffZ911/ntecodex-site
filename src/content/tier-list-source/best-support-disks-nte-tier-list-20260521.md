@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Disks in Neverness to Everness: Tier List & Guide"
 slug: best-support-disks-nte-tier-list-20260521
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1929
 published_at: "2026-05-21T22:26:33.315688+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4wQKzeDpokMXdyAu-soatm-c3yTexy78zQ4bzUGsf_RC8PePkDM1-TVZDIiHnAgTaeWlFUr9JArpP0m53u040CXGVAA2qFA_X5C8ppv6A4IN_kWtjfQk5d87sNAhsj4_WQB1RKa7YodeGbqhJX4Jx8waSNvL_oiItJSIu7dC5PDjaRw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1OrS9XXSc-oIvP_uJ0abQxXohecjb-86CY6GV4Z8gEjsan9YkkgK0U44WdyV6uCa3GodIjS3EX94dxTmMzrPuwez5aP8MM0fCyQOYWEPoxdsvAuNCCo_AZw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl1EU1B8_b6DKQvqx_RAI_or_k6QjXSOW4BVLtjE-KFIVJQ-6L2OPQMGR51qr3jZdi7dJpcFsjNtIKRAVTOKTTx8JStebwUJL_T1gMXsh7fXHokHbVfmtGaOHKZswkXXMd3wJp6qmwFnRrjdt5JHYdH3gYzIO1r3pGmqV9MA5dt9b54iujvX0pYyYG_l-L8OCXbm3i-1X6NA=="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOmm78rjDRMuUSYL_Wj0ei7oeHIz3togcJUA8Pbj3T-ZG7rUI8HsgMtbgZwOQAlGwQSJLxd3ZmrhhnHqZMAMv426RR31c1I-HaiHyTtvDlv8IT7-MFeZS_8XoIZHw_qW-ra9EniqQLO70gCsKBSdlyaYkDqIsbtBlC1J8ibR3wM9OrCevlnlE="
 game: unknown
 hero_image: /img/best-support-disks-nte-tier-list-20260521/hero.webp
-inline_images:
+inline_images
   - /img/best-support-disks-nte-tier-list-20260521/inline-1.webp
   - /img/best-support-disks-nte-tier-list-20260521/inline-2.webp
   - /img/best-support-disks-nte-tier-list-20260521/inline-3.webp
   - /img/best-support-disks-nte-tier-list-20260521/inline-4.webp
   - /img/best-support-disks-nte-tier-list-20260521/inline-5.webp
   - /img/best-support-disks-nte-tier-list-20260521/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Choosing the right support equipment is the difference between struggling against the Justice Executioner and effortlessly clearing high-level Anomaly Zones.
 
@@ -58,7 +58,7 @@ This tier list evaluates Support Disks based on their ability to maintain 100% b
 
 ### Key Support Stats: Charge Efficiency vs. Cycle Intensity
 
-In NTE, the speed at which a team can cycle through Ultimates is governed by two primary stats:
+In NTE, the speed at which a team can cycle through Ultimates is governed by two primary stats
 
 *   **Charge Efficiency:** This stat determines how much Ultimate Energy is generated from Basic Attacks, Redirect Skills, and Support Skills. High Charge Efficiency allows supports to cast their Ultimates more frequently, which is vital for characters like Sakiri whose primary buffs are tied to their "Burst" window.
 *   **Cycle Intensity:** This refers to the frequency and impact of elemental reactions and "Redirect" triggers. A high Cycle Intensity ensures that your sub-DPS and supports are constantly contributing off-field damage and status effects, such as "Nova" or "Stain," which are necessary for shredding enemy shields.
@@ -196,13 +196,13 @@ New drop rates for "Type III" and "Type IV" Modules in the Rabbit Hole have made
 
 ## Sources
 
-- All Things How — https://allthings.how/neverness-to-everness-hotori-best-arc-marching-beyond-time-build/
-- Beebom — https://beebom.com/nte-hotori-build-team-arc-cartridge/
+- All Things How
+- Beebom
 - Neverness.gg — https://neverness.gg/arcs/marching-beyond-time/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-best-hotori-build-team/
-- Kaiden.gg — https://kaiden.gg/nte/hotori-rotation-team-composition-guide/
+- TheGamer
+- Kaiden.gg
 - Nerds Chalk — https://nerdschalk.com/hethereaus-keeper-arc-in-neverness-to-everness-nte-justice-executioner-boss-location/
 - Icy Veins — https://www.icy-veins.com/nte/hethereaus-keeper-details-best-characters/
-- GameRant — https://gamerant.com/neverness-to-everness-sakiri-build-guide-best-arcs-consoles/
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/47231
+- GameRant
+- GameWith
 - Mobalytics — https://mobalytics.gg/nte/cartridges/speedy-hedgehog/

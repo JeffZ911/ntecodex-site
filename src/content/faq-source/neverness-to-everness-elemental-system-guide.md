@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Elemental System Guide: The Esper Cycle"
 slug: neverness-to-everness-elemental-system-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-elemental-system-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-elemental-system-guide/inline-1.webp
   - /img/neverness-to-everness-elemental-system-guide/inline-2.webp
   - /img/neverness-to-everness-elemental-system-guide/inline-3.webp
   - /img/neverness-to-everness-elemental-system-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Succeeding in the supernatural urban landscape of Hethereau requires more than just high-level gear; it demands a fundamental understanding of how the city's supernatural energies interact.
 
@@ -32,7 +32,7 @@ Succeeding in the supernatural urban landscape of Hethereau requires more than j
 ![Question Restated](/img/neverness-to-everness-elemental-system-guide/inline-1.webp)
 
 
-Understanding the combat flow in Neverness to Everness requires answering several key questions regarding its unique elemental mechanics. This guide addresses:
+Understanding the combat flow in Neverness to Everness requires answering several key questions regarding its unique elemental mechanics. This guide addresses
 
 *   What are the different elements (Espers) in Neverness to Everness?
 *   How do elemental reactions, known as the Esper Cycle, work in combat?
@@ -158,5 +158,5 @@ Using the right element not only helps in combat but is essential for uncovering
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
 *   NTE Wiki on Game8 — https://game8.co/games/Neverness-to-Everness
 *   Neverness to Everness Subreddit — https://www.reddit.com/r/NTE_Official/
-*   Prydwen Institute NTE Guide — https://www.prydwen.gg/nte/
+*   Prydwen Institute NTE Guide
 *   IGN Neverness to Everness Preview and Mechanics — https://www.ign.com/games/neverness-to-everness

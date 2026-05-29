@@ -1,4 +1,4 @@
----
+--
 title: "How to Unlock Characters in Neverness to Everness: Full Guide"
 slug: how-to-unlock-characters-neverness-to-everness
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-characters-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-characters-neverness-to-everness/inline-1.webp
   - /img/how-to-unlock-characters-neverness-to-everness/inline-2.webp
   - /img/how-to-unlock-characters-neverness-to-everness/inline-3.webp
   - /img/how-to-unlock-characters-neverness-to-everness/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Starting a journey in Hethereau requires a strong team of Espers to handle the anomalies lurking in the city streets. This guide breaks down every method to expand your roster, from the initial story recruits to the unique board-game gacha system.
 
@@ -34,7 +34,7 @@ The launch of Neverness to Everness (NTE) on April 29, 2026, introduced a vibran
 ![Question Restated](/img/how-to-unlock-characters-neverness-to-everness/inline-1.webp)
 
 
-When starting your journey in NTE, several questions regarding character acquisition are common:
+When starting your journey in NTE, several questions regarding character acquisition are common
 
 *   **How do you get new characters (Espers) in Neverness to Everness?** Most characters are obtained through the Scarborough Fair gacha, but several are tied to specific milestones in the Hethereau city narrative.
 *   **Which characters can be obtained for free through story progression?** The game provides a full functional team of six characters through the main quest, login rewards, and side activities.
@@ -86,7 +86,7 @@ Beyond the story, the launch celebrations provide two high-value A-Rank characte
 
 One of the most distinct features of NTE is the **City Tycoon** management simulator. In this mode, you manage real estate and businesses across Hethereau. **Chiz**, an S-Rank Chaos-element character, is the ultimate reward for this system. 
 
-To unlock Chiz, you must reach **Tycoon Level 10**. This requires:
+To unlock Chiz, you must reach **Tycoon Level 10**. This requires
 *   Completing "Business Anomalies" (management missions).
 *   Upgrading the "Antique Shop" to Level 5.
 *   Generating a total of [information unavailable] in passive revenue.
@@ -149,7 +149,7 @@ This method allows you to save your S-Rank Selector for a character that complem
 
 ### Checklist: Daily and Weekly Tasks for F2P Pull Currency
 
-To keep pulling for characters, you need a steady stream of Annulith. Follow this checklist:
+To keep pulling for characters, you need a steady stream of Annulith. Follow this checklist
 
 *   [ ] **Daily Commissions:** Complete 4 tasks for 60 Annulith.
 *   [ ] **Weekly Anomaly Cleanup:** Clear 3 stages for 150 Annulith.
@@ -206,7 +206,7 @@ To stay ahead, always save at least 90 Solid Dice to ensure you can guarantee th
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
-- IGN: Neverness to Everness Launch Guide — https://www.ign.com/articles/neverness-to-everness-guide-tips-tricks
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- IGN: Neverness to Everness Launch Guide
+- Prydwen Institute: NTE Character Database
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 - GameSpot: How the Scarborough Fair Gacha Works — https://www.gamespot.com/articles/neverness-to-everness-gacha-guide/1100-6523000/

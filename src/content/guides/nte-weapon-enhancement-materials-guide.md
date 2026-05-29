@@ -1,4 +1,4 @@
----
+--
 title: "NTE Weapon Enhancement Materials Guide: Best Arcs & Builds"
 slug: nte-weapon-enhancement-materials-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-weapon-enhancement-materials-guide
 sources: []
 game: unknown
 hero_image: /img/nte-weapon-enhancement-materials-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-weapon-enhancement-materials-guide/inline-1.webp
   - /img/nte-weapon-enhancement-materials-guide/inline-2.webp
   - /img/nte-weapon-enhancement-materials-guide/inline-3.webp
   - /img/nte-weapon-enhancement-materials-guide/inline-4.webp
   - /img/nte-weapon-enhancement-materials-guide/inline-5.webp
   - /img/nte-weapon-enhancement-materials-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your combat efficiency in Hesperia requires a deep understanding of how to manage your Arcs and the materials needed to push them to their absolute limits.
 
@@ -117,7 +117,7 @@ For a Main DPS, the priority is usually the **Elemental DMG** set (matching thei
 
 ### Cartridge Main Stat Priority
 
-Each Disk has a specific slot (often called Cartridges). You should prioritize the following stats based on your role:
+Each Disk has a specific slot (often called Cartridges). You should prioritize the following stats based on your role
 1.  **Main DPS:** Elemental DMG Bonus > Crit Rate > Crit DMG > ATK%.
 2.  **Breaker:** Break Intensity > ATK% > Speed.
 3.  **Support:** Energy Recovery Rate > HP% (for healers) > Elemental Mastery.
@@ -150,7 +150,7 @@ The most popular high-end team currently revolves around Nanally.
 
 ### F2P-Friendly Progression Teams
 
-For players starting out, a balanced team of free or easily obtainable characters is highly effective:
+For players starting out, a balanced team of free or easily obtainable characters is highly effective
 *   **Esper Zero (Main DPS):** Highly mobile and benefits from any Plasma Arc.
 *   **Edgar (Healer):** Essential for surviving early world bosses.
 *   **Haniel (Buffer):** Increases the team's total Attack power.
@@ -180,7 +180,7 @@ Your Esper Cycle meter fills as you deal damage, use skills, and successfully pe
 
 ### Nanally & Zero Burst Rotation
 
-To maximize damage with the Nanally/Zero pairing:
+To maximize damage with the Nanally/Zero pairing
 1.  Start with **Adler** to apply an initial elemental status and drop his energy-generating field.
 2.  Swap to **Daffodil** to use her Skill and Basic Attack string until the enemy’s Stagger bar is nearly depleted.
 3.  Switch to **Fadia** to drop a shield and group the enemies.
@@ -215,9 +215,9 @@ Golden Appleseeds are rare drops from high-level World Bosses and can be purchas
 ## Sources
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
-- GameWith NTE Guide — https://gamewith.net/neverness-to-everness/
+- GameWith NTE Guide
 - BlueStacks Game Guides — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-guide-en.html
-- Neverness.gg Database — https://neverness.gg/arcs/
+- Neverness.gg Database
 - Icy Veins NTE Section — https://www.icy-veins.com/nte/weapon-enhancement-guide/
 - LDShop NTE Resource Map — https://www.ldshop.gg/article/nte-farming-locations/
 - Reddit r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/comments/1cg3x9/complete_weapon_mat_spreadsheet/

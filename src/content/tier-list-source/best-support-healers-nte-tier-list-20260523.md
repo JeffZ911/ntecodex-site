@@ -1,4 +1,4 @@
----
+--
 title: "Best Support & Healer Tier List: Neverness to Everness (NTE)"
 slug: best-support-healers-nte-tier-list-20260523
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1713
 published_at: "2026-05-23T23:56:04.174089+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8lBS_wyYRliDEBHmEE-RyTlYRZgru4JDY3ncF_WjakVHGLjl6R2DbUezGO1xffCY0QABJv3aHNsvL75xpgr8B0ox_XK8erUrQ9BbqOtWGeDPMA00hch6XKO0vdweWnf1KuKa-oI84wPou21JCLftPgoAWY8y44pIzXWCEVoGIykq4zxQycXgxqslHZ0G1RQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn-dskLywNCn0ayfnMBapevV9Me_cAqhDQpZbENxwkGUSZAtfEwua51-bawILLQENeIxTnpdECMjr1NZa4J9xpb9JJ7pwSQs8vVDZLIVmzA9UckPfMX61TFw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDzVO0gtsqcOefCybzmNtPUhDhHQdOpBfme9eN8DlofxsTgjudXPqGrsvG4D3s9Kk3-eZxEWVV3EDtjJf80KetrslG8no4VU0wIfxuGIM-9XA3b_wLbOdWQnV64CrpPE8="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYqW5A8EX8f4k9ZbOUTS30WByE3kzPwghYPPlj3GNnDj8pKhtjOtEv9Lo3XTerALXsJ-Cp4m3Kg1ea_ATj0lPgj-ux-4N35dODq4tr7dcrYdlNv3dPy8q5Iin3iFMZ8A=="
 game: unknown
 hero_image: /img/best-support-healers-nte-tier-list-20260523/hero.webp
-inline_images:
+inline_images
   - /img/best-support-healers-nte-tier-list-20260523/inline-1.webp
   - /img/best-support-healers-nte-tier-list-20260523/inline-2.webp
   - /img/best-support-healers-nte-tier-list-20260523/inline-3.webp
   - /img/best-support-healers-nte-tier-list-20260523/inline-4.webp
   - /img/best-support-healers-nte-tier-list-20260523/inline-5.webp
   - /img/best-support-healers-nte-tier-list-20260523/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Success in Hethereau’s high-stakes urban combat depends on more than just raw damage; it requires a perfectly tuned rotation of buffs, shields, and healing. With the recent launch of [Hotori](/characters/hotori-best-team-nte) and the evolving "Blossom" meta, selecting the right Espers for your utility slots is the difference between clearing "Beyond the Rails" and hitting a hard progression wall.
 
@@ -185,9 +185,9 @@ The "Blossom" archetype (Anima + Cosmos) has risen to prominence this month. Thi
 
 ## Sources
 - Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Fadia
-- Neverness.gg Character Guides — https://neverness.gg/characters/sakiri/
+- Neverness.gg Character Guides
 - Icy Veins NTE Tier List — https://www.icy-veins.com/neverness-to-everness/tier-list
-- Mobalytics NTE Character Database — https://mobalytics.gg/neverness-to-everness/characters/hotori
-- PC Gamer NTE Guide — https://www.pcgamer.com/games/rpg/neverness-to-everness-tier-list-best-characters/
-- GameWith NTE Character Rankings — https://gamewith.net/neverness-to-everness/article/show/jiuyuan-build-best-arcs-team
+- Mobalytics NTE Character Database
+- PC Gamer NTE Guide
+- GameWith NTE Character Rankings
 - LDShop NTE Build Guides — https://www.ldshop.gg/news/nte-haniel-build-guide-best-stats-skills-teams-and-playstyle

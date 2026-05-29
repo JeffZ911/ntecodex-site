@@ -1,4 +1,4 @@
----
+--
 title: "Mira Best Build NTE Guide: Best Weapons, Disks, and Teams"
 slug: mira-best-build-nte-guide-20260521-b819
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/mira-best-build-nte-guide-20260521-b819
 sources: []
 game: unknown
 hero_image: /img/mira-best-build-nte-guide-20260521-b819/hero.webp
-inline_images:
+inline_images
   - /img/mira-best-build-nte-guide-20260521-b819/inline-1.webp
   - /img/mira-best-build-nte-guide-20260521-b819/inline-2.webp
   - /img/mira-best-build-nte-guide-20260521-b819/inline-3.webp
   - /img/mira-best-build-nte-guide-20260521-b819/inline-4.webp
   - /img/mira-best-build-nte-guide-20260521-b819/inline-5.webp
   - /img/mira-best-build-nte-guide-20260521-b819/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Dominating the high-speed urban combat of Hesperia requires a Main DPS capable of maintaining constant pressure while navigating complex enemy patterns. Mira, often referred to as Mint by the community due to her early development codename, stands as the premier Anima-element striker for players seeking a high-mobility, multi-hit playstyle.
 
@@ -123,7 +123,7 @@ When optimizing substats, aim for a Crit Rate of at least 60% before heavily inv
 Mira excels when paired with units that can group enemies together and apply elemental debuffs. Her 'Blossom' core is currently one of the most popular builds in the NTE community due to its high AoE clear speed.
 
 ### The 'Blossom' Core
-The most effective team for Mira consists of:
+The most effective team for Mira consists of
 1.  **Mira (Main DPS):** The primary damage dealer.
 2.  **Jiuyuan (Sub-DPS/Support):** Provides essential crowd control. Her 'Lethal Rose Pact' skill marks enemies, causing them to take increased Anima damage and pulling them toward a central point.
 3.  **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Buffer/Support):** The premier support for ATK buffs. Her Ultimate provides a team-wide 30% ATK increase and groups enemies further, making them perfect targets for Mira’s whirlwind.
@@ -140,7 +140,7 @@ The most effective team for Mira consists of:
 Replacing Sakiri with a high-constellation S-Rank support can push Mira's damage even further, but the Jiuyuan/Mira duo remains the "gold standard" for Anima-based teams. Jiuyuan's ability to shred Anima resistance is irreplaceable for Mira's endgame scaling.
 
 ### F2P-Friendly Team Composition
-If you lack Jiuyuan or Esper Zero, you can run Mira with:
+If you lack Jiuyuan or Esper Zero, you can run Mira with
 *   **Mira** (Main DPS)
 *   **[Nanally](/characters/nanally-guide-nte)** (Shield/Support) - Provides protection while Mira spins.
 *   **A-Rank Support** [Information not yet publicly available as of 2026-05-21]
@@ -183,7 +183,7 @@ Awakening Level 1 (A1) is her most crucial milestone. It allows her 'Super Claws
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki & Character Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Character Reviews — https://www.prydwen.gg/nte/characters/mira
+- Prydwen Institute: NTE Character Reviews
 - IGN: Neverness to Everness Beginner's Guide — https://www.ign.com/wikis/neverness-to-everness
 - Reddit r/NTE_Official Community Builds — https://www.reddit.com/r/NTE_Official/
 - Icy Veins NTE Gear and Disk Guide — https://www.icy-veins.com/nte/mira-build-guide/

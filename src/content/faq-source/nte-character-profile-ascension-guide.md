@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Profile and Ascension Guide: Max Your Espers"
 slug: nte-character-profile-ascension-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-profile-ascension-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-profile-ascension-guide/inline-1.webp
   - /img/nte-character-profile-ascension-guide/inline-2.webp
   - /img/nte-character-profile-ascension-guide/inline-3.webp
   - /img/nte-character-profile-ascension-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your Espers in Neverness to Everness requires a deep understanding of the character profile system and the specific material requirements for breaking level caps through Ascension. This guide breaks down the essential mechanics to help you reach the endgame level ceiling of 90.
 
@@ -48,7 +48,7 @@ In Neverness to Everness (NTE), character profiles (Espers) track stats, element
 
 Ascension is the process of breaking the level cap (starting at Level 20) to continue leveling up using Hunter Guides. Without ascending, an Esper cannot gain further experience, effectively halting their progression. To unlock your first Ascension, you must reach Hunter Rank 10 and Appraisal Level 2. Subsequent Ascensions occur at Level 40, 60, 70, and 80, eventually reaching the current maximum of Level 90.
 
-Required materials for this process include:
+Required materials for this process include
 *   **Regional Drops:** Blurred Silhouette, Unsolved Numeral, and Yearning Delusions.
 *   **Boss-Specific Items:** Unique drops from high-level anomalies, such as the Charging Knight Spark Plug.
 *   **Currency:** Beetle Coins, the primary economic unit in Hethereau.
@@ -71,7 +71,7 @@ An Esper’s profile is divided into three primary categories: Base Stats, Attri
 *   **DEF (Defense):** Reduces the incoming damage from anomalies and rival factions.
 
 **Attributes**
-NTE features six distinct attributes that define an Esper's elemental alignment. These attributes are critical for triggering the "Esper Cycle" in combat:
+NTE features six distinct attributes that define an Esper's elemental alignment. These attributes are critical for triggering the "Esper Cycle" in combat
 1.  **Cosmos:** [Information not yet publicly available as of 2026-05-21]
 2.  **Anima:** Often associated with kinetic or biological energy; [Sakiri](/characters/sakiri-nte-free-5-star-guide) is a prominent Anima user.
 3.  **Incantation:** Focuses on supernatural formulas and debuffs.
@@ -80,7 +80,7 @@ NTE features six distinct attributes that define an Esper's elemental alignment.
 6.  **Lakshana:** [Information not yet publicly available as of 2026-05-21]
 
 **Arc Types**
-Espers equip "Arcs," which function as their primary weapons. Arcs are categorized by their physical state:
+Espers equip "Arcs," which function as their primary weapons. Arcs are categorized by their physical state
 *   **Solid:** High physical impact and durability.
 *   **Liquid:** Fluid attack patterns and area-of-effect capabilities.
 *   **Gas:** High speed and evasive maneuvers.
@@ -170,8 +170,8 @@ The Resonance tree is a talent map unique to each Esper. By spending regional ma
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute NTE Guide — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Guide
 - Sportskeeda NTE Ascension Requirements — https://www.sportskeeda.com/esports/neverness-to-everness-character-ascension-guide
 - Icy Veins NTE Beginner Guide — https://www.icy-veins.com/nte/guides/beginner-guide/
-- Gamerant NTE Combat Mechanics — https://gamerant.com/neverness-to-everness-esper-cycle-explained/
+- Gamerant NTE Combat Mechanics
 - Fandom NTE Wiki — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki

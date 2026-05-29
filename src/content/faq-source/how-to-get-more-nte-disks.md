@@ -1,4 +1,4 @@
----
+--
 title: "How to Get More NTE Disks: Neverness to Everness Farming Guide"
 slug: how-to-get-more-nte-disks
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-get-more-nte-disks/hero.webp
-inline_images:
+inline_images
   - /img/how-to-get-more-nte-disks/inline-1.webp
   - /img/how-to-get-more-nte-disks/inline-2.webp
   - /img/how-to-get-more-nte-disks/inline-3.webp
   - /img/how-to-get-more-nte-disks/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building a powerful team of Espers and optimizing their gear requires a deep understanding of the various currencies found in Hethereau. This guide breaks down every reliable method to earn the summoning items and equipment components needed to progress in Neverness to Everness.
 
@@ -64,7 +64,7 @@ Neverness to Everness features a generous but structured economy. Because the ga
 
 The fastest way to get more NTE Disks and Dice is by maximizing your Daily Participation Tasks and claiming all available Login Rewards during version updates. For a consistent long-term supply, you must focus on World Exploration—specifically finding Oracle Stones and completing Anomaly Commissions across the districts of Hethereau.
 
-If you are looking for immediate bursts of currency, prioritize these five activities:
+If you are looking for immediate bursts of currency, prioritize these five activities
 1.  **Daily Participation:** Complete tasks to reach 100 points every day for a guaranteed Annulith income.
 2.  **Hunter Level Progression:** Claim the milestone rewards for every 5 levels gained; version 1.0 provides over 169 standard pulls through this system.
 3.  **City Tycoon Management:** Level up your business properties to generate passive rewards and one-time milestone bonuses.
@@ -179,5 +179,5 @@ By following this farming guide and maintaining a consistent daily presence in H
 - Neverness to Everness Official Website — https://nte.perfectworld.com/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
-- vpesports.com — https://www.vpesports.com/neverness-to-everness-release-date-and-details
-- gamerant.com — https://gamerant.com/neverness-to-everness-gacha-mechanics-explained/
+- vpesports.com
+- gamerant.com

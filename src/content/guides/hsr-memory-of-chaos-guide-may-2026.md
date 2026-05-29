@@ -1,4 +1,4 @@
----
+--
 title: "HSR Memory of Chaos Guide: Best Teams & Strategies (May 2026)"
 slug: hsr-memory-of-chaos-guide-may-2026
 game: hsr
@@ -7,7 +7,7 @@ qa_score: 6.3
 word_count: 1776
 published_at: "2026-05-13T17:31:21.239899+00:00"
 published_url: /guides/hsr-memory-of-chaos-guide-may-2026
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3dGqfJgRbFdd1Xnkv6QQqgB8xwX35q-tA8jT0W1_vcVA03CBHhDLNcgDYtwzkJSYSYcAQ_EA9-XVF5dAoB8gq02G6nENsmcrhxr5I0CH4pXmDKsrmIdVUVXsZijRKZ6FSkIrzXn2deHaUo4LZKMFemcx6ArY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM-xUzs45yucmw8w-lSfA1-1XrpZLOAxuGNDkTiD6v8WMo03iLYYm2Fye2wT24afPgwwpMGe5MXDIzQCqeFVjuvtOz7qNTIMTsgEQlTUnSURuoGiRCIKbgw7CBV4yx_6oVAcpBb3tePskcdrhlhpaIJ25dUvlJCxc_2TeTWGXypu-44xDsuwDdnas191JPJ8V_Dr_-uy0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyYes6WNpaeDkD2oyDhp2JeYHrKXuJRWD4fJNNlPx5sUd6p_9wr49GGO7-ynl09vA7aZ8PTfHy1_aOPNbl5eZ4CrZJk3rLGvhhXFocP31dheROiwUiHBhixh96ofcz4mlvwsXiuoE="
@@ -15,21 +15,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-DUO38SKr4K4AxqJfRN6tgEYyLALmKaAf0XeW3xFI3LruREuRhKCDEqnBff8T-kO1zyyz9EtP9TDFDhaJuT1loyfs1V06H6BDIXN7QpMz6GSHqNwmfr2BxVIFlqnnp0v68HuSpTbHcTfX8FxCl1BtESyaBk8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF__ZVuXlde6drICHsF7MOxLDYOoUxad4iNbKYJnfar3s9m3tLwprPg1XDTulIZn8TzjRX1SMova-ZhJmtI1SEJ4Gh3KapSb7JCbXRLh3L-HkPBvLi9Mli6-y2SVfRz9s8ja07KUIyePY5iBmYLsxraBwEfv56SMe5Ae6k="
 hero_image: /img/hsr-memory-of-chaos-guide-may-2026/hero.webp
-inline_images:
+inline_images
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-1.webp
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-2.webp
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-3.webp
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-4.webp
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-5.webp
   - /img/hsr-memory-of-chaos-guide-may-2026/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Earning 36 stars in the endgame requires a perfect blend of speed tuning and exploitation of the current Memory Turbulence. This guide breaks down the optimal setups for the May 2026 "Grand Finale" cycle.
 
@@ -110,7 +110,7 @@ In May 2026, Speed (SPD) tuning is no longer optional for MoC 12. The "Grand Fin
 
 ### Essential Substat Priorities for Stage 12 Survival
 
-While offensive stats are priority, the following survival thresholds are mandatory for Stage 12:
+While offensive stats are priority, the following survival thresholds are mandatory for Stage 12
 *   **Main DPS:** 3,800+ HP / 1,000+ DEF
 *   **Supports:** 4,500+ HP / 1,200+ DEF
 *   **SPD Breakpoints:** 134 is the minimum, but 160 is preferred for Tribbie and Sunday to ensure three actions in the first two cycles.
@@ -206,4 +206,4 @@ If you are failing to clear within the cycle limit, check your **SPD tuning**. M
 - HoYoLAB — https://www.hoyolab.com/article/34567890 (Ashveil Kit Breakdown)
 - Icy Veins — https://www.icy-veins.com/hsr/mydei-build-guide
 - Sportskeeda — https://www.sportskeeda.com/esports/honkai-star-rail-castorice-overview-path-element-playstyle-explained
-- Games.gg — https://games.gg/hsr/memory-of-chaos-version-4-1-guide/
+- Games.gg

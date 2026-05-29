@@ -1,4 +1,4 @@
----
+--
 title: "Best 5-Star Weapons in Neverness to Everness: NTE Arc Tier List"
 slug: best-5-star-weapons-nte-tier-list-20260524
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-tier-list-20260524/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-1.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-2.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-3.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-4.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-5.webp
   - /img/best-5-star-weapons-nte-tier-list-20260524/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Choosing the right gear is the difference between struggling in high-level Anomalies and dominating the urban landscape of Hethereau.
 
@@ -196,7 +196,7 @@ Players who have reached Tycoon Level 21 or higher can now officially obtain Chi
 - Neverness to Everness Official Website — https://nte.hotta.games/
 - Game8 NTE Wiki & Tier Lists — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Combat Guide — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Arc Database — https://www.prydwen.gg/nte/arcs/
+- Prydwen Institute: NTE Arc Database
 - Reddit: r/NTE_Official Patch 1.0.5 Discussion — https://www.reddit.com/r/NTE_Official/
-- Game Rant: Best Weapons in Neverness to Everness — https://gamerant.com/neverness-to-everness-best-arcs-weapons-tier-list/
+- Game Rant: Best Weapons in Neverness to Everness
 - Pocket Gamer: NTE F2P Guide — https://www.pocketgamer.com/neverness-to-everness/f2p-guide-arcs/

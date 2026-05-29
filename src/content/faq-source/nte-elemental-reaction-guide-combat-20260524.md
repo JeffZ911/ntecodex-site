@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Elemental Reaction Guide: Combat Synergies"
 slug: nte-elemental-reaction-guide-combat-20260524
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1759
 published_at: "2026-05-24T04:16:59.326483+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFabH4wpdixPfpiJmmjs2Ws_4Oqti3J0bGnHy9VVvylUqrcVc3dJtY99u00QR6rq7F6qtrgjrvosZjetxxoeVpkJkmsaY7KBQtOiaBiTM2vID6Z0GF6OxokDwWJKi3mmx7CAxT_bsZKQOz6_Kq-mCaff7jQjyKSWJyF3Mfdm4-svr6R"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ohIp3NNAFO49l54hVmcNfHUGLM-pMg7NPPAMhI2_b8PEizsvqmQZ6z2e4We-Ods9vBTRoL4-XRjdkJN1bMXn4WldCGcOHYWBnOvss12eaM-fNtf-Z0otyzPdaK67R6h3_mpHrQbPpDCYNRBIJ1zaRuEKKuCjUmDxL1qCOq-PnFwpZDp4oXSIlUClM-HRGqwCYyGIOcoJq99M3KYx9ud2Fj6ZUw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBOuc0NE3UVej466WbyRSDUOHgCc0NMKoh2822KdtLE-jTY5GlIOedkCIhATp9TlKYuywXMY33lTENF87JgXH3H2usNxwNR4gMvZsv19HRYIbTzsgUsm-WzaAgYPezKPzqPXuFSONiP38tMd_O5uqfVmyfMxR8Ug=="
@@ -20,17 +20,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX5GggSwrGQ6LuPgDTjiTPoeEfX2vG3CJFSkJAeY3SnAU9bDLezP3_Zjg2R8aO2DrzBcR9KVoGnl8ALvyr8JK1iGax7w7NOpjEvCDqudKu_ua6_yCUeXdLMGwjq9ZQNfEhLtlEECKTwPCbWkr_S4BETlJSglFl8Zl2uG6TvpwWTLo1h7yB3I7ELUvcGpZagDU3KwWinPPHbvO1aDvAvMuH"
 game: unknown
 hero_image: /img/nte-elemental-reaction-guide-combat-20260524/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-reaction-guide-combat-20260524/inline-1.webp
   - /img/nte-elemental-reaction-guide-combat-20260524/inline-2.webp
   - /img/nte-elemental-reaction-guide-combat-20260524/inline-3.webp
   - /img/nte-elemental-reaction-guide-combat-20260524/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 In the fast-paced urban combat of Hethereau, understanding the elemental system is the difference between struggling against minor anomalies and dismantling high-level bosses with ease.
 
@@ -52,7 +52,7 @@ Combat in Neverness to Everness is built on the Esper Cycle, a system that rewar
 
 Elemental reactions in NTE are governed by the "Esper Cycle," a hexagonal wheel consisting of six distinct elements: Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche. Reactions occur when you swap to a character with a full Esper Meter whose element is adjacent to the previous character's element on the hexagonal wheel.
 
-The system is divided into two primary tiers of interaction:
+The system is divided into two primary tiers of interaction
 1.  **Duo Cycle Reactions:** These are the six standard reactions (Remora, Blossom, Hexed, Scorch, Nova, and Stain) triggered by combining two neighboring elements.
 2.  **Trio Cycle Reactions:** These are advanced reactions (Charge and Discord) that occur when you successfully layer two Duo reactions from the same side of the wheel (either the Top Trio or Bottom Trio).
 
@@ -82,7 +82,7 @@ The combat loop in Neverness to Everness centers on the management of the Esper 
 
 ### The Esper Meter and Cycle Rate Stat
 
-Every character in your four-person squad has an Esper Meter, visualized as a circular gauge next to their portrait. You fill this meter through three primary methods:
+Every character in your four-person squad has an Esper Meter, visualized as a circular gauge next to their portrait. You fill this meter through three primary methods
 *   **Basic Attacks and Skills:** Dealing damage provides a steady trickle of energy.
 *   **Dodge Counters:** Successfully dodging an attack and following up provides a moderate burst of energy.
 *   **Parries:** Executing a perfect parry instantly fills the character's Esper Meter to 100%.
@@ -115,7 +115,7 @@ For example, [Nanally](/characters/nanally-guide-nte) (Anima) has a passive that
 
 ### Advanced Rotation Strategies: The 'Soup' vs. 'Trio' Build
 
-As players progress into the endgame, two main rotation philosophies have emerged:
+As players progress into the endgame, two main rotation philosophies have emerged
 
 1.  **The Trio Build:** This strategy focuses on one side of the wheel (e.g., Lakshana, Cosmos, and Anima). The goal is to cycle through these three elements exclusively to maintain 100% uptime on a Trio Reaction like Charge. This is highly stable and easy to manage.
 2.  **The 'Soup' Build:** This is a high-skill rotation that uses four or more elements to chain multiple Duo reactions in a sequence. A common "Soup" rotation involves swapping between Lakshana, Cosmos, Anima, and Incantation. This allows the player to trigger Remora, Blossom, and Hexed in a single continuous loop, though it requires very high Cycle Rate stats on all characters to prevent the rotation from "stalling."
@@ -152,13 +152,13 @@ Conversely, if you see the enemy's Break meter is nearly empty, you should save 
 
 ## Sources
 
-- Kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions/
-- Mobalytics — https://mobalytics.gg/blog/neverness-to-everness/nte-combat-guide-esper-cycles/
+- Kaiden.gg
+- Mobalytics
 - Icy Veins — https://www.icy-veins.com/nte/guides/esper-cycles-elements/
-- NTEGame — https://ntegame.com/combat-guide/elemental-reactions/
+- NTEGame
 - Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-nte-combat-guide-attributes-esper-cycles
 - Reddit — https://www.reddit.com/r/NevernessToEverness/comments/1cd8n3v/how_important_are_esper_cycles/
 - GamingonPhone — https://gamingonphone.com/guides/neverness-to-everness-elements-guide/
-- GameRant — https://gamerant.com/neverness-to-everness-nte-esper-cycle-guide/
-- Neverness.gg — https://neverness.gg/characters/nanally-build-guide/
+- GameRant
+- Neverness.gg
 - Bo3.gg — https://bo3.gg/nte/guides/all-damage-types-explained-in-neverness-to-everness

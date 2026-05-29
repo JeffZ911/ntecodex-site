@@ -1,4 +1,4 @@
----
+--
 title: "Best F2P Weapons in Neverness to Everness: 2026 Tier List"
 slug: best-f2p-weapons-neverness-to-everness
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.3
 word_count: 1901
 published_at: "2026-05-22T09:42:38.050124+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH49tJdiBxBLm-ku-VuWE9EqcjAWEYZOUJN0h3Bjx-V322uuRA1Xl0NFkMQw2c2Ontd9oOuJoJ-u7nuoKZycbcUIeI--7NhTKXMtUVMKltBZ9D2H5AjwCko6uC5q-ki3VTD18DY2mr1Uk_W2w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvAqLsC120ggm-YusynqbAvhlwd6ERqKuho5sj1pLyKtzKfNtiI13f46Xx6JUuFHFrfnU-XRL2EDWjdnPp4-S9vW4TJJUJ6Qm1Sd_z5Pe3b_vxGd3PbITa_iC7j3fuPMMbJc9laqU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw0GwMOI9vyOPWs8jJc0tbTv6_9GYxHtkw1jG91MltWHJjM-nAApsa4ReW8XcZ135rJAMzEeInwDaOZqJj26HaBum0UTCb5B7VcFTpuSPdw1MWb3U8Er7388xhzvy6v8rlNg=="
@@ -24,21 +24,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjwcHDrDGcIFrqr21kqPI0uSVLBbbBkyJzV0R2sjFCvszDXfkkCaOlv1SvMgHY8d1xjB8ApbQUBYnD61m0iLs2484M56aw81za1NWIssTQYqYLWGhr4Jx4oJDJgjzEvrdeYVZS0DZzXNyaAJ3R2HoFVEvGMz378TRgi31xQfSNn-c8GV7m6utKH8iTiRsIiXVNN4GOHUuZG-Yo"
 game: unknown
 hero_image: /img/best-f2p-weapons-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/best-f2p-weapons-neverness-to-everness/inline-1.webp
   - /img/best-f2p-weapons-neverness-to-everness/inline-2.webp
   - /img/best-f2p-weapons-neverness-to-everness/inline-3.webp
   - /img/best-f2p-weapons-neverness-to-everness/inline-4.webp
   - /img/best-f2p-weapons-neverness-to-everness/inline-5.webp
   - /img/best-f2p-weapons-neverness-to-everness/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Finding the right Arcs to equip your Espers in Neverness to Everness (NTE) is the difference between struggling against urban Anomalies and dominating the streets of Hethereau. This guide breaks down the best F2P weapons available as of May 2026, focusing on farmable S-rank Arcs and reliable A-rank alternatives.
 
@@ -53,7 +53,7 @@ The weapon system in Neverness to Everness centers on "Arcs," which are categori
 
 Ranking these Arcs involves evaluating their accessibility against their raw performance in endgame content like High-Risk Anomaly Commissions. A "Best-in-Slot" F2P weapon must be farmable from repeatable sources—such as World Bosses or specific Anomaly zones—rather than relying on the gacha pool.
 
-Our evaluation criteria include:
+Our evaluation criteria include
 *   **F2P Accessibility:** Can the Arc be obtained via Story rewards, Anomaly Commissions, or World Boss drops?
 *   **Mixing Potential:** How feasible is it to reach Mixing Level 5? Arcs like *Blow up the Crowd* are highly rated because extra copies are available in the Arc Shop for Tri-Keys.
 *   **Stat Weighting:** We prioritize Arcs that offer offensive substats like CRIT Rate and CRIT DMG, or utility stats like Charge Efficiency for energy-hungry Ultimates.
@@ -189,7 +189,7 @@ You should dismantle any B-rank or C-rank Arcs that you do not have an immediate
 The meta for Arcs is constantly shifting as Hotta Studio balances the game's urban combat.
 
 ### May 21 Hotfix Breakdown
-The hotfix released on May 21, 2026, focused heavily on quality-of-life improvements and bug fixes:
+The hotfix released on May 21, 2026, focused heavily on quality-of-life improvements and bug fixes
 *   **Exploration Guide Compensation:** Players who reached Level 10 in the Exploration Guide but only received one "Fabricated Dice" will be sent two additional dice via in-game mail.
 *   **Visual Fixes:** A clipping issue with Mint’s feet during pool animations was resolved.
 *   **City Tycoon Adjustments:** An issue causing incorrect revenue display for *The Cafe by Origen* was fixed.
@@ -200,11 +200,11 @@ The upcoming "Dreamwalk Corridor" update (Version 1.1) is set to introduce **Lac
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/arcs-stats-effects/
-- nerdschalk.com — https://nerdschalk.com/hethereaus-keeper-arc-nte-justice-executioner/
+- neverness.gg
+- nerdschalk.com
 - icy-veins.com — https://www.icy-veins.com/nte/blow-up-the-crowd-arc-guide/
-- ntegame.com — https://ntegame.com/arcs/hethereaus-keeper/
+- ntegame.com
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/hotfix-notice-2026-05-21/
 - gamewith.net — https://gamewith.net/nte/article/show/best-arcs-weapons-for-each-character/
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/arcs-list-stats/
+- mobalytics.gg
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html

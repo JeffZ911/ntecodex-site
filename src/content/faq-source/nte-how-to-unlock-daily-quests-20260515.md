@@ -1,4 +1,4 @@
----
+--
 title: "NTE How to Unlock Daily Quests: Full Guide & Unlock Requirements"
 slug: nte-how-to-unlock-daily-quests-20260515
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 10.0
 word_count: 1670
 published_at: "2026-05-15T07:59:31.202050+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRGt7YPaP-PA8oppukqtQwObaRZa9iriN2J1pkZdJe4GLr3UC9v9y0ATLhOmyq3Ey00Y61uFQpI1l9Cvmy5gN9QWbBdY6ON7E40KsxKqyIQHvgCttWOWy3z0yEP84jq9uTIbRa3eRyEcsju4QG_ADYm7DLncOtG_NGWmGYWSM-xJZtA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIw3VsdaOTnAnhrYdESXPvnsnEbzGxh2ebyiBLfPVyqlzDCP8ptYBr-rqpC5ez3-emQJLTfl6aUUgnHqJXl90EsdUJElF_dgYfRbUqX7S04O5bX0FXrOYDG8-amexuW2zDWShNlz0ac2Dlqtpa1Nmni1B-0w2OVYf5q-4MFkVZexlH38G0huktDSXIwTQ6WtfcZWal1XU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGJ7Cj25Q14ddvSqZRQhxilXjpBKFFRnNqyqiTT3GLsPWarub1XY2NDIo0OV5Xd0l531lo0nZ-ujIHNmTj7mXHvOMeQRXepONzEKllAAQHBvS-UQ9CO-d-ChLvT_-Lbmm2_NTCySm1fKKYoODNZ794eN1U4aWl8xCLXSK6cg3OjCDNJw=="
@@ -22,17 +22,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUCvyUT10lrRB9tetPsFzdrPq_i989C7woyg_YXsN8pHGa2FT7NG5Kzh6efYdMmv5ubo0xKaNxs2ev6u5NDZWOhKzmYbSXPvu5ks7PH7Ib-CPRiS28eZFI6yZ8Ff8u58yF6w=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVcUr3dskaNwErPrL2axiiUy8bUIyyQLL51RBm3A-LUbfQEDieorVLqcNEMPXnXFAwI8FJghm0E9LkbbXYmhGbOt3j6EBLe7cn1rFXHLc7EXKyPEwEJF-DJRKKGDQ74wME1LNUpFrjBzHd9Nz5qpZTtWcEjB9zR7Jbl2GGTVN63JV9w-F-dqugN7P678qyI-Cq2FihamOtJgPq_u4u"
 hero_image: /img/nte-how-to-unlock-daily-quests-20260515/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-unlock-daily-quests-20260515/inline-1.webp
   - /img/nte-how-to-unlock-daily-quests-20260515/inline-2.webp
   - /img/nte-how-to-unlock-daily-quests-20260515/inline-3.webp
   - /img/nte-how-to-unlock-daily-quests-20260515/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Start your journey in Hethereau on the right foot by securing your most consistent source of Hunter EXP and Annuliths. This guide explains exactly how to access your daily tasks so you can maximize your progression in Neverness to Everness.
 
@@ -90,7 +90,7 @@ The daily system in Neverness to Everness is split into two distinct but overlap
 
 Participation Tasks are the primary "Daily Quests" that most players refer to. Instead of having to complete every single task on the list, NTE uses a "Participation Point" system. Each task you complete awards a set number of points (usually 10, 20, or 30). Your goal is to reach **100 Participation Points** to unlock all five daily reward chests.
 
-Typical Participation Tasks include:
+Typical Participation Tasks include
 *   **Daily Login:** Simply opening the game (20 points).
 *   **Spend 100 Character Pixels:** Using your stamina in Anomaly Zones (30 points).
 *   **Earn 10,000 Fons:** Collected through combat, selling items, or shop income (20 points).
@@ -168,7 +168,7 @@ Once you unlock the Cafe by Origen, you gain access to a passive Fons generator.
 
 ### Daily NPC Interactions: Witch's House and Nacupeda's Pool
 
-Two specific locations in Southwest Hethereau offer unique daily benefits:
+Two specific locations in Southwest Hethereau offer unique daily benefits
 
 *   **The Witch's House:** Located near Bridge Crossing, the Witch offers a daily fortune reading. Choosing the "Lost Tales" fortune can reveal a hidden quest, while "Bless" provides a combat damage buff that lasts until the next reset.
 *   **Nacupeda's Pool:** This fountain provides a daily reward based on your dialogue choice.
@@ -192,9 +192,9 @@ By integrating these tasks into your daily and weekly cycle, you ensure that you
 ## Sources
 
 - neverness.gg — https://neverness.gg/guides/nte-server-reset-time-daily-and-weekly/
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-daily-routine-guide/
-- neonlightsmedia.com — https://neonlightsmedia.com/neverness-to-everness-daily-quest-guide-farm-exp/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/46522
+- gamerant.com
+- neonlightsmedia.com
+- gamewith.net
 - sportskeeda.com — https://www.sportskeeda.com/esports/nte-character-pixels-city-stamina-explained
 - bo3.gg — https://bo3.gg/nte/guides/how-to-use-character-pixels-in-neverness-to-everness
-- psu.com — https://www.psu.com/reviews/nte-neverness-to-everness-review-ps5/
+- psu.com

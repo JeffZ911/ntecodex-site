@@ -1,4 +1,4 @@
----
+--
 title: "Best Neverness to Everness DPS Team Comps: Tier List (May 2026)"
 slug: nte-best-dps-team-comps-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T09:08:07.317768+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-dps-team-comps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-dps-team-comps-tier-list/inline-1.webp
   - /img/nte-best-dps-team-comps-tier-list/inline-2.webp
   - /img/nte-best-dps-team-comps-tier-list/inline-3.webp
   - /img/nte-best-dps-team-comps-tier-list/inline-4.webp
   - /img/nte-best-dps-team-comps-tier-list/inline-5.webp
   - /img/nte-best-dps-team-comps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your squad in Hethereau requires more than just high-level Arcs; it demands a deep understanding of how elemental archetypes and the Esper Cycle interact to trigger high-multiplier reactions. With the recent conclusion of [Nanally](/characters/nanally-guide-nte)’s debut banner and the introduction of [Hotori](/characters/hotori-best-team-nte), the meta has shifted toward triple-elemental rotations that maximize field uptime.
 
@@ -189,7 +189,7 @@ The release of Hotori (S-Rank Cosmos) has completely revitalized the Cosmos elem
 
 ### Patch 1.01 and Sakiri Adjustments
 
-Patch 1.01 brought several quality-of-life changes and balance tweaks:
+Patch 1.01 brought several quality-of-life changes and balance tweaks
 *   **Discord Reaction:** Damage increased by 12%. This was a direct buff to Baicang and Fadia compositions.
 *   **Sakiri:** Fixes to her "Eating Mode" digestion timers have improved her field time efficiency. Previously, a bug caused her to exit her enhanced state prematurely if she took chip damage.
 *   **Nanally:** While her "Ichi-daime" banner has concluded, she remains the highest-performing Anima DPS. New players are encouraged to save for her eventual rerun or look toward upcoming Chaos units.
@@ -212,5 +212,5 @@ Building the best DPS team in NTE is a matter of matching your character’s arc
 - NTE Official Discord — https://discord.com/invite/nte
 - Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Release and Updates — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Team Comps — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Team Comps
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/

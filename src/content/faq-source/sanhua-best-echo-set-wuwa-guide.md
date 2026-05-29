@@ -1,4 +1,4 @@
----
+--
 title: Best Sanhua Echo Set in Wuthering Waves (WuWa) Guide
 slug: sanhua-best-echo-set-wuwa-guide
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-14T04:01:14.638731+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/sanhua-best-echo-set-wuwa-guide/hero.webp
-inline_images:
+inline_images
   - /img/sanhua-best-echo-set-wuwa-guide/inline-1.webp
   - /img/sanhua-best-echo-set-wuwa-guide/inline-2.webp
   - /img/sanhua-best-echo-set-wuwa-guide/inline-3.webp
   - /img/sanhua-best-echo-set-wuwa-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Sanhua remains one of the most efficient Sub-DPS units in Wuthering Waves due to her rapid Concerto generation and powerful Basic Attack DMG buffs. To maximize her utility, choosing the right Echo set is vital for balancing her personal Glacio damage with her role as a premier team support.
 
@@ -32,7 +32,7 @@ Sanhua remains one of the most efficient Sub-DPS units in Wuthering Waves due to
 ![Question Restated](/img/sanhua-best-echo-set-wuwa-guide/inline-1.webp)
 
 
-Sanhua is a 4-star Glacio Resonator who excels at quick-swap rotations, making her a staple in teams that rely on Basic Attack damage. Because she spends very little time on the field, players often struggle to decide whether to build her for maximum personal burst damage or to lean into her supportive capabilities. Choosing the best Echo set for Sanhua requires answering a few specific questions:
+Sanhua is a 4-star Glacio Resonator who excels at quick-swap rotations, making her a staple in teams that rely on Basic Attack damage. Because she spends very little time on the field, players often struggle to decide whether to build her for maximum personal burst damage or to lean into her supportive capabilities. Choosing the best Echo set for Sanhua requires answering a few specific questions
 
 *   **What is the best Echo set for Sanhua in Wuthering Waves?** Depending on your team composition, you will generally choose between a set that boosts her own Glacio damage or one that provides massive buffs to the next character in the rotation.
 *   **How do different Echo sets impact Sanhua's role as a Sub-DPS or Support?** Certain sets prioritize Energy Regeneration and team-wide ATK buffs, while others focus on stacking Glacio DMG bonuses through her unique "detonation" mechanic.
@@ -77,7 +77,7 @@ Freezing Frost should only be used if you have already achieved 140%+ Energy Reg
 
 The Moonlit Clouds set is designed for Resonators who enter the field, dump their abilities, and exit quickly. Sanhua fits this description perfectly. The 5-piece bonus triggers specifically upon using an **Outro Skill**. Since Sanhua generates Concerto Energy faster than almost any other unit, she can maintain a nearly 100% uptime on the 22.5% ATK buff provided by this set.
 
-When combined with the **Impermanence Heron** as the Main Echo, Sanhua becomes a utility monster. The Impermanence Heron’s active skill provides an additional 12% DMG boost to the next Resonator if the user exits the field via an Outro Skill within 15 seconds. This creates a "triple-buff" scenario:
+When combined with the **Impermanence Heron** as the Main Echo, Sanhua becomes a utility monster. The Impermanence Heron’s active skill provides an additional 12% DMG boost to the next Resonator if the user exits the field via an Outro Skill within 15 seconds. This creates a "triple-buff" scenario
 1.  38% Basic Attack DMG Deepen (Sanhua Outro)
 2.  22.5% ATK Increase (Moonlit Clouds 5-pc)
 3.  12% All-DMG Increase (Impermanence Heron Skill)
@@ -129,7 +129,7 @@ Sanhua is "Energy hungry" despite her fast rotations. To ensure she can use her 
 
 ### Farming Locations for Sanhua's Best Echoes
 
-To farm the Moonlit Clouds and Freezing Frost sets efficiently, you should focus on the following Tacet Fields:
+To farm the Moonlit Clouds and Freezing Frost sets efficiently, you should focus on the following Tacet Fields
 
 1.  **Tacet Field: Desorock Highland:** This field frequently drops **Moonlit Clouds** and **Lightless Gaze** Echoes. It is the most efficient place to spend Waveplates for a support Sanhua.
 2.  **Tacet Field: Whining Aix's Mire:** This location is excellent for farming **Freezing Frost** and **Sun-Sinking Eclipse** Echoes if you are pursuing the DPS build.
@@ -165,7 +165,7 @@ Sanhua is a "universal" support, but she performs best when paired with characte
 
 ### Sanhua Skill Upgrade Priority
 
-Since Sanhua is often used for her burst and Forte detonations, you should prioritize your resources as follows:
+Since Sanhua is often used for her burst and Forte detonations, you should prioritize your resources as follows
 
 1.  **Resonance Liberation (Glacial Bloom):** This is her highest damage source and creates the Ice Thorns for detonation.
 2.  **Forte Circuit (Clarity of Mind):** This governs the damage of her detonations. Upgrading this is essential for her Sub-DPS contribution.
@@ -175,7 +175,7 @@ Since Sanhua is often used for her burst and Forte detonations, you should prior
 
 ### Advanced Rotation Tips: Maximizing Concerto Energy
 
-To get the most out of your Sanhua Echo set, you must master her "Fast Concerto" rotation. A typical high-efficiency rotation looks like this:
+To get the most out of your Sanhua Echo set, you must master her "Fast Concerto" rotation. A typical high-efficiency rotation looks like this
 
 1.  **Intro Skill:** Sanhua enters the field, dealing Glacio DMG and creating an Ice Prism.
 2.  **Resonance Skill:** Immediately use the skill to create another Ice Prism.
@@ -191,5 +191,5 @@ This entire sequence should take no more than 5 seconds. If performed correctly,
 - Prydwen Institute — https://www.prydwen.gg/wuthering-waves/characters/sanhua
 - Game8 Wuthering Waves Guide — https://game8.co/games/Wuthering-Waves/archives/454504
 - Wuthering.wiki Sanhua Database — https://wuthering.wiki/character_1402.html
-- IGN Wuthering Waves Echo Guide — https://www.ign.com/wikis/wuthering-waves/Echo_System_Explained
+- IGN Wuthering Waves Echo Guide
 - WutheringLab Sanhua Build — https://wutheringlab.com/character/sanhua-build/

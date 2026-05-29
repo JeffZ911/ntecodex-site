@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Build Guide for Beginners: Best Arcs & Disks"
 slug: nte-character-build-guide-beginners
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-character-build-guide-beginners
 sources: []
 game: unknown
 hero_image: /img/nte-character-build-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-build-guide-beginners/inline-1.webp
   - /img/nte-character-build-guide-beginners/inline-2.webp
   - /img/nte-character-build-guide-beginners/inline-3.webp
   - /img/nte-character-build-guide-beginners/inline-4.webp
   - /img/nte-character-build-guide-beginners/inline-5.webp
   - /img/nte-character-build-guide-beginners/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Surviving the supernatural anomalies of Hethereau requires more than just quick reflexes; it demands a deep understanding of how to synchronize your Espers with the right equipment.
 
@@ -42,7 +42,7 @@ For beginners, Mint stands out as the premier Free-to-Play (F2P) build choice. S
 
 ### Understanding Esper Types and Elements
 
-Every Esper in Hethereau is categorized by an Elemental Type, which dictates their interactions within the Esper Cycle. The primary elements include:
+Every Esper in Hethereau is categorized by an Elemental Type, which dictates their interactions within the Esper Cycle. The primary elements include
 
 *   **Anima:** Focused on high-frequency hits and elemental resonance.
 *   **Cosmos:** Often utilized for crowd control and gravitational effects.
@@ -129,7 +129,7 @@ NTE combat revolves around the "Esper Cycle." This system encourages players to 
 
 ### Mastering the Esper Cycle
 
-When elements interact, they produce unique effects. Two of the most important reactions for beginners are:
+When elements interact, they produce unique effects. Two of the most important reactions for beginners are
 
 1.  **The Blossom Reaction:** Triggered by pairing Anima (Mint/Nanally) with Cosmos (Esper Zero). This creates a localized gravitational bloom that pulls enemies in and deals massive AoE Anima damage.
 2.  **The Hexed Reaction:** Triggered by combining Anima with Incantation (Sakiri/Adler). This applies a "Hex" to enemies, shredding their defense and making them susceptible to crowd control.
@@ -160,7 +160,7 @@ The "Quick-Swap" meta defines NTE. Your goal is to keep the Esper Meter full and
 
 ### Executing the Blossom/Hexed Combo
 
-A standard rotation for a Mint-focused team follows this flow:
+A standard rotation for a Mint-focused team follows this flow
 
 1.  **Start with Sakiri:** Use her Skill (e.g., "Devour Whole") to apply Incantation marks and build initial Cycle Energy.
 2.  **Swap to Esper Zero:** Use his Cosmos ability to group enemies together. This sets the stage for a multi-target reaction.
@@ -202,9 +202,9 @@ The highest rarity Modules (the "Tetris pieces") are found in high-level anomaly
 
 ## Sources
 
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-guide/
-- neverness.gg — https://neverness.gg/characters/nanally-build/
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-everything-we-know/
-- games.gg — https://games.gg/neverness-to-everness-combat-mechanics-explained/
+- mobalytics.gg
+- neverness.gg
+- pcgamer.com
+- games.gg
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-beginner-guide-tips-and-tricks.html
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-tier-list-en.html

@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Disks for DPS: Top Arcs and Cartridges Guide"
 slug: best-nte-disks-for-dps
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-nte-disks-for-dps/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-disks-for-dps/inline-1.webp
   - /img/best-nte-disks-for-dps/inline-2.webp
   - /img/best-nte-disks-for-dps/inline-3.webp
   - /img/best-nte-disks-for-dps/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Selecting the right combination of Arcs and Cartridges is the defining factor between clearing Hethereau’s toughest anomalies and hitting a progression wall. With the global launch of Neverness to Everness (NTE) on April 29, 2026, players have quickly discovered that "Disks"—the community term for the dual-gear system of weapons and equipment—require precise synergy to unlock maximum DPS potential.
 
@@ -109,7 +109,7 @@ The "Tetris" aspect comes from the fact that certain Cartridges and Arcs grant b
 
 ### Optimal Main Stats and Substats for DPS
 
-When farming Cartridges using your **Character Pixels** (the game's stamina equivalent), you should look for specific main stat distributions:
+When farming Cartridges using your **Character Pixels** (the game's stamina equivalent), you should look for specific main stat distributions
 1.  **Disk 1 & 2:** Fixed flat ATK and HP (Focus on substats here).
 2.  **Disk 3:** ATK% or Energy Regen.
 3.  **Disk 4:** Elemental DMG Bonus (Anima, Cosmos, etc.).
@@ -126,7 +126,7 @@ Building a top-tier DPS requires looking beyond just the main attacker. The syne
 
 ### Best Disks for Nanally (Anima Main DPS)
 
-Nanally remains the most popular DPS since the "The Ichi-daime" banner launched. Her best build involves:
+Nanally remains the most popular DPS since the "The Ichi-daime" banner launched. Her best build involves
 *   **Arc:** [Information not yet publicly available as of 2026-05-23].
 *   **Cartridge:** 4-piece **Fireflies and the Forest**.
 *   **Console Priority:** Type II Modules (Square shapes) to trigger her Crit Rate Resonance.
@@ -140,7 +140,7 @@ Cosmos characters thrive on "Stability Damage," which allows them to break enemy
 
 ### F2P Friendly DPS Disk Options
 
-For players who haven't pulled S-rank Arcs from the gacha, there are several powerful alternatives:
+For players who haven't pulled S-rank Arcs from the gacha, there are several powerful alternatives
 *   **OraOra!:** This Arc can be purchased from the Hethereau Reputation Shop. It provides a solid ATK boost and is easy to Max Refine (R5).
 *   **Song of the Whale:** A defensive/offensive hybrid Arc that is excellent for newer players struggling with survivability in the open world.
 *   **Cartridge Farming:** Stick to the **Standard Resonance** sets available in early-game domains until you can comfortably clear the level 60 Cartridge trials.
@@ -155,6 +155,6 @@ Additionally, triggering the correct **Esper Cycle** is crucial. For example, us
 
 - Neverness to Everness Official Site — https://nte.hotta.com/
 - Hotta Studio Official Discord — https://discord.gg/nteofficial
-- IGN: Neverness to Everness Combat and Gear Guide — https://www.ign.com/articles/neverness-to-everness-guide-arcs-cartridges
+- IGN: Neverness to Everness Combat and Gear Guide
 - Game8: NTE Best Weapons and Disks Tier List — https://game8.co/games/NTE/anticles/best-disks-tier-list
 - Reddit: r/NTE_Official Theorycrafting Megathread — https://www.reddit.com/r/NTE_Official/comments/version1-0-meta-discussion/

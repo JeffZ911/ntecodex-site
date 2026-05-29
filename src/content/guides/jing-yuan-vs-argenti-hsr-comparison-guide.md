@@ -1,4 +1,4 @@
----
+--
 title: "Jing Yuan vs Argenti: Which HSR Erudition King is Better?"
 slug: jing-yuan-vs-argenti-hsr-comparison-guide
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-14T01:51:47.493930+00:00"
 published_url: /guides/jing-yuan-vs-argenti-hsr-comparison-guide
 sources: []
 hero_image: /img/jing-yuan-vs-argenti-hsr-comparison-guide/hero.webp
-inline_images:
+inline_images
   - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-1.webp
   - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-2.webp
   - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-3.webp
   - /img/jing-yuan-vs-argenti-hsr-comparison-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing between the Arbiter-General of the Xianzhou Luofu and the Knight of Beauty requires understanding the fundamental shift in how Erudition characters handle the game's toughest challenges. While both specialize in area-of-effect damage, their reliance on specific supports and their performance across different game modes creates a distinct divide in their long-term value.
 
@@ -142,5 +142,5 @@ Ultimately, Jing Yuan requires more "babysitting" (SPD tuning and CC protection)
 - Prydwen Institute - Jing Yuan Character Guide — https://www.prydwen.gg/star-rail/characters/jing-yuan
 - Prydwen Institute - Argenti Character Guide — https://www.prydwen.gg/star-rail/characters/argenti
 - Game8 Honkai Star Rail Database — https://game8.co/games/Honkai-Star-Rail
-- KeqingMains (KQM) Jing Yuan Guide — https://keqingmains.com/hsr/jing-yuan/
-- KeqingMains (KQM) Argenti Guide — https://keqingmains.com/hsr/argenti/
+- KeqingMains (KQM) Jing Yuan Guide
+- KeqingMains (KQM) Argenti Guide

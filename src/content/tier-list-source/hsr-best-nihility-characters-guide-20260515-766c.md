@@ -1,4 +1,4 @@
----
+--
 title: "HSR Best Nihility Characters Guide: May 2026 Tier List"
 slug: hsr-best-nihility-characters-guide-20260515-766c
 game: hsr
@@ -9,21 +9,21 @@ published_at: "2026-05-15T10:21:22.361398+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/hsr-best-nihility-characters-guide-20260515-766c/hero.webp
-inline_images:
+inline_images
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-1.webp
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-2.webp
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-3.webp
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-4.webp
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-5.webp
   - /img/hsr-best-nihility-characters-guide-20260515-766c/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Mastering the Nihility Path is the key to dismantling the most difficult encounters in Honkai: Star Rail's endgame. This guide evaluates the top debuffers and Damage over Time (DoT) specialists to help you optimize your teams for the current meta.
 
@@ -125,7 +125,7 @@ B-Tier units are reliable but usually require higher investment or specific elem
 *   **Luka (Physical):** A specialist for Physical-weak bosses. His ability to detonate Bleed is powerful, but his purely single-target kit makes him difficult to use in modern AoE-heavy content.
 
 **B-Tier Investment Guide: Minimum Stats for MoC 12 Viability**
-To use these characters in MoC 12, aim for the following benchmarks:
+To use these characters in MoC 12, aim for the following benchmarks
 *   **Effect Hit Rate (EHR):** 67% (to guarantee debuffs against enemies with 40% Effect RES).
 *   **Speed:** 134 or 143 (to hit specific action breakpoints).
 *   **Survivability:** At least 3,000 HP and 1,000 DEF to avoid being one-shot by boss mechanics.
@@ -166,4 +166,4 @@ The rise of the "Apocalyptic Shadow" mode has prioritized Nihility units with hi
 - Honkai: Star Rail Fandom Wiki Nihility — https://honkai-star-rail.fandom.com/wiki/Nihility
 - Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/home
 - Reddit Theorycrafting Megathread — https://www.reddit.com/r/HonkaiStarRail/
-- Eurogamer HSR Character Guide — https://www.eurogamer.net/honkai-star-rail-tier-list-best-characters-9321
+- Eurogamer HSR Character Guide

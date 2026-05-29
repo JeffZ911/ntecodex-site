@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat the First Boss in Neverness to Everness: Picture Frame Guide"
 slug: how-to-beat-first-boss-neverness-to-everness-20260523
 article_type: boss_guide
@@ -9,17 +9,17 @@ published_url: /boss/how-to-beat-first-boss-neverness-to-everness-20260523
 sources: []
 game: unknown
 hero_image: /img/how-to-beat-first-boss-neverness-to-everness-20260523/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-first-boss-neverness-to-everness-20260523/inline-1.webp
   - /img/how-to-beat-first-boss-neverness-to-everness-20260523/inline-2.webp
   - /img/how-to-beat-first-boss-neverness-to-everness-20260523/inline-3.webp
   - /img/how-to-beat-first-boss-neverness-to-everness-20260523/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Loot"
----
+--
 
 Mastering the first major boss encounter in Heta City is the first significant hurdle for any new Hunter in Neverness to Everness. This guide provides the tactical breakdown and team compositions needed to defeat the Picture Frame and progress into the heart of the urban mystery.
 
@@ -130,7 +130,7 @@ The best approach for the Picture Frame is a team that focuses on Cosmos damage 
 
 ### High-Tier Alternatives for Faster Clears
 
-If you were lucky during your initial pulls on the starter banner, you can optimize this team:
+If you were lucky during your initial pulls on the starter banner, you can optimize this team
 
 *   **[Nanally](/characters/nanally-guide-nte) (S-Rank):** Replace Chiz with Nanally. Nanally’s follow-up damage is significantly higher and can bypass some of the boss's Phase 2 defense.
 *   **Daffodill (Chaos):** If you have Daffodill, her "Phantom Step" mechanic makes the Phase 3 Quantum Drift much easier to handle. Her Chaos element is also highly effective against the Picture Frame's Anomaly type.
@@ -151,7 +151,7 @@ Defeating the Picture Frame for the first time provides the materials necessary 
 
 ### First-Clear Rewards Breakdown
 
-The first clear is part of the "Deal? Deal." story quest. Upon completion, you will receive:
+The first clear is part of the "Deal? Deal." story quest. Upon completion, you will receive
 *   **Fons:** 5,000 (Main Currency).
 *   **Character EXP Materials:** 10x [information unavailable] level-up items.
 *   **Anomaly Fragments:** Used for crafting early-game Arcs.
@@ -173,4 +173,4 @@ By following this strategy and focusing on the "Break" windows, the Picture Fram
 - Game8 Neverness to Everness Guide Hub — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Combat Mechanics — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official Boss Strategies — https://www.reddit.com/r/NTE_Official/
-- Prydwen.gg: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen.gg: NTE Character Database

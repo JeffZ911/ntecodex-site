@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Progression Guide: Best Builds, Arcs & Team Comps"
 slug: nte-character-progression-guide-20260521
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-character-progression-guide-20260521
 sources: []
 game: unknown
 hero_image: /img/nte-character-progression-guide-20260521/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-progression-guide-20260521/inline-1.webp
   - /img/nte-character-progression-guide-20260521/inline-2.webp
   - /img/nte-character-progression-guide-20260521/inline-3.webp
   - /img/nte-character-progression-guide-20260521/inline-4.webp
   - /img/nte-character-progression-guide-20260521/inline-5.webp
   - /img/nte-character-progression-guide-20260521/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your roster in Hethearau requires a deep understanding of how urban life and supernatural combat intersect. This NTE character progression guide breaks down the essential systems you need to master to clear high-level Anomaly Zones and optimize your Espers for the end-game.
 
@@ -80,7 +80,7 @@ In NTE, weapons are referred to as **Arcs**. These are high-tech devices that ch
 
 ### Understanding Arc Types
 
-Each Arc type favors a specific combat style:
+Each Arc type favors a specific combat style
 *   **Plasma:** Generally focuses on CRIT Rate and high-frequency attacks.
 *   **Solid:** Increases defense-scaling damage and Break Intensity.
 *   **Gas:** Optimizes Elemental Mastery and reaction damage.
@@ -96,7 +96,7 @@ The most powerful Arcs are typically found in the limited-time "Resonance" banne
 
 ### Best F2P Arcs for Beginners
 
-For players not wishing to spend premium currency, several A-Rank Arcs provide excellent bridge performance:
+For players not wishing to spend premium currency, several A-Rank Arcs provide excellent bridge performance
 *   **"Clear Skies":** A Solid-type Arc available through the City Tycoon shop that provides a reliable ATK% boost.
 *   **"Mind Royale":** A Liquid-type Arc that is excellent for supports like Haniel, boosting the team's energy recovery.
 
@@ -138,14 +138,14 @@ The core of NTE’s combat is the **Elemental Reaction** system. Building a team
 
 ### Elemental Reactions: Scorch, Nova, and Discord
 
-Understanding how elements interact is the key to mastering Hethearau's combat:
+Understanding how elements interact is the key to mastering Hethearau's combat
 *   **Scorch (Incantation + Chaos):** Deals sustained damage over time and reduces enemy Break resistance.
 *   **Nova (Chaos + Psyche):** Triggers a high-damage explosion that deals AoE damage based on the character's ATK.
 *   **Discord:** This is the pinnacle reaction. By applying **Scorch** and then triggering **Nova** on the same target, you create a **Discord** state. This state completely shreds enemy "Break bars," leaving them vulnerable to massive damage.
 
 ### The 'Break Discord' Meta Team
 
-This is currently the most popular high-end composition for clearing difficult content:
+This is currently the most popular high-end composition for clearing difficult content
 *   **Main DPS:** Nanally (Incantation) - Provides the primary damage and applies Incantation status.
 *   **Sub-DPS/Breaker:** Daffodil (Chaos) - Used to trigger Scorch and shred Break bars.
 *   **Support:** Haniel (Psyche) - Triggers Nova to complete the Discord reaction and provides healing.
@@ -153,7 +153,7 @@ This is currently the most popular high-end composition for clearing difficult c
 
 ### Hyper Chiz Team (Cosmos Focus)
 
-Chiz is a unique character unlocked for free by reaching **City Tycoon Level 18**. As a Cosmos element user, Chiz interacts differently with the elements:
+Chiz is a unique character unlocked for free by reaching **City Tycoon Level 18**. As a Cosmos element user, Chiz interacts differently with the elements
 *   **Remora (Cosmos + Lakshana):** Creates a vacuum effect that pulls enemies together.
 *   **Hyper-Carry Setup:** Pair Chiz with characters who provide off-field elemental application (like Edgar or Sakiri) to keep the Cosmos reactions cycling.
 
@@ -182,7 +182,7 @@ In NTE, you do not stay on one character for long. You should be constantly cycl
 
 When an enemy's Break bar (the white bar under their HP) is depleted, they enter a "Stunned" state. During this window, all damage taken is increased by [Information not yet publicly available as of 2026-05-21]. 
 
-To maximize Break Intensity:
+To maximize Break Intensity
 *   Use **Heavy Attacks** or specific "Breaker" class skills.
 *   Trigger **Critical Riposte**: By dodging an enemy attack at the last second, you can trigger a Riposte (like Mint’s "Caramel Crisp" move), which deals massive Break damage and often resets your skill cooldowns.
 
@@ -219,7 +219,7 @@ No. Neverness to Everness features a **100% guarantee** on limited character ban
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute NTE Guides — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Guides
 - IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness
 - Hotta Studio Official Discord — https://discord.gg/nteofficial
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/

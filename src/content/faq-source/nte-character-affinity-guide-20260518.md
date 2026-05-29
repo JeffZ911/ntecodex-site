@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Character Affinity Guide: Maximize Bonds Fast"
 slug: nte-character-affinity-guide-20260518
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-18T05:13:58.931140+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-character-affinity-guide-20260518/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-affinity-guide-20260518/inline-1.webp
   - /img/nte-character-affinity-guide-20260518/inline-2.webp
   - /img/nte-character-affinity-guide-20260518/inline-3.webp
   - /img/nte-character-affinity-guide-20260518/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building deep connections with the residents of Hethereau is a core pillar of the Neverness to Everness (NTE) experience, offering both narrative depth and significant combat advantages. This guide details the most efficient strategies to maximize character bonds, ensuring you unlock every reward from Annulith to exclusive apartment interactions.
 
@@ -54,7 +54,7 @@ Affection is primarily increased through a daily gifting mechanic. Players are r
 
 To optimize this process, players should prioritize leveling Esper Zero’s "Five-Star Paragon" life skill. This skill is essential for long-term progression as it provides a scaling percentage bonus to all affection points gained. Without this buff, reaching Level 10 takes significantly longer.
 
-Milestone rewards for increasing affinity include:
+Milestone rewards for increasing affinity include
 *   **Annulith:** Totaling 80 per character across all levels.
 *   **Home Time:** Unlocked at Level 4, allowing characters to reside in your apartment.
 *   **Interactive Actions:** Exclusive gestures like hugs and hand-holding unlocked at high tiers.
@@ -87,7 +87,7 @@ Advancing through the Bond levels requires an increasing number of affection poi
 
 ### Daily Gifting Limits and Optimization Strategy
 
-Because you are limited to 10 gifts per day, you must choose your targets wisely. If you are trying to maximize Mint for her ATK% bonus, you should use 3 of your 10 daily slots on her every day. The rarity of the gift determines the base affection points:
+Because you are limited to 10 gifts per day, you must choose your targets wisely. If you are trying to maximize Mint for her ATK% bonus, you should use 3 of your 10 daily slots on her every day. The rarity of the gift determines the base affection points
 
 *   **Blue (Rare) Gifts:** 100 base points.
 *   **Purple (Epic) Gifts:** 300 base points.
@@ -110,7 +110,7 @@ Characters in Hethereau have distinct tastes based on their lore and personality
 
 ### The Esper Zero 'Five-Star Paragon' Buff
 
-Esper Zero, the player character, possesses a life skill tree that directly impacts social progression. The "Five-Star Paragon" skill should be a priority for any player focusing on the Bond system. This skill has five tiers of effectiveness:
+Esper Zero, the player character, possesses a life skill tree that directly impacts social progression. The "Five-Star Paragon" skill should be a priority for any player focusing on the Bond system. This skill has five tiers of effectiveness
 
 *   **Tier 1:** +5% Affection Gain from all sources.
 *   **Tier 2:** +10% Affection Gain from all sources.
@@ -124,7 +124,7 @@ At Tier 5, a Gold gift that normally gives 1,200 points (800 base + 400 favorite
 
 One of the most anticipated features of the Bond system is "Home Time." Once a character reaches Bond Level 4, an option appears in their character menu to "Invite to Property." You must own at least one apartment or house to use this feature.
 
-Once a character is living in your home, you can engage in unique interactions that are unavailable in the open world:
+Once a character is living in your home, you can engage in unique interactions that are unavailable in the open world
 1.  **Domestic Actions:** Characters will interact with furniture you have placed, such as sitting on sofas or browsing bookshelves.
 2.  **Interactive Mini-games:** You can play Rock Paper Scissors or engage in "Ear Care" sessions, which provide small daily affection boosts (separate from the gifting limit).
 3.  **Physical Affection:** At Level 2, you can initiate car rides where the character sits in the passenger seat. At Level 4, you unlock hand-holding during home visits. Level 8 unlocks the "Hug" interaction.
@@ -148,7 +148,7 @@ If you are a free-to-play player, spreading your gifts across four different cha
 
 ### How to Farm Fons for Gift Purchases
 
-Gifting is an expensive habit in Neverness to Everness. High-tier gifts in the Neon District or the Bakery District can cost upwards of [information unavailable] Fons each. To maintain a steady supply of gifts, players should engage in:
+Gifting is an expensive habit in Neverness to Everness. High-tier gifts in the Neon District or the Bakery District can cost upwards of [information unavailable] Fons each. To maintain a steady supply of gifts, players should engage in
 *   **Urban Errands:** Small tasks found throughout Hethereau that reward Fons and reputation.
 *   **Street Racing:** Participating in vehicle challenges provides a high Fons-per-minute return if you have a tuned car.
 *   **Part-time Jobs:** Specific locations in the city allow Esper Zero to work shifts, trading stamina for currency.
@@ -161,7 +161,7 @@ Popular date spots include the Hethereau Central Park at sunset and the rooftop 
 
 ## Sources
 
-- dexerto.com — https://www.dexerto.com/gaming/neverness-to-everness-everything-we-know-2826384/
+- dexerto.com
 - icy-veins.com — https://www.icy-veins.com/nte/guides/character-affinity-system-explained/
 - Official Neverness to Everness Website — https://nte.perfectworld.com/
 - Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness

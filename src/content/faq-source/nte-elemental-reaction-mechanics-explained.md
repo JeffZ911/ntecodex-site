@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elemental Reaction Mechanics Explained: A Complete Guide"
 slug: nte-elemental-reaction-mechanics-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-elemental-reaction-mechanics-explained/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-reaction-mechanics-explained/inline-1.webp
   - /img/nte-elemental-reaction-mechanics-explained/inline-2.webp
   - /img/nte-elemental-reaction-mechanics-explained/inline-3.webp
   - /img/nte-elemental-reaction-mechanics-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the Esper Cycle is the difference between struggling against street thugs and dominating the most dangerous anomalies in Hethereau. This guide breaks down every elemental interaction and team-building strategy to maximize your combat efficiency in Neverness to Everness.
 
@@ -32,7 +32,7 @@ Mastering the Esper Cycle is the difference between struggling against street th
 ![Question Restated](/img/nte-elemental-reaction-mechanics-explained/inline-1.webp)
 
 
-Understanding the combat system in Neverness to Everness (NTE) requires a deep dive into how characters interact through their elemental attributes. Players frequently ask:
+Understanding the combat system in Neverness to Everness (NTE) requires a deep dive into how characters interact through their elemental attributes. Players frequently ask
 
 *   How do elemental reactions, officially known as Esper Cycles, work during active combat?
 *   What are the specific interactions between the six elemental attributes: Cosmos, Anima, Incantation, Chaos, Psyche, and Lakshana?
@@ -165,8 +165,8 @@ Beyond combat, elements interact with "Anomalies" found throughout the city of H
 ## Sources
 
 - Neverness to Everness Official Site — https://www.ntegame.com
-- Mobalytics NTE Combat Guide — https://mobalytics.gg/blog/neverness-to-everness-combat-guide/
-- GameRant: NTE Elemental Systems — https://gamerant.com/neverness-to-everness-esper-cycle-elements-explained/
+- Mobalytics NTE Combat Guide
+- GameRant: NTE Elemental Systems
 - Sportskeeda: NTE Character Elements — https://www.sportskeeda.com/esports/neverness-to-everness-elements-guide
-- Kaiden.gg NTE Wiki — https://kaiden.gg/nte/mechanics/esper-cycle/
-- Neverness.gg Database — https://neverness.gg/db/elements/
+- Kaiden.gg NTE Wiki
+- Neverness.gg Database

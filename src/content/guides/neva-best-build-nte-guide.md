@@ -1,4 +1,4 @@
----
+--
 title: "Neva (Hotori) Best Build NTE Guide: Weapons, Disks & Teams"
 slug: neva-best-build-nte-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/neva-best-build-nte-guide
 sources: []
 game: unknown
 hero_image: /img/neva-best-build-nte-guide/hero.webp
-inline_images:
+inline_images
   - /img/neva-best-build-nte-guide/inline-1.webp
   - /img/neva-best-build-nte-guide/inline-2.webp
   - /img/neva-best-build-nte-guide/inline-3.webp
   - /img/neva-best-build-nte-guide/inline-4.webp
   - /img/neva-best-build-nte-guide/inline-5.webp
   - /img/neva-best-build-nte-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the flow of time in Hethereau requires more than just quick reflexes; it demands a perfect synergy of equipment and timing found only in the game's premier Anima DPS. As the meta stabilizes following the April release, this Neva ([Hotori](/characters/hotori-best-team-nte)) best build guide provides the definitive setup for maximizing her time-stop potential and burst damage output.
 
@@ -164,4 +164,4 @@ You should prioritize leveling her "Frozen Snow Ritual" (Skill) first, followed 
 - Game8 NTE Wiki — https://game8.jp/nte
 - IGN Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute NTE Database — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Database

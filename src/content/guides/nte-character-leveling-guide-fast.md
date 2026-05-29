@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Leveling Guide: How to Level Up Fast & Best Nanally Build"
 slug: nte-character-leveling-guide-fast
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T05:48:35.053919+00:00"
 published_url: /guides/nte-character-leveling-guide-fast
 sources: []
 hero_image: /img/nte-character-leveling-guide-fast/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-leveling-guide-fast/inline-1.webp
   - /img/nte-character-leveling-guide-fast/inline-2.webp
   - /img/nte-character-leveling-guide-fast/inline-3.webp
   - /img/nte-character-leveling-guide-fast/inline-4.webp
   - /img/nte-character-leveling-guide-fast/inline-5.webp
   - /img/nte-character-leveling-guide-fast/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the urban sprawl of Hethereau requires a powerful team, and understanding the progression systems in Neverness to Everness is the first step toward dominating high-level Anomaly Hunts.
 
@@ -199,5 +199,5 @@ A: While Anomaly Commissions give small amounts, the most consistent income come
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-beginner-guide-and-tips.html
 - Game8 NTE Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute NTE Section — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Section
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/

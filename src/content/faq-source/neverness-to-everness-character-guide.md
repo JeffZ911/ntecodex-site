@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Character Guide: Best Espers and Teams"
 slug: neverness-to-everness-character-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T06:25:46.998014+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-character-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-guide/inline-1.webp
   - /img/neverness-to-everness-character-guide/inline-2.webp
   - /img/neverness-to-everness-character-guide/inline-3.webp
   - /img/neverness-to-everness-character-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Choosing the right Espers and mastering elemental reactions is the difference between dominating the supernatural streets of Hethereau and getting lost in the urban anomalies. This comprehensive guide breaks down the best characters, team compositions, and combat mechanics to help you optimize your roster in Neverness to Everness.
 
@@ -164,5 +164,5 @@ By strategically using characters with these skills, you can accumulate Fons and
 - Neverness to Everness Official Site — https://nte.hotta.studio/
 - IGN — https://www.ign.com/games/neverness-to-everness
 - Game8 NTE Guide — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute — https://www.prydwen.gg/nte/
+- Prydwen Institute
 - Neverness to Everness Reddit — https://www.reddit.com/r/NTE_Official/

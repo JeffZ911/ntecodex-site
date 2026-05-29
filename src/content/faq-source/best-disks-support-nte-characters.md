@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for Support NTE Characters: Cartridge Guide"
 slug: best-disks-support-nte-characters
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-support-nte-characters/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-support-nte-characters/inline-1.webp
   - /img/best-disks-support-nte-characters/inline-2.webp
   - /img/best-disks-support-nte-characters/inline-3.webp
   - /img/best-disks-support-nte-characters/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing team damage in Neverness to Everness requires more than just high DPS; it demands a perfectly optimized support backbone using the right Cartridge sets. Choosing the correct disks for your supports can be the difference between a struggling rotation and a seamless flow of elemental reactions and massive damage bursts.
 
@@ -110,7 +110,7 @@ To activate the 4-piece Legendary bonus, you must fit four Modules of the same s
 
 ### Stat Priority: Cycle Intensity vs. Break Intensity
 
-For a support, stats should be prioritized in the following order:
+For a support, stats should be prioritized in the following order
 1.  **Cycle Intensity (Energy Recharge):** This is non-negotiable. If your support cannot use their Ultimate every rotation, they are failing their role.
 2.  **Break Intensity:** In NTE, "Breaking" an enemy (depleting their white bar) results in a massive damage window. Supports are often the best at dealing Break damage.
 3.  **HP% / DEF%:** For general survivability.
@@ -157,6 +157,6 @@ By focusing on the **Speedy Hedgehog** and **Shadow Creed** sets and prioritizin
 
 - Neverness to Everness Official Website — https://www.nevernesstoeverness.com/
 - Game8 NTE Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Gear Guide — https://www.prydwen.gg/nte/guides/cartridge-system/
+- Prydwen Institute: NTE Gear Guide
 - Reddit r/NTE_Official May 2026 Meta Thread — https://www.reddit.com/r/NTE_Official/comments/meta_discussion_may_2026/
-- IGN: Neverness to Everness Character Builds — https://www.ign.com/wikis/neverness-to-everness/Best_Builds_Support
+- IGN: Neverness to Everness Character Builds

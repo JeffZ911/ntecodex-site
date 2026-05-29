@@ -1,4 +1,4 @@
----
+--
 title: "NTE Support Characters Tier List: Best Espers (May 2026)"
 slug: nte-support-characters-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 2382
 published_at: "2026-05-25T07:15:09.592038+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYA92ocBf-BXVW-FIk493KoDulVkpDJOay8Vf8ntIQwzWnMlAhA2HDFIYxoOrXoQsW2u2h1-cgJ-KoPdNCWpyaLKHb_CdI6pxgLq3S1kFEvYkYycKpY7gFfAzKzaJEd4l7wnei4jHIZ8PgAdFD60qeOaXUGb-cwBgtcE6O"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE_L73h7pfQMIbmgJaObz_HgnK8WLNJ5g3e77bq5Y46sAXVPhqVDDtpbrGv9jSyXtAJghYgBAsdwuN7M1h2qPygk5_k2YrtzUOoq1dwFzG-xxSYPGCrIFIhRaVt59OT1GfDm71BN6EgyXr8he4Z8MfX9qR3e4FMA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFl0YY3uFue6ypC7Iscg3TUziUkcgIKXNVeoO7Wgq7MCrhDOBhniTmNib85GsOlLZVpARQKHGKMbETeApF4JSKJdhvkqVK0PfOUVpDXSfxQ3ZnzBpbAAphjRhB8HYnCF8346thfavjaTXaGIsSEsXgBGccfpOHPiwAvxfu57M5a9pN"
@@ -20,21 +20,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tc66hzUm0ZlcbFNm5lBjl8X5yGE-uJPWiwOKUeYgBUZw79NhHJydDAXKsUtDjZr3Bgmb1N8uoaMYb_6MmwrBe4igV-CGl_URHJ5EvPXuGf7qjHTuocXUEw8BPVN9aKDb3npYXcSKIWhoiwFkguqgKpLhn-whhAO8SvONoH89Xw=="
 game: unknown
 hero_image: /img/nte-support-characters-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-support-characters-tier-list/inline-1.webp
   - /img/nte-support-characters-tier-list/inline-2.webp
   - /img/nte-support-characters-tier-list/inline-3.webp
   - /img/nte-support-characters-tier-list/inline-4.webp
   - /img/nte-support-characters-tier-list/inline-5.webp
   - /img/nte-support-characters-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Navigating the supernatural streets of Hethereau requires more than just high-octane vehicles and raw firepower; it demands a strategic understanding of the Esper Cycle to keep your team alive and optimized.
 
@@ -172,18 +172,18 @@ Looking ahead, the Version 1.1 livestream has confirmed the upcoming release of 
 ## Sources
 
 - Icy Veins — https://www.icy-veins.com/nte/characters/haniel-build-guide/
-- VG247 — https://www.vg247.com/neverness-to-everness-free-characters-list/
+- VG247
 - MEmu Play — https://www.memuplay.com/blog/neverness-to-everness-haniel-build-guide.html
 - BlueStacks — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-character-guide-en.html
-- Neon Lights Media — https://www.neonlightsmedia.com/neverness-to-everness-tier-list-best-characters/
+- Neon Lights Media
 - GameWith — https://www.gamewith.net/nte/article/show/46566
-- TheGamer — https://www.thegamer.com/neverness-to-everness-nte-confirmed-character-list/
+- TheGamer
 - OSLink — https://www.oslink.io/blog/neverness-to-everness-tier-list
 - LDShop — https://www.ldshop.gg/blog/neverness-to-everness/nte-new-upcoming-characters-full-playable-character-list
 - Mobalytics — https://www.mobalytics.gg/nte/characters
-- Niveau Max — https://www.niveaumax.com/esper-cycle-reactions-full-element-guide-neverness-to-everness/
-- NTE Wiki — https://www.ntewiki.org/blog/nte-esper-cycle-reactions-guide-2026
-- Kaiden.gg — https://www.kaiden.gg/nte/esper-cycles-reactions/
+- Niveau Max
+- NTE Wiki
+- Kaiden.gg
 - Mobalytics (Guides) — https://www.mobalytics.gg/nte/guides/esper-cycle-elements
 - Icy Veins (Guides) — https://www.icy-veins.com/nte/guides/elements-and-esper-cycle/
 - Neverness.gg (V1.1) — https://www.neverness.gg/nte-version-1-1-release-date/
@@ -191,4 +191,4 @@ Looking ahead, the Version 1.1 livestream has confirmed the upcoming release of 
 - Neverness.gg (Banners) — https://www.neverness.gg/nte-banner-current-upcoming/
 - LDShop (Banners) — https://www.ldshop.gg/blog/neverness-to-everness/nte-banner-schedule-all-current-upcoming-banners
 - GameWith (Chaos) — https://www.gamewith.net/nte/article/show/46820
-- Spellbound — https://www.tryspellbound.com/[sakiri](/characters/sakiri-nte-free-5-star-guide)
+- Spellbound — ](/characters/sakiri-nte-free-5-star-guide)

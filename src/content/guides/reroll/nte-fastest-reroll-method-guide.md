@@ -1,4 +1,4 @@
----
+--
 title: "NTE Fastest Reroll Method Guide: Best Starter Characters (May 2026)"
 slug: reroll/nte-fastest-reroll-method-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-17T13:29:55.069447+00:00"
 published_url: /guides/reroll/nte-fastest-reroll-method-guide
 sources: []
 hero_image: /img/nte-fastest-reroll-method-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-fastest-reroll-method-guide/inline-1.webp
   - /img/nte-fastest-reroll-method-guide/inline-2.webp
   - /img/nte-fastest-reroll-method-guide/inline-3.webp
   - /img/nte-fastest-reroll-method-guide/inline-4.webp
   - /img/nte-fastest-reroll-method-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a high-tier S-Rank character during the launch window of Neverness to Everness (NTE) provides a massive advantage for clearing high-difficulty urban anomalies and navigating the vertical landscape of Hethereau.
 
@@ -191,4 +191,4 @@ Once you find your "god tier" account, immediately link it to a permanent email 
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Reroll Tier List and Strategy — https://game8.co/games/NTE
 - Reddit: r/NTE_Official Community Reroll Thread — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

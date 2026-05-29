@@ -1,4 +1,4 @@
----
+--
 title: "NTE Disks Farming Guide: Best Sets & Locations for Beginners"
 slug: nte-disks-farming-guide-beginners-20260524
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 2210
 published_at: "2026-05-24T22:00:40.656693+00:00"
 published_url: /guides/nte-disks-farming-guide-beginners-20260524
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMZlpy4vrVHuG5OGtjG5kaalD74DTIbNICONrvbJK-plodL1w_A8ETvbAjPKPYmwQ0Ea2NqaMfR-a6JHbOu7ioNo704SRXhOqEeG2twCA_O1MWZTbMr6Iv9bcqAFPVI8q49cp0GndMF99LSoFN3bEgkLlZalzhOHbX0DcuWTdPAUBWoxSmk7oP4nux5GyvUisQ2vS7uHVmpTnrxLOqqMtmK9ccfYPM7rI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQi_hwvKdfMcc-dQ7t7GM6YQ5RdGGkh-VWty3ZKc-iXfAJ7DuhVouLFeCjJUUtWO3htvB_pt-wUQSjT-DsTQAF_OcmSVJI4GZGWcDc6dGD56Gf4rohLE3MmFN8kl1kQsy9gVa7ZwHcPsFbhWIxUDgonpa7KvJboSM0MzVDzwzs3vbULfWs"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeB_zoKW2cb_TOzIY4VwQZUzp15xVjvRvcZ1n8Z2yub-vXHCCzh1_ZBvq127JCk8eHq7NNQtOe59Ev9sMYdVjJJnzt0PkcMW7qr02D5i36Q72HINb7MWmgsexqQiKZ8gsWdiMxcJAyWjmbswONGmzwWaaAq4NBsOct9CA3CRQqF_4tzDihVtdXRBh0qOYaYKsT5eyIC7lkSM4lA5aNRA=="
@@ -28,21 +28,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUI-Im_JRy39Fa24h8eZhSCeicTuOhwY25EurGs5IB12vi-cjcFlOlsQ7TD_hTu0u5b4RMd5qA11Zez_3ZjJtSEABgW1c-YY20e0617g5dyNdQdIF1Zj1Ohs6pw9yOTwNTq4HUUjG-tGhOBCGsm7nKogQxkEqlB357fvTsvKA="
 game: unknown
 hero_image: /img/nte-disks-farming-guide-beginners-20260524/hero.webp
-inline_images:
+inline_images
   - /img/nte-disks-farming-guide-beginners-20260524/inline-1.webp
   - /img/nte-disks-farming-guide-beginners-20260524/inline-2.webp
   - /img/nte-disks-farming-guide-beginners-20260524/inline-3.webp
   - /img/nte-disks-farming-guide-beginners-20260524/inline-4.webp
   - /img/nte-disks-farming-guide-beginners-20260524/inline-5.webp
   - /img/nte-disks-farming-guide-beginners-20260524/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your Espers in Neverness to Everness (NTE) requires a deep understanding of the equipment system that powers their supernatural abilities.
 
@@ -63,7 +63,7 @@ The Console itself serves as the central hub. While it doesn't provide stats on 
 
 ### Understanding the Console Grid
 
-Each character's Console grid is different. For example, [Nanally](/characters/nanally-guide-nte)’s grid might favor long, vertical shapes, while Mint’s grid is more compact. This means you cannot simply move a perfectly optimized set from one character to another if their grid shapes don't align. The "Tetris" mechanic involves three primary Module types:
+Each character's Console grid is different. For example, [Nanally](/characters/nanally-guide-nte)’s grid might favor long, vertical shapes, while Mint’s grid is more compact. This means you cannot simply move a perfectly optimized set from one character to another if their grid shapes don't align. The "Tetris" mechanic involves three primary Module types
 
 | Module Type | Shape Description | Typical Stat Efficiency | Best Use Case |
 | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ The Rewind system features a customizable "By Module" mode for higher difficulti
 
 ### Rarity Tiers: From Common to Legendary
 
-Modules and Cartridges follow a standard rarity progression:
+Modules and Cartridges follow a standard rarity progression
 *   **Easy Mode (Bronze Carrota):** Yields B-Class (Blue) gear. These are early-game placeholders.
 *   **Normal Mode (Silver Carrota):** Yields A-Class (Purple) gear. Unlocks at Hunter Level 20.
 *   **Hard Mode (Gold Carrota):** Yields S-Class (Gold/Legendary) gear. Unlocks at Hunter Level 30.
@@ -95,7 +95,7 @@ In Neverness to Everness, weapons are known as Arcs. These are the primary sourc
 
 ### Top Tier S-Rank Arcs
 
-For players looking to maximize their damage output in Version 1.0, these S-Rank Arcs are the gold standard:
+For players looking to maximize their damage output in Version 1.0, these S-Rank Arcs are the gold standard
 
 *   **Ready-Ready (S-Rank, Plasma):** This is Nanally’s signature Arc. It provides a massive 15% ATK boost and increases Basic Attack and Critical Riposte damage by 15% for 15 seconds after using a Redirect Skill or Ultimate. It also features the "Commander Tiger Talisman" effect, which grants an additional 10% damage bonus against Bosses.
 *   **Clear Skies (S-Rank, Liquid):** Mint’s best-in-slot Arc. It focuses on boosting Anima DMG for Redirect Skills and Ultimates. At maximum mixing (refinement), it can increase Anima DMG by up to 35%, making it essential for Mint’s tornado-focused playstyle.
@@ -103,7 +103,7 @@ For players looking to maximize their damage output in Version 1.0, these S-Rank
 
 ### Best F2P and Farmable Arcs
 
-You do not need to rely solely on the gacha to get powerful Arcs. Several S-Rank options are farmable through world bosses and specific side quests:
+You do not need to rely solely on the gacha to get powerful Arcs. Several S-Rank options are farmable through world bosses and specific side quests
 
 *   **Day Off (S-Rank, Solid):** This is the hidden signature weapon for Esper Zero (the Main Character). It is obtained by completing the "Naked Ghost Tour of the City" quest chain, which involves finding the Eclipse NPC in five specific locations across Hethereau.
 *   **Raging Flames (S-Rank, Plasma):** Dropped by the Headless Rider world boss. It provides the "Flaming Bite" effect, which is excellent for Plasma-element units that rely on sustained damage over time.
@@ -185,7 +185,7 @@ This team focuses on survivability and consistent Anima chip damage. Adler provi
 
 ### Elemental Reaction Guide
 
-Understanding how elements interact is key to clearing high-level Anomaly Commissions:
+Understanding how elements interact is key to clearing high-level Anomaly Commissions
 
 | Reaction Name | Elements Involved | Effect |
 | :--- | :--- | :--- |
@@ -235,10 +235,10 @@ Mixing is the refinement system. By consuming a duplicate copy of the same Arc, 
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/disk-farming-beginner-tips
-- games.gg — https://games.gg/neverness-to-everness/arcs-tier-list-best-weapons/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-nanally-best-build-guide/
-- dotesports.com — https://dotesports.com/neverness-to-everness/news/nte-console-guide-how-to-get-cartridges-and-modules
+- neverness.gg
+- games.gg
+- thegamer.com
+- dotesports.com
 - icy-veins.com — https://www.icy-veins.com/neverness-to-everness/mint-build-guide
-- u7buy.com — https://www.u7buy.com/blog/best-nanally-build-guide-skills-arcs-modules-teams-nte-1-0/
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-how-to-get-cartridges-and-modules/
+- u7buy.com
+- gamerant.com

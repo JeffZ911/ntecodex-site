@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Element System Guide: All Reactions Explained"
 slug: neverness-to-everness-element-system-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-element-system-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-element-system-guide/inline-1.webp
   - /img/neverness-to-everness-element-system-guide/inline-2.webp
   - /img/neverness-to-everness-element-system-guide/inline-3.webp
   - /img/neverness-to-everness-element-system-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the Esper Cycle is the difference between struggling against urban anomalies and dominating the streets of Hethereau. This guide explains how to chain Attributes to trigger devastating Duo and Trio reactions.
 
@@ -32,7 +32,7 @@ Mastering the Esper Cycle is the difference between struggling against urban ano
 ![Question Restated](/img/neverness-to-everness-element-system-guide/inline-1.webp)
 
 
-Understanding the combat mechanics of Neverness to Everness (NTE) requires a deep dive into how different character types interact on the battlefield. Players frequently ask:
+Understanding the combat mechanics of Neverness to Everness (NTE) requires a deep dive into how different character types interact on the battlefield. Players frequently ask
 
 *   **What are the six elements (Attributes) in Neverness to Everness?** The game features a distinct hexagonal elemental system consisting of Cosmos, Anima, Incantation, Chaos, Psyche, and Lakshana.
 *   **How do elemental reactions, known as the Esper Cycle, function in combat?** Unlike standard elemental systems where any two elements might react, NTE uses a "neighbor-only" system where reactions are triggered by swapping between characters whose elements are adjacent on the elemental wheel.
@@ -66,7 +66,7 @@ The Esper Cycle is the heart of NTE’s combat. It rewards players for active ch
 
 ### The Six Elements of Hethereau
 
-Every character in NTE is assigned one of the six Attributes. These elements are not just for flavor; they dictate which characters can effectively work together. The elements are arranged in a fixed circle:
+Every character in NTE is assigned one of the six Attributes. These elements are not just for flavor; they dictate which characters can effectively work together. The elements are arranged in a fixed circle
 
 1.  **Cosmos**
 2.  **Anima**
@@ -107,7 +107,7 @@ While Duo Reactions are the bread and butter of combat, Trio Reactions are the "
 
 ### Filling the Esper Meter: Parries and Cycle Rate
 
-You cannot spam reactions constantly; you must earn them. The Esper Meter fills through:
+You cannot spam reactions constantly; you must earn them. The Esper Meter fills through
 1.  **Basic Attacks and Skills:** Consistent damage generates a steady flow of energy.
 2.  **Perfect Parries:** Successfully parrying an enemy attack instantly grants a large chunk of Esper Meter, often allowing for an immediate Cycle Swap.
 3.  **Active Skills:** Certain characters have skills specifically designed to boost their own Cycle Rate or provide energy to the team.
@@ -139,7 +139,7 @@ Your elemental effectiveness is heavily tied to your **Arcs** (the game's primar
 
 ### NTE Character Element Tier List
 
-As of the current 2026-05-19 meta, certain characters stand out within their elemental categories due to their ability to cycle quickly:
+As of the current 2026-05-19 meta, certain characters stand out within their elemental categories due to their ability to cycle quickly
 
 *   **S-Tier (Cosmos):** Mint — Provides unparalleled utility and easy access to Blossom and Remora.
 *   **S-Tier (Anima):** Nanally — High physical/elemental hybrid damage; her banner "The Ichi-daime" remains a top pick for new players.
@@ -152,15 +152,15 @@ To upgrade these characters, you will need to farm "Attribute Shards" found in *
 
 ## Sources
 
-- kaiden.gg — https://kaiden.gg/neverness-to-everness/elements-guide/
+- kaiden.gg
 - icy-veins.com — https://www.icy-veins.com/nte/combat-mechanics-esper-cycle/
-- neverness.gg — https://neverness.gg/wiki/attributes/
+- neverness.gg
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-elemental-reactions-explained
 - bo3.gg — https://bo3.gg/nte/guides/elemental-system-and-reactions
-- ntewiki.org — https://ntewiki.org/wiki/Esper_Cycle
+- ntewiki.org
 - mobalytics.gg — https://mobalytics.gg/nte/tier-list/
-- gamerant.com — https://gamerant.com/neverness-to-everness-combat-guide-esper-cycle/
-- ntegame.com — https://www.ntegame.com/en/news/combat-system-overview/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/45892
+- gamerant.com
+- ntegame.com
+- gamewith.net
 - youtube.com — https://www.youtube.com/watch?v=nte_elemental_guide_2026
 - youtube.com — https://www.youtube.com/watch?v=nanally_build_guide_nte

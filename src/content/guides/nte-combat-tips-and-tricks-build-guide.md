@@ -1,4 +1,4 @@
----
+--
 title: "NTE Combat Tips and Tricks: Best Arcs, Disks & Team Comps"
 slug: nte-combat-tips-and-tricks-build-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-combat-tips-and-tricks-build-guide
 sources: []
 game: unknown
 hero_image: /img/nte-combat-tips-and-tricks-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-combat-tips-and-tricks-build-guide/inline-1.webp
   - /img/nte-combat-tips-and-tricks-build-guide/inline-2.webp
   - /img/nte-combat-tips-and-tricks-build-guide/inline-3.webp
   - /img/nte-combat-tips-and-tricks-build-guide/inline-4.webp
   - /img/nte-combat-tips-and-tricks-build-guide/inline-5.webp
   - /img/nte-combat-tips-and-tricks-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the supernatural anomalies of Hethereau requires more than just high-level characters; it demands a deep understanding of how elements interact within the fast-paced Esper Cycle. This guide breaks down the essential combat mechanics, top-tier Arcs, and the most effective Cartridge builds to help you dominate the current May 2026 meta in Neverness to Everness (NTE).
 
@@ -166,7 +166,7 @@ The goal of a rotation is to maximize the time the enemy spends in the "Break" s
 
 ### The 'Instant Chain' Swap Strategy
 
-To execute a perfect rotation, follow this flow:
+To execute a perfect rotation, follow this flow
 1.  **Initiate with Support:** Start with Sakiri. Use her Skill to group enemies and her Ultimate to trigger the "Speedy Hedgehog" set bonus.
 2.  **Apply Primary Element:** Swap to your Anima or Incantation unit (e.g., Nanally or Baicang). Use a Skill to apply an elemental mark.
 3.  **Trigger Esper Cycle:** As soon as Zero’s portrait glows, swap to them. Zero’s entry attack will trigger a reaction (Blossom or Nova). Immediately use Zero's Skill to refill their meter and provide energy to the next character.
@@ -209,5 +209,5 @@ Cycle Intensity is a multiplier for your Esper Meter gain. The higher this stat,
 - Neverness to Everness Official Discord — https://discord.gg/nte
 - Reddit: Neverness to Everness Community — https://www.reddit.com/r/NTE_Official/
 - Game8: NTE Combat Guide — https://game8.jp/nte/
-- Prydwen Institute: NTE Character and Arc Database — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character and Arc Database
 - IGN: Neverness to Everness Preview and Mechanics — https://www.ign.com/games/neverness-to-everness

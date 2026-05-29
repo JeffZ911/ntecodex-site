@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Team Compositions for DPS: Tier List (May 2026)"
 slug: best-nte-team-compositions-dps-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-nte-team-compositions-dps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-team-compositions-dps-tier-list/inline-1.webp
   - /img/best-nte-team-compositions-dps-tier-list/inline-2.webp
   - /img/best-nte-team-compositions-dps-tier-list/inline-3.webp
   - /img/best-nte-team-compositions-dps-tier-list/inline-4.webp
   - /img/best-nte-team-compositions-dps-tier-list/inline-5.webp
   - /img/best-nte-team-compositions-dps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your team for the Esper Cycle is the difference between struggling against elite anomalies and clearing Hethereau’s toughest challenges in record time.
 
@@ -51,7 +51,7 @@ The "Triple Cycle" is the current gold standard for DPS. This involves triggerin
 
 ### Defining Combat Roles: DPS vs. Breakers
 
-In NTE, a team is only as strong as its weakest link. We evaluate teams based on four distinct roles:
+In NTE, a team is only as strong as its weakest link. We evaluate teams based on four distinct roles
 1.  **Main DPS:** The primary field agent who deals the bulk of the damage, usually during the "Break" phase.
 2.  **Sub-DPS/Battery:** Characters who generate Esper energy or provide off-field elemental application.
 3.  **Break Specialist:** Characters like Daffodill who excel at shredding the Stagger Bar. Without a Breaker, most bosses maintain a 1.0 damage floor, severely limiting your damage output.
@@ -224,4 +224,4 @@ Rumors from the official Discord and recent developer teasers suggest that the u
 - NTE Official Twitter — https://twitter.com/NTE_GLO
 - Neverness to Everness - IGN — https://www.ign.com/games/neverness-to-everness
 - Neverness to Everness (NTE) Wiki & Guide - Game8 — https://game8.co/games/Neverness-to-Everness
-- Neverness to Everness - Prydwen Institute — https://www.prydwen.gg/nte/
+- Neverness to Everness - Prydwen Institute

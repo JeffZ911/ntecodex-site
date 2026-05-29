@@ -1,4 +1,4 @@
----
+--
 title: "Best 3-Star Weapons in Neverness to Everness: NTE Arc Tier List"
 slug: best-3-star-weapons-nte-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T12:10:19.137289+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-3-star-weapons-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-3-star-weapons-nte-tier-list/inline-1.webp
   - /img/best-3-star-weapons-nte-tier-list/inline-2.webp
   - /img/best-3-star-weapons-nte-tier-list/inline-3.webp
   - /img/best-3-star-weapons-nte-tier-list/inline-4.webp
   - /img/best-3-star-weapons-nte-tier-list/inline-5.webp
   - /img/best-3-star-weapons-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Maximizing early-game efficiency in Hethereau requires more than just chasing 5-star Arcs; it is about mastering the high-utility B-Rank options available to every player.
 
@@ -57,7 +57,7 @@ B-Rank Arcs have a high drop rate in the standard resonance and limited banners 
 
 ### Role-Based Ranking Criteria
 
-This tier list evaluates Arcs based on three primary pillars:
+This tier list evaluates Arcs based on three primary pillars
 1.  **Base ATK Scaling:** How well the weapon keeps up with enemy HP pools in the mid-game (Levels 40-60).
 2.  **Passive Utility:** The unique "Arc Effects" that provide mechanics beyond simple damage, such as Break Intensity or shield strengthening.
 3.  **Esper Synergy:** How well the weapon complements the kits of starter characters like Baicang, [Nanally](/characters/nanally-guide-nte), and Chiz.
@@ -198,8 +198,8 @@ A new community finding involves the "Tiger Talisman" interaction. When using lo
 
 ## Sources
 
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-guide/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-everything-we-know/
+- mobalytics.gg
+- thegamer.com
 - IGN — https://www.ign.com/games/neverness-to-everness
 - Game8 — https://game8.co/games/Neverness-to-Everness
 - Official Neverness to Everness Site — https://nte.hotta.com/

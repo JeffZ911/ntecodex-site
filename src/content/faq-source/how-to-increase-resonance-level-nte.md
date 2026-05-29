@@ -1,4 +1,4 @@
----
+--
 title: How to Increase Resonance Level in Neverness to Everness (NTE)
 slug: how-to-increase-resonance-level-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T20:14:03.579543+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-increase-resonance-level-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-increase-resonance-level-nte/inline-1.webp
   - /img/how-to-increase-resonance-level-nte/inline-2.webp
   - /img/how-to-increase-resonance-level-nte/inline-3.webp
   - /img/how-to-increase-resonance-level-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the progression systems in Hethereau requires a clear understanding of how different levels interact to power up your account and your Espers. This guide breaks down exactly how to increase your Resonance Level in Neverness to Everness (NTE) to unlock new story content and maximize your combat potential.
 
@@ -121,7 +121,7 @@ Reaching **City Tycoon Level 18** is a critical goal for many players, as it rew
 
 ### Exploration and Hidden EXP Sources
 
-If you are just a few hundred EXP away from your next Hunter Level, Hethereau is filled with minor sources of experience:
+If you are just a few hundred EXP away from your next Hunter Level, Hethereau is filled with minor sources of experience
 *   **Wertheimer Towers:** Synchronizing these not only reveals the map but provides a quick burst of EXP.
 *   **ReroRero Phone Booths:** These interactive objects often trigger short dialogues or mini-events that reward small amounts of Hunter EXP and Mhm! Coins.
 *   **Gifts from 21:** Scattered throughout the city, these collectibles provide cumulative rewards as you find more of them.
@@ -162,8 +162,8 @@ By following this roadmap and prioritizing your Daily Participation Tasks, you w
 
 ## Sources
 
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-guide/
-- games.gg — https://games.gg/neverness-to-everness/progression-systems-explained/
-- neverness.gg — https://neverness.gg/guides/hunter-level-and-appraisal-guide/
+- mobalytics.gg
+- games.gg
+- neverness.gg
 - official NTE website — https://nte.perfectworld.com/en/index.html
 - reddit.com/r/NTE_Official/ — https://www.reddit.com/r/NTE_Official/comments/progression_tips_faq/

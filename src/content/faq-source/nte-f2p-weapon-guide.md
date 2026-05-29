@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE F2P Weapon Guide: Top Free S-Rank Arcs in Neverness to Everness"
 slug: nte-f2p-weapon-guide
 article_type: faq
@@ -9,15 +9,15 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-f2p-weapon-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-f2p-weapon-guide/inline-1.webp
   - /img/nte-f2p-weapon-guide/inline-2.webp
   - /img/nte-f2p-weapon-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Related"
----
+--
 
 Equipping your Espers with high-tier gear in Neverness to Everness (NTE) does not require a massive investment of real-world currency, as the game provides a robust path for dedicated players to earn top-tier equipment through gameplay. By mastering the Anomaly Hunting system and progressing through Hesperia’s urban simulation mechanics, you can outfit a full team with S-Rank Arcs that rival gacha-exclusive options.
 
@@ -145,7 +145,7 @@ Leveling Arcs requires "Arc Exp" materials and "Fons" (gold).
 ![Related](/img/nte-f2p-weapon-guide/inline-4.webp)
 
 
-For more help mastering the supernatural streets of Hesperia, check out our other NTE guides:
+For more help mastering the supernatural streets of Hesperia, check out our other NTE guides
 
 *   **NTE character tier list**: Discover which Espers are worth your investment and which Arcs they pair with best.
 *   **Anomaly boss locations**: A detailed map and strategy guide for defeating the Headless Rider, Black Tome, and more.
@@ -156,4 +156,4 @@ For more help mastering the supernatural streets of Hesperia, check out our othe
 
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html
 - escorenews.com — https://escorenews.com/en/neverness-to-everness/news/60234-neverness-to-everness-release-date-platforms-and-trailers
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/46513
+- gamewith.net

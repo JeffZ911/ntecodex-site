@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Stamina Management Guide: Best Builds & Tips"
 slug: neverness-to-everness-stamina-management-guide
 article_type: build
@@ -9,19 +9,19 @@ published_url: /guides/neverness-to-everness-stamina-management-guide
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-stamina-management-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-stamina-management-guide/inline-1.webp
   - /img/neverness-to-everness-stamina-management-guide/inline-2.webp
   - /img/neverness-to-everness-stamina-management-guide/inline-3.webp
   - /img/neverness-to-everness-stamina-management-guide/inline-5.webp
   - /img/neverness-to-everness-stamina-management-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Rotation"
   - "FAQ"
----
+--
 
 Efficiency in Hethereau requires more than just high damage output; it demands total mastery over the city's unique triple-stamina resource systems.
 
@@ -36,7 +36,7 @@ In the urban sprawl of Hethereau, players must balance high-octane supernatural 
 
 Managing resources in NTE is a multifaceted endeavor. Because the game blends character progression with urban simulation, players must track three distinct pools of energy that govern movement, power growth, and economic activity. Failing to manage these effectively can result in stalled character levels or a lack of Fons (the primary city currency) needed for high-end upgrades.
 
-The following table summarizes the primary stamina types available as of the 2026-04-29 release:
+The following table summarizes the primary stamina types available as of the 2026-04-29 release
 
 | Name | Cap | Recovery Rate | Primary Use |
 | :--- | :--- | :--- | :--- |
@@ -117,7 +117,7 @@ The Immortal Discord team focuses on high sustain and damage redirection.
 *   **Nanally:** Included here for her consistent Anima application and cleanup potential.
 
 ### Best F2P Team for Beginners
-For players just starting their journey in Hethereau, a reliable and stamina-efficient team can be built using early-game units:
+For players just starting their journey in Hethereau, a reliable and stamina-efficient team can be built using early-game units
 *   **Zero:** Your primary shield breaker and poise damage dealer.
 *   **Edgar:** A solid DPS who can carry the team through early Anomaly Zones.
 *   **Haniel:** Provides the necessary utility to keep the team healthy and buffed.
@@ -130,7 +130,7 @@ For players just starting their journey in Hethereau, a reliable and stamina-eff
 Mastering the rotation in NTE is about more than just pressing buttons; it is about managing the Esper Meter and Combat Stamina simultaneously. A botched rotation can leave your Main DPS without enough stamina to dodge a lethal blow or without the energy needed to trigger a reaction.
 
 ### Mastering the Esper Cycle
-The basic flow of an NTE rotation follows these steps:
+The basic flow of an NTE rotation follows these steps
 1.  **Apply Debuffs:** Start with your Support (e.g., Haniel or [Sakiri](/characters/sakiri-nte-free-5-star-guide)) to apply elemental marks or defense shreds.
 2.  **Build Meter:** Use Redirect Skills or parry enemy attacks to fill the Esper Meter. Parrying is the most efficient way to reach the "glow" state quickly.
 3.  **Trigger Reactions:** Once the meter is full and the next character in the cycle is glowing, swap to your Sub-DPS or Break specialist.
@@ -138,7 +138,7 @@ The basic flow of an NTE rotation follows these steps:
 5.  **Finish with Ultimates:** Use Ultimates at the end of the rotation to capitalize on set bonuses like Lost Radiance.
 
 ### Stamina-Conscious Combat Tips
-Stamina consumption for sprinting and dodging is significantly increased when enemies are nearby. To maintain efficiency:
+Stamina consumption for sprinting and dodging is significantly increased when enemies are nearby. To maintain efficiency
 *   **Avoid Dash-Spamming:** Only dodge when a "Redirect" prompt appears or to avoid a clear telegraph.
 *   **Conserve with Mint:** If using Mint, her "Minty Whirlwind" (held basic attack) should only be used when your stamina is above 50% to avoid being left vulnerable.
 *   **Use Verticality:** In the open world, use character abilities to gain height rather than relying solely on wall-climbing stamina.
@@ -169,4 +169,4 @@ Yes. Neverness to Everness features a dynamic stamina cost system where sprintin
 - IGN — https://www.ign.com/games/neverness-to-everness
 - Game8 — https://game8.co/games/Neverness-to-Everness
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute — https://www.prydwen.gg/nte/
+- Prydwen Institute

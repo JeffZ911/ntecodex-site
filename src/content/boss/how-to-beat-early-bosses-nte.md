@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Early Bosses in Neverness to Everness: A Complete Guide"
 slug: how-to-beat-early-bosses-nte
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/how-to-beat-early-bosses-nte
 sources: []
 game: unknown
 hero_image: /img/how-to-beat-early-bosses-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-early-bosses-nte/inline-1.webp
   - /img/how-to-beat-early-bosses-nte/inline-2.webp
   - /img/how-to-beat-early-bosses-nte/inline-3.webp
   - /img/how-to-beat-early-bosses-nte/inline-4.webp
   - /img/how-to-beat-early-bosses-nte/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering the urban anomalies of Hethereau requires more than just high-level gear; it demands a precise understanding of the Break Meter and character synergy. Since the release of Neverness to Everness on April 29, 2026, players have found that the difficulty spikes significantly once they leave the initial tutorial zones.
 
@@ -61,7 +61,7 @@ The Black Tome is widely considered the first significant "wall" for new players
 Success in NTE combat relies on your reaction to visual cues. The game uses a specific color-coded system to tell you whether you should evade or stand your ground.
 
 ### Identifying Critical Dodge and Parry Cues
-Every major boss attack is preceded by a visual indicator. Learning the difference between these two is vital for survival:
+Every major boss attack is preceded by a visual indicator. Learning the difference between these two is vital for survival
 
 *   **Red Flash (Critical Dodge):** When a boss's weapon or limb flashes with a sharp, bright red light, an unblockable attack is coming. You must time your dodge perfectly to trigger a "Critical Riposte."
 *   **Red Enclosing Circles (Parry):** When multiple red circles begin to shrink toward a central point on the boss, this indicates a heavy attack that can be parried. Successfully parrying these attacks deals massive "Break" damage to the boss's white stagger bar.
@@ -155,6 +155,6 @@ Understanding these mechanics and preparation steps will turn the early "walls" 
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
 *   Neverness to Everness Wiki (Fandom) — https://nevernesstoeverness.fandom.com/wiki/Neverness_to_Everness_Wiki
 *   Game8 NTE Combat Guide — https://game8.co/games/Neverness-to-Everness
-*   Prydwen Institute NTE Database — https://www.prydwen.gg/nte/
+*   Prydwen Institute NTE Database
 *   Nanally Character Profile (The Ichi-daime Banner) — https://kaiden.gg/nte/characters/nanally/
-*   NTE Boss Mechanics Overview — https://gamewith.net/neverness-to-everness/article/show/45821
+*   NTE Boss Mechanics Overview

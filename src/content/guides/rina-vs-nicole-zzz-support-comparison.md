@@ -1,4 +1,4 @@
----
+--
 title: "Rina vs Nicole: Which Support is Best in Zenless Zone Zero?"
 slug: rina-vs-nicole-zzz-support-comparison
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1800
 published_at: "2026-05-14T09:34:26.206816+00:00"
 published_url: /guides/rina-vs-nicole-zzz-support-comparison
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbG9Z3xLnGnSLX5T7VYmOCpNNpEV3RviezjFSdKe2BJKS5-Ui1PUVClWwkDCye0UIkqoIiesYDpGbSv3sIY-SmkyvjY-PfB16EfrqFVNCG2WEbsSXadE-sIj6NvIO67V0qmRNyYLoNaoowCuZ21f9P7uwZEMcYjLcLO-EkEBesg7LEUxjxR4KK5SF79X0cnSPXvFb5LyKje1GWoQgDfqDNOUI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxj60sL_XO4g9cdpojkRdoddZnC_AXDItd7nDFD2S751jhIbdEUBSj8PwqDrXyT9YBySxD7QMNPNEmGIh9Fq9btDmTqmIa6atiBMQiNlqb3mKW48VgSQMnydH4G9ihq4_mdQchKI5SHJXLhT0RZ2R4pU7OGRch5_plyaU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqiDgSw8drJ63zQoPzbQcMqXxGYRXmEelysye-qa79TOVrPDooWNk3OuPcpSzOFNn_LL9QWSIX0VPmWU3-WtwEjhJK1b7Z6Hu2Jtv_6E9EKkBm5d3ZIBIzEle41qV1fGOHrupi7xWXRUB1f08y4YQ="
@@ -28,17 +28,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX4buNrGvMY7Mgj9g72v3NCAJw2sfa_XEHbtYkw21f-3zOeXwOBmaJpVdjQxAR6_JIj6s_xslqrDFjOwRUcsB-cbLLVnR2Eiu5qNCfiBDLtYOHZRs1hj0hiTi9ePTH6g8Gn5u2degMI7b6J3imftEmzfD3L2AKsHTscgrbOQFzWSORUzZclANyfyoufV3z"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1WP77RAyr6LLtyGEwcEC1KzQGpAWHggCuuW0jVG9bd53pNsA3l0yQ-y_b9so3NoFCnI6ripcjT3Yu5F6xWtDWB7SM6UsbIQtjYHpW12F7HLitmtVTJyXNmye7auawYmLzDDd2Wfs="
 hero_image: /img/rina-vs-nicole-zzz-support-comparison/hero.webp
-inline_images:
+inline_images
   - /img/rina-vs-nicole-zzz-support-comparison/inline-1.webp
   - /img/rina-vs-nicole-zzz-support-comparison/inline-2.webp
   - /img/rina-vs-nicole-zzz-support-comparison/inline-3.webp
   - /img/rina-vs-nicole-zzz-support-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing the right support can be the difference between a timed finish and a failed run in the high-stakes combat of Zenless Zone Zero.
 
@@ -155,9 +155,9 @@ While Rina wins on pure scaling and ease of buff uptime (especially at M1), Nico
 ## Sources
 - Zenless Zone Zero Fandom — https://zenless-zone-zero.fandom.com/wiki/Alexandrina_Sebastiane
 - Zenless Zone Zero Fandom — https://zenless-zone-zero.fandom.com/wiki/Nicole_Demara
-- Prydwen ZZZ Guide — https://www.prydwen.gg/zenless-zone-zero/characters/rina
-- Prydwen ZZZ Guide — https://www.prydwen.gg/zenless-zone-zero/characters/nicole
+- Prydwen ZZZ Guide
+- Prydwen ZZZ Guide
 - Game8 ZZZ Support Tier List — https://game8.co/games/Zenless-Zone-Zero/archives/435439
 - Mobalytics Rina Overview — https://mobalytics.gg/zzz/characters/rina
-- GenshinLab Nicole Build — https://genshinlab.com/zzz/nicole-build/
+- GenshinLab Nicole Build
 - Icy Veins Rina Guide — https://www.icy-veins.com/zzz/alexandrina-sebastiane-build-guide

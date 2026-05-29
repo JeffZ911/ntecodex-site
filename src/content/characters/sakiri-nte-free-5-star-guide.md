@@ -1,4 +1,4 @@
----
+--
 title: "Sakiri: Best Free 5-Star Character Guide | NTE"
 game: nte
 slug: sakiri-nte-free-5-star-guide
@@ -7,7 +7,7 @@ qa_score: 7.9
 word_count: 1641
 published_at: "2026-05-10T17:42:21.141278+00:00"
 published_url: /characters/sakiri-nte-free-5-star-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgCQ5eGoXQNw1gPjr295x_jx75jYf9vzUfwbmuZ2uuWF3Lrx2WpSaqFhGKyKfnonQaznuDv8SPEwXfY-IfCCS4-9uPZax60q5RMyystdEmhZnx6z1Iy-t8f7ImdhAtFghFlR_hgag="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXTFoSQ8Z41sRHi9zl6_IeS5qeSpttsBDrv9qX-oV7q4nuMuxDO7AEMKcWDIpeBiVf2fGgLFTg_aOBeK3u7EQwKo3JeO55tPSiEAy1IMKS5zaFiE4DsGkUKtYL_svKTZAlfsXSXh_9L8Wb5DQtz-2XpxTevv1btEd8X4K0IrQ8xhGjA2w="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcjwZOqbngdKwsOVk8WOzH5A_VUe6NCPWKDRszEecGTzOLSSfNbAfWnfaGxq5Z8m5mSwq25P61ueRA8LMrZhFrZo5OZUo10yqyvo5bKvQOPi1xLEjMdfcSSGI6Uie0Lv7hK9nhhoc="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2-JSCil2ghGSACBjPoYNzIlB6P3bmVQt-JcEpEOr9XJxdjLfSKDARB9_UXFzrk41cuQkliqAkjDZeerds5vcx373KE9J9UAItX6uvWc1AsYoyWgBFwXuIvVSLQxYGdUNUigyTHMcQzKNKzw=="
 character_data: {"h1": "Sakiri: Best Free 5-Star Character Guide in Neverness to Everness", "role": ["Support", "Sub-DPS"], "slug": "sakiri-nte-free-5-star-guide", "tier": "S+", "teams": [{"name": "Hyper-Carry Anima", "members": ["Nanally", "Sakiri", "Haniel"]}, {"name": "F2P Scorch Team", "members": ["Baicang", "Sakiri", "Daffodil"]}], "title": "Sakiri: Best Free 5-Star Character Guide | NTE", "rarity": 5, "skills": {"skill": {"name": "Devour Whole", "description": "Kiroumaru opens its mouth to manipulate gravity. Press to quickly pull in and knock down enemies. Hold to extend the crowd control effect, levitating enemies and dealing continuous Incantation DMG.", "cooldown_sec": 12}, "passives": [{"name": "Impish Trick", "description": "After casting her Ultimate or using a Support Skill, the entire team's ATK is increased by 30% of Sakiri's base ATK for 20 seconds."}], "ultimate": {"name": "Feast of Gluttony", "description": "Sakiri spits out a large amount of Gravity Slurry from above, dealing 6 instances of AoE Incantation DMG. Hit enemies are pinned to the ground by intense gravity, preventing movement for several seconds.", "energy_cost": 125}, "basic_attack": {"name": "Ram", "description": "Performs a 5-hit combo swinging her weapon, Kiroumaru, to deal Incantation DMG. Holding the attack button activates 'Eating Mode,' allowing Sakiri to mount Kiroumaru, move freely, and pull nearby enemies into a cone for devouring."}}, "element": "Incantation", "_sources": [{"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbEyUuiA4SmFl-VYPX_qeby_1lgzlDeO1-N_Gjn5cIaWgRg80NcddWCI_PVJxq2setauwpi0iOeOYONCXfrlQ6iP70e9x55tkx6eqYaNWATFcMS_NW46DDbAGE9IoZ", "title": "neverness.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2N7v3hH1rhWg0JDpV2riFJXbvf6QoNrR51qaxJnEAc31P9CnJMSqbfzlXHc6oN9ArFzHLlu-SG5VpMPYnVJs1HzyiDIT2iNblDo4ZCTRm69O8OKaOSP--5D1tisYsAMIEEcU1pxQrrm1ITlRJ", "title": "beebom.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD8m13X7lQ6Kv8yMmY7SCXpUVfiLeGzsKN8F0tSZTVi1kNTCa0pzuGmaxeIe6s5VfADzByskdOinh0zD6BMzf1qCqy1BcnWllxLoWA1DJyifWPJZSjVc5C6oRLoaHnLXE7w6cysSJ9tAvu4cF65vryIlDrhQE1aPzeZECaIBNpCLASqOiLO5Vcmq-V5xDGPsfT00nc", "title": "bluestacks.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi-TV2UulPzzkw3VuuBDyzFCnh_GZQMqX5N_CkWCJE8bcxfuOj-duWGlU5bW-naEQM-ec8ql4umoIw2diqrT_fbNtqKWPT1yYl4IBvhV0PNcEUPZE2Ws1nKdlYEvfyNEB5JqsO2ovkhhZLS4JTTqMMjUCEx-BnuerPS52FVDtP8ZeKM4e_Af0_Fa3VLA==", "title": "thegamer.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFruDo8b1GDjXXr6SSC6_TV5j-VYXBynwLfr-1ohcsQBAX3DZDUxujeTS0WNZcX8l6FGLbkrJKWOo1iSHAwc84h3-gcQdVJueO36tEAiaR0Al1Bx20L79ytDa53cXF1N89fMJL7TDuQfsTSFI07kE6N", "title": "neverness.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfyUZ991fQaT_7HAx4Oeo7HRWIvRYEWl9oa2lJkRV3wa6G-8z8IH5tRo6L0RFDl7lZ5RyG47CqxDvQfF3LJ-TwSkbPe42QRatvNHqkKFbax_YfcBZUEZlD7KQnu8PyUpdCJZms278IJCjrCVvptdlBIeamh-TPct1jFWI6FKBG5dMfTg_b46Ce5rhbT4S2LPMEFvlbJC1BcfnQRfUjRYgP7J7KHJi9Z_9fF2sMTTkmVG5hWgW5VQdXGcv3i6VmsLv9TTrerDkK", "title": "gosugamers.net"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASKcF8qIESf-lvMtFWoQSBK2hmzN9FFX-8LdUKRviv9A4xpCYUGaP3TvHvKfg5G6ygKmY_AokYjR48eIPGPgZ1KcDHhUuCAlrMkdrtRGy3cuNuunwhiuQideHwWykCGGO", "title": "neverness.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2ZTMd6NuAElCDuTZV5H_r2VODwvtqpZUepOoW6xAFoE4T0KoyUs5Q9--iw-6mAmel8exLgfMq3eNo-N8fj0vVS356PrKqIBPMK9LfFbxHbBYQiX5uZcG74u4PaM48JfikC4EWYW_MAVe1Pz4vrcyuPgFtSaCkr6Tzi6OA2T5Q6OfLGoJB", "title": "gamespot.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqa7gjYJQyI4NduN-Wap0xq8P1PGNaDCopCWUudzWjIARn0oWHcuUBSL110a6DB_KPrBaiT-ZOjJY0A1N6i5_Qz5s_Ow6BjKCfaY7e0zaXyLOlSMhYqL3lWodt1PN9", "title": "neverness.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcWrdD31sfNWi7QvRp3PvkeFOQ7-eeAb4qKMphSZbfQjXEGi2_IZlzMziqHCFswm-W_3s7QWdNbO365INYgZH_Pab9Hpglor0qKFEhSlokkqbDPrhoOSHIwgt2bBD-GRlGdBHr_k3t2c8Vvb0N8SWtFT5gVKrWDUaDyeEVZfJCK3-HVv9zpWp3sQ==", "title": "ign.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj4f9yLzpK2i-mK5Hgvqh1QSFCn4-ScNjYZc-W1jmbNtWUb5ccF-jhJafcDbh7p3Lke5HJVuT0yxsR-D92-Z2SJhgQdEI1uiWseUEbv3mQYOvo-1s9C4qqhah7aqZ5HnUloaAUMm4TZUalGwUL5K4d2gJlKa_3mypRZQPoFAs=", "title": "dexerto.com"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx3RtO5YDUdY4fEL-JSOJ29aJVixtHrz21X9OGFzuao-QCe5ZJkFMj4T9vweanaLv37Wv8hMy_VUGNT67lW7BXrLOCxMJCTqofSr9iDrWhSk8olsDvYSuGIyJYrvv-tiqs1JXI", "title": "kaiden.gg"}, {"uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Sx5_jJtr3IGEZpI_HyvnoGJrrRpdHmnnAFeDugY-r4slAh9GoPqRONVT-CvRjkV4FaKBGw1FRFtw27ZKR5tA7f5iak7-vjaaLZP9aKu94_sL2dy4WTMnZ8XXYR6XE2itrL1Imhwq_OVKmvomsv1nSX6ueTvI8yCVhaxANA==", "title": "icy-veins.com"}], "sections": [{"h2": "Overview", "key_points": ["Sakiri is the top-tier recommendation for the free S-class selector given at launch.", "She functions as a universal buffer and the game's premier crowd control specialist.", "Obtainable for free via the 50-pull beginner selector or the May 3rd launch gift box."], "data_required": []}, {"h2": "Skills", "key_points": ["Her 'Eating Mode' is essential for grouping small mobs during exploration and timed challenges.", "The Ultimate provides a massive team-wide ATK buff that scales with her base stats.", "Gravity Slurry from her Ultimate is one of the few hard-control effects that can pin elite enemies."], "data_required": ["skills table"]}, {"h2": "Materials", "key_points": ["Prioritize leveling her base ATK through character levels to maximize her passive buff.", "Beetle Coins and Hunter Guides are the primary resources needed for early ascension."], "data_required": ["materials table"]}, {"h2": "Best Build", "key_points": ["The 4-piece Speedy Hedgehog cartridge set is her best-in-slot for energy regeneration and additional team buffs.", "Focus on Cycle Intensity to ensure her Ultimate is available every rotation.", "Crit stats are secondary but helpful for her personal Sub-DPS contribution."], "data_required": ["build table"]}, {"h2": "Teams", "key_points": ["Pairs perfectly with Nanally, the first limited 5-star, to amplify her high-speed basic attacks.", "Synergizes with Baicang in Scorch-based teams due to her defense reduction and grouping.", "Works well with Haniel for a double-buffer setup in endgame content."], "data_required": []}, {"h2": "Free 5-Star Selector Guide", "key_points": ["Comparing Sakiri to other free options: Baicang (DPS), Daffodil (Burst), and Jiuyuan (Gatherer).", "Why Sakiri's long-term value as a buffer makes her the 'must-pick' for F2P players.", "How to obtain the second free selector through the City Tycoon management mode."], "data_required": []}], "best_build": {"disks": [{"set": "Speedy Hedgehog", "main_stats": {"head": "Crit Rate", "chest": "Crit DMG"}, "sub_priority": ["ATK%", "Cycle Intensity", "CritRate", "CritDmg"]}], "weapons": ["[information unavailable]"]}, "image_specs": [{"position": "hero", "description": "Sakiri standing with her weapon Kiroumaru in the neon streets of Hethereau.", "aspect_ratio": "16:9"}], "weapon_type": "catalyst", "article_type": "character_db", "character_id": "sakiri", "internal_links": [{"anchor_text": "Nanally best build guide", "target_keyword": "nanally nte build"}, {"anchor_text": "NTE character tier list", "target_keyword": "nte tier list"}, {"anchor_text": "how to reroll in Neverness to Everness", "target_keyword": "nte reroll guide"}], "release_banner": "Strange Encounters (Standard)", "meta_description": "Master Sakiri, the best free 5-star character in Neverness to Everness (NTE). Learn her skills, best builds, and how to use your S-class selector effectively.", "ascension_materials": [{"items": ["Beetle Coins", "Elite Hunter Guide", "[information unavailable]"], "level": 20}], "estimated_word_count": 1850}
 hero_image: /img/sakiri-nte-free-5-star-guide/hero.webp
-inline_images:
+inline_images
   - /img/sakiri-nte-free-5-star-guide/inline-1.webp
   - /img/sakiri-nte-free-5-star-guide/inline-2.webp
   - /img/sakiri-nte-free-5-star-guide/inline-3.webp
   - /img/sakiri-nte-free-5-star-guide/inline-4.webp
   - /img/sakiri-nte-free-5-star-guide/inline-5.webp
   - /img/sakiri-nte-free-5-star-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Skills"
   - "Materials"
   - "Best Build"
   - "Teams"
   - "Free 5-Star Selector Guide"
----
+--
 
 Choosing the right S-class unit from your launch rewards is the most significant decision you will make in the early hours of Neverness to Everness. While the temptation to grab a flashy DPS is high, Sakiri stands out as the ultimate long-term investment for any F2P or low-spending account.
 
@@ -54,7 +54,7 @@ Navigating the neon-soaked streets of Hethereau requires more than just raw powe
 
 Sakiri is widely considered the top-tier recommendation for the free S-class selector given at launch. Unlike many standard characters who eventually fall off as limited banners introduce stronger DPS units, Sakiri functions as a universal buffer and the game's premier crowd control specialist. Her value lies not in her personal damage numbers, but in how she enables high-tier carries like [Nanally](/characters/nanally-guide-nte/) to reach their maximum potential.
 
-Players can obtain Sakiri for free through two primary methods:
+Players can obtain Sakiri for free through two primary methods
 1.  **The Standard Board Selector:** After performing 50 pulls on the "Strange Encounters" standard banner (which only costs 40 pulls due to the 20% beginner discount), you can choose one of the six standard S-class characters.
 2.  **Launch Gift Box:** As part of the May 3rd launch celebration, a special gift box containing an S-class selector was distributed to all players who reached Hunter Level 10.
 
@@ -114,7 +114,7 @@ The **4-piece Speedy Hedgehog** cartridge set is her best-in-slot option. This s
 This ATK buff stacks with Sakiri’s "Impish Trick" passive, creating a massive damage window for your carry. If you haven't farmed a full legendary set of Speedy Hedgehog yet, you can use **Shadow Creed** as a temporary 2-piece filler for the 10% ATK boost.
 
 ### Stat Priority
-When rolling for sub-stats on your modules, prioritize the following:
+When rolling for sub-stats on your modules, prioritize the following
 1.  **Cycle Intensity:** This increases the damage and effectiveness of the "Hexed" and "Scorch" reactions triggered when Sakiri swaps out.
 2.  **ATK%:** Directly increases the value of her "Impish Trick" buff.
 3.  **Crit Rate / Crit DMG:** Helpful for her Sub-DPS contribution during her 5-hit basic combo, but not mandatory.
@@ -165,10 +165,10 @@ If you find yourself struggling with the early-game difficulty, check out our gu
 
 ## Sources
 - icy-veins.com — https://www.icy-veins.com/nte/sakiri-guide-best-builds/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/sakiri-build-best-arcs-team
+- gamewith.net
 - ntegame.com — https://ntegame.com/characters/sakiri/
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/characters/sakiri-build-guide
-- neverness.gg — https://neverness.gg/guides/free-characters-guide/
-- kaiden.gg — https://kaiden.gg/nte/combat-strategy-team-synergy-guide/
+- neverness.gg
+- kaiden.gg
 - oslink.io — https://www.oslink.io/blog/neverness-to-everness-tier-list/
 - ldshop.gg — https://www.ldshop.gg/news/nte-standard-banner-free-selector-guide/

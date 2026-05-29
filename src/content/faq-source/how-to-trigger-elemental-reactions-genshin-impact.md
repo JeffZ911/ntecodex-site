@@ -1,4 +1,4 @@
----
+--
 title: "How to Trigger Elemental Reactions in Genshin Impact: Full Guide"
 slug: how-to-trigger-elemental-reactions-genshin-impact
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-14T11:17:55.153294+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-to-trigger-elemental-reactions-genshin-impact/hero.webp
-inline_images:
+inline_images
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-1.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-2.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-3.webp
   - /img/how-to-trigger-elemental-reactions-genshin-impact/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering elemental reactions is the foundation of high-level combat in Teyvat, transforming basic attacks into devastating chains of damage. By understanding how different elements interact, you can optimize your team rotations to clear the game's most difficult challenges.
 
@@ -121,7 +121,7 @@ A "Strong" aura can support multiple "Weak" trigger reactions before it is fully
 
 ### How Elemental Mastery and Character Level Affect Damage
 
-For transformative reactions (Swirl, Bloom, Overloaded), your Attack stat does not matter. The damage is determined by:
+For transformative reactions (Swirl, Bloom, Overloaded), your Attack stat does not matter. The damage is determined by
 1.  **Character Level:** The base damage of these reactions scales exponentially as a character moves from Level 80 to Level 90.
 2.  **Elemental Mastery (EM):** This stat provides a percentage bonus to reaction damage.
 3.  **Enemy Resistance:** Reactions are still affected by how much resistance an enemy has to that specific element.
@@ -169,8 +169,8 @@ Another mistake is neglecting Character Level on Bloom or Swirl triggers. Becaus
 
 - Genshin Impact Wiki: Elemental Reactions — https://genshin-impact.fandom.com/wiki/Elemental_Reaction
 - Game8: All Elemental Reactions List — https://game8.co/games/Genshin-Impact/archives/297394
-- KeqingMains: Elemental Gauge Theory — https://keqingmains.com/misc/elemental-gauge-theory/
-- KeqingMains: Internal Cooldown (ICD) Guide — https://keqingmains.com/misc/icd/
+- KeqingMains: Elemental Gauge Theory
+- KeqingMains: Internal Cooldown (ICD) Guide
 - HoYoLAB: A Beginner's Guide to Elemental Reactions — https://www.hoyolab.com/article/514434
-- IGN: Genshin Impact Elemental Reactions Guide — https://www.ign.com/wikis/genshin-impact/Elemental_Reactions_Guide
-- Rock Paper Shotgun: Genshin Impact Elements Guide — https://www.rockpapershotgun.com/genshin-impact-elements-guide-all-elemental-reactions-explained
+- IGN: Genshin Impact Elemental Reactions Guide
+- Rock Paper Shotgun: Genshin Impact Elements Guide

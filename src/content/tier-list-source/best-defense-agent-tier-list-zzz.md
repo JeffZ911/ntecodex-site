@@ -1,4 +1,4 @@
----
+--
 title: Zenless Zone Zero Best Defense Agent Tier List (May 2026)
 slug: best-defense-agent-tier-list-zzz
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 6.7
 word_count: 1723
 published_at: "2026-05-14T21:13:34.571125+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsawFefdj2yf7YzB1JUtcew89WInHesxYyknyCeYr5cmjMTXgBVKZXwO6OYHdENTm3uNOUFVJQ859KW33tVB72gkZsK5ZvRf-EioshQ1zM-M6MZHuJMSZMi0nQpP70stCvIkrY2-xHPzNAPi49erYoNJjs2KtMV4Pl"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgoU_UoGUP0kEVsPb_129mrvgeubTo4kB_LSR5xd8Nj_DG0dS5N6FfIeBfIvjhbbq8HjLBceKV9bd8C-yvBX1WkmQQlO7IDUIZiBmI-qXaemkQowRr-JKceBEPadhEGpa7q-Db8fA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsHKFslLvGMxNynE9pnZxCX1zlQFXEvzAVaJITLvT5wSvYsJYqZQtqUmG2kLeoD0JHP1iunDXOz9S-gDrJBCP28t2Z_I5IiF62KM6urhDqOFW7W1PJm4RYmchDOqt5Ono203tuCZIrxX0_AwGFU-v7N8NqlTshIm_MBb4l1RmTh7LQzuTfo0jccdwEdd8="
@@ -15,21 +15,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc-F3gmPlL2HdOEMsnQuTcJOWS8Xa7clTJOg5tiROsaRCCGczqnPxOG1eTGqCaKn82nlAyg8_GLI6zOm3XNZGbkUfgjv3WxKm5Ud9CdsPQBILKCWNVvpRPUE61zNHSi324SsN_L9DA"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcgxQlXKpJCMq9-QFTkZmuQ4rMKc15ITQIc5waAhxX3BPRhIyDUifS5yI4raqxxjZnHHhKZwg94b3ArFVswnOxKmCvorVXOqOZV6ok6MyK0BvWfKAwhGax_QUmaxi1n4O5cI9FibA="
 hero_image: /img/best-defense-agent-tier-list-zzz/hero.webp
-inline_images:
+inline_images
   - /img/best-defense-agent-tier-list-zzz/inline-1.webp
   - /img/best-defense-agent-tier-list-zzz/inline-2.webp
   - /img/best-defense-agent-tier-list-zzz/inline-3.webp
   - /img/best-defense-agent-tier-list-zzz/inline-4.webp
   - /img/best-defense-agent-tier-list-zzz/inline-5.webp
   - /img/best-defense-agent-tier-list-zzz/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Defensive utility in Zenless Zone Zero has evolved from simple damage mitigation into a core engine for offensive buffs and elemental synergy. This Zenless Zone Zero best defense agent tier list ranks every protector in the May 2026 meta, from the high-impact shields of Caesar King to the specialized Rupture support of Pan Yinhu.
 
@@ -58,7 +58,7 @@ Our evaluation focuses on three primary pillars: Shielding Strength, Offensive U
 As of May 2026, the meta has shifted toward "Quick-Swap" defensive playstyles. The introduction of the Rupture mechanic in Version 2.0 and the refinement of Disorder teams in Version 2.5 have made Defense agents the glue that holds complex elemental rotations together. Agents like Zhao and Caesar King are no longer just "backup" units; they are often the primary source of a team's flat ATK bonuses, allowing Attackers to focus entirely on Crit and Elemental DMG stats.
 
 ### Key Performance Indicators (KPIs) for Tanks
-When evaluating these units, we prioritize the following metrics:
+When evaluating these units, we prioritize the following metrics
 *   **Shield Uptime:** Can the agent maintain protection through a full 15-second DPS window?
 *   **Buff Ceiling:** Does the agent provide flat ATK (like Zhao) or a percentage DMG increase (like Caesar)?
 *   **Daze Generation:** Can the Defense agent substitute for a Stun agent? Caesar King, for instance, has Impact scaling that rivals dedicated Stunners.
@@ -147,7 +147,7 @@ The Version 2.0 update introduced the Rupture mechanic, which fundamentally chan
 ### Version 2.7 Balance Adjustments
 The release of Version 2.7, "Champions Never Fall to the Past," has introduced new challenges in the form of the "Deadly Assault" mode. This endgame content features bosses like Black Wolf Romeul, who possess high-frequency attacks that can shred standard shields in seconds. This has increased the demand for agents who provide "Hyperarmor" (Anti-Interruption) and off-field utility.
 
-Key updates in the 2.7 cycle include:
+Key updates in the 2.7 cycle include
 *   **Nangong Yu (Stun):** While a Stun agent, her synergy with "Ether Veil" has increased the value of Zhao as a primary defensive partner.
 *   **Cissia (Attack):** Her "Venom" stack mechanics require long field-time, making the high-uptime shields of Caesar King and Seth Lowell more relevant than ever.
 *   **Ben Bigger Buffs:** A Version 2.6 patch reduced the energy requirement for Ben’s EX Special, allowing him to maintain his Crit Rate buff more consistently, though it was not enough to move him into A Tier.
@@ -156,10 +156,10 @@ Key updates in the 2.7 cycle include:
 ## Sources
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
-- Prydwen ZZZ Tier List — https://www.prydwen.gg/zenless-zone-zero/tier-list/
+- Prydwen ZZZ Tier List
 - Game8 ZZZ Defense Agents — https://game8.co/games/Zenless-Zone-Zero/archives/435685
 - Icy Veins ZZZ Caesar King Guide — https://www.icy-veins.com/zzz/caesar-king-build-guide
 - Sportskeeda ZZZ Zhao Kit Leaks — https://www.sportskeeda.com/esports/zenless-zone-zero-zhao-kit-leaks-abilities-special-attack-ultimate
 - Joytify ZZZ Version 2.7 Meta — https://joytify.com/best-zzz-tier-list-v2-7-meta-agents-in-2026/
 - LootBar Pan Yinhu Kit Analysis — https://lootbar.gg/blog/pan-yinhu-kit-w-engine-mindscape-cinema-leaked-zenless-zone-zero/
-- Genshin Builds ZZZ 2.7 Tier List — https://genshin-builds.com/zzz/tier-list
+- Genshin Builds ZZZ 2.7 Tier List

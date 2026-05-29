@@ -1,4 +1,4 @@
----
+--
 title: "NTE Weapon Pity System Explained: Arc Research Program Guide"
 slug: nte-weapon-pity-system-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-18T06:13:34.098017+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-weapon-pity-system-explained/hero.webp
-inline_images:
+inline_images
   - /img/nte-weapon-pity-system-explained/inline-1.webp
   - /img/nte-weapon-pity-system-explained/inline-2.webp
   - /img/nte-weapon-pity-system-explained/inline-3.webp
   - /img/nte-weapon-pity-system-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your combat efficiency in Neverness to Everness requires a deep understanding of how to acquire high-tier gear through the game’s unique gacha mechanics.
 
@@ -32,7 +32,7 @@ The weapon acquisition system in Neverness to Everness (NTE) is distinct from it
 ![Question Restated](/img/nte-weapon-pity-system-explained/inline-1.webp)
 
 
-Understanding the nuances of the Arc Research Program is vital for anyone looking to optimize their Annulith spending. Players frequently ask the following questions regarding the weapon gacha:
+Understanding the nuances of the Arc Research Program is vital for anyone looking to optimize their Annulith spending. Players frequently ask the following questions regarding the weapon gacha
 
 *   How does the weapon pity system work in Neverness to Everness (NTE)?
 *   What are the specific drop rates for S-Rank Arcs in the Arc Research Program?
@@ -74,7 +74,7 @@ Pity progress is permanent and carries over to future Arc Research Program rotat
 The Arc Research Program is designed to be more accessible in terms of raw drop rates compared to the character banners, but it requires a higher volume of pulls to navigate the probability checks. To master this system, you must understand the relationship between Arcs, the currency required to obtain them, and the specific math behind the 25/75 mechanic.
 
 ### Understanding Arcs
-In the world of Hethereau, Arcs serve as the primary equippable weapons. These are not merely stat sticks; they provide significant passive abilities that can fundamentally change how a character interacts with the game's "Anomaly" mechanics. Arcs are categorized by rarity:
+In the world of Hethereau, Arcs serve as the primary equippable weapons. These are not merely stat sticks; they provide significant passive abilities that can fundamentally change how a character interacts with the game's "Anomaly" mechanics. Arcs are categorized by rarity
 *   **S-Rank:** The highest tier, often featuring unique visual effects and character-specific synergies.
 *   **A-Rank:** Mid-tier weapons that provide solid stat boosts and are guaranteed every 10 pulls.
 *   **B-Rank:** Common weapons primarily used as enhancement material or temporary placeholders.
@@ -147,7 +147,7 @@ While Annulith is the primary source, savvy players can acquire Tri-Keys through
 | **Event Rewards** | Limited-time Challenges | Varies by Event |
 
 ### Cosmetic Pity and Milestone Rewards
-NTE is unique in that it separates cosmetic items from the main character and weapon pity tracks. Limited banners often feature separate side-pity systems for high-end cosmetics:
+NTE is unique in that it separates cosmetic items from the main character and weapon pity tracks. Limited banners often feature separate side-pity systems for high-end cosmetics
 *   **Gliders:** Guaranteed at 50 pulls on specific banners.
 *   **Vehicles:** Guaranteed at 120 pulls.
 *   **Character Skins:** Guaranteed at 200 pulls.
@@ -162,9 +162,9 @@ By understanding that the weapon system favors higher drop rates (3%) at the cos
 ## Sources
 
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
-*   neverness.gg — https://neverness.gg/guides/pity-system-explained
-*   gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47122
+*   neverness.gg
+*   gamewith.net
 *   enjoygm.com — https://www.enjoygm.com/news/neverness-to-everness-gacha-guide
-*   kaiden.gg — https://kaiden.gg/nte/arc-research-program-rates/
-*   gamerant.com — https://gamerant.com/neverness-to-everness-weapon-pity-guide-arcs/
-*   dexerto.com — https://www.dexerto.com/gaming/neverness-to-everness-pity-system-explained-2849102/
+*   kaiden.gg
+*   gamerant.com
+*   dexerto.com

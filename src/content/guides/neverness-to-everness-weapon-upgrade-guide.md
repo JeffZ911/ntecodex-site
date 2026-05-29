@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Weapon Upgrade Guide: Best Arcs & Builds"
 slug: neverness-to-everness-weapon-upgrade-guide
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1851
 published_at: "2026-05-16T23:51:04.943383+00:00"
 published_url: /guides/neverness-to-everness-weapon-upgrade-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU1cQVdllPiUnjYbycbVZQbzHZaYMPEuWB9mukPaxWbmGhD55fT3n5FfQxaf7-LGYcmTPrWmh6oZntthQi8dmvty3pD4hoUp-r3YelOtA3z4y0n9GVu9tYWA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfFLyC6jSgwQrNolDqhOEuVMwIHw66gBcw0JvKP31ZMGYpbO-sZ3hBE8o_GeTpR1YhwA4wm47TN-u4tMf6aof3gHoSoODyPItpe069vZsmWqo7TeLnFNzEM7yg1dN4HlH-xQW_uOIYcWgHlw9CuqMghX_v0Oj4VtvrJ7Hz2SZxX1U0-jchGvWh94tr4hR5fpnxW6jtyR7sBv7VyMesjf4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO9She_4ay9iIt9SLre9gyRFDRO0ltYfai-8loCH3IAlGpb7O71ACeBQHj9ac6RV16BpY1kNhw5vQaIBLZ8O2E0wnitwZBGUrrzcqnI-uY62vms7hd5p37FVpv2ptdyiZ2GbTFfuw7SnRR36TNleM="
@@ -28,21 +28,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXScHZ7DMjk1PhBwjkBOQhUV0by-CuUhLZVDE179f4MWzD_z3T-0j0ASXQQPWa28N-TShNoayBA4g1qBcp7t-GDcijqTuX2w2Okrh-B82fxvgtzJBH77rnJMkY2Pl_4y_-QUMyM0RehrsgqXvYf_Ryx-AGuA7lLNrmqaBzUlZ4ss4mea4wg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH60mMJTWR_GinFfMQRTQnPCFRuuYjG-jgSwrKbCzW5KoYeygdiMCiRz-Q6cS_Mn75ICCtvDpaR3tCLbvXeCKTG3IyOfuJFe4IJf5OcR2oOijADBRG7OReM_L8YwMTppP_j7Va2hPMS9qJSEqZAyUz2DwEmEnjdFM8bj_tWTIhDYkkg"
 hero_image: /img/neverness-to-everness-weapon-upgrade-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-1.webp
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-2.webp
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-3.webp
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-4.webp
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-5.webp
   - /img/neverness-to-everness-weapon-upgrade-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 In the neon-drenched streets of Hethereau, your combat effectiveness is determined by more than just reflexes; it is anchored by the power of your Arcs and the synergy of your Disk sets.
 
@@ -215,10 +215,10 @@ No. If two characters on the same team are wearing the 4-piece Speedy Hedgehog s
 ## Sources
 
 - Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-nte-elements-guide-esper-cycle-explained
-- Games.gg — https://games.gg/neverness-to-everness-sakiri-build-guide/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-sakiri-build-team-guide/
+- Games.gg
+- TheGamer
 - LDPlayer — https://www.ldplayer.net/blog/neverness-to-everness-weapon-tier-list-best-arcs.html
-- Neverness.gg — https://neverness.gg/guides/esper-cycle-elements-reactions/
-- Mobalytics — https://mobalytics.gg/blog/neverness-to-everness-nanally-build-guide/
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/46522
+- Neverness.gg
+- Mobalytics
+- GameWith
 - PCGamesN — https://www.pcgamesn.com/neverness-to-everness/codes

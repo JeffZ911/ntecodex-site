@@ -1,4 +1,4 @@
----
+--
 title: "NTE 1.1 Patch Release Date: Lacrimosa, Chaos, and Porsche Collab"
 slug: nte-1-1-patch-release-date-banners-leaks
 game: nte
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:28:11.593500+00:00"
 published_url: /news/nte-1-1-patch-release-date-banners-leaks
 sources: []
 hero_image: /img/nte-1-1-patch-release-date-banners-leaks/hero.webp
-inline_images:
+inline_images
   - /img/nte-1-1-patch-release-date-banners-leaks/inline-1.webp
   - /img/nte-1-1-patch-release-date-banners-leaks/inline-2.webp
   - /img/nte-1-1-patch-release-date-banners-leaks/inline-3.webp
   - /img/nte-1-1-patch-release-date-banners-leaks/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "What Happened"
   - "Key Changes"
   - "Player Reactions"
   - "What's Next"
----
+--
 
 The supernatural urban landscape of Hethereau is about to expand as Hotta Studio prepares for its first major content update following a massive global launch. As players stabilize their teams and explore the anomalies of the city, the focus shifts toward the upcoming NTE 1.1 patch release date and the high-octane content arriving with it.
 
@@ -175,7 +175,7 @@ As players prepare for the June 4 update, the focus remains on gathering resourc
 ## Sources
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
-- Prydwen Institute: NTE Section — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Section
 - Push Square: NTE Coverage — https://www.pushsquare.com/tags/neverness-to-everness
-- GameWith: NTE Guide Hub — https://gamewith.net/neverness-to-everness/
+- GameWith: NTE Guide Hub
 - Games.gg: NTE News — https://games.gg/neverness-to-everness/

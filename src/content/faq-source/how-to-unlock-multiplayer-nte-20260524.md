@@ -1,4 +1,4 @@
----
+--
 title: How to Unlock Multiplayer in Neverness to Everness (NTE)
 slug: how-to-unlock-multiplayer-nte-20260524
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-multiplayer-nte-20260524/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-multiplayer-nte-20260524/inline-1.webp
   - /img/how-to-unlock-multiplayer-nte-20260524/inline-2.webp
   - /img/how-to-unlock-multiplayer-nte-20260524/inline-3.webp
   - /img/how-to-unlock-multiplayer-nte-20260524/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Exploring the supernatural streets of Hesperia is an experience best shared with a squad of fellow Espers.
 
@@ -40,7 +40,7 @@ As players begin their journey through the neon-soaked districts of Hesperia, se
 
 The most frequent question is: **When does the co-op feature become available in Neverness to Everness?** Unlike some open-world titles that grant immediate access to friends, NTE requires a brief period of solo play to ensure players are familiar with basic combat mechanics, car handling, and the "Anomaly" system.
 
-Other common inquiries include:
+Other common inquiries include
 *   **What are the specific level and story requirements to play with friends?** There is a hard gate tied to your account's progression level and a specific narrative milestone.
 *   **Can you play the main story missions in multiplayer mode?** This is a point of confusion for many, as the game handles narrative instances differently than open-world activities.
 *   **How do you find and add friends using the UID system in Hethereau?** The social interface is tucked away within the in-game smartphone, leading to some initial navigation hurdles for new users.
@@ -134,7 +134,7 @@ Understanding the technical side of the NTE multiplayer experience is just as im
 
 Neverness to Everness supports full cross-play and cross-progression. This means a player on a high-end PC can join a squad with friends playing on PS5, iOS, Android, or Mac. Your progress is saved to your account, allowing you to switch devices at will.
 
-However, **Server Restrictions** are strictly enforced. To play together, all players must be on the same regional server. The current server regions are:
+However, **Server Restrictions** are strictly enforced. To play together, all players must be on the same regional server. The current server regions are
 *   North America (NA)
 *   Europe (EU)
 *   Asia
@@ -144,7 +144,7 @@ If you started your account on the NA server and your friend is on the EU server
 
 ### Co-op Limitations and Solo-Only Content
 
-While the multiplayer is expansive, it is not "always-on." Certain segments of the game are strictly solo:
+While the multiplayer is expansive, it is not "always-on." Certain segments of the game are strictly solo
 *   **Main Story Instances:** When entering a story-specific building or cinematic zone, any guest players in your world will be temporarily moved to a "Spectator" mode or returned to their own worlds until the instance is complete.
 *   **Initial Anomaly Tutorials:** Certain tutorial-based Anomaly instances remain strictly solo to ensure players learn the mechanics of specific boss patterns.
 *   **Loot Distribution:** NTE uses an instanced loot system. When a boss is defeated or a chest is opened, the rewards generated are unique to each player. You do not need to worry about "ninja looting" or competing with friends for rare drops; everyone gets their own individual roll for gear.
@@ -160,7 +160,7 @@ The developers have hinted at upcoming guild or "Club" systems that will allow f
 ## Sources
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
-- GameRant: NTE Multiplayer Guide — https://gamerant.com/neverness-to-everness-how-to-unlock-multiplayer-coop/
+- GameRant: NTE Multiplayer Guide
 - Sportskeeda: NTE Hunter Leveling Guide — https://www.sportskeeda.com/esports/neverness-to-everness-leveling-guide-how-to-reach-hunter-level-8-fast
 - GamingOnPhone: NTE Cross-play and Cross-progression — https://gamingonphone.com/guides/neverness-to-everness-cross-play-and-cross-progression-guide/
-- Neverness.gg Wiki — https://neverness.gg/wiki/Multiplayer_Mechanics
+- Neverness.gg Wiki

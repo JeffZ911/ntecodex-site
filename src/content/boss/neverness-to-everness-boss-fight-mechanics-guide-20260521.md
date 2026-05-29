@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Boss Fight Mechanics: A Master Guide"
 slug: neverness-to-everness-boss-fight-mechanics-guide-20260521
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.1
 word_count: 1424
 published_at: "2026-05-21T05:21:57.083699+00:00"
 published_url: /boss/neverness-to-everness-boss-fight-mechanics-guide-20260521
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3UYKbFMIDRI9gicHYE6roIQnq06nz-O-TKT1t9UbFYMvmva1OBj6FeumXU26jolqyhwTtrQWNPLkXMqBTRGvdz6xIaLSVKVhwV9uP9XQXQVZ1ltXv30KbCudKxfFgklPWZDtNGbD9NYhoUBCO5CIRxBYRpcAJOCbjkcIQG4mN3e3S"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQoFg1edGhlyJWMWajKIGHra1SqGJ10PJWM8_z4NVrMTtsdm0DGmGZqpdQgBeitQRCtn6-oivUBYQi__RO2cEHY7R7bkDyJuF4UWWVMtLMT6AF8qV8SfBagg7HdciIcIEKm8ZOet1igi0hvmyHgbXFTn34H5_st8ydhyhwjz6_fxO2rSff3ww="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXOonfDJ7aJ41kLMjCmEfAABBghOAu8jo7pWyTURLXFbZVp7oObsS1YNPOd8FnCZLx_5ddqX4gfnx3StjWCEJwQClEYlp5le23vozqMAywlGyOyFZHQJSNA9H7CvJdixwyML1ApW2rhW-hXMc1FPcDpmTfUtTEn5tcoltE1AseM42iIi6kTHm89A=="
@@ -24,19 +24,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBKegEUQ5MrOruGTfP_aKtqvMNmvBw65yGdOjCaANf1GGL51vO0XTDX-2olrIXINgxT9nY8_H7-lu8ITcO_SER0KjbZ7wgXdannIaK-4AkS0xkrEfYP7eXF1gbpGHqxwGWrWIGvOuxY65F2BGBzqZaiSNKi7stNyI_9H8JRnBlOLOTRQ0-8F_2YB2AN76oi1NsAMa2gFsU-Q_WdZgfCBVqEw0aL6M="
 game: unknown
 hero_image: /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/inline-1.webp
   - /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/inline-2.webp
   - /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/inline-3.webp
   - /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/inline-4.webp
   - /img/neverness-to-everness-boss-fight-mechanics-guide-20260521/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering boss encounters in Neverness to Everness (NTE) requires more than just high stats; it demands a deep understanding of the rhythmic flow between defense and the devastating Discord reaction.
 
@@ -85,7 +85,7 @@ For attacks that cannot be parried, look for the "Red Flash" on the boss's body.
 ### Gimmick Mechanics: Rhythm Notes and Spotlights
 Several bosses feature unique environmental gimmicks that can instantly end a run if ignored.
 
-*   **Beat King (Rhythm Notes):** This fight periodically transitions into a rhythm-game-like state. You must respond to colored icons:
+*   **Beat King (Rhythm Notes):** This fight periodically transitions into a rhythm-game-like state. You must respond to colored icons
     *   **Red Icons:** Press Attack.
     *   **Yellow Icons:** Press Jump.
     *   **Blue Icons:** Press Dodge.
@@ -163,9 +163,9 @@ Defeating a boss for the first time usually clears the surrounding Anomaly Zone,
 ## Sources
 
 - Neverness to Everness Official Wiki — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki
-- GameRant NTE Break Gauge Guide — https://gamerant.com/neverness-to-everness-nte-break-gauge-guide/
-- GameWith Beat King Boss Guide — https://gamewith.net/neverness-to-everness/article/show/46523
-- Kaiden.gg Combat Mastery & Tactical Guide — https://kaiden.gg/nte/combat-mastery-tactical-guide/
-- PC Gamer NTE Tier List and Character Guide — https://www.pcgamer.com/games/rpg/neverness-to-everness-tier-list-best-characters/
-- TheGamer Arachne Boss Fight Guide — https://www.thegamer.com/neverness-to-everness-nte-never-ending-arachne-boss-fight-guide/
-- Games.gg Mammon Boss Guide — https://games.gg/neverness-to-everness/boss-guide-how-to-beat-mammon/
+- GameRant NTE Break Gauge Guide
+- GameWith Beat King Boss Guide
+- Kaiden.gg Combat Mastery & Tactical Guide
+- PC Gamer NTE Tier List and Character Guide
+- TheGamer Arachne Boss Fight Guide
+- Games.gg Mammon Boss Guide

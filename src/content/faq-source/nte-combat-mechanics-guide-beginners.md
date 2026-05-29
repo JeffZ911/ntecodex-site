@@ -1,4 +1,4 @@
----
+--
 title: Neverness to Everness Combat Mechanics Guide for Beginners
 slug: nte-combat-mechanics-guide-beginners
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-combat-mechanics-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-combat-mechanics-guide-beginners/inline-1.webp
   - /img/nte-combat-mechanics-guide-beginners/inline-2.webp
   - /img/nte-combat-mechanics-guide-beginners/inline-3.webp
   - /img/nte-combat-mechanics-guide-beginners/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the fast-paced urban combat of Hesperia requires more than just button mashing; it demands a deep understanding of how supernatural abilities and modern weaponry collide. This guide breaks down every essential system to help you dominate the anomalies found throughout the city.
 
@@ -60,7 +60,7 @@ The depth of NTE combat lies in how these systems overlap. A successful player i
 
 The Esper Cycle is the engine of NTE combat; each character has a 100-unit meter that, when full, allows for a high-impact "Entry Skill" swap. You can see these meters represented as circular gauges around the character portraits on the right side of the UI.
 
-You build this meter by:
+You build this meter by
 *   Landing Normal and Heavy Attacks.
 *   Successfully performing a Critical Dodge.
 *   Landing a Perfect Parry.
@@ -104,7 +104,7 @@ Once the Break Meter hits zero, the enemy is "Broken." During this window, any c
 
 ### Team Composition and Character Roles
 
-A balanced team is essential for clearing high-level Anomalies. While you can play with any combination, the most effective teams follow a specific role distribution:
+A balanced team is essential for clearing high-level Anomalies. While you can play with any combination, the most effective teams follow a specific role distribution
 
 1.  **Main DPS:** The character who stays on field the longest to build the initial Esper Cycle. Examples include [Sakiri](/characters/sakiri-nte-free-5-star-guide) or [Nanally](/characters/nanally-guide-nte) (whose banner "The Ichi-daime" provides a strong start for new players).
 2.  **Breaker:** Characters specialized in depleting the Break Meter. They usually have "Solid" type Arcs.
@@ -137,9 +137,9 @@ Customizing your Arcs is just as important as leveling your Espers. For beginner
 
 ## Sources
 
-- frvr.com — https://frvr.com/games/neverness-to-everness/
+- frvr.com
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-combat-guide/
+- mobalytics.gg
 - enjoygm.com — https://www.enjoygm.com/news/neverness-to-everness-combat-mechanics-explained
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-beginner-guide-combat-and-elements
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-elements-reactions-explained

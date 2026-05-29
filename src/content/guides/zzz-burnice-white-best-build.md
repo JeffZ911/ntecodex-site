@@ -1,4 +1,4 @@
----
+--
 title: "Best Burnice White Build in ZZZ: W-Engines, Disks & Teams"
 slug: zzz-burnice-white-best-build
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T18:17:35.564073+00:00"
 published_url: /guides/zzz-burnice-white-best-build
 sources: []
 hero_image: /img/zzz-burnice-white-best-build/hero.webp
-inline_images:
+inline_images
   - /img/zzz-burnice-white-best-build/inline-1.webp
   - /img/zzz-burnice-white-best-build/inline-2.webp
   - /img/zzz-burnice-white-best-build/inline-3.webp
   - /img/zzz-burnice-white-best-build/inline-4.webp
   - /img/zzz-burnice-white-best-build/inline-5.webp
   - /img/zzz-burnice-white-best-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Burnice White brings a fiery explosive energy to Zenless Zone Zero as the premier off-field Fire Anomaly Agent. Her ability to apply Burn while tucked away in your backline makes her an essential piece for any high-performance Disorder team.
 
@@ -231,7 +231,7 @@ While you can keep Burnice on the field to use her Basic Attack strings, her kit
 ## Sources
 
 - Zenless Zone Zero Fandom Wiki — https://zenless-zone-zero.fandom.com/wiki/Burnice_White
-- Prydwen Institute ZZZ Guide — https://www.prydwen.gg/zenless-zone-zero/characters/burnice-white
+- Prydwen Institute ZZZ Guide
 - Game8 Burnice White Build — https://game8.co/games/Zenless-Zone-Zero/archives/474163
 - Official Zenless Zone Zero Website — https://zenless.hoyoverse.com/en-us/main
-- Screen Rant Burnice Guide — https://screenrant.com/zenless-zone-zero-best-burnice-white-build-w-engines-drive-discs/
+- Screen Rant Burnice Guide

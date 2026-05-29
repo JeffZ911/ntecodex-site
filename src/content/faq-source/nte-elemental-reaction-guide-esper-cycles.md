@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elemental Reaction Guide: How to Master Esper Cycles"
 slug: nte-elemental-reaction-guide-esper-cycles
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-elemental-reaction-guide-esper-cycles/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-reaction-guide-esper-cycles/inline-1.webp
   - /img/nte-elemental-reaction-guide-esper-cycles/inline-2.webp
   - /img/nte-elemental-reaction-guide-esper-cycles/inline-3.webp
   - /img/nte-elemental-reaction-guide-esper-cycles/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the Esper Cycle system is the difference between struggling against street thugs and dominating the high-level anomalies found in the "Beyond the Rails" endgame. By understanding how elements interact on the hexagonal wheel, you can chain devastating Duo and Trio reactions to shred enemy defenses.
 
@@ -69,7 +69,7 @@ Each character in NTE is attuned to one of six elements. These elements determin
 
 ### Understanding the Esper Cycle Wheel & Adjacency
 
-The Esper Cycle Wheel is a hexagon where each point represents an element. The connections are as follows:
+The Esper Cycle Wheel is a hexagon where each point represents an element. The connections are as follows
 
 *   **Lakshana** connects to **Cosmos** and **Psyche**.
 *   **Cosmos** connects to **Lakshana** and **Anima**.
@@ -113,7 +113,7 @@ Trio Reactions are the "Ultimate" form of the Esper Cycle. These are triggered b
 
 ### Advanced Stats: Cycle Rate, Cycle Value, and Arc Compatibility
 
-As you progress into the mid-game and begin farming Arcs (the game's equipment system), you will encounter two critical stats:
+As you progress into the mid-game and begin farming Arcs (the game's equipment system), you will encounter two critical stats
 
 1.  **Cycle Rate:** This stat functions like "Energy Recharge" in other titles. A higher Cycle Rate allows your characters to fill their Esper Meters faster through normal attacks and skills. High Cycle Rate is essential for "Support" characters who need to swap in and out frequently.
 2.  **Cycle Value:** This determines the potency of the reaction itself. For example, a higher Cycle Value on a Chaos character will increase the DoT damage of the Scorch reaction or the explosion damage of Nova.
@@ -151,8 +151,8 @@ The City Tycoon system is not just a side-activity; it provides permanent stat b
 
 ## Sources
 
-*   thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-combat-elements-guide/
-*   kaiden.gg — https://kaiden.gg/nte/mechanics/esper-cycle-system/
-*   mobalytics.gg — https://mobalytics.gg/blog/nte/neverness-to-everness-elemental-reactions/
-*   neverness.gg — https://neverness.gg/guides/combat-basics-esper-meter/
-*   perfectworld.com — https://www.perfectworld.com/news/nte-official-combat-overview-2026/
+*   thegamer.com
+*   kaiden.gg
+*   mobalytics.gg
+*   neverness.gg
+*   perfectworld.com

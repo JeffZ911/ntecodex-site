@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for Neverness to Everness: Top Arcs & Gear Guide"
 slug: best-disks-neverness-to-everness
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 8.3
 word_count: 1780
 published_at: "2026-05-20T21:09:23.418126+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9cY2rLHe07lefGjYb_KvjO1dfD3Tmz5gKqwRKuO_jhh7Xx4O1lk1mpPShGEKRf3yWZyAked0vmW0fL0uxEcoxbS0aZjYz00IMraaxII3PPxn5eqpwjuII1TvKtmD-B7Cd"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB1nGnPe-SbzCUy2Cmv53QeSDbSvbHoxi3PezNf_fCZ7X_0SDKJh-VdL890Qq_SFwidf7-se6SbKnlhllVb8BimH-ugzpr5p7pueCG9noT9BMqIlktwjcG95GdfoLj6oTJERTaDxA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUMzRDb1vxV-4sx8XkcPKZaUPMcE2zoQRX_6DLxkM2VMyyMFWC-U_DovSY0x-Xma8zXVsDIzU-CLDx3zONMA76JG0dEIAs2i11d6M-MkwfEwGxsmC956Rpxxey07mgPQ6l7B42rz6ewriGwnjc176zFCYLPp3Glxmatl4aVu2sb4M-MCFUN9U="
@@ -21,17 +21,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeO1pjM_fKtWLoGlcUazXJTQCZKt11Snuycs8__YY70KaUGiQenoMa50AejFVyU-eHKrqDeq1Wmdmu0Xv1V7qBydMDOGCDacKVCxhEiANlbp6CzyjohupAi9Ih2j7b2ZdWRbWcq2_Lr8HoN6iSrzrMPAoWUOJNSkUb"
 game: unknown
 hero_image: /img/best-disks-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-neverness-to-everness/inline-1.webp
   - /img/best-disks-neverness-to-everness/inline-2.webp
   - /img/best-disks-neverness-to-everness/inline-3.webp
   - /img/best-disks-neverness-to-everness/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Equipping the right gear in Hethereau City is the difference between a smooth anomaly containment and a total team wipe. In this guide, we break down the best disks, Arcs, and cartridges to optimize your Espers for the 1.0 meta.
 
@@ -123,7 +123,7 @@ Break Specialists are responsible for depleting the enemy's white "Break" bar to
 The **Day Off** Arc is a "secret" S-Rank weapon designed for the protagonist, Esper Zero. You can obtain it for free by completing the "Naked Ghost Tour of the City" quest chain.
 
 1.  **Trigger the Quest:** Go to BaC Headquarters (Area M10) at 08:00 AM. Speak to the NPC "Eclipse" standing in the right corner.
-2.  **The Rooftop Tour:** You must find Eclipse at four specific locations across the city between 08:00 and 10:00 AM on Sunny days:
+2.  **The Rooftop Tour:** You must find Eclipse at four specific locations across the city between 08:00 and 10:00 AM on Sunny days
     *   The roof of **Film Orbit Studio**.
     *   The roof of the **Oops Chest Gift Shop** in Illusion Town.
     *   The coastal path near the **Coastal Highway**.
@@ -134,7 +134,7 @@ The **Day Off** Arc is a "secret" S-Rank weapon designed for the protagonist, Es
 
 The Console interface is where you slot your Cartridges and Modules. Modules are smaller pieces that provide flat stats (ATK, HP, DEF), while Cartridges are larger pieces that provide the set bonuses. 
 
-To maximize efficiency:
+To maximize efficiency
 *   **Prioritize Rarity:** Only level up Purple (A-Rank) or Gold (S-Rank) modules to level 20. Blue modules should be left at level 5.
 *   **Shape Matching:** Look for "Type II" (2-cell) and "Type IV" (4-cell) modules that complement your Cartridge shapes. If a Cartridge is an L-shape, you'll need straight-line modules to fill the remaining gaps in the grid.
 *   **Substat Grinding:** The best modules have "Break Intensity" or "Cycle Intensity" as secondary stats, which are vital for endgame anomaly hunts.
@@ -179,11 +179,11 @@ Pairing the right disks with elemental reactions is the key to high DPS.
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/gacha-system-explained
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/daffodill-build-guide
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/day-off-arc-guide
-- prydwen.gg — https://www.prydwen.gg/nte/arcs-database
+- gamewith.net
+- prydwen.gg
 - kaiden.gg — https://kaiden.gg/nte/cartridges/speedy-hedgehog
-- gamerant.com — https://gamerant.com/neverness-to-everness-how-to-get-day-off-arc-free/
-- allthings.how — https://allthings.how/nte-ready-ready-arc-nanally-signature-weapon-guide/
-- games.gg — https://games.gg/neverness-to-everness/esper-zero-build-guide/
+- gamerant.com
+- allthings.how
+- games.gg

@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Boss Strategy Guide: How to Beat Every Anomaly"
 slug: nte-boss-strategy-guide-list
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/nte-boss-strategy-guide-list
 sources: []
 game: unknown
 hero_image: /img/nte-boss-strategy-guide-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-boss-strategy-guide-list/inline-1.webp
   - /img/nte-boss-strategy-guide-list/inline-2.webp
   - /img/nte-boss-strategy-guide-list/inline-3.webp
   - /img/nte-boss-strategy-guide-list/inline-4.webp
   - /img/nte-boss-strategy-guide-list/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering the supernatural anomalies of Hethereau requires a deep understanding of elemental weaknesses and rhythmic combat patterns. This Neverness to Everness boss strategy guide provides the tactical breakdown necessary to defeat every major threat from Anomaly Commissions to high-level Weekly Pilgrimages.
 
@@ -126,14 +126,14 @@ Efficiency in NTE combat is measured by how quickly you can force a boss into a 
 
 ### Breaking the Posture Bar
 
-The white bar beneath the boss's health is the Posture Bar (or Break Bar). Once depleted, the boss is stunned for several seconds and takes increased damage. To break a bar quickly:
+The white bar beneath the boss's health is the Posture Bar (or Break Bar). Once depleted, the boss is stunned for several seconds and takes increased damage. To break a bar quickly
 1.  Initiate with a Chaos-aligned ability (e.g., Daffodill’s skill).
 2.  Follow up with Psyche or Incantation attacks to trigger the **Discord** reaction.
 3.  Use heavy attacks or "Break" specialized skills to finish the bar.
 
 ### Maximizing the Esper Cycle Window
 
-When the boss is "Broken," you enter the Esper Cycle window. This is the time to dump all your Ultimate abilities. The optimal sequence is:
+When the boss is "Broken," you enter the Esper Cycle window. This is the time to dump all your Ultimate abilities. The optimal sequence is
 *   Apply a defense shred or elemental resistance debuff (using a Support Esper).
 *   Switch to your Main DPS (e.g., Hathor or [Nanally](/characters/nanally-guide-nte)).
 *   Execute a full combo, ensuring you trigger at least two elemental reactions during the stun duration.
@@ -224,6 +224,6 @@ While Arcs have a [information unavailable] drop rate from Elite bosses, they ar
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Neverness to Everness - Official Reveal Trailer — https://www.youtube.com/watch?v=5vT8v_v7x_s
-- GameRant: Neverness to Everness Everything We Know — https://gamerant.com/neverness-to-everness-nte-everything-we-know-release-date-platforms-gameplay/
+- GameRant: Neverness to Everness Everything We Know
 - IGN: Neverness to Everness Announcement and Gameplay — https://www.ign.com/games/neverness-to-everness
 - Neverness to Everness Subreddit — https://www.reddit.com/r/NTE_Official/

@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Characters in Neverness to Everness: Tier List (May 2026)"
 slug: best-support-characters-nte-guide-20260523
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-characters-nte-guide-20260523/hero.webp
-inline_images:
+inline_images
   - /img/best-support-characters-nte-guide-20260523/inline-1.webp
   - /img/best-support-characters-nte-guide-20260523/inline-2.webp
   - /img/best-support-characters-nte-guide-20260523/inline-3.webp
   - /img/best-support-characters-nte-guide-20260523/inline-4.webp
   - /img/best-support-characters-nte-guide-20260523/inline-5.webp
   - /img/best-support-characters-nte-guide-20260523/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Building a powerful team in Hethereau requires more than just raw damage; you need the right Espers to fuel your rotations and keep your squad alive. This guide ranks the best support characters in Neverness to Everness (NTE) to help you optimize your resource investment following the game's April 2026 launch.
 
@@ -40,7 +40,7 @@ In the supernatural urban landscape of Neverness to Everness, support characters
 
 Our ranking system evaluates support characters based on how effectively they fulfill specific roles within a three-person team composition. We prioritize characters who provide multi-functional utility, such as combining offensive buffs with grouping mechanics or elemental application.
 
-The evaluation is based on four primary pillars:
+The evaluation is based on four primary pillars
 
 1.  **Offensive Buffing:** The ability to increase the team's total damage output through ATK, Crit Rate, Crit DMG, or Elemental Damage bonuses. High-tier characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) and Haniel excel here.
 2.  **Crowd Control (CC):** The effectiveness of "Gathering" mechanics. In NTE's urban combat, enemies often spawn in scattered groups. The ability to pull them into a single point for AoE (Area of Effect) clearing is vital for time-limited Anomaly containment challenges.
@@ -205,6 +205,6 @@ Official teasers for the Version 1.1 update have begun to appear on the official
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Neverness to Everness Official Discord — https://discord.com/invite/nte
-- Beebom Gaming: NTE Character Guides — https://beebom.com/neverness-to-everness-characters-list/
+- Beebom Gaming: NTE Character Guides
 - Oslink: Neverness to Everness Overview — https://www.oslink.io/blog/neverness-to-everness-everything-we-know-so-far/
-- Frvr: NTE Release and Meta — https://frvr.com/neverness-to-everness-release-date/
+- Frvr: NTE Release and Meta

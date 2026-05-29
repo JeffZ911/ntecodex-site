@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Team Comps for DPS: Neverness to Everness Meta Guide"
 slug: nte-best-team-comps-dps-guide
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-best-team-comps-dps-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-team-comps-dps-guide/inline-1.webp
   - /img/nte-best-team-comps-dps-guide/inline-2.webp
   - /img/nte-best-team-comps-dps-guide/inline-3.webp
   - /img/nte-best-team-comps-dps-guide/inline-4.webp
   - /img/nte-best-team-comps-dps-guide/inline-5.webp
   - /img/nte-best-team-comps-dps-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Maximizing your damage output in Neverness to Everness requires more than just high-level gear; it demands a deep understanding of the Esper Cycle and character synergy. As the meta stabilizes following the April 2026 launch, identifying which team compositions can clear the Prime Circle efficiently is essential for progression.
 
@@ -38,7 +38,7 @@ Maximizing your damage output in Neverness to Everness requires more than just h
 
 The evaluation of team compositions in Neverness to Everness (NTE) relies on the interplay between character roles and the elemental reaction system known as the Esper Cycle. Unlike traditional action RPGs where a single character carries the entire load, NTE emphasizes "Lane" synergy—the ability of characters to maintain elemental pressure while swapping frequently.
 
-Our ranking criteria focus on:
+Our ranking criteria focus on
 *   **Esper Cycle Efficiency:** The frequency and impact of reactions such as Blossom, Discord, and Charge.
 *   **Lane Synergy:** How seamlessly a team transitions between Main DPS and Sub-DPS windows without losing "Cycle Intensity."
 *   **Stagger Window Burst:** The team's capacity to deplete the Break Meter and capitalize on the resulting vulnerability window.
@@ -179,7 +179,7 @@ The introduction of Hotori on May 15, 2026, shifted the focus toward Cosmos-heav
 
 ### Post-Launch Balance Adjustments
 
-In the Patch 1.0.1 balance notes, several minor adjustments were made:
+In the Patch 1.0.1 balance notes, several minor adjustments were made
 *   **Scorch DoT Scaling:** Increased slightly, which improved Baicang’s viability in long-form boss fights.
 *   **Lethal Rose Tech:** The community discovered a grouping technique for Jiuyuan, dubbed "Lethal Rose," which significantly improved AoE clear times for Nanally teams.
 *   **Nanally Banner:** The conclusion of Nanally's first limited banner, "The Ichi-daime," has solidified her status as a "must-have" for the current cycle, as no other Anima DPS currently matches her output.
@@ -193,7 +193,7 @@ Understanding these team dynamics is the first step toward mastering the urban s
 
 ## Sources
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- Beebom: Neverness to Everness Characters — https://beebom.com/neverness-to-everness-characters/
+- Beebom: Neverness to Everness Characters
 - IGN: Neverness to Everness Release Date and Details — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Team Building Guide — https://game8.co/games/Neverness-to-Everness/archives/team-comps
 - Reddit: r/NTE_Official Meta Discussion — https://www.reddit.com/r/NTE_Official/

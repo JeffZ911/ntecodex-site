@@ -1,4 +1,4 @@
----
+--
 title: "NTE Energy Recharge Stat Explained: How to Charge Ultimates Faster"
 slug: nte-energy-recharge-stat-explained
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-energy-recharge-stat-explained/hero.webp
-inline_images:
+inline_images
   - /img/nte-energy-recharge-stat-explained/inline-1.webp
   - /img/nte-energy-recharge-stat-explained/inline-2.webp
   - /img/nte-energy-recharge-stat-explained/inline-3.webp
   - /img/nte-energy-recharge-stat-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your Ultimate uptime is the difference between struggling through Hethereau’s anomalies and dominating the urban battlefield with seamless Esper rotations. Understanding how to manipulate the energy economy allows players to transition from basic combat to the high-intensity burst windows required for end-game content.
 
@@ -55,11 +55,11 @@ Ultimates in NTE are the most powerful tools in an Esper’s kit. They do not me
 
 In Neverness to Everness, "Energy Recharge" is officially known as the Charge Efficiency stat. It functions as a percentage-based multiplier applied to all Ultimate Energy gained during combat. While the community often uses the term "Energy Recharge" due to its prevalence in the genre, you must look for "Charge Efficiency" when upgrading your Consoles or selecting Arcs to ensure you are boosting the correct attribute.
 
-The mechanic follows a straightforward linear scaling system. A base Charge Efficiency of 100% means you gain energy at the standard rate. If you increase this stat to 150% through gear and buffs, your Esper will fill their Ultimate (Q) meter 50% faster than they would at base. This is calculated using a simple formula:
+The mechanic follows a straightforward linear scaling system. A base Charge Efficiency of 100% means you gain energy at the standard rate. If you increase this stat to 150% through gear and buffs, your Esper will fill their Ultimate (Q) meter 50% faster than they would at base. This is calculated using a simple formula
 
 **Total Energy Gained = Base Energy Value × Charge Efficiency %**
 
-Energy is not passively generated over time in NTE; it must be earned through active participation in combat. The primary methods for generating energy include:
+Energy is not passively generated over time in NTE; it must be earned through active participation in combat. The primary methods for generating energy include
 *   **Basic Attacks:** Small amounts of energy per hit, varying by character.
 *   **Redirect Skills:** Significant energy chunks granted upon successful activation.
 *   **Successful Parries:** Rewards defensive play with immediate energy influx.
@@ -149,4 +149,4 @@ Finally, it is important to note that energy-heavy rotations often place a strai
 - Neverness to Everness Wiki (Game8) — https://game8.co/games/Neverness-to-Everness
 - NTE Subreddit — https://www.reddit.com/r/NTE_Official/
 - Hotta Studio Developer Blog — https://www.hottastudio.com/blog/nte-combat-mechanics
-- Memuplay NTE Guide — https://www.memuplay.com/blog/neverness-to-everness-guide.html
+- Memuplay NTE Guide

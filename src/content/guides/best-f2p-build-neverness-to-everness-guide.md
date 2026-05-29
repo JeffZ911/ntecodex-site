@@ -1,4 +1,4 @@
----
+--
 title: "Best F2P Build in Neverness to Everness: Top Teams & Arcs"
 game: nte
 slug: best-f2p-build-neverness-to-everness-guide
@@ -7,7 +7,7 @@ qa_score: 7.5
 word_count: 1811
 published_at: "2026-05-10T12:48:15.646373+00:00"
 published_url: /guides/best-f2p-build-neverness-to-everness-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQBFSquEvuY0F89d1jAPZEqfh6AykBHWlYUt8_gXtSpT8TCPBsCnGpg7BJR2_w8n0bFW9SOiV6ZWI_TOfC5v_1nAzD_bDyG5zlrvaL1YyNWwndqQTzDvV6jfO6fZKwivSZbHmZUTfS8NA6Vjy6mCIz_rTuVQ3W"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6QCwLHwzrmWkQBpTi14Ohlt4Oo4HXj6VQQOTxDIQJphVc94E0O3qH7-7bWcc6xG01WwBBnBZt8Cz16cFymGMAWkPY4eeqHi_FAt7DKYP8Z3cV1K5nHYS7FPpEySvFk24bAd6GXG-dljnQx2Jt9WC-sNFcsnqnsQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3grh6pCzZL-90v3TDAARK73KZnDQbuU2ulwgQRUp1FiROuharTOtGoOPv4aggmPK8HYexsv2Ei_t7flsAzsv6a4e59LKkb1c8PQDvV7TbRxh4AjuAzY0W_894W5F8VOEZF4MAqK6_WydVlnL328FE3LfCJg96H6qJFig2OU27cg="
@@ -29,21 +29,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhbuVf2uGRV3-YQvCUxcytj2_YA4YUmGdoAQB2qHpMwVh-ZqAvsgQ5dWQ6UnzrCmIakRk4NtcphjDM_5cymMz_b2rXx2HAOgOx80YG5XLpiQ2VQEhcqQLlIXEZAg5WHNZufb6JRqN9-nNenF_a6rSPq6f02o2qLTzUolpB"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKYQ61ilo-a88hxL2yXI_2H8gKJaUTr9RU-hZ8ouRsy6oF9Luaf-tBC7Lhox_EeeRXX1kfx0LodBhBZGsiWJjPG5Ma6idbWiFEUEWOJQeJwDQ8w_IhPxDjlSUBcnCIWjPvvBJt7Fpg4YA_X1LlYG24JJOhP3UWpTtKf0e5lTaDiConEpfE6m-cMg=="
 hero_image: /img/best-f2p-build-neverness-to-everness-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-f2p-build-neverness-to-everness-guide/inline-1.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-2.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-3.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-4.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-5.webp
   - /img/best-f2p-build-neverness-to-everness-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 With the highly anticipated launch of Neverness to Everness (NTE) on April 29, 2026, players are diving into the neon-soaked streets of Hethereau City to uncover anomalies and master the supernatural Esper system.
 
@@ -161,7 +161,7 @@ Building the best F2P team in Neverness to Everness requires balancing the Eleme
 
 ### The Ultimate F2P Starter Team
 
-This team is available to every player within the first few hours of gameplay:
+This team is available to every player within the first few hours of gameplay
 1.  **Zero (Cosmos):** Main/Sub-DPS and Cycle Anchor.
 2.  **Mint (Anima):** AOE DPS and Blossom trigger.
 3.  **Adler (Incantation):** Shielder and Hex trigger.
@@ -226,11 +226,11 @@ The choice is purely cosmetic. Both versions share the same Cosmos element, base
 ## Sources
 
 - icy-veins.com — https://www.icy-veins.com/nte/weapons-arcs-database
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/weapons-arcs-list
-- games.gg — https://games.gg/neverness-to-everness-free-characters-guide
+- mobalytics.gg
+- games.gg
 - sportskeeda.com — https://www.sportskeeda.com/esports/best-zero-build-guide-neverness-to-everness-nte
-- dotesports.com — https://dotesports.com/neverness-to-everness-console-guide-cartridges-modules
+- dotesports.com
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-all-arcs-weapons-stats-effects-guide-breakdown-for-newbies
-- vg247.com — https://www.vg247.com/neverness-to-everness-free-characters
-- ign.com — https://www.ign.com/articles/neverness-to-everness-tier-list-best-characters
-- neverness.gg — https://neverness.gg/guides/esper-cycle-explained
+- vg247.com
+- ign.com
+- neverness.gg

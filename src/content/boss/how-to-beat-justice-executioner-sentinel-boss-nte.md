@@ -1,4 +1,4 @@
----
+--
 title: How to Beat the Justice Executioner in Neverness to Everness (Sentinel Boss)
 slug: how-to-beat-justice-executioner-sentinel-boss-nte
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1703
 published_at: "2026-05-16T14:27:24.381500+00:00"
 published_url: /boss/how-to-beat-justice-executioner-sentinel-boss-nte
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOBPp5c1yXWrx7UpAoe6OpYUp1YEUyjrlVxOSBKeN0jRE2nWJJ_b-VDHIWAL4MeqyGkgG8SdcUBo3BIOTL8r3SH7JNZ-3NR4NyVT474cZ54eVYopBLrJv6sBNB85rbmQfS-JXU64t5NoRzYPt3-PmMDeS1RUhh2Zij7wjA2LKZQ2xlZzU1G2YGuwPKqVENKzPD"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaw7yAPpYeY9YODTrH1icvn2jkR70dZWvK4oWIP4KkBtE0INEcnUOmdzkQqxRvmBzLOwfQWiU8iPViN_LvxRNEd5htbw7cO5xmB4qvtENjeN9WbsIDJzLipORdvgsYZQrzqKX-gfY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDToIJz1_DwGMMrfeT-2kzWE4s2dvIIbxIPh1OyFyPvEovbTOYjojHiisDo45QdQeWQuln1gcfIuKdaNUUU-PfhK4mZewuo6Xj908vDNdrH-INkjO33k3MKm_azEiuoZGEii3zyn4-4HAQVYZ20iVR-uw7PXRKBnRk-heBcRgqqHK7DvZCTKlv7AE83ddrdh0G_o2rjaDDHw=="
@@ -23,19 +23,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWxLjsHyuhiaQORJwAF_PYPR86l8pJ5tCQsdtDOiif2KhRIY6av6fkdKk-vsR7l5j1brJiAmo7vd7xqGzqAbf8l-Eg8fn1INPu7zksJUTcwr6EGb-c4GQFaqkX0zvp4vjtsmiefbq0ICamFUWCMatWKTKrk6zUAIggwigQNFamiQ16ei-P"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU4c8KwXyIDONoqDLx-el_x_HF_038nDUjyG-YLqpuRuZ6SEZQsArz7pUltSthr8AFrty2h006r8hm9-xSZDoMgN4w7IdvslMtCcAJnqmIAk7zuU7ydwrSfES0W-rDU2FfusMjjv4gTCM4Fs2ZyhkStJS9jM8a8E8FSHsJzm3J2ussZrL85ZdTyBU0hsYwjwQ0mhDqe9Yb6yWjpfUA1uY5iWoTkpDYXF8tUQAyawwKKp427QgUdqUDg_vf41Ic7wUonz24sn5taweG1ote5k9iBy3vvPXifU6zOJElPqo="
 hero_image: /img/how-to-beat-justice-executioner-sentinel-boss-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-justice-executioner-sentinel-boss-nte/inline-1.webp
   - /img/how-to-beat-justice-executioner-sentinel-boss-nte/inline-2.webp
   - /img/how-to-beat-justice-executioner-sentinel-boss-nte/inline-3.webp
   - /img/how-to-beat-justice-executioner-sentinel-boss-nte/inline-4.webp
   - /img/how-to-beat-justice-executioner-sentinel-boss-nte/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Surviving a four-star police chase in Hethereau City is difficult enough, but facing the Level 99 sentinel that arrives at the end of the pursuit is the ultimate test for any Esper.
 
@@ -115,7 +115,7 @@ To fight the boss, you must first reach the maximum Heat Level in Hethereau.
 
 ### Managing the Break Gauge
 
-The most efficient way to win is the **Discord Esper Cycle**. Your rotation should look like this:
+The most efficient way to win is the **Discord Esper Cycle**. Your rotation should look like this
 1.  Apply an **Incantation** mark using Sakiri’s Support Skill.
 2.  Switch to **Fadia** to apply Psyche damage, triggering the **Nova** reaction.
 3.  Switch to **Daffodill** and use her Ultimate. Because Daffodill is a Chaos-element Breaker, hitting a Nova-marked enemy triggers **Discord**, which shreds the boss's Break gauge.
@@ -140,7 +140,7 @@ The current "Psyche Meta" is the gold standard for this fight. Because the boss 
 
 ### Best F2P Team Composition
 
-If you haven't pulled the S-Rank Psyche units, you can still succeed with a well-built F2P squad:
+If you haven't pulled the S-Rank Psyche units, you can still succeed with a well-built F2P squad
 *   **Esper Zero (Main DPS):** Focused on high-frequency attacks to trigger as many parries as possible.
 *   **Chiz (Sub-DPS):** Used primarily for her elemental application to help chip away at the Break gauge.
 *   **Mint (Support):** Her healing is vital for surviving the chip damage from the boss's Grid Lockdown attack.
@@ -170,7 +170,7 @@ The **Officer Whisker** summon is particularly useful for solo players, as the f
 
 ### Ascension Materials and Currency
 
-Beyond the Arc, the boss drops high-grade materials necessary for Level 90+ character ascensions:
+Beyond the Arc, the boss drops high-grade materials necessary for Level 90+ character ascensions
 *   **Anomaly Shards (S-Rank):** 5–10 per clear.
 *   **Polished Consoles:** Used for upgrading mechanical-themed Arcs.
 *   **Fons:** 50,000+ (This is the largest single-source Fons drop in the game).
@@ -183,10 +183,10 @@ Clearing the Justice Executioner for the first time unlocks the **"Most Wanted"*
 ## Sources
 
 - SK Gaming — https://www.sportskeeda.com/esports/nte-neverness-everness-justice-executioner-anomaly-everything-need-know
-- GameWith — https://gamewith.net/neverness-to-everness/7845
+- GameWith
 - Icy Veins (Fadia Guide) — https://www.icy-veins.com/nte/characters/fadia/build-guide
 - Icy Veins (Daffodill Guide) — https://www.icy-veins.com/nte/characters/daffodill/build-guide
-- TheGamer (Wanted System Guide) — https://www.thegamer.com/neverness-to-everness-wanted-system-guide-justice-executioner/
+- TheGamer (Wanted System Guide)
 - Mobalytics (Aurelia Build) — https://mobalytics.gg/nte/characters/aurelia/build
 - YouTube (Steparu Anomaly Hunting) — https://www.youtube.com/watch?v=steparu-nte-boss-guide
 - Escorenews — https://escorenews.com/en/neverness-to-everness/guides/how-to-get-secret-s-tier-hethereaus-keeper-arc-in-nte-how-to-summon-and-beat-justice-executioner

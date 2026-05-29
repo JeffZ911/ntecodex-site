@@ -1,4 +1,4 @@
----
+--
 title: Best Support Characters in Neverness to Everness (NTE) Tier List
 slug: best-support-characters-nte-tier-list-20260517
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T05:01:25.075852+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-support-characters-nte-tier-list-20260517/hero.webp
-inline_images:
+inline_images
   - /img/best-support-characters-nte-tier-list-20260517/inline-1.webp
   - /img/best-support-characters-nte-tier-list-20260517/inline-2.webp
   - /img/best-support-characters-nte-tier-list-20260517/inline-3.webp
   - /img/best-support-characters-nte-tier-list-20260517/inline-4.webp
   - /img/best-support-characters-nte-tier-list-20260517/inline-5.webp
   - /img/best-support-characters-nte-tier-list-20260517/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your team’s Esper Cycle efficiency is the definitive way to conquer the supernatural threats lurking within Hethereau’s urban sprawl. This guide ranks the most effective support units currently available to ensure your squad maintains high uptime on buffs and rapid shield-shredding capabilities.
 
@@ -40,7 +40,7 @@ Navigating the complex elemental interactions of Neverness to Everness requires 
 
 Ranking support characters in NTE differs significantly from traditional RPGs due to the "Esper Cycle" mechanic. In this system, characters are not just healers or buffers; they are catalysts for elemental reactions that define the flow of combat. Our evaluation focuses on how effectively a character contributes to the team's total output rather than their individual combat prowess.
 
-The primary metrics used for this ranking include:
+The primary metrics used for this ranking include
 
 *   **Esper Cycle Efficiency:** How quickly a character can apply their specific element (Lakshana, Cosmos, Anima, Psyche, Incantation, or Chaos) to trigger reactions like Blossom, Remora, and Discord.
 *   **Utility vs. Raw Healing:** The current meta heavily rewards proactive play. Characters providing ATK buffs, Crowd Control (CC), and Energy Regeneration are prioritized over those who only offer stationary healing.
@@ -65,7 +65,7 @@ The Esper Cycle is the heart of NTE's team building. By rotating through differe
 
 ### Esper Cycle Elemental Compatibility
 
-The following chart outlines how the six elements interact within the current version 1.0.5 meta:
+The following chart outlines how the six elements interact within the current version 1.0.5 meta
 
 *   **Lakshana + Cosmos:** Triggers "Stain" (Slows enemies and increases critical damage taken).
 *   **Anima + Incantation:** Triggers "Blossom" (Continuous elemental damage over time).
@@ -208,6 +208,6 @@ Looking forward, Version 1.1 has been confirmed to introduce two new S-Rank char
 
 *   Neverness to Everness Official Website — https://nte.perfectworld.com/
 *   Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
-*   Prydwen Institute NTE Tier List & Meta Analysis — https://www.prydwen.gg/nte/tier-list/
-*   IGN: Neverness to Everness Version 1.0.5 Patch Notes — https://www.ign.com/articles/neverness-to-everness-update-hotori-release
+*   Prydwen Institute NTE Tier List & Meta Analysis
+*   IGN: Neverness to Everness Version 1.0.5 Patch Notes
 *   Reddit r/NTE_Official: Support Meta Discussion May 2026 — https://www.reddit.com/r/NTE_Official/comments/may2026_meta/

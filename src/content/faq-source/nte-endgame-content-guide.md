@@ -1,4 +1,4 @@
----
+--
 title: "NTE Endgame Content Guide: Beyond the Rails & City Tycoon"
 slug: nte-endgame-content-guide
 game: nte
@@ -7,7 +7,7 @@ qa_score: 5.9
 word_count: 1325
 published_at: "2026-05-14T14:24:27.711037+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqPIo1EMYf27G9EO2fA3m9V7SO_jNZyhdy5g0dbriRpl4u7waK6iSSU1OzNMlToSm5F6kBmLXwEzXSk7Uq--PIt7T--0wvQFv4SRezLNx-86Z30sGA7bMJsL5lWWXxxC9fu1kjzDw1ovnwPSrJ1Fraqd1kkKUscxcP59EBSY-GbL0bTK3Qv14u1FuVKDfgZ9r6Dw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqwkD4qkZtmujjNw-ZI6ww-NQ48RlY-RGA_gg88B4N-W31ZxgOVHGD2MJLKPz88xlsNmvRW7U0gC-df-kej6zSqEyW-GlEYLUCDyFcBeVsYG6nwlJYZCRvUGX4RV_urCvmGRrbIUC"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXow6JOjOVdtBrOn0wS7op5Z30McBx2q8u_BUMYR9FJo-mfQ4Ctjh8hRQlx5B3R1lnt-zEbvArP2x6z9mwq6GIHQk2WNKUGSup56fk3UbB_zgnAoSHr95EJw=="
@@ -25,17 +25,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyWZqWZTxPXAZiBm6ATHze9zlpSsSG-Qr5j8EkVVa9KfP19TwhHDRk5BgsrSYMg6BOH7XUJWduqiGHcwZUoHhztg8N5eLEsXdaP3_oYFMC1rejnL0CEbakL3B3tGIvwdZSFfIwXMYs4pxLigGoeDXpT0SXUegKLd4-Z6COwqmDakPBm7gxa1INE-CZpot_g=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUgPWkEbPZLb7HzulmyLt3dJoUD8sK03m8s44rCIsWf38jPJSDF8UsfvEF8vKY0KeAPCv8dwR6p6J4JW9ZsCCe0nlMc8VAicFSTyDTD34Fbr_vuIlPG-at5DdoHXe5Qm06y0KUEFtSFWg="
 hero_image: /img/nte-endgame-content-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-endgame-content-guide/inline-1.webp
   - /img/nte-endgame-content-guide/inline-2.webp
   - /img/nte-endgame-content-guide/inline-3.webp
   - /img/nte-endgame-content-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Reaching the end of the main storyline in Hesperia is just the beginning of your journey as a top-tier Hunter in Neverness to Everness (NTE). Once the credits roll, the game shifts focus toward high-difficulty combat, complex urban management, and the optimization of your character’s Console through the rigorous Rabbit Hole grind.
 
@@ -162,13 +162,13 @@ For high-tier racing, vehicle customization is more than cosmetic. Upgrading you
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/cafe-by-origen-guide/
-- neverness.gg — https://neverness.gg/guides/cartridges-and-modules-guide/
-- neverness.gg — https://neverness.gg/guides/daily-weekly-checklist/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47658
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47682
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-how-to-open-cafe-guide/
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-esper-cycle-guide/
+- neverness.gg
+- neverness.gg
+- neverness.gg
+- gamewith.net
+- gamewith.net
+- gamerant.com
+- gamerant.com
 - allthings.how — https://allthings.how/beyond-the-rails-in-neverness-to-everness-endgame-mode-explained/
-- kaiden.gg — https://kaiden.gg/nte/teams/scorch-domain-baicang/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-esper-cycle-elements-guide/
+- kaiden.gg
+- mobalytics.gg

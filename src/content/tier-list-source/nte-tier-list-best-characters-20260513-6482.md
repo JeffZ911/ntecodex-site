@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Tier List: Best Characters (May 2026)"
 slug: nte-tier-list-best-characters-20260513-6482
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T09:57:57.267107+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-tier-list-best-characters-20260513-6482/hero.webp
-inline_images:
+inline_images
   - /img/nte-tier-list-best-characters-20260513-6482/inline-1.webp
   - /img/nte-tier-list-best-characters-20260513-6482/inline-2.webp
   - /img/nte-tier-list-best-characters-20260513-6482/inline-3.webp
   - /img/nte-tier-list-best-characters-20260513-6482/inline-4.webp
   - /img/nte-tier-list-best-characters-20260513-6482/inline-5.webp
   - /img/nte-tier-list-best-characters-20260513-6482/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Mastering the urban anomalies of Hethereau requires a perfectly balanced team of Espers capable of both high-octane combat and efficient city management. This Neverness to Everness (NTE) tier list ranks every character available as of the Version 1.0.1 update to help you prioritize your resources.
 
@@ -153,7 +153,7 @@ The transition to Version 1.0.1 on May 13, 2026, brought several significant shi
 With the launch of the "Eibon Antique Shop" banner, players now have access to a second top-tier Cosmos DPS. This has led to the rise of "Dual-Cosmos" team compositions, where Nanally and Hotori are used together to maintain constant pressure and trigger universal reactions. If you missed Nanally's "The Ichi-daime" banner, Hotori is a mandatory pull to keep your account competitive in the current Anomalous Zone cycle.
 
 ### Balance Tweaks and Bug Fixes
-The May 13 update included several balance adjustments:
+The May 13 update included several balance adjustments
 *   **Sakiri Adjustment:** Her "Eating Mode" digestion time was slightly increased. Previously, players could achieve near-infinite crowd control on certain elite mobs, which was deemed unintended. She remains S-Tier but requires more careful timing now.
 *   **Esper Cycle Buff:** The "Stain" reaction (Psyche + Lakshana) received a 5% damage buff. This change was intended to make defensive-heavy teams more viable in timed content, slightly boosting the value of Fadia and Haniel.
 *   **City Tycoon Rewards:** A new milestone at City Level 21 now grants a free S-Rank Arc specifically designed for Chiz. This significantly improves her viability for mid-game players and solidifies her spot as the best F2P carry.
@@ -164,6 +164,6 @@ As the meta continues to evolve, keep an eye on how new characters interact with
 
 - neverness.gg — https://neverness.gg
 - kaiden.gg — https://kaiden.gg
-- prydwen.gg — https://www.prydwen.gg/nte/
+- prydwen.gg
 - Official NTE Discord — https://discord.gg/nteofficial
 - IGN — https://www.ign.com/games/neverness-to-everness

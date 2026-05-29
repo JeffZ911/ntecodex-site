@@ -1,4 +1,4 @@
----
+--
 title: "NTE How to Reroll Fast: Best Starters & Rerolling Guide"
 slug: reroll/nte-how-to-reroll-fast-guide
 article_type: reroll
@@ -9,19 +9,19 @@ published_url: /guides/reroll/nte-how-to-reroll-fast-guide
 sources: []
 game: unknown
 hero_image: /img/nte-how-to-reroll-fast-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-reroll-fast-guide/inline-1.webp
   - /img/nte-how-to-reroll-fast-guide/inline-2.webp
   - /img/nte-how-to-reroll-fast-guide/inline-3.webp
   - /img/nte-how-to-reroll-fast-guide/inline-4.webp
   - /img/nte-how-to-reroll-fast-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Starting your journey in the supernatural metropolis of Hethereau with a top-tier Esper can significantly ease the difficulty of early Anomaly commissions and high-speed urban exploration.
 
@@ -118,7 +118,7 @@ Once you have finished your initial pulls, you will eventually hit the 50-pull m
 
 ### Free Characters to Avoid Rerolling For
 
-The game provides several A-Rank characters for free through the story and beginner missions. Do not waste your reroll efforts if you only pull these units:
+The game provides several A-Rank characters for free through the story and beginner missions. Do not waste your reroll efforts if you only pull these units
 *   [Information not yet publicly available as of 2026-05-22]
 *   [Information not yet publicly available as of 2026-05-22]
 
@@ -139,7 +139,7 @@ Mobile players may face longer load times, especially when moving between the di
 
 ### Tips for Faster Tutorial Completion
 
-To shave minutes off your run, follow this timeline:
+To shave minutes off your run, follow this timeline
 
 *   **0:00 - 0:05:** Skip the opening cinematic and choose your protagonist. Run directly to the first combat encounter. Use AOE attacks to clear the tutorial bots quickly.
 *   **0:05 - 0:10:** Sprint through the "A New Destination" corridors. Ignore any optional side-interacts or NPCs that do not have a main quest marker.
@@ -169,8 +169,8 @@ Yes, pity carries over between limited banners of the same type. If you pull 40 
 Always use your free Fabricated Dice on the "Strange Encounters" standard banner first. If you get a lucky S-Rank early, it will influence which character you should choose later with your 50-pull selector. Once your standard pulls are done, spend your Annulith on the limited banner to try and snag Nanally.
 
 ## Sources
-- Game8 — https://game8.jp/neverness-to-everness
-- Prydwen Institute — https://www.prydwen.gg/nte/
+- Game8
+- Prydwen Institute
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 - IGN — https://www.ign.com/games/neverness-to-everness

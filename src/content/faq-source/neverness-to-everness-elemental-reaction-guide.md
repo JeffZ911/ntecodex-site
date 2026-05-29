@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Elemental Reaction Guide: Esper Cycles"
 slug: neverness-to-everness-elemental-reaction-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-elemental-reaction-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-elemental-reaction-guide/inline-1.webp
   - /img/neverness-to-everness-elemental-reaction-guide/inline-2.webp
   - /img/neverness-to-everness-elemental-reaction-guide/inline-3.webp
   - /img/neverness-to-everness-elemental-reaction-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the intricate combat systems of Hethereau requires more than just high-level gear; it demands a complete understanding of how different Espers interact on the battlefield.
 
@@ -34,7 +34,7 @@ Mastering the intricate combat systems of Hethereau requires more than just high
 
 Players arriving in the urban sprawl of Hethereau often find themselves overwhelmed by the fast-paced combat and the colorful status effects filling the screen. The most common questions regarding the combat system involve the specific mechanics of the "Esper Cycle." Unlike traditional elemental systems found in other open-world RPGs, Neverness to Everness (NTE) utilizes a rotational system that rewards specific character swap sequences.
 
-The primary concerns for players include:
+The primary concerns for players include
 *   What are the elemental reactions in Neverness to Everness (NTE), and how do they differ from "standard" elemental interactions?
 *   How does the Esper Cycle system work for combat, and what is the "Esper Wheel"?
 *   What are the specific combinations for Duo and Triple reactions, such as Blossom or Discord?
@@ -51,7 +51,7 @@ Elemental reactions in NTE are formally known as "Esper Cycles." These are not t
 
 There are six core elements in Neverness to Everness: Cosmos, Anima, Incantation, Chaos, Psyche, and Lakshana. These elements are arranged in a fixed hexagonal "Esper Wheel." A reaction can only occur between neighboring elements on this wheel. 
 
-The system is divided into two primary categories:
+The system is divided into two primary categories
 1.  **Duo Cycles:** These occur when you swap between two adjacent elements. There are six Duo Cycles: Remora, Blossom, Hexed, Scorch, Nova, and Stain.
 2.  **Triple Cycles:** These occur when you successfully chain three elements from a specific "Trio" (either the Top Trio or the Bottom Trio). These trigger the most powerful effects in the game: Charge and Discord.
 
@@ -79,7 +79,7 @@ To master combat in Neverness to Everness, you must internalize the layout of th
 
 ### Understanding the Esper Wheel
 
-The Esper Wheel is a fixed hexagonal loop. The order of elements is:
+The Esper Wheel is a fixed hexagonal loop. The order of elements is
 **Lakshana ↔ Cosmos ↔ Anima ↔ Incantation ↔ Chaos ↔ Psyche ↔ (Back to Lakshana)**
 
 If your active character is an Anima element (like [Nanally](/characters/nanally-guide-nte)) and you swap to a Cosmos character (like Zero), you trigger a reaction because they are neighbors. However, if you swap from Anima to Psyche, no reaction will trigger because they are across the wheel from each other. This makes team synergy more rigid than in other games, but far more explosive when executed correctly.
@@ -110,7 +110,7 @@ Duo Cycles are the bread and butter of your combat rotation. Each pair of adjace
 
 ### Triple Cycle Reactions: The Ultimate Combat Multiplier
 
-Triple Cycles are the advanced form of the Esper Cycle. To trigger these, you must rotate through three specific elements in a row without breaking the chain or waiting too long between swaps. The wheel is divided into two halves:
+Triple Cycles are the advanced form of the Esper Cycle. To trigger these, you must rotate through three specific elements in a row without breaking the chain or waiting too long between swaps. The wheel is divided into two halves
 
 #### 1. The Top Trio: Charge (Lakshana, Cosmos, Anima)
 When you cycle through these three elements in any order (as long as they are neighbors, e.g., Lakshana -> Cosmos -> Anima), you trigger **Charge**.
@@ -137,7 +137,7 @@ In Neverness to Everness, parrying an incoming attack doesn't just protect you; 
 
 ### Character Element Reference
 
-To help you build your team, here are the elements for current popular characters:
+To help you build your team, here are the elements for current popular characters
 
 *   **Cosmos:** Zero, Hotori
 *   **Anima:** Nanally, Jiuyuan
@@ -167,6 +167,6 @@ For more advanced strategies on how to maximize your efficiency in Hethereau, ch
 ## Sources
 - Neverness to Everness Official Website — https://nte.perfectworld.com/
 - Game8 Neverness to Everness Guide Hub — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Combat Mechanics — https://www.prydwen.gg/nte/
-- IGN: Neverness to Everness Elemental Reactions Explained — https://www.ign.com/wikis/neverness-to-everness/Elemental_Reactions_Guide
+- Prydwen Institute: NTE Combat Mechanics
+- IGN: Neverness to Everness Elemental Reactions Explained
 - Neverness to Everness Official Discord — https://discord.com/invite/nte

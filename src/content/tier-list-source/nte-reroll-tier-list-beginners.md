@@ -1,4 +1,4 @@
----
+--
 title: "NTE Reroll Tier List for Beginners: Best Characters (May 2026)"
 slug: nte-reroll-tier-list-beginners
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-reroll-tier-list-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-reroll-tier-list-beginners/inline-1.webp
   - /img/nte-reroll-tier-list-beginners/inline-2.webp
   - /img/nte-reroll-tier-list-beginners/inline-3.webp
   - /img/nte-reroll-tier-list-beginners/inline-4.webp
   - /img/nte-reroll-tier-list-beginners/inline-5.webp
   - /img/nte-reroll-tier-list-beginners/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Getting the perfect start in Neverness to Everness (NTE) can drastically change your early experience in the supernatural metropolis of Hethereau.
 
@@ -188,4 +188,4 @@ For now, the most effective strategy for beginners is to focus on a "Burst and B
 - IGN: Neverness to Everness Wiki & Guides — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Reroll Tier List — https://game8.co/games/NTE
 - Reddit: r/NTE_Official Community Theorycrafting — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

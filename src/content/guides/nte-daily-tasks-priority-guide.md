@@ -1,4 +1,4 @@
----
+--
 title: "NTE Daily Tasks Priority Guide: Best Nanally Build & Teams"
 slug: nte-daily-tasks-priority-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-daily-tasks-priority-guide
 sources: []
 game: unknown
 hero_image: /img/nte-daily-tasks-priority-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-daily-tasks-priority-guide/inline-1.webp
   - /img/nte-daily-tasks-priority-guide/inline-2.webp
   - /img/nte-daily-tasks-priority-guide/inline-3.webp
   - /img/nte-daily-tasks-priority-guide/inline-4.webp
   - /img/nte-daily-tasks-priority-guide/inline-5.webp
   - /img/nte-daily-tasks-priority-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your progression in Hethereau requires a strict focus on resource management and character synergy, especially following the release of the game's first limited S-Rank character. This NTE daily tasks priority guide breaks down the essential routine for maximizing [Nanally](/characters/nanally-guide-nte)’s potential and mastering the current combat meta.
 
@@ -108,7 +108,7 @@ Because Nanally triggers Blossom and Hexed constantly when paired with the right
 Each Cartridge has a specific shape. When placing them into Nanally's "Console," you must fit them together without overlapping. To maximize efficiency, focus on "Type III Modules." These specific blocks provide the highest stat density. Activating the "Console Bonus" requires filling at least 80% of the grid with matching module types, which grants a flat 8% Crit Rate increase.
 
 ### Recommended Substats Priority
-When farming for modules in daily Anomaly Zones, look for the following priority:
+When farming for modules in daily Anomaly Zones, look for the following priority
 1.  **Crit DMG:** Nanally's most important stat due to her built-in buffs.
 2.  **Crit Rate:** Necessary to ensure her high-damage hits actually crit.
 3.  **Anima DMG%:** Increases the base damage of all her abilities.
@@ -138,7 +138,7 @@ The current gold standard for high-end content is the Hyper Nanally composition.
 | Haniel | Cosmos | Healer | Blossom (Sustain) |
 
 ### Best F2P Team for Daily Progression
-If you are playing on a budget, you can still find success with:
+If you are playing on a budget, you can still find success with
 *   **Nanally** (Main DPS)
 *   **Zero** (Free Cosmos unit from story)
 *   **Haniel** (Healer/Support)
@@ -179,7 +179,7 @@ During the "Underboss" duration, avoid dodging unless absolutely necessary. Ever
 Nanally is a limited S-Rank character. She is currently only obtainable through the "Scarborough Fair" gacha banner. This banner uses "Gold Records" and has a 90-pull pity system. If you miss her now, you will have to wait for a future rerun, as she is not added to the standard "Urban Resonance" pool.
 
 ### What are the most important daily tasks for Nanally?
-To keep Nanally at peak performance, you must complete the following daily:
+To keep Nanally at peak performance, you must complete the following daily
 *   **Anomaly Zones:** Farm these to obtain "Bubble Cans" (level-up material) and "Fireflies and the Forest" Cartridges.
 *   **Beetle Coin Farming:** Participate in city activities and combat challenges to earn Beetle Coins, which are needed to buy refinement materials for the Oraora! Arc.
 *   **Beyond the Rail:** Complete your weekly attempts for high-tier Blocks to optimize your Tetris grid.
@@ -201,4 +201,4 @@ While "Fluff of Ferocity" provides roughly a 20% damage increase over F2P option
 - IGN: Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Character Tier List — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Database — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Database

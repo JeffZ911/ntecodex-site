@@ -1,4 +1,4 @@
----
+--
 title: "NTE Support Tier List for Endgame: Best Characters Ranked (May 2026)"
 slug: nte-support-tier-list-endgame
 article_type: tier_list
@@ -9,34 +9,34 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-support-tier-list-endgame/hero.webp
-inline_images:
+inline_images
   - /img/nte-support-tier-list-endgame/inline-1.webp
   - /img/nte-support-tier-list-endgame/inline-2.webp
   - /img/nte-support-tier-list-endgame/inline-3.webp
   - /img/nte-support-tier-list-endgame/inline-4.webp
   - /img/nte-support-tier-list-endgame/inline-5.webp
   - /img/nte-support-tier-list-endgame/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 As the metropolitan chaos of Hethereau reaches its peak, mastering the intricate Esper Cycle system is the only way to survive the punishing difficulty of the latest Anomaly Zones.
 
 # NTE Support Tier List for Endgame: The Ultimate Ranking
 
-In the current meta of Neverness to Everness (NTE), team building has shifted from raw damage output to the sophisticated management of elemental reactions and field control. With the release of the Version 1.0.x updates, the gap between generalist supports and specialized endgame enablers has widened significantly. High-level content like "Beyond the Rails" and "High Risk Commissions" requires more than just healing; it demands precise "Break" efficiency and the ability to manipulate the [Esper Cycle](https://www.ign.com/articles/neverness-to-everness-is-a-new-open-world-supernatural-rpg-from-the-tower-of-fantasy-devs) to trigger devastating reactions like Blossom and Scorch.
+In the current meta of Neverness to Everness (NTE), team building has shifted from raw damage output to the sophisticated management of elemental reactions and field control. With the release of the Version 1.0.x updates, the gap between generalist supports and specialized endgame enablers has widened significantly. High-level content like "Beyond the Rails" and "High Risk Commissions" requires more than just healing; it demands precise "Break" efficiency and the ability to manipulate the Esper Cycle to trigger devastating reactions like Blossom and Scorch.
 
 ## Methodology
 
 ![Methodology](/img/nte-support-tier-list-endgame/inline-1.webp)
 
 
-Ranking the best support characters for the NTE endgame involves analyzing how a unit contributes to the team's total "Clear Speed" and "Survivability" in environments where enemy Stagger Bars are exceptionally high. The following criteria define our rankings:
+Ranking the best support characters for the NTE endgame involves analyzing how a unit contributes to the team's total "Clear Speed" and "Survivability" in environments where enemy Stagger Bars are exceptionally high. The following criteria define our rankings
 
 *   **Buffing Potency:** The raw percentage increase to ATK, Crit DMG, or Elemental DMG provided to the main DPS.
 *   **Esper Cycle Synergy:** How effectively the unit applies elements (Anima, Cosmos, Incantation, Chaos) to facilitate high-frequency reactions.
@@ -98,7 +98,7 @@ Adler is more than just a tank; he is a core component of **Scorch** and **Disco
 ### Fadia & Hathor: Niche Synergy Specialists
 Fadia provides a unique form of survival through damage redirection and rapid Esper Meter charging. She is ideal for "Fast-Swap" playstyles where players rotate through characters every few seconds to keep buffs active. 
 
-Hathor, on the other hand, is the dedicated support for [Lakshana](https://www.ign.com/articles/neverness-to-everness-is-a-new-open-world-supernatural-rpg-from-the-tower-of-fantasy-devs) teams. Her passive ability extends the duration of the "Remora" effect to 12 seconds (up from the base duration). This extension is critical for maximizing the "Charge" triple-reaction window, which is currently one of the highest-dps windows available in the game.
+Hathor, on the other hand, is the dedicated support for Lakshana teams. Her passive ability extends the duration of the "Remora" effect to 12 seconds (up from the base duration). This extension is critical for maximizing the "Charge" triple-reaction window, which is currently one of the highest-dps windows available in the game.
 
 ## B Tier
 
@@ -149,8 +149,8 @@ As the game continues to evolve, the value of supports will remain tied to their
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/en/index.html
-- IGN: Neverness to Everness Announcement — https://www.ign.com/articles/neverness-to-everness-is-a-new-open-world-supernatural-rpg-from-the-tower-of-fantasy-devs
+- IGN: Neverness to Everness Announcement
 - GameSpot: NTE Urban Open World RPG — https://www.gamespot.com/articles/neverness-to-everness-is-an-urban-open-world-rpg-from-the-makers-of-tower-of-fantasy/1100-6525016/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character Database
 - Game8: NTE News and Release Info — https://game8.co/articles/neverness-to-everness-release-date-and-news
 - Reddit: r/NTE_NevernessToEverness — https://www.reddit.com/r/NTE_NevernessToEverness/

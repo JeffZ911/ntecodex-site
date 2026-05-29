@@ -1,4 +1,4 @@
----
+--
 title: "Best Support Disks for NTE: Tier List & Build Guide (2026)"
 slug: best-support-disks-nte-tier-list-20260520
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-disks-nte-tier-list-20260520/hero.webp
-inline_images:
+inline_images
   - /img/best-support-disks-nte-tier-list-20260520/inline-1.webp
   - /img/best-support-disks-nte-tier-list-20260520/inline-2.webp
   - /img/best-support-disks-nte-tier-list-20260520/inline-3.webp
   - /img/best-support-disks-nte-tier-list-20260520/inline-4.webp
   - /img/best-support-disks-nte-tier-list-20260520/inline-5.webp
   - /img/best-support-disks-nte-tier-list-20260520/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your Esper team in Neverness to Everness requires more than just high-level weapons; the right Support Disks dictate the flow of combat through energy regeneration and team-wide buffs. This tier list breaks down the current meta for support modules to help you clear high-rank Anomaly Commissions and Riftcrystal Mining Permits.
 
@@ -42,7 +42,7 @@ Ranking Support Disks in Neverness to Everness (NTE) involves evaluating how eff
 
 A top-tier Support Disk must provide utility that scales regardless of the enemy's elemental resistance. While offensive sets often fall in and out of favor based on the current boss rotation, support modules like Speedy Hedgehog remain relevant because they address the core mechanics of the NTE combat loop: energy and uptime.
 
-The primary criteria for this tier list include:
+The primary criteria for this tier list include
 *   **Team-Wide Buffing:** Does the 4-piece set bonus apply to all allies or only the wearer?
 *   **Energy Economy:** How much "Charge Efficiency" does the set provide to reduce the downtime between Ultimates?
 *   **Ease of Activation:** Can the buff be triggered by a simple Esper Ability, or does it require a complex sequence?
@@ -178,6 +178,6 @@ As the meta continues to evolve, the priority remains clear: focus on Charge Eff
 
 - Neverness to Everness Official Site — https://nte.hotta.games/
 - Game8 NTE Wiki and Database — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Section — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Section
 - IGN: Neverness to Everness Guide Hub — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/

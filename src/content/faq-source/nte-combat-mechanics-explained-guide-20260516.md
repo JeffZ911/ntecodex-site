@@ -1,4 +1,4 @@
----
+--
 title: "NTE Combat Mechanics Explained: Neverness to Everness Guide"
 slug: nte-combat-mechanics-explained-guide-20260516
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T15:07:45.666340+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-combat-mechanics-explained-guide-20260516/hero.webp
-inline_images:
+inline_images
   - /img/nte-combat-mechanics-explained-guide-20260516/inline-1.webp
   - /img/nte-combat-mechanics-explained-guide-20260516/inline-2.webp
   - /img/nte-combat-mechanics-explained-guide-20260516/inline-3.webp
   - /img/nte-combat-mechanics-explained-guide-20260516/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the fast-paced urban combat of Hethereau requires more than just quick reflexes; it demands a deep understanding of the Esper Cycle and how different elemental types interact on the battlefield.
 
@@ -30,7 +30,7 @@ Mastering the fast-paced urban combat of Hethereau requires more than just quick
 ![Question Restated](/img/nte-combat-mechanics-explained-guide-20260516/inline-1.webp)
 
 
-Players arriving in the supernatural metropolis of Hethereau often find themselves overwhelmed by the flashy, high-speed encounters. To succeed in the late-game challenges of Neverness to Everness, you must be able to answer three primary questions:
+Players arriving in the supernatural metropolis of Hethereau often find themselves overwhelmed by the flashy, high-speed encounters. To succeed in the late-game challenges of Neverness to Everness, you must be able to answer three primary questions
 
 *   What are the fundamental combat mechanics in Neverness to Everness (NTE)?
 *   How do the elemental "Esper" systems interact during battle to create reactions?
@@ -58,7 +58,7 @@ The combat in Neverness to Everness is layered, rewarding players who plan their
 
 Every character in NTE belongs to one of six Esper types. These types are not just for flavor; they dictate which elemental reactions you can trigger. The elements are arranged in a specific circular order known as the Esper Wheel. Reactions occur when you switch from one element to its immediate neighbor on the wheel.
 
-The six Esper types are:
+The six Esper types are
 1.  **Lakshana (Gold):** Often associated with physical reinforcement and metallic constructs.
 2.  **Cosmos (Silver):** Deals with spatial manipulation and light-based energy.
 3.  **Anima (Green):** Focused on biological growth, nature, and restoration.
@@ -120,7 +120,7 @@ Beneath an enemy's health bar is a white "Break" or "Stagger" meter. Reducing th
 
 ### Team Composition and Character Roles
 
-A functional team generally follows a specific structure to maximize the Esper Cycle:
+A functional team generally follows a specific structure to maximize the Esper Cycle
 
 *   **The Point (Main DPS):** The character who stays on field the longest to generate initial energy.
 *   **The Enablers (Sub-DPS):** Characters with fast-filling meters who can jump in, trigger a reaction, and leave.
@@ -144,6 +144,6 @@ Your combat stats are further modified by the "Console" system. You equip "Modul
 ## Sources
 
 *   Neverness to Everness Official Website — https://www.ntegame.com
-*   GameRant: Neverness to Everness Combat Guide — https://gamerant.com/neverness-to-everness-nte-combat-mechanics-guide/
-*   Neverness.gg Wiki — https://neverness.gg/wiki/combat-systems
+*   GameRant: Neverness to Everness Combat Guide
+*   Neverness.gg Wiki
 *   Reddit: r/NTE_Official Combat Deep Dive — https://www.reddit.com/r/NTE_Official/comments/1cd5f3/comprehensive_guide_to_esper_reactions/

@@ -1,4 +1,4 @@
----
+--
 title: "NTE Daily Tasks Priority List: The Ultimate Efficiency Tier List"
 slug: nte-daily-tasks-priority-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/nte-daily-tasks-priority-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-daily-tasks-priority-list/inline-1.webp
   - /img/nte-daily-tasks-priority-list/inline-2.webp
   - /img/nte-daily-tasks-priority-list/inline-3.webp
   - /img/nte-daily-tasks-priority-list/inline-4.webp
   - /img/nte-daily-tasks-priority-list/inline-5.webp
   - /img/nte-daily-tasks-priority-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your daily routine in Hethereau is the difference between a stalled account and a high-tier roster capable of clearing the latest Anomaly Zone challenges. Since its global release on April 29, 2026, Neverness to Everness (NTE) has introduced several interlocking systems that demand consistent attention to maximize premium currency and character growth.
 
@@ -167,7 +167,7 @@ Unlike Character Pixels, City Stamina is used for "Hethereau Hobbies" like racin
 The Pink Paws Heist is a mini-game that rewards Fons. Following a recent rework, the extraction points (Phone Booths) no longer close, making the mode much easier. However, the Fons-to-time ratio is lower than the Origen Cafe, making it a "filler" activity.
 
 **Daily Shop Refresh Items**
-Every day, the Mall refreshes a few items that are worth a quick click:
+Every day, the Mall refreshes a few items that are worth a quick click
 *   **Daily Free Module:** (1x) - Always claim this.
 *   **Discounted Fons:** (5,000 Fons for 100 Mhm! Coins) - Only buy if desperate.
 *   **Oracle Stone Radar:** Useful if you are hunting for permanent stat upgrades.
@@ -189,7 +189,7 @@ Previously, the Pink Paws Heist was a source of frustration due to the timed Pho
 The developers have scheduled a preview livestream for Version 1.1, titled "Dreamwalk Corridor," on May 23. This update is teased to feature new characters Lacrimosa and Chaos. It is highly recommended to save any excess Annulith earned from your daily tasks until the livestream reveals the kits and banners for the next phase.
 
 ### May 19 Hotfix Summary
-A critical hotfix was deployed on May 19 to address several community concerns:
+A critical hotfix was deployed on May 19 to address several community concerns
 *   **Jiuyuan’s Ultimate:** Fixed a bug where the damage would not scale correctly with certain Arcs.
 *   **Glider Issues:** Resolved an issue where the glider would fail to deploy after jumping from the Hethereau Tower.
 *   **Performance:** General stability improvements for the PlayStation 5 and PC versions during high-density city exploration.
@@ -201,4 +201,4 @@ By following this priority list, you ensure that your progression in Neverness t
 - Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
 - IGN: NTE Walkthrough and Daily Guide — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character and System Analysis — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character and System Analysis

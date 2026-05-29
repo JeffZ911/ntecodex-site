@@ -1,4 +1,4 @@
----
+--
 title: "How to Unlock Echo System in Wuthering Waves: Full Guide"
 slug: how-to-unlock-echo-system-wuthering-waves-20260513
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1379
 published_at: "2026-05-13T19:33:28.769252+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGHSR8yoY-Jt9yQqHCz5ivtog8uEftWuPhsJOSWhFVc4M_n-AzF5rDc8hA4yQBtDJsPR3hRsPHYcjeNziNs2npLFO2cVA9vvTLj5M_bkXuvJUfayWOcFa_-7MS6WYs5aR1HyImBRY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGSSJTlJNHdNByeAKPkFvoyAicJPz-r01AnMh5aKjvfKzCSAuIdL6RJWy40pZ6BvqgkyNg7YK445o-9gMcq-sb_IaL0sZpgK8J0CP1ItJuplC12QSrdhd5PS6haUOnmbC1ZxwtC_YwOKJT4y4MD9OCpc7o31MoQaA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIhmmm79YE3-_Z300SWNYPn2G9JQSrEMQ2jX3ZegDXvDsKTvV-MTGKM7yF3rAFGc3OHzqhwO7uMlgld-2_vO_sHawKqCQ7mG6EehCTX3ToH44-qF-zvJVqEw0xRpNkar_9eNUJdDk="
@@ -24,17 +24,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRO0ouA5mOqS5jMTO9_Kjz1iP8QNcrC5p9KVQlh4-oKzT-WppYv5-TXkjPhJMIAxNpPwQQK2n4wFanWBE9HSEFTx2QUvlLBaMvEUttyscLJCNT-h_tPVIyflQSxwAobA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFqHuCnC8fZtjJvZP79zSP86igOxuHXFweL7wZg4LbHGxtru7v742Lk1RTky4d5cLqIocEGxmYKe33E77lNitndPrKn5fPSC4vu5YckL_CkepwWm48Oh4z0jXJj8AilMbVyU6qC281NA6BUzvYJ0fCNmwDZsAJxUqIpHRQAt85YC8m-pBpgxAP5YX4zTiyOOHRQDEYt-KuvocY"
 hero_image: /img/how-to-unlock-echo-system-wuthering-waves-20260513/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-1.webp
   - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-2.webp
   - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-3.webp
   - /img/how-to-unlock-echo-system-wuthering-waves-20260513/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Capturing and equipping the souls of defeated enemies is the core progression mechanic in Wuthering Waves. You cannot progress far without these "Echoes," so knowing exactly when and how the system becomes available is essential for every new Rover.
 
@@ -70,7 +70,7 @@ The system is introduced through a scripted tutorial involving the characters **
 The Echo system is deeply integrated into the SOL3 world logic. Understanding how to unlock its full potential requires mastering the Data Bank, which acts as your collection level and determines the power of the gear you find.
 
 ### The Prologue Quest Walkthrough
-To reach the unlock point, follow these steps:
+To reach the unlock point, follow these steps
 1.  Complete the opening combat sequence and meet Yangyang and Chixia.
 2.  Follow the quest markers to reach the main hub city, Jinzhou.
 3.  Visit the Academy to meet Baizhi, who explains the nature of Tacet Discords and the Pangu Terminal.
@@ -143,9 +143,9 @@ To find specific Echoes, use the **Guidebook**. Under the "Echo Gallery" or "Det
 *   **Co-op Farming:** You can join a friend's world to farm Echoes. Loot is individual, meaning if an Echo drops for you, it does not take away the drop from your friend. This allows groups to clear the entire map daily for maximum Data Bank XP.
 
 ## Sources
-- thegamer.com — https://www.thegamer.com/wuthering-waves-complete-data-bank-guide-echo-exp/
+- thegamer.com
 - fandom.com — https://wutheringwaves.fandom.com/wiki/Data_Bank
-- prydwen.gg — https://www.prydwen.gg/wuthering-waves/guides/echo-system/
-- eurogamer.net — https://www.eurogamer.net/wuthering-waves-data-bank-data-dock-echo-gallery-sonata-gallery-explained
-- gamerant.com — https://gamerant.com/wuthering-waves-complete-echo-guide/
+- prydwen.gg
+- eurogamer.net
+- gamerant.com
 - wutheringlab.com — https://wutheringlab.com/wuthering-waves-echoes-list/

@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Daily Task Guide: Best Nanally Build"
 slug: neverness-to-everness-daily-task-guide-build
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 2136
 published_at: "2026-05-23T09:51:52.065836+00:00"
 published_url: /guides/neverness-to-everness-daily-task-guide-build
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4YWAEjA8n0ZLZMlXGpgFjrR0K8FgCwc76Ofw_MWvdHpUTB0v8h-uX3ZMJn8PvyT2ekNmeplt-6Bgc1REqS8T3aWI4r0S6CMAYz9p_8KRQKToxL1r4KDtsaqnDbjbG-GM8UHSi3QSBGcrVgIFD77-et-kGL3XiZ35Yj1gBT7g1238TVK-iRtXEWOXqG_855AqDfRvjdZGfbVzc"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGroOJtHD2mmTcrUOmmswFCW5Esa7QBJLiL8WFmkfuISz0juzhp4yUIzVYt2maV8r-YrlORZKg7hAz5NnB7xwy_8e6CIn-AYsmc2n0GK7j0hstsLMl4pOrOHTCFYAWC2491cj22BTJw39h39uqJSoz7zpGvOVNNhQeWzw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESmujvxjTLJjplaHp8mVLC8XiQnPUbzZY4IPla2kZ-cT-so9GqRv3DL5u0mSrOTKbU_0F3xpvfm4L1tMHw5zcyzKZfsDUfgjuG2lP8EJxfVg_e05Hrq3mmfK3KiWINkFIEcaaxlQX83N67EXmLgA=="
@@ -35,21 +35,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrY4rV5naZ6X9m63_rqe4gG85PSm5rRAxl0i1joh-Qf4E1E5VK-YQjb7kBiTLwsaOPcoQ5HOe7-mx1Rjm4Xa9_kEdSXfRmgdskXNwQh2w5pb9NfToWwFIdRg=="
 game: unknown
 hero_image: /img/neverness-to-everness-daily-task-guide-build/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-daily-task-guide-build/inline-1.webp
   - /img/neverness-to-everness-daily-task-guide-build/inline-2.webp
   - /img/neverness-to-everness-daily-task-guide-build/inline-3.webp
   - /img/neverness-to-everness-daily-task-guide-build/inline-4.webp
   - /img/neverness-to-everness-daily-task-guide-build/inline-5.webp
   - /img/neverness-to-everness-daily-task-guide-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Maximizing your progression in Hethereau requires a disciplined approach to the daily grind, especially when trying to keep up with the resource demands of top-tier Espers. With the right setup, you can transform your daily chores into a rapid, five-minute routine that fuels your account with the Annulith and Fons needed for high-level play.
 
@@ -74,7 +74,7 @@ Nanally’s kit is designed for high-frequency hits and autonomous damage. Her p
 
 ### The 5-Minute Daily Routine Checklist
 
-To hit your 100 Participation Points quickly, follow this optimized path:
+To hit your 100 Participation Points quickly, follow this optimized path
 
 1.  **Login and Fortune:** Head to the Witch's House to receive your daily fortune. This provides a minor buff and counts toward your daily activity.
 2.  **Cafe Restock:** Visit the City Tycoon Cafe. Collect your accumulated Fons and restock the ingredients. Managing your business is a high-value task that provides passive income while you are offline.
@@ -91,7 +91,7 @@ To hit your 100 Participation Points quickly, follow this optimized path:
 | Use Ultimate 3 Times | 10 Points | Once Daily |
 | Complete 1 Circle Bounty | 10 Points | Once Daily |
 
-The daily reset occurs at 5:00 AM server time for all regions. Depending on your specific server, the local times are:
+The daily reset occurs at 5:00 AM server time for all regions. Depending on your specific server, the local times are
 *   **North America (NA):** 5:00 AM EST (2:00 AM PST)
 *   **Europe (EU):** 5:00 AM GMT+1 (6:00 AM CET)
 *   **Asia (AS):** 5:00 AM GMT+8 (China Standard Time)
@@ -168,7 +168,7 @@ The current meta for efficient daily farming consists of Nanally, [Sakiri](/char
 
 ### F2P-Friendly Daily Task Team
 
-If you are a new player or haven't pulled S-Rank supports, use this configuration:
+If you are a new player or haven't pulled S-Rank supports, use this configuration
 *   **Nanally** (Main DPS)
 *   **Esper Zero** (Cosmos/Reaction)
 *   **Mint** (Anima/Sub-DPS)
@@ -225,8 +225,8 @@ Early on, prioritize spending Fons on upgrading your Arcs and leveling up Nanall
 ## Sources
 
 - Icy Veins — https://www.icy-veins.com/nte/characters/nanally-build-guide/
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/nanally-best-build-arcs-team
-- Mobalytics — https://mobalytics.gg/neverness-to-everness/builds/nanally
+- GameWith
+- Mobalytics
 - Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-nanally-build-guide-arcs-team-comps
-- Games.gg — https://www.games.gg/neverness-to-everness/character-pixels-guide/
-- Gamerant — https://gamerant.com/neverness-to-everness-daily-reset-time-guide/
+- Games.gg
+- Gamerant

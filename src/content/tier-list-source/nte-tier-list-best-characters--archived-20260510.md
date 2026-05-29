@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Tier List: Best Characters (May 2026)"
 slug: nte-tier-list-best-characters--archived-20260510
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T02:24:59.710862+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-tier-list-best-characters--archived-20260510/hero.webp
-inline_images:
+inline_images
   - /img/nte-tier-list-best-characters--archived-20260510/inline-1.webp
   - /img/nte-tier-list-best-characters--archived-20260510/inline-2.webp
   - /img/nte-tier-list-best-characters--archived-20260510/inline-3.webp
   - /img/nte-tier-list-best-characters--archived-20260510/inline-4.webp
   - /img/nte-tier-list-best-characters--archived-20260510/inline-5.webp
   - /img/nte-tier-list-best-characters--archived-20260510/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Mastering the urban anomalies of Hethereau requires a team of Espers capable of handling high-speed combat and complex elemental synergies. This Neverness to Everness (NTE) tier list ranks every character available at launch to help you prioritize your resources for the most challenging content in Beyond the Rails and Fracture Circle.
 
@@ -66,11 +66,11 @@ The core of NTE combat revolves around the six elemental attributes: **Anima, Ch
 *   **Sub-DPS:** Units that provide off-field damage or quick-swap burst abilities to maintain pressure.
 *   **Sustain/Support:** Espers focused on healing, shielding, or providing massive ATK and Energy buffs to the rest of the party.
 
----
+--
 
 !A comprehensive infographic showing all Neverness to Everness characters ranked from S to C Tier with their Esper elements.
 
----
+--
 
 ## S Tier
 
@@ -110,11 +110,11 @@ Daffodill (**Chaos**) is the game's premier "Breaker." In NTE, bosses have a **B
 | **Jiuyuan** | Anima | Burst DPS | 9/10 | 6/10 |
 | **Daffodill** | Chaos | Breaker | 8/10 | 8/10 |
 
----
+--
 
 !Gameplay screenshot of Nanally and Sakiri performing a Blossom reaction in Hethereau.
 
----
+--
 
 ## A Tier
 
@@ -180,7 +180,7 @@ Aurelia (**Psyche**) is provided as a 3-day login reward. She offers basic heali
 C-Tier characters currently struggle to find a place in the meta due to low numbers or kits that don't synergize well with the current elemental reactions.
 
 ### Why Edgar Struggles in the Current Meta
-Edgar (**Cosmos**) is currently the lowest-performing unit. As a sustain-oriented character in the Cosmos attribute, he faces two major problems:
+Edgar (**Cosmos**) is currently the lowest-performing unit. As a sustain-oriented character in the Cosmos attribute, he faces two major problems
 1.  His healing is tied to his heavy attacks, which are slow and leave him vulnerable.
 2.  The Cosmos attribute is better utilized for Nova reactions (DPS), making a defensive Cosmos unit feel like a wasted slot in a 3-person team.
 
@@ -205,6 +205,6 @@ Looking ahead to June 2026, Version 1.1 is rumored to bring **Lacrimosa (Chaos)*
 ## Sources
 - Neverness to Everness Official Site — https://nte.hottagames.com/
 - Neverness to Everness Official Discord — https://discord.com/invite/nte
-- Beebom: Neverness to Everness Release Date & Characters — https://beebom.com/neverness-to-everness-release-date-platforms-trailers-more/
+- Beebom: Neverness to Everness Release Date & Characters
 - IGN: Neverness to Everness Reveal and Gameplay — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

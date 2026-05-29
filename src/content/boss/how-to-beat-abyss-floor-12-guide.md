@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Abyss Floor 12: Genshin Impact Strategy Guide"
 slug: how-to-beat-abyss-floor-12-guide
 game: genshin
@@ -9,19 +9,19 @@ published_at: "2026-05-15T15:22:52.793490+00:00"
 published_url: /boss/how-to-beat-abyss-floor-12-guide
 sources: []
 hero_image: /img/how-to-beat-abyss-floor-12-guide/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-abyss-floor-12-guide/inline-1.webp
   - /img/how-to-beat-abyss-floor-12-guide/inline-2.webp
   - /img/how-to-beat-abyss-floor-12-guide/inline-3.webp
   - /img/how-to-beat-abyss-floor-12-guide/inline-4.webp
   - /img/how-to-beat-abyss-floor-12-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Clearing the Spiral Abyss Floor 12 remains the ultimate test of a traveler's roster strength and mechanical execution. Achieving a full 36-star clear requires more than just high-level characters; it demands a deep understanding of enemy resistances, shield-breaking mechanics, and precise rotation timing.
 
@@ -65,7 +65,7 @@ Understanding boss behavior is the difference between a successful run and a tea
 
 The Algorithm of Semi-Intransient Matrix of Overseer Network (ASIMON) begins the fight by firing its components and entering an invisible state. While invisible, ASIMON gains massive resistance to all damage. 
 
-To force it out of this state, you have two options:
+To force it out of this state, you have two options
 1.  **Catalyze Reaction:** Hit the invisible core directly with a Quicken, Aggravate, or Spread reaction (Dendro + Electro). This immediately stuns the boss and ends the invisibility phase.
 2.  **Component Destruction:** Destroy the white-bar components it leaves behind. Once destroyed, the boss will attempt to repair them with green energy. Hitting these repairing parts with Electro will also force the boss out of invisibility and into a paralyzed state.
 
@@ -135,7 +135,7 @@ Another strong F2P option is the "National" variant using Sucrose instead of Rai
 
 ### Elemental Requirements for Current Rotation
 
-When selecting your teams, check the "Elemental Nodes" in the Abyss menu. For the current rotation:
+When selecting your teams, check the "Elemental Nodes" in the Abyss menu. For the current rotation
 *   **First Half:** Requires Dendro and Electro to handle ASIMON.
 *   **Second Half:** Requires heavy Hydro to break Pyro shields and Pneuma/Ousia units to manage the Icewind Suite's mechanics.
 
@@ -171,7 +171,7 @@ Maximizing your clear efficiency often depends on having the **best artifacts fo
 - Genshin Impact Official Site — https://genshin.hoyoverse.com/en/news
 - Genshin Impact Wiki (Fandom) — https://genshin-impact.fandom.com/wiki/Spiral_Abyss/Floor_12
 - Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact/archives/304724
-- Prydwen Institute Genshin Hub — https://www.prydwen.gg/genshin/
+- Prydwen Institute Genshin Hub
 - KeqingMains (KQM) Theorycrafting Library — https://keqingmains.com/
 - Sportskeeda Gaming — https://www.sportskeeda.com/esports/genshin-impact-spiral-abyss-floor-12-guide-v4-6-enemies-tips-teams
-- Lootbar Genshin Guides — https://www.lootbar.gg/blog/genshin-impact-4-6-spiral-abyss-floor-12-strategy-guide-best-teams-and-tips-for-36-stars
+- Lootbar Genshin Guides

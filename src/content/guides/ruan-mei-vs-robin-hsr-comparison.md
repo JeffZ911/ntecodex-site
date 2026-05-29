@@ -1,4 +1,4 @@
----
+--
 title: "Ruan Mei vs. Robin: Which Harmony Support is Best in HSR?"
 slug: ruan-mei-vs-robin-hsr-comparison
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:35:32.670561+00:00"
 published_url: /guides/ruan-mei-vs-robin-hsr-comparison
 sources: []
 hero_image: /img/ruan-mei-vs-robin-hsr-comparison/hero.webp
-inline_images:
+inline_images
   - /img/ruan-mei-vs-robin-hsr-comparison/inline-1.webp
   - /img/ruan-mei-vs-robin-hsr-comparison/inline-2.webp
   - /img/ruan-mei-vs-robin-hsr-comparison/inline-3.webp
   - /img/ruan-mei-vs-robin-hsr-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing the right limited Harmony character can define the ceiling of your account’s performance in the Memory of Chaos and Apocalyptic Shadow.
 
@@ -103,14 +103,14 @@ Robin is much more demanding. Her Ultimate has a massive 160 Energy cost. While 
 Both Ruan Mei and Robin are S+ tier units that define the modern *Honkai: Star Rail* meta. Choosing between them requires an honest look at your current roster and your future pulling plans.
 
 ### Who Should Pull Ruan Mei?
-You should prioritize Ruan Mei if:
+You should prioritize Ruan Mei if
 *   **You own Firefly or Boothill:** She is the single most important teammate for these characters.
 *   **You prefer "Comfort" over "Complexity":** Ruan Mei’s 3-turn rotation and SP positivity make team building much easier.
 *   **You run DoT teams:** While Robin works, Ruan Mei’s RES PEN is generally more valuable for Kafka and Black Swan.
 *   **You need a generalist:** If you don't have a specific team archetype yet, Ruan Mei fits into every single team in the game (including FUA).
 
 ### Who Should Pull Robin?
-You should prioritize Robin if:
+You should prioritize Robin if
 *   **You own Feixiao, Dr. Ratio, or Topaz:** Robin is the "missing piece" that elevates FUA teams from good to broken.
 *   **You care about Zero-Cycling:** If you enjoy the challenge of clearing Memory of Chaos in 0 or 1 cycles, Robin’s team-wide Action Advance is the most powerful tool at your disposal.
 *   **You use Yunli or Clara:** Robin’s Physical typing and massive ATK buffs synergize perfectly with Physical counter-attackers.
@@ -129,5 +129,5 @@ Ultimately, the "Ruan Mei vs. Robin" debate is a win-win for players. Both chara
 - Prydwen Institute - Ruan Mei Guide & Review — https://www.prydwen.gg/star-rail/characters/ruan-mei
 - Prydwen Institute - Robin Guide & Review — https://www.prydwen.gg/star-rail/characters/robin
 - Game8 - Honkai Star Rail Best Support Tier List — https://game8.co/games/Honkai-Star-Rail/archives/405905
-- KeqingMains (KQM) - Ruan Mei Full Guide — https://keqingmains.com/hsr/ruan-mei/
-- KeqingMains (KQM) - Robin Full Guide — https://keqingmains.com/hsr/robin/
+- KeqingMains (KQM) - Ruan Mei Full Guide
+- KeqingMains (KQM) - Robin Full Guide

@@ -1,4 +1,4 @@
----
+--
 title: How Does Pity Work in Neverness to Everness (NTE)? vs WuWa Guide
 slug: how-does-pity-work-wuwa-neverness-to-everness
 game: wuthering_waves
@@ -7,7 +7,7 @@ qa_score: 8.3
 word_count: 1571
 published_at: "2026-05-12T04:49:47.834545+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ7NhMsUYt5sNxCbWt36j0yyePzVbQqf5NDvhd1tPyLd2z-uMfWDKdBPugxF1ZNPgvCv0f5uDMznwXJXzBA8XEhJAaPQrLYXYYfrJhGPSNB9PnOoJ_CFEGbG-IKGdk0XUBlc5BJU8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQgWuWYgbM0oCuGStIVS_6jbK8ySU3HBRPCbph8rUxJUfIlwMrNVxJ_bLa9OO5ZC2mmSlHhaJkNQEfvK53sDSvefaf5j1WUbl1SgAPinYJGwZEZI3L4YwCRA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE9jmucgUAAtrgKtfynY7cs3vOf0iJfyVB_8Hcajo0bZYDt5qU5qVkcEdWYemnxgTpcKOTOFUn0kL6T6rwSXKTkr8Te2zqjSFxv41wz72YHouq4UePMnv1W_fphzMfUeRxtDzbjByK6gm_YcfFhS3bDdizPu_FlYE="
@@ -24,17 +24,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8vLKwteV7KZMLi21DEqTKsvrF98GUK8kVfW2pMn5FEA2s9QxQ4pVQDIoEOUvh0-rXrir69rjAQwTcIHDM51CPu8fHD_l7oDdmBarBFXu5Cl1QYioF4r9CgQztJWFpTrMgywgMOxv-Loet2jndqAWo1m8Bpl8IqOOQxI3qA6bvlEGJ7X8YzaGnfFSQNPq4VUuHmTDE"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHELizXOUDeUkXf1jf46sLmrvkZ8jBvrSpRfY692IuL-5xEJpH1zmZodTZ5ZNOe7p4Ai6xV9WYiUmTZg0o5WNBDmQEzAdSYlRCFM4WFH9lonfQ7K3raz36qdeLJsE4z60-584qFzWxVqfPOALE3y95dmuPAXeXIr_UPNNXn6V6x"
 hero_image: /img/how-does-pity-work-wuwa-neverness-to-everness/hero.webp
-inline_images:
+inline_images
   - /img/how-does-pity-work-wuwa-neverness-to-everness/inline-1.webp
   - /img/how-does-pity-work-wuwa-neverness-to-everness/inline-2.webp
   - /img/how-does-pity-work-wuwa-neverness-to-everness/inline-3.webp
   - /img/how-does-pity-work-wuwa-neverness-to-everness/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 As players transition from the post-apocalyptic landscapes of Solaris-3 to the bustling urban supernatural world of Hethereau, understanding the economic shift in gacha mechanics is essential for efficient resource management.
 
@@ -93,7 +93,7 @@ In Neverness to Everness, there is no such risk. Every S-class character obtaine
 
 Weapons in NTE are called Arcs and are pulled through the **Arc Research Program**. This banner uses a different currency called **Tri-Keys**. A unique restriction of the Arc Research Program is that it only allows 10-pulls; single rolls are not available.
 
-The pity mechanics for Arcs are as follows:
+The pity mechanics for Arcs are as follows
 *   **Base S-class Rate:** 3% (significantly higher than character rates).
 *   **Soft Pity:** At 60 pulls (6 multis), you are guaranteed an S-class Arc.
 *   **Hard Pity:** While the first S-class Arc only has a 25% chance of being the featured signature weapon, the system guarantees the featured Arc by the 80th pull.
@@ -112,7 +112,7 @@ Character and Arc pity, conversely, carry over perfectly. If you are at 75/90 pi
 
 The Standard Board is the permanent banner in NTE, featuring a pool of six launch S-class characters: **[Sakiri](/characters/sakiri-nte-free-5-star-guide), Baicang, Hathor, Fadia, Daffodil, and Jiuyuan**. 
 
-To help new players, the Standard Board offers two major bonuses:
+To help new players, the Standard Board offers two major bonuses
 1.  **20% Discount:** The first five 10-pulls (50 pulls total) are discounted. You only need 8 Fabricated Dice for a 10-pull instead of 10.
 2.  **S-Class Selector:** After completing your 50th pull on the Standard Board, you unlock a one-time selector. This allows you to choose any one of the six standard S-class characters for free. 
 
@@ -141,9 +141,9 @@ When deciding where to invest your pity, the current meta heavily favors univers
 You do not always need to spend Tri-Keys to get powerful weapons. Several S-class Arcs can be obtained for free by defeating world bosses and clearing high-level Anomaly zones. These overworld Arcs are often specialized for specific roles, such as the "Dangerous Game" Arc which excels in low-HP high-risk builds. Managing your resources by using free Arcs on support characters allows you to save your Tri-Keys exclusively for the signature Arcs of your main damage dealers.
 
 ## Sources
-- neverness.gg — https://neverness.gg/guides/gacha-pity-explained
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-banners-gacha-explained/
+- neverness.gg
+- pcgamer.com
 - icy-veins.com — https://www.icy-veins.com/nte/guides/gacha-guide/
-- dexerto.com — https://www.dexerto.com/gaming/neverness-to-everness-gacha-pity-system-explained-2734121/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/45120
+- dexerto.com
+- gamewith.net
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-1-0-banner-guide-nanally-vs-hotori/

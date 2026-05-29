@@ -1,4 +1,4 @@
----
+--
 title: How to Defeat Elite Enemies in Neverness to Everness (NTE)
 slug: how-to-defeat-elite-enemies-nte-20260516
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-16T15:07:46.642497+00:00"
 published_url: /boss/how-to-defeat-elite-enemies-nte-20260516
 sources: []
 hero_image: /img/how-to-defeat-elite-enemies-nte-20260516/hero.webp
-inline_images:
+inline_images
   - /img/how-to-defeat-elite-enemies-nte-20260516/inline-1.webp
   - /img/how-to-defeat-elite-enemies-nte-20260516/inline-2.webp
   - /img/how-to-defeat-elite-enemies-nte-20260516/inline-3.webp
   - /img/how-to-defeat-elite-enemies-nte-20260516/inline-4.webp
   - /img/how-to-defeat-elite-enemies-nte-20260516/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Conquering the supernatural anomalies haunting the streets of Hethereau requires a blend of rhythmic precision and tactical team building.
 
@@ -201,6 +201,6 @@ World Bosses like the "Fons" entities offer unique weapon materials, such as the
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 - Game8 NTE Guide — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute NTE Database — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Database
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 - IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/

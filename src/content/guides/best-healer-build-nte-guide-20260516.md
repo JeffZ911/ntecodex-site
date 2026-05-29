@@ -1,4 +1,4 @@
----
+--
 title: "Best Healer Build in Neverness to Everness: Top Support Guide"
 slug: best-healer-build-nte-guide-20260516
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-16T09:30:25.544114+00:00"
 published_url: /guides/best-healer-build-nte-guide-20260516
 sources: []
 hero_image: /img/best-healer-build-nte-guide-20260516/hero.webp
-inline_images:
+inline_images
   - /img/best-healer-build-nte-guide-20260516/inline-1.webp
   - /img/best-healer-build-nte-guide-20260516/inline-2.webp
   - /img/best-healer-build-nte-guide-20260516/inline-3.webp
   - /img/best-healer-build-nte-guide-20260516/inline-4.webp
   - /img/best-healer-build-nte-guide-20260516/inline-5.webp
   - /img/best-healer-build-nte-guide-20260516/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 In the high-stakes urban combat of Hethereau, maintaining your team's HP is the difference between clearing a Distorted Node and facing a total party wipe. This guide breaks down the best healer builds in Neverness to Everness (NTE), focusing on maximizing sustain through the game's unique Esper Cycle mechanics.
 
@@ -106,7 +106,7 @@ Jiuyuan requires a different approach. Since her sustain is tied to "Anima Deton
 
 ### Module Stat Priority
 
-Modules are categorized by "Types" in the Console. To maximize a healer's efficiency, follow this priority:
+Modules are categorized by "Types" in the Console. To maximize a healer's efficiency, follow this priority
 
 1.  **Type III Modules (Offensive/Scaling):** Focus on ATK% for Zero and Jiuyuan. For Edgar, look for flat HP or HP% increases.
 2.  **Type II Modules (Utility):** Focus on **Cycle Intensity**. This is a critical secondary stat that determines how quickly your character contributes to the Esper Cycle. High Cycle Intensity means more frequent reactions, which triggers more passive healing.
@@ -215,9 +215,9 @@ It is possible but difficult. High-level players often use Adler's shields combi
 ## Sources
 
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
-*   PC Gamer: NTE Launch Guide — https://www.pcgamer.com/games/rpg/neverness-to-everness-everything-we-know/
-*   Mobalytics: NTE Character Tier List — https://mobalytics.gg/blog/neverness-to-everness-tier-list/
+*   PC Gamer: NTE Launch Guide
+*   Mobalytics: NTE Character Tier List
 *   Icy Veins: NTE Combat Mechanics — https://www.icy-veins.com/nte/combat-guide-esper-cycle/
-*   Neverness.gg Database — https://neverness.gg/characters/jiuyuan/
-*   Games.gg: Best Arcs for Supports — https://games.gg/nte/best-arcs-guide/
-*   Kaiden.gg: Console and Module Optimization — https://kaiden.gg/nte/console-module-guide/
+*   Neverness.gg Database
+*   Games.gg: Best Arcs for Supports
+*   Kaiden.gg: Console and Module Optimization

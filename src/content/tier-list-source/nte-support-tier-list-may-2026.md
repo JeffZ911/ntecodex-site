@@ -1,4 +1,4 @@
----
+--
 title: "NTE Support Tier List: Best Characters Ranked (May 2026)"
 slug: nte-support-tier-list-may-2026
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.1
 word_count: 2134
 published_at: "2026-05-23T12:12:16.777750+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmxM4D8zqS9-YBJ0aIGHT2AaoiXWnGe0HnaffCbrRPp7dH25b9vYIO3xyLb_bv9P5EOgtCGD0qEsJLymvqypxjP6h6U3pVfTt1GgxpO8zP69YtdnGqITapzIKYk8yGEb53tGnVGNcxHJzPG8Gkict01qQKWhUGJ8T9QQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHatlUxoNolpgW7kuUf2e0K_qNAKqH5UigOoEoS8JEcZeZJtL2vcZ_5ss5Hbr9iLGXi4nrGzOu54Nv80gLT4MD3snOcQuVrwu-usTBShZngJejQ6Z8ihYCnBJSjFoOFF7kPHHY3_TpJefn8JJYy361FdY3K77NAx4MHfqgsgJW8ZoBLhYtlNlqQ1j6RqtUNVak5C35bFIGroBG4gCWS"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfcVuujNYt1g8IdvDcAjSSMl4C1EIU1MZlmENTNfDvKyWfu0n3J3V1U8vPcRHPg0F15S1J4F2JFqeK_IEq1aavtxr00yW4Vnuh5x_mer325-J6fo_MESCH7K6vFi_gjMisN-dvy4YzrMgjzO-HmjbtFNfOzp5GHQ=="
@@ -27,21 +27,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7FVuYiNEJx1HcgvNYfddY3Fcs5YSE2vTXd1qXVYELCmcbltAphr9WAJ9UlleEnSmpt8WFoOcwZKpkUEwPMyOxNv9XXAW1man7pERnyuAW9VT4MLbOBc7YJh-6kJ2dpvRsSARWhHH1AeL7CNGYO2F27_XzbExB2ujaq4288R5yDEU="
 game: unknown
 hero_image: /img/nte-support-tier-list-may-2026/hero.webp
-inline_images:
+inline_images
   - /img/nte-support-tier-list-may-2026/inline-1.webp
   - /img/nte-support-tier-list-may-2026/inline-2.webp
   - /img/nte-support-tier-list-may-2026/inline-3.webp
   - /img/nte-support-tier-list-may-2026/inline-4.webp
   - /img/nte-support-tier-list-may-2026/inline-5.webp
   - /img/nte-support-tier-list-may-2026/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Selecting the right support roster in Neverness to Everness (NTE) is the difference between struggling against level 90 Anomalies and clearing them with minutes to spare. As the meta settles following the massive May 13 update, the priority for support units has shifted from simple healing to a complex balance of "Break Intensity" and "Esper Cycle" manipulation.
 
@@ -216,14 +216,14 @@ By focusing your resources on S and A-tier supports like Sakiri and Haniel, you 
 ## Sources
 
 - sportskeeda.com — https://www.sportskeeda.com/esports/nte-hotori-release-date-gameplay-details
-- indiatimes.com — https://economictimes.indiatimes.com/news/international/us/nte-hotori-release-date-abilities-gameplay-details-and-banner-schedule-explained/articleshow/109951167.cms
+- indiatimes.com
 - gosugamers.net — https://www.gosugamers.net/gaming/news/71239-here-are-all-the-neverness-to-everness-nte-launch-characters-and-how-to-obtain-them
-- neverness.gg — https://neverness.gg/characters/daffodill/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness/esper-cycle-elements-guide/
+- neverness.gg
+- mobalytics.gg
 - icy-veins.com — https://www.icy-veins.com/nte/esper-cycles-guide
-- kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions-guide/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-best-sakiri-build-team/
+- kaiden.gg
+- thegamer.com
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-sakiri-build-guide-en.html
 - ldshop.gg — https://www.ldshop.gg/news/nte-daffodill-best-build-guide
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/all-characters-in-neverness-to-everness-2749201/
+- dexerto.com
 - fandom.com — https://neverness-to-everness.fandom.com/wiki/Sakiri

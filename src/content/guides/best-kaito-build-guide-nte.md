@@ -1,4 +1,4 @@
----
+--
 title: "Best Kaito Build Guide: Weapons, Cartridges, and Teams (NTE)"
 slug: best-kaito-build-guide-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-18T04:20:30.456922+00:00"
 published_url: /guides/best-kaito-build-guide-nte
 sources: []
 hero_image: /img/best-kaito-build-guide-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-kaito-build-guide-nte/inline-1.webp
   - /img/best-kaito-build-guide-nte/inline-2.webp
   - /img/best-kaito-build-guide-nte/inline-3.webp
   - /img/best-kaito-build-guide-nte/inline-4.webp
   - /img/best-kaito-build-guide-nte/inline-5.webp
   - /img/best-kaito-build-guide-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your early-game progression in Hethereau requires a solid understanding of how to maximize transitional units like Kaito before moving into high-tier banners.
 
@@ -100,7 +100,7 @@ The Best 4-Piece Cartridge Set for Kaito is [information unavailable]. However, 
 
 ### Module Stat Priority
 
-When filling the remaining slots in the Console grid with Modules, focus on the following stat priority:
+When filling the remaining slots in the Console grid with Modules, focus on the following stat priority
 
 1.  **[information unavailable]**
 2.  **Crit Rate**
@@ -174,6 +174,6 @@ As a B-tier character, Kaito is [information unavailable] compared to top-tier u
 
 - Neverness to Everness Official Website — https://nte.perfectworld.com/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
-- IGN: Neverness to Everness Everything We Know — https://www.ign.com/articles/neverness-to-everness-everything-we-know
+- IGN: Neverness to Everness Everything We Know
 - Official NTE Discord — https://discord.com/invite/nte
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

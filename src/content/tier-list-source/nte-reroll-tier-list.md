@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness (NTE) Reroll Tier List: Best Characters"
 slug: nte-reroll-tier-list
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-14T16:20:24.663791+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-reroll-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-reroll-tier-list/inline-1.webp
   - /img/nte-reroll-tier-list/inline-2.webp
   - /img/nte-reroll-tier-list/inline-3.webp
   - /img/nte-reroll-tier-list/inline-4.webp
   - /img/nte-reroll-tier-list/inline-5.webp
   - /img/nte-reroll-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Securing a powerful start in Hethereau significantly impacts your progression speed and resource management. This Neverness to Everness (NTE) reroll tier list identifies the best characters to target during the launch window and Version 1.0 Phase 2.
 
@@ -169,7 +169,7 @@ With Nanally's "The Ichi-daime" banner now concluded, she has moved into the sta
 
 ### Version 1.1 Preview: Lacrimosa and Chaos
 
-Hotta Studio has officially previewed Version 1.1, scheduled for early June 2026. This update will introduce:
+Hotta Studio has officially previewed Version 1.1, scheduled for early June 2026. This update will introduce
 1.  **Lacrimosa**: An S-Rank Chaos/Liquid unit rumored to be a "Life-loss" based DPS.
 2.  **Chaos**: An S-Rank Lakshana/Plasma unit who will likely be the first dedicated Plasma Main DPS.
 
@@ -185,6 +185,6 @@ Players who are unsatisfied with the current Solid-heavy meta may want to save t
 
 - neverness.gg — https://neverness.gg
 - kaiden.gg — https://kaiden.gg
-- prydwen.gg — https://www.prydwen.gg/nte/
+- prydwen.gg
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - NTE Official Discord — https://discord.com/invite/nte

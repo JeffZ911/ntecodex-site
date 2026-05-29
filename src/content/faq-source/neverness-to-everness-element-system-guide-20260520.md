@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Element System Guide: Esper Cycles"
 slug: neverness-to-everness-element-system-guide-20260520
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-element-system-guide-20260520/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-element-system-guide-20260520/inline-1.webp
   - /img/neverness-to-everness-element-system-guide-20260520/inline-2.webp
   - /img/neverness-to-everness-element-system-guide-20260520/inline-3.webp
   - /img/neverness-to-everness-element-system-guide-20260520/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Understanding the intricate elemental interactions in Neverness to Everness is the difference between struggling against urban anomalies and dominating the streets of Hethereau.
 
@@ -67,7 +67,7 @@ Each of the six elements in Hethereau represents a different facet of the supern
 
 ### The Esper Wheel: Understanding the Adjacency Rule
 
-The most critical rule in Neverness to Everness is the Adjacency Rule. Elements are arranged in a fixed circular order: 
+The most critical rule in Neverness to Everness is the Adjacency Rule. Elements are arranged in a fixed circular order
 
 **Lakshana → Cosmos → Anima → Incantation → Chaos → Psyche → (Back to Lakshana)**
 
@@ -145,11 +145,11 @@ Mastering these traversal abilities is just as important as mastering the combat
 
 ## Sources
 
-- kaiden.gg — https://kaiden.gg/neverness-to-everness/elements-guide/
+- kaiden.gg
 - gamingonphone.com — https://gamingonphone.com/guides/neverness-to-everness-combat-guide-esper-system-explained/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-elemental-reactions-guide/
-- ntegame.com — https://www.ntegame.com/en/news/esper-system-overview
+- mobalytics.gg
+- ntegame.com
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-guide-to-esper-cycles/
-- neverness.gg — https://neverness.gg/wiki/esper-elements/
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/combat-and-elements-guide/
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-element-system-explained-reactions-resonance-more/

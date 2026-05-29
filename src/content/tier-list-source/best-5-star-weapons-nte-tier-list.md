@@ -1,4 +1,4 @@
----
+--
 title: "Best 5-Star Weapons for Neverness to Everness: NTE Arc Tier List"
 slug: best-5-star-weapons-nte-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 2162
 published_at: "2026-05-22T07:51:02.182709+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGduWCVkNeYXsUhXFvnrEbn4RtwkuEXJ44A0_dqPlr61qDDOtdUhnDuuYTV7rqpi_jdIcU8FGCgjZ82ucCFVSSYV6VMtKshG9__-J8TEvx5N4mQSVXxF7PcVneXjjPAbKl05WDopdAAVD5cSSPklTvjUUOMoydLjJV4ovLziddzq9WY"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaAaNaM4AZogc_kmnm7RGR_xEazxCpvLK4l7gfvRZUhUj6ZngOMli3nmS850BoQ0EotRRgO4noviIfWQXf0QPooejbFKwLqWcE2j1HzTd7nczh5a7pr28="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGThLEaH02lJzwuDuLzOkLunHbHPMemtO3bnfvrOyqqcTJiJYyw9-Htrss7ZvMKyKcecRkf6OUCqD2GvY31ww8aGB1FsZMeug6fGn-ZOOGDvEMttXGk8OTH--k8RbkherdBPNo2LON7LoLp2w=="
@@ -31,19 +31,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuwLQKla5-OJLdCEgLjiREPteA9rOW2RbREwKkF1ye5N7l_6TcRSQoWKdNCNt0ME84udzYnKTRuKdy-FMd4JIxI2olx28V0obX6lfFPtXc8TD_6TZqeq5NOg=="
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-weapons-nte-tier-list/inline-1.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-2.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-3.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-4.webp
   - /img/best-5-star-weapons-nte-tier-list/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
----
+--
 
 Equipping the right Arc can be the difference between clearing a high-level Anomaly in seconds or hitting a brick wall in the streets of Hethereau. This guide ranks the most powerful 5-star weapons currently available to help you optimize your team and dominate the endgame.
 
@@ -188,10 +188,10 @@ Early data from the v1.1 "Lacrimosa" update suggests the introduction of new Gas
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-all-arcs-weapons-stats-and-effects-guide-breakdown-for-newbies
 - memuplay.com — https://www.memuplay.com/blog/neverness-to-everness-tier-list.html
 - sportskeeda.com — https://www.sportskeeda.com/esports/best-haniel-build-guide-nte-neverness-to-everness-best-arcs-team-comps-more
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-arc-tier-list/
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47631
+- thegamer.com
+- gamewith.net
 - icy-veins.com — https://www.icy-veins.com/nte/marching-beyond-time-guide
 - neverness.gg — https://neverness.gg/arcs/marching-beyond-time/
-- kaiden.gg — https://kaiden.gg/nte/marching-beyond-time-pity-pull-rates/
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/best-nanally-build-in-neverness-to-everness-2345678/
-- prydwen.gg — https://www.prydwen.gg/nte/arcs/
+- kaiden.gg
+- dexerto.com
+- prydwen.gg

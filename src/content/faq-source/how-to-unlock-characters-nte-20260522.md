@@ -1,4 +1,4 @@
----
+--
 title: How to Unlock Characters in Neverness to Everness (NTE) Guide
 slug: how-to-unlock-characters-nte-20260522
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1696
 published_at: "2026-05-22T17:20:46.603424+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApk8i-HoueQ7mE2i9rfU0OXOPTiSVPDWSEamzW9SwWWbb_stH8BxuoZAlcQmEraNl6Mr399YPpVgioGq0c_gcNk7QZQybNb7TAbttUs89Tn_pCRfnMl6ek_IAdMvfsXnbh3RqgXTP7hsuRA_QJ7a8lTtVHU7EJsU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZJmdGbDZqFkMiUATbSO4qfqNLxw8MSkr-Kb8QZ1o1Tl-t4byRHgb4Jyz9YPDpyzkOm34qtp4UdT_oZK5XDVCPXZWn4eso6xI0ts5aajYC8jwHHLQ35Q6qpVWHehRGvYL9gmx9zUa6zA56f4aK-f2eW6fGiEHXiFv90ycSYRbYzIk5XF9PxHteJ51yKOi8thznWEc="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRpPndU_oNFh6cytOYEd3EqaPHoLMn5CK6sv8NA7Z23NkHZM1m7ajyXsasgerq_SeUsUAx3w2SZVrE8iV_G9vNY477UhiUbvTOxF8rKT_auDewUGyvQf1_A-iP0S2tL6E2So_Umg_Y_DDcC8d4JwRJSWTrIxYgduaxvewjlVXJoAytTpwjKWYnID2JEA=="
@@ -29,17 +29,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERTZkQsquzUtzAYMW2q0EPcIutFtqK6sttqWvre8HpX7vQryQVgyFk1f50iAYoY9ePjuR90vu8Z4cJGo4_2Lf2niZJBTnzV6w5ylHEQC3GMSQzLZ1kR0GTwtgV03Wb5QVYoSYgnMYsxbuDJXjL3GIymA=="
 game: unknown
 hero_image: /img/how-to-unlock-characters-nte-20260522/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-characters-nte-20260522/inline-1.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-2.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-3.webp
   - /img/how-to-unlock-characters-nte-20260522/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 In the neon-drenched streets of Hethereau, building a versatile team of Espers is the difference between clearing high-level anomalies and getting stuck at a level cap.
 
@@ -171,7 +171,7 @@ Characters are only half of the equation; they also require Arcs. Arcs are obtai
 
 ### Resource Management: Annulith and Dice
 
-Annulith is the most precious resource in Hethereau. It is primarily earned through:
+Annulith is the most precious resource in Hethereau. It is primarily earned through
 *   First-time exploration of Anomaly Zones.
 *   Completing Hunter Commissions.
 *   Achievement rewards and event participation.
@@ -180,16 +180,16 @@ Always prioritize converting Annulith into Solid Dice for limited banners. Stand
 
 ## Sources
 
-- Neverness to Everness Gacha System and Pity Explained — https://neverness.gg/guides/gacha-pity-explained/
+- Neverness to Everness Gacha System and Pity Explained
 - Scarborough Fair | Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Scarborough_Fair
-- Neverness to Everness gacha & pity system Explained — https://www.dexerto.com/gaming/neverness-to-everness-gacha-pity-system-explained-2814521/
-- NTE | Gacha System - Pity and Drop Rates — https://gamewith.net/neverness-to-everness/7234
-- All Characters in Neverness to Everness: Rank, Attribute & Weapon — https://neverness.gg/characters/all-characters-list/
-- Neverness To Everness New & Upcoming Characters — https://www.lootbar.gg/blog/neverness-to-everness-new-upcoming-characters-character-list/
+- Neverness to Everness gacha & pity system Explained
+- NTE | Gacha System - Pity and Drop Rates
+- All Characters in Neverness to Everness: Rank, Attribute & Weapon
+- Neverness To Everness New & Upcoming Characters
 - NTE Free Characters and Standard Pool — https://mobalytics.gg/neverness-to-everness/characters
 - Neverness to Everness Banner Schedule Guide — https://enjoygm.com/neverness-to-everness-banner-schedule-guide/
-- Neverness to Everness City Tycoon Guide — https://neverness.gg/guides/city-tycoon-guide/
-- City Tycoon Rank Up Guide & Rewards In NTE — https://gamerant.com/neverness-to-everness-nte-city-tycoon-rank-up-guide-rewards/
-- How To Get Fully Awakened Chiz For Free — https://www.thegamer.com/neverness-to-everness-nte-fully-awakened-chiz-free-guide/
+- Neverness to Everness City Tycoon Guide
+- City Tycoon Rank Up Guide & Rewards In NTE
+- How To Get Fully Awakened Chiz For Free
 - Neverness to Everness Gacha Guide - Icy Veins — https://www.icy-veins.com/nte/guides/gacha-guide/
 - NTE: Neverness to Everness Gacha Guide – Summoning System — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-gacha-pity-rates-guide-en.html

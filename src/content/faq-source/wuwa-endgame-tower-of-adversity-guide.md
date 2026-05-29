@@ -1,4 +1,4 @@
----
+--
 title: "WuWa Tower of Adversity Guide: Endgame Tips & Rewards (2026)"
 slug: wuwa-endgame-tower-of-adversity-guide
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:34:49.472049+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/wuwa-endgame-tower-of-adversity-guide/hero.webp
-inline_images:
+inline_images
   - /img/wuwa-endgame-tower-of-adversity-guide/inline-1.webp
   - /img/wuwa-endgame-tower-of-adversity-guide/inline-2.webp
   - /img/wuwa-endgame-tower-of-adversity-guide/inline-3.webp
   - /img/wuwa-endgame-tower-of-adversity-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Success in the Wuthering Waves endgame requires more than just high-level Resonators; it demands a deep understanding of the Tower of Adversity's shifting mechanics and Vigor constraints. This guide covers everything you need to master the Hazard Zone and secure your bi-weekly Astrite income as of May 2026.
 
@@ -59,7 +59,7 @@ Success in the Tower hinges on the "Vigor" system. Each Resonator possesses 10 V
 
 
 ### How to Unlock the Tower of Adversity
-Unlocking the Tower is a straightforward process but requires some initial investment in the main story. Follow these steps:
+Unlocking the Tower is a straightforward process but requires some initial investment in the main story. Follow these steps
 1.  **Reach Union Level 15:** Complete daily activities, spend Waveplates, and finish side quests to boost your account level.
 2.  **Complete "Clashing Blades":** This is the climax of Chapter 1, Act 4.
 3.  **Accept "Alone in the Abyss":** Check your quest log for this specific tutorial mission. It will guide you to the island where the Tower is located.
@@ -68,7 +68,7 @@ Unlocking the Tower is a straightforward process but requires some initial inves
 ### Mastering the Vigor System: Stamina Management
 Vigor is the most critical resource in the Tower of Adversity. Unlike other games where you can use your strongest team to steamroll every floor, Wuthering Waves limits your best characters. 
 
-In the Hazard Zone, the Vigor consumption typically follows this pattern:
+In the Hazard Zone, the Vigor consumption typically follows this pattern
 *   **Tower of Resonating (Left):** 4 Stages. Vigor cost per stage: 1, 2, 3, 4.
 *   **Tower of Echoing (Right):** 4 Stages. Vigor cost per stage: 1, 2, 3, 4.
 *   **Tower of Hazard (Middle):** 2 Stages. Vigor cost per stage: 5, 5.
@@ -120,7 +120,7 @@ When building your teams, ensure your supports (Verina, Shorekeeper, Baizhi) hav
 
 
 ### Other Wuthering Waves Endgame Modes
-While the Tower of Adversity is the primary source of Astrites, other modes offer essential progression materials:
+While the Tower of Adversity is the primary source of Astrites, other modes offer essential progression materials
 *   **Tactical Hologram: Calamity:** A permanent mode where you fight hyper-aggressive versions of world bosses. This mode does not reset but provides high-tier Echo materials and Drill Data. Unlike the Tower, there is no timer; the challenge is pure survival and mechanical execution.
 *   **Depths of Illusive Realm:** A rogue-like mode that resets seasonally. It allows players to use "Metaphors" and enhanced character abilities. It is highly recommended for earning character EXP materials and exclusive Echo skins.
 
@@ -139,8 +139,8 @@ With Version 3.4 on the horizon, drip marketing has hinted at new challenges tha
 To stay ahead, focus on horizontal investment. Having nine well-geared Resonators is far more valuable for the Tower of Adversity than having one "perfect" team that runs out of Vigor after the first two stages.
 
 ## Sources
-- Prydwen Wuthering Waves Tower Guide — https://www.prydwen.gg/wuthering-waves/guides/tower-of-adversity
+- Prydwen Wuthering Waves Tower Guide
 - Game8 Tower of Adversity Strategy — https://game8.co/games/Wuthering-Waves/archives/454502
-- Wuthering Wiki Quest Data — https://wuthering.wiki/quest_1400001.html
+- Wuthering Wiki Quest Data
 - Official Wuthering Waves Interactive Map & Tower Locations — https://wuthering-waves.kurogames.com/en/main/
-- IGN Wuthering Waves Endgame Overview — https://www.ign.com/wikis/wuthering-waves/Tower_of_Adversity_Guide
+- IGN Wuthering Waves Endgame Overview

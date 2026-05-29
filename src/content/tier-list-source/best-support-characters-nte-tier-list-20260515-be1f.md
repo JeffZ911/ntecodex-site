@@ -1,4 +1,4 @@
----
+--
 title: Best Support Characters NTE Tier List (May 2026)
 slug: best-support-characters-nte-tier-list-20260515-be1f
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-15T19:19:53.986191+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-support-characters-nte-tier-list-20260515-be1f/hero.webp
-inline_images:
+inline_images
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-1.webp
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-2.webp
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-3.webp
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-4.webp
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-5.webp
   - /img/best-support-characters-nte-tier-list-20260515-be1f/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Maximizing team efficiency in the urban sprawl of Hesperia requires more than just high DPS; it demands the right synergy from your support roster. This Neverness to Everness (NTE) support tier list ranks the current characters based on their ability to amplify damage, manage enemy positioning, and sustain the team through the game's most challenging anomalies.
 
@@ -36,7 +36,7 @@ Maximizing team efficiency in the urban sprawl of Hesperia requires more than ju
 ![Methodology](/img/best-support-characters-nte-tier-list-20260515-be1f/inline-1.webp)
 
 
-Determining the value of a support character in Neverness to Everness involves looking past raw healing numbers. As of the May 2026 meta, the game emphasizes fast-paced rotations and high-impact elemental reactions. Our evaluation criteria focus on five primary pillars:
+Determining the value of a support character in Neverness to Everness involves looking past raw healing numbers. As of the May 2026 meta, the game emphasizes fast-paced rotations and high-impact elemental reactions. Our evaluation criteria focus on five primary pillars
 
 *   **Buff Potency:** We prioritize characters that provide team-wide ATK, Crit Rate, and Crit DMG bonuses. In the current endgame, these offensive multipliers are essential for clearing timed challenges.
 *   **Crowd Control (CC):** The ability to group enemies (gathering) or disable them (levitation/stun) is vital. Characters that can pull scattered mobs into a single point allow DPS units to maximize their Area of Effect (AoE) damage.
@@ -183,5 +183,5 @@ Choosing the right support in Neverness to Everness is about balancing your team
 - IGN — https://www.ign.com/games/neverness-to-everness
 - Game8 NTE Guide — https://game8.co/games/Neverness-to-Everness
 - Neverness.gg — https://neverness.gg/
-- Beebom — https://beebom.com/neverness-to-everness-characters-list/
+- Beebom
 - Reddit r/NTE — https://www.reddit.com/r/NTE/

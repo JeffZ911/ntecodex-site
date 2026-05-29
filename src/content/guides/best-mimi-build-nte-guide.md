@@ -1,4 +1,4 @@
----
+--
 title: Best Mimi Build Guide in Neverness to Everness (NTE)
 slug: best-mimi-build-nte-guide
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-17T04:08:20.346587+00:00"
 published_url: /guides/best-mimi-build-nte-guide
 sources: []
 hero_image: /img/best-mimi-build-nte-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-mimi-build-nte-guide/inline-1.webp
   - /img/best-mimi-build-nte-guide/inline-2.webp
   - /img/best-mimi-build-nte-guide/inline-3.webp
   - /img/best-mimi-build-nte-guide/inline-4.webp
   - /img/best-mimi-build-nte-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
----
+--
 
 Finding the perfect setup for your characters in the sprawling urban landscape of Hethereau is essential for mastering the challenging combat encounters of Hotta Studio's latest hit.
 
@@ -40,7 +40,7 @@ This guide provides a comprehensive look at the current state of Mimi in NTE, he
 
 Mimi is a prominent figure located within the central district of Hethereau, specifically near the Philae Claw Machines. As of the May 2026 patch, Mimi remains a non-playable character (NPC), serving as the primary guide for players looking to master the claw machine mechanics and earn unique rewards. While she does not currently possess a combat kit, her presence in the game’s lore and her distinct design have led to significant speculation regarding her future as a playable Esper.
 
-In the current version of Neverness to Everness, Mimi is defined by the following key points:
+In the current version of Neverness to Everness, Mimi is defined by the following key points
 
 *   **Mimi is an [information unavailable] character in Neverness to Everness (NTE).**
 *   **Role and Playstyle:** [information unavailable].
@@ -65,7 +65,7 @@ Currently, Mimi’s "role" is tied to the social and mini-game systems of NTE. S
 From a speculative standpoint, if Mimi were to be introduced as an Esper, the community expects her to fall into a Support or Utility role. Given her expertise with machinery and precision, her kit might involve "grabbing" enemies or manipulating the battlefield in ways that mirror her profession. Until an official announcement from Hotta Studio, she remains a vital part of the city's atmosphere rather than the combat roster.
 
 ### Core Abilities and Passive Skills
-As Mimi is not yet a playable Esper, her combat abilities and passive skills are currently listed as:
+As Mimi is not yet a playable Esper, her combat abilities and passive skills are currently listed as
 *   **Basic Attack:** [Information not yet publicly available as of 2026-05-17]
 *   **Resonance Skill:** [Information not yet publicly available as of 2026-05-17]
 *   **Ultimate (Esper Cycle):** [Information not yet publicly available as of 2026-05-17]
@@ -116,7 +116,7 @@ If Mimi follows the trend of recent utility-based characters, her best Disk sets
 *   **General Meta Sets:** 'Thinking Meow' is the current standard for Crit-based builds, providing a significant boost to Critical Damage. 'Petal Bloom' is essential for Anima-based Blossom teams, enhancing the reaction damage when Anima and Cosmos elements interact.
 
 ### Stat and Sub-stat Priority
-When farming Disks in the Hethereau Rift challenges, players should prioritize the following stat distribution for a general-purpose build:
+When farming Disks in the Hethereau Rift challenges, players should prioritize the following stat distribution for a general-purpose build
 
 *   **Main Stat Priorities:** [information unavailable].
 *   **Sub-stat Focus:** [information unavailable].
@@ -209,5 +209,5 @@ Always keep an eye on the "Switch Buffer" mechanics during your daily missions t
 - Neverness to Everness Official Website — https://nte.perfectworld.com/
 - Hotta Studio Official Twitter — https://twitter.com/NTE_GL
 - Game8 Neverness to Everness Guide Hub — https://game8.co/games/NTE
-- IGN: Neverness to Everness Gameplay Reveal and Mechanics — https://www.ign.com/articles/neverness-to-everness-everything-we-know
-- Prydwen.gg: NTE Character and Arc Database — https://www.prydwen.gg/nte/characters/
+- IGN: Neverness to Everness Gameplay Reveal and Mechanics
+- Prydwen.gg: NTE Character and Arc Database

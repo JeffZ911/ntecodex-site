@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Best F2P Team Comps: Neverness to Everness Starter Guide"
 slug: zzz-best-f2p-team-comps-nte-guide
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 5.4
 word_count: 1431
 published_at: "2026-05-13T02:30:43.304031+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpLtcESjxzOLt-gf8S5Ro0nz32rRemu29HdCV01YNAL4gRCfoUxJtVI-5NKlklTDMoqhJkz-WDo0GwoxVi4JwOjnW4GU2OjhNGajLxz_ewYiGI6RtraCpBc66GckOY8JM14cI4AL1dec_dAgcjvty6QW9QFBgzHDPLLMjWildvg1gx"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExXjQZ4F4Bs28f810q9n0COId50P89OsdRHbgHvDhc60PbzJTh1_VSsME4ubPUsknE9bPXW3gv6qof66xQvdl0vLOy-ruhWfXHE-xR2dE4DN5DUebpyp86h7FX_8BxPes2UTjOelYx0iiwU84zbhltEMIFSzn6P76H2WgquGFvuSsJMlCNeXBBYC0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrwV_mkY-1XD_h85e_Zc1zIDDhWEbKQzBH9ZxSdYwZyn_aQpC0EXWnsROCkEiqeXCCfTk1nLuWyQ4Ja3GRYKOd-vYtBK60hw7ReEjPlBK_CepPgFC_KhrB6zCyv84iiLuOC-BK4QR5PrnFqDeiEyVOdCXDm-Jfjg=="
@@ -23,7 +23,7 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEraTbK8tKz8ht99d5wyIu2lv28NGgFIKsFh16ShGnhL9_WZbTwdq8a6OTVDWbANGO7QNgHL6kjwC_XlCCJn8lB6OxPw0ZnJC42AJvAuEokZRV_aALzcrNa8D2N36Ci61PZvEjzvGCAgRGWabfH_pXWofEIc4Erg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIrjNTfkfOiI3as8uywuZ7cwwQ03NycWHQi_NN__tGDCSPohe2ZQ47PK7f4OkO7iReJvoDijkBCKM_e0utCPJGNEWycTvs3KHNz7xS_4tYpDGZZpEBvJSISrLWT4_aBkIBB4b1BpnC3WnVtgbmJmEDM2y0h5munJ-jj0-LoSUvnG1B7Fqohg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEckU7WHZktkuqEbQpji1ckCRcq23WnPKNSAXDn00GM0svS2nHRatWXgvy9rz48dTkjZ5n8UzRB0viWuu2Gzwy6QhqGXdpke9R_a55zSiXwaWAid625l9JvpsbPmSizVeq3WH8CtVm6TRKB8GJHrnsj0G5K"
----
+--
 
 Navigating the early game of an urban open-world RPG requires a solid understanding of how free-to-play (F2P) units interact, especially with the release of Neverness to Everness (NTE).
 
@@ -35,7 +35,7 @@ For players looking to maximize their roster without spending premium currency, 
 
 ## Question Restated
 
-When starting your journey in Hethereau, several questions arise regarding the efficiency of your initial roster:
+When starting your journey in Hethereau, several questions arise regarding the efficiency of your initial roster
 
 *   **What are the most effective free-to-play (F2P) team compositions in Neverness to Everness?**
 *   **Which characters can be obtained for free through story progression and events?**
@@ -112,7 +112,7 @@ If you trigger two adjacent reactions within the same "Trio" (the top three elem
 
 ### F2P Combat Tips: Parrying and Phantom Swaps
 
-To master F2P combat, you must look beyond basic skill rotations and utilize advanced mechanics:
+To master F2P combat, you must look beyond basic skill rotations and utilize advanced mechanics
 
 1.  **Instant Meter Parrying:** Successfully parrying an enemy attack (indicated by a yellow or red glint) instantly fills the Esper Meter of the character currently on the field. This allows F2P teams to skip the "building phase" and go straight into high-damage reactions.
 2.  **Phantom Swaps:** Some characters, like Chiz, can "channel" their skills even after you swap them out. If you start Chiz’s charged skill and immediately swap to Zero, Chiz will remain on the field for a few seconds to finish the attack. This allows two characters to deal damage simultaneously, a technique known as a Phantom Swap.
@@ -130,9 +130,9 @@ To master F2P combat, you must look beyond basic skill rotations and utilize adv
 
 - Icy Veins — https://www.icy-veins.com/neverness-to-everness/esper-cycle-guide
 - Neverness Wiki — https://neverness-to-everness.fandom.com/wiki/Esper_Cycle
-- Mobalytics — https://mobalytics.gg/neverness-to-everness/best-f2p-teams
-- Neverness.gg — https://neverness.gg/guides/chiz-build-guide
-- TheGamer — https://www.thegamer.com/neverness-to-everness-city-tycoon-guide-chiz-unlock/
+- Mobalytics
+- Neverness.gg
+- TheGamer
 - Sportskeeda — https://www.sportskeeda.com/gaming/nte-esper-guide-all-reactions-explained
-- Kaiden.gg — https://kaiden.gg/nte/s-rank-selector-guide
+- Kaiden.gg
 - LDShop — https://www.ldshop.gg/blog/neverness-to-everness-tier-list

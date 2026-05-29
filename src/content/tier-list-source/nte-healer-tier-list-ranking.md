@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Healer Tier List: Best Sustain Units"
 slug: nte-healer-tier-list-ranking
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 6.7
 word_count: 1770
 published_at: "2026-05-21T09:58:58.044190+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvFjgpQuTNfVJnjcPQRJBmMjlHH5flHC0J32k5uA_XvvVMjubmFZG6IZuNTWxu-supg7s1Db0diOC04q3syg6UlxL40UXnmq1PidCsoL7O4rzBkHezNjZSr3jvYpvVzLcX49760FzIPMBLVmsED7bk1lfUlYHGpVjlvSDYMNV24RI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8KeBhZAsgXcYiUYjWQ6l7vXtPgR0ToAqH26fnHD7BwuFccb1mDERTVrds8uhwHked60Z839SUW9541ff81sRNjp7R4WkNTrRlpNiiKmsROxXjqi3AIiMju1IAFbU-eXY="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1ALtVZd5RP9gje5d7vAJf57e4PSck0Y_Cx_iLaKBYgEQty0xKqRtz5J3JLZFhLADSXm8ViJSfPKLeaqm3xpH5-hWWud6PvKnyZHJxeeMS45yQ7YZWSp2XSn_Cm81x178_qBx7ioR2xpOBGFSgoGw8gzL7gbYAbbq0jS33ak="
@@ -22,21 +22,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4nvUFhZo5MJ0MjJp0nsWdRQhW8j3jIB6R8ClUKLcX_7DjuBVrE9SW3aFLU5GcGOgbvMNRu7I7Epq9EqBC5b9bTlfd4_D6iVxq6dSevqEz3EMpprs8TnKgJTACe8yssp_4QgvZW3NbyYHTR437p5acn2ZSa9S2v0mURhMlnJRi"
 game: unknown
 hero_image: /img/nte-healer-tier-list-ranking/hero.webp
-inline_images:
+inline_images
   - /img/nte-healer-tier-list-ranking/inline-1.webp
   - /img/nte-healer-tier-list-ranking/inline-2.webp
   - /img/nte-healer-tier-list-ranking/inline-3.webp
   - /img/nte-healer-tier-list-ranking/inline-4.webp
   - /img/nte-healer-tier-list-ranking/inline-5.webp
   - /img/nte-healer-tier-list-ranking/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 In the high-stakes combat of Hethereau, survival often depends on more than just dodging; it requires a robust sustain character to keep your team in the fight. This Neverness to Everness (NTE) healer tier list ranks the best sustain units following the Version 1.1 update, helping you decide which Espers deserve your Character Pixels.
 
@@ -53,7 +53,7 @@ Since the official launch of Neverness to Everness on April 29, 2026, the meta h
 
 Ranking the sustain units in NTE requires looking beyond raw Healing Per Second (HPS). Because combat is built around the Esper Cycle and elemental reactions like Blossom and Discord, a healer who does not contribute to these cycles often becomes a liability in time-limited challenges.
 
-Our evaluation is based on five primary pillars:
+Our evaluation is based on five primary pillars
 
 *   **Sustain Throughput:** The raw ability to restore HP or mitigate damage in high-pressure environments like the "Never-Ending Arachne" boss fight.
 *   **Utility & Buffing:** The value of secondary effects, such as the massive ATK buffs provided by [Sakiri](/characters/sakiri-nte-free-5-star-guide) or the Energy regeneration offered by Zero.
@@ -129,7 +129,7 @@ B-Tier units are excellent for early progression or for players who prefer a slo
 
 ### Edgar: Pure Healing vs. Meta Utility
 
-Edgar (A-Rank, Cosmos) is the only dedicated pure healer available at launch. His kit is entirely focused on restoration:
+Edgar (A-Rank, Cosmos) is the only dedicated pure healer available at launch. His kit is entirely focused on restoration
 *   **Wild Current (Skill):** A channeled beam that heals the teammate with the lowest HP.
 *   **Finnegan's Wake (Ultimate):** Creates a labyrinthine domain for 10 seconds that continuously heals the active character.
 
@@ -188,13 +188,13 @@ When building your team, remember that the best "healer" is often the one that h
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-element-guide-esper-cycle-walkthrough
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-sakiri-build-guide-best-skills-teams-arc-recommendations-more
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-hotori-build-guide-skills-arcs-and-more
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-best-sakiri-build-team/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-best-fadia-build-team/
-- neverness.gg — https://neverness.gg/characters/sakiri/
-- neverness.gg — https://neverness.gg/characters/edgar/
+- thegamer.com
+- thegamer.com
+- neverness.gg
+- neverness.gg
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/characters/haniel-build-guide
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/characters/jiuyuan-build-guide
-- kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions/
+- kaiden.gg
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-edgar-best-guide-skills-teams-equipment-nte
 - ldshop.gg — https://www.ldshop.gg/blog/neverness-to-everness-best-hotori-build-skills-teams-arc-more-nte
-- games.gg — https://games.gg/neverness-to-everness-dailies-guide/
+- games.gg

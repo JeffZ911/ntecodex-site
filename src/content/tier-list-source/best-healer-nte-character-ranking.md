@@ -1,4 +1,4 @@
----
+--
 title: "Best Healer NTE Character Ranking: Top Survival Espers"
 slug: best-healer-nte-character-ranking
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healer-nte-character-ranking/hero.webp
-inline_images:
+inline_images
   - /img/best-healer-nte-character-ranking/inline-1.webp
   - /img/best-healer-nte-character-ranking/inline-2.webp
   - /img/best-healer-nte-character-ranking/inline-3.webp
   - /img/best-healer-nte-character-ranking/inline-4.webp
   - /img/best-healer-nte-character-ranking/inline-5.webp
   - /img/best-healer-nte-character-ranking/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Survival in the high-speed urban combat of Hethereau requires more than just high damage output; it demands a robust defensive backbone to withstand the aggressive Anomaly patterns of Version 1.0. This best healer NTE character ranking evaluates the current roster of Espers based on their ability to sustain a squad through endgame challenges like Beyond the Rails and high-tier Anomaly Hunts.
 
@@ -38,7 +38,7 @@ Selecting the right survival unit is the difference between clearing a floor of 
 ![Methodology](/img/best-healer-nte-character-ranking/inline-1.webp)
 
 
-Ranking the best healers in NTE involves analyzing more than just raw health restoration per second (HPS). Because combat in Hethereau is highly mobile, a character's ability to provide sustain while the player is moving or attacking is prioritized. This evaluation focuses on five primary factors:
+Ranking the best healers in NTE involves analyzing more than just raw health restoration per second (HPS). Because combat in Hethereau is highly mobile, a character's ability to provide sustain while the player is moving or attacking is prioritized. This evaluation focuses on five primary factors
 
 1.  **Effective HPS and Uptime:** How much health is restored relative to the character's field time. Passive healers who function from the "off-field" position generally rank higher than those requiring active field presence.
 2.  **Survival Utility:** The inclusion of damage redirection, damage reduction (DR) buffs, and shields. In many 1.0 encounters, preventing a one-shot mechanic is more valuable than healing the damage afterward.
@@ -168,7 +168,7 @@ Choosing the best survival Esper depends on your team's elemental needs and your
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- IGN: Neverness to Everness Characters and Combat Guide — https://www.ign.com/articles/neverness-to-everness-everything-we-know
+- IGN: Neverness to Everness Characters and Combat Guide
 - Game8: NTE Tier List and Best Characters — https://game8.co/games/Neverness-to-Everness/archives/tier-list
 - Reddit: r/NTE_Official - Version 1.0 Meta Discussion — https://www.reddit.com/r/NTE_Official/
-- Prydwen.gg: Neverness to Everness Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen.gg: Neverness to Everness Character Database

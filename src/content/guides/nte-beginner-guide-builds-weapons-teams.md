@@ -1,4 +1,4 @@
----
+--
 title: "NTE Beginner Guide: Best Builds, Weapons, and Teams (2026)"
 slug: nte-beginner-guide-builds-weapons-teams
 game: nte
@@ -7,7 +7,7 @@ qa_score: 6.7
 word_count: 2049
 published_at: "2026-05-13T18:17:35.991319+00:00"
 published_url: /guides/nte-beginner-guide-builds-weapons-teams
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF31x1kKDvHm84oQDHtokvPwRTUBY7SUbmcN0N_EFBxJAfslQ9gG31UNfxT278quCktrs99Op1RqhqpG3dzJe5B5zIPaXRCJq-_AHwIQksedgThjA9DtUy0Z1YVVMP1DJZBWqu5roByMb2UkkES8jEkkO146Cyr1EGnyz8XvZV4w7hqTqjsO7rif3Yrj2mtRmO7GxKeN7btAJXaaDj26wVbe1B7"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI0DoZAmPFVcxD5nIQEwY4TZDjIf_Czn3QcALptOH6srdDgjJiF_WLvrSVpuRGlpsNrCyjXRIlbM5AKHTw_GnsKipb4qgJuetJZM7q0dTxMpVqzkFywyx9_Z75I-JTeq2wnihVc2_pPqfXL2fzbOeVowSOKYk6ts4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbr874BOdoAOOnuoquxMel5lxBj_DXYtChFgU_JcwTrAPg5s9nCApej4LmYcrU4ciCh_5w8Ek5mtfCiSAGcIzj2JLtFMpdeqGu5hMsFkjnFQm3jKzFeHYVtVYC49Upcp0rYtnE4KSLxehAFXrZ9F2J45aT72dFaA=="
@@ -32,21 +32,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy9wFEMYzNcpNTSjSeCcu0r9uNTsBN06LzI41q6dvI118XEpIpH9KXmgPcGLXkjNfkzTZtxB5IHjrVSIBEWCAeddWrR4ir--qvtL-6l8C4xdZlTw32ORiylYFU2hGUH2T2aReYDAE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCjCInvQYUbh5f-PoFbuLSoLThlMqbWoPZNRSdzHqGeYNJlu7J01zH9GAQzPcI_xLoJU-Pb1MpMpPcU9-VCKbAd8-RN_lhM7IPysV3JMgb6H63V6_1DNlAuDu8Eahag9dcFphI0vhVNCfMXAy3yNfdyagGSu6Y5TSybA9DW5ekp0wo"
 hero_image: /img/nte-beginner-guide-builds-weapons-teams/hero.webp
-inline_images:
+inline_images
   - /img/nte-beginner-guide-builds-weapons-teams/inline-1.webp
   - /img/nte-beginner-guide-builds-weapons-teams/inline-2.webp
   - /img/nte-beginner-guide-builds-weapons-teams/inline-3.webp
   - /img/nte-beginner-guide-builds-weapons-teams/inline-4.webp
   - /img/nte-beginner-guide-builds-weapons-teams/inline-5.webp
   - /img/nte-beginner-guide-builds-weapons-teams/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Hethereau is a city where every neon sign hides an anomaly, and every alleyway is a potential battleground for those brave enough to look beneath the surface.
 
@@ -188,7 +188,7 @@ Combat in NTE is a rhythmic dance of filling meters and swapping characters at t
 
 ### Executing the Esper Cycle
 
-A standard meta rotation for the Blossom Reaction follows this flow:
+A standard meta rotation for the Blossom Reaction follows this flow
 
 1.  **Start with Jiuyuan:** Use her "Lethal Rose Pact" to apply debuffs and build initial energy.
 2.  **Swap to Sakiri:** Trigger her crowd control skill to gather enemies into a tight group.
@@ -228,8 +228,8 @@ Fons is the primary currency for purchasing vehicle parts, character outfits, an
 
 - neverness.gg — https://neverness.gg/
 - kaiden.gg — https://kaiden.gg/nte/
-- prydwen.gg — https://www.prydwen.gg/nte/
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-banners-gacha-explained/
+- prydwen.gg
+- pcgamer.com
 - icy-veins.com — https://www.icy-veins.com/nte/characters/nanally-build-guide
 - mobalytics.gg — https://mobalytics.gg/nte/guide/esper-cycle-elements
-- games.gg — https://www.games.gg/nte/arcs-tier-list/
+- games.gg

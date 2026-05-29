@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Healer Build Guide: Best Characters & Gear"
 slug: nte-healer-character-build-guide
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-healer-character-build-guide
 sources: []
 game: unknown
 hero_image: /img/nte-healer-character-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-healer-character-build-guide/inline-1.webp
   - /img/nte-healer-character-build-guide/inline-2.webp
   - /img/nte-healer-character-build-guide/inline-3.webp
   - /img/nte-healer-character-build-guide/inline-4.webp
   - /img/nte-healer-character-build-guide/inline-5.webp
   - /img/nte-healer-character-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Survival in the supernatural urban landscape of Hethereau depends entirely on your ability to manage your team's health through high-intensity Anomaly encounters.
 
@@ -197,7 +197,7 @@ This Arc is primarily obtained through the "Arc Resonance" gacha system. However
 
 ## Sources
 
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/characters/edgar-build
+- mobalytics.gg
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/nte_healer_meta_discussion/
 - ldshop.gg — https://www.ldshop.gg/blog/nte-best-healer-guide-2026
 - game8.co — https://game8.co/games/Neverness-To-Everness/archives/character-tier-list

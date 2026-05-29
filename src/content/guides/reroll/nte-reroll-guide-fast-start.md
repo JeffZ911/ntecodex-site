@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Reroll Guide: Best Characters & Fast Method"
 slug: reroll/nte-reroll-guide-fast-start
 article_type: reroll
@@ -9,19 +9,19 @@ published_url: /guides/reroll/nte-reroll-guide-fast-start
 sources: []
 game: unknown
 hero_image: /img/nte-reroll-guide-fast-start/hero.webp
-inline_images:
+inline_images
   - /img/nte-reroll-guide-fast-start/inline-1.webp
   - /img/nte-reroll-guide-fast-start/inline-2.webp
   - /img/nte-reroll-guide-fast-start/inline-3.webp
   - /img/nte-reroll-guide-fast-start/inline-4.webp
   - /img/nte-reroll-guide-fast-start/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a powerful S-Rank character during the opening hours of Neverness to Everness (NTE) provides a massive advantage for clearing high-level Anomalies and boss encounters. This guide breaks down the most efficient path to securing a top-tier account using the latest speedrun strategies and tier rankings.
 
@@ -79,7 +79,7 @@ To avoid creating dozens of unique email addresses, use the "salted" email metho
 
 ### Speedrunning the Prologue
 
-Follow this checklist to minimize your time spent in the prologue:
+Follow this checklist to minimize your time spent in the prologue
 
 1.  **Launch and Login:** Log in using a salted email.
 2.  **The Opening Sequence:** Complete the initial combat tutorial. The opening boss intro lasts approximately 60 seconds and is currently unskippable.
@@ -159,7 +159,7 @@ To maximize efficiency, set your graphics settings to "Low" during the reroll pr
 
 ### When to Stop: The 'God Account' Criteria
 
-You should stop rerolling if you achieve any of the following:
+You should stop rerolling if you achieve any of the following
 1.  **The Limited Success:** Pulling Hotori within the first 20 pulls.
 2.  **The Double S-Rank:** Pulling any S-Rank from the Standard Board and another from the Limited Board within the initial batch of free dice.
 3.  **The Perfect Synergy:** Pulling Jiuyuan and Sakiri together.
@@ -201,4 +201,4 @@ Neverness to Everness is a fast-paced action RPG. While much of the game is sing
 - IGN: Neverness to Everness Preview — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Reroll Tier List — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NevernessToEverness Community Guides — https://www.reddit.com/r/NevernessToEverness/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

@@ -1,4 +1,4 @@
----
+--
 title: "Nanally vs Hotori in NTE: Which S-Rank Character Should You Pull?"
 slug: nanally-vs-hotori-nte-comparison-guide-20260514
 game: nte
@@ -9,17 +9,17 @@ published_at: "2026-05-14T06:51:16.089551+00:00"
 published_url: /guides/nanally-vs-hotori-nte-comparison-guide-20260514
 sources: []
 hero_image: /img/nanally-vs-hotori-nte-comparison-guide-20260514/hero.webp
-inline_images:
+inline_images
   - /img/nanally-vs-hotori-nte-comparison-guide-20260514/inline-1.webp
   - /img/nanally-vs-hotori-nte-comparison-guide-20260514/inline-2.webp
   - /img/nanally-vs-hotori-nte-comparison-guide-20260514/inline-3.webp
   - /img/nanally-vs-hotori-nte-comparison-guide-20260514/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing between the explosive Anima power of [Nanally](/characters/nanally-guide-nte) and the tactical Cosmos manipulation of [Hotori](/characters/hotori-best-team-nte) is the first major dilemma for many players in the wake of the Neverness to Everness (NTE) global launch.
 
@@ -75,7 +75,7 @@ Nanally operates on a high-octane "Follow-up" system governed by her **Ichi-daim
 Hotori, conversely, manages the **Non-Closed Timepiece** energy system. She does not deal the same level of sustained raw damage as Nanally. Instead, her contribution comes in concentrated bursts of utility. Her playstyle revolves around "recording" the state of the battlefield and replaying high-impact skills. This makes her a technical Sub-DPS; you swap her in, execute a precise sequence to manipulate time, and swap back to your Main DPS to capitalize on the opening she creates.
 
 ### Skill Synergy and Team Roles
-The most significant mechanical difference lies in their specific active skills:
+The most significant mechanical difference lies in their specific active skills
 
 *   **Nanally's Colucci Howling Technique:** This skill launches a series of rapid-fire strikes. Its primary purpose is to accelerate the accumulation of Ichi-daime stacks. When her Ultimate is active, the frequency of these strikes increases, turning her into a blur of Anima energy.
 *   **Hotori's Present Replay:** This is arguably the most unique skill in NTE. It allows Hotori to "record" a previously used skill and replay it. In high-level play, this is used to double-cast powerful buffs or high-damage abilities from other team members.
@@ -84,7 +84,7 @@ The most significant mechanical difference lies in their specific active skills:
 In terms of team synergy, the "Blossom" reaction (Anima + Cosmos) is currently one of the strongest elemental interactions in the game. When Nanally applies Anima and Hotori follows with Cosmos, it triggers an explosion that deals [information unavailable] area-of-effect damage and reduces enemy resistance. Paradoxically, the best team for Nanally often includes Hotori, and vice versa.
 
 ### Exploration and Life Skill Utility
-In the urban open world of Hesperia, these characters offer distinct advantages outside of combat:
+In the urban open world of Hesperia, these characters offer distinct advantages outside of combat
 
 *   **Nanally's Profit Management:** Nanally has a passive life skill that increases the sale price of dishes at player-owned or partnered restaurants. For players focused on the "business" aspect of NTE and accumulating in-game currency (Hesperia Dollars), Nanally provides a permanent [exact value pending official confirmation] boost to income.
 *   **Hotori's Time Dilatation:** Hotori can use her time-manipulation powers during exploration. This is essential for specific high-tier puzzles that require slowing down moving platforms or bypassing security lasers. She is also highly effective for stealth missions, as she can freeze guard patrol paths temporarily.
@@ -119,10 +119,10 @@ Absolutely. In fact, the "Eibon Shop Duo" is currently a cornerstone of the meta
 The May 2026 meta shift has highlighted that while raw damage (Nanally) wins battles, utility and time manipulation (Hotori) win wars. Whether you choose the fierce "Ichi-daime" or the mysterious time-weaver, both characters represent the pinnacle of their respective elements in the current version of Neverness to Everness.
 
 ## Sources
-- neverness.gg — https://neverness.gg/characters/nanally
-- neverness.gg — https://neverness.gg/characters/hotori
-- prydwen.gg — https://www.prydwen.gg/nte/guides/meta-analysis-may-2026
-- kaiden.gg — https://kaiden.gg/nte/characters/nanally-vs-hotori
-- gamerant.com — https://gamerant.com/neverness-to-everness-nanally-hotori-comparison/
+- neverness.gg
+- neverness.gg
+- prydwen.gg
+- kaiden.gg
+- gamerant.com
 - pocketgamer.com — https://www.pocketgamer.com/neverness-to-everness/best-characters-guide/
 - official-nte-discord — https://discord.com/channels/nte-official/announcements/1.0-banner-details

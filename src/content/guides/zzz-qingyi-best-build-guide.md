@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Qingyi Best Build Guide: Best Weapons, Disks, and Teams"
 slug: zzz-qingyi-best-build-guide
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T23:55:59.524255+00:00"
 published_url: /guides/zzz-qingyi-best-build-guide
 sources: []
 hero_image: /img/zzz-qingyi-best-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/zzz-qingyi-best-build-guide/inline-1.webp
   - /img/zzz-qingyi-best-build-guide/inline-2.webp
   - /img/zzz-qingyi-best-build-guide/inline-3.webp
   - /img/zzz-qingyi-best-build-guide/inline-4.webp
   - /img/zzz-qingyi-best-build-guide/inline-5.webp
   - /img/zzz-qingyi-best-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Maximize your team's damage potential by mastering the mechanical precision and overwhelming Daze application of New Eridu’s most efficient Public Security officer.
 
@@ -63,7 +63,7 @@ The defining feature of Qingyi's gameplay is the **Flash Connect Voltage**. This
 
 ### Skill Upgrade Priority
 
-To optimize your resources, focus on upgrading Qingyi’s skills in the following order:
+To optimize your resources, focus on upgrading Qingyi’s skills in the following order
 1.  **Core Skill:** This upgrades her Impact-to-ATK conversion and the maximum Stun DMG Multiplier bonus.
 2.  **Basic Attack:** This is her primary source of Daze and Voltage.
 3.  **EX Special Attack:** Provides a significant burst of Daze and helps maintain Voltage.
@@ -120,7 +120,7 @@ If you have achieved the 220 Impact cap through other means, you can consider **
 
 ### Optimal Main Stats and Substats
 
-When farming for Drive Discs, prioritize the following main stats:
+When farming for Drive Discs, prioritize the following main stats
 
 | Disk Slot | Recommended Main Stat |
 | :--- | :--- |
@@ -211,7 +211,7 @@ If you are in the middle of her Basic Attack 3 (the staff spam) and an enemy att
 ## Sources
 
 - Zenless Zone Zero Official Wiki — https://zenless-zone-zero.fandom.com/wiki/Qingyi
-- Prydwen Institute ZZZ Qingyi Guide — https://www.prydwen.gg/zenless-zone-zero/characters/qingyi
+- Prydwen Institute ZZZ Qingyi Guide
 - Game8 Zenless Zone Zero Qingyi Build & Best Team — https://game8.co/games/Zenless-Zone-Zero/archives/460144
-- Mobalytics ZZZ Qingyi Build Guide — https://mobalytics.gg/zzz/characters/qingyi/build
-- Pocket Tactics ZZZ Qingyi Build — https://www.pockettactics.com/zenless-zone-zero/qingyi-build
+- Mobalytics ZZZ Qingyi Build Guide
+- Pocket Tactics ZZZ Qingyi Build

@@ -1,4 +1,4 @@
----
+--
 title: Best Disk Sets for DPS in Neverness to Everness (NTE Tier List)
 slug: nte-best-disk-sets-dps-tier-list
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T18:05:07.121933+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/nte-best-disk-sets-dps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/nte-best-disk-sets-dps-tier-list/inline-1.webp
   - /img/nte-best-disk-sets-dps-tier-list/inline-2.webp
   - /img/nte-best-disk-sets-dps-tier-list/inline-3.webp
   - /img/nte-best-disk-sets-dps-tier-list/inline-4.webp
   - /img/nte-best-disk-sets-dps-tier-list/inline-5.webp
   - /img/nte-best-disk-sets-dps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your Esper’s damage output requires more than just leveling up weapons; you must master the spatial puzzle of the Console system to unlock the highest damage ceilings.
 
@@ -52,7 +52,7 @@ Damage in NTE is heavily dictated by elemental types. Currently, the meta is dom
 
 ### Ranking Criteria Explained
 
-Our rankings are based on three primary factors:
+Our rankings are based on three primary factors
 1.  **Raw Damage Ceiling:** The maximum theoretical damage increase provided by the 4-piece set bonus in endgame scenarios.
 2.  **Ease of Activation:** How difficult it is to maintain the set's buffs. Sets that require complex "Esper Cycles" (specific skill rotations) are ranked lower than those with high uptime.
 3.  **Versatility:** Can the set be used by multiple top-tier DPS characters like [Nanally](/characters/nanally-guide-nte) or [Hotori](/characters/hotori-best-team-nte), or is it restricted to a single niche?
@@ -184,7 +184,7 @@ For now, focus your "Module Gacha" efforts on obtaining high-quality shapes for 
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - NTE Community Wiki (Game8) — https://game8.co/games/NTE
-- IGN: Neverness to Everness Gear Guide — https://www.ign.com/wikis/neverness-to-everness/Console_Gear_System
+- IGN: Neverness to Everness Gear Guide
 - Reddit: r/NTE_Official Theorycrafting Megathread — https://www.reddit.com/r/NTE_Official/comments/1cg3k2/theorycrafting_disk_sets/
 - Mobalytics: NTE Tier List and Builds — https://mobalytics.gg/nte/tier-list/cartridges
-- Prydwen.gg: Neverness to Everness Character & Gear Database — https://www.prydwen.gg/nte/guides/disk-sets-explained/
+- Prydwen.gg: Neverness to Everness Character & Gear Database

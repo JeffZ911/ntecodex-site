@@ -1,4 +1,4 @@
----
+--
 title: "Yelan vs Xingqiu: Which Hydro Sub-DPS is Best in Genshin Impact?"
 slug: yelan-vs-xingqiu-hydro-comparison
 game: genshin
@@ -9,17 +9,17 @@ published_at: "2026-05-13T05:34:43.002095+00:00"
 published_url: /guides/yelan-vs-xingqiu-hydro-comparison
 sources: []
 hero_image: /img/yelan-vs-xingqiu-hydro-comparison/hero.webp
-inline_images:
+inline_images
   - /img/yelan-vs-xingqiu-hydro-comparison/inline-1.webp
   - /img/yelan-vs-xingqiu-hydro-comparison/inline-2.webp
   - /img/yelan-vs-xingqiu-hydro-comparison/inline-3.webp
   - /img/yelan-vs-xingqiu-hydro-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Choosing between the two strongest Hydro off-fielders in Genshin Impact often feels like deciding between a sharp sword and a powerful bow, as both Yelan and Xingqiu offer indispensable value to almost any account. While they share similar roles, their differences in damage scaling, defensive utility, and elemental application determine which one will truly elevate your specific team composition.
 
@@ -88,7 +88,7 @@ Xingqiu scales with ATK, which means he benefits from standard team buffs. While
 
 ### Defensive Utility and Interruption Resistance
 
-This is the category where Xingqiu remains unbeaten. His Elemental Skill, *Guhua Sword: Fatal Rainscreen*, creates Rain Swords that provide:
+This is the category where Xingqiu remains unbeaten. His Elemental Skill, *Guhua Sword: Fatal Rainscreen*, creates Rain Swords that provide
 1.  **Damage Reduction:** Usually around 40% to 45% based on his Hydro DMG bonus.
 2.  **Interruption Resistance:** This allows characters like Yoimiya or Wanderer to complete their attack strings without being knocked back by enemies.
 3.  **Healing:** When a sword breaks or expires, it heals the active character based on Xingqiu’s Max HP.
@@ -97,7 +97,7 @@ Yelan offers zero defensive utility. She is a "glass cannon" support. If you use
 
 ### Weapon and Artifact Flexibility
 
-Both characters favor the *Emblem of Severed Fate* 4-piece artifact set, as it converts their high Energy Recharge (ER) requirements into Burst damage. However, their weapon choices differ:
+Both characters favor the *Emblem of Severed Fate* 4-piece artifact set, as it converts their high Energy Recharge (ER) requirements into Burst damage. However, their weapon choices differ
 
 *   **Xingqiu:** Almost exclusively tied to the *Sacrificial Sword*. This allows him to cast his Skill twice, effectively doubling his energy particle generation and ensuring his 80-cost Burst is always ready. *Favonius Sword* is a secondary F2P option.
 *   **Yelan:** Has much more variety. Her signature 5-star bow, *Aqua Simulacra*, provides a massive 88.2% CRIT DMG. For F2P players, the *Favonius Warbow* (given for free during the Monstadt Archon Quest) is her best-in-slot 4-star option because it solves her energy issues while providing high utility for the team.
@@ -165,6 +165,6 @@ Ultimately, Yelan and Xingqiu are two sides of the same coin. Xingqiu provides t
 - Yelan vs Xingqiu Comparison Guide — https://game8.co/games/Genshin-Impact/archives/376284
 - Elemental Gauge Theory — https://genshin-impact.fandom.com/wiki/Elemental_Gauge_Theory
 - Hydro Resonance Effects — https://genshin-impact.fandom.com/wiki/Elemental_Resonance
-- Yelan Character Builds — https://www.prydwen.gg/genshin/characters/yelan
-- Xingqiu Character Builds — https://www.prydwen.gg/genshin/characters/xingqiu
-- Hu Tao Team Comps — https://gamerant.com/genshin-impact-best-hu-tao-team-compositions-guide/
+- Yelan Character Builds
+- Xingqiu Character Builds
+- Hu Tao Team Comps

@@ -1,4 +1,4 @@
----
+--
 title: "Best Support & Healers in Neverness to Everness: Tier List"
 slug: best-support-healers-nte-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 9.6
 word_count: 1776
 published_at: "2026-05-22T12:21:20.277991+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExHVri83p1D5DK1nASD4fkgvGxJBSYS3Zb754FqkxB1gHiUr8zBVv6gvH730Lp7rmRVI7nxyS2U_OyHglcQNTvJ2h8YgyrMja4UOrqZMm0uDB8gs1N8t8a81ekVBS7yUAV23IoIShRd8h7zzt2YC0PaYmgEXmzePRqAPri9x1iaYAIpInacA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbP0CdllDu7tRVkx9BkFSi6RZcJIr2iowX0TM7qFdGmk8VD2yj_K38kVNReNVvCCo6hiZ_GrafdI7TJCouzkNLxp1A0dAZBYQh9rCQ3cRi3NQAibUE0Px_DrTQTB9AmDyCMek7xWcukPTAreI28lwPF7sMzFiG9g=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX-Aqq00tqgXFlbkt6aMMMcTWxnzlZQGMufh4ydY66FzQ1om3hUUCryZ3S59qFBt8OXSgOQhFoCrE0ZyoZdMdh3hb4j5amZjJwClTYCQOtgO9iqcsYWcxLR6nGTF6jlpvDbu3xbuaYv-qHhfMISfK3ZuuvwgrCmyfIr12Ed91VCZaStA=="
@@ -29,21 +29,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm7DVt-Bnpa4w-R-Tr-ev7Ox4ZV2kYTv-CRS2cDQDxB4exno4UUmZKOnaWqKwnMsF_RycHoMj9pLcAI3fT7x6Df5lwyDvc8Jl4EIt27F3X17btljVI5TtxyMEd9KqdRMNFlq-tCWVsmH1XlaV6T8t5hDyZQPaGhSWtZc7GAqYM5eU="
 game: unknown
 hero_image: /img/best-support-healers-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-support-healers-nte-tier-list/inline-1.webp
   - /img/best-support-healers-nte-tier-list/inline-2.webp
   - /img/best-support-healers-nte-tier-list/inline-3.webp
   - /img/best-support-healers-nte-tier-list/inline-4.webp
   - /img/best-support-healers-nte-tier-list/inline-5.webp
   - /img/best-support-healers-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 In the high-stakes combat of Hethereau, survival depends less on raw damage and more on how efficiently you manage your team's health and buffs. Choosing the right utility units can make the difference between clearing a floor in Beyond the Rails or facing a total party wipe against an Anomaly boss.
 
@@ -178,9 +178,9 @@ As of late May 2026, the community consensus has shifted toward shielding and da
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Mobalytics NTE Character Guide — https://mobalytics.gg/neverness-to-everness/characters/
-- Kaiden.gg Esper Cycle Mechanics — https://kaiden.gg/nte/esper-cycles-reactions/
+- Kaiden.gg Esper Cycle Mechanics
 - LootBar Haniel Build & Team Guide — https://lootbar.gg/guide/nte/haniel-best-build-arc-teams
-- Neverness.gg Sakiri Skills and Arcs — https://neverness.gg/characters/sakiri/
+- Neverness.gg Sakiri Skills and Arcs
 - Enjoygm Fadia Survival Guide — https://enjoygm.com/blog/neverness-to-everness-fadia-build-guide
 - Icy Veins Hotori Skill Breakdown — https://www.icy-veins.com/nte/characters/hotori/
-- Dexerto Adler Skills and Karma Mechanics — https://www.dexerto.com/neverness-to-everness/adler-build-skills-12345/
+- Dexerto Adler Skills and Karma Mechanics

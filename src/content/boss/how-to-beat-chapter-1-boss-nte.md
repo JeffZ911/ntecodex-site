@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Film - MANISH: Neverness to Everness Chapter 1 Boss Guide"
 slug: how-to-beat-chapter-1-boss-nte
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T10:16:02.596275+00:00"
 published_url: /boss/how-to-beat-chapter-1-boss-nte
 sources: []
 hero_image: /img/how-to-beat-chapter-1-boss-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-chapter-1-boss-nte/inline-1.webp
   - /img/how-to-beat-chapter-1-boss-nte/inline-2.webp
   - /img/how-to-beat-chapter-1-boss-nte/inline-3.webp
   - /img/how-to-beat-chapter-1-boss-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
----
+--
 
 Taking down the first major anomaly in Hethereau requires a firm grasp of the parry system and the right elemental synergies. This guide provides the exact tactics needed to defeat Film - MANISH and clear the Film Orbit Studio.
 
@@ -167,7 +167,7 @@ Defeating Film - MANISH for the first time provides a massive injection of resou
 
 ### Achievements Unlocked
 
-Completing this fight usually triggers the following achievements:
+Completing this fight usually triggers the following achievements
 *   **"Snap! Don't Blink!"**: Defeat Film - MANISH without being hit by the Flash Film spikes.
 *   **"Director's Cut"**: Defeat Film - MANISH within 180 seconds.
 *   **"Anomaly Contained"**: Complete the Chapter 1 finale.
@@ -182,4 +182,4 @@ After the story clear, you can return to the Film Orbit Studio via the "Anomaly 
 - IGN: Neverness to Everness Boss Guides — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Chapter 1 Walkthrough — https://game8.co/games/NTE
 - Reddit: r/NTE_Official - Film Manish Strategy Discussion — https://www.reddit.com/r/NTE_Official/
-- Prydwen.gg: NTE Character Database and Attribute Weaknesses — https://www.prydwen.gg/nte/characters/
+- Prydwen.gg: NTE Character Database and Attribute Weaknesses

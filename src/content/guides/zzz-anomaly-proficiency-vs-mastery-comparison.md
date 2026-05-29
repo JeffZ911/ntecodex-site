@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Anomaly Proficiency vs Mastery: Which Stat is Better?"
 slug: zzz-anomaly-proficiency-vs-mastery-comparison
 game: zzz
@@ -9,15 +9,15 @@ published_at: "2026-05-14T07:47:25.422811+00:00"
 published_url: /guides/zzz-anomaly-proficiency-vs-mastery-comparison
 sources: []
 hero_image: /img/zzz-anomaly-proficiency-vs-mastery-comparison/hero.webp
-inline_images:
+inline_images
   - /img/zzz-anomaly-proficiency-vs-mastery-comparison/inline-1.webp
   - /img/zzz-anomaly-proficiency-vs-mastery-comparison/inline-2.webp
   - /img/zzz-anomaly-proficiency-vs-mastery-comparison/inline-3.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
----
+--
 
 Optimizing an Anomaly Agent in Zenless Zone Zero requires a precise balance between triggering status effects quickly and ensuring those effects deal maximum damage.
 
@@ -77,7 +77,7 @@ To truly optimize a build, you must look at the math behind the status effects. 
 
 Anomaly Proficiency is a direct multiplier for the damage triggered when an enemy’s Anomaly gauge reaches 100%. Unlike standard physical attacks that rely on Crit Rate and Crit DMG, Anomaly effects like **Burn** (Fire) and **Shock** (Electric) cannot naturally crit unless a specific character passive allows it. Instead, they rely on Proficiency to reach high numbers.
 
-The base formula for Anomaly Damage is:
+The base formula for Anomaly Damage is
 `Anomaly DMG = Base DMG (Level-based) * (Anomaly Proficiency / 100) * ATK Multiplier * DMG % Bonuses * Enemy Resistance`
 
 Every single point of Anomaly Proficiency adds 1% to your base damage multiplier. For example, if an Agent has 200 Anomaly Proficiency, their Anomaly effects will deal 200% of the base damage. If you push that to 400 Proficiency, the damage doubles again to 400%.
@@ -165,6 +165,6 @@ If you find that your status effects are dealing massive damage but taking too l
 ## Sources
 
 - Zenless Zone Zero Wiki — https://zenless-zone-zero.fandom.com/wiki/Anomaly
-- Prydwen ZZZ Guides — https://www.prydwen.gg/zenless-zone-zero/guides/anomaly-mechanics
+- Prydwen ZZZ Guides
 - Game8 ZZZ Database — https://game8.co/games/Zenless-Zone-Zero/archives/460331
 - Official Zenless Zone Zero Hoyolab — https://www.hoyolab.com/circles/9/37/official

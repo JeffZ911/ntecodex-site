@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE DPS Tier List: Top Characters Ranked (May 2026)"
 slug: best-nte-dps-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-nte-dps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-dps-tier-list/inline-1.webp
   - /img/best-nte-dps-tier-list/inline-2.webp
   - /img/best-nte-dps-tier-list/inline-3.webp
   - /img/best-nte-dps-tier-list/inline-4.webp
   - /img/best-nte-dps-tier-list/inline-5.webp
   - /img/best-nte-dps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Dominating the urban battlefields of Helios City requires a deep understanding of how your Espers interact during high-intensity Anomaly hunts. This May 2026 DPS tier list ranks the current roster based on their performance in the post-[Hotori](/characters/hotori-best-team-nte) meta, ensuring you invest your resources into the most efficient damage dealers available.
 
@@ -40,7 +40,7 @@ Success in Neverness to Everness (NTE) hinges on more than just raw Attack stats
 
 Ranking the Espers of NTE requires a multifaceted approach that accounts for the game's unique "Tag-Team" combat mechanics. Unlike traditional RPGs where a single unit stays on field indefinitely, NTE rewards high "Cycle Rate" efficiency—the speed at which a character can generate Esper Meter to swap in the next teammate.
 
-Our evaluation is based on five primary criteria:
+Our evaluation is based on five primary criteria
 
 1.  **Raw Damage Scaling:** The mathematical ceiling of a character’s kit, specifically looking at CRIT DMG multipliers and ability scaling.
 2.  **Esper Cycle Synergy:** How well a character facilitates reactions. We prioritize units that can reliably trigger Blossom (Cosmos + Anima) for area-of-effect (AoE) shred or Scorch (Incantation + Chaos) for massive single-target melt.
@@ -208,7 +208,7 @@ The community recently discovered the "Triple Cycle" rotation, which involves a 
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- IGN: Neverness to Everness Combat Guide — https://www.ign.com/articles/neverness-to-everness-everything-we-know
+- IGN: Neverness to Everness Combat Guide
 - Game8: NTE Tier List and Character Rankings — https://game8.co/games/Neverness-to-Everness/archives/tier-list
-- Beebom: NTE Elements and Reactions Explained — https://beebom.com/neverness-to-everness-elements-reactions-guide/
-- Oslink: NTE Patch 1.0.1 Notes — https://www.oslink.io/article/neverness-to-everness-patch-notes-may-2026
+- Beebom: NTE Elements and Reactions Explained
+- Oslink: NTE Patch 1.0.1 Notes

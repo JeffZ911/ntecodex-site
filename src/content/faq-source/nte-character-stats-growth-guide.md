@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Stats and Growth Guide: How to Maximize Power"
 slug: nte-character-stats-growth-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-stats-growth-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-stats-growth-guide/inline-1.webp
   - /img/nte-character-stats-growth-guide/inline-2.webp
   - /img/nte-character-stats-growth-guide/inline-3.webp
   - /img/nte-character-stats-growth-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your Esper's potential in Hethereau requires more than just raw levels; it demands a deep understanding of the city's unique, multi-layered growth mechanics. This guide breaks down every facet of character development to help you build the ultimate team for tackling high-level Anomalies.
 
@@ -63,7 +63,7 @@ The progression system in Neverness to Everness is designed to reward consistent
 
 Every character, or Esper, in NTE is defined by their core stats and their Elemental Attribute. While HP, ATK, and DEF are standard, **Break Intensity** is perhaps the most critical stat for high-level play. Enemies in NTE often possess heavy shielding that mitigates direct damage; high Break Intensity allows your "Solid" or "Damage" roles to shatter these shields, entering a "Break" state where the enemy takes significantly increased damage.
 
-Furthermore, every Esper belongs to one of six Elemental Attributes:
+Furthermore, every Esper belongs to one of six Elemental Attributes
 *   **Cosmos**
 *   **Anima**
 *   **Incantation**
@@ -75,14 +75,14 @@ Elemental synergy is vital because certain Anomalies possess weaknesses that, wh
 
 ### Leveling and Ascension: Breaking the Level Cap
 
-Character leveling is the most immediate way to increase base stats. This process requires **Beetle Coins** (the primary currency) and **Hunter Guides**. These guides come in three tiers:
+Character leveling is the most immediate way to increase base stats. This process requires **Beetle Coins** (the primary currency) and **Hunter Guides**. These guides come in three tiers
 1.  **Rising Hunter Guide:** Provides [information unavailable] EXP.
 2.  **Senior Hunter Guide:** Provides [information unavailable] EXP.
 3.  **Elite Hunter Guide:** Provides the highest EXP yield for late-game leveling.
 
 However, you cannot level a character indefinitely. The **Hunter Rank Gate** acts as a global progression check. You must reach **Hunter Rank 10** before the game allows you to perform the first Ascension (Breakthrough). Once the cap is reached (initially Level 20 or 40 depending on the current world tier), you must collect specific materials to "Ascend" the character, raising the level cap and unlocking new passive talents.
 
-Ascension materials are typically split into two categories:
+Ascension materials are typically split into two categories
 *   **Regional Materials:** Common drops found in the open world, such as **Nestbound Bird** fragments.
 *   **Boss Materials:** Rare drops obtained from **Anomaly Pilgrimages**. Each character requires a specific boss drop that aligns with their element or lore.
 
@@ -90,7 +90,7 @@ Ascension materials are typically split into two categories:
 
 Each Esper possesses a suite of abilities: Basic Attack, Skill, Ultimate, and Passive. These can be upgraded to a maximum of Level 10. Upgrading skills is often more impactful than gaining a few character levels because the damage multipliers increase significantly at higher ranks.
 
-To upgrade these abilities, you must participate in **Houdinii’s Schemes**, which are specialized combat challenges. These challenges consume **Character Pixels**, the game's stamina resource. Because Character Pixels are limited, you should prioritize skill upgrades based on the character's role:
+To upgrade these abilities, you must participate in **Houdinii’s Schemes**, which are specialized combat challenges. These challenges consume **Character Pixels**, the game's stamina resource. Because Character Pixels are limited, you should prioritize skill upgrades based on the character's role
 *   **Damage Roles:** Prioritize Ultimate and Main Skill.
 *   **Buff/Survival Roles:** Prioritize the skill that provides the highest utility or healing scaling.
 *   **Solid Roles:** Prioritize abilities that increase Break Intensity.
@@ -101,7 +101,7 @@ The Awakening system in NTE is a departure from traditional linear "constellatio
 
 Unlike other games where you must unlock Node 1 to get to Node 2, NTE allows for a degree of non-linear choice. You can often choose which specific stat boost or minor passive enhancement you want to activate first based on the available Mind Shards. 
 
-The true power of this system lies in **Resonance**. Resonance effects are major gameplay-altering modifiers that trigger when you have accumulated a specific number of Awakening stacks:
+The true power of this system lies in **Resonance**. Resonance effects are major gameplay-altering modifiers that trigger when you have accumulated a specific number of Awakening stacks
 *   **3-Stack Resonance:** Usually provides a significant utility boost, such as energy regeneration or cooldown reduction for the Esper's main skill.
 *   **6-Stack Resonance:** The ultimate power spike. This often includes massive damage multipliers (e.g., [exact value pending official confirmation] increase to Ultimate damage) or fundamental changes to how an Esper's kit functions.
 
@@ -148,5 +148,5 @@ The Tetris-like Module system can be frustrating if you receive a powerful stat 
 - NTE Wiki on Game8 — https://game8.co/games/Neverness-to-Everness
 - Neverness to Everness News on IGN — https://www.ign.com/games/neverness-to-everness
 - Hotta Studio Official Discord — https://discord.com/invite/nte
-- NTE Character Database on Prydwen — https://www.prydwen.gg/nte/ characters/
+- NTE Character Database on Prydwen —  characters/
 - Neverness to Everness Subreddit — https://www.reddit.com/r/NTE_Official/

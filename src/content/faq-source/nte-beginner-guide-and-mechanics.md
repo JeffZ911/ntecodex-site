@@ -1,4 +1,4 @@
----
+--
 title: "NTE Beginner Guide and Mechanics: Master Hesperia (2026)"
 slug: nte-beginner-guide-and-mechanics
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-guide-and-mechanics/hero.webp
-inline_images:
+inline_images
   - /img/nte-beginner-guide-and-mechanics/inline-1.webp
   - /img/nte-beginner-guide-and-mechanics/inline-2.webp
   - /img/nte-beginner-guide-and-mechanics/inline-3.webp
   - /img/nte-beginner-guide-and-mechanics/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redefined the urban open-world genre by blending high-octane combat with a deep city-life simulation. Developed by Hotta Studio, the game places you in the role of an "Appraiser" at the Bureau of Anomaly Control within the sprawling metropolis of Hesperia. Whether you are hunting down supernatural anomalies or managing a multi-million Fons business empire, the sheer scale of the game can be overwhelming for new players.
 
@@ -32,7 +32,7 @@ Since its global launch on April 29, 2026, Neverness to Everness (NTE) has redef
 ![Question Restated](/img/nte-beginner-guide-and-mechanics/inline-1.webp)
 
 
-Navigating the streets of Hesperia requires a solid understanding of both tactical combat and economic management. New players frequently ask:
+Navigating the streets of Hesperia requires a solid understanding of both tactical combat and economic management. New players frequently ask
 
 *   **What are the fundamental gameplay mechanics in Neverness to Everness (NTE)?** The game features a hybrid system of real-time action combat and a "Tycoon" business management layer.
 *   **How does the combat system, specifically the Esper Cycle, work?** Combat is built around a four-character team rotation where filling a specialized meter triggers elemental reactions.
@@ -128,7 +128,7 @@ As you progress beyond the first week, you should look into optimizing your team
 ## Sources
 
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html
-- neverness.gg — https://neverness.gg/guides/beginner-mechanics-esper-cycle
-- oslink.io — https://www.oslink.io/article/neverness-to-everness-gameplay-guide
-- ntegame.com — https://www.ntegame.com/en/news/detail/1024
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-tier-list-and-mechanics/
+- neverness.gg
+- oslink.io
+- ntegame.com
+- mobalytics.gg

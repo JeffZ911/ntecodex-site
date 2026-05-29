@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Support Character Guide: Best Espers"
 slug: neverness-to-everness-support-character-guide
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T11:53:32.512413+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-support-character-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-support-character-guide/inline-1.webp
   - /img/neverness-to-everness-support-character-guide/inline-2.webp
   - /img/neverness-to-everness-support-character-guide/inline-3.webp
   - /img/neverness-to-everness-support-character-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building a high-performance team in Hethereau requires more than just raw power; it demands a deep understanding of how utility Espers amplify your damage dealers through the complex Esper Cycle system. This Neverness to Everness support character guide breaks down the top-tier units you need to master to clear endgame content following the game's April 2026 launch.
 
@@ -34,7 +34,7 @@ When building a team in Neverness to Everness (NTE), players often find themselv
 
 In the version 1.0 meta, support Espers are not just healers or shielders; they are the engines that drive the **Esper Cycle**. Understanding the roles these characters play—from crowd control and damage amplification to resource generation—is vital for any player looking to tackle high-level Anomalies.
 
-Specifically, this guide addresses:
+Specifically, this guide addresses
 *   The current ranking of support Espers based on utility and ease of use.
 *   How specific mechanics, such as [Sakiri](/characters/sakiri-nte-free-5-star-guide)’s "Eating Mode" or [Hotori](/characters/hotori-best-team-nte)’s "Skill Recording," redefine combat rotations.
 *   The interaction between support skills and elemental reactions like Blossom, Charge, and Discord to maximize team-wide DPS.
@@ -102,7 +102,7 @@ The **Esper Cycle** is the elemental reaction system that dictates the flow of c
 
 [Diagram illustrating the Esper Cycle elemental reaction wheel (Cosmos, Anima, Incantation, Chaos, Psyche, Lakshana).]
 
-When you swap characters in a specific sequence, you trigger powerful reactions:
+When you swap characters in a specific sequence, you trigger powerful reactions
 *   **Blossom:** Triggered by swapping from a **Cosmos** character to an **Anima** character. This reaction creates an area-of-effect (AoE) explosion that restores a portion of the team's Ultimate energy.
 *   **Trio-Esper Reactions:** In the endgame, you can trigger advanced reactions like **Charge** and **Discord**. 
     *   **Charge** occurs when three different elements are cycled through within a [Information not yet publicly available as of 2026-05-15] second window, significantly boosting the active character's break damage.
@@ -129,7 +129,7 @@ In Neverness to Everness, weapons are known as **Arcs**. Choosing the right Arc 
 ![Related](/img/neverness-to-everness-support-character-guide/inline-4.webp)
 
 
-To further optimize your Hethereau experience, consider exploring our other specialized guides:
+To further optimize your Hethereau experience, consider exploring our other specialized guides
 
 *   **NTE team building guide:** Learn how to pair these supports with top-tier attackers like Nanally and Jiuyuan for maximum efficiency.
 *   **Sakiri best build guide:** A deep dive into the specific Arcs, gear sets, and talent priorities for the game's best support.
@@ -140,7 +140,7 @@ To further optimize your Hethereau experience, consider exploring our other spec
 
 - Neverness to Everness Official Site — https://www.ntegame.com
 - IGN: Neverness to Everness Character Database — https://www.ign.com/games/neverness-to-everness
-- Mobalytics: NTE Tier List and Meta Report — https://mobalytics.gg/blog/neverness-to-everness-tier-list/
-- Kaiden: Esper Cycle and Elemental Reactions Guide — https://kaiden.gg/nte/mechanics-guide/
+- Mobalytics: NTE Tier List and Meta Report
+- Kaiden: Esper Cycle and Elemental Reactions Guide
 - BlueStacks: Neverness to Everness Beginner's Tips — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html
 - OSLink: NTE Character Skills and Arcs — https://www.oslink.io/blog/neverness-to-everness-characters-guide/

@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Yanagi Best Build Guide: Best W-Engines, Discs, & Teams"
 slug: zzz-yanagi-best-build-guide
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-13T23:56:00.577646+00:00"
 published_url: /guides/zzz-yanagi-best-build-guide
 sources: []
 hero_image: /img/zzz-yanagi-best-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/zzz-yanagi-best-build-guide/inline-1.webp
   - /img/zzz-yanagi-best-build-guide/inline-2.webp
   - /img/zzz-yanagi-best-build-guide/inline-3.webp
   - /img/zzz-yanagi-best-build-guide/inline-4.webp
   - /img/zzz-yanagi-best-build-guide/inline-5.webp
   - /img/zzz-yanagi-best-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Tsukishiro Yanagi brings a revolutionary shift to the Anomaly meta in Zenless Zone Zero, offering a high-octane playstyle that redefines how Disorder damage is calculated and applied. As the deputy chief of Section 6, her technical "stance-dancing" mechanics allow players to shred through enemy resistances while maintaining constant elemental pressure.
 
@@ -124,7 +124,7 @@ In a Mono-Electric team (e.g., Yanagi, Rina, Seth), Thunder Metal is a viable al
 
 ### 2-Piece Combinations for Stat Balancing
 
-If you are still farming for a perfect 4-piece Chaos Jazz set, you can mix and match the following 2-piece bonuses:
+If you are still farming for a perfect 4-piece Chaos Jazz set, you can mix and match the following 2-piece bonuses
 *   **Freedom Blues:** +30 Anomaly Proficiency. This is almost mandatory for reaching the 375 AP threshold required for her Core Passive.
 *   **Swing Jazz:** +20% Energy Regeneration. Useful if you find yourself struggling to maintain enough energy for EX Special Attacks to keep Shinrabanshou active.
 
@@ -155,7 +155,7 @@ This team triggers constant Fire/Electric Disorders, with Yanagi using Polarity 
 
 ### Mono-Electric and Standard Alternatives
 
-For players who did not pull for Burnice or Caesar, Yanagi remains highly effective in a Mono-Electric shell:
+For players who did not pull for Burnice or Caesar, Yanagi remains highly effective in a Mono-Electric shell
 *   **Yanagi + Rina + Seth:** Rina provides PEN Ratio buffs and increases the duration of Shock. Seth provides a shield, Anomaly Proficiency buffs, and reduces the enemy's Anomaly Resistance.
 *   **Yanagi + Jane Doe + Seth:** A technical team that focuses on "Assault" and "Shock." This team requires precise switching to ensure Jane Doe triggers Assault while Yanagi follows up with Polarity Disorder.
 
@@ -226,6 +226,6 @@ No. This is what makes Yanagi unique. Her Polarity Disorder deals damage based o
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
 - Tsukishiro Yanagi Wiki Fandom — https://zenless-zone-zero.fandom.com/wiki/Tsukishiro_Yanagi
-- Prydwen Institute Yanagi Guide — https://www.prydwen.gg/zenless-zone-zero/characters/yanagi
+- Prydwen Institute Yanagi Guide
 - Game8 Yanagi Build & Team Guide — https://game8.co/games/Zenless-Zone-Zero/archives/475476
 - ZZZ Database Section 6 Overview — https://zzz.database.gg/characters/yanagi

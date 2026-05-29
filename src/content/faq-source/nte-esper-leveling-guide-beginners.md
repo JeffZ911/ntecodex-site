@@ -1,4 +1,4 @@
----
+--
 title: "NTE Esper Leveling Guide for Beginners: How to Power Up Fast"
 slug: nte-esper-leveling-guide-beginners
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-esper-leveling-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-esper-leveling-guide-beginners/inline-1.webp
   - /img/nte-esper-leveling-guide-beginners/inline-2.webp
   - /img/nte-esper-leveling-guide-beginners/inline-3.webp
   - /img/nte-esper-leveling-guide-beginners/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Navigating the supernatural streets of Hethereau requires more than just a fast car; you need a team of Espers capable of handling high-threat Anomalies. Mastering the progression systems is essential for surviving the urban chaos and progressing through the main story episodes.
 
@@ -84,7 +84,7 @@ Beetle Coins are the standard currency used for almost every transaction in NTE.
 
 When an Esper reaches their current maximum level (e.g., level 20), they enter a "Max" state. To continue leveling, you must perform a Breakthrough. This process requires specific materials dropped by Boss Anomalies found throughout the city or in specialized rifts.
 
-Common Breakthrough materials include:
+Common Breakthrough materials include
 *   **Nestbound Bird mask fragments:** Required for several Anima-type Espers.
 *   **Swallowtail ticket stubs:** Essential for specific high-mobility characters.
 *   **[Information not yet publicly available as of 2026-05-24]** for late-game Incantation types.
@@ -107,7 +107,7 @@ An Esper's level determines their base HP, ATK, and DEF, but their gear provides
 
 ### Best Farming Locations: Houdinii's Magic Stage
 
-Efficiency in NTE is defined by how you spend your 240 daily Character Pixels. The most reliable source for leveling materials is Houdinii's Magic Stage. This instance allows you to select the specific resource you need:
+Efficiency in NTE is defined by how you spend your 240 daily Character Pixels. The most reliable source for leveling materials is Houdinii's Magic Stage. This instance allows you to select the specific resource you need
 *   **Manual Stage:** Drops Hunter's Manuals for character EXP.
 *   **Coin Stage:** Drops large quantities of Beetle Coins.
 *   **Pigment Stage:** Drops materials for Arcs and Ability upgrades.
@@ -141,7 +141,7 @@ Focusing your resources on these three initially will allow you to clear most Ap
 
 The City Tycoon system is NTE's unique management and idle income mechanic. By leveling up your Tycoon rank, you earn Fons (a premium-adjacent currency) and can eventually unlock free S-Rank characters like Chiz. 
 
-To level this fast:
+To level this fast
 1.  Complete all urban delivery quests.
 2.  Invest Beetle Coins into high-yield businesses in the downtown area.
 3.  Ensure your "Business Reputation" is maintained by clearing nearby Anomalies that threaten your properties.
@@ -163,4 +163,4 @@ Understanding the "Cycle" is critical because triggering a successful reaction o
 *   IGN: Neverness to Everness Guide — https://www.ign.com/games/neverness-to-everness
 *   Game8: NTE Character Leveling and Materials — https://game8.co/games/Neverness-to-Everness
 *   r/NevernessToEverness: Beginner FAQ and Tips — https://www.reddit.com/r/NevernessToEverness/
-*   Prydwen Institute: NTE Esper Database — https://www.prydwen.gg/nte/
+*   Prydwen Institute: NTE Esper Database

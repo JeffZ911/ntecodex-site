@@ -1,4 +1,4 @@
----
+--
 title: Best Build for Starter Characters in Neverness to Everness (NTE)
 slug: best-build-starter-characters-nte
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T23:54:28.810118+00:00"
 published_url: /guides/best-build-starter-characters-nte
 sources: []
 hero_image: /img/best-build-starter-characters-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-build-starter-characters-nte/inline-1.webp
   - /img/best-build-starter-characters-nte/inline-2.webp
   - /img/best-build-starter-characters-nte/inline-3.webp
   - /img/best-build-starter-characters-nte/inline-4.webp
   - /img/best-build-starter-characters-nte/inline-5.webp
   - /img/best-build-starter-characters-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Building a powerful team in the early hours of Hethereau is the difference between struggling with urban anomalies and effortlessly clearing the city’s toughest challenges.
 
@@ -184,7 +184,7 @@ The "Quick-Swap" philosophy in NTE means you should rarely stay on one character
 
 ### Advanced Mint Combos
 
-Mint’s damage potential increases significantly if you use her specific stamina-based combo:
+Mint’s damage potential increases significantly if you use her specific stamina-based combo
 *   **Skill -> Normal Attack Chain -> Critical Dodge -> Riposte -> Charged Whirlwind.**
 Performing a "Critical Dodge" (dodging just before an attack hits) resets Mint’s Skill cooldown [Information not yet publicly available as of 2026-05-17 regarding the exact internal cooldown of this reset].
 
@@ -220,6 +220,6 @@ Prioritize leveling your characters to the current world cap first, as this incr
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 NTE Wiki — https://game8.co/games/Neverness-to-Everness
-- IGN: Neverness to Everness Character Guide — https://www.ign.com/wikis/neverness-to-everness/Characters
-- Prydwen Institute: NTE Combat Mechanics — https://www.prydwen.gg/nte/guides/combat-mechanics
+- IGN: Neverness to Everness Character Guide
+- Prydwen Institute: NTE Combat Mechanics
 - Reddit: r/NTE_Official Starter Builds — https://www.reddit.com/r/NTE_Official/

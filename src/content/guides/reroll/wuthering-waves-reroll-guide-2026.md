@@ -1,4 +1,4 @@
----
+--
 title: "Wuthering Waves Reroll Guide 2026: Best Starters & Fast Method"
 slug: reroll/wuthering-waves-reroll-guide-2026
 game: wuthering_waves
@@ -7,25 +7,25 @@ qa_score: 9.2
 word_count: 1476
 published_at: "2026-05-14T18:14:33.013940+00:00"
 published_url: /guides/reroll/wuthering-waves-reroll-guide-2026
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEEsOiwShholACaG6jkOjBFxmBO8xubXFVwfQrn1WMuvowqblZ7d1p9KI_Y3xPDs3RldD-8MEfl1f67ZEyegkzvGZWIWB9oi0GP7WqDQp7Xj2sv2YMj_rLUaQSOC7g4NAcjUr2iVnagHtc3NIGwdVb6zh38k8G9BZqfen64sZUIuLn-r6N3CHQJPW40SP2_wog0adbcYeGCFvL41ghJfrEFLixPM2QhkBcaKw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkpau7HRCtaVnzPWi_XreHX3cz-4nErF_OHxauu-W2vS9xv-XdOP45mz9d490sYaotEpT-Lss3NQ4jeAHIHxNQXED5nBjIlLBqL4N-WvV8C2HvU0ly9XyAT2fyTd2YshljtiBRaktnysqcZDLrzzOEqTOhYCX8_LrMJ97e0e9QuQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRFK3YR3zALSaaNf3sCTDdcieNM-mzuqAiInNNRAb5hjhxJvDRTG5HLGLT9ibPOANfhYk5zwKzk9j8NjRAdwWAT1S2vYJvQKrB7tbHcvaT7vjQ3GO2ZehJVfkh3b18pGXb4Q5BQJQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC9FRXs_bM1b14zStLZ4sX1rE-zqZz6HMkiTss90DfI25jo24Mzskk0IyxJEWqlIsGV24ajxjnKrB2obcZURWPMjR2hGIssmEHgMWtxXGC1VtppjMixAAM2jJNUDTtIey9CBy89r1xJnlODImcgQP45_XcMA=="
 hero_image: /img/wuthering-waves-reroll-guide-2026/hero.webp
-inline_images:
+inline_images
   - /img/wuthering-waves-reroll-guide-2026/inline-1.webp
   - /img/wuthering-waves-reroll-guide-2026/inline-2.webp
   - /img/wuthering-waves-reroll-guide-2026/inline-3.webp
   - /img/wuthering-waves-reroll-guide-2026/inline-4.webp
   - /img/wuthering-waves-reroll-guide-2026/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Securing a top-tier account in Wuthering Waves has never been more impactful than during the 2nd Anniversary celebration.
 
@@ -41,7 +41,7 @@ Rerolling in Wuthering Waves remains the most effective strategy for players who
 Rerolling is the process of creating new accounts to use the initial free pulls (Convenes) provided to new players until you land a high-tier 5-star character. In 2026, the power gap between early 1.0 units and modern 3.0 powerhouses is significant, making a "perfect start" more desirable than ever.
 
 ### The 2nd Anniversary Advantage
-The 2nd Anniversary window (Version 3.3) is arguably the best time in the game's history to reroll. Kuro Games has distributed a massive hoard of rewards to celebrate the milestone. Currently, new players can access over 50 free pulls almost immediately upon reaching Jinzhou. This includes:
+The 2nd Anniversary window (Version 3.3) is arguably the best time in the game's history to reroll. Kuro Games has distributed a massive hoard of rewards to celebrate the milestone. Currently, new players can access over 50 free pulls almost immediately upon reaching Jinzhou. This includes
 *   **20x Radiant Tides:** Distributed across two phases in the mail.
 *   **10x Radiant Tides:** Earnable via the "Bountiful Waves" event.
 *   **10x Forging Tides & 10x Lustrous Tides:** Unlocked through the "Second Coming of Solaris" collaboration season.
@@ -99,7 +99,7 @@ Choosing who to keep is the most important part of the reroll. In 2026, the prio
 *   **Denia (Fusion, Rectifier):** A premier Sub-DPS/Support. Denia specializes in "Fusion Burst," which amplifies the Resonance Liberation damage of the entire team. She is the perfect partner for high-burst units and is expected to have massive synergy with the upcoming Lucy from the Cyberpunk collab.
 
 ### A-Tier: Strong Standard Options
-If you are pulling on the Standard/Beginner banner after using your limited Tides, these are the targets:
+If you are pulling on the Standard/Beginner banner after using your limited Tides, these are the targets
 *   **Verina:** Despite being a launch character, Verina remains the #1 support in 2026. Her coordinated attacks and universal DMG buffs are still unmatched by any standard unit.
 *   **Jinhsi & Shorekeeper:** These units from the 1.x and 2.x eras remain highly viable. Jinhsi’s Spectro burst is still top-tier for AoE clearing, while Shorekeeper provides unique utility that newer units haven't fully replaced.
 
@@ -169,4 +169,4 @@ Generally, no. In the 2026 meta, characters provide much more utility and power 
 - LootBar 3.3 Anniversary News — https://www.lootbar.gg/
 - WutheringLab Hiyuki Build — https://wutheringlab.com/
 - Pocket Tactics Wuthering Waves — https://www.pockettactics.com/wuthering-waves/hiyuki
-- GameRant Cyberpunk Collab — https://gamerant.com/wuthering-waves-cyberpunk-edgerunners-collab/
+- GameRant Cyberpunk Collab

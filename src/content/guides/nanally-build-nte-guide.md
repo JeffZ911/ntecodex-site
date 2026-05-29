@@ -1,4 +1,4 @@
----
+--
 title: "Best Nanally Build Guide: Neverness to Everness (NTE)"
 slug: nanally-build-nte-guide
 game: nte
@@ -9,21 +9,21 @@ published_at: "2026-05-13T02:25:57.279394+00:00"
 published_url: /guides/nanally-build-nte-guide
 sources: []
 hero_image: /img/nanally-build-nte-guide/hero.webp
-inline_images:
+inline_images
   - /img/nanally-build-nte-guide/inline-1.webp
   - /img/nanally-build-nte-guide/inline-2.webp
   - /img/nanally-build-nte-guide/inline-3.webp
   - /img/nanally-build-nte-guide/inline-4.webp
   - /img/nanally-build-nte-guide/inline-5.webp
   - /img/nanally-build-nte-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 [Nanally](/characters/nanally-guide-nte) has quickly established herself as the premier Anima-element powerhouse since the game's launch on April 29, 2026. This guide breaks down the optimal setups to maximize her devastating follow-up damage and unique summon mechanics.
 
@@ -188,7 +188,7 @@ The Underboss is a summon unique to Nanally. It is not a separate entity with it
 ## Sources
 - Neverness to Everness Official Site — https://nte.hotta.studio/
 - Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Nanally
-- Prydwen Institute NTE Guide — https://www.prydwen.gg/nte/characters/nanally
+- Prydwen Institute NTE Guide
 - Game8 Neverness to Everness Database — https://game8.co/games/Neverness-to-Everness
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness

@@ -1,4 +1,4 @@
----
+--
 title: How to Unlock Characters in Neverness to Everness (NTE)
 slug: how-to-unlock-characters-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/how-to-unlock-characters-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-unlock-characters-nte/inline-1.webp
   - /img/how-to-unlock-characters-nte/inline-2.webp
   - /img/how-to-unlock-characters-nte/inline-3.webp
   - /img/how-to-unlock-characters-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Building a powerful team of Espers in Hethereau requires more than just luck; it requires a clear understanding of the unique board-game progression and story milestones. Here is exactly how to unlock every character in Neverness to Everness (NTE).
 
@@ -72,7 +72,7 @@ As you progress through the first chapter and reach the Eibon Antique Shop, Adle
 
 The most distinctive feature of NTE is the Scarborough Fair gacha. Instead of a standard animation, you are presented with a board game. Players roll dice—valued 1 through 6—to move a Chuppa piece across various reward tiles. 
 
-There are two types of dice used here:
+There are two types of dice used here
 1. **Fabricated Dice:** Used for the Standard Board (Permanent Pool).
 2. **Solid Dice:** Used for Limited Boards (Featured Characters).
 
@@ -98,7 +98,7 @@ Reaching Level 18 in City Tycoon is the specific milestone for Chiz. This requir
 
 For new players, the most important early-game goal is completing 50 pulls on the Standard Board. Once this milestone is reached, the game grants a one-time S-Rank Selector. This allows you to hand-pick one character from the permanent pool to fill a gap in your team composition.
 
-The Standard Board Selector pool includes:
+The Standard Board Selector pool includes
 * **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Anima):** A tank-oriented character capable of absorbing significant damage.
 * **Daffodil (Psyche):** A dedicated healer and support, often considered the "must-pick" for players who didn't pull a healer early.
 * **Baicang (Incantation):** A high-mobility Main DPS.
@@ -127,6 +127,6 @@ To maximize the potential of your new unlocks, learn about Esper Cycles and elem
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Icy Veins NTE Guide — https://www.icy-veins.com/nte/how-to-unlock-characters/
-- Dexerto Gaming — https://www.dexerto.com/neverness-to-everness/nte-gacha-system-explained-2839401/
+- Dexerto Gaming
 - Game8 Neverness to Everness Wiki — https://game8.co/games/NTE/
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/

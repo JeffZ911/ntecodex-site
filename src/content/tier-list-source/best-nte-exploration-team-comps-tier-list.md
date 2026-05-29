@@ -1,4 +1,4 @@
----
+--
 title: "Best NTE Team Comps for Exploration: Tier List (2026)"
 slug: best-nte-exploration-team-comps-tier-list
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1784
 published_at: "2026-05-24T22:51:22.128070+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENTLtUBqdd_s_DKUDwU29nIHKzsVagwL9Pd96muRKbvF0wV1G8K9EvdM3X6Y8PhGMQm0Qe197EDOCvZgaKoqtshILZ5tksPcDp85YrWQXKylIyg-w73OWYDd39cnQSWUKGYAC0n3BzG5zj8t4c4mplopsf_i5qYmisGw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEshJTy0INp8eFx58qARInieuMn8J5fzcc3fsRhDW2gKf5BjwFnPtVXIA2AbTO8rPP0cOfBKzSBUaZgQ7usHXGkN_sA4M8q13lxoaHxbVvvqKfSDI0-SmxUthVGVDOeVnSDlzp47HFnBnWzFrsSu0ZUFtGndtkV6GScp_mG6uwKZyB2xJl5RldB"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOG9PMFbfnLUOdM9cpkQrYLFyhTsxneac2hO8_tYQKyimEcvcGRe9JKNK24B02jIlelIXSH0-Nzkhte40ZLe6fgCiu9dNJlpt9gf2eWGTM3owcRWgSnOX8UJEJjbS1Neil9n3gaFViaW54RdFIZNGIDrrVUMlAF7NZC7MexLTqnQ=="
@@ -19,21 +19,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU925YAO31EumVfZVKD9tkmrNh7tD3VCwoOTYVqcZz9mTMmuL4-RD1ZHQB0OwqCHXyPnrMP0hwppVYesYYH3NDXaqMVQgjrazAaB4U7VH8jJD8Qi83qeqOIeZBH1HSlvf-dmJT-EnSXh90TVs7fpY-pbMTdBmDRtgVdUoOV8fldlHnyljQkUkm9WE="
 game: unknown
 hero_image: /img/best-nte-exploration-team-comps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-exploration-team-comps-tier-list/inline-1.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-2.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-3.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-4.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-5.webp
   - /img/best-nte-exploration-team-comps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Hethereau is a massive urban playground, but traversing its skyscrapers and traffic-choked streets requires more than just a fast car. To efficiently clear the map and solve every Anomaly puzzle, players must build a team specifically optimized for mobility and resource management.
 
@@ -176,21 +176,21 @@ The upcoming release of **Lacrimosa (June 3, 2026)** is expected to shake up the
 
 ## Sources
 
-- perfectworld.com — https://www.perfectworld.com/news/nte-launch-details-2026
+- perfectworld.com
 - wikipedia.org — https://en.wikipedia.org/wiki/Neverness_to_Everness
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/1ct8x9/nte_official_launch_april_29/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-best-daffodil-build-team/
-- neverness.gg — https://neverness.gg/guides/daffodil-best-build-skills-gear-team/
+- thegamer.com
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/characters/daffodil-guide
 - ldshop.gg — https://www.ldshop.gg/blog/nte/daffodil-best-guide-skills-teams-equipment
 - youtube.com — https://www.youtube.com/watch?v=daffodil_nte_guide_2026
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/lacrimosa-release-date-abilities
+- gamewith.net
 - lootbar.gg — https://lootbar.gg/blog/nte-new-upcoming-characters-list
 - gosugamers.net — https://www.gosugamers.net/nte/news/all-launch-characters-how-to-obtain
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/all-characters-tier-list-1033/
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/guides/character-list-builds
+- dexerto.com
+- mobalytics.gg
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-hathor-build-guide
-- ntegame.com — https://ntegame.com/characters/hathor-build-skills-guide
-- games.gg — https://games.gg/nte/guides/best-nanally-build
-- kaiden.gg — https://kaiden.gg/nte/nanally-rotation-team-guide
+- ntegame.com
+- games.gg
+- kaiden.gg
 - oslink.io — https://www.oslink.io/blog/nte-nanally-build-guide

@@ -1,4 +1,4 @@
----
+--
 title: How to Beat the Never-Ending Arachne World Boss in NTE
 slug: how-to-beat-world-boss-nte-arachne
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 4.7
 word_count: 1613
 published_at: "2026-05-16T10:16:03.020825+00:00"
 published_url: /boss/how-to-beat-world-boss-nte-arachne
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQfE7_CTeZ0eBt-EpklJZBCI-cFRibH4iEHagqgkFYMr_JTDX9-3IxtJF19XCkzU-A_-EhXcaZ6Da-DHac-Z7llh0ryrc-Eq6fw1GtZGPYjYIR1uuKeulFciupZGIkGobHX9misvw="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH0yVM0i0-ei1iBnDyjZ8GtH0e_9ZNRVa2rlKQ3EU4izJw_Nw7VHciT6cEZ42Vtz2as8FfukJnZItX82mXWilMVmmRfxjIDgqcN2tlLTbrzw_hDQsKZ8Ywv84I0QFnMeWlhDF1bbI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeCcPgUhwu0QAuiR0qk5g8TerXjtjKMq2JqxJEnvSaO_pp0xLlErSpKUWYKg-MQ7JPwcPdsL9lqbVY1XpO-uZbnXPBekqCKSShI0GkPeiNYosOXg3bnKrTaHoXItzesMbRP5dLBjC-RBWeUuyqRHo52AUFfZAYZ1yxN9wk-SmwzXVabA8bzH6kVVjxmVyBwXCt5NpENSXbxSgooWlX8UjqQDOKr7yT8VKvggyzHyTCyg8TTctC"
@@ -26,19 +26,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_qvaREaVzMD_WwGTdvQw_kGO7xQrf2GMERYGhjKW7ni8Hzf3YLstj54IMUP4Y4zJftbPNF03h_s4XsESPtO4DNNMM7yJkRhLQcV1WBe_zlx_XNd7Gi-YZZe3H2PRkE1kaMjulTI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG84ehyqET-SGEDQNSLpY0U5tdemlO-7DmV3HmsAI8s7CQswoWXsiSFZGMSkZ6twBc1el1c8q7zvUoy4P4qsG4D9RM87xJr6L4dwVon91XRHn9xDNWRO03aqbskHqFsZnl-ClDKAenHeTX5ZaO1Mpq9M8E9hwepuCWLluopdKlTFWPXQx9HSM8="
 hero_image: /img/how-to-beat-world-boss-nte-arachne/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-world-boss-nte-arachne/inline-1.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-2.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-3.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-4.webp
   - /img/how-to-beat-world-boss-nte-arachne/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 The Never-Ending Arachne is one of the most mechanically demanding High-Risk Anomalies in Neverness to Everness, requiring precise parry timing and a deep understanding of the Esper Cycle system to overcome.
 
@@ -197,11 +197,11 @@ The rewards reset every **Monday at 4:00 AM server time**. It is recommended to 
 
 ## Sources
 
-- Gamewith NTE Wiki — https://www.gamewith.net/neverness-to-everness/article/show/45821
-- TheGamer Boss Guides — https://www.thegamer.com/neverness-to-everness-arachne-boss-guide/
+- Gamewith NTE Wiki
+- TheGamer Boss Guides
 - Sportskeeda NTE Weekly Activities — https://www.sportskeeda.com/esports/all-weekly-activities-nte-neverness-everness-how-do-them
 - Icy Veins Nanally Team Guide — https://www.icy-veins.com/nte/nanally-best-team-compositions-and-character-synergies
-- Neverness.gg Anomaly List — https://neverness.gg/guides/all-anomalies-in-neverness-to-everness/
+- Neverness.gg Anomaly List
 - PowerPyx Deal? Deal! Walkthrough — https://www.powerpyx.com/nte-deal-deal-walkthrough/
 - Icy Veins Dress Sleeves of Vanity — https://www.icy-veins.com/nte/dress-sleeves-of-vanity-in-neverness-to-everness
-- Mobalytics Best NTE Teams — https://mobalytics.gg/blog/neverness-to-everness-best-teams-comp-guide/
+- Mobalytics Best NTE Teams

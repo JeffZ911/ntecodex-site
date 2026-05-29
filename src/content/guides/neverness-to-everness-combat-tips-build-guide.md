@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Combat Tips: Best Builds & Team Comps"
 slug: neverness-to-everness-combat-tips-build-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 7.5
 word_count: 2401
 published_at: "2026-05-20T20:07:37.495779+00:00"
 published_url: /guides/neverness-to-everness-combat-tips-build-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBpV1iAAJxWgzwqQepXumUtv9NSlKQPM1zbLdS7ECBCOoiOvyo9SJtrc4vOybxpZp10jdczoRSITAee5n6BLG0IEsJHTHr_ZQ7BobVVT5vdosMtLkGHhCqfYoxD9bWm9j1qd9Vbh61uZnUZp_tXxMoQJiQOapWe9RwDgfur3fKssOdmQrhOxyuUq4kF2Tg4X8sNZe7AZ_1fg0bS1g9c9qqIc4SHw=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd2dKJr7AujBnA0P-HoQdV9x3ku8nT1qPY7prJ1AGxlB7MZ3B1IJeKXxHRWbHKIKRbwdtxwMnial-JOXd20GtGJ9EygwIktMeAPNhcBi2bN-0rEYbk-Dnc4ar0nz9JWocZ-fuk4o0yfkgRVOZybK6OLRkJBDjYk_RPajnQwiQ="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX7NI3IvY9AToMWw9Tmy0UNSqZ57eSeLGAVJauS4_c85CbN7Q2MY2dufNhUnS8UtOpYjsuQJsNuv2GmnMKiIJk0KC41hZV7Qx7I3amiOcEuS9VCJU_493cmHqeTiFHtG7xfAuIZb4="
@@ -31,21 +31,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ55EucPqXSYF74VrdjlZCyD_PA6-3n9Vuzx35ZeYlKih6ONcNdUhTxL20LdDgKtAwmuY99OKQzG9dSyq5vsTvNmNTBKdq05PRH4OOuuIH1tkuHalN-gpAG_g="
 game: unknown
 hero_image: /img/neverness-to-everness-combat-tips-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-combat-tips-build-guide/inline-1.webp
   - /img/neverness-to-everness-combat-tips-build-guide/inline-2.webp
   - /img/neverness-to-everness-combat-tips-build-guide/inline-3.webp
   - /img/neverness-to-everness-combat-tips-build-guide/inline-4.webp
   - /img/neverness-to-everness-combat-tips-build-guide/inline-5.webp
   - /img/neverness-to-everness-combat-tips-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Success in the high-velocity urban battles of Hethereau requires more than just fast reflexes; it demands a deep understanding of how your team's elemental energies interact. This guide provides the essential Neverness to Everness combat tips, builds, and team compositions you need to master the Esper Cycle and shred enemy Break meters.
 
@@ -74,7 +74,7 @@ When you deplete the Break Meter entirely, the enemy enters a "Staggered" or "Br
 
 While dodging is a standard survival tool, parrying is the most powerful defensive action in the game. When an enemy prepares a heavy attack, a "Red Circle" indicator (specifically two overlapping circles) will appear. Executing an attack, skill, or character swap at the exact moment these circles overlap triggers a Parry.
 
-A successful Parry provides three massive benefits:
+A successful Parry provides three massive benefits
 1. It completely nullifies the incoming damage and stops the enemy's momentum.
 2. It deals the highest possible amount of Break damage to the enemy.
 3. It provides an instant 100% fill to the active character's Esper Cycle meter.
@@ -227,7 +227,7 @@ A rotation in NTE is not a fixed sequence of buttons but a priority list based o
 
 ### Quickswap Reaction Chaining
 
-For advanced play, you can chain duo reactions into a trio reaction. In a Discord team, you would cycle:
+For advanced play, you can chain duo reactions into a trio reaction. In a Discord team, you would cycle
 *   **Incantation (Sakiri)** → **Chaos (Daffodill)** to trigger **Scorch**.
 *   Immediately swap to **Psyche (Fadia)** to trigger **Nova**.
 *   The simultaneous presence of Scorch and Nova triggers **Discord**, which will then begin melting the boss's Break bar automatically while you continue attacking.
@@ -261,14 +261,14 @@ Modules are sub-gear pieces that slot into your character's Console. They provid
 
 ## Sources
 
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/guide/combat-basics
-- kaiden.gg — https://kaiden.gg/nte/guides/combat-mastery
-- sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-nte-combat-guide-attributes-esper-cycles-explained
-- gamerant.com — https://gamerant.com/neverness-to-everness-nte-break-gauge-guide/
-- neverness.gg — https://neverness.gg/arcs-stats-effects
+- mobalytics.gg
+- kaiden.gg
+- sportskeeda.com
+- gamerant.com
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/esper-cycles-guide
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-arc-tier-list/
-- dexerto.com — https://www.dexerto.com/gaming/neverness-to-everness-characters-locations-vehicles-weapons-2829301/
+- thegamer.com
+- dexerto.com
 - gamewith.net — https://gamewith.net/nte/article/show/45821
-- ntewiki.org — https://ntewiki.org/guides/esper-cycle-reactions-explained
-- deltiasgaming.com — https://deltiasgaming.com/nte-all-cartridges-best-characters/
+- ntewiki.org
+- deltiasgaming.com

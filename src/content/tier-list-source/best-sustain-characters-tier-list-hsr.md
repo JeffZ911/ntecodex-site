@@ -1,4 +1,4 @@
----
+--
 title: "Best Sustain Characters Tier List HSR: Top Healers & Shielders"
 slug: best-sustain-characters-tier-list-hsr
 game: hsr
@@ -8,7 +8,7 @@ word_count: 1949
 published_at: "2026-05-13T02:32:48.097324+00:00"
 published_url: /tier-list
 sources: []
----
+--
 
 Building a balanced team in Honkai: Star Rail requires more than just high-damage dealers; it necessitates a robust sustain unit to weather the game’s increasingly punishing endgame content.
 
@@ -26,7 +26,7 @@ When ranking sustain characters, the primary metric remains their ability to kee
 
 ### The Importance of Archetype Synergy
 
-The 3.X meta has shifted toward highly specialized team compositions. We evaluate sustain units based on how well they enable these specific playstyles:
+The 3.X meta has shifted toward highly specialized team compositions. We evaluate sustain units based on how well they enable these specific playstyles
 *   **Break Meta:** Requires high toughness damage and specific debuffs (e.g., Lingsha, Gallagher).
 *   **Follow-up Attack (FUA) Meta:** Requires frequent attacks and crit-based buffs (e.g., Aventurine).
 *   **The Summon/Memosprite Meta:** A burgeoning archetype where sustain units interact with summoned entities on the action bar.
@@ -151,7 +151,7 @@ Looking forward, the trend of "Sustain Power Creep" suggests that future units w
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki
 - Prydwen Institute - Star Rail Tier List — https://www.prydwen.gg/star-rail/tier-list/
 - Game8 Honkai: Star Rail Guide — https://game8.co/games/Honkai-Star-Rail
-- Keqing Mains HSR Guides — https://keqingmains.com/hsr/
+- Keqing Mains HSR Guides
 - Official Honkai: Star Rail HoYoLAB — https://www.hoyolab.com/home
 - Mobalytics HSR Tier List — https://mobalytics.gg/blog/honkai-star-rail/tier-list/
-- Eurogamer: Best HSR Characters — https://www.eurogamer.net/honkai-star-rail-tier-list-best-characters-9321
+- Eurogamer: Best HSR Characters

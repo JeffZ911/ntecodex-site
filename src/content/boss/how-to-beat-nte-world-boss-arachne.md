@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat The Never-ending Arachne: NTE World Boss Guide"
 slug: how-to-beat-nte-world-boss-arachne
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1724
 published_at: "2026-05-20T11:49:27.150763+00:00"
 published_url: /boss/how-to-beat-nte-world-boss-arachne
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOXDN3zK1rG4AOuqZ2RQSWQiSccJltpqo4AUXB6xwXnFpBs_a08rXxnXMhM0mkAsE2Z3nI3dYZKNT1U2LWlgJ_m193lM_ppoNQV9JAB4UMUiQdJFNpvLFqfj2_p8J07RYmlamkKgdmACL-Yow9-V04be4a6jzIzRdaerntaZtxYBOSQhfMkfLFoA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUNYuId1x2yCPvOfM4cCBAXHst9YEbyBjWDe3JIbH7TiuRq4xMtQv0EEI105h6pzl1jWQBGOJICHNm0kzmj24Q2K6TzFwBDHrl7PzEAc928oVD4FdVboRNY43THhGJ_K1-mSiSDuFp7C8Uk5iGgFAIvI_-2qn0JQ7G"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqS5qqig10Nh4uvNHuSjUGdoqK13xz4KqU7TfuWDEd13DVf2bUwEPpZFrPLHt7dSQwjZzqUTTzLKacGBp1K4960OAovS88p51i5c_SyaBon1Ca__IYv52XeOMKppVqCRJ5nTK40PHM4jZ6kF6p7IhGqx3btsekOKjzS289TL-BVZSpwS70hirtYMECJwQeMdM="
@@ -18,19 +18,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkK3ABBZo73q90cwmAduSTmmxH25hRO2o2TjbLUESBjwFj7XW3f1Ip25Q6cc06e5OO7x87AnLYZRQzvlTRNrkyNHxUM1IUk1ERMvSN97jE-L1XjSumDZmupQ=="
 game: unknown
 hero_image: /img/how-to-beat-nte-world-boss-arachne/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-nte-world-boss-arachne/inline-1.webp
   - /img/how-to-beat-nte-world-boss-arachne/inline-2.webp
   - /img/how-to-beat-nte-world-boss-arachne/inline-3.webp
   - /img/how-to-beat-nte-world-boss-arachne/inline-4.webp
   - /img/how-to-beat-nte-world-boss-arachne/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Facing the Never-ending Arachne requires more than just high DPS; it demands a mastery of the rhythm between the spotlight and the stage. This guide breaks down every phase of the Ebisu Auction House encounter to ensure you claim your weekly rewards without exhausting your Character Pixels.
 
@@ -113,14 +113,14 @@ The goal in Phase 2 is to force a "Break" as quickly as possible. When the boss 
 
 ### Surviving the Spotlight Freeze
 
-Phase 3 is where most runs fail due to the Freeze debuff. Follow this positioning checklist:
+Phase 3 is where most runs fail due to the Freeze debuff. Follow this positioning checklist
 *   **Prioritize Movement over DPS:** When the spotlights appear, stop attacking and move into the center of a beam.
 *   **Watch the Floor:** The spotlights move in a predictable figure-eight pattern. Position yourself where the two paths intersect to minimize the distance you need to travel when they shift.
 *   **Cleansing Debuffs:** If you are caught in the dark, use Adler’s shield or a support skill that provides crowd control (CC) immunity to prevent the Freeze from taking hold.
 
 ### Best Times to Use Ultimate Skills
 
-Do not waste your Ultimate skills during Phase 1. The puppets have low HP and can be cleared with basic skills and AoE support. Save your Ultimates for:
+Do not waste your Ultimate skills during Phase 1. The puppets have low HP and can be cleared with basic skills and AoE support. Save your Ultimates for
 1.  **The Start of Phase 2:** To quickly build Break gauge.
 2.  **The Break Window:** To maximize damage while the boss is stunned.
 3.  **Phase 3 Transition:** If you can push the boss from 35% to 0% during a single Break window, you can skip the Spotlight mechanic entirely.
@@ -150,7 +150,7 @@ For players without limited S-Rank units, a highly effective "Free-to-Play" team
 
 To maximize your performance, equip your Chaos units with the **Diabolos** Cartridge set. The 4-piece bonus ignores 12% of enemy Chaos RES, which increases to 24% after triggering a Nova or Scorch reaction. 
 
-For Arcs (Weapons):
+For Arcs (Weapons)
 *   **Daffodil:** Use **Youthful Fantasy**. It boosts ATK and Break Intensity while summoning the "Black Tome" to assist in combat. An A-Rank alternative is **Shiny Days**, which increases damage against Broken units.
 *   **Nanally:** Her signature Arc, **The Ichi-daime**, is preferred, but any high-ATK Plasma-type Arc will suffice.
 *   **Supports:** Equipping the **Shadow Creed** Cartridge set on Sakiri or Adler will provide team-wide energy regeneration, ensuring your Ultimates are ready for every Phase 2 transition.
@@ -184,11 +184,11 @@ By following the spotlight and focusing on Chaos-driven Break damage, you can tu
 
 ## Sources
 
-- GameWith — https://www.gamewith.net/neverness-to-everness/guide/arachne-boss-strategy
+- GameWith
 - Icy Veins — https://www.icy-veins.com/nte/dress-sleeves-of-vanity-guide
-- Nerd's Chalk — https://nerdschalk.com/neverness-to-everness-how-to-get-dress-sleeves-of-vanity/
+- Nerd's Chalk
 - Beebom — https://beebom.com/neverness-to-everness-tier-list/
 - Pocket Tactics — https://www.pockettactics.com/neverness-to-everness/characters
-- Neverness.gg — https://neverness.gg/characters/daffodill-build-guide/
-- Game Rant — https://gamerant.com/neverness-to-everness-auction-house-location-guide/
+- Neverness.gg
+- Game Rant
 - PowerPyx — https://www.powerpyx.com/nte-deal-deal-walkthrough/

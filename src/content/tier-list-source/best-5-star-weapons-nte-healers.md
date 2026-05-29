@@ -1,4 +1,4 @@
----
+--
 title: Best 5-Star Weapons for Healers in Neverness to Everness (NTE)
 slug: best-5-star-weapons-nte-healers
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-5-star-weapons-nte-healers/hero.webp
-inline_images:
+inline_images
   - /img/best-5-star-weapons-nte-healers/inline-1.webp
   - /img/best-5-star-weapons-nte-healers/inline-2.webp
   - /img/best-5-star-weapons-nte-healers/inline-3.webp
   - /img/best-5-star-weapons-nte-healers/inline-4.webp
   - /img/best-5-star-weapons-nte-healers/inline-5.webp
   - /img/best-5-star-weapons-nte-healers/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Keeping your team alive in the supernatural sprawl of Hethereau requires more than just high-level Espers; it demands the right S-Rank Arcs to maximize healing and utility.
 
@@ -38,7 +38,7 @@ This guide ranks the current S-Rank Arcs available as of May 22, 2026, focusing 
 ![Methodology](/img/best-5-star-weapons-nte-healers/inline-1.webp)
 
 
-Ranking the best 5-star weapons for healers involves looking beyond simple healing numbers. Because many healers in NTE scale their restoration abilities off specific stats—most notably HP or ATK—the base stats of an Arc are just as important as its passive effects. Our criteria for this tier list are built upon four primary pillars:
+Ranking the best 5-star weapons for healers involves looking beyond simple healing numbers. Because many healers in NTE scale their restoration abilities off specific stats—most notably HP or ATK—the base stats of an Arc are just as important as its passive effects. Our criteria for this tier list are built upon four primary pillars
 
 1.  **Stat Scaling Compatibility:** We prioritize Arcs that offer massive HP boosts, which is the primary scaling stat for top-tier healers like Fadia.
 2.  **Energy Regeneration and "Charge Efficiency":** Healers often have high-cost Ultimates that provide the bulk of their team-wide sustain. Arcs that increase the speed of the Esper Cycle are rated higher.
@@ -158,10 +158,10 @@ As we look toward future updates, rumors suggest that upcoming banners may intro
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.hotta.games/
-- PC Gamer: Neverness to Everness Overview — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-urban-open-world-rpg-from-the-tower-of-fantasy-devs-and-it-looks-like-gta-meets-genshin-impact/
+- PC Gamer: Neverness to Everness Overview
 - BlueStacks: NTE Character Guide — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-characters-guide-en.html
-- TheGamer: NTE Weapons and Arcs — https://www.thegamer.com/neverness-to-everness-everything-we-know/
-- Game Rant: NTE Combat Mechanics — https://gamerant.com/neverness-to-everness-combat-elements-explained/
+- TheGamer: NTE Weapons and Arcs
+- Game Rant: NTE Combat Mechanics
 - LDPlayer: NTE Healer Tier List — https://www.ldplayer.net/blog/neverness-to-everness-tier-list.html
 - Mobalytics: NTE Meta Report — https://mobalytics.gg/blog/neverness-to-everness/tier-list/
-- Nerds Chalk: NTE Updates and Patch Notes — https://nerdschalk.com/neverness-to-everness-patch-notes/
+- Nerds Chalk: NTE Updates and Patch Notes

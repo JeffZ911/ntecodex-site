@@ -1,4 +1,4 @@
----
+--
 title: "Mira Character Guide and Analysis: Best Builds in NTE (2026)"
 slug: mira-character-guide-and-analysis-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/mira-character-guide-and-analysis-nte/hero.webp
-inline_images:
+inline_images
   - /img/mira-character-guide-and-analysis-nte/inline-1.webp
   - /img/mira-character-guide-and-analysis-nte/inline-2.webp
   - /img/mira-character-guide-and-analysis-nte/inline-3.webp
   - /img/mira-character-guide-and-analysis-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Finding the right build for your favorite Esper in Neverness to Everness (NTE) is the key to mastering the urban anomalies of Hethereau.
 
@@ -71,7 +71,7 @@ As shown, the roster is currently focused on the six primary attributes that def
 
 ### The Esper Attribute System
 
-If a character like Mira were to be released, they would fall into one of the six established Esper attributes. These attributes determine how characters interact with enemy weaknesses and how they synergize with other team members:
+If a character like Mira were to be released, they would fall into one of the six established Esper attributes. These attributes determine how characters interact with enemy weaknesses and how they synergize with other team members
 
 *   **Anima:** Focused on life force and physical prowess (e.g., Nanally, Mint).
 *   **Cosmos:** Deals with space-time manipulation and gravity effects (e.g., Hotori).
@@ -96,7 +96,7 @@ Cartridges function as the primary way to customize an Esper's stats. They are e
 
 ### Combat Roles and Meta Analysis
 
-The current meta in NTE Version 1.0 is defined by the "Switch-and-Burst" playstyle. Because you can have multiple characters in a squad, the most effective teams consist of:
+The current meta in NTE Version 1.0 is defined by the "Switch-and-Burst" playstyle. Because you can have multiple characters in a squad, the most effective teams consist of
 1.  **Main DPS:** The character who stays on field the longest, dealing the bulk of the damage (e.g., Nanally).
 2.  **Sub-DPS:** A character who can deploy "off-field" abilities that continue to deal damage while the Main DPS is active (e.g., Hotori).
 3.  **Support/Utility:** A character providing heals, shields, or massive energy regeneration (e.g., Mint).
@@ -134,7 +134,7 @@ While Mira is not currently playable, several other characters offer similar gam
 
 Mint is the A-rank Anima Support character that many players receive early in the game. She is often confused with "Mira" due to her name starting with the same letter. Mint is essential for early-to-mid game progression because of her "Botanical Burst" skill, which provides a steady stream of healing and an ATK buff to the active character.
 
-To build Mint effectively, focus on:
+To build Mint effectively, focus on
 *   **Arc:** "The Verdant Whisper" (A-rank) for increased healing effectiveness.
 *   **Cartridges:** The "Rejuvenation" set, which grants a team-wide energy boost when the wearer heals an ally.
 *   **Team Role:** Pair her with Nanally for the Anima resonance bonus, which increases maximum HP and healing received for the entire party.
@@ -143,13 +143,13 @@ To build Mint effectively, focus on:
 
 Nanally is the current face of the NTE meta. As an S-rank Anima dealer, she excels at sustained physical damage and has the highest "Break" scaling in the game. Her banner, "The Ichi-daime," is the primary focus for players looking to start their journey with a top-tier unit.
 
-Her optimal build includes:
+Her optimal build includes
 *   **Arc:** "The Ichi-daime" (S-rank signature) which provides a 25% Anima Damage bonus.
 *   **Cartridges:** "Street Brawler" 4-piece set for increased Normal Attack damage.
 
 ### NTE Tier List: Best Characters for 2026
 
-As of May 2026, the meta is divided into three tiers:
+As of May 2026, the meta is divided into three tiers
 *   **Tier S+:** Nanally (Anima DPS), Sakiri (Chaos DPS).
 *   **Tier S:** Hotori (Cosmos Support), Iris (Psyche DPS).
 *   **Tier A:** Mint (Anima Support), Rin (Incantation Support).
@@ -158,7 +158,7 @@ Players should prioritize pulling for S-rank characters on the limited "City Tou
 
 ### How to Earn Annulith Fast in NTE
 
-Annulith is the premium currency used for the board-game style gacha system in Neverness to Everness. To accumulate enough for a "pity" (which typically occurs at 80 rolls for an S-rank character), players should complete the following:
+Annulith is the premium currency used for the board-game style gacha system in Neverness to Everness. To accumulate enough for a "pity" (which typically occurs at 80 rolls for an S-rank character), players should complete the following
 *   **Daily Commissions:** 60 Annuliths per day.
 *   **Anomaly Cleanup:** Weekly challenges that reward up to 500 Annuliths depending on the difficulty cleared.
 *   **Hethereau Exploration:** Opening high-tier chests and activating teleport waypoints provides a one-time influx of currency.
@@ -172,4 +172,4 @@ For those waiting for a potential Mira release, saving Annuliths now is the best
 - IGN: Neverness to Everness Release and Characters — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Character Tier List and Wiki — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official Community Discussion — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen Institute: NTE Character Database

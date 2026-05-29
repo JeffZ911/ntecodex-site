@@ -1,4 +1,4 @@
----
+--
 title: Best 4-Star Weapons for Support in Neverness to Everness (NTE)
 slug: best-4-star-support-weapons-nte-20260524
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-4-star-support-weapons-nte-20260524/hero.webp
-inline_images:
+inline_images
   - /img/best-4-star-support-weapons-nte-20260524/inline-1.webp
   - /img/best-4-star-support-weapons-nte-20260524/inline-2.webp
   - /img/best-4-star-support-weapons-nte-20260524/inline-3.webp
   - /img/best-4-star-support-weapons-nte-20260524/inline-4.webp
   - /img/best-4-star-support-weapons-nte-20260524/inline-5.webp
   - /img/best-4-star-support-weapons-nte-20260524/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Optimizing your support units with the right gear is the difference between struggling through high-level Anomalies and clearing them with ease. Selecting the best A-Rank Arcs ensures your team maintains high Ultimate uptime and survival through the game's toughest urban encounters.
 
@@ -38,7 +38,7 @@ In Neverness to Everness (NTE), support characters are the backbone of any succe
 
 Evaluating Arcs for support roles requires looking beyond simple Attack (ATK) values. In NTE, support units typically function as "off-field" contributors, meaning their primary value comes from the buffs or utility they provide when they are not the active character.
 
-Our evaluation is based on the following key performance indicators:
+Our evaluation is based on the following key performance indicators
 
 *   **Charge Efficiency:** The most critical stat for supports. High Charge Efficiency allows characters like [Sakiri](/characters/sakiri-nte-free-5-star-guide) or Haniel to trigger their Ultimates more frequently, maintaining 100% uptime on team-wide buffs.
 *   **Team Buffs:** Arcs that provide flat ATK boosts, Damage Bonus percentages, or Break Intensity to the entire party are prioritized.
@@ -59,7 +59,7 @@ Our evaluation is based on the following key performance indicators:
 
 ### Support Archetypes in NTE
 
-To better understand where each weapon fits, we categorize supports into three primary archetypes:
+To better understand where each weapon fits, we categorize supports into three primary archetypes
 
 1.  **Buffers:** Focus on increasing the damage output of the main DPS (e.g., Sakiri).
 2.  **Healers:** Focus on restoring HP and keeping the team alive (e.g., Haniel).
@@ -147,5 +147,5 @@ When choosing your support weapons, always prioritize the specific needs of your
 * Neverness to Everness Official Site — https://nte.perfectworld.com/
 * Hotta Studio Developer Blog — https://www.hottastudio.com/news/nte-update-102
 * Game8 Neverness to Everness Guide — https://game8.co/games/Neverness-to-Everness
-* Prydwen Institute NTE Database — https://www.prydwen.gg/nte/arcs/
+* Prydwen Institute NTE Database
 * Neverness to Everness Subreddit — https://www.reddit.com/r/NevernessToEverness/

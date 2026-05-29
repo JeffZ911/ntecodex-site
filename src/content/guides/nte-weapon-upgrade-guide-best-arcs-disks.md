@@ -1,4 +1,4 @@
----
+--
 title: "NTE Weapon Upgrade Guide: Best Arcs, Disks & Build Strategies"
 slug: nte-weapon-upgrade-guide-best-arcs-disks
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/nte-weapon-upgrade-guide-best-arcs-disks
 sources: []
 game: unknown
 hero_image: /img/nte-weapon-upgrade-guide-best-arcs-disks/hero.webp
-inline_images:
+inline_images
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-1.webp
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-2.webp
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-3.webp
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-4.webp
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-5.webp
   - /img/nte-weapon-upgrade-guide-best-arcs-disks/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the urban supernatural threats of Hethereau requires more than just skilled play; you need a perfectly tuned arsenal of Arcs and Cartridges to survive the Anomaly Zone.
 
@@ -171,7 +171,7 @@ Understanding the "Esper Cycle" is the difference between struggling in the Anom
 
 ### Mastering the Esper Cycle
 
-To maximize DPS, you should never swap characters manually unless the Esper Cycle is ready. A standard high-level rotation follows this flow:
+To maximize DPS, you should never swap characters manually unless the Esper Cycle is ready. A standard high-level rotation follows this flow
 
 1.  **Buff Phase:** Start with your Support (Adler or Haniel). Cast shields and Ultimates to trigger the Speedy Hedgehog set bonus.
 2.  **Shred Phase:** Swap to your Breaker (Daffodill) using the Esper Cycle trigger. Use her heavy attacks to deplete the enemy's Stagger Bar.
@@ -209,6 +209,6 @@ Yes. An Esper must match the Arc's type (e.g., Plasma, Solid, Gas) to activate t
 
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-beginners-guide-en.html
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-beginners-guide-and-tips.html
-- games.gg — https://games.gg/neverness-to-everness/guides/weapon-system-arcs-explained
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/46521
-- kaiden.gg — https://kaiden.gg/nte/arcs-list-and-upgrade-guide/
+- games.gg
+- gamewith.net
+- kaiden.gg

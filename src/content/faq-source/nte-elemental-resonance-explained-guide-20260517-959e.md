@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elemental Resonance Explained: Best Team Reactions Guide"
 slug: nte-elemental-resonance-explained-guide-20260517-959e
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T15:06:30.664347+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-elemental-resonance-explained-guide-20260517-959e/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-resonance-explained-guide-20260517-959e/inline-1.webp
   - /img/nte-elemental-resonance-explained-guide-20260517-959e/inline-2.webp
   - /img/nte-elemental-resonance-explained-guide-20260517-959e/inline-3.webp
   - /img/nte-elemental-resonance-explained-guide-20260517-959e/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Success in Neverness to Everness (NTE) depends entirely on how you orchestrate your character swaps to trigger the Esper Cycle. Understanding which elements sit next to each other on the Esper Wheel is the difference between clearing Hethereau’s toughest anomalies and hitting a hard progression wall.
 
@@ -34,7 +34,7 @@ Success in Neverness to Everness (NTE) depends entirely on how you orchestrate y
 
 Players navigating the urban supernatural landscape of Hethereau often find themselves asking: what exactly is Elemental Resonance in Neverness to Everness (NTE)? Unlike many contemporary open-world RPGs where any two elements produce a result, NTE utilizes a specific "Esper Wheel" logic that dictates which combinations are valid. 
 
-This guide answers the following critical questions:
+This guide answers the following critical questions
 * How do the six primary elements—Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche—interact within the Esper Wheel?
 * What are the specific requirements to trigger Duo and Trio Cycle reactions during combat?
 * How can you optimize your team building to maximize the efficiency of these resonances?
@@ -60,7 +60,7 @@ The combat in Neverness to Everness is built around the "Esper Cycle," a flow st
 
 The Esper Wheel is a circular diagram that defines the relationship between all six elements. In NTE, the order is fixed. To trigger a resonance, the character you swap *in* must possess an element that is adjacent to the character currently *on* the field.
 
-The official order of the Esper Wheel is:
+The official order of the Esper Wheel is
 1.  **Lakshana (Gold)**
 2.  **Cosmos (Silver)**
 3.  **Anima (Green)**
@@ -98,7 +98,7 @@ Discord is the primary tool for dealing with "Anomalous Shields" found on world 
 
 You cannot trigger a resonance reaction simply by swapping characters. You must first fill the circular **Esper Meter** located around the character's portrait on the HUD. Once the meter is full, the portrait will glow, indicating that a "Cycle Swap" is ready.
 
-The speed at which this meter fills is determined by several factors:
+The speed at which this meter fills is determined by several factors
 *   **Normal Attacks:** Provide a steady, slow build-up of the meter.
 *   **Elemental Skills:** Grant a significant chunk of meter on hit.
 *   **Swap Parries:** If you swap characters the moment an enemy attack lands (indicated by a white or red flash), the incoming character gains an instant 50% to 100% meter charge depending on their "Cycle Rate" stat.
@@ -136,7 +136,7 @@ When teammates use their Support Skills or trigger a Duo Cycle involving Chaos, 
 ![Related](/img/nte-elemental-resonance-explained-guide-20260517-959e/inline-4.webp)
 
 
-Mastering elemental resonance is just the first step in optimizing your Hethereau experience. To further refine your gameplay, consider these related systems:
+Mastering elemental resonance is just the first step in optimizing your Hethereau experience. To further refine your gameplay, consider these related systems
 
 *   **NTE Character Tier List:** Knowing which Espers have the highest base stats and best skill kits will help you decide which elements to prioritize for your resonance chains.
 *   **Weapon (Arc) Compatibility:** Each weapon, or "Arc," falls into Solid, Liquid, or Gas types. Matching these types to your character's elemental resonance strategy can provide additional multipliers. For instance, certain Arcs increase the duration of the **Blossom** turret or the damage of the **Scorch** DoT.
@@ -148,8 +148,8 @@ Mastering elemental resonance is just the first step in optimizing your Hetherea
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 - Neverness to Everness Wiki (Fandom) — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki
 - Game8 NTE Combat Guide — https://game8.co/games/Neverness-to-Everness/archives/combat-mechanics-guide
-- Prydwen.gg NTE Character Database — https://www.prydwen.gg/nte/characters/
+- Prydwen.gg NTE Character Database
 - r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness
-- Lootbar.gg NTE Elemental Guide — https://www.lootbar.gg/blog/nte-elemental-resonance-guide
-- TheGamer: How the Esper Wheel Works in NTE — https://www.thegamer.com/neverness-to-everness-esper-wheel-guide/
+- Lootbar.gg NTE Elemental Guide
+- TheGamer: How the Esper Wheel Works in NTE

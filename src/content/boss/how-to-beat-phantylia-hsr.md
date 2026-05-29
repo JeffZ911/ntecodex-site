@@ -1,4 +1,4 @@
----
+--
 title: "How to Beat Phantylia the Undying in Honkai: Star Rail (Boss Guide)"
 slug: how-to-beat-phantylia-hsr
 game: hsr
@@ -9,19 +9,19 @@ published_at: "2026-05-15T20:30:08.969044+00:00"
 published_url: /boss/how-to-beat-phantylia-hsr
 sources: []
 hero_image: /img/how-to-beat-phantylia-hsr/hero.webp
-inline_images:
+inline_images
   - /img/how-to-beat-phantylia-hsr/inline-1.webp
   - /img/how-to-beat-phantylia-hsr/inline-2.webp
   - /img/how-to-beat-phantylia-hsr/inline-3.webp
   - /img/how-to-beat-phantylia-hsr/inline-4.webp
   - /img/how-to-beat-phantylia-hsr/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Overcoming the Lord Ravager Phantylia requires a deep understanding of her three-phase elemental shift and the ability to manage her debilitating HP-reduction debuffs. This guide provides the tactical breakdown and team compositions necessary to conquer the Echo of War: Divine Seed challenge.
 
@@ -191,7 +191,7 @@ The primary drop from Phantylia is the "Regret of Infinite Ochema." This is an A
 
 ### Relic and Light Cone Drops
 
-In addition to Trace materials, Phantylia drops several other valuable items:
+In addition to Trace materials, Phantylia drops several other valuable items
 
 *   **Lucent Afterglow:** Currency used in the "Light Cone Manifest" shop (Messenger's Store) to buy 4-star Light Cones.
 *   **Relic Sets:** You will receive pieces from the **Musketeer of Wild Wheat** (ATK/SPD) and **Thief of Shooting Meteor** (Break Effect) sets.
@@ -212,7 +212,7 @@ To maximize your efficiency, always run the highest difficulty you can comfortab
 ## Sources
 
 - Honkai: Star Rail Fandom - Phantylia the Undying — https://honkai-star-rail.fandom.com/wiki/Phantylia_the_Undying
-- Prydwen Institute - Echo of War Guide — https://www.prydwen.gg/star-rail/guides/echo-of-war-phantylia
+- Prydwen Institute - Echo of War Guide
 - Game8 - How to Beat Phantylia Boss Guide — https://game8.co/games/Honkai-Star-Rail/archives/418384
-- Siliconera - How to Defeat Phantylia in Honkai Star Rail — https://www.siliconera.com/how-to-defeat-phantylia-in-honkai-star-rail/
-- Game Rant - Honkai Star Rail: Phantylia the Undying Boss Guide — https://gamerant.com/honkai-star-rail-phantylia-the-undying-boss-guide-weakness-tips/
+- Siliconera - How to Defeat Phantylia in Honkai Star Rail
+- Game Rant - Honkai Star Rail: Phantylia the Undying Boss Guide

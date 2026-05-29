@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Character Leveling Guide: Best Builds"
 slug: neverness-to-everness-character-leveling-build-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1755
 published_at: "2026-05-20T09:49:50.034492+00:00"
 published_url: /guides/neverness-to-everness-character-leveling-build-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWq8ERPTW2h06l3tq-VlfEHZBMSXuqukv1moSJH8wpXHmdoCJzpKZ259_OsTNp1ecsuKBrDMCRYSb4lxeBPM5TkFxg1A8K-VfLeraaJHV7dhMWaarw8cN_KuMLz-1R7Tq4FbNXNA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzBh8dQqTaiHA54Sbd3hsRnrAnth5_fVU0GIgSfrzUgPSj2Yo3UmOlYxW-OAhzd4Rfr6A2av9J-nJrH6iinncHcf49Gc_ca3osuJTyvh8s-CrLnqQF0-nTpCAtUwDavwCuJDQzbXSZqUTxJL59c8ZggXSjWUqw1j8f6hrf4h1QnMXrNkKbYHfSdvdArRexHmyqMISO8of8Tts6pt3pcKT_01_Dvps="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnF6u2f3B8XLVRnECFqs_iBstS0euANZdvLnFlIAQxQbWVgh0LIctIZlvwRZwT5pcK0Dtc_D5UdjbE27xEepzIYirZ0pKNN_dkmmwB7YqltYVGOFtlZNOHYmD--CJnb6ioaiOTZJwqdSoReqEdFocxpgA2prbDJ5-Izg_WT-T3lXCYYDo="
@@ -31,19 +31,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ_VESh4BwfzQpJunSm-FYvnhXlq_H_NQ57kxRWGQ3hXCcaznJci-SM06gx60e6TpEQaI_cIug-elpd4CN4DWzUR7WuOvRCGNeiF3B87ctore86vWzPatelkFyKBk1vGxPm0MdA1AHoNwu48w-QKnp"
 game: unknown
 hero_image: /img/neverness-to-everness-character-leveling-build-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-leveling-build-guide/inline-1.webp
   - /img/neverness-to-everness-character-leveling-build-guide/inline-3.webp
   - /img/neverness-to-everness-character-leveling-build-guide/inline-4.webp
   - /img/neverness-to-everness-character-leveling-build-guide/inline-5.webp
   - /img/neverness-to-everness-character-leveling-build-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Optimizing your progression in Hethereau requires a firm grasp of the dual-leveling mechanics and the synergy between Arcs and the Esper Cycle. This guide provides the most efficient path to maximizing your character's potential in Neverness to Everness (NTE).
 
@@ -75,7 +75,7 @@ The Appraisal Level acts as the "World Level" and dictates the maximum level you
 ### Core Resources: Hunter Guides & Beetle Coins
 To raise an Esper's level, you primarily consume **Hunter Guides** (also known as Hunter's Manuals) and **Beetle Coins**. Beetle Coins serve as the standard combat currency for leveling characters, Arcs, and skills. 
 
-While Beetle Coins are plentiful in the early game, the cost of leveling from 60 to 80 increases exponentially. To maintain a steady supply, prioritize these daily activities:
+While Beetle Coins are plentiful in the early game, the cost of leveling from 60 to 80 increases exponentially. To maintain a steady supply, prioritize these daily activities
 *   **Houdinii’s Schemes:** The primary source for farming both Hunter Guides and Beetle Coins.
 *   **Anomaly Commissions:** Daily tasks found at Wertheimer Towers that reward Hunter XP and materials.
 *   **World Exploration:** Chests and small anomalies throughout Hethereau often contain minor EXP pieces.
@@ -195,10 +195,10 @@ Yes. **Chiz** is a top-tier S-rank Cosmos character that you can obtain for free
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/characters/sakiri-build-guide/
-- games.gg — https://games.gg/neverness-to-everness-signature-arcs-guide/
-- kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions-guide/
+- neverness.gg
+- games.gg
+- kaiden.gg
 - mobalytics.gg — https://mobalytics.gg/nte/guide/nanally-best-builds/
-- topuplive.com — https://topuplive.com/blog/neverness-to-everness-beginner-material-guide/
+- topuplive.com
 - gamewith.net — https://gamewith.net/nte/article/show/character-progression-guide/
 - icy-veins.com — https://www.icy-veins.com/nte/nanally-build-guide/

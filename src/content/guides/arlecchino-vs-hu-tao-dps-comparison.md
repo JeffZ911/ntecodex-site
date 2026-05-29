@@ -1,4 +1,4 @@
----
+--
 title: "Arlecchino vs Hu Tao: Who is the Best Pyro DPS in Genshin Impact?"
 slug: arlecchino-vs-hu-tao-dps-comparison
 game: genshin
@@ -7,7 +7,7 @@ qa_score: 9.6
 word_count: 1929
 published_at: "2026-05-13T02:49:28.598762+00:00"
 published_url: /guides/arlecchino-vs-hu-tao-dps-comparison
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERQv-4yV6V0kK4J_qgxV5I3jWph1R8QjkSvRpX-8__uPIeOmNEHuy4YvkJfiUjIkmTt_NTa-wvHfxw_mPfL7kYzBkvSEt6Up257qFGEpdH-Q2ZBtLfok030VCwmTtfRegbHMweHWpN2GaEgMlF62dr_PXJYPdT65MqeQ=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoe_HQIxm29XNGCaQihHn1mbxbUYb1oK7Y44i9ahTLFqjrHQeTLLfwHH7otdBFf64h4fMqp2W9pqV2Knr63vKsd57i7k_WEV4H57pigXhEOqs8Qqj3TXZsarCUMlAdnXkDfJ_X9CgFBXpJT2O6HmRsaiqcgMDipyTk9vDEQreHSVOzLsDAhhDOLvyNoVFXfRigxTFw4S_xz7YMDOl_xIs="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwaBHj0vL26raYrbtpI_atu4q_kNlzasNlD9MjBDhnwcuKwCFFqybDPxaAZxVvZ6FfQHxi8QU-Zdjn20_akc2uol7E_-9Lezwb5m7vkoYn1HrKTgFrOqJ6NGwTrZy7UWxcvsmc1lofKHWvItEDS7LwQowvDpHuip7gEpKV5T7lu8x1gEN1afWlsBIc7iHjHy5dopHRLhXt_Mb980Vmacf"
@@ -21,17 +21,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP01JjHQhSsP-uLW3kC0O7Z4TtSj4FYkAaokRguZsjlcPNQAOn_uYS_10Iz6XBXcI9JzG3dR25k-2XBBUGxtWNelqNhoQsXtJMD0G1paQJ7V0RX-WFbTJLWdDQ7CaYrQyNhFo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExP5v_vuY0qOc4vOcdg6w20MWgfZSD1ajQy2mcErFjEqGPAVdqgC-uPwXS6LGLwm13GT9Cmprd7NH-MA1f4Hffv1jTLDe3lxpdyiMxaXtQsORhY9FkRvrokPcar0zyrVMNZ_V2ulY="
 hero_image: /img/arlecchino-vs-hu-tao-dps-comparison/hero.webp
-inline_images:
+inline_images
   - /img/arlecchino-vs-hu-tao-dps-comparison/inline-1.webp
   - /img/arlecchino-vs-hu-tao-dps-comparison/inline-2.webp
   - /img/arlecchino-vs-hu-tao-dps-comparison/inline-3.webp
   - /img/arlecchino-vs-hu-tao-dps-comparison/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "TL;DR Verdict"
   - "Side-by-Side Table"
   - "Detailed Comparison"
   - "Recommendation"
----
+--
 
 Since the arrival of the Fourth Fatui Harbinger, the "Pyro Queen" title in Genshin Impact has been split between two polearm-wielders with vastly different philosophies. While one relies on the brink of death to fuel her funeral rites, the other uses a blood-debt mechanic to sustain a relentless offensive.
 
@@ -118,7 +118,7 @@ For artifacts, Arlecchino’s best-in-slot set is the **Fragment of Harmonic Whi
 
 Hu Tao traditionally uses **Crimson Witch of Flames**, which can be obtained through the Artifact Strongbox. If you run her with Furina, the **Marechaussee Hunter** set becomes her best option, providing a massive 36% Crit Rate.
 
-In terms of weapons:
+In terms of weapons
 *   **Hu Tao F2P:** Dragon's Bane (R5) is legendary for its performance in Vaporize teams.
 *   **Arlecchino F2P:** White Tassel (R5) is her go-to 3-star option, offering Crit Rate and a huge Normal Attack DMG bonus.
 *   **Signature Weapons:** Both **Staff of Homa** and **Crimson Moon's Semblance** are massive upgrades, but Arlecchino's signature is unique because it is the only weapon that provides her with an additional Bond of Life source.
@@ -140,7 +140,7 @@ The decision between these two Pyro titans depends on your current roster and yo
 
 ### Who Should Pull for Arlecchino?
 
-You should prioritize Arlecchino if:
+You should prioritize Arlecchino if
 1.  **You want a versatile DPS:** She works in Overload, Vaporize, and Mono-Pyro, making her valuable regardless of which supports you have.
 2.  **You prefer comfort:** Her Normal Attack-heavy playstyle is much easier on the hands than Hu Tao's constant canceling.
 3.  **You need AoE coverage:** She handles groups of enemies much better than Hu Tao.
@@ -148,7 +148,7 @@ You should prioritize Arlecchino if:
 
 ### Who Should Pull for Hu Tao?
 
-You should stick with or pull for Hu Tao if:
+You should stick with or pull for Hu Tao if
 1.  **You already have her supports:** If you own Yelan, Furina, and Xianyun, Hu Tao’s ceiling is still arguably the highest for single-target content.
 2.  **You enjoy high-skill gameplay:** Mastering her animation cancels provides a sense of progression and reward that "spamming" attacks may not.
 3.  **You need a dedicated boss-killer:** For the second half of an Abyss floor that features a single, massive HP-sponge boss, Hu Tao is still the queen.
@@ -169,4 +169,4 @@ If you are looking for your first major Pyro carry, Arlecchino is the recommenda
 *   Bond of Life Mechanic Explained — https://genshin-impact.fandom.com/wiki/Bond_of_Life
 *   Arlecchino vs Hu Tao DPS Comparison Discussion — https://www.reddit.com/r/Genshin_Impact/comments/1ccu0k5/arlecchino_vs_hu_tao/
 *   Hu Tao Damage Calculations and Weapons — https://paimon.moe/characters/hu_tao
-*   Arlecchino Weapon and Artifact Rankings — https://www.prydwen.gg/genshin/characters/arlecchino
+*   Arlecchino Weapon and Artifact Rankings

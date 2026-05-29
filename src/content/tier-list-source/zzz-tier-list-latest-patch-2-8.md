@@ -1,4 +1,4 @@
----
+--
 title: "ZZZ Tier List Latest Patch: Best Agents in Version 2.8"
 slug: zzz-tier-list-latest-patch-2-8
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1911
 published_at: "2026-05-15T20:30:09.623491+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSDEs0cvXHKP6Ay9AOVGI-aJG0G3ojs6vG51oZx0_Eyp8WhqAHsm2kthXhH0etcY4Zbrc2tA-6SvKk605riRFOuEdpdhb7d7lDSauxydaj3bE5"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEItNsDocxVc-OsPaEyoSsXq68ED8-AmOBBrSg0weV8VnR-gTo9mQhvHnTL8dao-v3SwmmpE9AG3Y-xqDI4WFAOpoThX80Pp5XIjIKeWpiXr7J2ynd8tN3Uh5dW5Ts5dsb5PPpfzIiqQdbD-p8Ez9x1-4uebu58fhmytV9LZjhbmlZ7oh81A7GZrfMbtoh3Adsyo5dIyUpe"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmyc14V-HH2_-e9NB4ilANmIBdORqWbDwl8orVh1lGbZ-OtRPeaHwbbUeaIFDKvcNEn5buI1qon1QXKXBWRdW1kX-R8v1DuzcaGWlH3fRUHpgmzUNKYF2KSt-k9U_5XDXRzV9tRw8VUCqkDvTk27Z0GLzWzPg="
@@ -27,21 +27,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHezQ7N-Y2M8hAHUt1NYqB5f9lICWIftPhAsaBp5mQldvTsSv-sX_ePVPLnfmMfKMSfVdT0U2Le_jeUZ5xaC9q-LWwER2LB0wlDKA1rFGvUsdiU78x6m3ymnzNTcMvkluVSX2B3-_yiMNRJ6OwHgRi8sby1y7MXT_nzZEF9xA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOYCmxfH_Nb3dg63fjoaSuWMRpr80UYGZO34GlqfwGXK0k4tuqV8mjOg4qD4KM8J7OIBR8AKO3jOekyE3o7BObVnWYHSkAWiWI0OgKRQ8RT9ONps6tjh8Mzf4olKMl-Uzy880="
 hero_image: /img/zzz-tier-list-latest-patch-2-8/hero.webp
-inline_images:
+inline_images
   - /img/zzz-tier-list-latest-patch-2-8/inline-1.webp
   - /img/zzz-tier-list-latest-patch-2-8/inline-2.webp
   - /img/zzz-tier-list-latest-patch-2-8/inline-3.webp
   - /img/zzz-tier-list-latest-patch-2-8/inline-4.webp
   - /img/zzz-tier-list-latest-patch-2-8/inline-5.webp
   - /img/zzz-tier-list-latest-patch-2-8/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 With Version 2.8 "New: Eridan Sunset" now live, the meta in New Eridu has undergone its most significant shift since the game's launch. This update introduces the Rupture specialty and the Auric Ink attribute, fundamentally changing how Proxies approach high-level Shiyu Defense and the challenging Withered Domain.
 
@@ -58,7 +58,7 @@ Staying ahead in Zenless Zone Zero requires more than just high-level Agents; it
 
 Our Patch 2.8 rankings are derived from extensive testing in the latest Shiyu Defense: Critical Nodes and the newly expanded Withered Domain (formerly Hollow Zero). We prioritize Agents who can navigate the aggressive AI of the New Eridan district and capitalize on the current elemental favor.
 
-The evaluation focuses on three primary metrics:
+The evaluation focuses on three primary metrics
 1.  **Burst Window Efficiency:** How effectively an Agent can capitalize on a stunned enemy, particularly with the new Rupture mechanics.
 2.  **Daze Generation and Sustain:** The speed at which an Agent can break elite enemy posture and their ability to survive the high-damage output of Version 2.8 bosses.
 3.  **Attribute Synergy:** The value an Agent adds to the current top-tier team compositions, specifically Ice and the newly introduced Auric Ink/Ether hybrids.
@@ -209,7 +209,7 @@ As the meta continues to evolve, Proxies should focus on building teams that can
 ## Sources
 
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/
-- Prydwen ZZZ Tier List — https://www.prydwen.gg/zenless-zone-zero/tier-list
+- Prydwen ZZZ Tier List
 - Game8 ZZZ Guides — https://game8.co/games/Zenless-Zone-Zero
 - ZZZ Fandom Wiki — https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki
 - Icy Veins ZZZ Character Guides — https://www.icy-veins.com/zzz/

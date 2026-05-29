@@ -1,4 +1,4 @@
----
+--
 title: Best Team Comps for Neverness to Everness (NTE) Tier List
 slug: best-team-comps-nte-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-team-comps-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-team-comps-nte-tier-list/inline-1.webp
   - /img/best-team-comps-nte-tier-list/inline-2.webp
   - /img/best-team-comps-nte-tier-list/inline-3.webp
   - /img/best-team-comps-nte-tier-list/inline-4.webp
   - /img/best-team-comps-nte-tier-list/inline-5.webp
   - /img/best-team-comps-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Success in the urban open-world of Hethereau depends entirely on mastering the Esper Cycle to maximize elemental reactions. This guide breaks down the most effective team compositions for Neverness to Everness (NTE) to help you clear the most difficult Prime Circle stages.
 
@@ -184,4 +184,4 @@ A hotfix on May 21, 2026, addressed Nanally’s "Underboss" targeting logic. Pre
 - Neverness to Everness Subreddit — https://www.reddit.com/r/NTE_Official/
 - Game8 NTE Character Database — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness
-- Prydwen Institute: NTE Tier List & Stats — https://www.prydwen.gg/nte/tier-list/
+- Prydwen Institute: NTE Tier List & Stats

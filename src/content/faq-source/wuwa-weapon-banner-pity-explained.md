@@ -1,4 +1,4 @@
----
+--
 title: "Wuthering Waves Weapon Banner Pity Explained: Rates & Rules"
 slug: wuwa-weapon-banner-pity-explained
 game: wuthering_waves
@@ -9,17 +9,17 @@ published_at: "2026-05-15T10:21:25.806734+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/wuwa-weapon-banner-pity-explained/hero.webp
-inline_images:
+inline_images
   - /img/wuwa-weapon-banner-pity-explained/inline-1.webp
   - /img/wuwa-weapon-banner-pity-explained/inline-2.webp
   - /img/wuwa-weapon-banner-pity-explained/inline-3.webp
   - /img/wuwa-weapon-banner-pity-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Understanding the pity system in Wuthering Waves is the most effective way to manage your Astrite and ensure your Resonators are equipped with their best-in-slot gear. Unlike many other gacha titles, Wuthering Waves offers a highly transparent and player-friendly weapon banner system that removes the frustration of "losing" to off-banner items.
 
@@ -30,7 +30,7 @@ Understanding the pity system in Wuthering Waves is the most effective way to ma
 ![Question Restated](/img/wuwa-weapon-banner-pity-explained/inline-1.webp)
 
 
-Players frequently ask several key questions regarding the weapon banners in Wuthering Waves to avoid wasting their premium currency. The most common inquiries include:
+Players frequently ask several key questions regarding the weapon banners in Wuthering Waves to avoid wasting their premium currency. The most common inquiries include
 
 *   How many pulls are required to guarantee a 5-star weapon in Wuthering Waves?
 *   Does the weapon banner have a 50/50 system like the character banner?
@@ -73,7 +73,7 @@ The "Weapon Targeted Convene" skips this hurdle entirely. If you see the gold re
 
 The Standard Weapon Targeted Convene, titled "Winter Brume," functions differently than the standard character banner. Instead of pulling from a randomized pool of all 5-star weapons, the game allows you to set a "Targeted" weapon.
 
-You can choose one of the following five standard 5-star weapons:
+You can choose one of the following five standard 5-star weapons
 *   **Emerald of Genesis** (Sword)
 *   **Lustrous Razor** (Broadblade)
 *   **Static Mist** (Pistols)
@@ -90,7 +90,7 @@ Based on community data and historical pull tracking, the base rate of 0.8% begi
 
 ### Pity Carry-over and Reset Rules
 
-Pity in Wuthering Waves is categorized by banner type. It is essential to distinguish between these categories to understand where your "hidden" progress lies:
+Pity in Wuthering Waves is categorized by banner type. It is essential to distinguish between these categories to understand where your "hidden" progress lies
 
 1.  **Limited Weapon Banner Pity:** This carries over from one limited weapon banner to the next. If you pull 40 times on a limited weapon banner and do not get a 5-star, you will start the next limited weapon banner with 40 pity already built up.
 2.  **Standard Weapon Banner Pity:** This is independent and only tracks progress on the "Winter Brume" banner.
@@ -98,7 +98,7 @@ Pity in Wuthering Waves is categorized by banner type. It is essential to distin
 
 ### Currency Guide: Forging Tides and Lustrous Tides
 
-Managing your pull currency is vital for maximizing the pity system. Wuthering Waves uses different "Tides" for different banners:
+Managing your pull currency is vital for maximizing the pity system. Wuthering Waves uses different "Tides" for different banners
 
 *   **Forging Tides (Limited):** Used for the Featured Weapon Targeted Convene. These are usually purchased with Astrite (160 Astrite per Tide).
 *   **Lustrous Tides (Standard):** Used for the Standard Weapon Targeted Convene and the Standard Character Convene. These are often given as rewards for Union Level milestones, Battle Pass levels, and through the shop's monthly reset.
@@ -149,7 +149,7 @@ Every time you pull on a weapon banner, you receive secondary currencies: **Afte
 
 To calculate how close you are to pity, you can use the in-game "Convene History" button located at the bottom left of the Convene screen. 
 
-The history log tracks every pull you have made, but note that there is often a delay (up to 1 hour) between making a pull and it appearing in the log. To calculate your pity:
+The history log tracks every pull you have made, but note that there is often a delay (up to 1 hour) between making a pull and it appearing in the log. To calculate your pity
 1.  Open the history for the specific banner you are interested in.
 2.  Count the number of pulls starting from the most recent entry back to your last 5-star weapon.
 3.  Subtract that number from 80 to see exactly how many pulls remain until your hard pity guarantee.
@@ -161,6 +161,6 @@ By monitoring your history and understanding the 100% guarantee on featured bann
 - Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/en/
 - Prydwen Institute Wuthering Waves — https://www.prydwen.gg/wuthering-waves/
 - Game8 Wuthering Waves Guide — https://game8.co/games/Wuthering-Waves
-- Rock Paper Shotgun Wuthering Waves Pity Guide — https://www.rockpapershotgun.com/wuthering-waves-pity-system-explained
+- Rock Paper Shotgun Wuthering Waves Pity Guide
 - Wuthering Waves Wiki — https://wuthering.wiki/
 - Sportskeeda Gacha Mechanics — https://www.sportskeeda.com/esports/wuthering-waves-pity-system-explained-5-star-rates-soft-pity-more

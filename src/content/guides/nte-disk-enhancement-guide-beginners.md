@@ -1,4 +1,4 @@
----
+--
 title: "NTE Disk Enhancement Guide for Beginners: Maximize Your Power"
 slug: nte-disk-enhancement-guide-beginners
 game: unknown
@@ -9,21 +9,21 @@ published_at: "2026-05-17T11:05:50.350976+00:00"
 published_url: /guides/nte-disk-enhancement-guide-beginners
 sources: []
 hero_image: /img/nte-disk-enhancement-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-disk-enhancement-guide-beginners/inline-1.webp
   - /img/nte-disk-enhancement-guide-beginners/inline-2.webp
   - /img/nte-disk-enhancement-guide-beginners/inline-3.webp
   - /img/nte-disk-enhancement-guide-beginners/inline-4.webp
   - /img/nte-disk-enhancement-guide-beginners/inline-5.webp
   - /img/nte-disk-enhancement-guide-beginners/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Mastering the intricacies of Hesperia's combat technology is essential for any player looking to survive the supernatural anomalies of Neverness to Everness. 
 
@@ -44,14 +44,14 @@ The progression system in NTE is divided into three distinct pillars: Leveling, 
 
 Arcs are the "Disks" you equip to your Espers. Each Arc belongs to one of five elemental or physical types: Plasma, Solid, Gas, Liquid, or Synthesis. To achieve maximum stat synergy, you must match the Arc’s type to the Esper’s preferred combat style. An S-Rank Plasma Arc equipped to a Plasma-type Esper will yield significantly higher bonuses than if equipped to a Solid-type character.
 
-Enhancement follows a strict path:
+Enhancement follows a strict path
 *   **Leveling:** Using "Dye" to increase the base level and stats (ATK, HP, DEF).
 *   **Ascension:** Using "Pigments" and Beetle Coins to break level caps at specific intervals (e.g., Level 20, 40, 60).
 *   **Mixing:** Consuming duplicate copies of the same Arc to upgrade the unique passive ability, which can be done up to five times.
 
 ### Understanding the Console: Cartridges vs. Modules
 
-The Console is your secondary gear hub. It houses two types of equipment:
+The Console is your secondary gear hub. It houses two types of equipment
 1.  **Cartridges:** These function as traditional artifacts. They provide one main stat and four sub-stats. A key feature in NTE is that all sub-stats are visible immediately upon acquisition; there is no hidden RNG that reveals stats as you level the item.
 2.  **Modules:** These are Tetris-shaped stat blocks that you must manually fit into a grid within the Console. Fitting these pieces correctly allows you to activate "Sonata" effects—powerful set bonuses that trigger when specific shapes or colors are aligned.
 
@@ -70,7 +70,7 @@ To keep your gear updated, you will need a steady supply of Beetle Coins and Dye
 | Basic Pigment | B (Blue) | World Bosses | 2,000 per Ascension |
 | Refined Pigment | A (Pink) | High-Level Anomalies | 10,000 per Ascension |
 
----
+--
 
 ## Best Weapons
 
@@ -103,7 +103,7 @@ The synergy between an Esper and their Arc Type cannot be overstated. When an Es
 | Blow up the Crowd | Gas | Mob Clearing | Energy Regen on Multi-hit |
 | [Information not yet publicly available] | Liquid | Support | [Information not yet publicly available] |
 
----
+--
 
 ## Best Disks (Artifacts)
 
@@ -126,7 +126,7 @@ The Module system is a mini-game within your build. Each Module has a shape (L-s
 
 ### Sub-stat Priority: What to Look for in S-Rank Gear
 
-Since sub-stats are visible from level 1, you should be picky about which Cartridges you upgrade. For DPS Espers, the priority is always:
+Since sub-stats are visible from level 1, you should be picky about which Cartridges you upgrade. For DPS Espers, the priority is always
 1.  Crit DMG / Crit Rate
 2.  Elemental DMG (Matching the Esper)
 3.  ATK %
@@ -140,7 +140,7 @@ For Supports, prioritize HP % and Energy Recharge to ensure they can survive and
 | Blazing Trail | +15% Solid DMG | Boosts Scorch DoT | Hathor, Adler |
 | Silent Night | +20% HP | Team Shielding | Fadia, Haniel |
 
----
+--
 
 ## Team Comp
 
@@ -174,7 +174,7 @@ When facing high-HP bosses, the "Scorch" reaction is vital. This is triggered by
 | Plasma + Solid | Fracture | DEF Shred |
 | [Information unavailable] | [Information unavailable] | Discord |
 
----
+--
 
 ## Rotation
 
@@ -196,13 +196,13 @@ Hotori players must master the "Non-Closed Time Piece" cycle. This is a 20-secon
 
 ### Reaction Stacking: How to Trigger Discord
 
-To trigger the "Discord" status, you must stack three different elemental reactions within a short window. A standard bossing rotation looks like this:
+To trigger the "Discord" status, you must stack three different elemental reactions within a short window. A standard bossing rotation looks like this
 1.  **Adler:** Apply shields and Incantation.
 2.  **Daffodil:** Apply Chaos to trigger Scorch.
 3.  **Fadia:** Use Skill to boost the Esper Cycle meter.
 4.  **Nanally:** Swap in during the "glow" to trigger the final reaction and proc Discord, which stuns the boss and increases damage taken by [information unavailable]%.
 
----
+--
 
 ## FAQ
 
@@ -223,14 +223,14 @@ No. In NTE, leveling a Cartridge only boosts the Main Stat. However, you "unlock
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/arc-enhancement-system
-- frvr.com — https://frvr.com/games/neverness-to-everness/wiki/arcs
+- neverness.gg
+- frvr.com
 - youtube.com — https://www.youtube.com/watch?v=nte-beginner-guide-2026
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness-beginner-guide-en.html
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/nte_gear_and_console_explanation/
-- perfectworld.com — https://www.perfectworld.com/nte/news/official-launch-patch-notes
-- topuplive.com — https://www.topuplive.com/blog/nte-best-arcs-for-each-element
-- lagofast.com — https://www.lagofast.com/en/blog/neverness-to-everness-combat-guide/
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-cartridge-module-guide/
-- games.gg — https://games.gg/neverness-to-everness/arc-tier-list/
-- mobalytics.gg — https://mobalytics.gg/blog/nte-best-team-comps-jiuyuan-nanally/
+- perfectworld.com
+- topuplive.com
+- lagofast.com
+- thegamer.com
+- games.gg
+- mobalytics.gg

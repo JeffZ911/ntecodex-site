@@ -1,4 +1,4 @@
----
+--
 title: "NTE Boss Fight Tips: How to Beat The Never-Ending Arachne"
 slug: nte-boss-fight-tips-never-ending-arachne
 article_type: boss_guide
@@ -6,7 +6,7 @@ qa_score: 8.8
 word_count: 1871
 published_at: "2026-05-21T21:02:26.823971+00:00"
 published_url: /boss/nte-boss-fight-tips-never-ending-arachne
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj2DwbuNil3CxO1KtKTUhxmxUfNZSiV2TyPBn1dhR-0XpmUUawJYMSbFwKlIYhyguoJbG2pFK-NGikc1wNLCHlP58lJ-H1rmtKwOYf7c27kLOjDRw9fre5"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdX4RO30QJv73ju_Gwuttkrh0VaLhEQ2lx4eUrFG82BO8_0ai0_G8PyT6o-rUiePhmru0cP2FYjO7pGqsSQJp5a57o8mwysgExcOA1EgEekOfFb9YMai9vk2p5wbSX"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP5q2dNciGUOpbASWlAegG_clWT7FMHkwuenW4elUp29XRl5YvdBHMrerd-U9_x82ctXfpUIy7jWSHeJJb6Np827C_JiQ6tYhqpneRc8egSZhpKPxgYcEmMs2YxgeiAW0YFvBdXxBHltNojZ_4tmA6L7aFQY0zuzBHfftvWu4u52yVkUkNhbKLUMGdrXaU0HBAeDUuXctCa013e12l17vbXxd7hQ=="
@@ -24,19 +24,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHldju9IIxJwXc3Bw2U7Lnp91maRxI0bAeGWozzHT90D0QtO3QVXz8gSNvCWMfqZWbpz_o1UU2_y23HP5d_BU2FZFF0Itglz6pLR7G3cW67NIGLLm8Bt8y6LzprLeWJi5RHz-RDvAH_cWn8UKI_Kn2-KjdOci7kUhsQWLAOT-hwaQ=="
 game: unknown
 hero_image: /img/nte-boss-fight-tips-never-ending-arachne/hero.webp
-inline_images:
+inline_images
   - /img/nte-boss-fight-tips-never-ending-arachne/inline-1.webp
   - /img/nte-boss-fight-tips-never-ending-arachne/inline-2.webp
   - /img/nte-boss-fight-tips-never-ending-arachne/inline-3.webp
   - /img/nte-boss-fight-tips-never-ending-arachne/inline-4.webp
   - /img/nte-boss-fight-tips-never-ending-arachne/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Mastering the Ebisu Auction House encounter requires a deep understanding of the Esper Cycle and precise parry timing. Use this guide to dismantle The Never-Ending Arachne and secure your weekly progression materials in Neverness to Everness.
 
@@ -190,9 +190,9 @@ Defeating Arachne also contributes significantly to the completion percentage of
 
 - Neverness to Everness Official Site — https://nte.world/
 - Neverness to Everness Wiki (Fandom) — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki
-- GameRant NTE Guide — https://gamerant.com/neverness-to-everness-nte-boss-guide-arachne/
+- GameRant NTE Guide
 - Icy Veins NTE Database — https://www.icy-veins.com/nte/characters/chiz-guide/
-- TheGamer NTE Boss Walkthrough — https://www.thegamer.com/neverness-to-everness-nte-never-ending-arachne-boss-guide/
-- GameWith NTE Database — https://gamewith.net/neverness-to-everness/article/show/46571
+- TheGamer NTE Boss Walkthrough
+- GameWith NTE Database
 - Enjoygm NTE Banner Schedule — https://www.enjoygm.com/news/neverness-to-everness-banner-schedule-guide/
-- Dexerto NTE Builds — https://www.dexerto.com/neverness-to-everness/best-daffodil-build-nte-2849102/
+- Dexerto NTE Builds

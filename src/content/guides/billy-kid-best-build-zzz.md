@@ -1,4 +1,4 @@
----
+--
 title: "Billy Kid Best Build ZZZ: Best Weapons, Discs, and Teams"
 slug: billy-kid-best-build-zzz
 game: zzz
@@ -9,21 +9,21 @@ published_at: "2026-05-14T11:41:39.966498+00:00"
 published_url: /guides/billy-kid-best-build-zzz
 sources: []
 hero_image: /img/billy-kid-best-build-zzz/hero.webp
-inline_images:
+inline_images
   - /img/billy-kid-best-build-zzz/inline-1.webp
   - /img/billy-kid-best-build-zzz/inline-2.webp
   - /img/billy-kid-best-build-zzz/inline-3.webp
   - /img/billy-kid-best-build-zzz/inline-4.webp
   - /img/billy-kid-best-build-zzz/inline-5.webp
   - /img/billy-kid-best-build-zzz/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Billy Kid is the high-octane, dual-pistol wielding cyborg of the Cunning Hares, offering players a flashy and effective way to clear waves of enemies from a distance. As one of the free characters provided early in Zenless Zone Zero, his accessibility and high damage ceiling make him a staple for many Physical DPS rosters.
 
@@ -99,7 +99,7 @@ For the 2-piece set, **Hormone Punk** is the standard choice for an easy 10% ATK
 
 ### Recommended Main Stats and Substats
 
-To maximize Billy's output, you should aim for the following stat distribution on your Drive Discs:
+To maximize Billy's output, you should aim for the following stat distribution on your Drive Discs
 
 *   **Disk 4:** Crit Rate or Crit DMG (Aim for a 1:2 ratio).
 *   **Disk 5:** Physical DMG Bonus (ATK% is a secondary substitute).
@@ -211,7 +211,7 @@ While Billy deals Physical damage, he is not an Anomaly specialist. His "Anomaly
 ## Sources
 
 - Zenless Zone Zero Official Wiki — https://zenless-zone-zero.fandom.com/wiki/Billy_Kid
-- Prydwen Institute ZZZ Guide — https://www.prydwen.gg/zenless-zone-zero/characters/billy-kid
+- Prydwen Institute ZZZ Guide
 - Game8 ZZZ Billy Build — https://game8.co/games/Zenless-Zone-Zero/archives/436040
 - Icy Veins Billy Kid Build — https://www.icy-veins.com/zzz/billy-kid-build-guide
 - HoYoLAB Community Guides — https://www.hoyolab.com/circles/2/38/official

@@ -1,4 +1,4 @@
----
+--
 title: "Best Weapons for NTE Support Characters: Top Arcs Guide"
 slug: best-weapons-nte-support-characters
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1892
 published_at: "2026-05-22T06:49:26.494766+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEevoLwuqdToJM7BmTxynWu5ZyF2-kyt3ZsgG0wo1y54l5r-snJmCzB5KsYJI9DtroEkihjocR1EMoEZ56GKaj_PDTaBiRnpl-PzkyWW2xbtzQTtdiMs9g7okwsFe424_Q8U9FvY11vmygBKALln6uiho6kNbGhHthNAjUnwvqs_-Pxz4NF9MDjo1dxJalwmERdvMnQcJsnxFuG"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1ORA4ZPvgS6t3hCdLTRFVn5PZuk1S3qIHLJo1OGMnkdKvaT-ZjAy-B87jSgDQyrJXytEdMk0xslo3TLNjLvM43kOEzPHYYJEBZebiNmc2iPjWXSiu5rCc-PhCE9Q-WWjUTVL67a3w4UIR45LCDfGdwPo="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKQFYgOF9uw1Eu9qxSWffcpZjECRazz8bxdl0WzYLVLfY1gxbh1A2LqDjS87lmxHIEnTnuVAt1qG3VZRIMj1wSKb88J7RFTKDe4FEIkx6IpzI9-_JHQuzAmy9KA0-8aCd7Mf9XleDnS3OcaJU0ut6sue-TZ3sRzOgUClwzquRWiGnVag=="
@@ -25,17 +25,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyMGJGq57gIRB8vZbsTXjjL9E-wvjv0slxu734NZkyo2kCBdQhq_D_nhTlkJzJ4lSdn-nWxws15CF4x89ZpTWzP0iUiRaob0hIEPjcGO3pypADZ2L8En8c97u26VTvw3jIkloaS_0r9E_YSA8aACtS2QzAIb0pJywczj8Pl5yKIFKqqQ=="
 game: unknown
 hero_image: /img/best-weapons-nte-support-characters/hero.webp
-inline_images:
+inline_images
   - /img/best-weapons-nte-support-characters/inline-1.webp
   - /img/best-weapons-nte-support-characters/inline-2.webp
   - /img/best-weapons-nte-support-characters/inline-3.webp
   - /img/best-weapons-nte-support-characters/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your team in Neverness to Everness (NTE) requires more than just leveling up your main damage dealers. Because combat relies heavily on the synergy between on-field attackers and off-field utility, choosing the right Arcs (weapons) for your support characters is the difference between a struggling rotation and a seamless, high-damage execution.
 
@@ -54,7 +54,7 @@ A common challenge for players is differentiating between high-investment S-Rank
 In Neverness to Everness, Arcs are not just stat sticks; they are the primary source of passive utility. A support Arc’s main job is to provide buffs that persist even when the character is "benched" (off-field). This is often achieved through "Redirect Skills" or "Ultimates" that trigger weapon passives. Without the correct support weapon, your main DPS will lack the necessary Energy and ATK scaling to clear high-level anomalies like the Rabbit Hole or World Anomalies.
 
 ### Key Stats to Prioritize for Supports
-When evaluating weapons for your utility characters, three stats stand out:
+When evaluating weapons for your utility characters, three stats stand out
 *   **Charge Efficiency:** This determines how quickly a character regenerates Ultimate Energy. Since most support buffs are tied to Ultimates, high Charge Efficiency is mandatory for consistent rotations.
 *   **Break Intensity:** This stat increases the damage dealt to an enemy’s white "Break" bar. Supports often enter the field briefly to use a Redirect Skill; weapons that spike Break Intensity during this window help the team reach the "Broken" state faster.
 *   **Team-Wide Buffs:** Look for passives that grant ATK%, DMG%, or DEF-ignore to all allies.
@@ -100,7 +100,7 @@ For Psyche-based teams, **"Blow up the Crowd"** is the cornerstone. Its "Beat Ki
 
 ### A-Rank and B-Rank: Best F2P Support Alternatives
 
-Not every player will have a full roster of S-Rank Arcs. Fortunately, several A-Rank and B-Rank options provide competitive utility:
+Not every player will have a full roster of S-Rank Arcs. Fortunately, several A-Rank and B-Rank options provide competitive utility
 
 *   **Umbrella (A-Rank, Synthesis):** This is the premier defensive support Arc. It grants a 10% HP boost and strengthens shields by up to 18% while the wearer’s HP is above 50%. It is the best-in-slot for Adler when building him as a pure tank/shielder.
 *   **Time Bandit (A-Rank, Solid):** This Arc is excellent for "Breaker" supports. After using a Redirect Skill, it spikes Break Intensity by 90 for 10 seconds. It also summons a companion named "Picky" who can unlock nearby objects in the open world, combining combat utility with exploration ease.
@@ -118,7 +118,7 @@ Not every player will have a full roster of S-Rank Arcs. Fortunately, several A-
 
 ### Weapon Types and Attribute Synergy
 
-Matching the Arc Type to the character is non-negotiable. If you pull "Good Boy's Grand Adventure" but your support is a Solid-type like Haniel, you cannot equip it. This forces players to maintain a diverse library of Arcs. Generally:
+Matching the Arc Type to the character is non-negotiable. If you pull "Good Boy's Grand Adventure" but your support is a Solid-type like Haniel, you cannot equip it. This forces players to maintain a diverse library of Arcs. Generally
 *   **Gas Arcs** focus on Charge Efficiency and crowd control synergy.
 *   **Solid Arcs** lean toward raw ATK buffs and Break Intensity.
 *   **Synthesis Arcs** provide defensive utility, such as shields and HP scaling.
@@ -134,7 +134,7 @@ In NTE, "Mixing" is the process of using duplicate Arcs to increase the rank of 
 
 
 ### How to Get More Arcs in NTE
-The primary way to obtain high-end Arcs is through the **Arc Research Program**, which requires **Tri-Keys** to pull from the gacha banners. However, Neverness to Everness is notably F2P-friendly regarding weapons. You can obtain several S-Rank Arcs for free through world activities:
+The primary way to obtain high-end Arcs is through the **Arc Research Program**, which requires **Tri-Keys** to pull from the gacha banners. However, Neverness to Everness is notably F2P-friendly regarding weapons. You can obtain several S-Rank Arcs for free through world activities
 *   **Blow up the Crowd:** Can be obtained early in the game by completing specific story milestones related to Haniel.
 *   **Day Off:** Reward for completing the "Eclipse" hidden questline, which involves finding the Eclipse anomaly in five different locations across Hethereau.
 *   **Good Boy's Grand Adventure:** Dropped by the weekly boss "Morphix" after completing the "Pawn Moonlight" spinoff quest.
@@ -153,10 +153,10 @@ As of May 2026, the meta favors ATK-stacking and Ultimate-cycling. Support Arcs 
 ## Sources
 
 - Icy Veins — https://www.icy-veins.com/neverness-to-everness/arcs-database
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/47231
+- GameWith
 - Sportskeeda — https://www.sportskeeda.com/esports/how-get-good-boy-s-grand-adventure-s-rank-arc-free-nte
-- GameRant — https://gamerant.com/neverness-to-everness-nte-best-sakiri-build-guide-arcs-cartridges/
+- GameRant
 - LootBar — https://www.lootbar.gg/guide/nte/haniel-best-build-arc-teams-100223
 - BlueStacks — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html
-- Prydwen — https://www.prydwen.gg/nte/arcs/
-- Dot Esports — https://dotesports.com/neverness-to-everness/news/neverness-to-everness-console-guide-how-to-get-cartridges-and-modules
+- Prydwen
+- Dot Esports

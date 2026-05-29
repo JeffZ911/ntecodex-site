@@ -1,4 +1,4 @@
----
+--
 title: "How Does Speed Work in Honkai: Star Rail? HSR SPD Guide"
 slug: how-does-speed-stat-work-hsr
 game: hsr
@@ -9,17 +9,17 @@ published_at: "2026-05-13T02:36:43.132228+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/how-does-speed-stat-work-hsr/hero.webp
-inline_images:
+inline_images
   - /img/how-does-speed-stat-work-hsr/inline-1.webp
   - /img/how-does-speed-stat-work-hsr/inline-2.webp
   - /img/how-does-speed-stat-work-hsr/inline-3.webp
   - /img/how-does-speed-stat-work-hsr/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Success in the turn-based combat of the Astral Express requires more than just high damage numbers; it requires a mastery over time itself.
 
@@ -95,7 +95,7 @@ Relic substats have hidden decimals that the game UI rounds to the nearest whole
 ### Base SPD vs. Total SPD
 When a relic or ability provides a percentage-based SPD buff (like the 6% bonus from the 2-piece Messenger Traversing Hackerspace set), the bonus is calculated based on the character's **Base SPD**, not their total SPD.
 
-*   **Example:** If Seele has a Base SPD of 115 and is wearing the Messenger set (6% SPD) and +25 SPD Boots:
+*   **Example:** If Seele has a Base SPD of 115 and is wearing the Messenger set (6% SPD) and +25 SPD Boots
 *   Bonus from set: 115 * 0.06 = 6.9 SPD.
 *   Total SPD: 115 + 6.9 + 25 = 146.9 SPD.
 
@@ -125,13 +125,13 @@ Speed tuning is the process of ensuring your characters act in a specific order.
 Beyond the basic math, SPD interacts with specific gear and character kits in unique ways.
 
 ### SPD-Scaling Characters and Skills
-Some characters gain direct combat benefits from their SPD stat:
+Some characters gain direct combat benefits from their SPD stat
 *   **Seele:** Her Skill increases her SPD by 25% for two turns. This allows her to reach very high SPD thresholds without needing SPD boots, often allowing her to run ATK% boots instead.
 *   **Sushang:** She gains a massive Action Advance when an enemy's Weakness is broken, and her Ultimate provides a 100% Action Advance, effectively giving her an extra turn.
 *   **Hanya:** Her Ultimate increases an ally's SPD based on a percentage of her own SPD, making her one of the few characters who wants as much SPD as possible (often pushing 160+).
 
 ### Best Relics and Light Cones for Speed
-If you are struggling to hit your breakpoints, consider the following equipment:
+If you are struggling to hit your breakpoints, consider the following equipment
 
 **Relic Sets:**
 *   **Messenger Traversing Hackerspace:** The 2-piece set provides a 6% SPD increase. The 4-piece set increases the SPD of all allies for 1 turn when the wearer uses their Ultimate on an ally.
@@ -144,15 +144,15 @@ If you are struggling to hit your breakpoints, consider the following equipment:
 *   **Adversarial (3-Star Hunt):** Increases SPD by 10% to 18% for 2 turns after the wearer defeats an enemy. This is a powerful "poverty" option for early-game players.
 
 ### When is Low Speed Better?
-While SPD is generally king, some characters prefer to be slow:
+While SPD is generally king, some characters prefer to be slow
 *   **Clara:** Her damage comes from counter-attacking when hit. If she is too fast, her "Svarog's Protection" buffs (which often last for a set number of *her* turns) will expire too quickly. A "Slow Clara" build focuses entirely on ATK and Crit.
 *   **0-Cycle "Slow" DPS:** In specific team compositions featuring 160+ SPD supports (like Sparkle or Bronya), the DPS can sometimes afford to have base SPD. The support simply pulls the "slow" DPS forward constantly, allowing the DPS to ignore SPD substats in favor of pure damage.
 
 Mastering SPD is the difference between playing the game and controlling it. By reaching the 134 or 161 breakpoints, you grant your team the breathing room necessary to survive the hardest encounters the Galaxy has to offer.
 
 ## Sources
-- Prydwen Institute — https://www.prydwen.gg/star-rail/guides/speed-guide
+- Prydwen Institute
 - Game8 Honkai: Star Rail Wiki — https://game8.co/games/Honkai-Star-Rail/archives/411835
-- KeqingMains HSR — https://keqingmains.com/misc/speed-guide/
+- KeqingMains HSR
 - HoYoLAB Official Community — https://www.hoyolab.com/article/18063162
 - Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/

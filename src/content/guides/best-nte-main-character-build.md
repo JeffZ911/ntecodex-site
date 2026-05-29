@@ -1,4 +1,4 @@
----
+--
 title: "Best Build for NTE Main Character: Zero Weapons & Cartridges"
 slug: best-nte-main-character-build
 article_type: build
@@ -9,21 +9,21 @@ published_url: /guides/best-nte-main-character-build
 sources: []
 game: unknown
 hero_image: /img/best-nte-main-character-build/hero.webp
-inline_images:
+inline_images
   - /img/best-nte-main-character-build/inline-1.webp
   - /img/best-nte-main-character-build/inline-2.webp
   - /img/best-nte-main-character-build/inline-3.webp
   - /img/best-nte-main-character-build/inline-4.webp
   - /img/best-nte-main-character-build/inline-5.webp
   - /img/best-nte-main-character-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Maximizing Esper Zero’s potential is the key to mastering the urban anomalies and high-stakes combat encounters found throughout the city of Hethereau. As the central figure in Neverness to Everness, Zero offers a unique blend of high-frequency ability usage and elemental versatility that defines the game's fast-paced meta.
 
@@ -204,7 +204,7 @@ The difference between the male and female versions of Zero is purely cosmetic. 
 *   IGN — https://www.ign.com/games/neverness-to-everness
 *   Game8 — https://game8.co/games/Neverness-to-Everness
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
-*   Prydwen Institute — https://www.prydwen.gg/nte/
+*   Prydwen Institute
 *   Reddit r/NTE — https://www.reddit.com/r/NevernessToEverness/
-*   Game Rant — https://gamerant.com/neverness-to-everness-zero-build-guide/
+*   Game Rant
 *   Mobalytics — https://mobalytics.gg/nte/characters/zero-build/

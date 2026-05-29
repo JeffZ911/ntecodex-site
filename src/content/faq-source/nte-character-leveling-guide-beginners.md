@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Leveling Guide for Beginners: Max Your Espers"
 slug: nte-character-leveling-guide-beginners
 article_type: faq
@@ -9,15 +9,15 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-leveling-guide-beginners/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-leveling-guide-beginners/inline-1.webp
   - /img/nte-character-leveling-guide-beginners/inline-2.webp
   - /img/nte-character-leveling-guide-beginners/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Related"
----
+--
 
 Mastering the urban supernatural world of Hethereau requires more than just quick reflexes; it demands a deep understanding of how to power up your roster. This NTE character leveling guide for beginners breaks down every mechanic you need to transform your rookie Espers into high-tier urban legends.
 
@@ -32,7 +32,7 @@ Mastering the urban supernatural world of Hethereau requires more than just quic
 
 When starting your journey in Neverness to Everness, several questions regarding progression naturally arise. Players often struggle to identify the most efficient way to level up characters without wasting limited resources. Because the game utilizes a dual-leveling system, understanding how account-wide metrics like Hunter Level and Appraisal Level interact with individual Esper growth is the first step toward efficiency.
 
-Beyond simple levels, you must also consider what materials are required for character progression and where these items can be farmed within the sprawling city of Hethereau. This guide addresses the following core concerns:
+Beyond simple levels, you must also consider what materials are required for character progression and where these items can be farmed within the sprawling city of Hethereau. This guide addresses the following core concerns
 
 *   What is the most efficient way to level up characters in Neverness to Everness (NTE)?
 *   How do account-wide systems like Hunter Level and Appraisal Level affect individual Esper growth?
@@ -155,7 +155,7 @@ This stamina is separate from your combat stamina. You can spend it to unlock fr
 
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
 *   Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
-*   Prydwen Institute: NTE Section — https://www.prydwen.gg/nte/
+*   Prydwen Institute: NTE Section
 *   IGN: Neverness to Everness Beginner's Guide — https://www.ign.com/wikis/neverness-to-everness
 *   Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 *   Fandom: Neverness to Everness Wiki — https://nevernesstoeverness.fandom.com/wiki/Neverness_to_Everness_Wiki

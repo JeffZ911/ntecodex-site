@@ -1,4 +1,4 @@
----
+--
 title: "HSR Pure Fiction Tier List: Best Characters (May 2026)"
 slug: hsr-pure-fiction-tier-list-20260513
 game: hsr
@@ -7,7 +7,7 @@ qa_score: 7.5
 word_count: 2004
 published_at: "2026-05-13T02:33:54.955080+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBTYduq9J1ZfUn70qCRdKyadlLiIguqprow7EiYUzN8ndy4HghaJmedatU-NSYNn8HXGraFyz5qWpAVSMqgq1xsSs66M4afnO5bsSiFG0O_fBcyChDZKw6YVAyK-Wli4EdLH3WelE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcPqXzIkSd3bOlbUoxkSKw3aWF9lxvyavlnNCZb5QH05bkIFKUPszo__jMQXE96PnwtQTPbVmwEwk6ZUDXKrRJOh71zaX_vDcU2RdYxDeLuRrwAMWutpweTZLb35quk9CcBL7HGLKM6TDENOFWmcS-liN0d3pCWISypOSmOM8h6Mf6UDqM8umJ6P6ZNBLdqKD8CInXDOBong=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOkmC7U61bR0v1TdqGmnGvBS26lIu38xcLwdbnBwtHn8PTD8yywxSlPLIRhqscTzJvntWehBIMC3M2qwBNeNiGhzpUDPRSAaqbjWn5dGUIQt0s4ck2whATLOV0CV4HSioHmWqb_SJ83-N3futQvchEz4DyQiNR08H5GNY="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPiWpHKIaTbXCOamGKoTyS1Nx8IAdqA50DTNFPPLfi20STAd4C4ViDiAzSLYIvcjFWWyT1J52XGoVvUjdM_OYcyX9jDDNaGRRp53Luos4R68Uo5V9cObaBi584NBSXZqruOJNEMiTm2f777MFa18yPA6IRWSiP"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFflZxuc_w-0XSE6fqDcLIiQTnY5LBnrKSCsLlMa5ReJLnWL69io97W3RacM1WjxUPBQ711kAmeu_wW-jM-tjIULxrATbEhpoKAcPHBW2VFcRdSNSa7kZ778TbWaOpkKlXDJD6m-4ZKj4UruOZHahpjiyP3pyCHzk4wdVsJyEPCWQ=="
 hero_image: /img/hsr-pure-fiction-tier-list-20260513/hero.webp
-inline_images:
+inline_images
   - /img/hsr-pure-fiction-tier-list-20260513/inline-1.webp
   - /img/hsr-pure-fiction-tier-list-20260513/inline-2.webp
   - /img/hsr-pure-fiction-tier-list-20260513/inline-3.webp
   - /img/hsr-pure-fiction-tier-list-20260513/inline-4.webp
   - /img/hsr-pure-fiction-tier-list-20260513/inline-5.webp
   - /img/hsr-pure-fiction-tier-list-20260513/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 With the release of Version 4.1, the Pure Fiction meta has undergone its most significant shift since the game's launch, largely due to the introduction of the "Grit" mechanic and the arrival of the highly anticipated 5-star variant, The Herta.
 
@@ -54,7 +54,7 @@ Pure Fiction remains the ultimate test of a character's multi-target efficiency 
 
 The rankings in this May 2026 tier list are specifically tailored to the Version 4.1 "Virtual Made Manifest" rotation. We evaluate characters based on their ability to hit the maximum score of 40,000 points per half in Stage 4.
 
-The following standards are applied for all evaluations:
+The following standards are applied for all evaluations
 *   **5-Star Characters:** Evaluated at E0 (Eidolon 0) with their Signature Light Cone (S1) at Level 80.
 *   **4-Star Characters:** Evaluated at E6 (Eidolon 6) with high-synergy S5 4-star Light Cones.
 *   **Team Compositions:** Rankings assume optimal team synergy, including the use of top-tier supports like Sunday, Robin, or Tribbie.
@@ -218,4 +218,4 @@ Additionally, **Sunday's** impact cannot be overstated. By allowing a main DPS t
 - Mobalytics HSR Tier List — https://mobalytics.gg/blog/hsr-tier-list/
 - HoYoLAB Strategy Guides — https://www.hoyolab.com/circles/6/38/official
 - LDShop HSR Articles — https://www.ldshop.gg/blog/honkai-star-rail/
-- Beebom Gaming — https://beebom.com/gaming/honkai-star-rail/
+- Beebom Gaming

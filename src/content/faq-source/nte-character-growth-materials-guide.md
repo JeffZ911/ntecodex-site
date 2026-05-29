@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Growth Materials Guide: How to Level Up & Ascend"
 slug: nte-character-growth-materials-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-character-growth-materials-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-growth-materials-guide/inline-1.webp
   - /img/nte-character-growth-materials-guide/inline-2.webp
   - /img/nte-character-growth-materials-guide/inline-3.webp
   - /img/nte-character-growth-materials-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the urban supernatural landscape of Hethereau requires more than just quick reflexes; it demands a strategic approach to Esper progression. This guide breaks down every essential material and system needed to transform your recruits into high-performance anomaly hunters.
 
@@ -36,7 +36,7 @@ In the weeks following the April 2026 launch of Neverness to Everness, players h
 
 Players often find themselves overwhelmed by the variety of icons in their inventory. The core questions surrounding character growth usually involve identifying which materials are required for immediate power spikes versus long-term sustainability. Understanding the different types of character growth materials is the first step toward clearing high-level Anomaly Hunts.
 
-The primary concerns for most players include:
+The primary concerns for most players include
 *   What are the different types of character growth materials in Neverness to Everness?
 *   Where can players farm EXP items, Ascension materials, and Skill upgrade items?
 *   How do progression gates like Hunter Rank and Appraisal Level affect character growth?
@@ -71,7 +71,7 @@ The progression of an Esper in Neverness to Everness is a multi-stage process th
 
 ### Character Leveling: Hunter Guides and Beetle Coins
 
-Leveling is the most fundamental way to increase an Esper's base stats, including Health, Attack, and Defense. Unlike some RPGs where combat provides the bulk of experience, NTE relies heavily on the consumption of Hunter Guides. These items are categorized by the amount of experience they provide:
+Leveling is the most fundamental way to increase an Esper's base stats, including Health, Attack, and Defense. Unlike some RPGs where combat provides the bulk of experience, NTE relies heavily on the consumption of Hunter Guides. These items are categorized by the amount of experience they provide
 
 *   **Hunter Guide (Rising):** Provides 1,000 EXP. These are common rewards from early-game side quests and basic Magic Stage runs.
 *   **Hunter Guide (Senior):** Provides 5,000 EXP. This is the standard farming target for mid-game players (Hunter Rank 20-35).
@@ -83,7 +83,7 @@ To use these guides, you must also spend a corresponding amount of Beetle Coins.
 
 Once an Esper reaches a level cap (initially level 20), they must undergo Ascension to continue growing. This process requires a mix of common mob drops and specialized "Anomaly" materials. Each Esper is aligned with a specific boss type that drops their required breakthrough item.
 
-Common Ascension Materials include:
+Common Ascension Materials include
 *   **Black Tome page:** Often required for Espers with high mental or supernatural utility.
 *   **Beat King's pick:** Dropped by the Beat King anomaly; essential for several physical-damage dealers.
 *   **Nestbound Bird mask fragment:** Sourced from aerial-type anomalies in the outskirts.
@@ -104,7 +104,7 @@ The Console system is NTE's version of equipment. Each Esper has a Console that 
 
 1.  **Cartridges:** These provide the base stats (e.g., Crit Rate, Elemental Damage). They are farmed in the **Rabbit Hole**, a multi-floor dungeon that increases in difficulty.
 2.  **Modules:** These act as modifiers or "sub-stats" for the Console. To obtain high-quality Modules, players use the **Rewind** system, which is essentially a gacha for gear components.
-3.  **Carrota:** This is the specific currency used for the Rewind gacha. It comes in three rarities:
+3.  **Carrota:** This is the specific currency used for the Rewind gacha. It comes in three rarities
     *   **Bronze Carrota:** Used for basic Rewind pulls (Common/Uncommon Modules).
     *   **Silver Carrota:** Used for Advanced Rewind pulls (Rare/Epic Modules).
     *   **Gold Carrota:** Used for Legendary Rewind pulls, which guarantee high-tier stat rolls.
@@ -142,14 +142,14 @@ In Neverness to Everness, weapons are known as Arcs. Like characters, Arcs requi
 
 ### Fons and Urban Resource Management
 
-Fons is a specialized resource used for the more "civilian" side of Hethereau. While not directly used to level up an Esper's attack power, Fons is essential for:
+Fons is a specialized resource used for the more "civilian" side of Hethereau. While not directly used to level up an Esper's attack power, Fons is essential for
 *   **Real Estate:** Purchasing apartments provides rest bonuses that can affect stamina recovery.
 *   **Vehicles:** Upgrading your car allows you to reach Anomaly Hunts faster and provides mobile storage for materials.
 *   **Shop Investments:** Using Fons to support local businesses can unlock discounted rates for Hunter Guides and Beetle Coins.
 
 ### Daily Farming Priority Checklist
 
-To maximize your efficiency in Hethereau, follow this daily priority list:
+To maximize your efficiency in Hethereau, follow this daily priority list
 1.  **Anomaly Pilgrimages:** Complete these daily for a steady supply of Beetle Coins and Hunter Rank experience.
 2.  **Spend Character Pixels:** Prioritize Houdinii's Magic Stage if you are below the current level cap, or the Rabbit Hole if your Console needs better Cartridges.
 3.  **Anomaly Hunts:** Use your weekly boss claim attempts on bosses like the Beat King or Sea Prisoner to stockpile Ascension materials for future characters.
@@ -162,5 +162,5 @@ By following this structured approach to material gathering, you can ensure your
 *   Neverness to Everness Official Site — https://nte.perfectworld.com/
 *   NTE Wiki & Database — https://game8.co/games/Neverness-to-Everness
 *   IGN: Neverness to Everness Progression Guide — https://www.ign.com/wikis/neverness-to-everness/
-*   GameRant: How to Level Up Characters in NTE — https://gamerant.com/neverness-to-everness-character-progression-guide/
-*   Prydwen Institute: NTE Character Materials — https://www.prydwen.gg/nte/guides/growth-materials/
+*   GameRant: How to Level Up Characters in NTE
+*   Prydwen Institute: NTE Character Materials

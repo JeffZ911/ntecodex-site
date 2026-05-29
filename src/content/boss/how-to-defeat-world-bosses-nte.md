@@ -1,4 +1,4 @@
----
+--
 title: "How to Defeat World Bosses in NTE: Full Strategy Guide"
 slug: how-to-defeat-world-bosses-nte
 article_type: boss_guide
@@ -9,19 +9,19 @@ published_url: /boss/how-to-defeat-world-bosses-nte
 sources: []
 game: unknown
 hero_image: /img/how-to-defeat-world-bosses-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-defeat-world-bosses-nte/inline-1.webp
   - /img/how-to-defeat-world-bosses-nte/inline-2.webp
   - /img/how-to-defeat-world-bosses-nte/inline-3.webp
   - /img/how-to-defeat-world-bosses-nte/inline-4.webp
   - /img/how-to-defeat-world-bosses-nte/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Conquering the supernatural anomalies of Hethereau requires more than just high-end gear; it demands a deep understanding of the Discord system and precise execution of boss-specific mechanics. This guide breaks down every major encounter available in Version 1.0 to help you secure S-Rank Arcs and maximize your weekly rewards.
 
@@ -150,7 +150,7 @@ World Bosses are the primary source of high-tier progression materials in Hether
 | Fons | Essential | General currency for all Hethereau transactions. |
 
 ### Weekly Anomaly Hunt Reset Priorities
-To maximize your efficiency, follow this checklist every Monday after the server reset:
+To maximize your efficiency, follow this checklist every Monday after the server reset
 *   [ ] Clear the 3 Weekly Anomaly Hunt bosses for maximum Annulith drops.
 *   [ ] Defeat the Headless Rider at least once to progress the "Midnight Hunter" achievement line.
 *   [ ] Use remaining Character Pixels on The Never-ending Arachne if you need S-Rank Chaos Arcs for Nanally.
@@ -164,4 +164,4 @@ The quality of S-Rank Arcs is heavily dependent on your Appraisal Level. At lowe
 - IGN: Neverness to Everness Release Date and Gameplay — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Boss Guides and Elemental Weakness Table — https://game8.co/games/NTE
 - Reddit: r/NTE_Official - World Boss Strategy Megathread — https://www.reddit.com/r/NTE_Official/
-- Prydwen.gg: Neverness to Everness Character and Boss Database — https://www.prydwen.gg/nte/
+- Prydwen.gg: Neverness to Everness Character and Boss Database

@@ -1,4 +1,4 @@
----
+--
 title: Neverness to Everness Character Ascension Materials Guide
 slug: nte-character-ascension-materials-guide
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1603
 published_at: "2026-05-20T19:33:04.581670+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVw-b_TRlE5kXGSdSq_FUJFljYnfIWnZd49XA_r-tCxCELzoAQVn4Cw_egwXaaM-S_LlYiqBiy8vchhZzJDhPx5g6QiM--6XVYWzYUFzJCMYOPHGQ4NTiFuyYZ21vr2vTtLOOYjwPGLAY-JBTU4U918Obkaw_9OWg_Yy7w62R9i6f2ojBOD0EkZoSV21gDGHwUwVy5_bGqG4oRGJVmfk8wF4xy-qtuUCrz0JdoFyE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJanywKqvoTF8EkvAcMhLwCgevWq5kVb3d3FZ3FX1hGCcj_gFDd6FKDQ58ObHIAeekqMdaJmyh2R245JOsFnk4IFHbVqdnpPeXw8g_6sHR-J41mY9fTN5e7XE="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3c_dBXMSDY8fz9bnGrTE_IXBhd0VRF0uieToL2eAEy1wvkTf1qqMspScTJBZBTKwajbVP4UIV6gvaxD5DZogdarvkQda1qbP0V9ZsmXvm4d28ZrOb91CsJA=="
@@ -22,17 +22,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoJTDUySJQpyXdL5hosFk4qP23OiMVyIV42qzRTI7rexm9mTo9khWEUxJIBxh6Zg4TcH2gFUCL3RgBsRj-gZJ2c5b1VSwZH5a6NMcfMytFvYO3FBo5LMuL51tmQ3-nBkS3HmG5cOqqHMRm_gb9afnjnG09SmzS2f06tomsfINwhP8UB4W-jA=="
 game: unknown
 hero_image: /img/nte-character-ascension-materials-guide/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-ascension-materials-guide/inline-1.webp
   - /img/nte-character-ascension-materials-guide/inline-2.webp
   - /img/nte-character-ascension-materials-guide/inline-3.webp
   - /img/nte-character-ascension-materials-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Progressing through the supernatural city of Hethereau requires more than just sharp reflexes; you must systematically upgrade your Espers to survive high-level anomalies. This Neverness to Everness character ascension materials guide provides the exact farming locations and resource requirements needed to break level caps and maximize your team's potential.
 
@@ -47,7 +47,7 @@ Progressing through the supernatural city of Hethereau requires more than just s
 
 Players arriving in the urban open world of Neverness to Everness (NTE) often find their progression halted by level caps that prevent characters from gaining further experience. To overcome these barriers, you must understand the specific materials required for character ascension, where to farm them efficiently, and how the underlying Hunter Rank system governs your account's power ceiling.
 
-This guide addresses three primary concerns for every Appraiser:
+This guide addresses three primary concerns for every Appraiser
 *   **What materials are required to ascend characters in Neverness to Everness?** We break down the hierarchy of Hunter Guides, Whispers, and Boss Drops.
 *   **Where can players farm character EXP and breakthrough items?** We identify the specific Anomaly Zones, such as Houdinii's Magic Stage, and open-world boss locations.
 *   **How does the character level cap system work in NTE?** We explain the relationship between Hunter Rank, Appraisal Levels, and character breakthroughs.
@@ -82,7 +82,7 @@ The progression system in Neverness to Everness is a dual-layered mechanic that 
 
 You cannot ascend any character until you reach **Hunter Rank 10**. In NTE, your Hunter Rank (HL) determines your **Appraisal Level (AL)**, which acts as the ultimate gate for character and Arc (weapon) levels. 
 
-The progression follows a specific pattern:
+The progression follows a specific pattern
 *   **HL 10 (AL 1):** Unlocks the first breakthrough, allowing characters to reach Level 30.
 *   **HL 20 (AL 2):** Requires a "Hunter Level Limit Ascension" quest at Houdinii's Magic Stage to reach Level 40.
 *   **HL 30 (AL 3):** Unlocks Level 50 cap.
@@ -184,10 +184,10 @@ If you haven't committed to an account yet, rerolling for a strong S-Rank charac
 
 ## Sources
 
-- Neverness.gg — https://neverness.gg/guides/ascension-materials-farming
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/45821
+- Neverness.gg
+- GameWith
 - Sportskeeda — https://www.sportskeeda.com/esports/nte-character-pixels-city-stamina-explained
-- TheGamer — https://www.thegamer.com/neverness-to-everness-hunter-level-appraisal-guide/
+- TheGamer
 - PowerPyx — https://www.powerpyx.com/nte-neverness-to-everness-trophy-guide-roadmap/
-- FRVR — https://frvr.com/news/neverness-to-everness-codes-may-2026/
-- Insider Gaming — https://insider-gaming.com/how-to-ascend-characters-neverness-to-everness/
+- FRVR
+- Insider Gaming

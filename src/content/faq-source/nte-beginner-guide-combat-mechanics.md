@@ -1,4 +1,4 @@
----
+--
 title: "NTE Beginner Guide for Combat Mechanics: Master the Battle System"
 slug: nte-beginner-guide-combat-mechanics
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-beginner-guide-combat-mechanics/hero.webp
-inline_images:
+inline_images
   - /img/nte-beginner-guide-combat-mechanics/inline-1.webp
   - /img/nte-beginner-guide-combat-mechanics/inline-2.webp
   - /img/nte-beginner-guide-combat-mechanics/inline-3.webp
   - /img/nte-beginner-guide-combat-mechanics/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the fast-paced, urban supernatural combat of Neverness to Everness (NTE) is essential for surviving the anomalies lurking within Hethereau. This beginner guide breaks down the core systems, from the intricate Esper Cycle to the high-stakes Stagger mechanics, ensuring you can maximize your team's efficiency in every encounter.
 
@@ -77,7 +77,7 @@ To maximize your DPS, you should build your team specifically to facilitate thes
 
 ### Defense: The Art of the Perfect Dodge and Parry
 
-Survival in Hethereau is not just about avoiding damage; it is about turning an enemy's aggression into your own advantage. NTE utilizes two primary defensive mechanics:
+Survival in Hethereau is not just about avoiding damage; it is about turning an enemy's aggression into your own advantage. NTE utilizes two primary defensive mechanics
 
 1.  **Perfect Dodge:** When an enemy attack is about to land, a "Red Flash" will appear on the screen. Dodging exactly at this moment triggers a "Critical Riposte." This slows down time momentarily and allows your Esper to perform a high-damage counter-attack that ignores a portion of the enemy's defense.
 2.  **Parry:** Some powerful enemy attacks are preceded by a "Double Red Circle" indicator. If you use your skill or a specific parry-capable attack when these circles overlap, you perform a Perfect Parry. This not only negates all incoming damage but also provides a massive boost to your Esper Meter, often filling it instantly and allowing for an immediate character swap or Ultimate.
@@ -86,7 +86,7 @@ Survival in Hethereau is not just about avoiding damage; it is about turning an 
 
 Every elite enemy and boss in NTE has a white bar located directly beneath their health bar. This is the Stagger (or Break) Meter. While this bar is active, the enemy possesses high resistance to hit-stun and takes reduced damage.
 
-To defeat tough opponents, you must focus on depleting this meter. Certain Espers and specific Duo Reactions (like Stain) are specialized in "Stagger Damage." Once the white bar is fully depleted, the enemy enters a "Staggered" state. During this window:
+To defeat tough opponents, you must focus on depleting this meter. Certain Espers and specific Duo Reactions (like Stain) are specialized in "Stagger Damage." Once the white bar is fully depleted, the enemy enters a "Staggered" state. During this window
 *   The enemy is completely immobilized.
 *   All incoming damage is multiplied by a significant factor (usually 1.5x to 2.0x depending on your team's passives).
 *   This is the optimal time to dump all your Ultimates and high-cooldown skills.
@@ -107,7 +107,7 @@ For an Arc's passive bonus to activate, it must match the "Type" of the Esper wi
 
 ### Advanced Team Synergy and Roles
 
-As you progress, you will need to define roles within your four-person squad. A standard balanced team usually consists of:
+As you progress, you will need to define roles within your four-person squad. A standard balanced team usually consists of
 *   **Main DPS:** The Esper who stays on field the longest, usually of the Plasma or Solid type, focusing on raw damage.
 *   **Stagger Specialist:** A character designed to quickly shred the enemy's white bar.
 *   **Elemental Enabler:** An Esper whose primary job is to apply an elemental status (like Incantation or Chaos) to set up Duo Reactions.
@@ -130,7 +130,7 @@ By coordinating these actions, you can maintain a constant flow of swaps, ensuri
 ![Related](/img/nte-beginner-guide-combat-mechanics/inline-4.webp)
 
 
-Looking for more ways to optimize your Hethereau experience? Check out our additional guides to stay ahead of the curve:
+Looking for more ways to optimize your Hethereau experience? Check out our additional guides to stay ahead of the curve
 
 *   **NTE Character Tier List:** Discover which Espers currently dominate the meta and who you should prioritize for your early-game resources.
 *   **Best Arcs Guide:** A deep dive into the top-tier weapons for every role, including where to farm them and which sub-stats to roll for.
@@ -141,6 +141,6 @@ Looking for more ways to optimize your Hethereau experience? Check out our addit
 
 *   Neverness to Everness Official Site — https://nte.hotta.studio/
 *   Game8 NTE Combat Guide — https://game8.co/games/Neverness-to-Everness/
-*   IGN: Neverness to Everness Everything We Know — https://www.ign.com/articles/neverness-to-everness-everything-we-know
-*   Prydwen Institute: NTE Mechanics Overview — https://www.prydwen.gg/nte/
+*   IGN: Neverness to Everness Everything We Know
+*   Prydwen Institute: NTE Mechanics Overview
 *   Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Neverness_to_Everness_Wiki

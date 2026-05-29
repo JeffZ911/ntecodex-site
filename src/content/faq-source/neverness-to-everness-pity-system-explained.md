@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Pity System Explained: Rates & Banners"
 slug: neverness-to-everness-pity-system-explained
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-16T22:43:07.438188+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-pity-system-explained/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-pity-system-explained/inline-1.webp
   - /img/neverness-to-everness-pity-system-explained/inline-2.webp
   - /img/neverness-to-everness-pity-system-explained/inline-3.webp
   - /img/neverness-to-everness-pity-system-explained/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Understanding the gacha mechanics in Hecta City is essential for any player looking to optimize their roster without wasting precious Annulith.
 
@@ -32,7 +32,7 @@ Understanding the gacha mechanics in Hecta City is essential for any player look
 ![Question Restated](/img/neverness-to-everness-pity-system-explained/inline-1.webp)
 
 
-As Neverness to Everness (NTE) establishes itself in the urban open-world genre, players frequently ask how the unique "Scarborough Fair" gacha system functions compared to other titles. The complexity of a board-game-style interface can make traditional "pity" mechanics feel obscured. This guide addresses the following core questions:
+As Neverness to Everness (NTE) establishes itself in the urban open-world genre, players frequently ask how the unique "Scarborough Fair" gacha system functions compared to other titles. The complexity of a board-game-style interface can make traditional "pity" mechanics feel obscured. This guide addresses the following core questions
 
 *   How does the pity system work in Neverness to Everness (NTE)?
 *   What are the specific pull counts for soft pity and hard pity?
@@ -70,7 +70,7 @@ Unlike many contemporary gacha games, NTE does not feature a "50/50" system for 
 
 The gacha system in Neverness to Everness is visually presented as "Scarborough Fair," a Monopoly-style board game. Instead of a simple animation of falling stars or crates, players roll dice to move a small mascot called a "Chuppa" across various tiles. Each tile represents a potential reward, including A-Rank characters, S-Rank characters, upgrade materials, or currency.
 
-To participate, players spend Annulith, the primary premium currency. Each pull costs 160 Annulith. The type of dice used depends on the banner:
+To participate, players spend Annulith, the primary premium currency. Each pull costs 160 Annulith. The type of dice used depends on the banner
 *   **Solid Dice:** Used for Limited-Time Character Boards (e.g., "The Ichi-daime" banner for Nanally).
 *   **Fabricated Dice:** Used for the Standard Board (Permanent).
 *   **Tri-Keys:** Used for the Arc Research Program (Weapon Gacha).
@@ -174,7 +174,7 @@ The higher base rate and the lack of a 50/50 mechanic make NTE one of the most p
 
 ## Sources
 
-- neverness.gg — https://neverness.gg/guides/pity-system-explained
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-gacha-mechanics-guide/
-- dexerto.com — https://www.dexerto.com/neverness-to-everness/neverness-to-everness-pity-system-rates-banners-explained-2849102/
+- neverness.gg
+- pcgamer.com
+- dexerto.com
 - official-nte.com — https://www.nevernesstoeverness.com/en/news/scarborough-fair-official-rules/

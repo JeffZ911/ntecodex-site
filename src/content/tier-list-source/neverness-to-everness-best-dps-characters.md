@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Best DPS Characters: Tier List (May 2026)"
 slug: neverness-to-everness-best-dps-characters
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-best-dps-characters/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-best-dps-characters/inline-1.webp
   - /img/neverness-to-everness-best-dps-characters/inline-2.webp
   - /img/neverness-to-everness-best-dps-characters/inline-3.webp
   - /img/neverness-to-everness-best-dps-characters/inline-4.webp
   - /img/neverness-to-everness-best-dps-characters/inline-5.webp
   - /img/neverness-to-everness-best-dps-characters/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Choosing the right damage dealer in Hethereau determines how quickly you can clear the 'Beyond the Rails' endgame and dominate the open-world anomalies.
 
@@ -42,7 +42,7 @@ The rankings in this guide are derived from rigorous testing within the 'Beyond 
 
 Our methodology also weighs "Arc Compatibility." Every character is attuned to a specific state of matter—Solid, Liquid, Gas, Plasma, or Synthesis. This determines which weapons provide the most significant scaling. For example, a Plasma-aligned DPS like [Nanally](/characters/nanally-guide-nte) gains unique multiplicative bonuses from Plasma-type Arcs that other units cannot access.
 
-We categorize DPS roles into three distinct types:
+We categorize DPS roles into three distinct types
 1. **Main DPS:** Characters who require maximum on-field time to generate damage.
 2. **Sub-DPS:** Characters who provide off-field damage or utility through summons and persistent effects.
 3. **Burst DPS:** Characters designed to swap in, execute a high-damage rotation, and swap out.
@@ -195,8 +195,8 @@ The discovery of "Triple Cycle" reactions has also altered team building. Player
 As the game moves toward Version 1.1, the standing of Chaos and Psyche units is expected to rise. For now, focusing on Anima and Cosmos combinations remains the most efficient way to progress through the challenges of Neverness to Everness.
 
 ## Sources
-- beebom.com — https://beebom.com/neverness-to-everness-characters/
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-is-a-new-open-world-supernatural-rpg-from-the-tower-of-fantasy-devs-and-it-looks-like-gta-meets-genshin-impact/
+- beebom.com
+- pcgamer.com
 - Official Neverness to Everness Website — https://nte.perfectworld.com/
 - Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Release and Gameplay — https://www.ign.com/games/neverness-to-everness

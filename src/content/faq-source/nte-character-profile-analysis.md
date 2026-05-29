@@ -1,4 +1,4 @@
----
+--
 title: "NTE Character Profile and Analysis: Best Espers and Meta Guide"
 slug: nte-character-profile-analysis
 game: unknown
@@ -7,7 +7,7 @@ qa_score: 8.8
 word_count: 1708
 published_at: "2026-05-15T17:57:06.562874+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvZviJ7ECcOX2kXqfgvN4EQyvTYm5p2xHHK-ZxWJhPP4MjtAqY7fRVSBcO0b0-5R1adCGop0GFVXQlF2xgeoIrvJk1EGOG20pJG32HIyhDfX-NjlXCcJN0_ixINxrY6aDzDKQCH9eCS6TS3HZSN3XhOMYmhulLINyYmKpFPA7ESFJyW9E="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4NC82TW44S7FpYZJzkmwyAK46YuHhDlR3defmdnNkCELeLCXnZDzvKEDXa01vPe_xdWQG_6oDH0hzmzcO-wJvL8sLTmSZ3SyDZMlmIm4Ds3ANpqDr_9XOoUlS8782djsifKM0ITxueETAbW25_zt7QeHONAY370hNxY-7zDS7Unh2g40avg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGllIEtNzsb48P5Wf10lj-jghVWknLJ0YwOor2i92yZK5mUc-TB0SZLoJEcSJR6x6_nGQwxvv76lWkwxL5mmhCSz7XwTr0IDCEuKamxeOkzNwjfaIn-zfGU5A=="
@@ -26,17 +26,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkNvZqGHSBKtIuV7F08y45zmzcBDm48oDWAFwv4dviAmcUJ8uuPRwSNrMf3Y5zdPfxGUD58zisq2gphtrWLGuqwvXXXtyRFMfRkF5aLE72RG2dwOQzj8ANrNp9nQC_g64fxH3zPPHyYBfMgmNGrmOcmvjMX2BIU5Qxoqp2CW7cD4="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1c0R4utCXAY1ZNznnjoW9bQ4otXx1ubuWCk7QCiYz52MkX6lpbAL2s2OYEjTN8DxrDpt9sbG5OYXlLJNwDkxgn0fO8E7wrOT3YWeT6gcZtET4INYnu_HZKYC6q8RKIcOm4SmyU_Q_hawSrY2vWaUiztk1MKGf-qJoQZJINXqNsDQCW43u4d-j7J6C0fnYUOnEsQ=="
 hero_image: /img/nte-character-profile-analysis/hero.webp
-inline_images:
+inline_images
   - /img/nte-character-profile-analysis/inline-1.webp
   - /img/nte-character-profile-analysis/inline-2.webp
   - /img/nte-character-profile-analysis/inline-3.webp
   - /img/nte-character-profile-analysis/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the urban supernatural landscape of Hethereau requires a deep understanding of the Espers who call its neon-lit streets home. This NTE character profile and analysis guide breaks down the current meta and mechanics to help you build the ultimate team for the May 2026 launch version.
 
@@ -47,7 +47,7 @@ Mastering the urban supernatural landscape of Hethereau requires a deep understa
 ![Question Restated](/img/nte-character-profile-analysis/inline-1.webp)
 
 
-As Neverness to Everness (NTE) establishes its place in the open-world RPG genre, players are looking for clarity on the rapidly evolving character meta. This guide addresses the following critical questions:
+As Neverness to Everness (NTE) establishes its place in the open-world RPG genre, players are looking for clarity on the rapidly evolving character meta. This guide addresses the following critical questions
 
 *   **What are the current character profiles in Neverness to Everness (NTE)?** We examine the 16+ playable Espers, their elemental Attributes, and their unique combat roles.
 *   **How does the meta analysis rank the best Espers in the 2026 launch version?** We provide a comprehensive tier list based on damage output, crowd control, and team-wide utility.
@@ -168,7 +168,7 @@ The most effective teams in the current meta focus on "Trio Reactions."
 ![Related](/img/nte-character-profile-analysis/inline-4.webp)
 
 
-To further optimize your roster, consult our specialized resources for the launch version of Neverness to Everness:
+To further optimize your roster, consult our specialized resources for the launch version of Neverness to Everness
 
 ### NTE Tier List and Reroll Guide
 If you are just starting, our reroll guide explains how to secure Nanally or Sakiri within your first 50 pulls. The current "No 50/50" guarantee at 90 pulls makes targeting specific S-Class units much more predictable than in other gacha titles.
@@ -184,12 +184,12 @@ Stay updated with the latest codes to earn Annulith and Fons, which are essentia
 
 ## Sources
 
-- Mobalytics — https://mobalytics.gg/blog/nte-esper-cycle-elements-guide/
-- GameRant — https://gamerant.com/neverness-to-everness-nte-best-teams-guide/
+- Mobalytics
+- GameRant
 - Sportskeeda — https://www.sportskeeda.com/esports/nte-esper-guide-all-reactions-explained
-- GameWith — https://gamewith.net/neverness-to-everness/article/show/47239
-- Neverness.gg — https://neverness.gg/characters/sakiri-build-guide/
-- IGN — https://www.ign.com/articles/neverness-to-everness-tier-list-best-characters
+- GameWith
+- Neverness.gg
+- IGN
 - Destructoid — https://www.destructoid.com/complete-nte-neverness-to-everness-character-tier-list/
 - Fandom — https://neverness-to-everness.fandom.com/wiki/Nanally
 - LDShop — https://www.ldshop.gg/news/nte-nanally-best-guide-skills-teams-equipment-recommendations

@@ -1,4 +1,4 @@
----
+--
 title: "NTE Elemental Resonance Guide: How to Master the Esper Cycle"
 slug: nte-elemental-resonance-mechanics-guide-20260524
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/nte-elemental-resonance-mechanics-guide-20260524/hero.webp
-inline_images:
+inline_images
   - /img/nte-elemental-resonance-mechanics-guide-20260524/inline-1.webp
   - /img/nte-elemental-resonance-mechanics-guide-20260524/inline-2.webp
   - /img/nte-elemental-resonance-mechanics-guide-20260524/inline-3.webp
   - /img/nte-elemental-resonance-mechanics-guide-20260524/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Mastering the flow of combat in the urban supernatural world of Hethereau requires more than just high-level gear; it demands a deep understanding of how the elements interact through the Esper Cycle. By correctly sequencing character swaps, you can trigger devastating Duo and Triple reactions that define the current high-end meta.
 
@@ -32,7 +32,7 @@ Mastering the flow of combat in the urban supernatural world of Hethereau requir
 ![Question Restated](/img/nte-elemental-resonance-mechanics-guide-20260524/inline-1.webp)
 
 
-Players looking to optimize their damage output in Neverness to Everness (NTE) frequently ask how the elemental resonance mechanics function. Specifically, understanding the "Esper Cycle" system is vital for efficient team building and high-level combat rotations. This guide addresses:
+Players looking to optimize their damage output in Neverness to Everness (NTE) frequently ask how the elemental resonance mechanics function. Specifically, understanding the "Esper Cycle" system is vital for efficient team building and high-level combat rotations. This guide addresses
 
 *   What are the elemental resonance mechanics in Neverness to Everness (NTE)?
 *   How does the Esper Cycle system influence team building and combat rotations?
@@ -111,7 +111,7 @@ The **Cycle Rate** is a secondary stat found on Arcs (weapons) and certain gear 
 
 Effective team building in NTE avoids "Rainbow" teams (one of every element) because they lack the adjacency needed for consistent reactions. Instead, players focus on "Lanes."
 
-A typical Lane might look like this:
+A typical Lane might look like this
 *   **The Blossom Lane:** Zero (Cosmos), Nanally (Anima), and Jiuyuan (Anima). This team focuses on keeping the Vita Bud turret active at all times while stacking Anima-based damage buffs.
 *   **The Discord Lane:** Baicang (Incantation), a Chaos-element character [Information not yet publicly available as of 2026-05-24], and Fadia (Psyche). This team is designed specifically to stagger bosses as quickly as possible.
 
@@ -143,8 +143,8 @@ While Duo reactions like Scorch provide decent damage, mastering the timing of *
 ## Sources
 
 - ntegame.com — https://www.ntegame.com
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/47219
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-mechanics-guide/
+- gamewith.net
+- mobalytics.gg
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-elemental-resonance-explained
-- kaiden.gg — https://kaiden.gg/nte/guides/esper-cycle-system/
+- kaiden.gg
 - reddit.com — https://www.reddit.com/r/NevernessToEverness/comments/1cg3d9/esper_wheel_and_triple_reactions_breakdown/

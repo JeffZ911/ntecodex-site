@@ -1,4 +1,4 @@
----
+--
 title: "Best Weapons for NTE Characters: Neverness to Everness Arc Guide"
 slug: best-weapons-nte-characters-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-weapons-nte-characters-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-weapons-nte-characters-guide/inline-1.webp
   - /img/best-weapons-nte-characters-guide/inline-2.webp
   - /img/best-weapons-nte-characters-guide/inline-3.webp
   - /img/best-weapons-nte-characters-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing your character's potential in Neverness to Everness requires more than just leveling; you need the right Arc to unlock their full combat capabilities. Choosing the correct weapon type and rarity can mean the difference between struggling against Hesperia's anomalies and clearing high-level content with ease.
 
@@ -62,7 +62,7 @@ F2P players should prioritize farmable S-rank Arcs like "Day Off" or high-value 
 
 In Neverness to Everness, weapons are referred to as Arcs. These are not traditional swords or guns but rather "Anomalous Arcs" that resonate with an Esper's abilities. They are divided into three rarity tiers: S-rank (Signature/Meta), A-rank (Versatile/F2P), and B-rank (Starter). 
 
-The Arc Type system is the most important factor in character building. There are five distinct types:
+The Arc Type system is the most important factor in character building. There are five distinct types
 *   **Plasma:** Focused on raw offensive power and burst damage.
 *   **Solid:** Enhances durability, HP scaling, and Break Intensity.
 *   **Gas:** Provides utility, elemental application, and support buffs.
@@ -95,7 +95,7 @@ Equipping an Arc of the same type as the character’s natural affinity often un
 
 ### Top F2P and Farmable Arcs for New Players
 
-New players should not feel pressured to pull on the Arc Research Program (gacha) immediately. Several high-tier Arcs can be acquired through gameplay:
+New players should not feel pressured to pull on the Arc Research Program (gacha) immediately. Several high-tier Arcs can be acquired through gameplay
 1.  **Day Off:** Obtained through the "Hesperia Exploration" milestones. It is one of the best generalist S-rank Arcs for any character that scales with ATK.
 2.  **Oraora!:** Frequently dropped from elite anomaly encounters in the city. It is the gold standard for A-rank Plasma DPS weapons.
 3.  **Standard Issue:** A Solid-type B-rank Arc that is surprisingly effective for early-game tanking due to its flat HP bonus.
@@ -140,7 +140,7 @@ In the current version 1.0, S-rank characters like Nanally and Jiuyuan dominate 
 
 ### Best Team Compositions for Version 1.0
 
-The most popular team composition involves a "Hypercarry" setup:
+The most popular team composition involves a "Hypercarry" setup
 1.  **Main DPS:** Nanally (with Ready-Ready)
 2.  **Sub-DPS:** Jiuyuan (with Hethereau's Keeper)
 3.  **Support:** Hotori (with Clear Skies)
@@ -160,4 +160,4 @@ Understanding the "Esper Cycle" is also crucial for weapon selection. Some weapo
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-beginners-guide.html
 - enjoygm.com — https://www.enjoygm.com/news/neverness-to-everness-characters-and-weapons-guide.html
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-tier-list-en.html
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-nte-tier-list-best-characters/
+- mobalytics.gg

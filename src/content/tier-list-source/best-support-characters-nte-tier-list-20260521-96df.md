@@ -1,4 +1,4 @@
----
+--
 title: Best Support Characters in Neverness to Everness (May 2026)
 slug: best-support-characters-nte-tier-list-20260521-96df
 article_type: tier_list
@@ -9,19 +9,19 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-support-characters-nte-tier-list-20260521-96df/hero.webp
-inline_images:
+inline_images
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-1.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-3.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-4.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-5.webp
   - /img/best-support-characters-nte-tier-list-20260521-96df/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Building the perfect team in Hesperia requires more than just high-damage Espers; you need a foundation of utility to survive the supernatural anomalies of the city. This Neverness to Everness support tier list breaks down the top characters keeping your squad alive and empowered as of the May 2026 meta.
 
@@ -38,7 +38,7 @@ Success in Neverness to Everness (NTE) hinges on how effectively you manage the 
 
 Ranking support units in NTE requires looking beyond raw numbers. Because the game utilizes a "quickswap" combat system centered on the Esper Cycle, a support's value is often determined by their "off-field" presence and how little time they need to take up on the active clock.
 
-Our evaluation is based on five primary criteria:
+Our evaluation is based on five primary criteria
 *   **Buff Magnitude and Uptime:** We prioritize characters who provide team-wide ATK and DMG increases with high uptime, ensuring your main DPS is always operating at peak efficiency.
 *   **Crowd Control (CC) Utility:** In urban combat scenarios where enemies often spawn in scattered groups, the ability to group, levitate, or freeze targets is invaluable.
 *   **Esper Cycle Generation:** Units that act as "batteries," generating energy for the team's Ultimates, allow for faster rotation speeds and more frequent invulnerability frames.
@@ -180,7 +180,7 @@ As the community shifts toward prioritizing "Break" stats for the Pink Paws Heis
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.hotta.games/
-- Beebom: Neverness to Everness Characters — https://beebom.com/neverness-to-everness-characters/
+- Beebom: Neverness to Everness Characters
 - Game8: NTE Tier List and Wiki — https://game8.jp/nte
 - IGN: Neverness to Everness Preview and Guides — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official Community Theorycrafting — https://www.reddit.com/r/NTE_Official/

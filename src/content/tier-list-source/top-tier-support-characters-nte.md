@@ -1,4 +1,4 @@
----
+--
 title: Top Tier Support Characters in Neverness to Everness (May 2026)
 slug: top-tier-support-characters-nte
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 8.3
 word_count: 2034
 published_at: "2026-05-24T19:03:05.229964+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE2Zq_Q3MRtzcMSem70nXFCOrlU2szfIv5lVnNbmWvmeUTCZ8NNfUFsEXJEIkLNYoZv-p7uvMfVrgOEymdMc8pti0bn0O2BOlnpqPcuTO-UTWVqB0pLPNtSA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJop1f0gKLM69YbjsjAfFM_4O5tLphnm7GHNDmTFnP4shfeoOYdAOCEpij75O_1dpxw7O366XPSrzeAk-Ronx4qxq6TuWt5lPR5VFQmruzcdQYhK4PDGVDqK0z3LSg_hkrrIFMg9tqMn500ZpuiPgzhQZB90JaOvHS9elVxVNsg-Fn6_gIG2ufdWd8hBI7lp0="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc3YCyGvC0FzD5evWGtZlLrZv6OfbQXGdVn3w6p6K79IJrtVt1DZ0Qwk2gmbkS3fJWmKpGu5KVkrnAIfl62g_Eq2kEG6yanoCOdutt2kmE2Z4w9z6MWoVScvpqbS09kSVlyfykys11srcPfSnfjF5iQFEYrHh2MMwGjueMmXKxxuoO7g2TvzLEg0rBch4bmFRB9U2yoQ=="
@@ -30,21 +30,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERBiCLOK0TUZ6K4-dHXT6olT0HcexNxS4I5QKfXFEzkj3HPmWQGIqBQFgsm-QG9CEGdMZJcA7zs7WbGf10rdFXE8h4LF5JX2vBdVsc-T0ugAtSOAyt6OJ5rwwHwdH9Ba5UD4waH4w4ojBsU7AYjce8kVHWF5a-qAR_gHB5-8VpOtVx6YbXtEdUlItlCk0="
 game: unknown
 hero_image: /img/top-tier-support-characters-nte/hero.webp
-inline_images:
+inline_images
   - /img/top-tier-support-characters-nte/inline-1.webp
   - /img/top-tier-support-characters-nte/inline-2.webp
   - /img/top-tier-support-characters-nte/inline-3.webp
   - /img/top-tier-support-characters-nte/inline-4.webp
   - /img/top-tier-support-characters-nte/inline-5.webp
   - /img/top-tier-support-characters-nte/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Success in the high-stakes urban combat of Hethereau depends on more than just raw damage; it requires a perfectly synchronized support backbone to navigate the supernatural anomalies of Neverness to Everness (NTE). Since the game's launch on April 29, 2026, the meta has rapidly evolved to prioritize characters who offer role compression, combining offensive buffs with essential crowd control and elemental reaction triggers.
 
@@ -83,7 +83,7 @@ In the current Version 1.0 environment, supports are not just "healers." The mos
 
 ### Key Stats for Supports: Cycle Intensity vs. Break Intensity
 
-Understanding the difference between Cycle Intensity and Break Intensity is crucial for optimizing your support builds:
+Understanding the difference between Cycle Intensity and Break Intensity is crucial for optimizing your support builds
 *   **Cycle Intensity:** This stat dictates how quickly your team can trigger Esper Cycle reactions. High Cycle Intensity on characters like Esper Zero or Hotori allows for more frequent "Blossom" or "Nova" procs.
 *   **Break Intensity:** This affects how much damage a character deals to the enemy's Stagger/Break meter. Supports like Daffodil specialize in this, allowing the team to reach the "Broken" state faster, where enemies take significantly increased damage.
 
@@ -221,13 +221,13 @@ As the meta continues to stabilize, the priority remains on characters who provi
 
 ## Sources
 
-- gamerant.com — https://gamerant.com/neverness-to-everness-beyond-the-rails-activity-guide/
+- gamerant.com
 - beebom.com — https://beebom.com/neverness-to-everness-may-19-patch-notes/
 - icy-veins.com — https://www.icy-veins.com/nte/beyond-the-rails-guide
-- gamewith.net — https://gamewith.net/neverness-to-everness/article/show/beyond-the-rails-guide
-- mobalytics.gg — https://mobalytics.gg/neverness-to-everness/best-teams-guide
-- neverness.gg — https://neverness.gg/patch-notes-version-1-0-phase-2/
+- gamewith.net
+- mobalytics.gg
+- neverness.gg
 - enjoygm.com — https://enjoygm.com/neverness-to-everness-banner-schedule-guide/
-- pcgamer.com — https://www.pcgamer.com/games/rpg/neverness-to-everness-tier-list-best-characters/
+- pcgamer.com
 - ldshop.gg — https://www.ldshop.gg/news/nte-hotori-build-guide-skills-teams-arcs-more
 - fandom.com — https://neverness-to-everness.fandom.com/wiki/Sakiri

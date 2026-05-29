@@ -1,4 +1,4 @@
----
+--
 title: "Best 4-Star Weapons in Neverness to Everness: A-Rank Tier List"
 slug: best-4-star-weapons-nte-tier-list-20260520
 article_type: tier_list
@@ -6,7 +6,7 @@ qa_score: 5.1
 word_count: 1681
 published_at: "2026-05-20T10:32:01.594491+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYHH0ga3dpHxc-BIwi2dksYG5AMJxEdjvGtBvalF_jh4uCgdExnisjSca8F5RU0NYJztKxnyWjxY78OddCj5d7APeieNFXjVS8NkJ96SsUpr75-m22dkaQ6ATiJPevk8bkM1UKTUAS1XyoqSdxEClHyUhpdvsLQcXcWByz2OV0_zhUntU="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjjRwLXiDXHfSUW4pvnHPPYBLZ3-Tu5wGhu4jlkzvKWdjxk6PKBSlMHrnQfGqhjdY4qlC0az-JvGYboBJ7zJ1bUnLdlzq3-9JunDu71N2QPaSZIVdQ6z73w12OGJFO7TfcKH3PhC3dgHaXA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8anKNG2jk3JVcNwXKk20z0C1imgJ7Y-p4wdY7xVfU6a9n8mAFWC5OY1ygl2sZpWEpBSS9vkhYWvKm3YlLbnjUPG5HhrDkVNg6UpRFt8trQ3OQMX1l_DDyGZnLvnAmzusAg7XiT-GC_FEnOzegKQ=="
@@ -25,21 +25,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIGsDj_OLj1573wtstb4NUwqJ_sETL26ESLEfbB-566X33yM3mL1PAcJjQfDn7uHAc8UGE-UvoaDbGVXQllIXFdeLd-JgCLRRIZbaK4WlhzPeWpsbbSByT5w=="
 game: unknown
 hero_image: /img/best-4-star-weapons-nte-tier-list-20260520/hero.webp
-inline_images:
+inline_images
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-1.webp
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-2.webp
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-3.webp
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-4.webp
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-5.webp
   - /img/best-4-star-weapons-nte-tier-list-20260520/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Equipping your Espers with the right Arcs can be the difference between clearing a high-level Anomaly and hitting a progression wall in the Hethereau City streets. While S-Rank signature weapons often dominate the conversation, the accessibility and high-refinement potential of 4-star (A-Rank) Arcs make them the backbone of most player rosters following the April 2026 launch.
 
@@ -58,7 +58,7 @@ Navigating the equipment meta in Neverness to Everness requires a deep understan
 
 Every weapon in NTE is categorized into one of five Arc Types: Plasma, Solid, Gas, Liquid, or Synthesis. Matching these types to your Esper's preferred combat style is vital for maximizing total damage output. For instance, a Plasma-type Esper like [Nanally](/characters/nanally-guide-nte) gains significantly more value from a Plasma-type Arc than a mismatched Synthesis disk.
 
-Our ranking criteria prioritize three main factors:
+Our ranking criteria prioritize three main factors
 *   **Base ATK Scaling:** How well the weapon’s raw stats keep up with level 80 content.
 *   **Substat Relevance:** Preference is given to Arcs with CRIT Rate, CRIT DMG, or high ATK% substats over niche defensive stats.
 *   **Passive Utility at Refinement 5 (R5):** Since A-Rank Arcs are easier to "Mix" (refine), an R5 A-Rank weapon often outperforms an R1 S-Rank weapon due to the massive multiplier increases on its passive effects.
@@ -190,12 +190,12 @@ For now, focus your Tri-Key investments on **First Step to Success** and **Us**.
 - memuplay.com — https://www.memuplay.com/blog/neverness-to-everness-complete-arcs-weapons-stats-effects-guide.html
 - icy-veins.com — https://www.icy-veins.com/nte/arcs/umbrella
 - icy-veins.com — https://www.icy-veins.com/nte/arcs/good-boys-grand-adventure
-- gmtreks.com — https://gmtreks.com/neverness-to-everness/good-boys-grand-adventure-stats-and-how-to-get-nte/
+- gmtreks.com
 - gamewith.net — https://gamewith.net/nte/article/show/47856
 - enjoygm.com — https://www.enjoygm.com/blog/neverness-to-everness-all-arcs-weapons-stats-and-effects-guide-breakdown-for-newbies
-- kaiden.gg — https://kaiden.gg/nte/builds/zero
-- neverness.gg — https://neverness.gg/guides/all-arcs-in-neverness-to-everness-stats-and-effects/
+- kaiden.gg
+- neverness.gg
 - icy-veins.com — https://www.icy-veins.com/nte/arcs/mind-royale
-- games.gg — https://games.gg/neverness-to-everness/ultimate-arcs-tier-list/
+- games.gg
 - mobalytics.gg — https://mobalytics.gg/neverness-to-everness/weapons
 - bluestacks.com — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html

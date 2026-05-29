@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Combat Mechanics Guide: Master the Esper Cycle"
 slug: neverness-to-everness-combat-mechanics-guide-20260519-7a1e
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/inline-1.webp
   - /img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/inline-2.webp
   - /img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/inline-3.webp
   - /img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Master the supernatural anomalies of Hethereau by perfecting the flow of the Esper Cycle. This guide provides a comprehensive breakdown of the combat mechanics in Neverness to Everness to help you dominate every encounter.
 
@@ -69,7 +69,7 @@ The depth of Neverness to Everness lies in its layering of individual character 
 
 ### The Four-Character Team and Basic Controls
 
-Every team in NTE consists of four Espers that you can swap between instantly during combat. Each character possesses a distinct kit comprising several standard actions:
+Every team in NTE consists of four Espers that you can swap between instantly during combat. Each character possesses a distinct kit comprising several standard actions
 
 *   **Normal Attacks:** A string of basic strikes that serve as the primary method for building the Esper Meter over time. While their individual damage is lower than skills, they are essential for maintaining pressure.
 *   **Charged Attacks:** By holding the attack button, Espers perform a heavy strike. These typically have higher "Break" value, helping to deplete enemy stability faster, though they leave the character vulnerable for a short window.
@@ -99,7 +99,7 @@ When you fill a character's Esper Meter and swap to an adjacent element's charac
 
 While Duo reactions are the bread and butter of combat, Trio reactions represent the pinnacle of team synergy. These occur when you successfully cycle through three adjacent elements in rapid succession.
 
-There are two primary Trio Reactions based on which side of the wheel you are utilizing:
+There are two primary Trio Reactions based on which side of the wheel you are utilizing
 
 1.  **Charge (The Top Trio):** Triggered by rotating through **Lakshana, Cosmos, and Anima**. This reaction focuses on utility and sustain. Upon activation, it provides massive energy regeneration for the entire team's Ultimate abilities and increases the "Cycle Rate" for a set duration.
 2.  **Discord (The Bottom Trio):** Triggered by rotating through **Incantation, Chaos, and Psyche**. This is a purely offensive reaction designed to end fights quickly. Discord deals massive "Break" damage, often instantly shattering the stability of elite enemies and bosses.
@@ -132,7 +132,7 @@ When the gauge reaches zero, the enemy enters the **Broken** state. During this 
 
 ### Combat Stats: Cycle Rate and Cycle Intensity Explained
 
-As you progress into the endgame and begin optimizing your Espers' gear (known as Arcs), two stats become more important than raw Attack power:
+As you progress into the endgame and begin optimizing your Espers' gear (known as Arcs), two stats become more important than raw Attack power
 
 *   **Cycle Rate:** This is a generation multiplier. A higher Cycle Rate means your Esper Meter fills faster with every hit. This is essential for "Support" or "Sub-DPS" characters who need to swap in, trigger a reaction, and swap out quickly.
 *   **Cycle Intensity:** This stat determines the potency of the elemental reactions themselves (e.g., how much damage the Scorch burn deals or how strong the Hexed resistance shred is). Building Cycle Intensity is vital for characters who are designated as the "Reaction Trigger" in your rotation.
@@ -144,7 +144,7 @@ As you progress into the endgame and begin optimizing your Espers' gear (known a
 ![Related](/img/neverness-to-everness-combat-mechanics-guide-20260519-7a1e/inline-4.webp)
 
 
-To further refine your combat prowess in Hethereau, consider exploring our other specialized guides:
+To further refine your combat prowess in Hethereau, consider exploring our other specialized guides
 
 *   **Character-specific combat guides:** Deep dives into the kits of popular Espers like **Esper Zero**, **[Nanally](/characters/nanally-guide-nte)**, and **Mint**.
 *   **Best Arcs for Every Character:** A comprehensive list of weapon builds prioritized by their ability to maximize Cycle Rate and elemental damage.
@@ -157,7 +157,7 @@ To further refine your combat prowess in Hethereau, consider exploring our other
 - Neverness to Everness Wiki (Game8) — https://game8.co/games/Neverness-to-Everness
 - Hotta Studio Developer Blog — https://www.hottastudio.com/blog/nte-combat-deep-dive
 - Neverness to Everness Subreddit — https://www.reddit.com/r/NevernessToEverness/
-- IGN: NTE Combat Preview — https://www.ign.com/articles/neverness-to-everness-combat-mechanics-explained
-- GameRant: Understanding the Esper Cycle — https://gamerant.com/neverness-to-everness-esper-cycle-guide/
-- Prydwen.gg: NTE Character Database — https://www.prydwen.gg/nte/characters/
+- IGN: NTE Combat Preview
+- GameRant: Understanding the Esper Cycle
+- Prydwen.gg: NTE Character Database
 - Sportskeeda: NTE Elemental Reactions — https://www.sportskeeda.com/esports/neverness-to-everness-all-elemental-reactions-explained

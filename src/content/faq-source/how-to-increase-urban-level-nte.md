@@ -1,4 +1,4 @@
----
+--
 title: How to Increase Urban Level in Neverness to Everness (NTE)
 slug: how-to-increase-urban-level-nte
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 9.2
 word_count: 1903
 published_at: "2026-05-27T00:29:53.209811+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0a02dWb211H6djs2Ec7-rBlbH3tcqtvzhUEoFiZ-4ukagjw3Mcj4lF1JhFLhlZ8S03x_n8MoeYDMxEKU-I2cgNmbWLjNWQi6jhNU_jvFy05CcDMotw6R4mgR4zodl62Kxk3pdG1WlRmhV94fE-hDxuQ00vmnzDn8DEyBW1itekwGLu_d2QhX3iR3ejI="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOpvkZyaCb20l0MWYUWYqjiDOct6-xO-_KbQ8SNI80P_mk2CwCmosP5fM-2eRrIjY99WfT-YnFdXSF5sdEycqQLb4YXTYYZVP-7G--wMVrpM5Um9N3ookgFRXg_K5IRy2rLR9CTv45oMFhomZ7lE3FpuOIptklPSXW69-fvcDKoDe_l7ksk80F77zG-iN1YvRoTj1Cgq8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE51PmqTl1RTejndyahvBpBOwk90LPpb7aFBGHJiB-YzEP1CGh_gkS8T3uJrL7pKCoCbIWPA-xFNqFrisz7THkysDK32FApL7-9J-a5xKBGQVdswLs0-OtEqlDU7sD5T4ydvfbz2K5Gp_Amnipyp7GKZrKYUugXu5VSqvWAvU0JJzQos_avDDkMoqVbL24D8EK1PQe7Rw=="
@@ -23,17 +23,17 @@ sources:
 quick_answer: To increase your Urban Level (City Tycoon), spend City Stamina on Hethereau Hobbies like racing and deliveries to earn Fons, then complete specific Tycoon Tasks in the management menu to manually level up.
 game: unknown
 hero_image: /img/how-to-increase-urban-level-nte/hero.webp
-inline_images:
+inline_images
   - /img/how-to-increase-urban-level-nte/inline-1.webp
   - /img/how-to-increase-urban-level-nte/inline-2.webp
   - /img/how-to-increase-urban-level-nte/inline-3.webp
   - /img/how-to-increase-urban-level-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 To earn the powerful S-Rank character Chiz for free, you must master the city management systems of Hethereau.
 
@@ -95,7 +95,7 @@ Hethereau Hobbies are the primary active method for converting your weekly City 
 The Cafe by Origen (often called the Coffee Shop) is unlocked at Tycoon Level 4. This is your most important long-term investment because it generates passive Fons even when you are offline. You must restock recipes periodically—ideally every 24 to 72 hours—to keep the income flowing. Upgrading the shop increases your daily yield, eventually reaching five-digit figures.
 
 ### Completing Tycoon Tasks and Milestones
-Meeting the Fon requirement is only half the battle. To level up, you must also complete specific Tycoon Tasks. These milestones often involve city interactions, such as:
+Meeting the Fon requirement is only half the battle. To level up, you must also complete specific Tycoon Tasks. These milestones often involve city interactions, such as
 *   Purchasing your first vehicle from a dealership.
 *   Buying an apartment (such as the Wiener Apartments).
 *   Activating Anomaly Furniture within your property.
@@ -133,10 +133,10 @@ As your Tycoon Level rises, you unlock more advanced car dealerships and the abi
 For those looking to maximize their efficiency, visiting the Witch's House is essential. By collecting Oracle Stones and hidden birds throughout Hethereau, you can unlock exploration-based upgrades that make navigating the city faster, indirectly helping you complete Tycoon Tasks more quickly.
 
 ## Sources
-- GameRant — https://gamerant.com/neverness-to-everness-nte-hethereau-hobbies-guide/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-nte-how-to-get-fully-awakened-chiz-for-free/
-- GameWith — https://www.gamewith.net/neverness-to-everness/article/show/49618
-- Games.gg — https://games.gg/neverness-to-everness/how-to-raise-your-city-tycoon-level-fast/
+- GameRant
+- TheGamer
+- GameWith
+- Games.gg
 - LootBar — https://lootbar.gg/guide/neverness-to-everness-best-fons-farming-guide
 - PowerUp Gaming — https://powerupgaming.co.uk/neverness-to-everness-best-heists-robbery-strategies/
 - Nerd's Chalk — https://nerdschalk.com/neverness-to-everness-paper-plane-location-full-guide/

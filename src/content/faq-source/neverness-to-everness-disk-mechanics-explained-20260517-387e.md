@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Disk Mechanics Explained: Gear Guide"
 slug: neverness-to-everness-disk-mechanics-explained-20260517-387e
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-17T12:10:18.463466+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/neverness-to-everness-disk-mechanics-explained-20260517-387e/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-disk-mechanics-explained-20260517-387e/inline-1.webp
   - /img/neverness-to-everness-disk-mechanics-explained-20260517-387e/inline-2.webp
   - /img/neverness-to-everness-disk-mechanics-explained-20260517-387e/inline-3.webp
   - /img/neverness-to-everness-disk-mechanics-explained-20260517-387e/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your Esper for the supernatural challenges of Hethereau requires more than just leveling up; you must master the grid-based equipment system that defines the endgame.
 
@@ -34,7 +34,7 @@ Optimizing your Esper for the supernatural challenges of Hethereau requires more
 
 Players arriving in the urban sprawl of Hethereau often find themselves asking: What are the "Disk" mechanics in Neverness to Everness (NTE)? While many modern RPGs use a simple slot-based armor system, NTE introduces a specialized "Console" interface for every Esper. This system revolves around two primary components: Cartridges and Modules.
 
-The most common points of confusion for new players include:
+The most common points of confusion for new players include
 *   How do Cartridges, Modules, and the Console system interact to provide stats?
 *   What are the specific requirements for fitting "Tetris-shaped" blocks into a character’s gear grid?
 *   How does the NTE gear system differ from the traditional "artifact" or "relic" systems found in other urban gacha titles?
@@ -50,7 +50,7 @@ The "Disk" mechanics in Neverness to Everness refer to the modular gear system h
 
 The Console acts as a 5x5 grid (though size varies by Esper level) where players must strategically place Modules to activate "Tetris Passives." These passives are character-specific bonuses triggered by equipping a set number of specific Module types (Type II, III, or IV). 
 
-NTE distinguishes itself from other urban RPGs through two key features:
+NTE distinguishes itself from other urban RPGs through two key features
 1.  **Stat Overlap:** A single gear piece can have the same attribute as both its Main Stat and a Sub Stat, allowing for extreme specialization.
 2.  **Stat Transparency:** All Sub Stat values are visible the moment an item is acquired, removing the need to level an item just to see if it is "good."
 
@@ -83,7 +83,7 @@ Cartridges function as the "Engine" of your build. They are categorized by eleme
 Each Cartridge comes with one Main Stat. For DPS characters, you are typically looking for Crit Rate or Elemental DMG Cartridges. For supports, Energy Regeneration or Max HP is often preferred. 
 
 **Cartridge Enhancement Milestones:**
-Leveling a Cartridge requires "Data Fragments" and Fons (the standard currency). As you reach specific level milestones, the Sub Stats are activated or enhanced:
+Leveling a Cartridge requires "Data Fragments" and Fons (the standard currency). As you reach specific level milestones, the Sub Stats are activated or enhanced
 
 *   **Level +5:** First Sub Stat value increases.
 *   **Level +10:** Second Sub Stat value increases.
@@ -152,6 +152,6 @@ Since Modules are essential for activating Tetris Passives, you will need a stea
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
 - Game8 Neverness to Everness Guide Hub — https://game8.co/games/Neverness-to-Everness
-- Prydwen Institute: NTE Gear and Console Mechanics — https://www.prydwen.gg/nte/guides/gear-system
-- IGN: Neverness to Everness - Everything We Know — https://www.ign.com/articles/neverness-to-everness-everything-we-know
+- Prydwen Institute: NTE Gear and Console Mechanics
+- IGN: Neverness to Everness - Everything We Know
 - Reddit r/NTE_Official: Comprehensive Disk and Module Guide — https://www.reddit.com/r/NTE_Official/

@@ -1,4 +1,4 @@
----
+--
 title: How to Increase Resonance Level in Neverness to Everness (NTE)
 slug: nte-how-to-increase-resonance-level
 game: unknown
@@ -9,17 +9,17 @@ published_at: "2026-05-15T07:59:28.985433+00:00"
 published_url: /faq
 sources: []
 hero_image: /img/nte-how-to-increase-resonance-level/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-increase-resonance-level/inline-1.webp
   - /img/nte-how-to-increase-resonance-level/inline-2.webp
   - /img/nte-how-to-increase-resonance-level/inline-3.webp
   - /img/nte-how-to-increase-resonance-level/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Maximizing a character's potential in the urban supernatural landscape of Hethereau requires more than just standard leveling; it requires a deep understanding of the Resonance system. To push your team toward end-game content, you must learn how to increase Resonance Level to unlock the powerful R1 and R2 passives that define the meta.
 
@@ -64,14 +64,14 @@ The primary way to increase Resonance Level in Neverness to Everness is by activ
 
 To increase your Resonance Level, you must acquire Mind Shards for the specific character you wish to upgrade. Once you have the required number of shards, navigate to the character screen, select "Awakening," and activate the next available node. You cannot skip nodes; they must be activated in a specific sequence, although some characters offer branching choices within the A1-A3 and A4-A6 brackets.
 
-Mind Shards are primarily sourced from:
+Mind Shards are primarily sourced from
 *   **The Scarborough Fair:** The game's gacha system where pulling duplicate characters grants shards.
 *   **The Warp Exchange:** A shop where "Warp Pieces" (earned from gacha pulls) can be traded for specific character shards.
 *   **City Tycoon:** The economic simulation mode where reaching specific business milestones provides free shards for certain characters.
 
 ### Resonance Level Milestones
 
-While there are six total Awakening nodes, the community and the game UI categorize character power into three main Resonance states:
+While there are six total Awakening nodes, the community and the game UI categorize character power into three main Resonance states
 
 *   **Resonance Level 0 (R0):** The base state of a character when first obtained. No Awakening nodes are active.
 *   **Resonance Level 1 (R1):** Achieved immediately upon activating the **third Awakening node (A3)**. This usually unlocks the first major gameplay-altering passive.
@@ -95,7 +95,7 @@ The Resonance system in Neverness to Everness is designed to reward players for 
 
 When you enter the Awakening menu, you will see a hexagonal grid or a linear path (depending on the character's rarity) containing six nodes. 
 
-To activate a node, you need:
+To activate a node, you need
 1.  **Mind Shards:** 1 per node for most characters.
 2.  **Analith:** A common upgrade essence found in urban exploration and combat challenges.
 3.  **Fons:** A specialized currency used for high-level character modifications.
@@ -127,7 +127,7 @@ The "Esper Cycle" is the flow of combat in NTE, involving character swaps and el
 
 ### Resource Management: Dice, Warp Pieces, and Analith
 
-To efficiently increase Resonance, you must manage three distinct resource pools:
+To efficiently increase Resonance, you must manage three distinct resource pools
 
 1.  **Dice Strategy:** Do not spread your Solid Dice across every banner. If you want a character to be viable in late-game "Ethereal Rifts," you should aim for at least R1. This usually requires pulling the character four times (one initial copy + three duplicates for A1, A2, and A3).
 2.  **Warp Piece Conservation:** Save your Warp Pieces for the final shard needed to hit an R1 or R2 milestone. Spending them on A1 or A2 is often a waste if you plan to keep pulling on that character's banner.
@@ -177,5 +177,5 @@ By balancing your gacha pulls, participating in the City Tycoon economy, and man
 - Neverness to Everness Official Website — https://nte.wanmei.com/
 - Game8 NTE Character Progression Guide — https://game8.co/games/Neverness-to-Everness
 - IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/
-- Prydwen Institute: NTE Awakening and Resonance — https://www.prydwen.gg/nte/guides/resonance-system/
+- Prydwen Institute: NTE Awakening and Resonance
 - Reddit r/NTE_Official: City Tycoon Rewards and Milestones — https://www.reddit.com/r/NTE_Official/comments/city-tycoon-guide/

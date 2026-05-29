@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Combat Tips: Best Builds, Teams, and Arcs"
 slug: nte-combat-tips-tricks-build-guide-20260521
 article_type: build
@@ -9,19 +9,19 @@ published_url: /guides/nte-combat-tips-tricks-build-guide-20260521
 sources: []
 game: unknown
 hero_image: /img/nte-combat-tips-tricks-build-guide-20260521/hero.webp
-inline_images:
+inline_images
   - /img/nte-combat-tips-tricks-build-guide-20260521/inline-1.webp
   - /img/nte-combat-tips-tricks-build-guide-20260521/inline-2.webp
   - /img/nte-combat-tips-tricks-build-guide-20260521/inline-3.webp
   - /img/nte-combat-tips-tricks-build-guide-20260521/inline-4.webp
   - /img/nte-combat-tips-tricks-build-guide-20260521/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
----
+--
 
 Mastering the supernatural anomalies of Hethereau requires more than just high-level characters; it demands a deep understanding of how elemental lanes and weapon synergies interact. This guide breaks down the essential strategies to optimize your performance in Neverness to Everness.
 
@@ -204,7 +204,7 @@ Every fight should begin with your Support or Survival unit.
 
 ### Executing the Esper Cycle Loop
 
-Once the lanes are set, move into your reaction loop. For a Discord team, this looks like:
+Once the lanes are set, move into your reaction loop. For a Discord team, this looks like
 1.  **Sakiri Skill:** Apply Incantation.
 2.  **Swap to Daffodill:** Trigger Discord reaction.
 3.  **Daffodill Skill:** Re-apply Chaos.
@@ -244,10 +244,10 @@ The Board Game is the progression system where you spend currency to pull for ch
 
 - ldplayer.net — https://www.ldplayer.net/blog/neverness-to-everness-combat-guide.html
 - youtube.com — https://www.youtube.com/watch?v=NTE_Gameplay_Mechanics
-- thegamer.com — https://www.thegamer.com/neverness-to-everness-nte-combat-elemental-system-guide/
+- thegamer.com
 - sportskeeda.com — https://www.sportskeeda.com/esports/neverness-to-everness-weapons-arcs-guide
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-best-teams-guide/
+- mobalytics.gg
 - ldshop.gg — https://www.ldshop.gg/news/nte-disk-set-guide-2026
-- kaiden.gg — https://kaiden.gg/nte/characters/hotori-build-guide/
-- neverness.gg — https://neverness.gg/wiki/mechanics/esper-cycle
-- games.gg — https://www.games.gg/neverness-to-everness/guides/combat-tips-tricks/
+- kaiden.gg
+- neverness.gg
+- games.gg

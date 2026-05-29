@@ -1,4 +1,4 @@
----
+--
 title: Neverness to Everness Character Skill Leveling & Build Guide
 slug: neverness-to-everness-character-skill-leveling-guide
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 6.3
 word_count: 1717
 published_at: "2026-05-22T19:02:09.963467+00:00"
 published_url: /guides/neverness-to-everness-character-skill-leveling-guide
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKD0FCsy3kJaJ9e8rGjmZZJOWLmgiG7EapAKXfjw-H0feYv2pi6numMYfGZInRnfYsVaFcoEe56FFMbj6H_l7Q_ggdDf2U1c2zWNIAktOLhVKm51RAWJw5tFF1L7st-X4xTFtbSJeNSbTZzuBgXMEBI2O_jLE5ISmbqkmrHQ1wma6boYzzmJVnjLepfjM="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErJxJ48LrajU-jIPmIG9GPdWbMobpeDISfXS-op2RVVr3HWj63wtE3tRTh3lXwZleJfjg5-Jn6jub-4gd373NtUPZK2yQMhAmmzrVM0H8u36XEBMhOaKQuUA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4FRmE73-a3bS2iqv_KEAmk0jJO-5U6XhBO7TA-xjA9o9qdC6rs37iNSVh1ruSPPX7kkFuTxgr7SQxA3NWkoRBqXk2TxpLWYZ_1nJOPWJ1fRw7nNjJHyo09yNAuFHb8Vlq8VYBRX57sMmI5dVwiT5k6jeskAvJmERwQiMfUJnFllS93tUSg=="
@@ -24,21 +24,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7wf2LQ9L4entdESZl5MVV17egznwtIjw28K3LVWxze3CvBKh3he0bGIkYF6aH1xFBAp4A0cTHpnbVgg8MRt_6eImNq1QXtlyaHWwO4m7Nc6kQy70UHX5sheyz-Z9Rcbe5wVTxXSmlYPt0484RYcaXvLw="
 game: unknown
 hero_image: /img/neverness-to-everness-character-skill-leveling-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-1.webp
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-2.webp
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-3.webp
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-4.webp
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-5.webp
   - /img/neverness-to-everness-character-skill-leveling-guide/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 With the supernatural streets of Hethereau now open to Appraisers, mastering the intricate combat and progression systems is the only way to survive high-level Anomaly Hunts.
 
@@ -55,7 +55,7 @@ Character progression in Neverness to Everness (NTE) is a multi-layered process 
 
 ### Hunter Level & Ascension Caps
 
-Your account progress is tracked via the **Hunter Level**, which acts as a hard gate for your characters. Even if you have the materials, you cannot level a character past specific thresholds without completing a **Hunter Advancement Test**. These tests are administered by the Bureau of Anomaly Control (BAC) and appear at the following milestones:
+Your account progress is tracked via the **Hunter Level**, which acts as a hard gate for your characters. Even if you have the materials, you cannot level a character past specific thresholds without completing a **Hunter Advancement Test**. These tests are administered by the Bureau of Anomaly Control (BAC) and appear at the following milestones
 
 *   **Level 20:** Unlocks the first major Ascension and allows skills to be leveled to Rank 3.
 *   **Level 40:** Increases the level cap to 60 and unlocks the "Console" gear system's second tier.
@@ -71,7 +71,7 @@ For a Main DPS like **[Nanally](/characters/nanally-guide-nte)**, your priority 
 
 ### Skill Leveling Materials
 
-Upgrading skills requires specific materials found in the Anomaly Zone. The table below outlines the core requirements for early-to-mid-game skill progression:
+Upgrading skills requires specific materials found in the Anomaly Zone. The table below outlines the core requirements for early-to-mid-game skill progression
 
 | Material Name | Primary Source | Usage |
 | :--- | :--- | :--- |
@@ -211,11 +211,11 @@ This is Nanally's signature combat state triggered by her Redirect Skill. It gra
 ## Sources
 
 - Sportskeeda — https://www.sportskeeda.com/gaming-tech/neverness-everness-nte-combat-guide-attributes-esper-cycles-explained
-- Mobalytics — https://mobalytics.gg/blog/nte-esper-cycle-elements-guide/
-- Kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions/
-- Neverness.gg — https://neverness.gg/characters/nanally-build-guide/
+- Mobalytics
+- Kaiden.gg
+- Neverness.gg
 - Enjoygm — https://www.enjoygm.com/news/neverness-to-everness-nanally-build-guide
 - LDPlayer — https://www.ldplayer.net/blog/neverness-to-everness-nanally-best-build-guide.html
-- GameWith — https://gamewith.net/nte-guide/article/show/45612
+- GameWith
 - Icy Veins — https://www.icy-veins.com/nte/characters/sakiri-guide
 - GosuGamers — https://www.gosugamers.net/news/neverness-to-everness-launch-characters-guide

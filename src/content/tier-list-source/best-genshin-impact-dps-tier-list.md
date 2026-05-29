@@ -1,4 +1,4 @@
----
+--
 title: "Best Genshin Impact DPS Tier List: Top Main DPS (May 2026)"
 slug: best-genshin-impact-dps-tier-list
 game: genshin
@@ -9,21 +9,21 @@ published_at: "2026-05-14T15:21:39.970225+00:00"
 published_url: /tier-list
 sources: []
 hero_image: /img/best-genshin-impact-dps-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-genshin-impact-dps-tier-list/inline-1.webp
   - /img/best-genshin-impact-dps-tier-list/inline-2.webp
   - /img/best-genshin-impact-dps-tier-list/inline-3.webp
   - /img/best-genshin-impact-dps-tier-list/inline-4.webp
   - /img/best-genshin-impact-dps-tier-list/inline-5.webp
   - /img/best-genshin-impact-dps-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Maintaining a powerful roster is essential for clearing the high-difficulty content found in the later stages of the Spiral Abyss and the challenging combat encounters throughout Natlan. This guide breaks down the best DPS characters in Genshin Impact as of May 2026, ranking them by their efficiency, damage ceilings, and synergy with the current Version 6.6 meta.
 
@@ -40,7 +40,7 @@ Ranking the top damage dealers in Genshin Impact requires a standardized approac
 
 ### Primary Ranking Criteria
 
-To determine a character's placement, we evaluate four key pillars of performance:
+To determine a character's placement, we evaluate four key pillars of performance
 
 *   **Damage Ceiling:** The maximum potential damage output in optimized team rotations.
 *   **Area of Effect (AoE) vs. Single-Target:** The ability to clear waves of enemies versus the efficiency of taking down high-HP bosses.
@@ -223,7 +223,7 @@ Players should focus on building teams that can handle both the high-mobility re
 - Genshin Impact Official Site — https://genshin.hoyoverse.com/
 - Genshin Impact Wiki (Fandom) — https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki
 - Game8 Genshin Impact Guides — https://game8.co/games/Genshin-Impact
-- Prydwen Institute - Genshin Impact — https://www.prydwen.gg/genshin/
+- Prydwen Institute - Genshin Impact
 - Official Genshin Impact Discord — https://discord.com/invite/genshinimpact
 - Arlecchino Kit Details (Game8) — https://game8.co/games/Genshin-Impact/archives/433555
 - Neuvillette Character Profile (Fandom) — https://genshin-impact.fandom.com/wiki/Neuvillette

@@ -1,4 +1,4 @@
----
+--
 title: "NTE DPS Tier List: Best Characters in Neverness to Everness"
 slug: nte-dps-tier-list-best-characters
 game: nte
@@ -7,7 +7,7 @@ qa_score: 5.5
 word_count: 1695
 published_at: "2026-05-14T16:20:24.319491+00:00"
 published_url: /tier-list
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAawANrkJ1kRpvrnDUM0UHnEfrOF1W-9BQGI7f26mMj96Y5jsFflDgsx5YmWm94TD89BryEcnrJzbT71dF5crNRTKy3XG2598jdpdiEfktABMetNMbjhKtag=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcwopSjMtkkDCTAsNzDSvM1g_W15HQjGuIasziyUTrlpU8wA1ELIOfcqf-gKo3qVdP93VOA-bRClEryBBu5-QAP9owL2OiONMsomWHCDNSh6xNZ4KJwkgh3BxoR_sPOfGadWO6CF_OK9fMOY8="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYjeS3RdWnHNUuyCAFnz32oVUZ-LqWm_BcKpqRpuPV28uKBPEmb04BpzDhz1T94A-ZqIoWWvogIqN2nKc7IU1u67r2d5hvzciKSfR7j1cqi7VVKjAySpBg_gCkmWgsHetI_S-Y18c="
@@ -31,21 +31,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl5CCLAlC6T1v8aaMRU-9w7YhxHAVl3VCh26ilixpi-hHlYheTePoooHTYvGUZ1cAlqttZeWfuBG_jdmM-T-4UF52HY_Vl3Ejccy42cmuUxKFAvOYvwSw-jc2egHVaGM9H2G66rFAzMM3YwJcl8upB86_2IXrpyZH7QYu-t3o="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESefr8FeEb0-Acf7dA4LHfF5XTErsMXpkook3UFWyECv_qlGWaXT-Y3E2DxiR0wFA2iUg91Rxl8UQXytamraLPtH3hTfXYCD2BQkG-Uc022jgKPcbakQZb4fggDKesFfCM8Rg2tXNClFX4xxkWT09PehmjixYlSQG-zdpEPH6hco0="
 hero_image: /img/nte-dps-tier-list-best-characters/hero.webp
-inline_images:
+inline_images
   - /img/nte-dps-tier-list-best-characters/inline-1.webp
   - /img/nte-dps-tier-list-best-characters/inline-2.webp
   - /img/nte-dps-tier-list-best-characters/inline-3.webp
   - /img/nte-dps-tier-list-best-characters/inline-4.webp
   - /img/nte-dps-tier-list-best-characters/inline-5.webp
   - /img/nte-dps-tier-list-best-characters/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Navigating the bustling streets of Hethereau requires more than just a fast car; it demands a team of Espers capable of tearing through Anomalies with surgical precision.
 
@@ -62,7 +62,7 @@ Since its global launch on April 29, 2026, Neverness to Everness (NTE) has intro
 
 Ranking characters in NTE requires looking beyond simple attack stats. The game’s "Beyond the Rails" endgame mode, particularly the Fracture Circle, imposes strict time limits and elemental resistances that favor characters with high "Cycle Intensity" and specialized "Arc" types.
 
-Our evaluation is based on several core pillars:
+Our evaluation is based on several core pillars
 *   **Raw Output and Burst:** The ability to delete enemy HP bars during "Break" windows.
 *   **Esper Cycle Synergy:** How effectively a character triggers or enhances reactions like Blossom, Scorch, or the triple-element Charge.
 *   **Arc Compatibility:** The efficiency of a character’s scaling with their assigned weapon category (Plasma, Solid, Bose, Liquid, Gas, or Synthesis).
@@ -188,12 +188,12 @@ The NTE meta has shifted rapidly since the April 29 launch. The introduction of 
 
 - All Things How — https://allthings.how/beyond-the-rails-in-neverness-to-everness-endgame-mode-explained/
 - Beebom — https://beebom.com/neverness-to-everness-tier-list/
-- Dexerto — https://www.dexerto.com/gaming/neverness-to-everness-banners-current-and-upcoming-characters-2834921/
-- GameRant — https://gamerant.com/nte-best-hotori-build-guide/
+- Dexerto
+- GameRant
 - GameWith — https://gamewith.net/nte/article/show/44881
 - Kaiden.gg — https://kaiden.gg/nte/characters/nanally
 - LDShop — https://www.ldshop.gg/blog/nte/neverness-to-everness-tier-list-best-characters
-- Mobalytics — https://mobalytics.gg/neverness-to-everness/characters/jiuyuan
-- Neverness.gg — https://neverness.gg/guides/chiz-build-guide/
+- Mobalytics
+- Neverness.gg
 - Power Up Gaming — https://powerupgaming.co.uk/2026/05/05/neverness-to-everness-ghost-train-endgame-guide/
-- TheGamer — https://www.thegamer.com/neverness-to-everness-nte-nanally-best-build-arcs-team/
+- TheGamer

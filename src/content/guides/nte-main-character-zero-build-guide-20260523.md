@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Zero Build Guide: Best Arcs and Teams"
 slug: nte-main-character-zero-build-guide-20260523
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 5.5
 word_count: 1822
 published_at: "2026-05-23T18:08:38.220052+00:00"
 published_url: /guides/nte-main-character-zero-build-guide-20260523
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVqXWrXMSmUcK3GuUnQwoAW2DLVSk9G3c0DWixo1Wl7tD5nQK5HmmTFm87JFB-gDlVwU7ds1RAPaViUad9a477ArWyKesfsp4UrmwpV49Mg2JpYm9tWGXOiMtkoG_t1OdiqO0MC7oIJIgYOLiX1E18zFLUHTbU-mxvm9o-fx-Vequ633AsKmXVA=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3rW5yXlRonDXV1nROq5iEj2KG4lex25_87-nqWm2KFNnyB9AdpmPtLa4qCphIz6HjyM19VGCVljU5oIAR_y0aa_EKRYDazL_DM3Okh4ncyp-fW0lkAG6uRCVtd9cBzn9Q-l53wXvE02Wp1GHk0R1kmY5Bk1nk"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWvtR1IrHkxvSOXjVYGwRiWoLpWQBuMUi5Dh5HAStIaFGoKXoin0_Clwl1--Vcnvbsysdn8VcDFR6Tcs11_OG1_9Lqa49EQnIj5jnclSI0tYZLaaCI0eLL"
@@ -22,21 +22,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9uE-VZCD2k0cFJdVGZGgYjV9aHoSv-PGVFzi6uaFL7heu9CMkQLvI80Fzllt0KFd5dwgsd6KNY7VzrvlwD8EeP6WXLpGWy3dYBQuvWdMjuZmei7Hme9cRKGgeTyJq-S1J7U2BLb7p"
 game: unknown
 hero_image: /img/nte-main-character-zero-build-guide-20260523/hero.webp
-inline_images:
+inline_images
   - /img/nte-main-character-zero-build-guide-20260523/inline-1.webp
   - /img/nte-main-character-zero-build-guide-20260523/inline-2.webp
   - /img/nte-main-character-zero-build-guide-20260523/inline-3.webp
   - /img/nte-main-character-zero-build-guide-20260523/inline-4.webp
   - /img/nte-main-character-zero-build-guide-20260523/inline-5.webp
   - /img/nte-main-character-zero-build-guide-20260523/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 As the protagonist of Neverness to Everness, Zero is the first character every investigator will master to navigate the anomaly-ridden streets of Hethereau. This guide details the optimal setup for the Cosmos-attribute Main DPS to ensure your team maintains high-speed rotations and explosive burst damage.
 
@@ -218,9 +218,9 @@ The Esper Cycle is NTE's elemental reaction system. When you fill the meter and 
 ## Sources
 
 - Icy Veins — https://www.icy-veins.com/nte/zero-build-guide/
-- Prydwen — https://www.prydwen.gg/nte/characters/zero
+- Prydwen
 - GameWith — https://gamewith.net/nte/article/show/zero-build
 - LootBar — https://lootbar.gg/nte/guides/zero-best-build
-- Kaiden — https://kaiden.gg/nte/zero-build-guide/
-- TheGamer — https://www.thegamer.com/nte-arc-tier-list-best-weapons/
-- Games.gg — https://games.gg/nte/zero-build-guide-best-arcs-teams/
+- Kaiden
+- TheGamer
+- Games.gg

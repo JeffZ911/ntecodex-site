@@ -1,4 +1,4 @@
----
+--
 title: "Best Neverness to Everness F2P Team Comps: Top Free Builds"
 slug: neverness-to-everness-f2p-team-comps
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-f2p-team-comps/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-f2p-team-comps/inline-1.webp
   - /img/neverness-to-everness-f2p-team-comps/inline-2.webp
   - /img/neverness-to-everness-f2p-team-comps/inline-3.webp
   - /img/neverness-to-everness-f2p-team-comps/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Finding the right balance between high-tier performance and resource management is essential for navigating the urban supernatural landscape of Hethereau. With the official launch of Neverness to Everness (NTE) on April 29, 2026, players have quickly identified several powerful team compositions that do not require spending Fabricated Dice on premium banners.
 
@@ -32,7 +32,7 @@ Finding the right balance between high-tier performance and resource management 
 ![Question Restated](/img/neverness-to-everness-f2p-team-comps/inline-1.webp)
 
 
-When building a team in Neverness to Everness without spending money, players typically focus on three primary concerns:
+When building a team in Neverness to Everness without spending money, players typically focus on three primary concerns
 
 *   **What are the most effective free-to-play (F2P) team compositions in Neverness to Everness (NTE)?** Effective teams must leverage the "Esper Cycle" to trigger elemental reactions that bypass high enemy resistances.
 *   **Which free characters should you prioritize for early and mid-game progression?** Resource scarcity in the early game makes it vital to invest in "A-Rank" units that maintain viability in the endgame Esper Tower.
@@ -139,7 +139,7 @@ Avoid spending "Stellar Shards" on anything other than **Arc Upgrade Materials**
 
 ### NTE Tier List: Where F2P Units Rank
 
-While limited S-Class units like **Nanally** and **[Hotori](/characters/hotori-best-team-nte)** currently dominate the "S+ Tier" due to their high base stats and unique mechanics (like Nanally's "Urban Vanguard" stance), F2P units hold their own:
+While limited S-Class units like **Nanally** and **[Hotori](/characters/hotori-best-team-nte)** currently dominate the "S+ Tier" due to their high base stats and unique mechanics (like Nanally's "Urban Vanguard" stance), F2P units hold their own
 
 *   **S-Tier:** Chiz, Haniel (Best-in-slot F2P healer).
 *   **A-Tier:** Zero, Mint, Sakiri (from selector).
@@ -147,7 +147,7 @@ While limited S-Class units like **Nanally** and **[Hotori](/characters/hotori-b
 
 ### Unlocking Chiz: The City Tycoon Guide
 
-To unlock Chiz efficiently:
+To unlock Chiz efficiently
 1.  Complete the "Business Basics" questline in the central district.
 2.  Invest your initial credits into the "Noodle Shop" and "Convenience Store" properties.
 3.  Assign Mint to the Noodle Shop; her "Efficiency" stat reduces production time.
@@ -160,4 +160,4 @@ To unlock Chiz efficiently:
 - Game8 Neverness to Everness Character Guide — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Release Date and Gameplay Details — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official - F2P Team Building Megathread — https://www.reddit.com/r/NTE_Official/
-- Prydwen.gg: NTE Elemental Reactions Explained — https://www.prydwen.gg/nte/guides/elemental-reactions
+- Prydwen.gg: NTE Elemental Reactions Explained

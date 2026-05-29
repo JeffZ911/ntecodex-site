@@ -1,4 +1,4 @@
----
+--
 title: "Best Healer for NTE Teams: Neverness to Everness Tier List"
 slug: best-healer-nte-tier-list
 article_type: tier_list
@@ -9,21 +9,21 @@ published_url: /tier-list
 sources: []
 game: unknown
 hero_image: /img/best-healer-nte-tier-list/hero.webp
-inline_images:
+inline_images
   - /img/best-healer-nte-tier-list/inline-1.webp
   - /img/best-healer-nte-tier-list/inline-2.webp
   - /img/best-healer-nte-tier-list/inline-3.webp
   - /img/best-healer-nte-tier-list/inline-4.webp
   - /img/best-healer-nte-tier-list/inline-5.webp
   - /img/best-healer-nte-tier-list/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Methodology"
   - "S Tier"
   - "A Tier"
   - "B Tier"
   - "C Tier"
   - "Recent Changes"
----
+--
 
 Survival in Hethereau's anomaly-infested streets depends entirely on your choice of support, as even the most skilled players cannot dodge every reality-warping strike. Finding the best healer for NTE teams is the difference between clearing a high-level Wanted anomaly and seeing the "Defeated" screen before the boss hits 50% health.
 
@@ -38,7 +38,7 @@ Building a team in Neverness to Everness (NTE) requires a delicate balance of el
 ![Methodology](/img/best-healer-nte-tier-list/inline-1.webp)
 
 
-Ranking the best healers in NTE involves more than just looking at raw healing numbers. Because the game utilizes a fast-paced, urban combat system with high mobility, a healer's utility is often more valuable than their flat Health Per Second (HPS). Our evaluation is based on five primary pillars:
+Ranking the best healers in NTE involves more than just looking at raw healing numbers. Because the game utilizes a fast-paced, urban combat system with high mobility, a healer's utility is often more valuable than their flat Health Per Second (HPS). Our evaluation is based on five primary pillars
 
 1.  **Raw Healing Throughput (HPS):** The sheer volume of HP restored over a set duration. This is critical for recovering from "Wanted" status boss bursts.
 2.  **Role Compression:** The ability to provide secondary benefits. We prioritize healers who offer shields, damage buffs, or crowd control (CC) to save team slots.
@@ -148,7 +148,7 @@ Players should aim to replace these characters with Edgar, Fadia, or Jiuyuan as 
 ![Recent Changes](/img/best-healer-nte-tier-list/inline-6.webp)
 
 
-The Neverness to Everness meta has evolved rapidly since its launch on April 29, 2026. Several key events have influenced the current healer rankings:
+The Neverness to Everness meta has evolved rapidly since its launch on April 29, 2026. Several key events have influenced the current healer rankings
 
 **Version 1.0 Second Half (May 13, 2026):**
 The release of **[Hotori](/characters/hotori-best-team-nte)**, a new Cosmos support, has shaken up team building. While Hotori is not a primary healer, her synergy with Cosmos units like Edgar and Adler has made "Mono-Cosmos" teams viable. Hotori provides energy regeneration, allowing Edgar to cast his stationary Ultimate more frequently, partially mitigating his mobility issues.
@@ -169,7 +169,7 @@ Choosing the best healer for your NTE team depends on your elemental needs. If y
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.hotta.com/
-- mobalytics.gg — https://mobalytics.gg/blog/neverness-to-everness-tier-list/
+- mobalytics.gg
 - Game8 NTE Guide Hub — https://game8.co/games/Neverness-to-Everness
 - IGN: Neverness to Everness Release Coverage — https://www.ign.com/games/neverness-to-everness
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/

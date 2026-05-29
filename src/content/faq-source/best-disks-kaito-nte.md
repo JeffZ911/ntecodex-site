@@ -1,4 +1,4 @@
----
+--
 title: "Best Disks for Kaito in Neverness to Everness: Build Guide"
 slug: best-disks-kaito-nte
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/best-disks-kaito-nte/hero.webp
-inline_images:
+inline_images
   - /img/best-disks-kaito-nte/inline-1.webp
   - /img/best-disks-kaito-nte/inline-2.webp
   - /img/best-disks-kaito-nte/inline-3.webp
   - /img/best-disks-kaito-nte/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Optimizing your Esper builds in Hesperia requires a deep understanding of the weapon systems and community resources available since the game's global launch.
 
@@ -34,7 +34,7 @@ Optimizing your Esper builds in Hesperia requires a deep understanding of the we
 
 When players search for the best "Disks" for Kaito in Neverness to Everness (NTE), they are typically looking for ways to maximize the combat potential of a character they believe is central to the game's meta. This search query often stems from seeing the name "Kaito" associated with high-level gameplay footage, character leaks, and advanced build guides circulating on platforms like Reddit and Discord. 
 
-Specifically, players want to know:
+Specifically, players want to know
 * What are the best 'Disks' (officially known as Arcs) to equip on Kaito to improve his damage output or utility?
 * How can the game’s unique gear systems, such as the Arc and Module systems, be optimized for this specific individual?
 * Where are the most efficient locations or gacha banners to acquire the high-tier Arcs required for a competitive build?
@@ -84,7 +84,7 @@ Kaito emerged as a leading voice in the NTE community during the final closed be
 
 ### The Arc (Disk) System Explained
 
-Every Arc in NTE possesses a primary attribute (usually ATK) and a secondary attribute (such as Crit Rate, Physical DMG Bonus, or Energy Recharge). However, the defining feature of an Arc is its passive ability. These passives are often "State-Locked," meaning they only provide their full benefit if the Esper matches the Arc's required state:
+Every Arc in NTE possesses a primary attribute (usually ATK) and a secondary attribute (such as Crit Rate, Physical DMG Bonus, or Energy Recharge). However, the defining feature of an Arc is its passive ability. These passives are often "State-Locked," meaning they only provide their full benefit if the Esper matches the Arc's required state
 
 1.  **Solid State:** Focuses on physical impact, defensive scaling, and heavy hits.
 2.  **Liquid State:** Focuses on rapid attacks, elemental reactions, and fluid movement.
@@ -114,7 +114,7 @@ Acquiring S-rank Arcs is primarily done through the **Scarborough Fair** system.
 *   **A-Rank Arcs:** ~10% drop rate.
 *   **B-Rank Arcs:** Common drops from standard tiles.
 
-Once you have obtained a Disk, you must engage in Arc progression:
+Once you have obtained a Disk, you must engage in Arc progression
 1.  **Leveling:** Uses "Arc Enhancement Chips" to raise the base ATK and secondary stat.
 2.  **Ascension:** Every 10 or 20 levels, you must use materials gathered from "Urban Anomalies" to raise the level cap.
 3.  **Mixing:** If you obtain duplicate copies of the same Arc, you can "Mix" them to increase the power of the passive effect. A "Max Mix" S-rank Arc is significantly more powerful than a base S-rank Arc.
@@ -142,7 +142,7 @@ Kaito’s guides emphasize that a character with a "perfect" Arc but "poor" Cart
 
 The Module system is perhaps the most distinct mechanic in NTE. Each character has a "Module Grid" where you place Tetris-style blocks called Modules. These blocks provide flat stat increases (HP, ATK, DEF) and percentage-based bonuses.
 
-To optimize your grid:
+To optimize your grid
 *   **Shape Matching:** You must fit the blocks into a limited grid space. Higher-rarity Modules often have more complex shapes, requiring a puzzle-solving approach to maximize the number of blocks used.
 *   **Resonance:** Placing Modules of the same color adjacent to each other can trigger "Grid Resonance," providing a bonus to the character's primary element.
 *   **Primary Modules:** Each grid has a central "Core Module" slot that dictates the overall scaling of the grid's bonuses.
@@ -158,8 +158,8 @@ Understanding the synergy between your Arc (Disk), Cartridges, and Modules is th
 ## Sources
 
 - Neverness to Everness Official Site — https://nte.perfectworld.com/
-- GameRant NTE Guide — https://gamerant.com/neverness-to-everness-nte-release-date-platforms-trailers-news/
+- GameRant NTE Guide
 - Reddit r/NTE_Official — https://www.reddit.com/r/NTE_Official/
 - IGN Neverness to Everness Preview — https://www.ign.com/games/neverness-to-everness
 - Game8 NTE Character Database — https://game8.jp/nte (Note: Use browser translation for regional data)
-- Prydwen Institute NTE Section — https://www.prydwen.gg/nte/
+- Prydwen Institute NTE Section

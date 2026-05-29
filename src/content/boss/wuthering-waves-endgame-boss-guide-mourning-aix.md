@@ -1,4 +1,4 @@
----
+--
 title: "Wuthering Waves Endgame Boss Guide: Defeating Mourning Aix VI"
 slug: wuthering-waves-endgame-boss-guide-mourning-aix
 game: wuthering_waves
@@ -9,19 +9,19 @@ published_at: "2026-05-15T22:04:26.163403+00:00"
 published_url: /boss/wuthering-waves-endgame-boss-guide-mourning-aix
 sources: []
 hero_image: /img/wuthering-waves-endgame-boss-guide-mourning-aix/hero.webp
-inline_images:
+inline_images
   - /img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-1.webp
   - /img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-2.webp
   - /img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-3.webp
   - /img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-4.webp
   - /img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Facing the Tactical Hologram: Mourning Aix at Difficulty VI is widely considered the ultimate skill check for Resonators seeking to master the current endgame of Wuthering Waves.
 
@@ -165,7 +165,7 @@ Completing Mourning Aix VI is a one-time milestone that provides significant rew
 
 ### One-Time Completion Rewards
 
-The first time you clear Difficulty VI, you will receive a bounty of rewards:
+The first time you clear Difficulty VI, you will receive a bounty of rewards
 *   **Astrite:** 20–50 (depending on cumulative achievement milestones).
 *   **Advanced Simulation Data:** Used in the Simulation Training Store to purchase Premium Tuners and Shell Credits.
 *   **Trophy:** Unlocks the [Information not yet publicly available as of 2026-05-15] achievement.
@@ -173,7 +173,7 @@ The first time you clear Difficulty VI, you will receive a bounty of rewards:
 
 ### Farming the Simulation Training Store
 
-The Advanced Simulation Data earned from high-level Hologram clears is the primary currency for the Simulation Training Store. Players should prioritize the following purchases:
+The Advanced Simulation Data earned from high-level Hologram clears is the primary currency for the Simulation Training Store. Players should prioritize the following purchases
 1.  **Premium Tuners:** Essential for revealing substats on 5-Star Echoes.
 2.  **Malleable Echo Ore:** Allows you to choose the primary stat for specific Echo sets.
 3.  **Shell Credits:** The high cost of Level 90+ upgrades makes these a constant necessity.
@@ -182,8 +182,8 @@ By mastering the parry timings and maintaining a strict healing rotation to avoi
 
 ## Sources
 
-- Prydwen — https://www.prydwen.gg/wuthering-waves/guides/hologram-mourning-aix
+- Prydwen
 - Game8 — https://game8.co/games/Wuthering-Waves/archives/455502
-- Wuthering Wiki — https://wuthering.wiki/monster_120400012.html
+- Wuthering Wiki
 - Official Wuthering Waves Website — https://wutheringwaves.kurogames.com/en/main/news/detail/823
 - Reddit (r/WutheringWaves) — https://www.reddit.com/r/WutheringWaves/comments/1d3f5s1/mourning_aix_hologram_6_guide/

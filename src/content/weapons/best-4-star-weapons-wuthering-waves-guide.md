@@ -1,4 +1,4 @@
----
+--
 title: "Best 4-Star Weapons in Wuthering Waves: Top Tier List & Guide"
 slug: best-4-star-weapons-wuthering-waves-guide
 game: wuthering_waves
@@ -9,19 +9,19 @@ published_at: "2026-05-13T02:49:44.214221+00:00"
 published_url: /weapons/best-4-star-weapons-wuthering-waves-guide
 sources: []
 hero_image: /img/best-4-star-weapons-wuthering-waves-guide/hero.webp
-inline_images:
+inline_images
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-1.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-2.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-3.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-4.webp
   - /img/best-4-star-weapons-wuthering-waves-guide/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Stats"
   - "Effect"
   - "Best On (Characters)"
   - "How to Get"
   - "Comparison"
----
+--
 
 Securing a powerful 5-star weapon in Wuthering Waves often requires significant luck or a heavy investment of Astrite, but many 4-star alternatives offer competitive performance for both early-game progression and endgame challenges. Understanding which 4-star weapons provide the best stat scaling and passive effects is essential for optimizing your Resonators without depleting your premium resources.
 
@@ -124,7 +124,7 @@ Acquiring 4-star weapons involves a mix of luck, persistence, and strategic reso
 Most 4-star weapons are obtained through the "Convene" system. Every 10 pulls on any banner (Character or Weapon) guarantees at least one 4-star item. On the Weapon Permanent Convene, you can actually set a "Target" for 5-star weapons, but 4-stars remain random. During limited Event Banners, specific 4-star weapons receive a "Rate-Up," making them much easier to pull and synthesize to Rank 5.
 
 ### Crafting Guide: Uncle Wei’s Workshop
-If Gacha luck is not on your side, you can craft weapons at Uncle Wei's shop in Jinzhou. Crafting a 4-star weapon requires:
+If Gacha luck is not on your side, you can craft weapons at Uncle Wei's shop in Jinzhou. Crafting a 4-star weapon requires
 *   **1 Standard Weapon Mold:** These are rare drops from Weekly Bosses (such as the Scar or Bell-Borne Geochelone challenges).
 *   **150 Indigoite:** A blue-grade ore found throughout the world.
 *   **Shell Credits:** The standard in-game currency.
@@ -153,7 +153,7 @@ The gap between craftable weapons (like Broadblade#41) and Battle Pass weapons (
 Future-proofing your account means investing in weapons that have versatile passives. Weapons like **Variation** and **Cadenza** will likely remain meta-relevant for years because Energy Regen and Concerto Energy are universal needs for support characters, regardless of how high the power creep for DPS characters goes.
 
 ## Sources
-- Prydwen Wuthering Waves Weapon Tier List — https://www.prydwen.gg/wuthering-waves/guides/best-weapons
+- Prydwen Wuthering Waves Weapon Tier List
 - Game8 Wuthering Waves 4-Star Weapon Guide — https://game8.co/games/Wuthering-Waves/archives/454924
 - Wuthering Waves Official Wiki: Weapons — https://wuthering-waves.fandom.com/wiki/Weapon
 - Wuthering.wiki Weapon Database — https://wuthering.wiki/items.html?category=weapons

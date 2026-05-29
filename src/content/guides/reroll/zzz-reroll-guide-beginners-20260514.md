@@ -1,4 +1,4 @@
----
+--
 title: "Zenless Zone Zero Reroll Guide: Best S-Rank Starters & Method"
 slug: reroll/zzz-reroll-guide-beginners-20260514
 game: zzz
@@ -7,7 +7,7 @@ qa_score: 9.2
 word_count: 1977
 published_at: "2026-05-14T15:21:40.188960+00:00"
 published_url: /guides/reroll/zzz-reroll-guide-beginners-20260514
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5xCBqFPqnFsE4CRqQIEADXgJMoUCsPJKFxd6ue7dmah2Y7zDIupumEZ9u12msoh-tcp4FkSXwsgOTcpmB6N_HOZDZeCU1MIa4n8ACRheA15qm1eH1PyJObqafmJCE3zsEqTPIdf4ubcXe7xM0UB6XBw6Ha4aVP__mVYrCgmXYRv1b05l9inQklTpgoNqoMmknFYA8-omoe2uZeDlm4Z6wAg=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT1Rzy8mF6taKjZyiFO2TBLMXl4WHKzq7bvS8tRT7bnSbhx-hQG9hGQ2G2akBStSh-DT85Ll-_8weRE0BvSCQBJcVMX0x_4h_xpSRenExzoSyWcSFzBjp4n0H0GZzIVNVGvAaDjRUg0xWpu6T31HzSveYzqbuEgPA="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXbp5C0FVKh5fZylw9Ju34FndYjTgOISS6POKZdwdKfftQvKXfM2aIfth9R7PxTv1oPDK3OLN-7AP3ju7kJzdpTFQKCslNzyeNrbAU2srUGEcK0aoD7qQEnpW8zxnAggyX_0D-f1ZddHg0FVIPHuFokbwWQfPOLM3ztz4W"
@@ -18,19 +18,19 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMcBy67O0SD505U0Crg1rMymmo6-yVVHMdKaX8hEVbuw7eVe-NQC9QA3-Lt0xJIUXOBIX_PB-XRxkMoLP25GJdqzCzTEDMNULKqYGTYlqXPQeWEsAi53VWKzi8OZd5IxSETFEs_FJ8"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYXQ8QaKj2g7k366njyR_Vm6UhISTt1qn9ZtKcNxHYD7ksSI87AufDSfUUMpTmqSqWcvihfg2h4Shb_pwdWN3XnqMtKmBxjRik6RFPM920cCkol0Yc2a78Lx-W2HjFGcF1bXqUmxvKg=="
 hero_image: /img/zzz-reroll-guide-beginners-20260514/hero.webp
-inline_images:
+inline_images
   - /img/zzz-reroll-guide-beginners-20260514/inline-1.webp
   - /img/zzz-reroll-guide-beginners-20260514/inline-2.webp
   - /img/zzz-reroll-guide-beginners-20260514/inline-3.webp
   - /img/zzz-reroll-guide-beginners-20260514/inline-4.webp
   - /img/zzz-reroll-guide-beginners-20260514/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Why Reroll"
   - "How to Reroll"
   - "Best Starters"
   - "Time Estimate"
   - "FAQ"
----
+--
 
 Maximizing your early-game resources in Zenless Zone Zero starts with securing the right S-Rank Agent to carry your squad through New Eridu’s toughest Hollows.
 
@@ -84,7 +84,7 @@ If you use a Gmail or Outlook account, you can create "aliases" that HoYoverse r
 
 ### Speedrunning the Tutorial
 
-A standard reroll run takes about 20 to 30 minutes. To minimize time, follow this optimized route:
+A standard reroll run takes about 20 to 30 minutes. To minimize time, follow this optimized route
 1. **Dialogue Skipping:** Spam the "Skip" button in the top-right corner during all non-cinematic scenes.
 2. **Combat Efficiency:** Use Billy’s dash-attacks and Anby’s EX Special to clear early mobs quickly. Do not worry about "perfect" play; focus on clearing the room.
 3. **The "Random Play" Milestone:** Follow the quest markers until you reach the video store, "Random Play."
@@ -147,14 +147,14 @@ Rerolling is a test of patience. The time investment varies based on how "deep" 
 
 ### Efficiency Tips for Faster Runs
 
-To hit the 20-minute mark, you must be disciplined:
+To hit the 20-minute mark, you must be disciplined
 1.  **Ignore Side NPCs:** Only talk to characters with the red "!" story icon.
 2.  **Fast-Forward TVs:** In the Hollow Deep Dive (HDD) segments, use the acceleration button to speed up the Bangboo's movement across the grid.
 3.  **Level Up Anby:** Spend a few resources to level Anby to 10 immediately. This makes the mandatory combat encounters significantly faster.
 
 ### Probability and Luck: Managing Expectations
 
-With a 0.6% base rate for an S-Rank, the math is sobering. On average, you have a:
+With a 0.6% base rate for an S-Rank, the math is sobering. On average, you have a
 *   **5.8% chance** to see an S-Rank within your first 10 pulls.
 *   **11.3% chance** within 20 pulls.
 *   **26% chance** within 50 pulls (excluding the guarantee).
@@ -195,8 +195,8 @@ No. In the early game, a new Agent provides a much larger power spike and opens 
 ## Sources
 
 - Zenless Zone Zero Fandom Wiki — https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki
-- Prydwen ZZZ Guide — https://www.prydwen.gg/zenless-zone-zero/
+- Prydwen ZZZ Guide
 - Game8 ZZZ Reroll Guide — https://game8.co/games/Zenless-Zone-Zero/archives/436214
-- LootBar Gacha System Overview — https://www.lootbar.gg/blog/zenless-zone-zero-gacha-guide-pulls-pity-bangboo-and-f2p-farms
+- LootBar Gacha System Overview
 - Icy Veins 300 Pull Selector Guide — https://www.icy-veins.com/zzz/300-pulls-additional-recruitment-guide
 - Mobalytics ZZZ Reroll Guide — https://mobalytics.gg/blog/zenless-zone-zero/reroll-guide/

@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness Pity System Guide: How Gacha Works"
 slug: neverness-to-everness-pity-system-guide
 article_type: faq
@@ -9,17 +9,17 @@ published_url: /faq
 sources: []
 game: unknown
 hero_image: /img/neverness-to-everness-pity-system-guide/hero.webp
-inline_images:
+inline_images
   - /img/neverness-to-everness-pity-system-guide/inline-1.webp
   - /img/neverness-to-everness-pity-system-guide/inline-2.webp
   - /img/neverness-to-everness-pity-system-guide/inline-3.webp
   - /img/neverness-to-everness-pity-system-guide/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Navigating the gacha mechanics in Neverness to Everness is essential for maximizing your resources and securing the S-Rank characters you want without wasting premium currency. This guide breaks down the unique board-game-inspired summoning system and the player-friendly pity rules that set this urban open-world RPG apart from its competitors.
 
@@ -132,7 +132,7 @@ Pity in Neverness to Everness is persistent across banners of the same type. If 
 
 ### Gacha Currencies: Annulith, Dice, and Tri-Keys
 
-Managing your currency is vital to avoid accidental waste. The primary premium currency is Annulith, which can be converted into three different summoning items:
+Managing your currency is vital to avoid accidental waste. The primary premium currency is Annulith, which can be converted into three different summoning items
 
 1.  **Solid Dice:** Used for Limited Character Banners. These should be your primary focus for Annulith spending.
 2.  **Fabricated Dice:** Used for the Standard Board. These are often given for free through exploration, missions, and the City Tycoon mode. It is generally advised not to spend Annulith on these.
@@ -162,6 +162,6 @@ Because the 50-pull selector is available early on, rerolling in Neverness to Ev
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 - Game8 NTE Gacha Guide — https://game8.co/games/Neverness-to-Everness/archives/gacha-pity-system
-- Prydwen Institute NTE Database — https://www.prydwen.gg/nte/guides/pity-system/
-- IGN Neverness to Everness Wiki — https://www.ign.com/wikis/neverness-to-everness/Summoning_and_Pity_Mechanics
+- Prydwen Institute NTE Database
+- IGN Neverness to Everness Wiki
 - Reddit r/NTE_Official Gacha Discussion — https://www.reddit.com/r/NTE_Official/comments/1cg5x9/pity_system_breakdown/

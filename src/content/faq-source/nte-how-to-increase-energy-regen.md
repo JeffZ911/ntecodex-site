@@ -1,4 +1,4 @@
----
+--
 title: "NTE Energy Regen Guide: How to Increase Energy Regeneration"
 slug: nte-how-to-increase-energy-regen
 article_type: faq
@@ -6,7 +6,7 @@ qa_score: 5.9
 word_count: 1369
 published_at: "2026-05-20T13:53:09.779783+00:00"
 published_url: /faq
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzFyvq8ulksaYLT4-BdUFs8owxOkw7f6tMnxWQ-xD1vWPmzpjXgMY_ShhjeRZ7K7wZsrgkIMeSq-ZOJVcQ28zRXW-7JuLE974N8tFFa6E_0ZDUYQK1G0Xw42-H5w2OQYNNsCf1oDMIvwS7_35hLQz-BVL2Qsxd8Q=="
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAd8PqzoustawEKyMyiIvy0dq6Iw0TheH_UWgipIn5v0eJFAYEcGJKstBuqJuoi0y--t0DAU6hUu-cp4P-CMj6ln72rmJ3zKJUu-I8IalRjzMdkbvMPHo3UcoxJN2hs2VtRMDGMF6ObuFxHtfM63h4Ac5Fxyq5_3U_XZEXwIXXIl7GMuCnFtsJoAnKgie6lHQJgT2C14oNu1ZNuIdUjhMKGZ5v"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYOEXBiZUdiGD15gWuaHTszXYQcROIJ8h_zwKcNMoOBpMrVSvjh528bzIn4gSc1jUlcA74LcdutHksuRNJQefFLvVpJIwgM5HzyWKdP60x4tOKtwsi8NLDF-QM4_KoNzEfNsngIpv7B-JflfXtFMHL-DiO758GkIIXlrGf"
@@ -31,17 +31,17 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqAm70-dK3J7DChg_Fbmt-FlIOsb1APK6PYGG_BjoAQcnBdQ-4Yrpqph9hr2d5DC9Byb9aLa4-c3JvEzeVh8M425UDu1gHpdguEbcyvCwfKWthhTeVS2QWB95bQRMk_ATbw-wVar5dcVMHhY9kQD_m4mqVjU5FlfRHBFh8cisMo0s3vp8_Ran53fBPCWKiTE1dzeM"
 game: unknown
 hero_image: /img/nte-how-to-increase-energy-regen/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-increase-energy-regen/inline-1.webp
   - /img/nte-how-to-increase-energy-regen/inline-2.webp
   - /img/nte-how-to-increase-energy-regen/inline-3.webp
   - /img/nte-how-to-increase-energy-regen/inline-4.webp
-inline_image_sections:
+inline_image_sections
   - "Question Restated"
   - "Direct Answer"
   - "Detailed Explanation"
   - "Related"
----
+--
 
 Efficient energy management is the difference between a sluggish combat rotation and a seamless flow of Ultimates in Hethereau.
 
@@ -56,7 +56,7 @@ In Neverness to Everness (NTE), "Energy" is a multi-faceted term that refers to 
 ![Question Restated](/img/nte-how-to-increase-energy-regen/inline-1.webp)
 
 
-When players ask how to increase energy regeneration in NTE, they are typically referring to one of two bottlenecks:
+When players ask how to increase energy regeneration in NTE, they are typically referring to one of two bottlenecks
 
 *   **Ultimate Energy (Combat):** This is the gauge used to cast a character’s Ultimate. Slow regeneration leads to "dead time" in rotations where your Main DPS, such as [Nanally](/characters/nanally-guide-nte) or Chiz, cannot perform their burst window.
 *   **Character Pixels (Stamina):** This is the daily resource used to claim rewards from Anomaly Zones and the Rabbit Hole. It regenerates over time, and running out prevents you from upgrading your Arcs, Consoles, or character levels.
@@ -116,7 +116,7 @@ Arcs are the primary source of "Charge Efficiency," a stat that acts as a multip
 
 ### Optimizing Consoles and Modules
 
-Consoles and their attached Modules provide the granular stat boosts needed for endgame energy management. When farming the **Rabbit Hole Anomaly Zone**, look for the following stats:
+Consoles and their attached Modules provide the granular stat boosts needed for endgame energy management. When farming the **Rabbit Hole Anomaly Zone**, look for the following stats
 
 *   **Cycle Rate:** This stat increases the speed at which your **Esper Meter** fills. A higher Cycle Rate allows you to swap characters more frequently, triggering more reactions and, by extension, more energy-generating Charge procs.
 *   **Cycle Intensity:** While this primarily boosts reaction damage, some high-tier Cartridge sets provide energy-related bonuses based on your Cycle Intensity value.
@@ -151,7 +151,7 @@ Character Pixels regenerate at a rate of **1 Pixel every 6 minutes**, totaling 2
 ![Related](/img/nte-how-to-increase-energy-regen/inline-4.webp)
 
 
-Understanding energy is just one part of mastering Neverness to Everness. To further optimize your account, consider exploring the following systems:
+Understanding energy is just one part of mastering Neverness to Everness. To further optimize your account, consider exploring the following systems
 
 ### Best Team Compositions for Energy Flow
 The most popular "Energy Engine" team currently consists of **Nanally (Main DPS), Hathor (Battery), Zero (Cycle Support), and Jiuyuan (CC/Blossom)**. This team maximizes the Charge Trio Reaction and Hathor’s stack-based energy restoration.
@@ -164,13 +164,13 @@ The Esper Cycle is a hexagonal wheel where adjacent elements react. Mastering th
 
 ## Sources
 
-- AllKeyshop — https://www.allkeyshop.com/blog/neverness-to-everness-global-launch-guide-and-release-times/
-- Games.gg — https://games.gg/neverness-to-everness-character-pixels-guide/
-- Games.gg — https://games.gg/neverness-to-everness-esper-zero-build-guide-best-arcs-cartridges-teams/
+- AllKeyshop
+- Games.gg
+- Games.gg
 - Icy Veins — https://www.icy-veins.com/nte/esper-cycles-in-neverness-to-everness/
-- Kaiden.gg — https://kaiden.gg/nte/esper-cycles-reactions/
-- Kaiden.gg — https://kaiden.gg/nte/hathor-rotation-team-composition-guide/
-- Mobalytics — https://mobalytics.gg/blog/neverness-to-everness-esper-cycle-elements-guide/
-- Neverness.gg — https://neverness.gg/neverness-to-everness-version-1-1-release-date-and-details/
+- Kaiden.gg
+- Kaiden.gg
+- Mobalytics
+- Neverness.gg
 - Sportskeeda — https://www.sportskeeda.com/esports/nte-neverness-everness-character-pixels-city-stamina-explained
 - Wikipedia — https://en.wikipedia.org/wiki/Neverness_to_Everness

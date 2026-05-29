@@ -1,4 +1,4 @@
----
+--
 title: "NTE How to Beat Elite Enemies: Boss Guide & Combat Strategy"
 slug: nte-how-to-beat-elite-enemies
 game: unknown
@@ -9,19 +9,19 @@ published_at: "2026-05-16T03:47:04.673412+00:00"
 published_url: /boss/nte-how-to-beat-elite-enemies
 sources: []
 hero_image: /img/nte-how-to-beat-elite-enemies/hero.webp
-inline_images:
+inline_images
   - /img/nte-how-to-beat-elite-enemies/inline-1.webp
   - /img/nte-how-to-beat-elite-enemies/inline-2.webp
   - /img/nte-how-to-beat-elite-enemies/inline-3.webp
   - /img/nte-how-to-beat-elite-enemies/inline-4.webp
   - /img/nte-how-to-beat-elite-enemies/inline-5.webp
-inline_image_sections:
+inline_image_sections
   - "Boss Stats"
   - "Attack Patterns"
   - "Step-by-Step Strategy"
   - "Recommended Team"
   - "Loot"
----
+--
 
 Taking down high-level anomalies in Hesperia requires more than just high stats; you must master the rhythm of the Stability Layer and the intricate timing of the Parry Circle. This guide breaks down the mechanics needed to dismantle elite enemies and bosses throughout Neverness to Everness.
 
@@ -83,7 +83,7 @@ The most important mechanic for beating bosses is the Parry Circle. During certa
 
 Not every attack can be countered. When an elite enemy glows with a deep, pulsating red aura, they are entering a "Fury" state. These attacks are unparryable and often cover a wide area of effect (AoE). 
 
-Common Fury attack indicators include:
+Common Fury attack indicators include
 *   **Deep Red Aura:** The enemy's entire model glows red.
 *   **Ground Markers:** Large red circles or rectangles appearing on the asphalt.
 *   **Sound Cue:** A high-pitched screech or mechanical hum preceding the strike.
@@ -121,7 +121,7 @@ Once your meter is charged, begin rotating your characters to trigger the Discor
 
 When the Break Gauge hits zero, the boss will slump over and a "Broken" notification will appear. This window typically lasts only 4 to 5 seconds. This is the only time you should unleash your Ultimates. 
 
-To maximize damage during the stagger:
+To maximize damage during the stagger
 *   Use any ATK-buffing skills (like Haniel's support field) first.
 *   Chain your Ultimates starting with your sub-DPS and ending with your main DPS.
 *   If using [Nanally](/characters/nanally-guide-nte), ensure her "The Ichi-daime" buffs are active before the boss hits the ground.
@@ -198,4 +198,4 @@ By mastering the Parry Circle and focusing on the Discord elemental reaction, yo
 - IGN: Neverness to Everness Combat Guide — https://www.ign.com/games/neverness-to-everness
 - Game8: NTE Boss Weakness Table — https://game8.co/games/Neverness-to-Everness
 - Reddit: r/NTE_Official Combat Mechanics Megathread — https://www.reddit.com/r/NTE_Official/
-- Prydwen Institute: NTE Character Tier List and Synergy — https://www.prydwen.gg/nte/
+- Prydwen Institute: NTE Character Tier List and Synergy

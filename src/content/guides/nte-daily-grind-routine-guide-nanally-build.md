@@ -1,4 +1,4 @@
----
+--
 title: "Neverness to Everness: Best Nanally Build & Daily Grind Guide"
 slug: nte-daily-grind-routine-guide-nanally-build
 article_type: build
@@ -6,7 +6,7 @@ qa_score: 4.7
 word_count: 1860
 published_at: "2026-05-21T06:12:05.029239+00:00"
 published_url: /guides/nte-daily-grind-routine-guide-nanally-build
-sources:
+sources
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFetE31hZ6a_gDbtbFMc-pLCJvcsm-uV2ijbTQXxgSZAULvYv9tmR39bUDef1cYtWwRQwVRFwe3GiQDEE_m31rq9S1Jh0y9AbxhiJS5vhtMAp24DEUp_hn5XWHtTpRk2ObDRwmId6flJIHR7rk6R94KM2V824tynHcpiApdClhCuEkAZZhBAYd_p_vkEK5ns1A7GqiaKa5u0dN7"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMV50pysWGO3aU2SwrZJvS99I6etdh37rvKT5oHealpyd_k8UK6rgQT-pv0WfJjmckpsVU9UiGtRrunUXUuKTjCr8QsxpkyY-Ix68LNV3jZ82Q1IHi3Md3xT50B_BQuttkAheY2wiKKM_YLOGgK_dyydVMGH4jlMTjPr4YhmxsT29Z"
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRsx5zdGV7pwpwDP6pWAS0Fl-8PVkLwkBCiSqZ5Q-Eq3Z8_9BaPcCQyhWo6LcS6PxOlJGKS5SPtb3IVEEM0enegEwRbRw3cyjzUYO6tGplQsiob-SqFwWYGTLCDayYRmUhHXu5WAG71zj6qFi-gtz7KXA="
@@ -27,21 +27,21 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz2i01H7RQrX_b7cjBEqFOCj66Uk9NUazmwpB4fhX58UWkEEQA3SoB9yPDEo5qrkrg9sdTLX87-y9CNZIIGTQZnb-EAZTqYaiOZv8IrroND5Gugp-kHa3FftH6fRhRQEh79A=="
 game: unknown
 hero_image: /img/nte-daily-grind-routine-guide-nanally-build/hero.webp
-inline_images:
+inline_images
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-1.webp
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-2.webp
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-3.webp
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-4.webp
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-5.webp
   - /img/nte-daily-grind-routine-guide-nanally-build/inline-6.webp
-inline_image_sections:
+inline_image_sections
   - "Overview"
   - "Best Weapons"
   - "Best Disks (Artifacts)"
   - "Team Comp"
   - "Rotation"
   - "FAQ"
----
+--
 
 Maximize your account progression and combat efficiency with the ultimate [Nanally](/characters/nanally-guide-nte) build and a streamlined daily routine for the supernatural urban world of Neverness to Everness.
 
@@ -152,7 +152,7 @@ The premium meta team for Nanally focuses on maximizing the number of Blossom tu
 
 ### F2P Daily Farming Composition
 
-For a team that clears daily content without requiring limited S-Rank supports:
+For a team that clears daily content without requiring limited S-Rank supports
 *   **Main DPS:** Nanally
 *   **Enabler:** Zero (obtained via early progression)
 *   **Support:** Mint (Anima) - Increases the AoE size of Blossom attacks.
@@ -214,11 +214,11 @@ Type II Modules are primarily farmed in the "Anomaly Zone: Bubble Can Factory." 
 
 ## Sources
 
-- Neverness.gg — https://neverness.gg/characters/nanally-build-guide/
+- Neverness.gg
 - Icy Veins — https://www.icy-veins.com/nte/nanally-guide-and-best-builds/
-- GameRant — https://gamerant.com/neverness-to-everness-daily-checklist/
+- GameRant
 - Sportskeeda — https://www.sportskeeda.com/esports/nte-esper-guide-all-reactions-explained/
-- Dexerto — https://www.dexerto.com/gaming/best-nanally-build-in-neverness-to-everness/
+- Dexerto
 - Mobalytics — https://mobalytics.gg/nte/characters/nanally/build/
 - GameWith — https://gamewith.net/nte/article/show/ready-ready-arc-rating/
 - PowerPyx — https://www.powerpyx.com/nte-neverness-to-everness-trophy-guide-roadmap/
