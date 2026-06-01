@@ -64,8 +64,8 @@ The following table outlines the most powerful 5-star Cartridge sets currently a
 | **Fireflies and the Forest** | Anima DMG +15% | Increases Crit DMG by 8% per stack (up to 7 stacks, 56% total) after using a Skill. | Anima DPS ([Nanally](/characters/nanally-guide-nte), Mint) |
 | **Speedy Hedgehog** | Charge Efficiency +20% | Increases team-wide ATK by 20% for 12 seconds after using an Ultimate. | Supports / Buffers |
 | **Devil's Blood: Curse** | Reaction DMG +20% | Doubles the DMG bonus against targets affected by Nova or Stain reactions. | Reaction Carry / Sub-DPS |
-| **Street Boxer** | Physical DMG +15% | [Information not yet publicly available as of 2026-05-16] | Physical DPS |
-| **Shadow Creed** | Crit Rate +10% | [Information not yet publicly available as of 2026-05-16] | General Crit Builds |
+| **Street Boxer** | Physical DMG +15% | — | Physical DPS |
+| **Shadow Creed** | Crit Rate +10% | — | General Crit Builds |
 
 ### Best Sets by Character Role
 
@@ -97,7 +97,7 @@ While not as specialized as the S-Tier sets, **Street Boxer** and **Shadow Creed
 
 Not every encounter in NTE is a DPS race. Some high-level "Rewind" challenges require survivability.
 *   **Tiny Big Adventure:** This set focuses on Max HP and shield strength. While not meta for speed-clearing, it is the preferred set for tankier characters who provide utility through damage absorption.
-*   **Thea's Night Tavern:** [Information not yet publicly available as of 2026-05-16]. This set is rumored to focus on healing effectiveness, though exact 4-piece values remain unconfirmed.
+*   **Thea's Night Tavern:** undisclosed. This set is rumored to focus on healing effectiveness, though exact 4-piece values remain unconfirmed.
 
 ### Optimizing the Console: Matching Module Types to Character Passives
 
@@ -146,7 +146,7 @@ To fully utilize your 5-star disk sets, you must pair them with the correct weap
 ### Advanced NTE Combat Guides
 
 The effectiveness of sets like **Devil's Blood: Curse** depends entirely on your mastery of the **Esper Cycle**. This is the system of elemental reactions in NTE. For example:
-*   **Nova:** Triggered by combining Anima and [Information not yet publicly available as of 2026-05-16]. It creates a localized explosion that shreds enemy resistances.
+*   **Nova:** Triggered by combining Anima and undisclosed. It creates a localized explosion that shreds enemy resistances.
 *   **Stain:** A reaction that applies a damage-over-time effect, which is then amplified by specific Cartridge bonuses.
 
 Knowing which reaction your team focuses on will dictate whether you should farm for raw damage sets like Lost Radiance or reaction-heavy sets like Devil's Blood.

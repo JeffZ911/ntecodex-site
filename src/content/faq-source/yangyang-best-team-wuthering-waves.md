@@ -165,7 +165,7 @@ A common question among players is whether to use Yangyang or Mortefi in the Sub
 In 2026, many players actually run both on different floors of the Tower of Adversity depending on the specific buffs provided by the Hazard Zone.
 
 ### Best Echoes for Aero Sub-DPS Units
-While Yangyang uses Moonlit Clouds, other Aero units like Aalto or the rumored [Information not yet publicly available as of 2026-05-14] might prefer different setups. Aalto, for instance, focuses more on Aero DMG amplification through his gates, making him a more niche pick compared to Yangyang’s universal energy utility.
+While Yangyang uses Moonlit Clouds, other Aero units like Aalto or the rumored undisclosed might prefer different setups. Aalto, for instance, focuses more on Aero DMG amplification through his gates, making him a more niche pick compared to Yangyang’s universal energy utility.
 
 ### Wuthering Waves 2026 Tier List Overview
 In the current tier list, Yangyang sits comfortably in the **A-Tier** (Support/Sub-DPS). While she isn't a "must-pull" like Shorekeeper or Jinhsi, her status as a free character with a high-utility ceiling makes her one of the best investments for any account. 

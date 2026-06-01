@@ -57,7 +57,7 @@ For players focusing on a Free-to-Play (F2P) path, Chiz and Haniel represent the
 | **A** | Haniel | Psyche (Azure) | Support | Team-wide energy regeneration, Psyche buffs |
 | **A** | Chiz | [Information unavailable] | Utility | Fons farming efficiency, exploration speed |
 | **A** | Adler | Chaos (Purple) | Tank | Damage mitigation, Chaos reaction triggers |
-| **B** | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
+| **B** | — | — | — | — |
 
 ## Detailed Explanation
 

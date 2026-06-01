@@ -98,7 +98,7 @@ A-Tier supports are excellent units that are often the best choice for specific 
 
 Fadia is a Psyche-element support who specializes in "Sustain through Sacrifice." Rather than just healing, she links the team together, redirecting a portion of incoming damage to herself.
 
-*   **Damage Redirection:** Fadia redirects [Information not yet publicly available as of 2026-05-21]% of damage taken by allies to her own HP pool.
+*   **Damage Redirection:** Fadia redirects undisclosed of damage taken by allies to her own HP pool.
 *   **Quickswap Synergy:** Because her redirection is passive, she is the premier choice for quickswap teams that don't want to spend time casting heals mid-rotation.
 
 ### Daffodill: The Shield-Breaker

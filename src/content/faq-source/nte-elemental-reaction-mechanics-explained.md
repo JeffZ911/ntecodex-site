@@ -152,7 +152,7 @@ As of the current meta following the 2026-04-29 launch, certain characters have 
 3.  **Esper Zero (Cosmos):** As a versatile unit, Esper Zero excels at generating energy for the whole team, making them the cornerstone of any Top Trio (Charged) composition.
 
 **Recommended "Blossom" Team Comp:**
-*   **Main DPS:** [Information not yet publicly available as of 2026-05-20]
+*   **Main DPS:** undisclosed
 *   **Sub-DPS:** Nanally (Anima)
 *   **Support/Utility:** Esper Zero (Cosmos)
 

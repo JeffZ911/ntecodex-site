@@ -72,12 +72,12 @@ An Esper’s profile is divided into three primary categories: Base Stats, Attri
 
 **Attributes**
 NTE features six distinct attributes that define an Esper's elemental alignment. These attributes are critical for triggering the "Esper Cycle" in combat:
-1.  **Cosmos:** [Information not yet publicly available as of 2026-05-21]
+1.  **Cosmos:** undisclosed
 2.  **Anima:** Often associated with kinetic or biological energy; [Sakiri](/characters/sakiri-nte-free-5-star-guide) is a prominent Anima user.
 3.  **Incantation:** Focuses on supernatural formulas and debuffs.
 4.  **Chaos:** High-variance damage and unpredictable effects; [Nanally](/characters/nanally-guide-nte) utilizes the Chaos attribute.
 5.  **Psyche:** Mental-based attacks and crowd control.
-6.  **Lakshana:** [Information not yet publicly available as of 2026-05-21]
+6.  **Lakshana:** undisclosed
 
 **Arc Types**
 Espers equip "Arcs," which function as their primary weapons. Arcs are categorized by their physical state:
@@ -107,9 +107,9 @@ Farming efficiency is vital for maintaining a full team of four Espers. Resource
 
 **Hunter Guides (EXP Materials)**
 These are obtained through **Houdinii's Magic Stage**. This challenge requires "Stamina" (the game's energy resource) to claim rewards.
-*   **Rising Hunter Guide:** Provides [Information not yet publicly available as of 2026-05-21] EXP.
-*   **Senior Hunter Guide:** Provides [Information not yet publicly available as of 2026-05-21] EXP.
-*   **Elite Hunter Guide:** Provides [Information not yet publicly available as of 2026-05-21] EXP.
+*   **Rising Hunter Guide:** Provides undisclosed EXP.
+*   **Senior Hunter Guide:** Provides undisclosed EXP.
+*   **Elite Hunter Guide:** Provides undisclosed EXP.
 
 **Breakthrough Materials**
 These materials are dropped by standard enemies in the open world or specific combat trials.
@@ -141,7 +141,7 @@ The Console system is NTE's version of an accessory or artifact system.
 The "Esper Cycle" is a combat mechanic that rewards players for switching between characters with complementary attributes. When you switch an Esper into the field, they often perform an "Entrance Skill." If the previous Esper applied a specific elemental status, the incoming Esper can trigger a reaction.
 
 **Common Reactions:**
-*   **Scorch:** Triggered by combining Anima with [Information not yet publicly available as of 2026-05-21]. This deals sustained damage over time.
+*   **Scorch:** Triggered by combining Anima with undisclosed. This deals sustained damage over time.
 *   **Discord:** Triggered by Chaos interactions, causing enemies to take increased damage from all sources for a short duration.
 
 When building your team, ensure your primary damage dealer (Main DPS) is supported by Espers who can quickly apply attributes to facilitate these cycles. For instance, using Nanally as a Chaos DPS works best when paired with an Incantation support who can prime the target for Discord reactions.

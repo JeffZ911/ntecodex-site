@@ -93,9 +93,9 @@ Released on May 13, 2026, Hotori has immediately claimed a spot in S Tier. Her k
 | Character | Rarity | Element (Type) | Primary Role |
 | :--- | :--- | :--- | :--- |
 | **Nanally** | S-Class | Anima (Plasma) | Sub-DPS / Follow-up |
-| **Jiuyuan** | S-Class | [Information not yet publicly available as of 2026-05-14] | Main DPS / DoT |
+| **Jiuyuan** | S-Class | — | Main DPS / DoT |
 | **Chiz** | S-Class | Solid | Main DPS / AoE |
-| **Hotori** | S-Class | [Information not yet publicly available as of 2026-05-14] | Sub-DPS / Time-Stop |
+| **Hotori** | S-Class | — | Sub-DPS / Time-Stop |
 
 ## A Tier
 
@@ -121,7 +121,7 @@ Daffodil is a Chaos-element specialist whose entire kit is designed to shred ene
 Hathor is perhaps the most stylish DPS in the game, frequently summoning her motorcycle for high-speed area attacks. She deals Lakshana-element damage and is categorized as a Burst DPS. Her playstyle involves building up "Momentum" through movement and then expending it all in a single, high-damage Ultimate. While she is incredibly fun to play, her damage can be inconsistent if the enemy moves out of her Ultimate's range or if you are interrupted during your Momentum-building phase.
 
 **A-Tier Skill Priorities & Arcs:**
-*   **Baicang:** Focus on his Skill "Flowing Script." Recommended Arc: [Information not yet publicly available as of 2026-05-14].
+*   **Baicang:** Focus on his Skill "Flowing Script." Recommended Arc: undisclosed.
 *   **Esper Zero:** Focus on their Ultimate "Cosmic Resonance." Recommended Arc: Any Arc that boosts Elemental Mastery.
 *   **Daffodil:** Focus on her Heavy Attack scaling. Recommended Arc: "Impact" focused Arcs.
 

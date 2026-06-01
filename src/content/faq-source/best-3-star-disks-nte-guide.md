@@ -83,7 +83,7 @@ In Neverness to Everness, "Disks" are the physical, equippable form of Arcs, whi
 2.  **Substat:** A secondary stat such as CRIT Rate, ATK%, HP%, or Break Intensity.
 3.  **Arc Skill:** A unique passive ability that can be enhanced through the "Mixing" system.
 
-3-star (B-rarity) Arcs are the most common drops from the [Information not yet publicly available as of 2026-05-17] gacha and are frequently rewarded for completing urban commissions in Hethereau. While their base stats are lower than S-rank Arcs, they are much easier to upgrade to their maximum potential.
+3-star (B-rarity) Arcs are the most common drops from the undisclosed gacha and are frequently rewarded for completing urban commissions in Hethereau. While their base stats are lower than S-rank Arcs, they are much easier to upgrade to their maximum potential.
 
 ### Top 3-Star Disks for Damage Dealers (DPS)
 
@@ -142,7 +142,7 @@ A common mistake for new players is focusing entirely on their Disk level while 
 
 To level up your 3-star Disks, you will need a steady supply of **Beetle Coins** and **Elite Hunter Guides**. These can be farmed through:
 *   **Daily Commissions:** The most reliable source of XP materials.
-*   **Scarborough Fair [Information not yet publicly available as of 2026-05-17]:** Using [Information not yet publicly available as of 2026-05-17] to pull for new Arcs often yields "fodder" Arcs that can be used to level up your primary Disks.
+*   **Scarborough Fair undisclosed:** Using undisclosed to pull for new Arcs often yields "fodder" Arcs that can be used to level up your primary Disks.
 *   **Hethereau Field Bosses:** Defeating anomalies in the open world frequently drops Arc ascension materials.
 
 By efficiently managing your resources and focusing on the top-tier 3-star Disks like Oraora! and Mind Royale, you can successfully navigate the early challenges of Neverness to Everness without needing to spend heavily on the gacha system.

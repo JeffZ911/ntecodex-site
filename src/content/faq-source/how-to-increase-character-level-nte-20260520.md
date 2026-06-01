@@ -45,9 +45,9 @@ Primary farming locations for leveling materials include Houdinii’s Magic Stag
 ### Hunter Guide EXP Values
 | Item Name | EXP Granted | Primary Source |
 | :--- | :--- | :--- |
-| Rising Hunter Guide | [Information not yet publicly available as of 2026-05-20] | Houdinii’s Magic Stage (Low Tier) |
-| Senior Hunter Guide | [Information not yet publicly available as of 2026-05-20] | Houdinii’s Magic Stage (Mid Tier) |
-| Elite Hunter Guide | [Information not yet publicly available as of 2026-05-20] | Houdinii’s Magic Stage (High Tier) |
+| Rising Hunter Guide | — | Houdinii’s Magic Stage (Low Tier) |
+| Senior Hunter Guide | — | Houdinii’s Magic Stage (Mid Tier) |
+| Elite Hunter Guide | — | Houdinii’s Magic Stage (High Tier) |
 
 ## Detailed Explanation
 
@@ -94,8 +94,8 @@ Common materials include:
 | Material Type | Primary Farming Location | Associated Boss/Activity |
 | :--- | :--- | :--- |
 | Lost Pieces | World Exploration | Hesperia City Districts |
-| Anomaly Cores | Anomaly Hunts | [Information not yet publicly available as of 2026-05-20] |
-| Elemental Shards | Anomaly Pilgrimages | [Information not yet publicly available as of 2026-05-20] |
+| Anomaly Cores | Anomaly Hunts | — |
+| Elemental Shards | Anomaly Pilgrimages | — |
 
 ### Farming Locations: Houdinii’s Magic Stage and Anomaly Hunts
 To maintain a steady supply of Hunter Guides, you must spend Character Pixels at Houdinii’s Magic Stage. This is a repeatable combat arena where players face waves of enemies. Higher difficulty tiers of the Magic Stage yield Elite Hunter Guides, which are far more efficient for leveling characters past Level 50.
@@ -105,8 +105,8 @@ Anomaly Hunts are specialized encounters that focus on specific boss mechanics. 
 ### Managing Your Resources: Beetle Coins and Character Pixels
 Resource management is the biggest hurdle in the mid-to-late game. Beetle Coins may seem abundant in the first few hours, but the cost of leveling scales exponentially. 
 
-*   **Beetle Coin Costs:** Leveling a character from 1 to 20 costs [Information not yet publicly available as of 2026-05-20] Beetle Coins, while 70 to 80 can cost upwards of [Information not yet publicly available as of 2026-05-20].
-*   **Character Pixels:** These regenerate at a rate of 1 every [Information not yet publicly available as of 2026-05-20] minutes. It is generally recommended to prioritize Anomaly Hunts during the weekends if there are active drop-rate bonuses.
+*   **Beetle Coin Costs:** Leveling a character from 1 to 20 costs undisclosed Beetle Coins, while 70 to 80 can cost upwards of undisclosed.
+*   **Character Pixels:** These regenerate at a rate of 1 every undisclosed minutes. It is generally recommended to prioritize Anomaly Hunts during the weekends if there are active drop-rate bonuses.
 
 ### Early Game Leveling Strategy: Who to Prioritize
 In the early game, avoid the temptation to level every Esper you unlock. Resource depletion happens quickly once you reach Appraisal Level 3. Focus on a core team of four Espers that cover different elemental and role requirements (Main DPS, Sub-DPS, Support, and Sustenance/Healer).

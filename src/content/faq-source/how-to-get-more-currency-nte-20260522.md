@@ -97,7 +97,7 @@ Leveling up this system is mandatory for anyone looking to farm Annulith. Every 
 The Cafe by Origen is your primary source of passive Fons. Early in the game, the income is negligible, but with proper management, it becomes a powerhouse.
 
 *   **Recipe Unlocks:** You must find or purchase new recipes from vendors around Hethereau. High-tier recipes attract wealthier customers and increase your "Daily Popularity" score.
-*   **Popularity Management:** High popularity leads to higher daily yields. [Information not yet publicly available as of 2026-05-22] regarding the exact popularity cap, but players currently report reaching over 10,000 Fons in daily passive income.
+*   **Popularity Management:** High popularity leads to higher daily yields. undisclosed regarding the exact popularity cap, but players currently report reaching over 10,000 Fons in daily passive income.
 *   **Staffing:** Assigning characters with specific "Urban Traits" to the cafe can further boost efficiency.
 
 | Cafe Level | Max Daily Profit (Fons) | Unlock Requirement |

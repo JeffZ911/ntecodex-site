@@ -91,7 +91,7 @@ In Neverness to Everness, weapons are known as **Arcs**. These are categorized i
 
 Signature Arcs are designed to complement the specific mechanics of S-Rank characters. For example, **Nanally**, an Anima-element character with Plasma Arc compatibility, benefits most from Arcs that enhance follow-up damage and Crit DMG. 
 
-[Information not yet publicly available as of 2026-05-22] regarding the specific name of Nanally's current best-in-slot S-Rank Arc, as recent updates have shifted the meta toward Arcs that specifically buff the **Vita Pistil** damage of her follow-up attacks. However, the S-Rank Arc **"Raging Flames"** remains a top-tier choice for Incantation DPS units like **[Sakiri](/characters/sakiri-nte-free-5-star-guide)**, providing a massive boost to Scorch-related damage.
+undisclosed regarding the specific name of Nanally's current best-in-slot S-Rank Arc, as recent updates have shifted the meta toward Arcs that specifically buff the **Vita Pistil** damage of her follow-up attacks. However, the S-Rank Arc **"Raging Flames"** remains a top-tier choice for Incantation DPS units like **[Sakiri](/characters/sakiri-nte-free-5-star-guide)**, providing a massive boost to Scorch-related damage.
 
 ### Best F2P Arc Alternatives
 

@@ -94,7 +94,7 @@ If you are struggling with the Rabbit Hole or lack the Character Pixels to farm,
 | Commission Name | Target Anomaly / Location | S-Rank Disk Reward |
 | :--- | :--- | :--- |
 | Raging Flames | Ghost Rider (Near Witch's House) | Raging Flames (Hator Signature) |
-| Eclipse | [Information not yet publicly available as of 2026-05-20] | Eclipse Set (Shadow/Dark DMG) |
+| Eclipse | — | Eclipse Set (Shadow/Dark DMG) |
 | Y-Full Fantasy | Urban Legend: The Neon Cat | Y-Full Fantasy (Support/Energy) |
 | Camellia Society | The Secret Garden District | Camellia Society (Healing/HP) |
 
@@ -121,9 +121,9 @@ Character Pixels are the lifeblood of your progression. They regenerate over tim
 
 **Character Pixel Statistics**
 
-*   **Regeneration Rate:** [Information not yet publicly available as of 2026-05-20]
+*   **Regeneration Rate:** undisclosed
 *   **Maximum Cap:** 240 Pixels (Base level)
-*   **Daily Total:** [Information not yet publicly available as of 2026-05-20]
+*   **Daily Total:** undisclosed
 
 To increase your farming capacity, focus on the City Tycoon system. By managing your businesses and increasing your management level, you can unlock perks that increase your weekly Character Pixel cap or provide "Pixel Potions" that restore 60 Pixels instantly.
 

@@ -69,8 +69,8 @@ Jiuyuan is currently the undisputed queen of the support meta, despite her class
 While her base kit focuses on rapid-fire strikes and Anima application, the A2 Awakening allows her to convert a percentage of the damage she deals into team-wide healing. In a meta where [Nanally](/characters/nanally-guide-nte) (the first limited banner) is the premier DPS, Jiuyuan provides the perfect Anima synergy to trigger frequent elemental reactions while simultaneously keeping the party’s HP at 100%.
 
 **Jiuyuan A2 Awakening Breakdown:**
-*   **Healing Conversion:** [Information not yet publicly available as of 2026-05-17]
-*   **Buff Duration:** [Information not yet publicly available as of 2026-05-17]
+*   **Healing Conversion:** undisclosed
+*   **Buff Duration:** undisclosed
 *   **Synergy:** Best paired with Nanally or other high-frequency attackers to maximize lifesteal procs.
 
 ### Why A2 Awakening is Mandatory for Healing
@@ -78,8 +78,8 @@ While her base kit focuses on rapid-fire strikes and Anima application, the A2 A
 Without her A2 Awakening, Jiuyuan is simply a strong sub-DPS. The investment required to reach A2 is significant, often requiring multiple pulls or high-level material farming, but the payoff is a character who removes the need for a dedicated healer entirely. By scaling her healing with her offensive stats (ATK and Crit DMG), she ensures that as your team gets stronger, your sustain also increases. This scalability makes her the most future-proof support currently in the game.
 
 **Best Arcs for Jiuyuan Support Builds:**
-*   **Top Choice:** [Information not yet publicly available as of 2026-05-17]
-*   **F2P Alternative:** [Information not yet publicly available as of 2026-05-17]
+*   **Top Choice:** undisclosed
+*   **F2P Alternative:** undisclosed
 
 ## A Tier
 
@@ -121,8 +121,8 @@ Haniel is an A-Rank Psyche Esper whose primary role is an ATK buffer. However, h
 She provides minor health regeneration through her utility skills, but it is rarely enough to save a team from a major boss mechanic. She is best used in teams that already have a high degree of mobility or players who are confident in their dodging skills.
 
 **Haniel ATK Buff Scaling:**
-*   **Base Buff:** [Information not yet publicly available as of 2026-05-17]
-*   **Max Level Scaling:** [Information not yet publicly available as of 2026-05-17]
+*   **Base Buff:** undisclosed
+*   **Max Level Scaling:** undisclosed
 
 ### Esper Zero: The Reliable Starter Support
 
@@ -171,7 +171,7 @@ The release of the Nanally banner (Anima DPS) created a massive surge in demand 
 Additionally, the Tycoon System rewards, which provide players with a free Chiz (Cosmos DPS), have made Cosmos-based sustain like Esper Zero very accessible. However, because Chiz is a glass cannon, most players are finding that the shielding of Adler or the redirection of Fadia provides a more stable environment than the minor heals of the protagonist.
 
 **Upcoming Trends:**
-[Information not yet publicly available as of 2026-05-17] regarding Version 1.1 healers, but community rumors suggest a new Chaos-element support may arrive to balance the current Anima dominance.
+undisclosed regarding Version 1.1 healers, but community rumors suggest a new Chaos-element support may arrive to balance the current Anima dominance.
 
 ## Sources
 

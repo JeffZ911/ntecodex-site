@@ -99,7 +99,7 @@ Choosing who to keep is essential. Because you get an S-Rank Selector after 80 p
 ### SS-Tier: The Must-Have Starters
 
 *   **Hotori (Cosmos, Sub-DPS):** As the featured Phase 2 character for Version 1.0, Hotori is the current gold standard. Her ability to deal off-field Cosmos damage while your main attacker is active makes her future-proof. She fits into almost every team composition.
-*   **Nanally (Anima, Main DPS):** Available on "The Ichi-daime" banner and the standard pool. She is the premier Anima carry, capable of clearing large groups of enemies with her [Information not yet publicly available as of 2026-05-14] skill.
+*   **Nanally (Anima, Main DPS):** Available on "The Ichi-daime" banner and the standard pool. She is the premier Anima carry, capable of clearing large groups of enemies with her undisclosed skill.
 
 ### S-Tier: Excellent Alternatives
 

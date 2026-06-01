@@ -63,9 +63,9 @@ Hotori’s best dps build nte relies on the Ready-Ready Arc, which provides the 
 
 | Character | Element | Best Arc | Recommended Cassette Set | Primary Substats |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nanally** | Anima | Marching Beyond Time | [Information not yet publicly available as of 2026-05-12] | ATK%, Crit DMG, Anima DMG |
-| **Jiuyuan** | Anima | Non-closed Clock | [Information not yet publicly available as of 2026-05-12] | ATK%, Cycle Rate, Anima DMG |
-| **Hotori** | Cosmos | Ready-Ready | [Information not yet publicly available as of 2026-05-12] | Crit Rate, Crit DMG, Cosmos DMG |
+| **Nanally** | Anima | Marching Beyond Time | — | ATK%, Crit DMG, Anima DMG |
+| **Jiuyuan** | Anima | Non-closed Clock | — | ATK%, Cycle Rate, Anima DMG |
+| **Hotori** | Cosmos | Ready-Ready | — | Crit Rate, Crit DMG, Cosmos DMG |
 
 ## A Tier
 

@@ -67,9 +67,9 @@ Our evaluation is based on five primary pillars:
 | :--- | :--- | :--- | :--- | :--- |
 | **Sakiri** | S-Rank | Incantation | Support Buffing / CC | Good Boy's Grand Adventure |
 | **Jiuyuan** | S-Rank | Anima | Life Steal (A1) / Sub-DPS | Reality Refuge |
-| **Edgar** | A-Rank | Cosmos | Domain Healing | [Information not yet publicly available as of 2026-05-21] |
-| **Fadia** | S-Rank | Psyche | Damage Redirection | [Information not yet publicly available as of 2026-05-21] |
-| **Zero** | S-Rank | Variable | Instant Recovery | [Information not yet publicly available as of 2026-05-21] |
+| **Edgar** | A-Rank | Cosmos | Domain Healing | — |
+| **Fadia** | S-Rank | Psyche | Damage Redirection | — |
+| **Zero** | S-Rank | Variable | Instant Recovery | — |
 | **Haniel** | A-Rank | Psyche | ATK Buffing / Support | Blow up the Crowd |
 
 ### Ranking Criteria Explained
@@ -153,7 +153,7 @@ Mint (A-Rank, Anima) is frequently featured in early-game promotional material a
 ### Skia and Aurelia: Why They Underperform
 
 *   **Skia (A-Rank, Lakshana):** While Skia offers decent crowd control and triggers the "Stain" reaction, she has no healing or shielding in her kit. She is a niche mob-clearer who lacks the utility to survive boss encounters.
-*   **Aurelia (A-Rank):** [Information not yet publicly available as of 2026-05-21] regarding her specific element, but her current performance in the support slot is considered low impact compared to Haniel or Edgar. She lacks the scaling necessary to be viable in the current Anomaly Hunt rotations.
+*   **Aurelia (A-Rank):** undisclosed regarding her specific element, but her current performance in the support slot is considered low impact compared to Haniel or Edgar. She lacks the scaling necessary to be viable in the current Anomaly Hunt rotations.
 
 ## Recent Changes
 

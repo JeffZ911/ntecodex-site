@@ -137,7 +137,7 @@ Building a team requires balancing roles: **Damage**, **Burst**, **Support**, **
 | **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | Incantation | Support | Buffs team damage and triggers Scorch. |
 | **Fadia** | Psyche | Sustain | Provides shields and healing through Stain/Nova. |
 | **Baicang** | Incantation | DPS | High-speed attacks that shred Break bars. |
-| **Daffodil** | [Information not yet publicly available as of 2026-05-20] | Control/Break | Specializes in depleting the Break Meter. |
+| **Daffodil** | — | Control/Break | Specializes in depleting the Break Meter. |
 
 **Recommended Meta Team:**
 *   **Hotori (Cosmos) + Nanally (Anima) + Sakiri (Incantation):** This team focuses on the **Blossom** and **Hexed** reactions. Hotori provides the burst, Nanally maintains the field presence, and Sakiri buffs the overall elemental output.

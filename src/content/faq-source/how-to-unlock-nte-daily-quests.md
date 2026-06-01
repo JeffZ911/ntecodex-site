@@ -101,7 +101,7 @@ The Participation system functions on a point scale. You need to reach 100 point
 
 | Points Reached | Hunter EXP Reward | Resource Reward |
 | :--- | :--- | :--- |
-| 20 Points | 200 EXP | [Information not yet publicly available as of 2026-05-23] |
+| 20 Points | 200 EXP | — |
 | 40 Points | 200 EXP | Fons x 5,000 |
 | 60 Points | 200 EXP | Upgrade Materials |
 | 80 Points | 200 EXP | Fons x 10,000 |

@@ -43,7 +43,7 @@ The elemental system in NTE is not just about damage types; it is about how thes
 | **Incantation** | Trigger | Discord (w/ Chaos + Psyche) | Massive Stagger/Break damage to shields. |
 | **Chaos** | Disruptor | Fracture (w/ Cosmos) | Reduces enemy defense and slows movement. |
 | **Psyche** | Support | Resonance (w/ any) | Buffs the active character's elemental mastery. |
-| **Physical** | Neutral | [Information not yet publicly available as of 2026-05-21] | Deals direct damage without elemental scaling. |
+| **Physical** | Neutral | — | Deals direct damage without elemental scaling. |
 
 ### Why Team Composition Matters in NTE
 In NTE, you do not simply switch characters; you utilize the "Lane" system. When you swap characters during an attack animation, the previous character leaves a "Phantom" on the field for a brief duration. This allows multiple elemental applications to occur simultaneously. If your team composition is poorly optimized, your Phantoms will not trigger reactions, leaving your total damage output significantly lower than the game's difficulty curve expects.
@@ -69,7 +69,7 @@ New players should focus on building a "Lane" of at least two characters whose e
 | **The Blossom Squad** | Zero, Mint, Haniel | Blossom | Easy |
 
 ### The Top F2P Recommendation: Zero, Edgar, and Haniel
-This team is the gold standard for beginners because all three units are provided through the main story or pre-registration rewards. Zero acts as your primary field carry, Edgar provides a safety net with consistent healing, and Haniel offers a massive damage multiplier through her Ultimate. Because Zero and Edgar share the Cosmos element, they generate "Cosmos Resonance," which increases the duration of Phantoms by [Information not yet publicly available as of 2026-05-21]%.
+This team is the gold standard for beginners because all three units are provided through the main story or pre-registration rewards. Zero acts as your primary field carry, Edgar provides a safety net with consistent healing, and Haniel offers a massive damage multiplier through her Ultimate. Because Zero and Edgar share the Cosmos element, they generate "Cosmos Resonance," which increases the duration of Phantoms by undisclosed.
 
 ### Best Team for Bosses: The Discord Breaker
 Bosses in NTE have a "Stagger Bar" that reduces incoming damage until it is broken. The Discord reaction (Incantation + Chaos + Psyche) is the fastest way to deplete this bar. By using Adler to apply Incantation, Daffodil to trigger Chaos, and Fadia to amplify the Psyche component, you can keep bosses in a "Broken" state for nearly 40% of the fight duration.
@@ -122,13 +122,13 @@ Most players receive an S-Rank Standard Selector after 300 recruitments or throu
 ### Optimizing Your Starter Team: Arcs and Consoles
 Your team’s power isn't just determined by characters, but by their Arcs (weapons) and Consoles (accessories).
 
-For Zero, the best F2P Arc is the **[Information not yet publicly available as of 2026-05-21]**, which increases Cosmos damage after a successful swap. Haniel benefits most from Arcs that provide "Energy Regeneration Rate," allowing her to keep her Ultimate active as often as possible. Consoles should be equipped in sets; the "Urban Nomad" set is the best starter option for DPS characters as it provides a flat attack boost when fighting within city limits.
+For Zero, the best F2P Arc is the **undisclosed**, which increases Cosmos damage after a successful swap. Haniel benefits most from Arcs that provide "Energy Regeneration Rate," allowing her to keep her Ultimate active as often as possible. Consoles should be equipped in sets; the "Urban Nomad" set is the best starter option for DPS characters as it provides a flat attack boost when fighting within city limits.
 
 | Character | Recommended Starter Arc | Recommended Console Set |
 | :--- | :--- | :--- |
-| **Zero** | [Information not yet publicly available] | Urban Nomad |
-| **Haniel** | [Information not yet publicly available] | Signal Booster |
-| **Edgar** | [Information not yet publicly available] | Medic's Log |
+| **Zero** | — | Urban Nomad |
+| **Haniel** | — | Signal Booster |
+| **Edgar** | — | Medic's Log |
 
 ## Related
 

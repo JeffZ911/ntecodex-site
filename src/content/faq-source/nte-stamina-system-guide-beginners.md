@@ -76,7 +76,7 @@ Neverness to Everness features three distinct stamina systems: Character Pixels 
 | :--- | :--- | :--- | :--- |
 | **Primary Use** | Anomaly Zones & Bosses | Hethereau Hobbies | Sprints, Dodges, Climbing |
 | **Regeneration Rate** | 1 point every 6 minutes | Weekly Reset | Automatic (when idle/walking) |
-| **Daily/Weekly Total** | 240 per day | [Information not yet publicly available as of 2026-05-19] | N/A |
+| **Daily/Weekly Total** | 240 per day | — | N/A |
 | **Maximum Cap** | 240 Pixels | 500 (at Tycoon Level 16) | N/A |
 | **Recovery Item** | De-noise Solution | Refresh Recharge | N/A |
 | **Reset Time** | Continuous | Monday 4:00 AM UTC+8 | Instant |
@@ -115,7 +115,7 @@ Unlike Character Pixels, you do not need to log in every few hours to manage Cit
 *   **Street Racing:** Costs approximately 30–40 stamina per race depending on performance.
 *   **Fishing:** Costs 1 stamina per fish caught (converts to 1,000 Fons baseline).
 *   **Deliveries:** Variable costs based on distance and package type.
-*   **Cafe Management:** [Information not yet publicly available as of 2026-05-19].
+*   **Cafe Management:** undisclosed.
 
 At Tycoon Level 16, a major efficiency boost is unlocked: the Stamina Cost Multiplier. This allows you to spend double the City Stamina on activities for double the rewards, significantly cutting down the time required to clear your weekly pool.
 
@@ -168,7 +168,7 @@ Character Pixels are also used to farm Beetle Coins, the secondary currency used
 Participating in hobbies doesn't just give Fons; it also unlocks unique collectibles.
 *   **Racing:** Unlocks car modification parts and paint jobs.
 *   **Fishing:** Provides ingredients for cafe recipes and rare aquarium fish.
-*   **Heists:** [Information not yet publicly available as of 2026-05-19].
+*   **Heists:** undisclosed.
 
 By balancing your daily Character Pixel spend with your weekly City Stamina goals, you can ensure a steady stream of both combat power and urban wealth.
 

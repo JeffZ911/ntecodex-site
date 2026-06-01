@@ -127,7 +127,7 @@ Your first S-Rank should dictate your early team building.
 
 ### Limited Banner Rerolling: High Risk, High Reward
 
-Some players choose to reroll for the current "Exclusive Channel" character (e.g., Ellen Joe or [Information not yet publicly available as of 2026-05-14]). This is much harder because the base S-Rank rate is only 0.6%, and you do not have a 20% discount. You will typically only have enough Polychromes for 1 to 3 pulls on the limited banner after 30 minutes of play. This is only recommended for the most dedicated players.
+Some players choose to reroll for the current "Exclusive Channel" character (e.g., Ellen Joe or undisclosed). This is much harder because the base S-Rank rate is only 0.6%, and you do not have a 20% discount. You will typically only have enough Polychromes for 1 to 3 pulls on the limited banner after 30 minutes of play. This is only recommended for the most dedicated players.
 
 | Tier | Agent | Element | Role | Best Teammates |
 | :--- | :--- | :--- | :--- | :--- |

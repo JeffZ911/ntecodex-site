@@ -81,7 +81,7 @@ In the current environment, Hotori is the highest priority for any player willin
 Furthermore, Sakiri provides a flat 30% ATK buff to the entire team, a stat increase that scales exceptionally well into the late game. If you pull Sakiri from your Fabricated Dice rolls, your account is considered "safe" regardless of which DPS you eventually choose.
 
 *   **Role:** Standard Support / Crowd Control
-*   **Element:** [Information not yet publicly available as of 2026-05-21]
+*   **Element:** undisclosed
 *   **Key Mechanic:** Devour Whole (Skill)
 
 ### Jiuyuan: The Standard Banner's Greatest Prize
@@ -90,7 +90,7 @@ Jiuyuan is the undisputed queen of raw DPS within the permanent Fabricated Dice 
 What makes Jiuyuan an ideal reroll target is her synergy with the protagonist, Esper Zero. Their combined elemental rotations allow for high uptime on the "Esper Cycle" reactions, ensuring that even F2P (Free to Play) players can maintain high damage output without needing a full roster of premium units.
 
 *   **Role:** Standard Main DPS
-*   **Element:** [Information not yet publicly available as of 2026-05-21]
+*   **Element:** undisclosed
 *   **Key Mechanic:** AoE Burst Damage
 
 ### Nanally: The Gold Standard for Follow-Up Attacks

@@ -86,7 +86,7 @@ Understanding a character's profile in NTE goes beyond their rarity. To maximize
 
 There are six unique Esper Attributes in NTE: **Cosmos, Anima, Incantation, Chaos, Psyche, and Lakshana**. These Attributes form a circular "Esper Wheel." Triggering a reaction requires switching to a character with an adjacent Attribute when the Esper Meter is full.
 
-Equally important is the **Arc Type**, which functions as the character's weapon category. The five confirmed Arc types are **Solid, Liquid, Gas, Plasma, and Bose**. A sixth type, Synthesis, is [Information not yet publicly available as of 2026-05-15]. Matching the correct Arc to an Esper is critical for unlocking stat bonuses provided by the Console system.
+Equally important is the **Arc Type**, which functions as the character's weapon category. The five confirmed Arc types are **Solid, Liquid, Gas, Plasma, and Bose**. A sixth type, Synthesis, is undisclosed. Matching the correct Arc to an Esper is critical for unlocking stat bonuses provided by the Console system.
 
 ### The Esper Cycle Reaction Map
 
@@ -144,7 +144,7 @@ The protagonist, **Zero**, is an exceptionally versatile unit. As an "Appraiser,
 A character's profile is further refined through the **Console System**. This involves equipping **Cartridges** (which provide main stats like Anima DMG% or Crit Rate) and **Modules** (Type I, II, and III). 
 
 *   **Modules:** Equipping high-tier Type III Modules often unlocks set bonuses, such as increased Attribute damage or energy regeneration.
-*   **Awakenings (A1-A6):** Obtaining duplicate copies of a character unlocks powerful passive upgrades. For example, Nanally’s A1 ("Gang Formation") grants her Ultimate Energy for every follow-up attack, significantly increasing her Ultimate uptime. Jiuyuan’s specific A1 effect and potential healing capabilities are [Information not yet publicly available as of 2026-05-15].
+*   **Awakenings (A1-A6):** Obtaining duplicate copies of a character unlocks powerful passive upgrades. For example, Nanally’s A1 ("Gang Formation") grants her Ultimate Energy for every follow-up attack, significantly increasing her Ultimate uptime. Jiuyuan’s specific A1 effect and potential healing capabilities are undisclosed.
 
 ### Meta Analysis: Building Teams Around the Esper Cycle
 

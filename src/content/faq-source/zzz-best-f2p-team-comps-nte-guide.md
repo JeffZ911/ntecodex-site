@@ -84,7 +84,7 @@ Once you reach City Tycoon Level 18, you unlock **Chiz**, an S-Rank Cosmos chara
 
 The transition team (Chiz, Zero, Haniel, Adler) focuses on maximizing Chiz’s field time. In this setup, Zero acts as a "Quick-Swap" sub-DPS. Because Zero can fill the Esper gauge instantly, you can swap Zero in, use their skill, and immediately swap back to Chiz to trigger a reaction without disrupting Chiz’s Grain accumulation.
 
-**Note on Gear:** Chiz’s best-in-slot Arc is **Contemplative Cat** ([Information not yet publicly available as of 2026-05-11] regarding the name "Thinking Meow"). Contemplative Cat is obtained for free through the City Tycoon system at Level 21 and provides a Cosmos DMG bonus that scales with the amount of Fons (currency) you currently hold in your inventory.
+**Note on Gear:** Chiz’s best-in-slot Arc is **Contemplative Cat** (undisclosed regarding the name "Thinking Meow"). Contemplative Cat is obtained for free through the City Tycoon system at Level 21 and provides a Cosmos DMG bonus that scales with the amount of Fons (currency) you currently hold in your inventory.
 
 ### Optimizing the Free S-Rank Selector
 

@@ -84,7 +84,7 @@ For City Stamina, recovery is more limited. You can use **Refresh Recharge** ite
 | **Max Cap** | 240 Pixels | 500 (Increases with Tycoon Level) |
 | **Regen Rate** | 1 per 6 minutes | Weekly Reset (Monday) |
 | **Recovery Item** | De-noise Solution | Refresh Recharge |
-| **Premium Refill** | Annulith (6x daily) | [Information not yet publicly available] |
+| **Premium Refill** | Annulith (6x daily) | — |
 
 [Image Specification: Infographic showing the difference between Character Pixels (Combat) and City Stamina (Tycoon), including regen rates and caps.]
 
@@ -113,7 +113,7 @@ Avoid spending Pixels on B-rank (Blue) or low-tier A-rank weapons past level 40.
 | :--- | :--- | :--- | :--- |
 | **Stellar Veil** | S | High | Aurelia (Main DPS) |
 | **Oraora!** | A | Medium | F2P DPS / Early Game |
-| **Ready-Ready** | [Information not yet publicly available] | [Information not yet publicly available] | [Information not yet publicly available] |
+| **Ready-Ready** | — | — | — |
 | **Song of the Whale** | A | Low | Survival / Break Support |
 
 ## Best Disks (Artifacts)
@@ -169,7 +169,7 @@ When managing shops or properties, assign characters with high Life Skill rating
 | **Skia** | Support | Shadow Climb (No stamina cost for verticality) |
 | **Nanally** | Main DPS | Wall Walking (High-speed vertical movement) |
 | **Aurelia** | Main DPS | Shop Management (Life Skill: Perfect Fit) |
-| **Jiuyuan** | Energy Battery | [Information not yet publicly available] |
+| **Jiuyuan** | Energy Battery | — |
 | **Sakiri** | Crowd Control | Efficient grouping for faster domain clears |
 
 ## Rotation

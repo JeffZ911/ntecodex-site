@@ -112,7 +112,7 @@ The Bottom Trio is designed for destruction. Completing this sequence triggers *
 To trigger these reactions, your characters must have a full Esper Meter. This meter is the circular gauge surrounding the character's icon on the right side of the screen.
 
 **Esper Meter Generation Rates:**
-*   **Normal Attacks:** Generates [Information not yet publicly available as of 2026-05-15] energy per hit.
+*   **Normal Attacks:** Generates undisclosed energy per hit.
 *   **Elemental Skills:** Generates roughly 25% to 40% of the meter, depending on the character's specific "Cycle Rate" stat.
 *   **Elemental Ultimates:** Instantly fills 50% of the *next* character's meter in the party order.
 *   **Perfect Parry:** This is the most efficient way to play. A successful parry instantly fills the active character's Esper Meter to 100%, allowing for an immediate reaction swap.

@@ -86,8 +86,8 @@ Combat in NTE is built around six elements: Lakshana (Order), Cosmos (Light), An
 *   **Blossom (Cosmos + Anima):** Creates a field that restores health to the active Esper while dealing periodic damage to nearby enemies.
 *   **Hexed (Chaos + Incantation):** Reduces enemy resistance to all elements for a set duration.
 *   **Scorch (Incantation + Lakshana):** Triggers an explosion that deals massive burst damage and knocks back smaller enemies.
-*   **Echo (Psyche + Cosmos):** [Information not yet publicly available as of 2026-05-16]
-*   **Wither (Chaos + Anima):** [Information not yet publicly available as of 2026-05-16]
+*   **Echo (Psyche + Cosmos):** undisclosed
+*   **Wither (Chaos + Anima):** undisclosed
 
 **Trio Reactions (Three Elements):**
 *   **Charge:** Triggered by combining three offensive elements (e.g., Lakshana, Incantation, and Chaos). This drastically increases the active character's ATK and refills a portion of the Esper Meter.

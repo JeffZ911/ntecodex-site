@@ -55,7 +55,7 @@ If you are searching for the "best build for Mimi NTE," you are looking for Mint
 
 Mint’s kit is built around her "Whirlwind" mechanic. By holding the Basic Attack button, Mint enters a spinning state that drains her stamina bar in exchange for rapid-fire Anima hits. This attack has a wide horizontal reach but a limited vertical hitbox, making enemy grouping essential. 
 
-Her passive talents further enhance this playstyle by rewarding stamina efficiency. Her first major talent, [Information not yet publicly available as of 2026-05-16], increases her Anima DMG scaling based on the percentage of stamina remaining when the Whirlwind begins. This means that starting a rotation with a full stamina bar is mathematically superior to weaving in frequent dashes. Additionally, her Dash Skill is not just for repositioning; it serves as a gap-closer that applies a brief Anima resistance shred to enemies hit, setting the stage for her primary damage loop.
+Her passive talents further enhance this playstyle by rewarding stamina efficiency. Her first major talent, undisclosed, increases her Anima DMG scaling based on the percentage of stamina remaining when the Whirlwind begins. This means that starting a rotation with a full stamina bar is mathematically superior to weaving in frequent dashes. Additionally, her Dash Skill is not just for repositioning; it serves as a gap-closer that applies a brief Anima resistance shred to enemies hit, setting the stage for her primary damage loop.
 
 ## Best Weapons
 
@@ -66,7 +66,7 @@ In the gear system of Neverness to Everness, weapons are referred to as Arcs. Mi
 
 ### Signature S-Rank Arcs
 
-The gold standard for Mint is the S-Rank Arc "Youthful Fantasy." This weapon provides the highest base ATK in the Liquid category and features a secondary stat that focuses on [Information not yet publicly available as of 2026-05-16]. The passive effect of Youthful Fantasy is specifically designed for sustained attackers, providing a [Information not yet publicly available as of 2026-05-16] bonus that triggers when stamina is consistently consumed. For players looking to maximize Mint's endgame potential in high-level Anomaly Zones, pulling for this Arc is the single biggest upgrade available.
+The gold standard for Mint is the S-Rank Arc "Youthful Fantasy." This weapon provides the highest base ATK in the Liquid category and features a secondary stat that focuses on undisclosed. The passive effect of Youthful Fantasy is specifically designed for sustained attackers, providing a undisclosed bonus that triggers when stamina is consistently consumed. For players looking to maximize Mint's endgame potential in high-level Anomaly Zones, pulling for this Arc is the single biggest upgrade available.
 
 ### Best 4-Star and F2P Alternatives
 
@@ -76,7 +76,7 @@ F2P players should look toward "Shiny Days," a B-Rank Arc that is easily refined
 
 | Arc Name | Rarity | Type | Primary Substat | Passive Effect Summary |
 | :--- | :--- | :--- | :--- | :--- |
-| **Youthful Fantasy** | S-Rank | Liquid | [Information unavailable] | [Information not yet publicly available as of 2026-05-16] |
+| **Youthful Fantasy** | S-Rank | Liquid | [Information unavailable] | — |
 | **Real Music** | A-Rank | Liquid | Anima DMG % | Boosts Anima DMG and reduces skill cooldowns. |
 | **Shiny Days** | B-Rank | Liquid | ATK % | Provides basic ATK scaling for early-game progression. |
 

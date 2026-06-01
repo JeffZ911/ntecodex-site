@@ -41,10 +41,10 @@ Rampage Players has established itself as the premier brand for vehicle modifica
 
 | Rampage Players Location | District | Unlock Requirement |
 | :--- | :--- | :--- |
-| Yuanmu Hill | Yuanmu Hill | [Information not yet publicly available as of 2026-05-30] |
-| Ironheart 9th Avenue | Ironheart | [Information not yet publicly available as of 2026-05-30] |
-| Seahorse Street | Seahorse District | [Information not yet publicly available as of 2026-05-30] |
-| Bridge Crossing | Central Hethereau | [Information not yet publicly available as of 2026-05-30] |
+| Yuanmu Hill | Yuanmu Hill | — |
+| Ironheart 9th Avenue | Ironheart | — |
+| Seahorse Street | Seahorse District | — |
+| Bridge Crossing | Central Hethereau | — |
 
 Players have noted that unlocking the Bridge Crossing location is a priority for mid-game progression, as it provides the most central access point for tuning during the Anomalies cleanup missions that frequently occur in the city center.
 
@@ -66,7 +66,7 @@ The most significant performance gains come from the engine and transmission cat
 | Part Category | Top-Tier Part | Primary Meta Effect |
 | :--- | :--- | :--- |
 | Engine | [Horizon-V801D](https://www.reddit.com/r/NevernessToEverness/) | Peak acceleration and top speed for V8 platforms. |
-| Transmission | [Information not yet publicly available as of 2026-05-30] | Minimizes shift lag for consistent power delivery. |
+| Transmission | — | Minimizes shift lag for consistent power delivery. |
 | Tires | [T-Hunter-AT55](https://www.reddit.com/r/NevernessToEverness/) | Maximum dry-weather traction and heat resistance. |
 | LSD | [AF-LSD045](https://www.reddit.com/r/NevernessToEverness/) | Essential for maintaining grip in tight urban corners. |
 
@@ -74,11 +74,11 @@ The [AF-LSD045](https://www.reddit.com/r/NevernessToEverness/) is currently the 
 
 ### The Tire Meta: Handling Hethereau’s Weather
 
-One of the most praised, yet frustrating, mechanics in NTE is the dynamic weather system. The [T-Hunter-AT55](https://www.reddit.com/r/NevernessToEverness/) tires provide the best performance on dry asphalt, but their effectiveness drops significantly during Hethereau's frequent rainstorms. Players are finding that keeping a set of [Information not yet publicly available as of 2026-05-30] (Rain Tires) is mandatory for certain endgame races that are locked to stormy conditions. The "Snow" tire variants are currently less utilized but are expected to become meta if the rumored northern mountain region opens in a future patch.
+One of the most praised, yet frustrating, mechanics in NTE is the dynamic weather system. The [T-Hunter-AT55](https://www.reddit.com/r/NevernessToEverness/) tires provide the best performance on dry asphalt, but their effectiveness drops significantly during Hethereau's frequent rainstorms. Players are finding that keeping a set of undisclosed (Rain Tires) is mandatory for certain endgame races that are locked to stormy conditions. The "Snow" tire variants are currently less utilized but are expected to become meta if the rumored northern mountain region opens in a future patch.
 
 ### LSD and Suspension: Tuning for Your Style
 
-While the [AF-LSD045](https://www.reddit.com/r/NevernessToEverness/) is the choice for racers, the drifting community has gravitated toward a different setup. Using the [Information not yet publicly available as of 2026-05-30] (Drift LSD) allows for much wider slide angles, which are necessary to maximize style points in Hethereau's drift zones. 
+While the [AF-LSD045](https://www.reddit.com/r/NevernessToEverness/) is the choice for racers, the drifting community has gravitated toward a different setup. Using the undisclosed (Drift LSD) allows for much wider slide angles, which are necessary to maximize style points in Hethereau's drift zones. 
 
 Suspension tuning remains highly subjective. Lowering the ride height provides a lower center of gravity and better stability on the smooth highways near Seahorse Street. However, players have warned that "slammed" cars often "bottom out" on the uneven backstreets and curbs of the older districts, leading to [instant loss of control](https://www.reddit.com/r/NevernessToEverness/). Body rigidity upgrades, while expensive, are now considered a "must-have" for high-speed exploration to reduce the cumulative damage taken from minor collisions with Hethereau's dense traffic.
 

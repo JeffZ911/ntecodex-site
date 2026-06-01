@@ -103,7 +103,7 @@ Supports need sets that provide team-wide utility or increase their own survivab
 
 *   **Broken Keel (World 7):** Increases Effect RES by 10%. When Effect RES is 30% or higher, all allies' Crit DMG increases by 10%. This set stacks, meaning if three supports wear it, the main DPS gains 30% Crit DMG.
 *   **Fleet of the Ageless (World 3):** Increases HP by 12%. When SPD is 120 or higher, all allies' ATK increases by 8%. Standard for healers like Huohuo or Lynx.
-*   **Lushaka, the Sunken Seas [Information not yet publicly available as of 2026-05-13]:** While newer worlds continue to expand the roster, always look for sets that provide Energy Regeneration Rate (ERR) for your Harmony characters.
+*   **Lushaka, the Sunken Seas undisclosed:** While newer worlds continue to expand the roster, always look for sets that provide Energy Regeneration Rate (ERR) for your Harmony characters.
 
 ### Farming Priority: Which Worlds to Grind First
 
@@ -180,7 +180,7 @@ The **Abundance** is the safest Path for beginners. It provides constant healing
 The Path of Propagation is unlocked by completing all chapters of the **Swarm Disaster** DLC. The Path of Erudition is unlocked by progressing through the **Gold and Gears** DLC. These are permanent expansions to the Simulated Universe.
 
 **Should I choose Combat or Occurrence domains?**
-Early in a run, choose **Combat** domains to guarantee Blessings and build your Resonance. In the middle of a run, **Occurrence** domains are better as they offer a chance at powerful Curios or rare events (like the Ruan Mei event which grants all Blessings of a Path). Use **Gush [Information not yet publicly available as of 2026-05-13]** or similar mechanics in DLCs to skip unnecessary fights if your build is already strong.
+Early in a run, choose **Combat** domains to guarantee Blessings and build your Resonance. In the middle of a run, **Occurrence** domains are better as they offer a chance at powerful Curios or rare events (like the Ruan Mei event which grants all Blessings of a Path). Use **Gush undisclosed** or similar mechanics in DLCs to skip unnecessary fights if your build is already strong.
 
 ## Sources
 

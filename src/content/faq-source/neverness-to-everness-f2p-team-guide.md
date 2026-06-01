@@ -142,7 +142,7 @@ Chiz is unique because she cannot be pulled from the gacha. She is exclusively t
 
 In the early game, do not waste your Fabricated Dice on the weapon banner. The game provides several "Growth Arcs" through the Hunter Exchange:
 
-*   **Zero:** Use the **[Information not yet publicly available as of 2026-05-24]** or the standard 4-star "Antique Blade."
+*   **Zero:** Use the **undisclosed** or the standard 4-star "Antique Blade."
 *   **Chiz:** Her signature Yokai Hammer is free at Tycoon Level 21. Use a generic "Heavy Impact" Arc until then.
 *   **Haniel:** Equip any Arc that provides a flat ATK% bonus, as her buff does not care about Crit or Elemental damage.
 

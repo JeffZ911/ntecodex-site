@@ -56,9 +56,9 @@ This tier list prioritizes "Investment Ceiling." A team might perform well at le
 | :--- | :--- | :--- |
 | **Blossom** | Anima + Cosmos | Spawns Vita Pistils that deal continuous AoE damage. |
 | **Discord** | Scorch + Nova | Massive Break bar damage; ideal for boss shredding. |
-| **Hexed** | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
-| **Charge** | [Information not yet publicly available as of 2026-05-22] | Rapidly refills the Esper Meter for the entire team. |
-| **Remora** | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
+| **Hexed** | — | — |
+| **Charge** | — | Rapidly refills the Esper Meter for the entire team. |
+| **Remora** | — | — |
 
 ## S Tier
 

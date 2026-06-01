@@ -50,14 +50,14 @@ To clarify the current state of the game, the following table lists the confirme
 | Character Name | Rarity | Element / Type | Primary Combat Role |
 | :--- | :--- | :--- | :--- |
 | **[Nanally](/characters/nanally-guide-nte)** | S-Rank | Anima | Main DPS (Follow-up Specialist) |
-| **Fadia** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Survival / Tank (Cross-Shield) |
+| **Fadia** | S-Rank | — | Survival / Tank (Cross-Shield) |
 | **Baicang** | S-Rank | Incantation | Bruiser / HP-Scaling DPS |
-| **[Hotori](/characters/hotori-best-team-nte)** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Tactical Support / Sub-DPS |
-| **Lacrimosa** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Crowd Control / Debuffer |
-| **Jiuyuan** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Burst DPS |
-| **Hathor** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Utility / Buffer |
-| **Daffodill** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Ranged Specialist |
-| **Chiz** | S-Rank | [Information not yet publicly available as of 2026-05-20] | Speed / Mobility DPS |
+| **[Hotori](/characters/hotori-best-team-nte)** | S-Rank | — | Tactical Support / Sub-DPS |
+| **Lacrimosa** | S-Rank | — | Crowd Control / Debuffer |
+| **Jiuyuan** | S-Rank | — | Burst DPS |
+| **Hathor** | S-Rank | — | Utility / Buffer |
+| **Daffodill** | S-Rank | — | Ranged Specialist |
+| **Chiz** | S-Rank | — | Speed / Mobility DPS |
 
 If you are looking for a character that embodies the "bruiser" or "tank" archetype—roles often associated with characters named Vane in other media—you should focus your attention on Fadia or Baicang, who currently dominate those specific niches in the NTE meta.
 

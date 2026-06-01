@@ -144,7 +144,7 @@ If you find your rotations feeling "clunky," you likely need characters with hig
 
 Arcs are the primary equipment in NTE, and choosing the right "Arc Compatibility" (Solid, Liquid, Gas, Plasma, or Synthesis) is vital for reaction damage.
 *   **Marching Beyond Time (Solid):** A top-tier choice for Cosmos characters that provides a flat boost to Cycle Intensity.
-*   **[Information not yet publicly available as of 2026-05-16]:** Several upcoming Arcs in the Version 1.1 update are expected to focus specifically on the "Stain" and "Hexed" reactions.
+*   **undisclosed:** Several upcoming Arcs in the Version 1.1 update are expected to focus specifically on the "Stain" and "Hexed" reactions.
 
 Focusing on your Cycle Rate and understanding the hexagonal adjacency of your team will ensure you are always dealing peak damage in the ever-changing streets of Hethereau.
 

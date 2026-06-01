@@ -93,7 +93,7 @@ When the wearer casts a Redirect Skill or Ultimate, they gain specific talismans
 
 **Ready-Ready Stat Breakdown (Plasma)**
 *   **Base ATK (Level 80):** 512
-*   **Base ATK (Level 90):** [Information not yet publicly available as of 2026-05-23]
+*   **Base ATK (Level 90):** undisclosed
 *   **Substat:** ATK% (Max 30%)
 *   **Passive (Commander Tiger Talisman):** Increases ATK by 15%. Casting a Redirect Skill or Ultimate grants a Tiger Talisman. Obtaining both types within 15s increases damage to Bosses by 10%.
 
@@ -154,7 +154,7 @@ Be Happy is a Gas-type A-Rank Arc that mimics the utility of Good Boy's Grand Ad
 
 ### Umbrella: Defensive Utility and Shielding
 In high-difficulty Anomalies where one-shots are common, Umbrella becomes valuable. It is a Synthesis-type Arc that focuses on survivability.
-*   **Shield Strength Scaling:** [Information not yet publicly available as of 2026-05-23].
+*   **Shield Strength Scaling:** undisclosed.
 *   **Usage:** Best on characters who provide shields or need extra HP to survive boss "Desperation" phases.
 
 **Base ATK Comparison: S-Rank vs. A-Rank Support Arcs**

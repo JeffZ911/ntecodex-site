@@ -184,7 +184,7 @@ Building a team that can trigger at least two different reactions is the key to 
 Characters do not use traditional swords or guns. Instead, they equip **Arcs**—manifestations of human memories. Arcs are unlocked through the **Arc Research Program**, which is a separate gacha tab. 
 
 *   **S-Rank Arcs:** Have a 0.7% drop rate.
-*   **Signature Arcs:** Every limited S-Rank character has a "Signature Arc" designed for their kit. For example, Nanally's best Arc is [Information not yet publicly available as of 2026-05-24].
+*   **Signature Arcs:** Every limited S-Rank character has a "Signature Arc" designed for their kit. For example, Nanally's best Arc is undisclosed.
 *   **F2P Arcs:** You can craft 4-star Arcs at the "Hethereau Workshop" using materials found in the open world.
 
 ### Awakenings and Duplicates
@@ -198,7 +198,7 @@ For F2P players, focus on Awakening your A-Rank characters, as you will naturall
 
 ### Future Character Banners
 
-Following the launch window, Hotta Studio has confirmed several upcoming characters. **Lacrimosa** (a Chaos-element support) is expected to arrive in the second half of the 1.0 update. There are also rumors of a new element, [Information not yet publicly available as of 2026-05-24], being introduced in the 1.2 expansion.
+Following the launch window, Hotta Studio has confirmed several upcoming characters. **Lacrimosa** (a Chaos-element support) is expected to arrive in the second half of the 1.0 update. There are also rumors of a new element, undisclosed, being introduced in the 1.2 expansion.
 
 To stay ahead, always save at least 90 Solid Dice to ensure you can guarantee the next "must-have" character for your specific elemental team.
 

@@ -64,7 +64,7 @@ While 5-star units like Fadia and Jiuyuan offer the highest ceiling for survival
 | Jiuyuan | Hybrid DPS/Healer | Anima | Ranged Healing & Skill Lifesteal | S |
 | Adler | Shielder/Support | Incantation | DEF-Scaling Shields | A |
 | Esper Zero | All-Rounder | Variable | Passive Regen & Instant Cycle | B |
-| Edgar | Pure Healer | [Information not yet publicly available] | Stationary Healing Field | C |
+| Edgar | Pure Healer | — | Stationary Healing Field | C |
 
 ## S Tier
 
@@ -96,7 +96,7 @@ A Tier characters are exceptionally strong and can handle all current end-game c
 
 Adler is the standout F2P (Free-to-Play) survival option in NTE. Instead of healing, Adler focuses on generating team-wide shields that scale directly off his DEF stat. This makes him incredibly easy to build, as players can focus on defensive sub-stats that are often ignored on other characters. 
 
-Adler's shields are not just for defense; they also apply an Incantation-based damage-over-time (DoT) effect to nearby enemies. This allows him to fit perfectly into Scorch teams (Incantation + [Information not yet publicly available]) or Discord teams. His shield durability is currently [Information not yet publicly available as of 2026-05-20], but it is widely considered sufficient to tank most boss "tank-buster" moves in Version 1.0.
+Adler's shields are not just for defense; they also apply an Incantation-based damage-over-time (DoT) effect to nearby enemies. This allows him to fit perfectly into Scorch teams (Incantation + undisclosed) or Discord teams. His shield durability is currently undisclosed, but it is widely considered sufficient to tank most boss "tank-buster" moves in Version 1.0.
 
 ## B Tier
 

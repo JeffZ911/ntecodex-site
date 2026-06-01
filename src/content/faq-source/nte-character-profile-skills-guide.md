@@ -67,9 +67,9 @@ Combat revolves around the management of energy and cooldowns to trigger element
 
 *   **Blossom (Anima + Cosmos):** [Information unavailable]
 *   **Hexed (Anima + Incantation):** [Information unavailable]
-*   **Discord:** [Information not yet publicly available as of 2026-05-20]
-*   **Charge:** [Information not yet publicly available as of 2026-05-20]
-*   **Scorch:** [Information not yet publicly available as of 2026-05-20]
+*   **Discord:** undisclosed
+*   **Charge:** undisclosed
+*   **Scorch:** undisclosed
 
 Successful combat requires players to utilize "Critical Dodges" to reset cooldowns (especially for characters like Mint) and "Instant Cycle" swaps to bypass traditional cooldown barriers.
 
@@ -141,7 +141,7 @@ Building a character involves more than just leveling their skills; it requires 
 
 ### Best Arcs and Cartridges for Skill Enhancement
 
-For Nanally, the best Arc is her signature weapon, [Information not yet publicly available as of 2026-05-20], which significantly boosts Plasma-based Anima damage. For Cartridges, the "Urban Vanguard" set is preferred for its 4-piece bonus that increases damage after using an Authority skill.
+For Nanally, the best Arc is her signature weapon, undisclosed, which significantly boosts Plasma-based Anima damage. For Cartridges, the "Urban Vanguard" set is preferred for its 4-piece bonus that increases damage after using an Authority skill.
 
 Sakiri benefits most from Arcs that provide HP or Energy Regeneration, allowing her to cast "Feast of Gluttony" more frequently. The "Supportive Shell" Cartridge set is the standard for her, as it grants an ATK bonus to the entire team whenever she uses her Ultimate.
 

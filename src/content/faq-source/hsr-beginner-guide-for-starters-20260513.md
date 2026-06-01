@@ -48,7 +48,7 @@ To succeed in Honkai: Star Rail as a new player, your primary focus should be on
 Key strategies for starters include:
 
 *   **Leverage Finality’s Vision:** Use this feature to jump into limited-time events and endgame modes like Pure Fiction or Apocalyptic Shadow. This allows you to claim rewards even if you haven't completed the prerequisite story chapters.
-*   **Claim Your Free 5-Star:** Utilize the [Information not yet publicly available as of 2026-05-13] selector to add a powerful unit to your roster. For most players, selecting a high-tier support like Sparkle or Robin is recommended, as powerful supports remain relevant longer than pure damage dealers.
+*   **Claim Your Free 5-Star:** Utilize the undisclosed selector to add a powerful unit to your roster. For most players, selecting a high-tier support like Sparkle or Robin is recommended, as powerful supports remain relevant longer than pure damage dealers.
 *   **Follow the "Guaranteed" Upgrade Rule:** Spend your Trailblaze Power on Character Levels, Light Cone Levels, and Traces first. These provide static, guaranteed stat increases. Avoid heavy Relic farming until you reach Trailblaze Level 60, where you are guaranteed two 5-star Relics per run.
 *   **The Departure Warp:** Use your initial Star Rail Passes (the silver ones) on the Departure Warp. This banner provides a 20% discount on pulls and guarantees a 5-star character from the standard pool within 50 pulls.
 *   **Utilize Free Units:** You will receive a full team of capable characters for free through gameplay.
@@ -96,7 +96,7 @@ Every enemy has a Toughness bar (the white bar above their HP). Attacking an ene
 The "Warp" system is how you acquire new characters and Light Cones (weapons). Understanding the math behind "Pity" is essential for F2P (Free-to-Play) players.
 
 1.  **Character Event Warp:** The pity cap is 90 pulls. If you do not get a 5-star character within 89 pulls, the 90th is guaranteed to be 5-star. There is a "50/50" system: the first time you pull a 5-star, there is a 50% chance it is the featured limited character and a 50% chance it is a standard 5-star character.
-2.  **The New 50/50 Loss System:** If you lose the 50/50, your next 5-star is guaranteed to be the featured limited character. In Version 4.x, players can also utilize the [Information not yet publicly available as of 2026-05-13] mechanic to mitigate the impact of losing a 50/50.
+2.  **The New 50/50 Loss System:** If you lose the 50/50, your next 5-star is guaranteed to be the featured limited character. In Version 4.x, players can also utilize the undisclosed mechanic to mitigate the impact of losing a 50/50.
 3.  **Light Cone Warp:** The pity cap is lower at 80 pulls. The chance of getting the featured 5-star Light Cone is 75%, making it much easier to obtain than a specific character.
 4.  **Soft Pity:** While the hard cap is 90, the "Soft Pity" range begins at pull 74. At this point, the probability of pulling a 5-star increases significantly with each subsequent pull.
 
@@ -130,7 +130,7 @@ Relics are the only RNG-heavy part of character building. Do not spend "Fuel" (t
 
 Modern HSR team building revolves around three primary archetypes. As a beginner, the "Hypercarry" model is the easiest to assemble.
 
-*   **Hypercarry:** One main DPS, two Supports (Harmony or Nihility), and one Sustain (Abundance or Preservation). Example: Dan Heng, Asta, [Information not yet publicly available as of 2026-05-13], and Natasha.
+*   **Hypercarry:** One main DPS, two Supports (Harmony or Nihility), and one Sustain (Abundance or Preservation). Example: Dan Heng, Asta, undisclosed, and Natasha.
 *   **Dual DPS / Follow-up:** Two damage dealers that synergize, often utilizing the **Elation** path mechanics. This usually involves characters who trigger attacks outside of their turn.
 *   **DoT (Damage over Time):** Relying on Nihility characters to stack Shock, Burn, or Wind Shear. This archetype is excellent for clearing content with high HP pools but requires specific characters like Kafka or Black Swan to reach full potential.
 
@@ -158,7 +158,7 @@ In Version 2.3 and beyond, the Divergent Universe offers a faster way to farm th
 Completing your Daily Training takes about five minutes and rewards 60 Stellar Jades. Over a month, this totals 1,800 Jades—more than 11 pulls. Combine this with the Nameless Honor (Battle Pass) to receive a steady stream of materials. Even the free tier of the Battle Pass provides significant amounts of "Self-Modeling Resin," which allows you to craft a Relic with a specific main stat—save these for Rare pieces like Energy Regeneration Rate Ropes or SPD Boots.
 
 **Fate's Atlas**
-If you are confused about the timeline of the story, use the Fate's Atlas. This tool organizes every mission, including the [Information not yet publicly available as of 2026-05-13] Trailblaze Missions, into a chronological flowchart. This ensures you don't miss out on side quests that unlock important world features or permanent stat boosts for the Trailblazer.
+If you are confused about the timeline of the story, use the Fate's Atlas. This tool organizes every mission, including the undisclosed Trailblaze Missions, into a chronological flowchart. This ensures you don't miss out on side quests that unlock important world features or permanent stat boosts for the Trailblazer.
 
 ## Related
 
@@ -168,7 +168,7 @@ If you are confused about the timeline of the story, use the Fate's Atlas. This 
 *   **HSR Tier List:** Check out our updated HSR Tier List for the best characters in Version 4.2 to see where your pulls rank.
 *   **Light Cone Guide:** Read our guide on the best Light Cones for F2P players to maximize your damage without spending Jades.
 *   **Stellar Jade Farming:** Learn how to farm Stellar Jades quickly with our achievement hunting guide, covering over 500 hidden objectives.
-*   **Planarcadia Walkthrough:** Detailed walkthrough for the [Information not yet publicly available as of 2026-05-13] Trailblaze Missions to help you solve the complex puzzles in the new region.
+*   **Planarcadia Walkthrough:** Detailed walkthrough for the undisclosed Trailblaze Missions to help you solve the complex puzzles in the new region.
 
 ## Sources
 

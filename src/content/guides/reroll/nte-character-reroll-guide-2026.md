@@ -103,8 +103,8 @@ If you successfully reroll for Hotori, use your S-Rank Selector (at 50 pulls) to
 | Sakiri | A | Offensive Support | Incantation | 30% ATK Buff & Grouping |
 | Jiuyuan | A | Ranged DPS | Anima | Esper Zero Synergy |
 | Daffodill | A | Burst DPS | Chaos | Stance Breaking |
-| Hathor | B | Tank / Support | [Information not yet publicly available as of 2026-05-24] | High Survivability |
-| Fadia | B | Healer | [Information not yet publicly available as of 2026-05-24] | Consistent Team Healing |
+| Hathor | B | Tank / Support | — | High Survivability |
+| Fadia | B | Healer | — | Consistent Team Healing |
 
 ## Time Estimate
 

@@ -138,12 +138,12 @@ Your gear stats directly influence the "Esper Cycle." This is the rhythm of swap
 Upon reaching Level 16, players unlock the "City Tycoon" system. This is a management mini-game that, when leveled up, provides a permanent buff that can double your stamina efficiency for gear farming. It is highly recommended to prioritize reaching Level 16 before doing heavy "refinement" farming, as the Beetle Coin discounts and material bonuses from City Tycoon are substantial.
 
 ### Scarborough Fair Gacha and the Dice Board
-When pulling for Arc Disks in the Scarborough Fair, pay close attention to the "Dice Board." This mechanic allows you to set a "Path" toward specific S-Rank Arc Disks. If you are building Nanally, you should target her signature Arc Disk, [Information not yet publicly available as of 2026-05-22], to maximize her synergy with the Type II modules mentioned earlier.
+When pulling for Arc Disks in the Scarborough Fair, pay close attention to the "Dice Board." This mechanic allows you to set a "Path" toward specific S-Rank Arc Disks. If you are building Nanally, you should target her signature Arc Disk, undisclosed, to maximize her synergy with the Type II modules mentioned earlier.
 
 ### Character Synergies and Arc Pairings
 Choosing the right Arc for the right Esper is crucial:
 *   **Nanally:** Best paired with high-crit Gas-type Arcs. Her banner, "The Ichi-daime," usually features Arcs that complement her fast-paced playstyle.
-*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Often utilizes Plasma-type Arcs to enhance her elemental spread capabilities. [Information not yet publicly available as of 2026-05-22] remains her best-in-slot weapon for general play.
+*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Often utilizes Plasma-type Arcs to enhance her elemental spread capabilities. undisclosed remains her best-in-slot weapon for general play.
 *   **Lacrimosa:** As a more utility-focused Esper, she thrives with Liquid-type Arcs that provide team-wide buffs or increased healing potency.
 
 By balancing the raw power of Arc Disks with the spatial puzzle of the Console grid, you can create a highly optimized team capable of tackling the toughest challenges Neverness to Everness has to offer. Focus on reaching the Level 8 Exploration Breakpoint before committing heavily to refinement, and always keep an eye on your character-specific module shape requirements.

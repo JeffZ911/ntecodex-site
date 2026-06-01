@@ -80,7 +80,7 @@ Arcs are categorized by physical states that dictate their general stat distribu
 *   **Synthesis Type Arcs:** These are rarer, high-tier Arcs that provide hybrid stats. They often combine offensive boosts (like Mental DMG) with massive survivability buffs.
 *   **Gas and Liquid Types:** These are more niche for healers, often used by Anima-based supports like Jiuyuan who need higher ATK stats to fuel their healing throughput.
 
-Matching the Arc Type to the character's preferred style ensures that you unlock the "Resonance" bonus, which can provide an additional [Information not yet publicly available as of 2026-05-19]% to healing effectiveness.
+Matching the Arc Type to the character's preferred style ensures that you unlock the "Resonance" bonus, which can provide an additional undisclosed to healing effectiveness.
 
 ### S-Rank Meta: Eternal Waltz and Good Boy’s Grand Adventure
 
@@ -120,7 +120,7 @@ Jiuyuan is a "Combat-Healer." She heals the party by dealing Anima damage to ene
 
 When leveling your Arcs, you must pay attention to the secondary stats. A healer who cannot cast their Ultimate is a liability.
 
-1.  **Charge Efficiency:** This should be your secondary priority for almost every healer. Aim for a total of [Information not yet publicly available as of 2026-05-19]% to ensure your healing skills are always off cooldown.
+1.  **Charge Efficiency:** This should be your secondary priority for almost every healer. Aim for a total of undisclosed to ensure your healing skills are always off cooldown.
 2.  **HP vs. ATK:** Check the character's skill descriptions. If the skill says "Heals based on [x]% of Max HP," ignore ATK entirely.
 3.  **Healing Bonus:** This is a rare substat found on specific Arcs and Cartridges. It is a multiplicative modifier and is always a top-tier pick.
 
@@ -150,8 +150,8 @@ Survival in Neverness to Everness involves more than just selecting the right we
 
 Cartridges act as the "armor" or "accessory" system in NTE, providing set bonuses that can further amplify your healer’s capabilities. For most healers, the **Fireflies and the Forest** set is the premier choice. 
 
-*   **2-Piece Bonus:** Increases Healing Bonus by [Information not yet publicly available as of 2026-05-19]%.
-*   **4-Piece Bonus:** When the wearer heals an ally, the entire team gains a [Information not yet publicly available as of 2026-05-19]% Damage Reduction buff for 10 seconds.
+*   **2-Piece Bonus:** Increases Healing Bonus by undisclosed.
+*   **4-Piece Bonus:** When the wearer heals an ally, the entire team gains a undisclosed Damage Reduction buff for 10 seconds.
 
 If you are using a combat-heavy healer like Jiuyuan, you might consider mixing two pieces of a damage-focused set with two pieces of a healing set to maximize her hybrid role.
 
@@ -161,7 +161,7 @@ While healers are essential for recovering from damage, shielders like **Adler**
 
 *   **Tier S:** Fadia (Healer), Adler (Shielder).
 *   **Tier A:** Jiuyuan (Healer/DPS), Edgar (Healer/Purifier).
-*   **Tier B:** [Information not yet publicly available as of 2026-05-19].
+*   **Tier B:** undisclosed.
 
 Healers are generally better for "chip damage" and long-duration fights, whereas shielders are mandatory for bosses that have "one-shot" mechanics that can bypass a healer's restoration speed.
 

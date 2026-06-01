@@ -51,7 +51,7 @@ In NTE, supports are categorized into four primary roles. While many characters 
 | :--- | :--- | :--- |
 | **Buffer** | Increases team offensive stats (ATK, Crit, DMG%) | [Sakiri](/characters/sakiri-nte-free-5-star-guide) |
 | **Shielder** | Provides temporary HP bars and interruption resistance | Adler |
-| **Healer** | Restores HP over time or via burst healing | [Information not yet publicly available as of 2026-05-20] |
+| **Healer** | Restores HP over time or via burst healing | — |
 | **Utility** | Manipulates time, enemy positioning, or cooldowns | Hotori |
 
 ### Key Stats for Support Units
@@ -86,7 +86,7 @@ Her most powerful feature is skill replication. Hotori can mimic the previous ch
 | Mechanic | Effect |
 | :--- | :--- |
 | **Mimicry Trigger** | Activated by using "Non-Closed Timepiece" within 3 seconds of a teammate's skill. |
-| **Damage Multiplier** | Replicated skill deals [Information not yet publicly available as of 2026-05-20]% of the original's damage. |
+| **Damage Multiplier** | Replicated skill deals — of the original's damage. |
 | **Resource Cost** | Consumes 50% less Energy than the original skill. |
 
 ### Haniel: High-Value A-Class Utility
@@ -110,7 +110,7 @@ However, she sits in A-Tier because the current meta heavily favors speed. Since
 *   Base Skill: 20% Damage Shared
 *   Skill Level 5: 25% Damage Shared
 *   Skill Level 10: 30% Damage Shared
-*   Maximum Mitigation Cap: [Information not yet publicly available as of 2026-05-20].
+*   Maximum Mitigation Cap: undisclosed.
 
 ### Esper Zero: The Flexible Protagonist
 
@@ -132,7 +132,7 @@ B-Tier supports are functional but generally outclassed by the units above. They
 Jiuyuan is primarily designed as a DPS character. However, upon reaching Awakening 1 (A1), she unlocks a passive that converts a portion of her damage dealt into team-wide healing. This makes her a viable "hybrid" for aggressive teams that don't want to sacrifice a slot for a dedicated healer.
 
 **Jiuyuan A1 Healing Scaling:**
-*   Healing Amount: [Information not yet publicly available as of 2026-05-20]% of Damage Dealt.
+*   Healing Amount: undisclosed of Damage Dealt.
 *   Internal Cooldown: 2 seconds.
 *   Target: Lowest HP party member.
 

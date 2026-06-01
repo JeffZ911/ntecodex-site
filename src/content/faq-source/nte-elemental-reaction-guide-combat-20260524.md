@@ -142,7 +142,7 @@ Building a team in NTE is not just about picking the strongest individual charac
 
 Weapons in NTE (often referred to as Arcs or specialized equipment) frequently provide bonuses to specific elemental damage types or reaction effects. When choosing a weapon for a character like Nanally, you should look for stats that increase Anima DMG or specifically boost "Follow-up Attack DMG," as the Blossom reaction is often categorized as such. 
 
-[Information not yet publicly available as of 2026-05-24] regarding whether weapon elements can override a character's base Esper type. Currently, it appears that weapons supplement the character's existing element rather than changing it.
+undisclosed regarding whether weapon elements can override a character's base Esper type. Currently, it appears that weapons supplement the character's existing element rather than changing it.
 
 ### Stagger Mechanics and Reaction Timing
 

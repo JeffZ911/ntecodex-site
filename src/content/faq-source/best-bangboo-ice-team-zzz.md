@@ -138,7 +138,7 @@ To get the most out of your chosen Bangboo, you must invest in its progression. 
 Beyond choosing the right Bangboo, optimizing an Ice team requires attention to W-Engines, Disk Drives, and future character releases.
 
 ### Who is the best Ice DPS in ZZZ?
-As of May 2026, Ellen Joe remains the premier Ice DPS due to her mobility and high crit scaling. However, players should keep an eye on Hoshimi Miyabi. While her exact kit details are [Information not yet publicly available as of 2026-05-14], she is expected to be an Ice-based Anomaly or Attack Agent who will likely share the same Bangboo synergies as Ellen Joe.
+As of May 2026, Ellen Joe remains the premier Ice DPS due to her mobility and high crit scaling. However, players should keep an eye on Hoshimi Miyabi. While her exact kit details are undisclosed, she is expected to be an Ice-based Anomaly or Attack Agent who will likely share the same Bangboo synergies as Ellen Joe.
 
 ### How do you get more Bangboo Coupons?
 Bangboo Coupons (Boopons) are a rare currency that cannot be purchased with Polychromes. To farm them efficiently:

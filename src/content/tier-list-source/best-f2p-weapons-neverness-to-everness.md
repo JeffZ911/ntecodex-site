@@ -129,7 +129,7 @@ A-Tier Arcs are reliable "bridge" weapons. They are easier to obtain than boss-d
 This Psyche-aligned Arc is gifted to all players on Day 10 of the Beginner Login Event. It is specifically designed to boost Psyche DMG and CRIT DMG after using a skill, making it the perfect starter weapon for Aurelia.
 
 ### Clear Skies: Mint's Reliable Partner
-[Information not yet publicly available as of 2026-05-22]. While Mint is a core F2P Anima character, the specific "Clear Skies" Arc stats and acquisition methods have not been officially detailed in recent patch notes. Most players currently utilize *A Time Will Come* as a placeholder.
+undisclosed. While Mint is a core F2P Anima character, the specific "Clear Skies" Arc stats and acquisition methods have not been officially detailed in recent patch notes. Most players currently utilize *A Time Will Come* as a placeholder.
 
 ### Be Happy: The F2P Support King
 A Gas-type Arc that focuses on team sustain. It restores the wearer's HP by 12% upon defeating an enemy and provides a flat ATK boost to the team after an Ultimate is cast. It is widely found in common Anomaly chests across the Miguel District.
@@ -193,7 +193,7 @@ The hotfix released on May 21, 2026, focused heavily on quality-of-life improvem
 *   **Exploration Guide Compensation:** Players who reached Level 10 in the Exploration Guide but only received one "Fabricated Dice" will be sent two additional dice via in-game mail.
 *   **Visual Fixes:** A clipping issue with Mint’s feet during pool animations was resolved.
 *   **City Tycoon Adjustments:** An issue causing incorrect revenue display for *The Cafe by Origen* was fixed.
-*   **Arc Drop Rates:** While the community has requested higher drop rates for S-rank Arcs from field bosses, specific adjustments to these rates were [Information not yet publicly available as of 2026-05-22].
+*   **Arc Drop Rates:** While the community has requested higher drop rates for S-rank Arcs from field bosses, specific adjustments to these rates were undisclosed.
 
 ### Looking Ahead to Version 1.1
 The upcoming "Dreamwalk Corridor" update (Version 1.1) is set to introduce **Lacrimosa**, a new Chaos-type character. This will likely shift the meta for Liquid and Gas-type Arcs, as players look for weapons that can maximize Chaos-elemental reactions. A special preview program is scheduled for May 23, 2026, where new Arc banners are expected to be revealed.

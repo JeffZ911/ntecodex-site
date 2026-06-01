@@ -91,18 +91,18 @@ Duo Reactions are the most common buffs you will trigger. When the active charac
 
 | Reaction Name | Elemental Pairing | Primary Effect |
 | :--- | :--- | :--- |
-| **Remora** | Lakshana + Cosmos | Creates a tether that slows enemy movement by [Information not yet publicly available as of 2026-05-16]. |
+| **Remora** | Lakshana + Cosmos | Creates a tether that slows enemy movement by —. |
 | **Blossom** | Cosmos + Anima | Regenerates [exact value pending official confirmation] Esper Meter for the entire team over 5 seconds. |
 | **Hexed** | Anima + Incantation | Increases the "Break" damage dealt to enemy shields. |
 | **Scorch** | Incantation + Chaos | Applies a burning effect that scales with the character's Cycle Intensity. |
-| **Nova** | Chaos + Psyche | Triggers a wide-area explosion dealing [Information not yet publicly available as of 2026-05-16] damage. |
+| **Nova** | Chaos + Psyche | Triggers a wide-area explosion dealing — damage. |
 | **Stain** | Psyche + Lakshana | Reduces the target's Elemental Resistance to all six types. |
 
 ### Trio Reactions: Mastering Discord and Charged
 
 For boss encounters, Duo Reactions are often insufficient. You must aim for Trio Reactions (also known as a Triple Cycle). These are triggered by cycling through three adjacent elements in rapid succession without breaking the chain.
 
-*   **Charged (The Top Trio):** Triggered by a sequence involving Lakshana, Cosmos, and Anima. This reaction focuses on "Order," providing the team with a massive shield and a [Information not yet publicly available as of 2026-05-16]% boost to Burst damage.
+*   **Charged (The Top Trio):** Triggered by a sequence involving Lakshana, Cosmos, and Anima. This reaction focuses on "Order," providing the team with a massive shield and a undisclosed boost to Burst damage.
 *   **Discord (The Bottom Trio):** Triggered by a sequence involving Incantation, Chaos, and Psyche. This is the premier offensive buff for Version 1.0, creating a "Gravity Well" that pulls enemies together and applies a stackable defense shred.
 
 ### Esper Cycle Passives and Stacking Mechanics
@@ -110,7 +110,7 @@ For boss encounters, Duo Reactions are often insufficient. You must aim for Trio
 High-tier characters like [Nanally](/characters/nanally-guide-nte) and Jiuyuan possess "Cycle Passives." These are abilities that remain active even when the character is off-field, provided a specific reaction has been triggered.
 
 *   **Nanally:** When a "Scorch" or "Hexed" reaction is triggered, Nanally provides an off-field fire-support strike that deals Incantation damage based on her total Attack stat.
-*   **Jiuyuan:** Her passive enhances "Remora" and "Stain" reactions, extending their duration by [Information not yet publicly available as of 2026-05-16] seconds and increasing the active character's Crit Damage.
+*   **Jiuyuan:** Her passive enhances "Remora" and "Stain" reactions, extending their duration by undisclosed seconds and increasing the active character's Crit Damage.
 
 ### Key Combat Stats: Cycle Intensity vs. Cycle Rate
 
@@ -145,8 +145,8 @@ Each element provides a unique utility when navigating the urban environment or 
 | **Cosmos** | Anomaly Stabilization | Used to "freeze" moving platforms or stabilize distorted objects in puzzles. |
 | **Psyche** | Sensory Reveal | Highlights hidden items and quest objectives through walls. |
 | **Incantation** | Kinetic Burst | Destroys heavy environmental obstacles or activates pressure plates. |
-| **Lakshana** | [Information not yet publicly available] | [Information not yet publicly available as of 2026-05-16] |
-| **Chaos** | [Information not yet publicly available] | [Information not yet publicly available as of 2026-05-16] |
+| **Lakshana** | — | — |
+| **Chaos** | — | — |
 
 ### Top Meta Teams for Version 1.0
 
@@ -160,7 +160,7 @@ As of the current patch, these teams are dominating the leaderboards:
 
 Weapons in NTE are known as Arcs. While any character can technically equip various Arcs within their weapon class (e.g., bats, pistols, blades), the Arc's "Resonance Type" should match the character's Esper Type. 
 
-Equipping a Chaos-type Arc on a Chaos character like Adler grants a [Information not yet publicly available as of 2026-05-16]% bonus to Cycle Rate. If the types are mismatched, the character loses access to the Arc's secondary passive ability, which often contains the most significant damage modifiers for the Esper Cycle.
+Equipping a Chaos-type Arc on a Chaos character like Adler grants a undisclosed bonus to Cycle Rate. If the types are mismatched, the character loses access to the Arc's secondary passive ability, which often contains the most significant damage modifiers for the Esper Cycle.
 
 ## Sources
 

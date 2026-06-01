@@ -57,7 +57,7 @@ Charge Efficiency is the most important stat for any support-class Esper. In the
 | **Charge Efficiency** | Universal | Mandatory for maintaining 100% buff uptime. |
 | **HP%** | Shielders/Healers | Increases shield absorption for units like Adler and Fadia. |
 | **ATK%** | Offensive Supports | Scales the "Attack Transfer" buffs found in certain Esper kits. |
-| **DEF%** | Tank Supports | [Information not yet publicly available as of 2026-05-20] |
+| **DEF%** | Tank Supports | — |
 
 ### Understanding Set Bonus Activation
 
@@ -78,7 +78,7 @@ The 4-piece bonus is what truly sets it apart: after using an Ultimate, the enti
 
 ### Kingdom's Guard: The Shielder's Choice
 
-For teams relying on survival through shields rather than healing, Kingdom's Guard is the gold standard. It is specifically designed for characters like Adler and Fadia. The 2-piece bonus increases Shield Strength by [Information not yet publicly available as of 2026-05-20], while the 4-piece bonus provides a defensive utility that reduces incoming DMG for the active character while a shield is active.
+For teams relying on survival through shields rather than healing, Kingdom's Guard is the gold standard. It is specifically designed for characters like Adler and Fadia. The 2-piece bonus increases Shield Strength by undisclosed, while the 4-piece bonus provides a defensive utility that reduces incoming DMG for the active character while a shield is active.
 
 In the high-risk environments of the Riftcrystal mines, where enemies can one-shot glass-cannon DPS units, the extra absorption provided by Kingdom's Guard is often the difference between a successful run and a wipe.
 
@@ -170,7 +170,7 @@ Another major quality-of-life update in the recent patch was the fix for the **"
 *   **Speedy Hedgehog:** 4-pc duration increased from 15s to 20s.
 *   **Kingdom's Guard:** Shield strength now includes 5% Base DEF scaling.
 *   **Module System:** Fixed sub-stat increments at +5, +10, and +15.
-*   **Aurelia Synergy:** [Information not yet publicly available as of 2026-05-20].
+*   **Aurelia Synergy:** undisclosed.
 
 As the meta continues to evolve, the priority remains clear: focus on Charge Efficiency and team-wide ATK buffs. While niche sets like Devil's Blood: Curse have their place in specialized elemental teams, every player should aim to have at least two high-quality sets of Speedy Hedgehog and one set of Kingdom's Guard to tackle the most difficult content Neverness to Everness has to offer.
 

@@ -97,7 +97,7 @@ If you need to farm more materials than your natural regeneration allows, you ca
 | 1st Refill | 60 | 50 |
 | 2nd Refill | 60 | 100 |
 | 3rd Refill | 60 | 150 |
-| 4th+ Refill | 60 | [Information not yet publicly available as of 2026-05-19] |
+| 4th+ Refill | 60 | — |
 
 ### Farming Character EXP (Hunter Guides)
 
@@ -105,9 +105,9 @@ Hunter Guides come in three primary tiers. While the exact EXP values are subjec
 
 | Item Name | Rarity | EXP Value |
 | :--- | :--- | :--- |
-| Rising Hunter Guide | Green (2-Star) | [Information not yet publicly available as of 2026-05-19] |
-| Senior Hunter Guide | Blue (3-Star) | [Information not yet publicly available as of 2026-05-19] |
-| Elite Hunter Guide | Purple (4-Star) | [Information not yet publicly available as of 2026-05-19] |
+| Rising Hunter Guide | Green (2-Star) | — |
+| Senior Hunter Guide | Blue (3-Star) | — |
+| Elite Hunter Guide | Purple (4-Star) | — |
 
 ### Character Ascension and Breakthrough Materials
 
@@ -117,8 +117,8 @@ The **Whisper** series of materials (Lost Whisper, Obscure Whisper, and Paradoxi
 
 For high-tier breakthroughs, you will need boss-specific drops. 
 *   **Hotori:** Requires materials from **Serenetti** (Confessional Flower Seed).
-*   **Nanally:** Requires materials from [Information not yet publicly available as of 2026-05-19].
-*   **Chiz:** Requires materials from [Information not yet publicly available as of 2026-05-19].
+*   **Nanally:** Requires materials from undisclosed.
+*   **Chiz:** Requires materials from undisclosed.
 
 ### Talent and Skill Progression (Esper Ability Books)
 
@@ -128,7 +128,7 @@ Upgrading an Esper's active and passive skills requires **Esper Ability Books**.
 | :--- | :--- |
 | Monday / Thursday | The Olive Branch |
 | Tuesday / Friday | Dove's Flutter |
-| Wednesday / Saturday | [Information not yet publicly available as of 2026-05-19] |
+| Wednesday / Saturday | — |
 | Sunday | All Materials Available |
 
 ### Currency Farming: Beetle Coins vs. Fons

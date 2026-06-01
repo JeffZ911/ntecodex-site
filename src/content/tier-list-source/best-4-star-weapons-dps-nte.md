@@ -145,7 +145,7 @@ Despite being an A-rank Arc with a solid 475 Base ATK and 25% ATK substat, **Cle
 
 ### The Fools' Spring: Shield-Based Scaling
 
-The Fools' Spring is a niche Solid-type weapon. Its skill, [Information not yet publicly available as of 2026-05-22], is designed to interact with shields. In compositions where you are running a dedicated shielder like Jiuyuan, the ATK boost provided by this Arc can be significant. However, without a shield active, the weapon is essentially a stat-stick with a DEF substat, which is suboptimal for pure DPS units.
+The Fools' Spring is a niche Solid-type weapon. Its skill, undisclosed, is designed to interact with shields. In compositions where you are running a dedicated shielder like Jiuyuan, the ATK boost provided by this Arc can be significant. However, without a shield active, the weapon is essentially a stat-stick with a DEF substat, which is suboptimal for pure DPS units.
 
 ### The Great Thief and Time Bandit
 

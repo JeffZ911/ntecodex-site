@@ -57,7 +57,7 @@ The system is divided into Duo Cycle reactions (two adjacent elements on the whe
 
 | Position | Element | Primary Attribute | Common Character Example |
 | :--- | :--- | :--- | :--- |
-| 1 | Lakshana | Restoration / Buffing | [Information not yet publicly available] |
+| 1 | Lakshana | Restoration / Buffing | — |
 | 2 | Cosmos | Spatial / Utility | Zero |
 | 3 | Anima | Nature / Sustained DPS | [Nanally](/characters/nanally-guide-nte), Jiuyuan |
 | 4 | Incantation | Fire / Burst DPS | Baicang |
@@ -83,7 +83,7 @@ Duo reactions are the bread and butter of your combat rotation. When the second 
 | :--- | :--- | :--- |
 | **Remora** | Lakshana + Cosmos | Restores a portion of the active character's Esper Meter over time, allowing for faster subsequent swaps. |
 | **Blossom** | Cosmos + Anima | Summons "Anima Blooms" (AoE turrets) that remain on the field and fire at nearby enemies for 8 seconds. |
-| **Hexed** | Anima + Incantation | [Information not yet publicly available as of 2026-05-20] |
+| **Hexed** | Anima + Incantation | — |
 | **Scorch** | Incantation + Chaos | Applies a "Scorched" debuff, dealing Fire damage over time (DoT) based on the Incantation character's Attack stat. |
 | **Nova** | Chaos + Psyche | Creates a localized gravity collapse that pulls smaller enemies toward the center and deals massive Chaos damage. |
 | **Stain** | Psyche + Lakshana | Applies a vulnerability debuff, increasing the damage the target takes from all sources by 15% [exact value pending official confirmation]. |
@@ -141,7 +141,7 @@ To build your lanes effectively, refer to the following categorization of popula
 *   **Incantation:** Baicang
 *   **Chaos:** Mint
 *   **Psyche:** Sakiri
-*   **Lakshana:** [Information not yet publicly available as of 2026-05-20]
+*   **Lakshana:** undisclosed
 
 When selecting your team, ensure you aren't picking elements that are too far apart on the wheel (e.g., Cosmos and Chaos), as you will find it impossible to trigger Duo reactions without a "bridge" element (Anima or Incantation) between them.
 

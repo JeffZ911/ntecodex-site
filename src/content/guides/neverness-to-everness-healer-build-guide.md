@@ -107,7 +107,7 @@ For players who haven't pulled high-rarity Arcs, "Shiny Days" (B-Rank, Liquid) i
 The equipment system in Neverness to Everness consists of Cartridges (set bonuses) and Modules (individual stat blocks). Healers prioritize survivability and "Healing Bonus" main stats to maximize their efficiency.
 
 ### Recommended Cartridge Sets
-As of the current 2026 meta, the most effective healer set is the **[Information not yet publicly available as of 2026-05-15]** set, which is commonly referred to in community guides as the "Medic" or "Nurse" set.
+As of the current 2026 meta, the most effective healer set is the **undisclosed** set, which is commonly referred to in community guides as the "Medic" or "Nurse" set.
 *   **2-Piece Bonus:** Increases Max HP by 10%.
 *   **4-Piece Bonus:** Increases the wearer's Healing Bonus by 20%.
 

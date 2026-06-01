@@ -99,14 +99,14 @@ To activate a 4-piece Cartridge bonus, you don't necessarily need four physical 
 
 Speedy Hedgehog is arguably the most important set for any player to farm early. In NTE, the "Esper Cycle" involves swapping between characters to trigger elemental reactions. By putting Speedy Hedgehog on a support character like [Sakiri](/characters/sakiri-nte-free-5-star-guide) or Haniel, you ensure that every time they swap in to use a skill, your main DPS (who swaps in next) receives a massive 15% ATK boost.
 
-*   **2-Piece Bonus:** [Information not yet publicly available as of 2026-05-23]
+*   **2-Piece Bonus:** undisclosed
 *   **4-Piece Bonus:** Increases all team members' ATK by 15% for 12 seconds after using an Esper Skill. This effect does not stack with other Speedy Hedgehog sets in the same party.
 
 ### Lost Radiance: The DPS Standard
 
 For players using Zero or Chiz as their primary damage dealers, Lost Radiance is the most consistent B-rank option. Defense ignore is a "multiplier" stat, meaning it becomes more valuable as enemies get tougher. In the "Beyond the Rails" endgame preview stages, enemies have high damage reduction. Ignoring 25% of that defense allows your burst characters to maintain their kill speed.
 
-*   **2-Piece Bonus:** [Information not yet publicly available as of 2026-05-23]
+*   **2-Piece Bonus:** undisclosed
 *   **4-Piece Bonus:** Attacks ignore 25% of the target's DEF.
 
 ### Fireflies and the Forest: Anima Specialist Choice

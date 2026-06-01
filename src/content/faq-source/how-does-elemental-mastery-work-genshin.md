@@ -155,7 +155,7 @@ For Transformative triggers (Kuki Shinobu in Hyperbloom), you should ignore ATK 
 
 In the region of Natlan, the "Nightsoul Blessing" state introduces unique movement and combat buffs for local characters. While these mechanics often focus on mobility and "Phlogiston" consumption, the fundamental math of Elemental Mastery remains consistent. Characters utilizing the Nightsoul state still rely on the standard reaction formulas for their damage output.
 
-Regarding specific Natlan-specific mechanics like "Lunar" reactions: [Information not yet publicly available as of 2026-05-14]. As of the current expansion, players should focus on how Nightsoul-aligned characters interact with existing reactions like Vaporize and Melt, as regional buffs often provide flat EM bonuses during specific state transitions.
+Regarding specific Natlan-specific mechanics like "Lunar" reactions: undisclosed. As of the current expansion, players should focus on how Nightsoul-aligned characters interact with existing reactions like Vaporize and Melt, as regional buffs often provide flat EM bonuses during specific state transitions.
 
 ## Sources
 

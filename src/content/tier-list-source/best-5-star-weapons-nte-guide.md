@@ -183,7 +183,7 @@ The Neverness to Everness meta shifted significantly on May 13, 2026, with the i
 The release of Hotori has brought the Cosmos element to the forefront of the meta. Previously, Solid-type Arcs were seen as secondary to the high-burst Plasma types. However, Hotori’s synergy with the "Marching Beyond Time" Arc has proven that Solid-type characters can achieve top-tier DPS through DEF Penetration and Time Stop mechanics. This has also increased the value of "Hethereau's Keeper" as a viable alternative for Cosmos-based teams.
 
 ### Upcoming Version 1.1 Weapon Leaks
-According to [Information not yet publicly available as of 2026-05-19], the upcoming Version 1.1 update is rumored to introduce the Chaos-element specialists Lacrimosa and a character tentatively named "Chaos." Leaks suggest that new Chaos-specific Arcs will focus on "Life-Steal" and "Damage-over-Time" (DoT) enhancements, which may finally push Synthesis Arcs into a more dominant role alongside Plasma and Solid types.
+According to undisclosed, the upcoming Version 1.1 update is rumored to introduce the Chaos-element specialists Lacrimosa and a character tentatively named "Chaos." Leaks suggest that new Chaos-specific Arcs will focus on "Life-Steal" and "Damage-over-Time" (DoT) enhancements, which may finally push Synthesis Arcs into a more dominant role alongside Plasma and Solid types.
 
 ## Sources
 

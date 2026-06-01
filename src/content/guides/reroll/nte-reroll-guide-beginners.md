@@ -47,7 +47,7 @@ Understanding the math behind the Scarborough Fair (the gacha system) helps set 
 | Category | Rate / Value |
 | :--- | :--- |
 | S-Rank Character Rate | 1.0% |
-| A-Rank Character Rate | [Information not yet publicly available as of 2026-05-15] |
+| A-Rank Character Rate | — |
 | Soft Pity Start | 70 Pulls |
 | Hard Pity | 90 Pulls |
 | Limited Banner Guarantee | 100% (No 50/50) |
@@ -86,10 +86,10 @@ Since NTE requires an account login, the "Salted Email" method is the most effic
 
 ### List of Active Promo Codes for May 2026
 
-*   **NTE0429LAUNCH** — [Information not yet publicly available as of 2026-05-15]
-*   **HETHEREOU2026** — [Information not yet publicly available as of 2026-05-15]
-*   **MINTGIFT** — [Information not yet publicly available as of 2026-05-15]
-*   **NTESCARBOROUGH** — [Information not yet publicly available as of 2026-05-15]
+*   **NTE0429LAUNCH** — undisclosed
+*   **HETHEREOU2026** — undisclosed
+*   **MINTGIFT** — undisclosed
+*   **NTESCARBOROUGH** — undisclosed
 
 ### When to Stop: The 'God Account' Criteria
 
@@ -109,7 +109,7 @@ The standard pool in Neverness to Everness features a diverse cast, but some cha
 | **S+** | Sakiri, Jiuyuan | Essential support and top-tier Anima DPS. |
 | **S** | Daffodil, Hotori* | High-tier healing/utility and premier Cosmos Sub-DPS (*Limited). |
 | **A** | Fadia, Baicang | Solid elemental attackers with good utility. |
-| **B** | Hathor | [Information not yet publicly available as of 2026-05-15] |
+| **B** | Hathor | — |
 
 ### S-Tier Targets: Sakiri & Jiuyuan
 
@@ -119,9 +119,9 @@ The standard pool in Neverness to Everness features a diverse cast, but some cha
 
 ### A-Tier Alternatives: Daffodil & Fadia
 
-**Daffodil:** Daffodil serves as a highly reliable support who provides [Information not yet publicly available as of 2026-05-15]. She is excellent for players who prefer a safer, more sustainable playstyle during difficult boss encounters.
+**Daffodil:** Daffodil serves as a highly reliable support who provides undisclosed. She is excellent for players who prefer a safer, more sustainable playstyle during difficult boss encounters.
 
-**Fadia:** Fadia is a competent DPS who excels in [Information not yet publicly available as of 2026-05-15]. While she may not reach the sheer damage ceilings of Jiuyuan, her elemental application makes her a versatile pick for various team compositions.
+**Fadia:** Fadia is a competent DPS who excels in undisclosed. While she may not reach the sheer damage ceilings of Jiuyuan, her elemental application makes her a versatile pick for various team compositions.
 
 ### Current Limited Target: Hotori (Misty Tipsy Style)
 

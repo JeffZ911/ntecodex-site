@@ -117,7 +117,7 @@ This team excels because Jiuyuan’s passive increases the number of Blossom tur
 
 Chiz is a powerhouse available to every player who engages with the City Tycoon system. As an S-Rank Cosmos DPS, she outscales Zero in raw damage. This team utilizes Hathor (as the Selector pick) to enable the Charge reaction, which solves the energy issues often faced by F2P rosters.
 
-Chiz relies on her [Information not yet publicly available as of 2026-05-15] mechanics to stack damage modifiers. By rotating between Hathor (Lakshana) and Chiz/Zero (Cosmos), you trigger Remora to slow the boss, followed by Mint or an Anima sub-DPS to trigger Blossom. This completes the "Charge" Triple Cycle, flooding your team with Ultimate energy.
+Chiz relies on her undisclosed mechanics to stack damage modifiers. By rotating between Hathor (Lakshana) and Chiz/Zero (Cosmos), you trigger Remora to slow the boss, followed by Mint or an Anima sub-DPS to trigger Blossom. This completes the "Charge" Triple Cycle, flooding your team with Ultimate energy.
 
 ### Why These Teams Dominate the Meta
 
@@ -170,7 +170,7 @@ This is the default team provided by the story. It is a "split lane" team, utili
 *   **Anomaly Hunts:** 7/10 (Reliable but slow).
 *   **Beyond the Rails (Floor 10+):** 4/10 (Usually fails the timer).
 
-To optimize this team, focus on equipping Zero and Mint with 4-star Arcs like the [Information not yet publicly available as of 2026-05-15] and specific "Cartridges" that boost Cycle Rate. Increasing your Cycle Rate allows you to swap more frequently, partially compensating for the lack of a third lane-adjacent element.
+To optimize this team, focus on equipping Zero and Mint with 4-star Arcs like the undisclosed and specific "Cartridges" that boost Cycle Rate. Increasing your Cycle Rate allows you to swap more frequently, partially compensating for the lack of a third lane-adjacent element.
 
 ### Transitioning to A and S Tier Comps
 
@@ -207,7 +207,7 @@ The release of Hotori (Cosmos) has indirectly buffed F2P Cosmos teams. As a "Sol
 
 ### Chiz Mechanics Update
 
-In the latest patch, the complexity of Chiz's [Information not yet publicly available as of 2026-05-15] mechanic was reduced. Previously, players had to manage multiple stacks to maximize her Ultimate damage. Following the update, the stack generation is more automated, making her much easier to pilot for casual players. Additionally, new City Tycoon milestones have been added, making it easier to obtain her signature 4-star Arc through gameplay.
+In the latest patch, the complexity of Chiz's undisclosed mechanic was reduced. Previously, players had to manage multiple stacks to maximize her Ultimate damage. Following the update, the stack generation is more automated, making her much easier to pilot for casual players. Additionally, new City Tycoon milestones have been added, making it easier to obtain her signature 4-star Arc through gameplay.
 
 ### Reaction Balance Adjustments
 

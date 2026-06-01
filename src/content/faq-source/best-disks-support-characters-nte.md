@@ -141,7 +141,7 @@ Building the perfect support doesn't end with Disks. You also need to consider y
 ### Top Support Weapons (Arc Discs)
 
 While Disks provide the bulk of your stats, your Arc weapon provides the "Passive Proc" that can define a build.
-*   **For Sakiri:** The best weapon is currently [Information not yet publicly available as of 2026-05-19]. If you don't have her signature Arc, any weapon with Cycle Intensity as a secondary stat will suffice.
+*   **For Sakiri:** The best weapon is currently undisclosed. If you don't have her signature Arc, any weapon with Cycle Intensity as a secondary stat will suffice.
 *   **For Haniel:** Look for Arcs that increase "Break Effectiveness." This synergizes with the Lost Glow Cartridge set to make Haniel a shield-breaking machine.
 *   **For Edgar:** Any Arc that provides HP% or increases "Incoming Healing" for the team is ideal.
 
@@ -149,7 +149,7 @@ While Disks provide the bulk of your stats, your Arc weapon provides the "Passiv
 
 Support Disks are only effective if they complement your team's elemental reactions.
 *   **Nova Teams (Ice/Electric):** Sakiri is the core here. Her Disks should focus on Cycle Intensity to keep the Nova reaction (which freezes and then shatters enemies) active.
-*   **Scorch Teams (Fire):** Fadia is the primary Scorch support. She benefits from the "Burning Heart" Cartridge set [Information not yet publicly available as of 2026-05-19], which increases the duration of burn effects.
+*   **Scorch Teams (Fire):** Fadia is the primary Scorch support. She benefits from the "Burning Heart" Cartridge set undisclosed, which increases the duration of burn effects.
 *   **Discord Teams (Chaos/Physical):** Haniel and Adler thrive here. Their gear should focus on shredding physical resistance and stability bars.
 
 ### Upgrading and Advancing Your Gear

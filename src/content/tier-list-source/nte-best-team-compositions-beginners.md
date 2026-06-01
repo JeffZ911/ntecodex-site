@@ -80,7 +80,7 @@ Nanally is the centerpiece of the "Ichi-daime" limited banner. Her kit focuses o
 
 | Role | Character | Element | Recommended Arc |
 | :--- | :--- | :--- | :--- |
-| Main DPS | Nanally | Anima | [Information not yet publicly available as of 2026-05-20] |
+| Main DPS | Nanally | Anima | — |
 | Sub-DPS | Esper Zero | Cosmos | Echoing Resonance |
 | Support | Jiuyuan | Anima | Flowing Silk |
 
@@ -94,7 +94,7 @@ With the release of the "Misty Tipsy Style" banner, [Hotori](/characters/hotori-
 *   **Sub-DPS:** Hotori (Cosmos/Special)
 *   **Support:** Sakiri (Incantation)
 
-This team is designed to destroy boss shields. Sakiri applies Incantation, which Daffodill follows with Chaos to trigger Scorch. Hotori's unique mechanic allows her to "record" these reactions and replay them, effectively doubling the Scorch stacks. When the team transitions into the Nova phase (Chaos + Psyche), the overlap triggers Discord. Discord deals [Information not yet publicly available as of 2026-05-20] bonus damage to Stagger bars, making it the premier choice for "High Risk Commissions."
+This team is designed to destroy boss shields. Sakiri applies Incantation, which Daffodill follows with Chaos to trigger Scorch. Hotori's unique mechanic allows her to "record" these reactions and replay them, effectively doubling the Scorch stacks. When the team transitions into the Nova phase (Chaos + Psyche), the overlap triggers Discord. Discord deals undisclosed bonus damage to Stagger bars, making it the premier choice for "High Risk Commissions."
 
 ## A Tier
 
@@ -142,7 +142,7 @@ B-Tier teams are viable for the main story and general exploration but may strug
 *   **Tank:** Fadia (Psyche)
 *   **Support:** Haniel (Psyche)
 
-This team focuses on the Stain reaction (Psyche + Lakshana). Stain is a powerful debuff that increases the damage enemies take from all sources. Hathor has a high-skill-ceiling kit that requires hitting enemies from behind to trigger her "Shadow Mark" [Information not yet publicly available as of 2026-05-20]. While the damage potential is high, the precise positioning required makes it difficult for beginners to pilot compared to the "ungabunga" style of Nanally.
+This team focuses on the Stain reaction (Psyche + Lakshana). Stain is a powerful debuff that increases the damage enemies take from all sources. Hathor has a high-skill-ceiling kit that requires hitting enemies from behind to trigger her "Shadow Mark" undisclosed. While the damage potential is high, the precise positioning required makes it difficult for beginners to pilot compared to the "ungabunga" style of Nanally.
 
 ### Skia: The Shadow Assassin Niche
 
@@ -186,7 +186,7 @@ The introduction of Hotori and her "Misty Tipsy Style" banner has made the Cosmo
 
 ### The Rise of Break-Focused Compositions
 
-A recent balance update in early May increased the base Break damage of the Discord reaction by [Information not yet publicly available as of 2026-05-20]. This change was intended to help players struggling with the "High Risk Commission" bosses. Consequently, characters like Daffodill, who were previously seen as secondary to Main DPS units, are now essential for any team looking to tackle end-game content.
+A recent balance update in early May increased the base Break damage of the Discord reaction by undisclosed. This change was intended to help players struggling with the "High Risk Commission" bosses. Consequently, characters like Daffodill, who were previously seen as secondary to Main DPS units, are now essential for any team looking to tackle end-game content.
 
 ### The End of the Ichi-Daime Banner
 

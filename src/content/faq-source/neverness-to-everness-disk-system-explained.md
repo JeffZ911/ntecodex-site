@@ -116,8 +116,8 @@ The Disk system is the engine behind the "Esper Cycle," the elemental reaction s
 Key reactions to monitor when building your Disk sets include:
 *   **Nova:** Chaos + Psyche (High burst damage).
 *   **Scorch:** Incantation + Chaos (Damage over time).
-*   **Blossom:** [Information not yet publicly available as of 2026-05-23].
-*   **Remora:** [Information not yet publicly available as of 2026-05-23].
+*   **Blossom:** undisclosed.
+*   **Remora:** undisclosed.
 
 ### Unlocking Free S-Rank Disks via City Tycoon
 

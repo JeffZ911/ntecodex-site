@@ -66,7 +66,7 @@ At the heart of your daily routine are **Character Pixels** and **City Stamina**
 
 | Feature | Character Pixels | City Stamina |
 | :--- | :--- | :--- |
-| **Recovery Rate** | 1 every 6 minutes | [Information not yet publicly available as of 2026-05-23] |
+| **Recovery Rate** | 1 every 6 minutes | — |
 | **Daily/Weekly Cap** | 240 (Standard) | Resets Weekly (Mondays 4:00 AM UTC+8) |
 | **Primary Use** | Anomaly Zones, Bosses, Gear Farming | Tycoon Hobbies, Shop Management, Racing |
 | **Cap Increase** | Anomaly Furniture (Dream Weaver's Knot) | Raising Tycoon Level |

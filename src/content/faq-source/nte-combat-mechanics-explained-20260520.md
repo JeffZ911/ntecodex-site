@@ -75,11 +75,11 @@ A Duo-Esper Cycle reaction occurs when you switch from an active Esper with a 10
 
 | Elements Involved | Reaction Name | Combat Effect |
 | :--- | :--- | :--- |
-| Lakshana + Cosmos | Thermal Shock | Deals AOE damage and reduces enemy Defense by [Information not yet publicly available as of 2026-05-20]. |
-| Cosmos + Anima | [Information not yet publicly available as of 2026-05-20] | Freezes the enemy and increases Physical damage taken by 15%. |
-| Anima + Incantation | Kinetic Surge | High Stagger damage and restores [Information not yet publicly available as of 2026-05-20] Energy. |
+| Lakshana + Cosmos | Thermal Shock | Deals AOE damage and reduces enemy Defense by —. |
+| Cosmos + Anima | — | Freezes the enemy and increases Physical damage taken by 15%. |
+| Anima + Incantation | Kinetic Surge | High Stagger damage and restores — Energy. |
 | Incantation + Chaos | Entropic Chain | Chains enemies together, sharing a portion of damage taken between them. |
-| Chaos + Psyche | Abyssal Gale | Pulls enemies into a vacuum and applies a [Information not yet publicly available as of 2026-05-20]% Slow. |
+| Chaos + Psyche | Abyssal Gale | Pulls enemies into a vacuum and applies a — Slow. |
 | Psyche + Lakshana | Pyroclastic Flow | Creates a burning zone that deals continuous damage based on the character's Attack stat. |
 
 ### Trio-Esper Cycle Reactions: Charge & Discord
@@ -125,7 +125,7 @@ Dodging just before an attack lands triggers a Perfect Dodge. While this does no
 Most elite enemies and bosses in Hethereau possess a white bar beneath their health pool known as the Break Meter (or Stagger bar). As long as this bar is active, the enemy has high resistance to hit-stun and takes reduced damage.
 
 To "Break" an enemy, you must deplete this bar using heavy attacks, Parries, or Discord reactions. Once the bar reaches zero, the enemy enters the **Punish Window**. During this state:
-*   The enemy is completely immobilized for [Information not yet publicly available as of 2026-05-20] seconds.
+*   The enemy is completely immobilized for undisclosed seconds.
 *   All damage dealt to the enemy is increased by a multiplier (scaling with the "Break Power" stat).
 *   This is the optimal time to unleash Ultimate Abilities and Trio Reactions.
 

@@ -86,7 +86,7 @@ The "Blossom Turret" composition is currently the most dominant team in Hetherea
 **Why it wins:** Nanally is the centerpiece of this team. Her "Underboss" summon acts as a persistent Anima source. When Hotori or Sakiri enters the field, their Cosmos abilities interact with the Underboss to spawn Blossom turrets. These turrets deal passive AoE damage, allowing you to focus on dodging enemy attacks while the field clears itself. Hotori, the newest S-Class addition as of May 13, 2026, is essential here because her "Record" mechanic allows her to replay Nanally’s Anima skills, effectively doubling the reaction frequency.
 
 **Character Spotlight: Nanally's Skill Synergy**
-Nanally’s primary strength lies in her ability to stay mobile while her summons do the heavy lifting. In "The Ichi-daime" banner, her signature weapon [Information not yet publicly available as of 2026-05-20] further enhances the fire rate of Blossom turrets by [exact value pending official confirmation].
+Nanally’s primary strength lies in her ability to stay mobile while her summons do the heavy lifting. In "The Ichi-daime" banner, her signature weapon undisclosed further enhances the fire rate of Blossom turrets by [exact value pending official confirmation].
 
 ### The Ultimate F2P Progression Team
 
@@ -157,7 +157,7 @@ This team relies on the "Stain" reaction (Psyche + Lakshana) to amplify damage.
 *   **Tank:** Fadia (Psyche)
 *   **Sub-DPS:** Zero (Cosmos)
 
-The Stain reaction increases the damage an enemy takes by [Information not yet publicly available as of 2026-05-20]. While this sounds powerful, the reaction lacks the AoE capabilities of Blossom or Scorch. Fadia is a defensive anchor here, redirecting damage away from Hathor, but she requires significant HP investment to survive the late-game Hethereau anomalies.
+The Stain reaction increases the damage an enemy takes by undisclosed. While this sounds powerful, the reaction lacks the AoE capabilities of Blossom or Scorch. Fadia is a defensive anchor here, redirecting damage away from Hathor, but she requires significant HP investment to survive the late-game Hethereau anomalies.
 
 **Stain Reaction Damage Multipliers:**
 *   **Base Multiplier:** 1.25x damage taken.

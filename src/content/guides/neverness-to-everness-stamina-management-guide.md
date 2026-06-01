@@ -62,10 +62,10 @@ In Neverness to Everness, weapons are referred to as Arcs. These Arcs are catego
 
 | Arc Name | Type | Key Passive Effect |
 | :--- | :--- | :--- |
-| [Information not yet publicly available as of 2026-05-20] | Plasma | [Information not yet publicly available as of 2026-05-20] |
-| [Information not yet publicly available as of 2026-05-20] | Solid | [Information not yet publicly available as of 2026-05-20] |
-| [Information not yet publicly available as of 2026-05-20] | Plasma | [Information not yet publicly available as of 2026-05-20] |
-| [Information not yet publicly available as of 2026-05-20] | Gas | [Information not yet publicly available as of 2026-05-20] |
+| — | Plasma | — |
+| — | Solid | — |
+| — | Plasma | — |
+| — | Gas | — |
 
 ### Top S-Rank Arcs for Combat Efficiency
 S-Rank Arcs provide the highest base statistics and often feature passives that drastically alter stamina or energy management. For boss encounters, Plasma-type Arcs are generally preferred for their ability to boost ATK and Crit Rate following a successful Redirect Skill. These weapons reward players who master the timing of parries and dodges, effectively turning defensive play into offensive momentum.

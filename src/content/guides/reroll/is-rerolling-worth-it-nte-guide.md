@@ -106,7 +106,7 @@ If you successfully reroll for Hotori, your S-Rank selector choice should be bas
 
 ### Best A-Rank Consolation Prizes
 
-Even if you don't get three S-Ranks, certain A-Rank Espers are powerful enough to carry an account. Look for **[Information not yet publicly available as of 2026-05-20]** or other high-utility A-Ranks that offer elemental resonance with your main S-Rank. Specifically, any A-Rank that provides energy regeneration or off-field elemental application is worth keeping.
+Even if you don't get three S-Ranks, certain A-Rank Espers are powerful enough to carry an account. Look for **undisclosed** or other high-utility A-Ranks that offer elemental resonance with your main S-Rank. Specifically, any A-Rank that provides energy regeneration or off-field elemental application is worth keeping.
 
 ## Time Estimate
 

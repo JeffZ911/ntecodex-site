@@ -79,9 +79,9 @@ Once you enter Hethereau, focus entirely on the main story quest markers.
 After the Fair is unlocked, open your in-game mailbox. You should find rewards including pre-registration milestones, launch celebration gifts, and compensation for any maintenance.
 1. **Check Codes:** Open the settings menu and navigate to the "Redeem" tab. Enter any active launch codes.
 2. **Current Active Codes (May 2026):**
-   - `NTE2026LAUNCH` — [Information not yet publicly available as of 2026-05-16]
-   - `HETHEREAUGIFT` — [Information not yet publicly available as of 2026-05-16]
-   - `SCARBOROUGH777` — [Information not yet publicly available as of 2026-05-16]
+   - `NTE2026LAUNCH` — undisclosed
+   - `HETHEREAUGIFT` — undisclosed
+   - `SCARBOROUGH777` — undisclosed
 3. **Perform Pulls:** Use all your Fabricated Dice on the "Standard Resonance" board. Do not spend Annulith here. If you do not pull an S-Rank, log out and repeat Step 1.
 
 ## Best Starters

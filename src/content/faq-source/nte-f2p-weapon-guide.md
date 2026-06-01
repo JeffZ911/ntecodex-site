@@ -57,13 +57,13 @@ Players can also earn S-Rank Arcs via City Tycoon progression, such as the Conte
 
 ## Detailed Explanation
 
-The weapon system in Neverness to Everness revolves around "Arcs," which are physical manifestations of anomalies that Espers use to channel their abilities. Arcs are categorized by their elemental or physical state: Plasma, Solid, Gas, Liquid, and Synthesis. For an F2P player, the goal is to match the Arc type with the Esper's natural element to unlock resonance bonuses that provide up to a [Information not yet publicly available as of 2026-05-24] damage increase.
+The weapon system in Neverness to Everness revolves around "Arcs," which are physical manifestations of anomalies that Espers use to channel their abilities. Arcs are categorized by their elemental or physical state: Plasma, Solid, Gas, Liquid, and Synthesis. For an F2P player, the goal is to match the Arc type with the Esper's natural element to unlock resonance bonuses that provide up to a undisclosed damage increase.
 
 ### How to Get Free S-Rank Arcs via Anomaly Bosses
 
 The primary source of high-tier F2P Arcs is the Anomaly Hunting system. Hesperia is populated by world bosses known as Anomalies. Each of these bosses provides a "First-Time Clear" reward that includes a specific S-Rank Arc.
 
-1.  **Headless Rider (North Industrial Zone):** This boss only appears during the "Midnight" time cycle. Defeating him rewards the **Raging Flames** Arc. This Arc is highly coveted for Plasma-type Espers like Hathor due to its passive effect, which increases ATK by [Information not yet publicly available as of 2026-05-24] when the user triggers a Burn reaction.
+1.  **Headless Rider (North Industrial Zone):** This boss only appears during the "Midnight" time cycle. Defeating him rewards the **Raging Flames** Arc. This Arc is highly coveted for Plasma-type Espers like Hathor due to its passive effect, which increases ATK by undisclosed when the user triggers a Burn reaction.
 2.  **Black Tome (Academic District Library):** Located deep within the shifting corridors of the library, the Black Tome drops the **Eternal Echo** Arc. This is a Liquid-type Arc that focuses on Skill Cooldown reduction.
 3.  **Cyber-Shade (Downtown Alleys):** Found lurking near the neon-soaked backstreets, this boss drops the **Neon Pulse** Arc, which is excellent for characters who rely on high-speed Basic Attacks.
 4.  **The Weaver (Construction Site):** A Solid-type boss that rewards the **Reality Refuge** Arc. This is the current BiS (Best-in-Slot) F2P weapon for Jiuyuan, as it scales damage based on the user's Total Defense.
@@ -122,14 +122,14 @@ Before you have the power to take down S-Rank Anomaly bosses, you will rely on A
 While this guide focuses on free Arcs, you will eventually earn "Analith" (premium currency) and "Tri-Keys" (pull tickets) through gameplay. 
 
 1.  **Save for Limited Banners:** Never spend Analith on the Standard Arc Research Program. The free S-Rank Arcs mentioned above are sufficient for all current end-game content. Save your pulls for limited banners like "The Ichi-daime" (Nanally's signature Arc).
-2.  **The "Pity" System:** NTE has a 80-pull pity for S-Rank Arcs. As an F2P player, you should only pull when you have enough to guarantee the weapon, which is approximately [Information not yet publicly available as of 2026-05-24] Analith.
+2.  **The "Pity" System:** NTE has a 80-pull pity for S-Rank Arcs. As an F2P player, you should only pull when you have enough to guarantee the weapon, which is approximately undisclosed Analith.
 3.  **Arc Exchange:** When you pull duplicates of B-Rank or A-Rank Arcs, you earn "Residual Trace." This currency can be traded in the shop for additional Tri-Keys or specific A-Rank refinement materials.
 
 ### Refinement for F2P: Maximizing Passive Effects
 
 Refinement is the process of consuming a duplicate of an Arc to increase the strength of its passive ability. For F2P players, this is the secret to high damage.
 
-*   **R5 A-Rank vs. R1 S-Rank:** An R5 **Dangerous Game** provides a [Information not yet publicly available as of 2026-05-24] damage boost, which actually outperforms an R1 **Raging Flames** in specific scenarios.
+*   **R5 A-Rank vs. R1 S-Rank:** An R5 **Dangerous Game** provides a undisclosed damage boost, which actually outperforms an R1 **Raging Flames** in specific scenarios.
 *   **Farming Duplicates:** Since many F2P S-Rank Arcs come from world bosses, you can farm them. However, bosses have a weekly loot limit. It takes five weeks to get a free S-Rank Arc to R5 if you rely solely on boss drops.
 
 ### Weapon Leveling and Breakthrough Tips for F2P Players

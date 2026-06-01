@@ -137,7 +137,7 @@ The most effective way to maintain a healthy Beetle Coin balance is through the 
 
 ### Full Ascension Cost for Zero (Levels 20-70)
 
-Zero is a popular S-Rank standard character who serves as a benchmark for resource planning. Note that regional specialty names for certain tiers are [Information not yet publicly available as of 2026-05-20].
+Zero is a popular S-Rank standard character who serves as a benchmark for resource planning. Note that regional specialty names for certain tiers are undisclosed.
 
 | Level Range | Beetle Coin Cost | Whisper Requirement | Boss Material |
 | :--- | :--- | :--- | :--- |

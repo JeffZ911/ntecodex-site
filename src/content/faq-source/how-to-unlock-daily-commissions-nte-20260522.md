@@ -91,7 +91,7 @@ Each day, the game assigns four specific tasks. While these can vary slightly, t
 
 1.  **Daily Login:** Automatically completed when you sign in.
 2.  **Earn 10,000 Fons:** Can be completed by selling items, completing world events, or collecting revenue from your businesses.
-3.  **Consume Character Pixels:** Requires spending at least [Information not yet publicly available as of 2026-05-22] Pixels on anomaly suppressions or material domains.
+3.  **Consume Character Pixels:** Requires spending at least undisclosed Pixels on anomaly suppressions or material domains.
 4.  **Reach 100 Activity Points:** This is the cumulative goal for completing other tasks in the city.
 
 ### Daily Quest Rewards

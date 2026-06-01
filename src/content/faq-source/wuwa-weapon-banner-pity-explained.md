@@ -125,7 +125,7 @@ As part of the "Awakening Journey" permanent event, players receive a "5-Star St
 **Union Level Rewards Summary:**
 *   **Union Level 5-35:** Various Lustrous Tides and Astrite.
 *   **Union Level 45:** 5-Star Standard Weapon Supply Chest and 1,000 Astrite.
-*   **Union Level 80:** [Information not yet publicly available as of 2026-05-15].
+*   **Union Level 80:** undisclosed.
 
 Because of this free chest, many players choose to wait until Union Level 45 before spending their Lustrous Tides on the standard weapon banner. This allows you to see which weapon you get from the chest first, then use your selector banner to get a different weapon or a duplicate for "Syntonization" (refinement).
 

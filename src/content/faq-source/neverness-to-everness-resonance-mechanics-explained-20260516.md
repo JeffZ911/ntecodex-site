@@ -57,7 +57,7 @@ Mastering both systems involves balancing team elemental types on the Esper Whee
 
 | Element | Primary Interaction | Common Role | Exploration Utility |
 | :--- | :--- | :--- | :--- |
-| **Lakshana** | Stability & Buffing | Support / Sustain | [Information not yet publicly available] |
+| **Lakshana** | Stability & Buffing | Support / Sustain | — |
 | **Cosmos** | Gravity & Pulling | Crowd Control | Dimensional Phasing |
 | **Anima** | Speed & Multi-hit | Main DPS | Wall-walking / Verticality |
 | **Incantation** | Burn & Explosion | Burst DPS | Object Manipulation |
@@ -97,8 +97,8 @@ Duo reactions occur when you swap between two compatible elements. Key reactions
 #### Trio Reactions
 Trio reactions are more complex and require a specific sequence of three characters. These are categorized into "Charged" and "Discord" reactions based on the positioning of the elements on the Esper Wheel.
 
-*   **Charged Reactions:** Triggered by cycling through the "Top Trio" of the wheel ([Information not yet publicly available as of 2026-05-16]). These typically provide massive team-wide buffs and energy regeneration.
-*   **Discord Reactions:** Triggered by cycling through the "Bottom Trio" ([Information not yet publicly available as of 2026-05-16]). These focus on "Stat Shred," reducing enemy defense and speed to near-zero for a short window.
+*   **Charged Reactions:** Triggered by cycling through the "Top Trio" of the wheel (undisclosed). These typically provide massive team-wide buffs and energy regeneration.
+*   **Discord Reactions:** Triggered by cycling through the "Bottom Trio" (undisclosed). These focus on "Stat Shred," reducing enemy defense and speed to near-zero for a short window.
 
 ### The Awakening System: Unlocking A3 and A6 Resonance
 

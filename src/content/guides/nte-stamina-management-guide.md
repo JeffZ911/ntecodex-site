@@ -166,7 +166,7 @@ If you are playing with the starter roster, Mint still shines when paired with *
 | Reaction | Elements | Effect |
 | :--- | :--- | :--- |
 | **Blossom** | Anima + Cosmos | Creates Vita Pistils for AoE damage; expands area with Mint's passive. |
-| **Hexed** | Anima + Incantation | 20% DMG boost and reduces enemy resistance by [Information not yet publicly available as of 2026-05-20]. |
+| **Hexed** | Anima + Incantation | 20% DMG boost and reduces enemy resistance by —. |
 
 ## Rotation
 

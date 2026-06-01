@@ -108,9 +108,9 @@ Arcs are the primary source of "Charge Efficiency," a stat that acts as a multip
 | :--- | :--- | :--- |
 | **Good Boy's Grand Adventure** | Solid | Increases Ultimate charge speed and boosts team ATK after casting an Ultimate. |
 | **Day Off** | Solid | The only S-rank Arc currently featuring **Charge Efficiency** as a secondary stat. |
-| **Bose (Synthesis)** | Bose | [Information not yet publicly available as of 2026-05-20] |
+| **Bose (Synthesis)** | Bose | — |
 | **Youthful Fantasy** | Liquid | Increases Break Intensity; useful for faster Stagger, which provides energy windows. |
-| **Moment of the Galaxy** | S-Rank | [Information not yet publicly available as of 2026-05-20] |
+| **Moment of the Galaxy** | S-Rank | — |
 
 *Note: Characters like **Zero** (Cosmos) and **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** (Incantation) benefit immensely from Arcs that provide flat energy on skill usage or successful parries.*
 

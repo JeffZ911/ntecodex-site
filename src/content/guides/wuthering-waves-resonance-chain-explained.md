@@ -201,7 +201,7 @@ No. Limited character Wavebands only appear in the Afterglow Coral Store while t
 The maximum is six (S6). Obtaining further duplicates after S6 grants a higher amount of Afterglow Coral and Oscillation Coral but provides no further mechanical upgrades to the character.
 
 ### How do I get more Rover Wavebands in Version 1.0+?
-Spectro Rover Wavebands are obtained via the Souvenir Shop in Jinzhou and the Casket Delivery system. Havoc Rover Wavebands are rewarded for completing the "Grand Warstorm" questline and subsequent story updates. [Information not yet publicly available as of 2026-05-13] regarding future element Waveband locations.
+Spectro Rover Wavebands are obtained via the Souvenir Shop in Jinzhou and the Casket Delivery system. Havoc Rover Wavebands are rewarded for completing the "Grand Warstorm" questline and subsequent story updates. undisclosed regarding future element Waveband locations.
 
 ### Is it better to pull for a signature weapon or S1 Resonance Chain?
 Generally, a signature weapon (R1) provides a larger power spike than an S1 sequence for most 5-star characters. Weapons provide a massive base stat increase that benefits all skills, whereas S1 is often a specific utility or niche damage boost.

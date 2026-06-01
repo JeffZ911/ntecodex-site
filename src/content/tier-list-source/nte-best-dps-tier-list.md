@@ -73,11 +73,11 @@ Enemies in NTE possess a "Break" bar that, when depleted, leaves them vulnerable
 
 | Character | Rarity | Element | Arc Type | Base ATK (Lv. 1) |
 | :--- | :--- | :--- | :--- | :--- |
-| [Nanally](/characters/nanally-guide-nte) | S | Anima | Plasma | [Information not yet publicly available] |
-| Jiuyuan | S | Anima | Plasma | [Information not yet publicly available] |
-| [Hotori](/characters/hotori-best-team-nte) | S | Cosmos | Solid | [Information not yet publicly available] |
-| Chiz | S | Cosmos | Solid | [Information not yet publicly available] |
-| Baicang | S | Incantation | Synthesis | [Information not yet publicly available] |
+| [Nanally](/characters/nanally-guide-nte) | S | Anima | Plasma | — |
+| Jiuyuan | S | Anima | Plasma | — |
+| [Hotori](/characters/hotori-best-team-nte) | S | Cosmos | Solid | — |
+| Chiz | S | Cosmos | Solid | — |
+| Baicang | S | Incantation | Synthesis | — |
 
 ## S Tier
 
@@ -94,15 +94,15 @@ In combat, Nanally’s rotation is remarkably fluid. Her ability to stay on the 
 ### Jiuyuan: Standard Banner Dominance
 Jiuyuan is the premier DPS option available on the standard banner. As an Anima character, she fits perfectly into the popular Blossom and Hexed team compositions. Unlike Nanally’s sustained style, Jiuyuan focuses on high-impact burst damage. 
 
-She utilizes a unique mechanic involving gun symbols that appear on the UI; once filled, she can unleash a devastating empowered state. While her [Information not yet publicly available as of 2026-05-17] DoT provides consistent pressure, her Ultimate is her true selling point, capable of clearing entire waves of enemies in a single animation. Jiuyuan is often the top choice for players using their free S-class selector.
+She utilizes a unique mechanic involving gun symbols that appear on the UI; once filled, she can unleash a devastating empowered state. While her undisclosed DoT provides consistent pressure, her Ultimate is her true selling point, capable of clearing entire waves of enemies in a single animation. Jiuyuan is often the top choice for players using their free S-class selector.
 
 ### Hotori: Mastering Time and Space
 Released in the second half of Version 1.0 on the "Misty Tipsy Style" banner, Hotori has completely shifted the Cosmos meta. As a Cosmos/Solid hybrid, she provides a level of control that no other DPS can match. Her "Time Stop" mechanic allows players to freeze enemies in place, effectively creating a safe window for the entire team to unload their skills.
 
 Hotori’s skill-recording multiplier breakdown:
-*   **Recorded Damage Percentage:** [Information not yet publicly available as of 2026-05-17]
-*   **Max Recording Duration:** [Information not yet publicly available as of 2026-05-17]
-*   **Time Stop Duration:** [Information not yet publicly available as of 2026-05-17]
+*   **Recorded Damage Percentage:** undisclosed
+*   **Max Recording Duration:** undisclosed
+*   **Time Stop Duration:** undisclosed
 
 ### Chiz: The Tycoon Powerhouse
 Chiz is a Cosmos/Solid DPS who scales exceptionally well with investment. While she can be obtained via the standard banner, her true potential is unlocked through the City Tycoon system and high Awakening levels. Chiz specializes in off-field damage through her followers, making her a "Sub-DPS" monster who can also carry a team as the primary attacker if built with high CRIT stats.

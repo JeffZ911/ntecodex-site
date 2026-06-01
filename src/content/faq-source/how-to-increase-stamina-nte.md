@@ -116,7 +116,7 @@ While the blue movement bar length is static, the "cost" of movement is variable
 
 *   **Nanally:** Her "Urban Vanguard" trait allows her to run horizontally along buildings. During this animation, the stamina consumption is significantly lower than traditional vertical climbing. If you are struggling with tall skyscrapers, Nanally is the optimal choice.
 *   **Skia:** Skia can enter a shadow state to move across vertical surfaces. While this still consumes stamina, the speed at which she moves means she covers more distance per stamina point than any other character.
-*   **[Information not yet publicly available as of 2026-05-21]:** Future characters are expected to have "stamina recovery" passives, but currently, Nanally and Skia are the gold standard for traversal.
+*   **undisclosed:** Future characters are expected to have "stamina recovery" passives, but currently, Nanally and Skia are the gold standard for traversal.
 
 ### Managing the Weekly City Stamina Reset
 
@@ -138,7 +138,7 @@ When you run out of Character Pixels but still need to farm, you have two primar
 | :--- | :--- | :--- |
 | 1st - 3rd | 50 each | 180 |
 | 4th - 6th | 100 each | 180 |
-| 7th+ | [Information not yet publicly available as of 2026-05-21] | [Information not yet publicly available] |
+| 7th+ | — | — |
 
 Most F2P (Free-to-Play) players should avoid refreshing more than once per day, while competitive players often stop at the third refresh to avoid the 100-Annulith price hike.
 

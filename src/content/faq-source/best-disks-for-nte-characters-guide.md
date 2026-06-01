@@ -156,7 +156,7 @@ The NTE combat system is built on **Esper Cycles**—reactions triggered by comb
 
 With the upcoming release of **Lacrimosa** in Version 1.1, the meta is expected to shift toward Chaos-elemental builds. While **Diabolos** is currently the best set for Chaos damage, early reports suggest a new set focused on "Chaos Infusion" may arrive.
 
-[Information not yet publicly available as of 2026-05-22] regarding the specific names of these new sets, but players are advised to save their Character Pixels and Carrota Coins if they plan to pull for Lacrimosa on June 3rd. For now, focus on perfecting your Anima and Cosmos builds to clear the current Hethereau Anomaly rotations.
+undisclosed regarding the specific names of these new sets, but players are advised to save their Character Pixels and Carrota Coins if they plan to pull for Lacrimosa on June 3rd. For now, focus on perfecting your Anima and Cosmos builds to clear the current Hethereau Anomaly rotations.
 
 ## Sources
 

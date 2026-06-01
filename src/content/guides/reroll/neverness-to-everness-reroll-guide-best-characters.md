@@ -80,7 +80,7 @@ If your email is `username@gmail.com`, the game's registration system will recog
 The "perfect" reroll is subjective, but generally, you should stop if you hit any of the following milestones:
 *   **The Limited S-Rank:** Pulling Hotori from the Limited Board is the gold standard. Since the limited banner has a 100% guarantee, getting her early means you can start saving for the next banner immediately.
 *   **Double S-Rank:** If you manage to pull one S-Rank from the Standard Board and another from the Limited Board within your initial 30 pulls, stop immediately. This is an extremely high-value start.
-*   **Sakiri + Top Tier A-Rank:** If you pull Sakiri (the best support) along with high-constellation A-Ranks like [Information not yet publicly available as of 2026-05-23], the account is worth keeping due to the long-term utility of her buffs.
+*   **Sakiri + Top Tier A-Rank:** If you pull Sakiri (the best support) along with high-constellation A-Ranks like undisclosed, the account is worth keeping due to the long-term utility of her buffs.
 
 ## Best Starters
 

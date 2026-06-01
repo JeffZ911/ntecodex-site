@@ -71,7 +71,7 @@ Players focusing on the main character, Esper Zero, or other Solid-type units sh
 | **Camellia Society** | S-Rank | Synthesis | 666 | 12% CRIT Rate | Silent Garden (HP-Loss CRIT Stacks) |
 | **Day Off** | S-Rank | Solid | 512 | 33% Charge Efficiency | Eclipse (Energy on Kill) |
 | **Song of the Whale** | S-Rank | Plasma | 512 | 27.5% ATK | Deep Blue Sorrow (Broken Enemy DMG) |
-| **Hethereau's Keeper** | S-Rank | Solid | 512 | [Information not yet publicly available] | Officer Whisker (Combat Summon) |
+| **Hethereau's Keeper** | S-Rank | Solid | 512 | — | Officer Whisker (Combat Summon) |
 
 ## Detailed Explanation
 

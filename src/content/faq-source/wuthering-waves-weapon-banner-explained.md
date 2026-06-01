@@ -167,7 +167,7 @@ Aside from spending Astrite, you can accumulate Forging Tides through:
 *   **Tower of Adversity:** Clearing high-level endgame content provides Hazard Records, which can be traded for various rewards, though Astrite is the primary pull currency earned here.
 *   **Admissions Exchange:** Use your Afterglow Coral sparingly. It is often better to save these for limited character pulls unless you are only a few pulls away from a weapon guarantee.
 
-As of May 16, 2026, the current version 3.3 update has introduced new ways to earn currency through the [Information not yet publicly available as of 2026-05-16] event. Be sure to check your mail for anniversary rewards, as Kuro Games typically provides a significant number of Tides during these periods.
+As of May 16, 2026, the current version 3.3 update has introduced new ways to earn currency through the undisclosed event. Be sure to check your mail for anniversary rewards, as Kuro Games typically provides a significant number of Tides during these periods.
 
 ## Sources
 

@@ -70,7 +70,7 @@ F2P players who haven't pulled signature S-Ranks should prioritize the "Day Off"
 S-Rank Arcs are the gold standard for Main DPS builds. Beyond the raw stats, they offer "Ascension Passives" that evolve as you level the disk. 
 
 1.  **Camellia Society (Synthesis):** This disk is tailor-made for the high-risk, high-reward playstyle. It features a base Crit Rate secondary stat, which eases the burden on your Console Module farming. Its passive, "Petal's Sacrifice," triggers whenever the user consumes their own HP, making it the only viable choice for maximizing Baicang's Power Word detonation damage.
-2.  **Youthful Fantasy (Liquid):** Designed for the Break meta, this disk allows Liquid characters like Daffodil to shred enemy shields. Once an enemy enters the "Broken" state, the disk triggers the "Black Book" effect, dealing [Information not yet publicly available as of 2026-05-17] Chaos damage based on the character's total ATK.
+2.  **Youthful Fantasy (Liquid):** Designed for the Break meta, this disk allows Liquid characters like Daffodil to shred enemy shields. Once an enemy enters the "Broken" state, the disk triggers the "Black Book" effect, dealing undisclosed Chaos damage based on the character's total ATK.
 3.  **Ichi-daime's Authority (Anima):** Nanally’s signature disk focuses on her aerial mobility. It increases the duration of anti-gravity fields and ensures that every hit during her skateboard combo scales with her Anima resonance level.
 
 ### Best F2P and Transition Disks

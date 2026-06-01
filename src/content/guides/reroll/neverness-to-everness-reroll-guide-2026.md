@@ -109,7 +109,7 @@ When rerolling, your primary targets should be S-Rank characters that offer long
 
 ### A-Rank Gems: High-Value Consolation Prizes
 
-While you are aiming for S-Ranks, certain A-Rank characters can make a "mediocre" roll worth keeping if you hit multiple copies. [Information not yet publicly available as of 2026-05-15] regarding the specific A-Rank names that dominate the current support meta, but generally, look for characters that provide off-field healing or energy regeneration.
+While you are aiming for S-Ranks, certain A-Rank characters can make a "mediocre" roll worth keeping if you hit multiple copies. undisclosed regarding the specific A-Rank names that dominate the current support meta, but generally, look for characters that provide off-field healing or energy regeneration.
 
 ### Who to Pick with Your 50-Pull Selector
 
@@ -117,11 +117,11 @@ Do not use your S-Rank Selector immediately. The best strategy is to finish your
 
 | Character | Element | Role | Reroll Priority |
 | :--- | :--- | :--- | :--- |
-| **Hotori** | [Information not yet publicly available as of 2026-05-15] | Time-Manipulation / DPS | S+ (Must Have) |
-| **Sakiri** | [Information not yet publicly available as of 2026-05-15] | ATK Buffer / Support | S+ (High Priority) |
-| **Jiuyuan** | [Information not yet publicly available as of 2026-05-15] | Burst DPS / CC | S (Strong) |
-| **Nanally** | [Information not yet publicly available as of 2026-05-15] | Sustained DPS | S (Strong) |
-| **Chiz** | [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | Avoid (Free at Level 18) |
+| **Hotori** | — | Time-Manipulation / DPS | S+ (Must Have) |
+| **Sakiri** | — | ATK Buffer / Support | S+ (High Priority) |
+| **Jiuyuan** | — | Burst DPS / CC | S (Strong) |
+| **Nanally** | — | Sustained DPS | S (Strong) |
+| **Chiz** | — | — | Avoid (Free at Level 18) |
 
 ## Time Estimate
 

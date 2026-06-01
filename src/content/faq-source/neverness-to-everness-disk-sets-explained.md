@@ -115,7 +115,7 @@ While the "best" set can vary based on your specific Esper, the following sets a
 *   **Fireflies and the Forest:** The premier set for Anima DMG dealers. The 4-piece bonus provides a significant boost to Elemental DMG after using a Skill. Ideal for Nanally.
 *   **Speedy Hedgehog:** Focuses on Attack Speed and Movement Speed. This set is excellent for characters who rely on Normal Attack strings to generate energy or trigger passives.
 *   **Lost Radiance:** A top-tier support set. The 4-piece bonus grants an ATK buff to the entire team whenever the wearer uses their Ultimate. This is essential for high-level "Cycle" rotations.
-*   **[Information not yet publicly available as of 2026-05-17]**: Several other sets exist for niche builds like Physical DMG or pure Shielding, but their optimal grid configurations are still being tested by the community.
+*   **undisclosed**: Several other sets exist for niche builds like Physical DMG or pure Shielding, but their optimal grid configurations are still being tested by the community.
 
 ### Optimization Tip: Sub-stat Transparency
 

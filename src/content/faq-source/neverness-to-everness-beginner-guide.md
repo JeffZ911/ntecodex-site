@@ -141,7 +141,7 @@ For the current "Misty Tipsy Style" banner featuring Hotori, she excels in high-
 
 ### Version 1.1 Outlook: Lacrimosa and Chaos
 
-As of May 20, 2026, the community is looking forward to the Version 1.1 update. Official teasers have confirmed two new characters: Lacrimosa and Chaos. While their specific skill sets are [Information not yet publicly available as of 2026-05-20], leaks suggest they will introduce new elemental interactions that may shift the current meta away from Blossom-heavy teams. If you have already secured Hotori and Nanally, it may be wise to save your Annulith for these upcoming releases.
+As of May 20, 2026, the community is looking forward to the Version 1.1 update. Official teasers have confirmed two new characters: Lacrimosa and Chaos. While their specific skill sets are undisclosed, leaks suggest they will introduce new elemental interactions that may shift the current meta away from Blossom-heavy teams. If you have already secured Hotori and Nanally, it may be wise to save your Annulith for these upcoming releases.
 
 ### Daily and Weekly Routine
 

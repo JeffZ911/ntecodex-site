@@ -48,11 +48,11 @@ The current roster offers a variety of support options depending on your current
 
 | Character | Rarity | Primary Utility | Element |
 | :--- | :--- | :--- | :--- |
-| Sakiri | S-Class | ATK Buffs / Crowd Control | [Information not yet publicly available as of 2026-05-14] |
+| Sakiri | S-Class | ATK Buffs / Crowd Control | — |
 | Haniel | A-Class | Team Buffs / Synergy | Psyche |
-| Fadia | A-Class | Pure Healing / Sustain | [Information not yet publicly available as of 2026-05-14] |
-| Adler | A-Class | Shielding / DEF Scaling | [Information not yet publicly available as of 2026-05-14] |
-| [Hotori](/characters/hotori-best-team-nte) | [Information unavailable] | Utility / Support | [Information not yet publicly available as of 2026-05-14] |
+| Fadia | A-Class | Pure Healing / Sustain | — |
+| Adler | A-Class | Shielding / DEF Scaling | — |
+| [Hotori](/characters/hotori-best-team-nte) | [Information unavailable] | Utility / Support | — |
 
 ## Best Weapons
 
@@ -63,7 +63,7 @@ In Neverness to Everness, weapons are referred to as Arcs. For support units, th
 
 ### Top S-Rank Arcs for Buffers
 
-For high-end builds, S-Rank Arcs offer the most potent passives. The "Day Off" Arc is currently considered the best-in-slot for utility-focused supports. It belongs to the Solid type and provides a flat 30% ATK boost to the entire team, making it the gold standard for Sakiri or Esper Zero builds. Another high-tier option is "Good Boy's Grand Adventure," a Gas-type Arc. This weapon enhances team utility by [Information not yet publicly available as of 2026-05-14], which is particularly useful in teams that rely on frequent character swapping.
+For high-end builds, S-Rank Arcs offer the most potent passives. The "Day Off" Arc is currently considered the best-in-slot for utility-focused supports. It belongs to the Solid type and provides a flat 30% ATK boost to the entire team, making it the gold standard for Sakiri or Esper Zero builds. Another high-tier option is "Good Boy's Grand Adventure," a Gas-type Arc. This weapon enhances team utility by undisclosed, which is particularly useful in teams that rely on frequent character swapping.
 
 For healers like Fadia, the "Call of the Twisted City" is the preferred choice. This Arc increases the character's Healing Bonus, ensuring that even minimal field time is enough to top off the team's health bars. While its offensive utility is lower than "Day Off," the added sustain is vital for players still learning boss mechanics.
 

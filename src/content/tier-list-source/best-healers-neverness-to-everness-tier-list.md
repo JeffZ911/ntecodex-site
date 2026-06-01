@@ -71,7 +71,7 @@ Fadia is currently the premier sustain unit in Neverness to Everness. Utilizing 
 
 The defining feature of Fadia’s kit is damage redirection. A significant portion of the damage taken by her allies is diverted to her own health bar. While this might seem risky, her Ultimate is designed to restore her HP based on the total damage she has mitigated during the combat cycle. This creates a loop where the team is virtually indestructible as long as Fadia can cycle her Ultimate.
 
-*   **Skill Breakdown:** Her barriers provide [Information not yet publicly available as of 2026-05-21] damage reduction.
+*   **Skill Breakdown:** Her barriers provide undisclosed damage reduction.
 *   **Ultimate:** "Apostle of Love and Death" clears her accumulated "Debt" (redirected damage) and heals the entire party.
 *   **Best For:** High-difficulty boss fights where one-shot mechanics are a threat.
 
@@ -81,7 +81,7 @@ Jiuyuan represents the pinnacle of role compression. Classified as an Anima/Soli
 
 This "leech" style of sustain is incredibly potent because it scales with the team's offensive output. In fast-paced encounters, Jiuyuan allows you to maintain an aggressive playstyle without stopping to cast dedicated healing spells.
 
-*   **Skill Breakdown:** "Rose Pact" marks up to [Information not yet publicly available as of 2026-05-21] targets simultaneously.
+*   **Skill Breakdown:** "Rose Pact" marks up to undisclosed targets simultaneously.
 *   **Ultimate:** Deals massive Anima damage while refreshing all active Pacts on the field.
 *   **Best For:** Speed-run compositions and teams that focus on high hit-frequency.
 
@@ -95,7 +95,7 @@ Haniel is an A-Rank Psyche/Solid unit who leans more toward the "Support" side o
 
 Haniel’s "Hootie" is a summon that attacks alongside the active character. Every few hits, Hootie releases a pulse of energy that restores a small percentage of the active character's HP. While it cannot save a team from the brink of death as quickly as Fadia can, it provides excellent "maintenance" healing.
 
-*   **Buff Duration:** Her primary ATK buff lasts for [Information not yet publicly available as of 2026-05-21] seconds.
+*   **Buff Duration:** Her primary ATK buff lasts for undisclosed seconds.
 *   **Hootie Mechanics:** The follow-up attack frequency is tied to the active character's attack speed.
 *   **Best For:** F2P players who need a reliable general-purpose support.
 
@@ -105,8 +105,8 @@ Adler is unique because he provides almost no direct healing. Instead, he is a d
 
 His shields scale directly off his Defense stat, making him relatively easy to build for F2P players. As long as his shields are active, characters gain increased resistance to stagger, which is vital for maintaining combos against aggressive bosses in Hethereau.
 
-*   **Shield Scaling:** Adler's shield absorbs [Information not yet publicly available as of 2026-05-21] damage based on his total DEF.
-*   **Utility:** Provides a passive [Information not yet publicly available as of 2026-05-21]% increase to the team's Physical Resistance.
+*   **Shield Scaling:** Adler's shield absorbs undisclosed damage based on his total DEF.
+*   **Utility:** Provides a passive undisclosed increase to the team's Physical Resistance.
 *   **Best For:** Players struggling with boss mechanics that cause frequent knockbacks or interruptions.
 
 ## B Tier
@@ -114,7 +114,7 @@ His shields scale directly off his Defense stat, making him relatively easy to b
 ![B Tier](/img/best-healers-neverness-to-everness-tier-list/inline-4.webp)
 
 
-[Information not yet publicly available as of 2026-05-21]
+undisclosed
 
 As of the current May 2026 update, the distinction between high-tier supports and niche healers is quite sharp. Most characters currently categorized as "supports" either provide enough utility to reach A Tier or are limited enough in their application to fall into C Tier. We expect the B Tier to fill out as more specialized units are released in Version 1.1 and beyond.
 
@@ -131,8 +131,8 @@ Edgar is a dedicated Cosmos/Liquid healer. On paper, his raw healing numbers are
 
 Edgar’s primary source of sustain is his Ultimate, "Circle of Healing." This creates a large, glowing zone on the ground that restores massive amounts of HP to anyone standing inside it. The problem is that bosses in NTE are highly mobile, and many endgame mechanics force the player to constantly move to avoid "red floor" AOE attacks. If you are forced to leave Edgar’s circle, his healing drops to zero.
 
-*   **Ultimate Cooldown:** [Information not yet publicly available as of 2026-05-21].
-*   **Healing Radius:** [Information not yet publicly available as of 2026-05-21].
+*   **Ultimate Cooldown:** undisclosed.
+*   **Healing Radius:** undisclosed.
 *   **Investment Advice:** Only invest in Edgar if you have no other sustain options and are struggling with stationary boss encounters. He is a "last resort" for players who missed the Fadia or Jiuyuan banners.
 
 ## Recent Changes

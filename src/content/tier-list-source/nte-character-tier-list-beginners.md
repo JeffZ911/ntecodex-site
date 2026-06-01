@@ -81,7 +81,7 @@ Nanally is the featured character of the Version 1.0 limited banner, "The Ichi-d
 
 When Nanally uses her Resonance Skill, she calls forth a spectral entity that performs follow-up attacks whenever your active character deals damage. This allows Nanally to provide massive off-field pressure while another unit is on the field. Furthermore, her Ultimate provides a team-wide Critical Rate buff of [exact value pending official confirmation], making her the cornerstone of any high-end crit-based build.
 
-*   **Best Arc:** [Information not yet publicly available as of 2026-05-14]
+*   **Best Arc:** undisclosed
 *   **Core Synergy:** Works exceptionally well with Cosmos units to trigger the "Supernova" reaction.
 
 ### Sakiri: Why Every Team Needs This Support
@@ -199,7 +199,7 @@ The introduction of the Tycoon system as a core progression path has made Chiz a
 
 ### Looking Ahead: Version 1.1 Character Leaks
 
-While we are currently in Version 1.0, teasers for Version 1.1 have already begun to appear in the game's official communications. New characters [Information not yet publicly available as of 2026-05-14] and [Information not yet publicly available as of 2026-05-14] are rumored to be Chaos and Lakshana units respectively. This could potentially shift the value of current Psyche and Lakshana units like Hathor and Fadia, as they may finally get the elemental partners they need to trigger more powerful reactions.
+While we are currently in Version 1.0, teasers for Version 1.1 have already begun to appear in the game's official communications. New characters undisclosed and undisclosed are rumored to be Chaos and Lakshana units respectively. This could potentially shift the value of current Psyche and Lakshana units like Hathor and Fadia, as they may finally get the elemental partners they need to trigger more powerful reactions.
 
 For now, beginners should focus on building a solid core of Nanally, Sakiri, and a dedicated Breaker like Daffodil to ensure they can handle everything Hethereau has to throw at them.
 

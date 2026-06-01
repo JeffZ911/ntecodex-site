@@ -70,10 +70,10 @@ Choosing the right Cartridge determines the combat role of your character. While
 
 | Cartridge Set Name | 2-pc Effect (Epic) | 4-pc Effect (Legendary) | Best For |
 | :--- | :--- | :--- | :--- |
-| **Lost Radiance** | +15% All Elemental DMG | [Information not yet publicly available as of 2026-05-21] | Main DPS (Zero, Mint) |
+| **Lost Radiance** | +15% All Elemental DMG | — | Main DPS (Zero, Mint) |
 | **Speedy Hedgehog** | +10% Energy Regeneration | Increases active character's ATK by [information unavailable] for 12s after using an Esper Skill. | Supports and Off-fielders |
 | **Devil's Blood: Curse** | +15% ATK | Dealing DMG applies a 'Curse' stack, increasing DMG taken by the enemy by 2% (Max 10 stacks). | Sub-DPS / Shield Breakers |
-| **Guardian Protocol** | +20% DEF | [Information not yet publicly available as of 2026-05-21] | Defensive Tanks |
+| **Guardian Protocol** | +20% DEF | — | Defensive Tanks |
 | **Flowing Neon** | +15% Cycle Intensity | Increases the DMG of the next Esper Cycle reaction by [exact value pending official confirmation]. | Elemental Reaction Specialists |
 
 ### Character Synergies and Module 'Type' Bonuses

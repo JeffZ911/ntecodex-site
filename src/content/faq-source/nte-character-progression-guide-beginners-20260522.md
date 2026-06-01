@@ -83,7 +83,7 @@ Hunter Level represents your overall account progress, earned by completing stor
 | 20 | 2 | 40 | Ascension Quest: Part 1 |
 | 30 | 3 | 40 | S-Rank Console farming starts |
 | 40 | 4 | 50 | Ascension Quest: Part 2 |
-| 45 | 5 | 60 | [Information not yet publicly available as of 2026-05-22] |
+| 45 | 5 | 60 | — |
 | 50 | 6 | 70 | Difficulty V Anomaly Zones |
 
 ### Esper Leveling and Ascension Mechanics

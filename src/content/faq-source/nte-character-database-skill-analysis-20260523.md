@@ -88,7 +88,7 @@ The interaction between these elements produces six core Duo Reactions:
 | **Nova** | Cosmos + Lakshana | Triggers a gravitational explosion that pulls enemies toward the center. |
 | **Remora** | Chaos + Psyche | Reduces enemy defense and slows movement speed significantly. |
 | **Hexed** | Incantation + Chaos | Applies a curse that detonates after the enemy takes a certain number of hits. |
-| **Stain** | Psyche + Cosmos | [Information not yet publicly available as of 2026-05-23] |
+| **Stain** | Psyche + Cosmos | — |
 
 ### Playable Character Database (Launch Roster)
 

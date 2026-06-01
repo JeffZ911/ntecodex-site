@@ -89,7 +89,7 @@ When building Edgar, your primary goal is to reach a specific ATK threshold to e
 
 Jiuyuan is an Anima-type character who primarily functions as a sub-DPS. However, once you unlock her **A2 Awakening**, she gains the ability to heal the party based on a percentage of the Anima damage she deals.
 
-*   **Set Recommendation:** 2-piece Speedy Hedgehog / 2-piece [Information not yet publicly available as of 2026-05-24].
+*   **Set Recommendation:** 2-piece Speedy Hedgehog / 2-piece undisclosed.
 *   **Module Focus:** Anima Damage Bonus and Critical Rate.
 *   **Why it works:** Jiuyuan's healing is "leech-based." If she doesn't deal damage, she doesn't heal. Therefore, building her with pure healing disks is actually counter-productive. You want disks that increase her personal damage output so that her A2 passive provides larger restoration chunks to the team.
 
@@ -148,12 +148,12 @@ Building a healer requires looking beyond just the disks. Your choice of weapon 
 The right Arc can bridge the gap between a mediocre healer and a top-tier support.
 *   **Call of the Twisted City:** This is currently the best-in-slot Arc for Edgar. It provides a massive boost to flat ATK and increases the duration of all "Field" effects by [information unavailable] seconds.
 *   **Royal:** A versatile 4-star Arc that increases Charge Efficiency. It is the best "f2p" (free-to-play) option for any healer who relies on their Ultimate to save the team.
-*   **[Information not yet publicly available as of 2026-05-24]:** There are rumors of a new Cosmos-specific Arc releasing in the 1.2 update that may power-creep Edgar’s current options.
+*   **undisclosed:** There are rumors of a new Cosmos-specific Arc releasing in the 1.2 update that may power-creep Edgar’s current options.
 
 ### Top Team Comps for Survival
 
 1.  **The "Immortal" Comp:** Fadia (Tank), Edgar (Healer), and [Nanally](/characters/nanally-guide-nte) (Main DPS). This team uses Fadia's damage redirection and Edgar's ATK-scaled healing to ensure Nanally can stay on the field indefinitely.
-2.  **The Esper Shred Comp:** Jiuyuan (Hybrid), Edgar (Healer), and [Information not yet publicly available as of 2026-05-24]. This team focuses on triggering Blossom reactions constantly, using the healing as a byproduct of their offensive pressure.
+2.  **The Esper Shred Comp:** Jiuyuan (Hybrid), Edgar (Healer), and undisclosed. This team focuses on triggering Blossom reactions constantly, using the healing as a byproduct of their offensive pressure.
 
 ### Healing vs. Shielding: Which is Better?
 

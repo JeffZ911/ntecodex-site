@@ -116,8 +116,8 @@ This team is designed to keep as many Vita Pistils on the field as possible. Nan
 | :--- | :--- | :--- | :--- |
 | **Nanally** | Main DPS | Anima | The Ichi-daime (Signature) |
 | **Jiuyuan** | Sub-DPS | Anima | Good Boys Grand Adventure |
-| **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | Support/CC | Incantation | [Information not yet publicly available] |
-| **Zero** | Enabler | Cosmos | [Information not yet publicly available] |
+| **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | Support/CC | Incantation | — |
+| **Zero** | Enabler | Cosmos | — |
 
 **Rotation Strategy:**
 Start with Sakiri to group enemies with her staff skill. Swap to Zero to apply the Cosmos primer. Immediately swap to Nanally to trigger Blossom. Nanally’s "Ichi-daime's Authority" state allows her to run on walls and ceilings, delivering heavy punches while the Blossom turrets and Jiuyuan’s off-field Anima strikes provide constant pressure.
@@ -128,10 +128,10 @@ This is the premier team for tackling high-level bosses in "Beyond the Rails." I
 **Baicang Discord Team Loadout:**
 | Character | Role | Element | Best-in-Slot Arc |
 | :--- | :--- | :--- | :--- |
-| **Baicang** | Main DPS | Incantation | [Information not yet publicly available] |
-| **Daffodil** | Shield Break | Chaos | [Information not yet publicly available] |
+| **Baicang** | Main DPS | Incantation | — |
+| **Daffodil** | Shield Break | Chaos | — |
 | **Sakiri** | Buffer | Incantation | Good Boys Grand Adventure |
-| **Haniel** | Support | Psyche | [Information not yet publicly available] |
+| **Haniel** | Support | Psyche | — |
 
 **Rotation Strategy:**
 Apply Scorch using Sakiri and Daffodil. Once the enemy is scorched, swap to Haniel to trigger Nova. The resulting Discord reaction will rapidly deplete the boss's stagger bar. Switch to Baicang during the Break window; his "Judgment of Autumn" domain executes enemies below 10% HP (5% for bosses), making him the ultimate finisher. Note that Baicang drains his own HP to power his "Power Words," so Haniel’s healing is vital here.
@@ -142,9 +142,9 @@ Hotori is unique because her Ultimate, "World's Tide," has no energy cost but re
 **Hotori Comfort Team Loadout:**
 | Character | Role | Element | Best-in-Slot Arc |
 | :--- | :--- | :--- | :--- |
-| **Hotori** | Sub-DPS/Buff | Cosmos | [Information not yet publicly available] |
-| **Fadia** | Survival/Tank | Psyche | [Information not yet publicly available] |
-| **Haniel** | Healer/Buff | Psyche | [Information not yet publicly available] |
+| **Hotori** | Sub-DPS/Buff | Cosmos | — |
+| **Fadia** | Survival/Tank | Psyche | — |
+| **Haniel** | Healer/Buff | Psyche | — |
 | **Nanally** | Main DPS | Anima | The Ichi-daime |
 
 **Rotation Strategy:**

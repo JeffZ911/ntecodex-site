@@ -79,7 +79,7 @@ The City Tycoon Level (sometimes referred to as Appraisal Level in early tutoria
 
 Combat in NTE revolves around the "Esper Cycle," a system where four characters swap in and out to trigger elemental reactions. Each Esper belongs to one of six elemental types: Cosmos, Incantation, Anima, Chaos, Psyche, and Lakshana. 
 
-Triggering reactions is the key to dealing massive damage to "Anomaly Bosses." For example, applying Cosmos to a target and following up with Chaos triggers a [Information not yet publicly available as of 2026-05-24] effect that shreds enemy shields.
+Triggering reactions is the key to dealing massive damage to "Anomaly Bosses." For example, applying Cosmos to a target and following up with Chaos triggers a undisclosed effect that shreds enemy shields.
 
 #### Table of Esper Elements and Interactions
 

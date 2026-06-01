@@ -61,7 +61,7 @@ The Novis ST-X 950 motorcycle breaks these rules. It is currently the most versa
 | :--- | :--- | :--- | :--- |
 | Rover A1 | Story Progression | Free (Early Game) | Basic city commuting and tutorial completion. |
 | Novus C2000 | Vehicle Showroom | 50,000 Fons | High-speed highway travel between districts. |
-| Novis ST-X 950 | Limited Banner / Shop | [Information not yet publicly available as of 2026-05-24] | Off-road traversal and precision maneuvering. |
+| Novis ST-X 950 | Limited Banner / Shop | — | Off-road traversal and precision maneuvering. |
 
 ### The Witch's House: Tracking Oracle Stones and Birds
 

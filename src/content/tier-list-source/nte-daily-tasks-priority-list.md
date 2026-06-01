@@ -148,7 +148,7 @@ Interacting with characters and giving them gifts is the primary way to increase
 **Best Gifts for Priority Characters:**
 *   **Edgar:** Classic Vinyl, Vintage Camera.
 *   **Chiz:** Spicy Ramen, Tech Gadgets.
-*   **Hotori:** [Information not yet publicly available as of 2026-05-21].
+*   **Hotori:** undisclosed.
 
 ### Busting Illegal Activities for Annulith
 Scattered throughout the city are Garuda gang members engaging in illegal activities. Defeating these groups can drop "Goodheart Crispy Mouse Cookies." These items can be traded in at specific NPCs for small amounts of Annulith. While the drop rate is not 100%, hitting the major Garuda spawn points daily is a viable way for dedicated players to squeeze out extra pulls.

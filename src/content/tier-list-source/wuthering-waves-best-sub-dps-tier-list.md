@@ -103,7 +103,7 @@ Mortefi is the gold standard for 4-star Sub-DPS units, often outperforming 5-sta
 
 The Shorekeeper is a unique hybrid that blurs the line between Support and Sub-DPS. While she provides healing, her primary value in high-end play is her ability to significantly boost the team's offensive stats through her Resonance Liberation field.
 
-*   **Outro Skill:** [Information not yet publicly available as of 2026-05-14] regarding specific Deepen values, but her primary contribution is a universal Crit Rate and Crit DMG buff for the entire party.
+*   **Outro Skill:** undisclosed regarding specific Deepen values, but her primary contribution is a universal Crit Rate and Crit DMG buff for the entire party.
 *   **Utility:** She acts as a "reset" character. If your rotation goes off-track, her quick Concerto generation and universal buffs allow any Main DPS to regain momentum. She is a staple in the Tower of Adversity: Hazard Zone where elemental resistances might hinder specialized Sub-DPS units.
 
 ### Chart: S-Tier Coordinated Attack Damage Scaling
@@ -147,7 +147,7 @@ Danjin functions as a "Havoc Carry" disguised as a Sub-DPS. She has the highest 
 
 Roccia is a newer addition to the roster, specializing in Havoc team compositions. 
 
-*   **Outro Skill:** [Information not yet publicly available as of 2026-05-14].
+*   **Outro Skill:** undisclosed.
 *   **Role:** She is intended to amplify Havoc damage and Basic Attack sequences. While her personal damage is competitive, she currently sits in A-tier because her rotation speed is slightly slower than Sanhua’s, making her less efficient in "quick-swap" teams.
 
 ### Comparison: Sanhua vs. Yangyang Rotation Times
@@ -180,7 +180,7 @@ Aalto provides a 23% Aero DMG Deepen buff, making him a potential alternative fo
 
 Carlotta is a Glacio unit that bridges the gap between a secondary DPS and a support. 
 
-*   **Outro Skill:** [Information not yet publicly available as of 2026-05-14].
+*   **Outro Skill:** undisclosed.
 *   **Performance:** While she offers quick-swap potential, she currently lacks the massive "Deepen" multipliers that make Zhezhi or Sanhua more attractive for Glacio carries. She is most effective in triple-Glacio compositions where elemental resonance is the priority.
 
 ### Table: Vibration Strength Depletion Rates by Character
@@ -221,7 +221,7 @@ The landscape of Wuthering Waves has shifted significantly with the transition i
 ### Version 2.4 - 3.0 Balance Patch Notes Summary
 
 *   **Concerto Buffs:** Older 4-star units like Chixia and Yangyang received a 15% increase to base Concerto generation from Resonance Skills to help them keep up with 5-star units.
-*   **Coordinated Attack Echoes:** A new 5-piece Echo set, [Information not yet publicly available as of 2026-05-14], was introduced. It increases Coordinated Attack damage by 30% after the user triggers an Outro Skill.
+*   **Coordinated Attack Echoes:** A new 5-piece Echo set, undisclosed, was introduced. It increases Coordinated Attack damage by 30% after the user triggers an Outro Skill.
 *   **Tower of Adversity:** The May 2026 Hazard Zone features a "Resonance Skill Frequency" buff, which has pushed Zhezhi and Yinlin even further ahead of the pack.
 
 ### The Rise of Echo Skill DMG

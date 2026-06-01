@@ -64,7 +64,7 @@ Additionally, "Sora Hoshina" is a prominent guide writer and community figure fo
 | **Main Protagonist** | Zero (Male/Female) | Sora |
 | **Poster Character** | Nanally | Lyra |
 | **Setting** | Urban Supernatural (Hethereau) | Space Fantasy |
-| **Developer** | Hotta Studio | [Information not yet publicly available] |
+| **Developer** | Hotta Studio | — |
 | **Gacha System** | Scarborough Fair (Dice-Roll) | Standard Banner Pulls |
 
 ## Detailed Explanation
@@ -88,7 +88,7 @@ Nanally serves as the "poster girl" for NTE and is the first character many play
 
 | Slot Type | Recommended Item | Effect / Bonus |
 | :--- | :--- | :--- |
-| **Arc (Weapon)** | [Information not yet publicly available] | [information unavailable] |
+| **Arc (Weapon)** | — | [information unavailable] |
 | **Cartridge 1 (Offense)** | Kinetic Overdrive | Increases Anima DMG by 15% |
 | **Cartridge 2 (Utility)** | Hethereau Transit | Reduces Cooldown of Esper Skill |
 | **Cartridge 3 (Defense)** | Urban Shielding | Increases Max HP by 10% |
@@ -162,9 +162,9 @@ To speed up your progress, ensure you are completing the daily "Hethereau Dispat
 Finally, keep an eye out for the latest Neverness to Everness redemption codes for May 2026. These codes often provide free Fons and upgrade materials that are crucial for navigating the Scarborough Fair gacha board without spending real currency.
 
 **Current Active Codes (May 2026):**
-*   **NTE777** — [Information not yet publicly available]
-*   **HETHEREAU2026** — [Information not yet publicly available]
-*   **NANALLYGIFT** — [Information not yet publicly available]
+*   **NTE777** — undisclosed
+*   **HETHEREAU2026** — undisclosed
+*   **NANALLYGIFT** — undisclosed
 
 ## Sources
 

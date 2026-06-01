@@ -48,9 +48,9 @@ Lingsha is a Fire-type character following the Path of Abundance, specifically d
 
 Lingsha’s true power lies in her Ultimate, which inflicts the "Befog" debuff on all enemies. This increases the Break Damage they receive by a fixed percentage (typically around 25% at level 10). Because Lingsha scales with Break Effect, she contributes significant personal damage, making her the definitive upgrade for Firefly and Boothill teams. Her ability to deal massive toughness damage to multiple enemies makes her invaluable in the Apocalyptic Shadow game mode.
 
-### [Information not yet publicly available as of 2026-05-12]: The Remembrance Specialist
+### undisclosed: The Remembrance Specialist
 
-Regarding the character identified in the meta as [Information not yet publicly available as of 2026-05-12], this unit is categorized as a Wind-type healer utilizing a unique interaction with the Path of Remembrance. This character is reported to use a "memosprite" named [Information not yet publicly available as of 2026-05-12] to provide consistent team-wide healing. While the outline suggests this character provides sub-DPS output, specific multipliers and trace values remain [Information not yet publicly available as of 2026-05-12].
+Regarding the character identified in the meta as undisclosed, this unit is categorized as a Wind-type healer utilizing a unique interaction with the Path of Remembrance. This character is reported to use a "memosprite" named undisclosed to provide consistent team-wide healing. While the outline suggests this character provides sub-DPS output, specific multipliers and trace values remain undisclosed.
 
 ### Aventurine & Fu Xuan: The Preservation Titans
 
@@ -130,7 +130,7 @@ The landscape of sustain units has shifted dramatically from Version 1.0 to Vers
 
 ### The Impact of the 3.X Meta
 
-The introduction of the [Information not yet publicly available as of 2026-05-12] Path and the "Memosprite" mechanic has changed how we view turn economy. Sustain units like the one mentioned in the S-Tier section now contribute to the action bar with their own independent summons. This shift allows for "Summon-based sustain," where the healing and cleansing are not tied to the character’s own turn, providing a safety net against high-speed enemies.
+The introduction of the undisclosed Path and the "Memosprite" mechanic has changed how we view turn economy. Sustain units like the one mentioned in the S-Tier section now contribute to the action bar with their own independent summons. This shift allows for "Summon-based sustain," where the healing and cleansing are not tied to the character’s own turn, providing a safety net against high-speed enemies.
 
 ### The Break Meta Evolution
 
@@ -140,7 +140,7 @@ Version 2.5 marked a turning point with the release of Lingsha. Before her, Gall
 *   **v1.0 - v1.1:** Natasha, Bailu, Gepard, and Luocha (The "Pure Healing" Era).
 *   **v1.3 - v1.6:** Fu Xuan and Huohuo (The "Offensive Utility" Era).
 *   **v2.1 - v2.5:** Aventurine, Gallagher, and Lingsha (The "Archetype Synergy" Era).
-*   **v3.0 - v3.3:** The rise of [Information not yet publicly available as of 2026-05-12] and the Memosprite system.
+*   **v3.0 - v3.3:** The rise of undisclosed and the Memosprite system.
 
 ### The Future of Hybrid Sustain Units
 

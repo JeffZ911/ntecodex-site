@@ -81,7 +81,7 @@ S-Tier characters represent the pinnacle of the current meta. These units are ei
 
 [Nanally](/characters/nanally-guide-nte) remains the undisputed queen of damage following her debut in "The Ichi-daime" banner. As an Anima-element character with a Plasma Arc Type, she benefits from some of the highest Critical Damage scaling in the game. Her kit revolves around her "Underboss" follow-up attacks, which summon automated combat drones that mirror her movements and attacks.
 
-Nanally’s mobility is her greatest asset. She can maintain high DPS while staying airborne, effectively avoiding many ground-based boss AoEs in Hethereau. Her damage scaling is particularly potent because the Underboss summons inherit [Information not yet publicly available as of 2026-05-19] of her base Attack stat, allowing for exponential growth as players upgrade her Plasma-type weaponry.
+Nanally’s mobility is her greatest asset. She can maintain high DPS while staying airborne, effectively avoiding many ground-based boss AoEs in Hethereau. Her damage scaling is particularly potent because the Underboss summons inherit undisclosed of her base Attack stat, allowing for exponential growth as players upgrade her Plasma-type weaponry.
 
 | Nanally Level | Skill Multiplier (Primary) | Base Attack (Approx.) |
 | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ While she lacks the verticality of Nanally, Jiuyuan’s raw multipliers on her u
 
 ### Hotori: The Mimicry Specialist
 
-Released on May 13, 2026, [Hotori](/characters/hotori-best-team-nte) has completely shifted the meta. As a Cosmos-element character with a Solid Arc Type, she functions as a unique sub-DPS. Her primary mechanic allows her to "record" the skills used by her allies and replay them at [Information not yet publicly available as of 2026-05-19] effectiveness.
+Released on May 13, 2026, [Hotori](/characters/hotori-best-team-nte) has completely shifted the meta. As a Cosmos-element character with a Solid Arc Type, she functions as a unique sub-DPS. Her primary mechanic allows her to "record" the skills used by her allies and replay them at undisclosed effectiveness.
 
 This effectively allows players to double their most powerful attacks. Furthermore, Hotori provides time dilation utility, slowing down enemies within a specific radius, which makes her an essential pick for clearing the tight timers in "High Risk Commission" floor 12.
 
@@ -144,7 +144,7 @@ B-Tier characters are niche specialists. They are often the best at one specific
 Daffodill (Chaos/Plasma) is designed for one thing: destroying bosses during their "Break" window. When an enemy's shield is depleted, Daffodill can unleash a burst of Chaos damage that surpasses even Nanally. However, her long cooldowns and lack of consistent damage outside of these windows make her difficult to use in wave-based content.
 
 **Daffodill Burst Window Calculation:**
-During a 10-second "Break" window, Daffodill can stack her "Chaos Entropy" debuff up to [information unavailable] times, resulting in a final explosion that deals [Information not yet publicly available as of 2026-05-19] of her total Attack as AoE damage.
+During a 10-second "Break" window, Daffodill can stack her "Chaos Entropy" debuff up to [information unavailable] times, resulting in a final explosion that deals undisclosed of her total Attack as AoE damage.
 
 ### Esper Zero: The Versatile Hero
 

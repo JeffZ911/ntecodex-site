@@ -101,7 +101,7 @@ For those who need a large injection of cash quickly, the Pink Paws Heist is the
 
 To farm efficiently, you must understand the two-tier stamina system.
 
-1.  **Esper Pixels (Daily):** This resource caps at [Information not yet publicly available as of 2026-05-20] and regenerates over time. It is used for "Anomaly Zones" to get Beetle Coins, character EXP items, and Arc upgrade materials. You should never let this sit at the cap.
+1.  **Esper Pixels (Daily):** This resource caps at undisclosed and regenerates over time. It is used for "Anomaly Zones" to get Beetle Coins, character EXP items, and Arc upgrade materials. You should never let this sit at the cap.
 2.  **City Stamina (Weekly):** Unlike Esper Pixels, City Stamina is a larger pool that resets once a week. It is used for urban activities like **City Delivery** missions and **Street Races**. These activities are the primary active way to earn Fons. Because this pool is weekly, you have the flexibility to spend it all in one day or spread it out.
 
 ### City Stamina Conversion Rates Table
@@ -118,7 +118,7 @@ To farm efficiently, you must understand the two-tier stamina system.
 
 When you pull on banners, you will inevitably receive duplicate items or characters. NTE converts these into two secondary currencies: **Warp Pieces** and **Lost Pieces**.
 
-*   **Warp Pieces:** Earned from pulling duplicate 4-star and 5-star characters/Arcs. These should be saved almost exclusively for purchasing additional **Solid Dice** (Limited Pulls). The exchange rate is typically [Information not yet publicly available as of 2026-05-20] pieces per Dice.
+*   **Warp Pieces:** Earned from pulling duplicate 4-star and 5-star characters/Arcs. These should be saved almost exclusively for purchasing additional **Solid Dice** (Limited Pulls). The exchange rate is typically undisclosed pieces per Dice.
 *   **Lost Pieces:** Earned from 3-star pulls. These are best used to buy the monthly discounted Dice (both Solid and Fabricated) before the shop resets. Once the Dice are purchased, any remaining Lost Pieces can be spent on Beetle Coins or basic EXP materials.
 
 ### Specialized Farming: Carrota and the Rewind System

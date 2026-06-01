@@ -109,8 +109,8 @@ Every 10 Pixels spent in an Anomaly Zone or against a world boss yields a fixed 
 
 **Key Anomaly Zones for Hunter EXP Farming:**
 *   **Houdinii’s Magic Stage:** Primarily for Esper EXP materials and Hunter EXP.
-*   **[Information not yet publicly available as of 2026-05-17]:** Specialized zone for Arc enhancement materials.
-*   **[Information not yet publicly available as of 2026-05-17]:** Specialized zone for Fons farming.
+*   **undisclosed:** Specialized zone for Arc enhancement materials.
+*   **undisclosed:** Specialized zone for Fons farming.
 
 Spending 40 Pixels at once usually provides a more significant "chunk" of progress toward your daily activity goals while yielding the same EXP-to-Pixel ratio as smaller spends.
 

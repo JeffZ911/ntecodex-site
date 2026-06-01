@@ -86,7 +86,7 @@ Reaching the 100-point threshold grants a total of 60 Annulith daily. Additional
 
 | Activity | Participation Points | Rewards |
 | :--- | :--- | :--- |
-| Daily Login | 10 | [Information not yet publicly available] |
+| Daily Login | 10 | — |
 | Spend 100 Energy | 20 | Annulith x20 |
 | Complete 1 Commission | 20 | Annulith x20 |
 | Upgrade an Arc Disk | 10 | Upgrade Materials |
@@ -116,8 +116,8 @@ Your Hunter Level is a direct indicator of your progress. Every 5 levels, you ca
 | Level 20 | Solid Dice x10 + Annulith x200 |
 | Level 30 | Solid Dice x15 |
 | Level 40 | Fabricated Dice x5 |
-| Level 50 | [Information not yet publicly available] |
-| Level 60 | [Information not yet publicly available] |
+| Level 50 | — |
+| Level 60 | — |
 
 In addition to the Hunter Level, the "Appraisal" system tracks your collection of Arcs and Espers. Increasing your Appraisal rank by leveling up different characters grants one-time rewards of Tri-Keys, which are essential for the Arc Research Program.
 

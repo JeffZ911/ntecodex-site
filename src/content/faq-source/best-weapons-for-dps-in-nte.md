@@ -71,7 +71,7 @@ For players who are Free-to-Play (F2P) or haven't had luck with the Arc Research
 
 | Arc Name | Rarity | Type | Primary Substat | Key Passive |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ready-Ready** | S-Rank | Plasma | [Information not yet publicly available as of 2026-05-21] | Commander Tiger Talisman |
+| **Ready-Ready** | S-Rank | Plasma | — | Commander Tiger Talisman |
 | **Camellia Society** | S-Rank | Synthesis | 12% CRIT Rate | Silent Garden |
 | **Fluff of Fleetness** | S-Rank | Liquid | 22% CRIT Rate | Motor Candy |
 | **Hethereau's Keeper** | S-Rank | Solid | 27.5% ATK | Officer Whisker |

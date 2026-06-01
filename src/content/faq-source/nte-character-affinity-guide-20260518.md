@@ -101,9 +101,9 @@ Characters in Hethereau have distinct tastes based on their lore and personality
 
 | Character | Favorite Gift Item | Primary Shop Location | Base Points (Favored) |
 | :--- | :--- | :--- | :--- |
-| Mint | [Information not yet publicly available as of 2026-05-18] | Hethereau Bakery District | 450 (Purple) |
-| [Sakiri](/characters/sakiri-nte-free-5-star-guide) | [Information not yet publicly available as of 2026-05-18] | Neon District Gadget Shop | 450 (Purple) |
-| [Nanally](/characters/nanally-guide-nte) | [Information not yet publicly available as of 2026-05-18] | Downtown Records | 450 (Purple) |
+| Mint | — | Hethereau Bakery District | 450 (Purple) |
+| [Sakiri](/characters/sakiri-nte-free-5-star-guide) | — | Neon District Gadget Shop | 450 (Purple) |
+| [Nanally](/characters/nanally-guide-nte) | — | Downtown Records | 450 (Purple) |
 | Any | A Handwritten Letter | Warp Exchange Circle Bounty | 150 (Blue) |
 
 "A Handwritten Letter" is a universal gift that can be given to any character. While it provides fewer points than specialized gifts, it is an excellent filler if you have not yet unlocked the specific shops for your newer characters. These letters are primarily obtained by completing Bounty missions at the Warp Exchange Circle.

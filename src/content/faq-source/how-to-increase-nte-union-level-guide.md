@@ -121,7 +121,7 @@ Increasing your Tycoon Level involves more than just collecting rent. You must a
 Efficient farming requires understanding the "Esper Cycle." When spending Pixels in Anomaly Zones, use a team that can trigger elemental reactions quickly to clear waves faster. For example, using Nanally’s high-frequency physical attacks combined with a support Esper can shred enemy shields, reducing the time spent per run. Always check the "Drop Rate Boost" schedule, as certain days offer bonus rewards for specific Anomaly Zones.
 
 ### Unlocking the Free S-Rank Character Chiz
-As you increase your Hunter Level, you will eventually unlock the questline for Chiz, a powerful S-Rank character available for free through gameplay. Chiz is an excellent asset for clearing high-level Anomaly Zones due to her [Information not yet publicly available as of 2026-05-15] abilities. To unlock her, you must reach Hunter Level [exact value pending official confirmation] and complete the "Shadow of the Neon" Spin-off quest.
+As you increase your Hunter Level, you will eventually unlock the questline for Chiz, a powerful S-Rank character available for free through gameplay. Chiz is an excellent asset for clearing high-level Anomaly Zones due to her undisclosed abilities. To unlock her, you must reach Hunter Level [exact value pending official confirmation] and complete the "Shadow of the Neon" Spin-off quest.
 
 ## Sources
 - Neverness to Everness Official Site — https://nte.perfectworld.com/

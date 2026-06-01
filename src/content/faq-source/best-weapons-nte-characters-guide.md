@@ -90,7 +90,7 @@ Equipping an Arc of the same type as the character’s natural affinity often un
 ### Best Weapons for A-Rank Favorites (Mint, Chiz, Zero)
 
 *   **Mint:** As a Solid-type character, Mint performs exceptionally well with **Oraora!**. This A-rank Arc boosts basic attack speed and damage, which synergizes with Mint’s rapid-fire playstyle.
-*   **Chiz:** Chiz requires high Energy Recharge to be effective. **Liquid Resonance** [information not yet publicly available as of 2026-05-19] is a common A-rank choice that ensures Chiz can provide consistent healing and utility.
+*   **Chiz:** Chiz requires high Energy Recharge to be effective. **Liquid Resonance** undisclosed is a common A-rank choice that ensures Chiz can provide consistent healing and utility.
 *   **Zero:** Zero's niche as a hybrid DPS/Support is best served by **Synthesis Core**, an A-rank Arc that provides a balanced boost to both ATK and HP.
 
 ### Top F2P and Farmable Arcs for New Players
@@ -119,7 +119,7 @@ Understanding the unique skills attached to Arcs is key to high-level play.
 | Mint | Oraora! (S-Variant) | Oraora! | Basic ATK DMG / ATK% |
 | Chiz | Liquid Flow | Liquid Resonance | Healing Bonus / Energy Recharge |
 | Zero | Synthesis Core (S-Variant) | Synthesis Core | Balanced ATK & HP |
-| Hathor | [Information not yet publicly available] | [Information not yet publicly available] | [Information unavailable] |
+| Hathor | — | — | [Information unavailable] |
 | Daffodill | Heavy Impact | Solid Guard | Break Intensity |
 | Haniel | Camellia Society | Gas Cloud | Elemental DMG / Support Utility |
 

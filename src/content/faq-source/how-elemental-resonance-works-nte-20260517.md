@@ -139,8 +139,8 @@ As of the 1.0 launch, several meta compositions have emerged based on the Esper 
 ### Top Arcs for Elemental Scaling
 In NTE, weapons are called "Arcs." The best Arcs for elemental builds are those that provide "Cycle Rate" or "Reaction Multipliers."
 
-*   **[Information not yet publicly available as of 2026-05-17]:** An Arc known for increasing the damage of Duo Cycle reactions by a flat percentage.
-*   **[Information not yet publicly available as of 2026-05-17]:** An Arc that grants bonus Attack whenever a Triple Cycle reaction (Charge or Discord) is triggered.
+*   **undisclosed:** An Arc known for increasing the damage of Duo Cycle reactions by a flat percentage.
+*   **undisclosed:** An Arc that grants bonus Attack whenever a Triple Cycle reaction (Charge or Discord) is triggered.
 *   **The Ichi-daime (Nanally's Signature):** Specifically tuned to enhance the Resonance passives of the wielder, making it the gold standard for support characters in high-end Resonance teams.
 
 ### Beginner Tips for Rotation Management

@@ -106,7 +106,7 @@ Once you are in a squad, the game opens up several activities. It is important t
 | :--- | :---: | :--- |
 | **Anomaly Hunts** | 1–4 | Character Ascension Materials, Gear |
 | **Street Racing** | 1–8 | Car Parts, Currency (Hesperia Credits) |
-| **Pink Paws Heists** | 4 | [Information not yet publicly available as of 2026-05-24] |
+| **Pink Paws Heists** | 4 | — |
 | **Urban Mini-games** | 2–4 | Social Points, Cosmetic Items |
 
 **World Level Mechanics:** Guest players will have their stats scaled if their World Level is significantly higher than the host's. However, guests cannot join a host who has a higher World Level than their own. This prevents low-level players from entering high-difficulty zones to "leech" endgame rewards.
@@ -116,7 +116,7 @@ Once you are in a squad, the game opens up several activities. It is important t
 The "Pink Paws" Heist mode is a dedicated cooperative activity that becomes a primary focus once players reach the mid-game. Unlike standard open-world exploration, these are instanced missions that require coordination.
 
 *   **Role Selection:** Players can choose specific roles within the heist, such as the Driver, the Tech Specialist, or the Frontline Esper.
-*   **Preparation:** [Information not yet publicly available as of 2026-05-24].
+*   **Preparation:** undisclosed.
 *   **Execution:** These missions often culminate in a boss fight against a "Large-Scale Anomaly" that requires elemental reactions and synchronized ultimates to defeat.
 
 ### Social Features and Mini-games

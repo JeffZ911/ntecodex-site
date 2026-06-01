@@ -101,7 +101,7 @@ The standard daily tasks usually include:
 *   **Spend 120 Character Pixels:** 40 Points (Half of your daily natural regen).
 *   **Complete 1 City Commission:** 30 Points.
 
-Accumulating 100 points grants a bundle of Annulith (the premium currency), Hunter EXP, and various upgrade materials like [Information not yet publicly available as of 2026-05-21].
+Accumulating 100 points grants a bundle of Annulith (the premium currency), Hunter EXP, and various upgrade materials like undisclosed.
 
 ### Daily Interaction Points: Nacupeda’s Pool and The Witch’s House
 

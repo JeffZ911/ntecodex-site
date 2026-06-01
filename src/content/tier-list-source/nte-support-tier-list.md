@@ -137,7 +137,7 @@ Mint (A-Class, Anima) uses whirlwind-based attacks to provide minor CC. Her supp
 
 ### Aurelia: Niche Application
 
-Aurelia (A-Class) is currently a bit of an enigma. [Information not yet publicly available as of 2026-05-14] regarding her specific support kit, but she currently sits in the B-Tier due to her niche application in the launch meta. Early testing suggests she may have synergy with upcoming Chaos-element units, but for now, she is a secondary choice for most players.
+Aurelia (A-Class) is currently a bit of an enigma. undisclosed regarding her specific support kit, but she currently sits in the B-Tier due to her niche application in the launch meta. Early testing suggests she may have synergy with upcoming Chaos-element units, but for now, she is a secondary choice for most players.
 
 ## C Tier
 

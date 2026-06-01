@@ -100,7 +100,7 @@ Activating a Cartridge's Legend effect requires placing four Modules of specific
 
 *   **Type II Modules:** Typically 2-cell shapes. These are preferred by Fadia, whose Console passives grant extra HP for every Type II Module equipped.
 *   **Type III Modules:** Larger, 3-cell shapes (often L-shaped or T-shaped). Support characters like Sakiri gain significant ATK or Elemental DMG bonuses from these.
-*   **Type IV Modules:** [Information not yet publicly available as of 2026-05-17].
+*   **Type IV Modules:** undisclosed.
 
 When building a healer, you must balance the Cartridge's shape requirements with the character's Module Type preference. For example, if you equip four Type III Modules to activate Speedy Hedgehog on a character who prefers Type II, you may lose out on the character's native Console stat bonuses.
 

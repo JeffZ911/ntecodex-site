@@ -58,10 +58,10 @@ Support characters benefit most from "Blow up the Crowd" for off-field ATK buffs
 | **Good Boy's Grand Adventure** | Support / Utility | 18% Charge Efficiency, 16% Team ATK buff | Sakiri, Support MC |
 | **Raging Flames** | Lakshana DPS | Redirect Skill DMG, Ultimate DMG stacks | Nanally |
 | **Day Off** | Cosmos DPS | 30% ATK boost, Energy restoration on kill | Esper Zero, DPS MC |
-| **Black Tome** | Chaos DPS / Breaker | Break Intensity, Chaos DMG, Seals mechanic | [Information not yet publicly available as of 2026-05-16] |
-| **The Rain That Shook the World** | Cosmos DPS | Cosmos DMG Scaling, [Information not yet publicly available as of 2026-05-16] | Esper Zero |
+| **Black Tome** | Chaos DPS / Breaker | Break Intensity, Chaos DMG, Seals mechanic | — |
+| **The Rain That Shook the World** | Cosmos DPS | Cosmos DMG Scaling, — | Esper Zero |
 | **Hethereau's Keeper** | Hybrid / Summoner | Officer Whisker Summon, Defense Shred | Any Solid/Bose Tank |
-| **Blow up the Crowd** | Off-field Support | Off-field ATK buffs, [Information not yet publicly available as of 2026-05-16] | Sakiri |
+| **Blow up the Crowd** | Off-field Support | Off-field ATK buffs, — | Sakiri |
 
 ## Detailed Explanation
 
@@ -125,7 +125,7 @@ Your character's Console consists of the Arc (the disk), Cartridges, and Modules
 
 ### The Impact of Awakening
 
-Awakening is the process of using duplicate copies of the same S-Rank Arc to upgrade its Arc Effect. Each Awakening level significantly increases the percentages of the passive buffs. For "Good Boy's Grand Adventure," Awakening can push the team ATK buff even higher, potentially reaching [Information not yet publicly available as of 2026-05-16]. While S-Rank Arcs are powerful at Awakening Level 0, high-refinement A-Rank disks can sometimes outperform them if you have managed to max out the A-Rank's Awakening levels. However, the raw Base ATK of a 5-star disk usually makes it the superior choice once you reach the level cap.
+Awakening is the process of using duplicate copies of the same S-Rank Arc to upgrade its Arc Effect. Each Awakening level significantly increases the percentages of the passive buffs. For "Good Boy's Grand Adventure," Awakening can push the team ATK buff even higher, potentially reaching undisclosed. While S-Rank Arcs are powerful at Awakening Level 0, high-refinement A-Rank disks can sometimes outperform them if you have managed to max out the A-Rank's Awakening levels. However, the raw Base ATK of a 5-star disk usually makes it the superior choice once you reach the level cap.
 
 ### Future-Proofing Your Account
 

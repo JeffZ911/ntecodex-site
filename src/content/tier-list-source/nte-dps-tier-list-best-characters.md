@@ -182,7 +182,7 @@ The NTE meta has shifted rapidly since the April 29 launch. The introduction of 
 *   **The Impact of the Nanally Banner:** As the first limited character, Nanally set a high bar for Main DPS performance. Most community testing confirms that her "Follow-up" mechanic is the most efficient way to clear waves in the current version.
 *   **Emerging Team Archetypes:** The discovery of the **Charge** trio (Lakshana + Cosmos + Anima) has made teams consisting of Hathor, Chiz, and Nanally highly popular. This composition allows for near-constant Ultimate uptime due to the massive energy refunds provided by the reaction.
 *   **Upcoming Speculation:** Rumors regarding the next character, **Lacrimosa**, suggest she will be the first S-Class Psyche-element DPS. If true, this could potentially shift the meta toward "Stain" (Psyche + Lakshana) and "Nova" (Chaos + Psyche) compositions.
-*   **Balance Adjustments:** [Information not yet publicly available as of 2026-05-14] regarding specific character buffs or nerfs in the upcoming Patch 1.1.
+*   **Balance Adjustments:** undisclosed regarding specific character buffs or nerfs in the upcoming Patch 1.1.
 
 ## Sources
 

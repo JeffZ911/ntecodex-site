@@ -100,7 +100,7 @@ Available buffs often include:
 *   Anima DMG +8%
 *   Team ATK +20%
 *   Energy Regeneration +15%
-*   [Information not yet publicly available as of 2026-05-24]
+*   undisclosed
 
 Choosing the right buff based on your current team composition (e.g., taking Anima DMG for a Hotori-led team) can be the difference between a 2-star and a 3-star clear.
 
@@ -150,8 +150,8 @@ For the endgame, two primary strategies have emerged:
 
 | Team Type | Slot 1 (DPS) | Slot 2 (Sub-DPS) | Slot 3 (Support) | Slot 4 (Utility) |
 | :--- | :--- | :--- | :--- | :--- |
-| Hypercarry | Hotori | [Information not yet publicly available] | Haniel | Sakiri |
-| Quickswap | Chiz | Jiuyuan | Sakiri | [Information not yet publicly available] |
+| Hypercarry | Hotori | — | Haniel | Sakiri |
+| Quickswap | Chiz | Jiuyuan | Sakiri | — |
 
 ### How to Farm Beetle Coins Efficiently
 

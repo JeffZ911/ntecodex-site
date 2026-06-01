@@ -125,7 +125,7 @@ Tycoon Rank is improved by earning Fons and completing specific "Urban Challenge
 | Bronze | 0 (Starting) | 1000 | N/A |
 | Silver | 50,000 | 1200 | 5% Discount at Cafe |
 | Gold | 250,000 | 1500 | Taxi Fare Multiplier x1.2 |
-| Platinum | 1,000,000 | 2000 | [Information not yet publicly available as of 2026-05-16] |
+| Platinum | 1,000,000 | 2000 | — |
 
 ### Using Consumables: De-noise Solutions and Refresh Recharges
 
@@ -141,7 +141,7 @@ While increasing the cap is the primary goal, some characters (Espers) have pass
 
 *   **[Nanally](/characters/nanally-guide-nte):** Her unique movement mechanic allows for vertical wall running. While this still consumes stamina, the speed-to-distance ratio is much higher than standard climbing, allowing her to reach heights that other characters cannot with the same stamina pool. Her banner, "The Ichi-daime," is a high priority for exploration-focused players.
 *   **Skia:** Skia possesses a specialized movement kit that allows for stamina-free climbing on certain surfaces. By alternating between Skia's climbing and standard movement, you can effectively scale the tallest buildings in Hesperia even with a base-level yellow bar.
-*   **[Information not yet publicly available as of 2026-05-16]:** Future characters are expected to introduce "glider stamina reduction" and "sprint cost reduction" passives.
+*   **undisclosed:** Future characters are expected to introduce "glider stamina reduction" and "sprint cost reduction" passives.
 
 ## Related
 

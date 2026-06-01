@@ -120,9 +120,9 @@ Chiz has a unique utility in the overworld: her charged attack can "extract" Fon
 You are granted 10 "Gift" interactions daily to use on your recruited Espers. Increasing Bond levels is not just for flavor; it unlocks passive stat bonuses and, at higher levels, provides "Hunter's Guides" which act as weekly checklists for extra rewards. 
 
 **Top Gift Recommendations:**
-*   **Edgar:** [Information not yet publicly available as of 2026-05-14]
-*   **Nanally:** [Information not yet publicly available as of 2026-05-14]
-*   **Chiz:** [Information not yet publicly available as of 2026-05-14]
+*   **Edgar:** undisclosed
+*   **Nanally:** undisclosed
+*   **Chiz:** undisclosed
 
 Prioritizing Edgar to Rank 10 is the current "meta" strategy, as his Hunter's Guide provides the most consistent weapon upgrade materials.
 
@@ -141,7 +141,7 @@ B-Tier activities provide useful materials but are often time-consuming or offer
 
 Your apartment acts as a hub for several daily interactables. Interacting with the **Cloud**, **Hamster Ball**, and **Damaged Crate** furniture items provides a small daily yield of Beetle Coins and low-level upgrade modules. 
 
-*   **Cloud:** Grants small amount of [Information not yet publicly available as of 2026-05-14].
+*   **Cloud:** Grants small amount of undisclosed.
 *   **Hamster Ball:** Yields 50-100 Beetle Coins.
 *   **Damaged Crate:** Drops random 1-star or 2-star modules.
 

@@ -114,7 +114,7 @@ To help you gear your roster, here is a quick reference for which 5-star disks f
 *   **Sakiri:** **Speedy Hedgehog**. She needs the Charge Efficiency to keep her Ultimate up constantly, ensuring her elemental shred is always active.
 *   **Haniel:** **Shadow Creed** or **Speedy Hedgehog**. Use Shadow Creed if you have low ATK sub-stats; otherwise, Speedy Hedgehog is better for team-wide utility.
 *   **Fadia:** **Tiny Big Adventure**. Her role is purely defensive, and the HP scaling is too good to pass up.
-*   **Mint:** **Fireflies and the Forest**. [Information not yet publicly available as of 2026-05-22] regarding the exact 4-piece scaling for Mint, but current testing suggests this Anima-focused set boosts her CRIT DMG support capabilities significantly.
+*   **Mint:** **Fireflies and the Forest**. undisclosed regarding the exact 4-piece scaling for Mint, but current testing suggests this Anima-focused set boosts her CRIT DMG support capabilities significantly.
 *   **[Hotori](/characters/hotori-best-team-nte):** **Speedy Hedgehog**. As a secondary support, she benefits from the 2-piece Charge Efficiency to help cycle her crowd control abilities.
 
 ## Related
@@ -129,7 +129,7 @@ Gearing up your supports is a long-term process that involves more than just fin
 The most efficient way to acquire S-Class Cartridges is through the **Midas Arc Workshop**. This activity requires "Character Pixels" (Stamina) to claim rewards.
 *   **Focus on Level 50+ Zones:** 5-star disks only have a guaranteed drop rate once you reach higher Anomaly containment levels.
 *   **Recycle Trash:** You can dismantle unwanted 5-star disks to get materials for the "Synthesis" system, allowing you to craft specific pieces for the Speedy Hedgehog set.
-*   **Weekly Bosses:** Don't forget to clear your weekly urban boss encounters, as these have a higher chance of dropping disks with rare sub-stats like [Information not yet publicly available as of 2026-05-22].
+*   **Weekly Bosses:** Don't forget to clear your weekly urban boss encounters, as these have a higher chance of dropping disks with rare sub-stats like undisclosed.
 
 ### Best 4-Star Support Disks for Early Game
 

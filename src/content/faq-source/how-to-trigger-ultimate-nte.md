@@ -49,7 +49,7 @@ Triggering the ability requires a specific input based on your gaming platform:
 | :--- | :--- |
 | **PC** | Press the **'Q'** key |
 | **Mobile** | Tap the **Glowing Ultimate Icon** above the Basic Attack button |
-| **PlayStation 5** | Press **Triangle** (or [information not yet publicly available as of 2026-05-23] for custom layouts) |
+| **PlayStation 5** | Press **Triangle** (or — for custom layouts) |
 
 It is important to distinguish these from **Esper Abilities**. An Esper Ability is an "entry attack" triggered automatically or via a specific swap button when you switch characters while the circular Esper Meter (located in the center-right of the screen) is full. Ultimates, conversely, are manual activations that do not necessarily require a character swap to initiate.
 
@@ -85,7 +85,7 @@ Furthermore, advanced players use "Animation Canceling" to trigger Ultimates mor
 
 Triggering an Ultimate is most effective when synchronized with the **Break Phase**. Most elite enemies and bosses possess a white "Stability Bar" (or Break Meter) below their health. While this bar is active, they take reduced damage and are immune to hitstun. 
 
-Once the bar is depleted through heavy attacks or specific elemental counters, the enemy enters a "Broken" state. They will take [information not yet publicly available as of 2026-05-23]% increased damage during this window. Saving your Ultimate trigger for this exact moment is the standard strategy for clearing high-level "Anomaly Investigations" and boss encounters.
+Once the bar is depleted through heavy attacks or specific elemental counters, the enemy enters a "Broken" state. They will take undisclosed increased damage during this window. Saving your Ultimate trigger for this exact moment is the standard strategy for clearing high-level "Anomaly Investigations" and boss encounters.
 
 ## Related
 

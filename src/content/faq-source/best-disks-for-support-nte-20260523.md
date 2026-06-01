@@ -125,8 +125,8 @@ The "Rewind" mechanic allows you to spend "Anomaly Shards" to reroll the sub-sta
 ### Best Support Arcs (Weapons)
 
 While Cartridges provide the set bonuses, Arcs provide the raw stat sticks. 
-*   **For Sakiri:** [Information not yet publicly available as of 2026-05-23].
-*   **For Fadia:** [Information not yet publicly available as of 2026-05-23].
+*   **For Sakiri:** undisclosed.
+*   **For Fadia:** undisclosed.
 *   **General F2P Support Arc:** The "Signal Repeater" is a 4-star Arc that grants 10% Charge Efficiency and is often the best budget choice for any support character.
 
 ### Optimizing the Esper Cycle

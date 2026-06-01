@@ -72,8 +72,8 @@ The interaction between different attributes is the key to maximizing your DPS. 
 | Reaction Name | Attribute Combination | Effect |
 | :--- | :--- | :--- |
 | **Blossom** | Cosmos + Anima | Deals AoE damage and reduces enemy defense. |
-| **Discord** | [Information not yet publicly available as of 2026-05-11] | [Information not yet publicly available as of 2026-05-11] |
-| **Resonance** | [Information not yet publicly available as of 2026-05-11] | [Information not yet publicly available as of 2026-05-11] |
+| **Discord** | — | — |
+| **Resonance** | — | — |
 
 To excel in combat, you must master the timing of perfect parries. A successful parry doesn't just negate damage; it instantly grants a large chunk of Esper Cycle energy. This allows you to cycle through your team's ultimate abilities much faster than through standard attacks alone.
 
@@ -112,11 +112,11 @@ The system is designed to be more player-friendly than many of its competitors. 
 
 **Launch S-Rank Characters**
 *   **[Nanally](/characters/nanally-guide-nte):** A powerful DPS character featured in the "The Ichi-daime" banner.
-*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** [Information not yet publicly available as of 2026-05-11].
+*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** undisclosed.
 *   **Esper Zero:** The customizable protagonist with adaptable elemental skills.
-*   **Fadia:** [Information not yet publicly available as of 2026-05-11].
-*   **Daffodill:** [Information not yet publicly available as of 2026-05-11].
-*   **Haniel:** [Information not yet publicly available as of 2026-05-11].
+*   **Fadia:** undisclosed.
+*   **Daffodill:** undisclosed.
+*   **Haniel:** undisclosed.
 
 **Arc Types (Weapon System)**
 Characters equip "Arcs," which act as their primary weapons. You must match the Arc's state of matter to the character's requirements for maximum efficiency.

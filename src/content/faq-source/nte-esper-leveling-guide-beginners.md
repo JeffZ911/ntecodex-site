@@ -87,7 +87,7 @@ When an Esper reaches their current maximum level (e.g., level 20), they enter a
 Common Breakthrough materials include:
 *   **Nestbound Bird mask fragments:** Required for several Anima-type Espers.
 *   **Swallowtail ticket stubs:** Essential for specific high-mobility characters.
-*   **[Information not yet publicly available as of 2026-05-24]** for late-game Incantation types.
+*   **undisclosed** for late-game Incantation types.
 
 Each Breakthrough also requires elemental-specific shards, which can be farmed in Houdinii’s Magic Stage or purchased in limited quantities from the specialty shops in the business district.
 
@@ -146,7 +146,7 @@ To level this fast:
 2.  Invest Beetle Coins into high-yield businesses in the downtown area.
 3.  Ensure your "Business Reputation" is maintained by clearing nearby Anomalies that threaten your properties.
 
-A higher Tycoon level also provides passive buffs to your Esper's stamina recovery and [Information not yet publicly available as of 2026-05-24] in the open world.
+A higher Tycoon level also provides passive buffs to your Esper's stamina recovery and undisclosed in the open world.
 
 ### NTE Element Reaction and Esper Cycle Guide
 

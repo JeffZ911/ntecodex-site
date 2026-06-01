@@ -76,7 +76,7 @@ NTE uses three distinct stamina systems: Character Pixels (for combat and farmin
 | :--- | :--- | :--- | :--- |
 | **Character Pixels** | Anomaly Zones (Materials/EXP) | 1 per 6 minutes | 240 |
 | **City Stamina** | Hethereau Hobbies (Fons) | Weekly Reset (Monday) | 100 (Level 1) |
-| **Exploration Stamina** | Movement & Combat Dodging | Automatic (Seconds) | [Information not yet publicly available as of 2026-05-14] |
+| **Exploration Stamina** | Movement & Combat Dodging | Automatic (Seconds) | — |
 
 ## Detailed Explanation
 
@@ -112,8 +112,8 @@ One of the most important milestones for this system is **Tycoon Level 16**. At 
 | Level 1 | 100 |
 | Level 5 | 200 |
 | Level 10 | 350 |
-| Level 16 | [Information not yet publicly available as of 2026-05-14] |
-| Level 23 | [Information not yet publicly available as of 2026-05-14] |
+| Level 16 | — |
+| Level 23 | — |
 
 To recover City Stamina before the weekly reset, you must use a **Refresh Recharge** item (restores 100) or spend Annulith. Note that Annulith refills for City Stamina are capped at 10 per week, and the cost increases after the 3rd and 6th recharge.
 

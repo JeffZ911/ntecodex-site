@@ -113,7 +113,7 @@ The permanent banners are where you spend your Lustrous Tides (the blue ones).
 While the "Hard Pity" is 80 pulls, the actual base rate for a 5-star is 0.8%. Community data and testing suggest a "Soft Pity" mechanic where the odds of pulling a 5-star increase significantly starting at pull 65 and peaking around pull 75. Most players will see their 5-star appear between 65 and 72 pulls. If you are close to this range, be careful with "pity building," as you are very likely to trigger a 5-star pull.
 
 ### New 3.0 Mechanics: Tune Break Weapons in the Pool
-With the launch of the 3.0 era, new weapon series have been introduced to the standard and limited rotations. The "Tune Break" series [Information not yet publicly available as of 2026-05-15]. However, the current "Tune Rupture" system has shifted the meta toward Echo Skill damage, making weapons with high Concerto Mastery or Echo Skill DMG bonuses highly desirable in the current 3.3 banners.
+With the launch of the 3.0 era, new weapon series have been introduced to the standard and limited rotations. The "Tune Break" series undisclosed. However, the current "Tune Rupture" system has shifted the meta toward Echo Skill damage, making weapons with high Concerto Mastery or Echo Skill DMG bonuses highly desirable in the current 3.3 banners.
 
 ## Recommendation
 

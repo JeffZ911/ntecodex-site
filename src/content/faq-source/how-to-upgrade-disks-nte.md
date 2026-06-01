@@ -83,8 +83,8 @@ Once an Arc reaches its current level cap, you must perform an **Ascension**. Th
 | Material Name | EXP Granted | Primary Source |
 | :--- | :--- | :--- |
 | Colorless Dye | [information unavailable] | Commissions / World Exploration |
-| [Information not yet publicly available as of 2026-05-19] | 2,500 | Houdinii's Magic Stage |
-| [Information not yet publicly available as of 2026-05-19] | [information unavailable] | Hunter Exchange / Events |
+| — | 2,500 | Houdinii's Magic Stage |
+| — | [information unavailable] | Hunter Exchange / Events |
 | Beetle Coins | N/A (Currency) | Daily Activities / Anomaly Hunts |
 
 ### The Mixing System: Refining Passive Abilities
@@ -108,7 +108,7 @@ Upgrading these pieces is essential for endgame viability. Both Cartridges and M
 | :--- | :--- | :--- |
 | Type II | 2 Blocks | Nanally (Grants bonus CRIT Rate) |
 | Type III | 3 Blocks | Mint (Grants 7.5% CRIT Rate per piece) |
-| Type IV | 4 Blocks | [Information not yet publicly available as of 2026-05-19] |
+| Type IV | 4 Blocks | — |
 
 ### Understanding Substat Activation and Fixed Values
 

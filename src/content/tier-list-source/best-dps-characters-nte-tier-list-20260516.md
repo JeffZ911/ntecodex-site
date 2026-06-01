@@ -63,9 +63,9 @@ To provide a clear ranking, we look at three primary metrics:
 | Character | Element | Primary Mechanic | Signature Arc Compatibility |
 | :--- | :--- | :--- | :--- |
 | **[Nanally](/characters/nanally-guide-nte)** | Anima/Plasma | Follow-up Attacks (Underboss) | Ready-Ready (Solid) |
-| **[Hotori](/characters/hotori-best-team-nte)** | Cosmos/Solid | Time-Stop & Skill Recording | [Information not yet publicly available as of 2026-05-16] |
-| **Jiuyuan** | Anima/Plasma | Lethal Rose Pact DoT | [Information not yet publicly available as of 2026-05-16] |
-| **Chiz** | Anima/Solid | Fons Currency Scaling | [Information not yet publicly available as of 2026-05-16] |
+| **[Hotori](/characters/hotori-best-team-nte)** | Cosmos/Solid | Time-Stop & Skill Recording | — |
+| **Jiuyuan** | Anima/Plasma | Lethal Rose Pact DoT | — |
+| **Chiz** | Anima/Solid | Fons Currency Scaling | — |
 
 ### The Importance of Esper Cycle Reactions
 
@@ -158,7 +158,7 @@ Aurelia is a Psyche/Plasma A-class DPS who requires perfect dodging to maintain 
 
 Skia features a unique shadow-transformation mechanic that allows her to pass through enemies. While this is excellent for exploration and dodging, her actual damage output is among the lowest in the roster. Her Lakshana/Gas typing also lacks strong synergy with the current Blossom or Scorch metas.
 
-### Edgar: [Information not yet publicly available as of 2026-05-16]
+### Edgar: undisclosed
 
 Edgar remains at the bottom of the list due to low base multipliers. He currently lacks any meaningful synergy with the top-tier supports Sakiri and Haniel, leaving him without a clear place in the Fracture Circle meta.
 

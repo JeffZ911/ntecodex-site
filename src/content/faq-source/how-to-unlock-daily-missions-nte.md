@@ -103,7 +103,7 @@ Beyond the Exploration Guide, there are "Hidden Dailies" that are not explicitly
 
 **Nacupeda's Pool** is a critical stop located in the park west of Davidia Avenue in the Bridge Crossing (Illusion Town) district. Look for a yellow crown icon on your map. Once there, interact with the fountain and select **"Make a Sincere Wish."** This grants you a "Mhm! Coin" and a random daily buff. Collecting 100 Mhm! Coins allows you to purchase the S-Class Arc **"Your Happiness is Priceless"** from the exchange shop. This is currently one of the only ways to obtain a guaranteed S-Rank weapon through purely free-to-play daily activity.
 
-**The Witch's House** provides daily fortunes that can reveal [Information not yet publicly available as of 2026-05-19] or provide temporary combat buffs. Increasing your Divination Level to 10 at the Witch's House by turning in Oracle Stones is a long-term goal that improves the quality of these daily fortunes.
+**The Witch's House** provides daily fortunes that can reveal undisclosed or provide temporary combat buffs. Increasing your Divination Level to 10 at the Witch's House by turning in Oracle Stones is a long-term goal that improves the quality of these daily fortunes.
 
 ### Managing Character Pixels and City Energy
 Neverness to Everness uses a dual-energy system. **Character Pixels** (Stamina) regenerate at a rate of 1 every 6 minutes, totaling 240 per day. These are primarily spent in Anomaly Zones to farm character EXP, Arc materials, and Cartridges. Spending these Pixels is the fastest way to hit your daily Participation Point cap. A standard Anomaly Zone run costs 40 Pixels, while the double-reward option costs 80.
@@ -143,7 +143,7 @@ Once you have mastered the daily loop, you will begin to encounter weekly system
 
 ### Weekly Reset Checklist
 The weekly reset occurs every Monday at 5:00 AM. Key activities to track include:
-*   **[Information not yet publicly available as of 2026-05-19]:** High-tier weekly boss challenges that provide materials for upgrading Esper abilities.
+*   **undisclosed:** High-tier weekly boss challenges that provide materials for upgrading Esper abilities.
 *   **Realm of Greed:** Located in your first apartment, this involves the Mammon furniture mechanic to earn furniture-related currency and Fons.
 *   **Special Delivery:** Accessed via the **Old Mailbox** furniture in your second apartment, these weekly commissions provide unique upgrade resources.
 *   **City Stamina Drain:** Ensure all weekly City Stamina is converted into Fons via Hobbies before the Monday reset.
@@ -158,10 +158,10 @@ Character Affection gifts are limited to 10 per day. These are crucial for unloc
 
 | Reward Type | Daily Source | Weekly Source |
 | :--- | :--- | :--- |
-| **Annulith** | Participation Tasks (60+) | [Information not yet publicly available] |
+| **Annulith** | Participation Tasks (60+) | — |
 | **Fons** | Cafe, Login, 10k Task | Pink Paw Heist, City Stamina |
 | **Hunter EXP** | Participation Tasks | Weekly Bosses, Main Story |
-| **Beetle Coins** | Participation Tasks | [Information not yet publicly available] |
+| **Beetle Coins** | Participation Tasks | — |
 | **Upgrade Mats** | Anomaly Zones (Pixels) | Realm of Greed, Old Mailbox |
 
 ## Sources

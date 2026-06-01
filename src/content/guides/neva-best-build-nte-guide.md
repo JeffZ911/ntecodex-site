@@ -112,7 +112,7 @@ The "Blossom Team" is currently the highest-performing composition in Neverness 
 For players without Zero or Jiuyuan, Neva can still lead a formidable team.
 *   **Neva:** Main DPS.
 *   **Fadia:** Fadia provides incredible defensive utility. She can redirect damage away from Neva and provide near-immortal survivability through her damage-sharing mechanic. This allows Neva to stay on the field longer without fear of being interrupted during her attack animations.
-*   **[Information not yet publicly available as of 2026-05-22]:** A secondary Anima or support unit to provide elemental resonance.
+*   **undisclosed:** A secondary Anima or support unit to provide elemental resonance.
 
 | Character | Role | Element | Synergy with Neva |
 | :--- | :--- | :--- | :--- |

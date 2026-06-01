@@ -56,12 +56,12 @@ Every Esper in Hethereau belongs to one of the following categories. Their eleme
 
 | Element | Color | Theme | Representative Characters |
 | :--- | :--- | :--- | :--- |
-| **Lakshana** | White | Order / Light | Mint, [Information not yet publicly available as of 2026-05-21] |
-| **Cosmos** | Yellow | Space / Gravity | [Nanally](/characters/nanally-guide-nte), [Information not yet publicly available as of 2026-05-21] |
-| **Anima** | Green | Life / Nature | Jiuyuan, [Information not yet publicly available as of 2026-05-21] |
-| **Incantation** | Red | Flame / Ritual | Sakaki, [Information not yet publicly available as of 2026-05-21] |
-| **Chaos** | Purple | Entropy / Void | [Information not yet publicly available as of 2026-05-21] |
-| **Psyche** | Blue | Mind / Illusion | [Information not yet publicly available as of 2026-05-21] |
+| **Lakshana** | White | Order / Light | Mint, — |
+| **Cosmos** | Yellow | Space / Gravity | [Nanally](/characters/nanally-guide-nte), — |
+| **Anima** | Green | Life / Nature | Jiuyuan, — |
+| **Incantation** | Red | Flame / Ritual | Sakaki, — |
+| **Chaos** | Purple | Entropy / Void | — |
+| **Psyche** | Blue | Mind / Illusion | — |
 
 ### The Core Adjacency Rule
 
@@ -155,7 +155,7 @@ Weapons in NTE, known as Arcs, come in several types, with "Plasma" and "Solid" 
 **Recommended Arcs for Elemental Scaling**
 *   **Plasma Arcs:** Generally favor Cycle Rate. These are best for characters meant to fill their meter quickly and swap out.
 *   **Solid Arcs:** Often provide bonuses to Cycle Intensity, making the resulting reactions hit harder.
-*   **Hybrid Arcs:** [Information not yet publicly available as of 2026-05-21]
+*   **Hybrid Arcs:** undisclosed
 
 ### The Console System & Elemental Modules
 

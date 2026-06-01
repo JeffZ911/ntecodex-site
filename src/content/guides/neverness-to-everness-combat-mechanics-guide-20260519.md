@@ -160,7 +160,7 @@ Each element has a dedicated Cartridge set that enhances its specific reaction a
 
 Cartridges are primarily farmed in the **Rabbit Hole Anomaly Zone** located in the New Herland District. This zone requires Character Pixels (stamina) to claim rewards.
 
-[Information not yet publicly available as of 2026-05-19 regarding Anomaly Furniture's specific account-wide combat buffs].
+undisclosed.
 
 ### Stat Priorities: Cycle Rate vs. Raw Damage
 

@@ -63,7 +63,7 @@ Note that this guide focuses strictly on the combat stat used for Ultimate abili
 | **Primary Resource** | Ultimate Energy (Burst) | Esper Cycle Meter |
 | **Primary Use** | Casting "Q" (Ultimate) Ability | Swapping Characters / Swap Skills |
 | **Generation Method** | Attacks, Skills, Charge Reaction | Time, Parries, Successful Hits |
-| **Key Gear Set** | Speedy Hedgehog | [Information not yet publicly available as of 2026-05-22] |
+| **Key Gear Set** | Speedy Hedgehog | — |
 | **Impact on Combat** | High damage/Utility spikes | Rotation fluidity and elemental triggers |
 
 ## Detailed Explanation
@@ -124,15 +124,15 @@ To optimize your Charge Efficiency, you must focus on your Cartridge sets and yo
 The **Speedy Hedgehog** set is the gold standard for support characters and sub-DPS units who need to spam their Ultimates. 
 
 *   **2-Piece Bonus:** Increases Charge Efficiency by +12%.
-*   **4-Piece Bonus:** Upon casting an Ultimate, the entire team receives an ATK buff (percentage [Information not yet publicly available as of 2026-05-22]).
+*   **4-Piece Bonus:** Upon casting an Ultimate, the entire team receives an ATK buff (percentage undisclosed).
 
 This set is typically farmed in the **Rabbit Hole Anomaly Zone**, specifically in the sectors focusing on utility and speed modules.
 
 #### Arcs (Weapons) with Charge Efficiency
 While many Arcs focus on Critical Rate or ATK%, certain Arcs are designed specifically for energy management. These are essential for characters who have high Ultimate costs (80 energy or higher).
 
-*   **[Information not yet publicly available as of 2026-05-22]:** An Arc often used by support units to provide flat energy to the team.
-*   **[Information not yet publicly available as of 2026-05-22]:** A 4-star Arc that increases Charge Efficiency as a secondary stat.
+*   **undisclosed:** An Arc often used by support units to provide flat energy to the team.
+*   **undisclosed:** A 4-star Arc that increases Charge Efficiency as a secondary stat.
 
 ### Character-Specific Energy Mechanics and Requirements
 

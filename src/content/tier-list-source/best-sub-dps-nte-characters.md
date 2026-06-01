@@ -89,7 +89,7 @@ Released on May 13, 2026, in the "Misty Tipsy Style" limited banner, Hotori has 
 *   **Energy Cost:** 60 Non-Closed Timepiece Energy.
 *   **Recording Window:** 5 seconds.
 *   **Max Records:** 3 (1 per teammate).
-*   **Scaling:** [Information not yet publicly available as of 2026-05-21].
+*   **Scaling:** undisclosed.
 
 Hotori is the premier Sub-DPS because she allows you to compress an entire 20-second rotation into a singular, frozen window of burst damage.
 
@@ -132,7 +132,7 @@ B-Tier characters are viable but often require high investment (Awakenings) or a
 Adler starts as a defensive Synthesis unit, but after his first Awakening (A1), he gains the ability to apply consistent DoT (Damage over Time) through his "Karma" stacks. 
 
 **Adler Karma Stack DoT Scaling**
-*   **Base DoT Damage:** [Information not yet publicly available as of 2026-05-21].
+*   **Base DoT Damage:** undisclosed.
 *   **Incantation Synergy:** Triggers Scorch reaction with Chaos units.
 *   **Requirement:** A1 Awakening for offensive viability.
 

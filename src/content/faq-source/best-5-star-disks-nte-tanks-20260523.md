@@ -55,13 +55,13 @@ Currently, Fadia and Adler dominate the defensive meta. Fadia is often considere
 ![Direct Answer](/img/best-5-star-disks-nte-tanks-20260523/inline-2.webp)
 
 
-The best 5-star Disk set for HP-scaling tanks like Fadia is the Crimson Twin Butterflies set. This set is specifically designed for characters who want to stay on the field and soak up damage, as it rewards taking hits with increased survivability. For shield-based tanks like Adler, the best choice is the [Information not yet publicly available as of 2026-05-23] set, which provides a flat +20% Shield Effect bonus, making his barriers significantly harder to break.
+The best 5-star Disk set for HP-scaling tanks like Fadia is the Crimson Twin Butterflies set. This set is specifically designed for characters who want to stay on the field and soak up damage, as it rewards taking hits with increased survivability. For shield-based tanks like Adler, the best choice is the undisclosed set, which provides a flat +20% Shield Effect bonus, making his barriers significantly harder to break.
 
-If you are running a tank in a support-heavy "Quick-Swap" team, the [Information not yet publicly available as of 2026-05-23] set is the meta choice. This set grants a +15% Team ATK buff for 12 seconds after the wearer uses their Ultimate, allowing your tank to contribute to the team's total DPS output while maintaining their defensive duties.
+If you are running a tank in a support-heavy "Quick-Swap" team, the undisclosed set is the meta choice. This set grants a +15% Team ATK buff for 12 seconds after the wearer uses their Ultimate, allowing your tank to contribute to the team's total DPS output while maintaining their defensive duties.
 
 ### Top S-Rank Disk Set Recommendations
 
-For Fadia, the Crimson Twin Butterflies 4-piece set is non-negotiable for end-game content. The 2-piece bonus provides a 15% Max HP increase, while the 4-piece bonus introduces a stacking mechanic that perfectly complements her damage-sharing playstyle. For Adler, the priority is DEF and Shield Strength. While the specific name for the 5-star Shield set remains [Information not yet publicly available as of 2026-05-23], players should look for the set that specifically mentions "Shield Effect" or "Barrier Absorption."
+For Fadia, the Crimson Twin Butterflies 4-piece set is non-negotiable for end-game content. The 2-piece bonus provides a 15% Max HP increase, while the 4-piece bonus introduces a stacking mechanic that perfectly complements her damage-sharing playstyle. For Adler, the priority is DEF and Shield Strength. While the specific name for the 5-star Shield set remains undisclosed, players should look for the set that specifically mentions "Shield Effect" or "Barrier Absorption."
 
 ### Essential Substats for Tanking
 

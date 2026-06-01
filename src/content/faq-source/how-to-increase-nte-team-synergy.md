@@ -99,7 +99,7 @@ A team with four DPS characters will have poor synergy because they will compete
 1.  **Main DPS (e.g., [Nanally](/characters/nanally-guide-nte), Zero):** This character is the "payoff." You spend the rest of your rotation setting up buffs and reactions so that when this character enters, they deal maximum damage.
 2.  **Sub-DPS (e.g., [Hotori](/characters/hotori-best-team-nte)):** These characters usually have "Lingering Skills" that stay on the field after they swap out, allowing them to contribute to reactions while the Main DPS is active.
 3.  **Support/Buffer (e.g., Jiuyuan):** Their goal is to maximize the Cycle Meter gain and provide elemental damage bonuses to the rest of the team.
-4.  **Sustainer (e.g., [Information not yet publicly available as of 2026-05-23]):** These characters ensure your rotation isn't interrupted by enemy attacks.
+4.  **Sustainer (e.g., undisclosed):** These characters ensure your rotation isn't interrupted by enemy attacks.
 
 ### Optimizing Gear and Consoles for Team-Wide Buffs
 Consoles (NTE’s version of equipment) often come with set bonuses that only trigger upon an Esper Cycle swap. To increase team synergy through gear:
@@ -118,9 +118,9 @@ As of the current patch following the April 29th release, several team compositi
 | Team Name | Composition | Core Synergy / Reaction |
 | :--- | :--- | :--- |
 | **The Blossom Meta** | Nanally (Anima), Hotori (Lakshana), Jiuyuan (Anima), [Sustainer] | Focuses on infinite Blossom procs for AOE and healing. |
-| **Cosmic Shred** | Zero (Cosmos), [Information not yet publicly available] (Psyche), Hotori (Lakshana), [Support] | Uses Nova and Hexed to spam Ultimates and ignore Defense. |
-| **Chaos Discord** | Daffodil (Chaos), [Information not yet publicly available] (Incantation), [Information not yet publicly available] (Psyche), [Sustainer] | Maximizes the Discord Trio Reaction for massive AOE burst. |
-| **F2P Starter** | Mint (Anima), [Information not yet publicly available] (Cosmos), [Information not yet publicly available] (Lakshana), [Sustainer] | A reliable Upper Trio team using early-game units. |
+| **Cosmic Shred** | Zero (Cosmos), — (Psyche), Hotori (Lakshana), [Support] | Uses Nova and Hexed to spam Ultimates and ignore Defense. |
+| **Chaos Discord** | Daffodil (Chaos), — (Incantation), — (Psyche), [Sustainer] | Maximizes the Discord Trio Reaction for massive AOE burst. |
+| **F2P Starter** | Mint (Anima), — (Cosmos), — (Lakshana), [Sustainer] | A reliable Upper Trio team using early-game units. |
 
 ### Frequently Asked Questions (FAQ)
 

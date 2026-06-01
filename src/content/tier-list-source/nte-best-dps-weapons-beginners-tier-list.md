@@ -145,10 +145,10 @@ Oraora! is a niche Plasma weapon that grants a 2.5% basic damage bonus per hit. 
 C-Tier weapons should only be used as temporary placeholders. Their passives are either too inconsistent or provide stats that do not benefit a damage-focused rotation.
 
 ### Picture Frame (Solid)
-[Picture Frame]([Information not yet publicly available as of 2026-05-25]) has a complex passive that attempts to swap ATK and DEF based on specific HP thresholds. In practice, this often results in a significant [damage loss]([Information not yet publicly available as of 2026-05-25]) during critical burst phases when your HP might be fluctuating.
+[Picture Frame](undisclosed) has a complex passive that attempts to swap ATK and DEF based on specific HP thresholds. In practice, this often results in a significant [damage loss](undisclosed) during critical burst phases when your HP might be fluctuating.
 
 ### The Fools' Spring (Solid)
-The Fools' Spring is heavily weighted toward [DEF substats]([Information not yet publicly available as of 2026-05-25]), making it fundamentally unsuitable for primary DPS characters. It is best reserved for defensive supports who do not contribute significant damage to the team.
+The Fools' Spring is heavily weighted toward [DEF substats](undisclosed), making it fundamentally unsuitable for primary DPS characters. It is best reserved for defensive supports who do not contribute significant damage to the team.
 
 ## Recent Changes
 

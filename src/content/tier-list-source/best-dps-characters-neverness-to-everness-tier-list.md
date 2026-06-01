@@ -56,7 +56,7 @@ The Esper Cycle is the heart of NTE’s combat. Understanding how elements inter
 
 **The Esper Cycle Elemental Wheel:**
 *   **Anima + Cosmos = Blossom:** Deals massive AoE damage and leaves a lingering field that restores energy to the active character.
-*   **Incantation + Chaos = Scorch:** Applies a high-damage-over-time burn that reduces the enemy's defense by [Information not yet publicly available as of 2026-05-21].
+*   **Incantation + Chaos = Scorch:** Applies a high-damage-over-time burn that reduces the enemy's defense by undisclosed.
 *   **Lakshana + Psyche = Resonance:** Creates a pulse that slows enemy movement and increases the critical hit rate of all party members.
 *   **Chaos + Cosmos = Nova:** Triggers an explosion that deals damage based on a percentage of the enemy's missing health.
 
@@ -80,7 +80,7 @@ These characters represent the absolute pinnacle of the current meta. They posse
 
 ### Hotori: The Cosmos Powerhouse
 
-Released on May 13, 2026, Hotori has quickly claimed the top spot in the DPS rankings. As a Cosmos-attribute attacker using a unique Umbrella Katana, she offers unparalleled reach and versatility. Her playstyle revolves around building "Cosmic Tension" through her basic attacks, which she can then expend to unleash her Ultimate, [Information not yet publicly available as of 2026-05-21].
+Released on May 13, 2026, Hotori has quickly claimed the top spot in the DPS rankings. As a Cosmos-attribute attacker using a unique Umbrella Katana, she offers unparalleled reach and versatility. Her playstyle revolves around building "Cosmic Tension" through her basic attacks, which she can then expend to unleash her Ultimate, undisclosed.
 
 Hotori’s greatest strength lies in her synergy with Anima characters to trigger the Blossom reaction. Because Blossom restores energy, a well-built Hotori can essentially loop her Ultimate ability with very little downtime.
 
@@ -167,7 +167,7 @@ Haniel is the free Anima character given to all players at the start of the game
 
 ### Edgar: Survival over Strength
 
-Edgar is a Cosmos-attribute character focused on survival and healing. While he can deal damage with his [Information not yet publicly available as of 2026-05-21], his multipliers are tuned for a defensive role. Using him as a main DPS will significantly slow down your clear times in timed challenges.
+Edgar is a Cosmos-attribute character focused on survival and healing. While he can deal damage with his undisclosed, his multipliers are tuned for a defensive role. Using him as a main DPS will significantly slow down your clear times in timed challenges.
 
 ### Fadia: The Psyche Tank
 
@@ -175,7 +175,7 @@ Fadia is an S-rank character, but she is a "Survival" specialist rather than an 
 
 **Role Distribution in NTE:**
 *   **DPS (Attackers):** Hotori, Nanally, Jiuyuan, Baicang, Sakiri, Mint, Daffodill.
-*   **Support (Enablers/Buffers):** Zero, Haniel, [Information not yet publicly available as of 2026-05-21].
+*   **Support (Enablers/Buffers):** Zero, Haniel, undisclosed.
 *   **Survival (Tanks/Healers):** Fadia, Edgar.
 
 ## Recent Changes
@@ -191,7 +191,7 @@ The conclusion of Nanally’s banner on May 13 marked the end of the "Pure Anima
 
 ### Looking Ahead: Lacrimosa and Chaos
 
-Developer teasers for the upcoming Version 1.1 update, scheduled for June 3, suggest a major shake-up for the Chaos element. A new character, Lacrimosa, has been confirmed. While her full kit is [Information not yet publicly available as of 2026-05-21], she is expected to be a Chaos-attribute DPS. This could potentially elevate Daffodill’s value, as more Chaos synergy options become available.
+Developer teasers for the upcoming Version 1.1 update, scheduled for June 3, suggest a major shake-up for the Chaos element. A new character, Lacrimosa, has been confirmed. While her full kit is undisclosed, she is expected to be a Chaos-attribute DPS. This could potentially elevate Daffodill’s value, as more Chaos synergy options become available.
 
 The May 10 hotfix also provided minor buffs to Mint, specifically reducing the stamina cost of her signature "Minty Whirlwind." This has solidified her position as the best F2P DPS option, allowing her to maintain her damage output for longer durations without needing to retreat and recover stamina.
 

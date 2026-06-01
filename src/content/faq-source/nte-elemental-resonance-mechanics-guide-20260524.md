@@ -113,7 +113,7 @@ Effective team building in NTE avoids "Rainbow" teams (one of every element) bec
 
 A typical Lane might look like this:
 *   **The Blossom Lane:** Zero (Cosmos), Nanally (Anima), and Jiuyuan (Anima). This team focuses on keeping the Vita Bud turret active at all times while stacking Anima-based damage buffs.
-*   **The Discord Lane:** Baicang (Incantation), a Chaos-element character [Information not yet publicly available as of 2026-05-24], and Fadia (Psyche). This team is designed specifically to stagger bosses as quickly as possible.
+*   **The Discord Lane:** Baicang (Incantation), a Chaos-element character undisclosed, and Fadia (Psyche). This team is designed specifically to stagger bosses as quickly as possible.
 
 Because you can bring up to four characters in certain modes, a common strategy is to use three characters to form a Triple Reaction chain and a fourth character (often a Lakshana or Cosmos user) to provide utility or bridge the gap back to the start of the wheel.
 

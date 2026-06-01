@@ -110,7 +110,7 @@ Adler is the premier Incantation-element shielder in Version 1.0. Rather than re
 In fast-paced Hethereau combat, Adler’s shields are often more valuable than Fadia’s redirection because they prevent the "stagger" effect caused by heavy enemy hits. A shielded character can continue their attack animation even when struck, maintaining the momentum of the Esper Cycle. Adler is particularly dominant in "Beyond the Rails," where enemy burst damage is so high that health restoration often comes too late to save a character.
 
 **Adler’s Shield Scaling:**
-*   **Base Shield Strength:** [Information not yet publicly available as of 2026-05-21]
+*   **Base Shield Strength:** undisclosed
 *   **Duration:** 12 seconds or until broken.
 *   **Cooldown:** 15 seconds.
 
@@ -147,7 +147,7 @@ Edgar is the only dedicated, pure healer available at the launch of Neverness to
 However, Edgar ranks at the bottom of the list because his healing is stationary. Version 1.0 bosses, such as the "Urban Goliath," are incredibly mobile and frequently force the player to move across the arena. If you are forced to leave Edgar’s circle to avoid an attack, his healing becomes useless. Furthermore, Edgar provides zero offensive buffs or meaningful elemental application, making him a "DPS loss" in a meta that favors high-speed clears and aggressive rotations. He is only recommended for early-game players who lack access to Fadia, Zero, or Adler.
 
 **Edgar's 'Wild Current' Analysis:**
-*   **Healing per tick:** [Information not yet publicly available as of 2026-05-21]
+*   **Healing per tick:** undisclosed
 *   **Circle Radius:** 5 meters.
 *   **The Mobility Problem:** In a sample test against the Level 85 Anomaly Hunt boss, players spent an average of only 22% of the fight duration inside the healing circle due to boss movement and hazard zones.
 

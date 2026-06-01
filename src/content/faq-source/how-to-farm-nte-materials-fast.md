@@ -115,7 +115,7 @@ The in-game exchange shop resets monthly. You should always prioritize purchasin
 ### NTE Character Tier List for Farming
 
 Not all characters are built for farming efficiency. For Anomaly Zones, you want high AOE (Area of Effect) damage to clear waves quickly if you haven't unlocked Auto-Sweep yet.
-*   **S-Tier (Farming):** Nanally, Hestia, and [Information not yet publicly available as of 2026-05-22]. Their ability to clear entire rooms of "Anomaly Shades" in seconds makes manual farming bearable.
+*   **S-Tier (Farming):** Nanally, Hestia, and undisclosed. Their ability to clear entire rooms of "Anomaly Shades" in seconds makes manual farming bearable.
 *   **A-Tier (Farming):** Mint and Sakura. They excel at single-target boss damage, making them ideal for the Anomaly Pilgrimage bosses.
 
 ### Weekly Reset Checklist for Hethereau

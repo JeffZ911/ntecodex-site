@@ -82,8 +82,8 @@ When you swap to an adjacent element with a full meter, you trigger a Duo Reacti
 | :--- | :--- | :--- |
 | **Blossom** | Cosmos + Anima | Creates a floral field that deals continuous Anima DMG and heals the active Esper. |
 | **Hexed** | Incantation + Chaos | Applies a curse that reduces enemy DEF and deals periodic Chaos DMG. |
-| **Resonance** | [Information not yet publicly available as of 2026-05-23] | [Information not yet publicly available as of 2026-05-23] |
-| **Shatter** | [Information not yet publicly available as of 2026-05-23] | [Information not yet publicly available as of 2026-05-23] |
+| **Resonance** | — | — |
+| **Shatter** | — | — |
 
 #### Generating Esper Meter
 
@@ -112,8 +112,8 @@ You do not need to spend money to build a competitive team in NTE. The game prov
 *   **Zero (S-Class, Cosmos):** Your protagonist. Zero is a versatile damage dealer whose kit scales well into the late game. Being Cosmos element makes Zero an easy starting point for the Esper Wheel.
 *   **Aurelia (S-Class, Anima):** Available as a reward for logging in for three consecutive days. Aurelia excels at crowd control and triggering the Blossom reaction when paired with Zero.
 *   **Chiz (S-Class, Lakshana):** Obtained by reaching Level 10 in the City Tycoon system. Chiz provides massive shields and defensive utility, making her perfect for difficult "Anomaly" boss fights.
-*   **Mint (A-Class, [Information not yet publicly available as of 2026-05-23]):** A reliable support unit given during the prologue.
-*   **Adler (A-Class, [Information not yet publicly available as of 2026-05-23]):** A ranged specialist provided during the first chapter of the main story.
+*   **Mint (A-Class, undisclosed):** A reliable support unit given during the prologue.
+*   **Adler (A-Class, undisclosed):** A ranged specialist provided during the first chapter of the main story.
 
 For those pulling on banners, **Nanally (S-Class, Incantation)** is the premier DPS at launch. Her ability to stay airborne while dealing sustained Incantation damage makes her safer to play than many melee units. **Sakiri (S-Class, Chaos)** is another top-tier choice for players looking for high burst damage and "Hexed" reaction synergy.
 
@@ -156,7 +156,7 @@ A highly effective F2P (Free-to-Play) rotation for the early game is the **Zero-
 
 1.  Start with **Zero** to apply Cosmos pressure and build meter.
 2.  Swap to **Aurelia** once the meter is full to trigger **Blossom**, which deals AoE damage and keeps your team healthy.
-3.  Swap to **Chiz** to trigger the **[Information not yet publicly available as of 2026-05-23]** reaction, which provides a shield.
+3.  Swap to **Chiz** to trigger the **undisclosed** reaction, which provides a shield.
 4.  Cycle back to **Zero** (Lakshana to Cosmos) to complete the wheel and reset your cooldowns.
 
 This rotation ensures you always have a shield active and a healing field on the ground, making the early-game difficulty spikes much more manageable.

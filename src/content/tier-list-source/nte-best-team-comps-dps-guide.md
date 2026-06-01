@@ -187,7 +187,7 @@ In the Patch 1.0.1 balance notes, several minor adjustments were made:
 **Hotori Banner Pull Priority:**
 *   **High Priority:** If you lack a strong Sub-DPS or use Chiz/Baicang.
 *   **Medium Priority:** If you already have a fully built Nanally/Jiuyuan squad.
-*   **Low Priority:** If you are waiting for the [Information not yet publicly available as of 2026-05-24] banner.
+*   **Low Priority:** If you are waiting for the undisclosed banner.
 
 Understanding these team dynamics is the first step toward mastering the urban supernatural challenges of Hethereau. As the 1.0 cycle continues, keep an eye on reaction efficiency to stay ahead of the meta.
 

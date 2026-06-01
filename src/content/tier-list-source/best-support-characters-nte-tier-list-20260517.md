@@ -104,7 +104,7 @@ Haniel (Psyche/Synthesis) is the backbone of high-investment teams. Unlike Sakir
 Haniel’s "Synthesis" state allows her to act as a universal elemental donor, making her compatible with almost any reaction-based team. She is the preferred choice for players who have already optimized their gear and are looking for the highest possible damage ceiling in endgame content.
 
 **Character Profile: Sakiri**
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-17]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Recommended Cartridges:** 4-Piece "Urban Echo" for increased Energy Recharge and Team ATK.
 *   **Key Awakening:** A4 (Unlock 30% ATK Buff).
 

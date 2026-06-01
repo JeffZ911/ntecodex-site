@@ -55,9 +55,9 @@ Every weapon in NTE falls into one of five categories: Plasma, Solid, Gas, Liqui
 In the early 1.0 meta, CRIT stats significantly outperform flat ATK once your characters reach Level 40 and above. Because NTE features high enemy health pools in the New Herland District, achieving a consistent 1:2 ratio of CRIT Rate to CRIT DMG is the primary goal for any Main DPS build.
 
 **Damage Multiplier Efficiency (Estimated 1.0 Meta):**
-*   **CRIT DMG:** [Information not yet publicly available as of 2026-05-19]
-*   **ATK%:** [Information not yet publicly available as of 2026-05-19]
-*   **Flat ATK:** [Information not yet publicly available as of 2026-05-19]
+*   **CRIT DMG:** undisclosed
+*   **ATK%:** undisclosed
+*   **Flat ATK:** undisclosed
 
 ## S Tier
 

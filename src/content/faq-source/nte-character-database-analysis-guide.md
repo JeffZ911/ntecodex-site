@@ -140,7 +140,7 @@ Critical Ripostes are another core mechanic. When an enemy flashes red, performi
 
 
 *   **Best Team Compositions for Nanally and Hotori:** Combining Nanally's follow-up damage with Hotori's skill recording creates a "Hyper Anima" team that currently dominates the meta.
-*   **NTE Weapon Database: Best Arcs for Every Archetype:** A look at the top-performing Arcs like [Information not yet publicly available as of 2026-05-23] for Plasma units.
+*   **NTE Weapon Database: Best Arcs for Every Archetype:** A look at the top-performing Arcs like undisclosed for Plasma units.
 *   **City Tycoon Guide: How to Unlock Chiz for Free:** Reach Tycoon Level 18 by managing cafes and racing cars in Hethereau to obtain this S-Class Cosmos powerhouse.
 *   **NTE Banner Schedule: Version 1.1 Leaks and Lacrimosa Details:** Lacrimosa is expected to be the next S-Class Chaos unit, potentially shifting the meta toward "Discord" teams.
 *   **Beginner's Guide to Hethereau: Anomaly Hunting Tips:** Mastering the parry system and elemental weaknesses is the fastest way to clear high-level Anomaly Zones.

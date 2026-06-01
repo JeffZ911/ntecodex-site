@@ -80,7 +80,7 @@ To reach the Scarborough Fair gacha menu, you must progress through the prologue
 
 ### Account Binding and Security
 
-Once you successfully pull a target like Hotori, stop rerolling immediately. Navigate to the account settings and ensure your salted email is properly secured. [Information not yet publicly available as of 2026-05-15] regarding the ability to unbind or change the primary email address, so choose an email you intend to keep.
+Once you successfully pull a target like Hotori, stop rerolling immediately. Navigate to the account settings and ensure your salted email is properly secured. undisclosed regarding the ability to unbind or change the primary email address, so choose an email you intend to keep.
 
 ### The Scarborough Fair Mechanic
 
@@ -170,7 +170,7 @@ If you choose to delete an account rather than using a salted email, be aware th
 Most launch rewards in Neverness to Everness are available for the duration of the 1.0 version. However, specific "Launch Week" bonuses may expire within 14 days of the April 29th release. Check the expiration timer on individual mail items in your inbox.
 
 **Can I unbind a salted email later?**
-[Information not yet publicly available as of 2026-05-15]. Most modern gacha games allow you to link a secondary social media account (like X or Google) and eventually change the primary email, but you should treat the initial email as permanent for safety.
+undisclosed. Most modern gacha games allow you to link a secondary social media account (like X or Google) and eventually change the primary email, but you should treat the initial email as permanent for safety.
 
 ## Sources
 

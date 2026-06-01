@@ -117,10 +117,10 @@ As you accumulate Participation Points, you can claim rewards at specific interv
 
 | Points Reached | Reward 1 | Reward 2 |
 | :--- | :--- | :--- |
-| 20 Points | [Information not yet publicly available as of 2026-05-15] | Fons x 2,000 |
-| 40 Points | [Information not yet publicly available as of 2026-05-15] | Beetle Coins x 5 |
-| 60 Points | [Information not yet publicly available as of 2026-05-15] | Hunter EXP x 100 |
-| 80 Points | [Information not yet publicly available as of 2026-05-15] | Upgrade Materials |
+| 20 Points | — | Fons x 2,000 |
+| 40 Points | — | Beetle Coins x 5 |
+| 60 Points | — | Hunter EXP x 100 |
+| 80 Points | — | Upgrade Materials |
 | 100 Points | Annulith x 60 | Fons x 5,000 |
 
 ### Managing Character Pixels for Daily Completion

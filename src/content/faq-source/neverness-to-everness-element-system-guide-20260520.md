@@ -62,7 +62,7 @@ Each of the six elements in Hethereau represents a different facet of the supern
 | Cosmos | Silver | Space / Gravity | Zero |
 | Anima | Green | Nature / Vitality | [Nanally](/characters/nanally-guide-nte) |
 | Incantation | Red | Fire / Destruction | [Sakiri](/characters/sakiri-nte-free-5-star-guide) |
-| Chaos | Purple | Entropic / Void | [Information not yet publicly available as of 2026-05-20] |
+| Chaos | Purple | Entropic / Void | — |
 | Psyche | Azure | Mind / Flow | Mint |
 
 ### The Esper Wheel: Understanding the Adjacency Rule
@@ -116,7 +116,7 @@ The "Cycle Rate" stat is the most important attribute for players looking to max
 
 Every character in Neverness to Everness possesses a "Resonance Passive." These are unique buffs that remain active even when the character is off-field, provided they were the last one to trigger a specific reaction.
 
-For example, a character might have a passive that says: "When triggering the Scorch reaction, increase the team's Fire Damage by [Information not yet publicly available as of 2026-05-20] for 15 seconds." By building a team where these passives complement each other, you can create a "snowball" effect where each reaction makes the next one even more powerful. 
+For example, a character might have a passive that says: "When triggering the Scorch reaction, increase the team's Fire Damage by undisclosed for 15 seconds." By building a team where these passives complement each other, you can create a "snowball" effect where each reaction makes the next one even more powerful. 
 
 When building your team, do not just look at individual power. Look at the "links" on the Esper Wheel. A team consisting of Lakshana, Cosmos, and Anima (Top Trio) will naturally have better flow than a disjointed team of Lakshana, Incantation, and Psyche, which would struggle to trigger any reactions at all.
 

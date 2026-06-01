@@ -115,7 +115,7 @@ Because Hotori’s kit already includes built-in resistance shred, the Defense I
 Nanally is the face of the "The Ichi-daime" banner and currently sits at the top of the tier list.
 *   **Recommended Set:** 4-piece Fireflies and the Forest.
 *   **Module Priority:** Focus on Type II Modules with Crit DMG main stats. Because her set provides 56% Crit DMG, you should aim for a Crit Rate of at least 65% through sub-stats to ensure consistent procs.
-*   **Signature Arc:** [Information not yet publicly available as of 2026-05-22].
+*   **Signature Arc:** undisclosed.
 
 #### Hotori (S-Rank Cosmos DPS)
 Hotori relies on her "Esper Cycle" to maintain her transformed state.

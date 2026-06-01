@@ -94,7 +94,7 @@ This is exceptionally powerful when paired with burst-heavy units. For example, 
 While NTE favors offensive momentum, certain boss mechanics require robust sustain. 
 
 *   **Adler:** Operates using **"Karma" stacks**. As Adler or his teammates deal damage, he accumulates Karma. These stacks can be consumed to generate powerful shields that absorb incoming damage while applying an Incantation-based Damage over Time (DoT) effect to nearby enemies. He is the preferred choice for players who prefer "proactive" defense—preventing damage before it happens.
-*   **Fadia:** Unlike Adler, Fadia is a "reactive" support. She is the game's premier pure healer. Her unique utility is **damage sharing**, where she can link the team together to distribute a single heavy hit across all members, preventing a one-shot kill on a squishy DPS. Her healing scales with her [Information not yet publicly available as of 2026-05-15] stat, making her easy to gear in the early game.
+*   **Fadia:** Unlike Adler, Fadia is a "reactive" support. She is the game's premier pure healer. Her unique utility is **damage sharing**, where she can link the team together to distribute a single heavy hit across all members, preventing a one-shot kill on a squishy DPS. Her healing scales with her undisclosed stat, making her easy to gear in the early game.
 
 ### Mastering the Esper Cycle System
 
@@ -105,8 +105,8 @@ The **Esper Cycle** is the elemental reaction system that dictates the flow of c
 When you swap characters in a specific sequence, you trigger powerful reactions:
 *   **Blossom:** Triggered by swapping from a **Cosmos** character to an **Anima** character. This reaction creates an area-of-effect (AoE) explosion that restores a portion of the team's Ultimate energy.
 *   **Trio-Esper Reactions:** In the endgame, you can trigger advanced reactions like **Charge** and **Discord**.
-    *   **Charge** occurs when three different elements are cycled through within a [Information not yet publicly available as of 2026-05-15] second window, significantly boosting the active character's break damage.
-    *   **Discord** is triggered by [Information not yet publicly available as of 2026-05-15], resulting in a massive reduction in enemy elemental resistance.
+    *   **Charge** occurs when three different elements are cycled through within a undisclosed second window, significantly boosting the active character's break damage.
+    *   **Discord** is triggered by undisclosed, resulting in a massive reduction in enemy elemental resistance.
 
 Effective support play involves constantly rotating your characters to ensure these reactions are always active. A common rotation involves using Sakiri (Anima) to gather enemies, swapping to a Cosmos unit to trigger Blossom for energy, and finally bringing in your Main DPS to finish the fight.
 
@@ -117,10 +117,10 @@ In Neverness to Everness, weapons are known as **Arcs**. Choosing the right Arc 
 | Character | Best-in-Slot (BiS) Arc | Key Stats to Focus On |
 | :--- | :--- | :--- |
 | **Sakiri** | Good Boy's Grand Adventure | Energy Regen / HP% |
-| **Haniel** | [Information not yet publicly available] | Elemental DMG / ATK% |
-| **Hotori** | [Information not yet publicly available] | Crit Rate / Chaos DMG |
-| **Adler** | [Information not yet publicly available] | DEF% / Karma Gain Rate |
-| **Fadia** | [Information not yet publicly available] | Healing Bonus / HP% |
+| **Haniel** | — | Elemental DMG / ATK% |
+| **Hotori** | — | Crit Rate / Chaos DMG |
+| **Adler** | — | DEF% / Karma Gain Rate |
+| **Fadia** | — | Healing Bonus / HP% |
 
 **"Good Boy's Grand Adventure"** is currently the gold standard for Sakiri. It provides a significant boost to Energy Regeneration, allowing her to keep "Feast of Gluttony" active for almost every rotation. For most other supports, prioritize **Energy Regeneration** and **Elemental Mastery** [exact stat name pending official confirmation] to ensure they can contribute to the Esper Cycle without needing significant field time.
 

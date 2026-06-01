@@ -93,7 +93,7 @@ Every Disk starts with a set number of sub-stats based on its rarity. S-Rank (Go
 *   If a Disk starts with 4 sub-stats, every 5-level breakpoint (+5, +10, etc.) will randomly increase the value of one of those stats.
 *   If a Disk starts with fewer than 4, the breakpoints will first unlock new slots until 4 are filled, then begin upgrading them.
 
-[Information not yet publicly available as of 2026-05-21] regarding the exact percentage weight of each sub-stat roll.
+undisclosed regarding the exact percentage weight of each sub-stat roll.
 
 ### Farming Guide: Rabbit Hole and Rewind Systems
 To sustain a constant stream of upgrade materials, you must engage with two primary systems:
@@ -120,10 +120,10 @@ Cartridges can roll different Main Stats depending on their designated slot/type
 ### Chart: Resource Costs (Beetle Coins) per Level Range
 *Note: Costs are approximate based on S-Rank gear.*
 
-*   **Levels 1-5:** ~[Information not yet publicly available as of 2026-05-21] Beetle Coins
-*   **Levels 6-10:** ~[Information not yet publicly available as of 2026-05-21] Beetle Coins
-*   **Levels 11-15:** ~[Information not yet publicly available as of 2026-05-21] Beetle Coins
-*   **Levels 16-20:** ~[Information not yet publicly available as of 2026-05-21] Beetle Coins
+*   **Levels 1-5:** ~undisclosed Beetle Coins
+*   **Levels 6-10:** ~undisclosed Beetle Coins
+*   **Levels 11-15:** ~undisclosed Beetle Coins
+*   **Levels 16-20:** ~undisclosed Beetle Coins
 
 ### Min-Maxing Strategy: When to Start Upgrading S-Rank Gear
 Do not spend all your Beetle Coins on B-Rank or A-Rank Disks early on. The general rule of thumb is to level A-Rank gear to +10 to get through the mid-game story chapters. Once you reach **Hunter Level 40**, the drop rate for S-Rank Cartridges in the Rabbit Hole increases significantly. This is when you should begin the "true" grind, looking for Cartridges with matching Main Stats and at least two desirable sub-stats (e.g., CRIT Rate and ATK) before committing to a +20 upgrade.
@@ -153,9 +153,9 @@ Your Hunter Level (also known as Appraisal Level) acts as a gatekeeper for gear 
 
 | Set Name | 2-Piece Bonus | 4-Piece Bonus (Legend Effect) |
 | :--- | :--- | :--- |
-| **Neon Pulse** | +15% Electric DMG | [Information not yet publicly available as of 2026-05-21] |
+| **Neon Pulse** | +15% Electric DMG | — |
 | **Urban Vanguard** | +10% ATK | Increases DMG by 20% after using a Dodge Counter |
-| **Hollow Echo** | +20% Energy Regen | [Information not yet publicly available as of 2026-05-21] |
+| **Hollow Echo** | +20% Energy Regen | — |
 
 By carefully balancing your Beetle Coin expenditures between Arcs and Disks, and focusing your farming efforts on the Rabbit Hole during high-yield events, you will ensure your Espers are ready for the toughest Anomalies Hekate can throw at you.
 

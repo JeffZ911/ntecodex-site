@@ -79,14 +79,14 @@ The Arcs in this tier are considered "universal" supports. They provide such sig
 
 *   **Base Stat:** Charge Efficiency [exact value pending official confirmation].
 *   **Passive Effect:** After the wearer casts an Ultimate, all team members receive a 10-16% Team ATK buff for 12 seconds.
-*   **Refinement Scaling:** At Refinement Level 5, the ATK buff increases to [Information not yet publicly available as of 2026-05-24], and the energy restoration per second is significantly enhanced.
+*   **Refinement Scaling:** At Refinement Level 5, the ATK buff increases to undisclosed, and the energy restoration per second is significantly enhanced.
 
 ### Blow up the Crowd: Haniel's Best-in-Slot
 
 For off-field supports like Haniel, **Blow up the Crowd (Solid)** is essential. It is designed specifically for characters who spend most of the fight sidelined.
 
 *   **Refinement Level 1:** Boosts the active character's ATK by 14% while the wearer is sidelined.
-*   **Refinement Level 5:** [Information not yet publicly available as of 2026-05-24].
+*   **Refinement Level 5:** undisclosed.
 *   **Synergy:** This Arc allows Haniel to provide massive offensive pressure without ever taking field time away from your main DPS.
 
 ### Eternal Waltz: Maximizing Fadia's Healing
@@ -120,7 +120,7 @@ As an A-Rank (Liquid) weapon, **Call of the Twisted City** is the best accessibl
 
 ### Cosmos Daze: Support Skill Synergy
 
-**Cosmos Daze (A-Rank, Gas)** and its sister Arc, **Wild Reverie**, show strong synergy for characters who frequently use Support Skills. They provide a 10-second damage window for the team, which is perfect for burst-heavy rotations. [Information not yet publicly available as of 2026-05-24 regarding the exact damage multiplier].
+**Cosmos Daze (A-Rank, Gas)** and its sister Arc, **Wild Reverie**, show strong synergy for characters who frequently use Support Skills. They provide a 10-second damage window for the team, which is perfect for burst-heavy rotations. undisclosed.
 
 ### Raging Flames (S-Rank, Plasma)
 
@@ -147,7 +147,7 @@ Primarily used as an HP stat stick, **The Forgotten** is useful for survivabilit
 
 ### Shiny Days (Liquid)
 
-**Shiny Days** provides decent energy regeneration, but it is often outclassed by A-Rank Liquid options like *Call of the Twisted City*. Its stats are [Information not yet publicly available as of 2026-05-24].
+**Shiny Days** provides decent energy regeneration, but it is often outclassed by A-Rank Liquid options like *Call of the Twisted City*. Its stats are undisclosed.
 
 ## C Tier
 

@@ -47,7 +47,7 @@ Furthermore, the "No 50/50" system on Limited Banners is a game-changer. If you 
 | Base S-Rank Rate | 1.87% |
 | Base A-Rank Rate | 11.67% |
 | Hard Pity (S-Rank) | 90 Pulls |
-| Soft Pity Start | [Information not yet publicly available as of 2026-05-15] |
+| Soft Pity Start | — |
 | Limited Banner Mechanic | No 50/50 (Guaranteed Featured Unit on S-Rank) |
 | Standard Banner Name | Strange Encounters |
 | Primary Pull Currency | Fabricated Dice |
@@ -95,7 +95,7 @@ To ensure you have enough currency for approximately 30+ pulls, you must claim a
 *   `NTE2026LAUNCH` – [exact value pending official confirmation] Annulith
 *   `HETHEREOU0429` – 5x Fabricated Dice
 *   `MINTGIFTS` – 200x Annulith
-*   `SCARBOROUGHFAIR` – [Information not yet publicly available as of 2026-05-15]
+*   `SCARBOROUGHFAIR` – undisclosed
 
 ## Best Starters
 
@@ -129,7 +129,7 @@ When rerolling, you are looking for characters that provide high utility or mass
 
 ### Who to Avoid: Characters Given for Free
 
-Do not aim for characters that are provided through the main story or beginner login events. Specifically, [Information not yet publicly available as of 2026-05-15] and Mint (who is provided early) should not be the focus of your reroll. Your goal is to supplement these free units with high-rarity powerhouses.
+Do not aim for characters that are provided through the main story or beginner login events. Specifically, undisclosed and Mint (who is provided early) should not be the focus of your reroll. Your goal is to supplement these free units with high-rarity powerhouses.
 
 ### Synergy Chart: Best A-Rank Pairings
 

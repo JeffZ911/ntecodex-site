@@ -128,7 +128,7 @@ Building a team requires looking at the Elemental Wheel and ensuring your three 
 *   **The Blossom Core (Cosmos/Anima/Lakshana):** This team focuses on high uptime for the Blossom turret and the Remora slow. It is excellent for "lazy" playstyles where the turrets do much of the heavy lifting.
     *   *Key Characters:* Mint (Cosmos), [Nanally](/characters/nanally-guide-nte) (Anima), Iris (Lakshana).
 *   **The Chaos Burst Team (Incantation/Chaos/Psyche):** This team focuses on the Discord Trio reaction to break boss shields quickly, followed by Scorch and Nova for massive damage.
-    *   *Key Characters:* Ruta (Incantation), Sakya (Chaos), [Information not yet publicly available as of 2026-05-19] (Psyche).
+    *   *Key Characters:* Ruta (Incantation), Sakya (Chaos), undisclosed (Psyche).
 
 ### Optimizing Gear for Esper Damage
 

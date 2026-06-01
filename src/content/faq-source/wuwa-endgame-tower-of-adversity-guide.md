@@ -99,8 +99,8 @@ The Hazard Zone typically resets on the 1st and 15th of every month. Upon reset,
 ### Advanced Combat Mechanics: Tune Break and Rupture
 As players progress into the 2026 Version 3.3 content, new mechanics have been discussed within the community to handle the increasing Attribute RES of Tower enemies. 
 
-*   **Tune Break:** [Information not yet publicly available as of 2026-05-12].
-*   **Tune Rupture:** [Information not yet publicly available as of 2026-05-12].
+*   **Tune Break:** undisclosed.
+*   **Tune Rupture:** undisclosed.
 
 Currently, players rely on standard "Vibration Strength" depletion to stun bosses. Breaking a boss's white bar (Vibration Shield) remains the most effective way to deal massive burst damage during the "Impaired" state.
 
@@ -110,7 +110,7 @@ The meta for Version 3.3 emphasizes high synergy between Sub-DPS units and Main 
 **Top Tier Teams for Hazard Zone:**
 1.  **The Celestial Burst Team:** Jinhsi (Main DPS), Zhezhi (Sub-DPS), and Shorekeeper (Support). This team excels in the Middle Tower due to Jinhsi's massive nuke potential and Zhezhi's ability to coordinate attacks.
 2.  **The Electro Resonance Team:** Xiangli Yao (Main DPS), Yinlin (Sub-DPS), and Verina (Support). A staple for clearing the Tower of Echoing, utilizing Yinlin’s off-field Electro damage.
-3.  **The Future Meta Team:** [Information not yet publicly available as of 2026-05-12] (Carlotta), [Information not yet publicly available as of 2026-05-12] (Lucy), and [Information not yet publicly available as of 2026-05-12] (Rebecca).
+3.  **The Future Meta Team:** undisclosed (Carlotta), undisclosed (Lucy), and undisclosed (Rebecca).
 
 When building your teams, ensure your supports (Verina, Shorekeeper, Baizhi) have enough Energy Regen to use their Ultimates every rotation, as the healing and buffs are vital for surviving Level 100+ enemies.
 
@@ -133,7 +133,7 @@ While the Tower of Adversity is the primary source of Astrites, other modes offe
 
 ### Preparing for Version 3.4 Updates
 With Version 3.4 on the horizon, drip marketing has hinted at new challenges that may alter the Tower meta.
-*   **New Characters:** Rumors regarding Lucy and Rebecca suggest a shift toward [Information not yet publicly available as of 2026-05-12].
+*   **New Characters:** Rumors regarding Lucy and Rebecca suggest a shift toward undisclosed.
 *   **Level Cap Increase:** As enemies in the Hazard Zone now reach Level 100 and beyond, optimizing your Echoes with maxed-out offensive stats (Crit Rate, Crit Damage, and Attribute DMG) is mandatory. Ensure you are farming the "Fallacy of No Return" weekly boss to upgrade your Forte levels to the maximum.
 
 To stay ahead, focus on horizontal investment. Having nine well-geared Resonators is far more valuable for the Tower of Adversity than having one "perfect" team that runs out of Vigor after the first two stages.

@@ -180,7 +180,7 @@ Maximizing your Support Agents requires more than just a good W-Engine. You must
 
 ### Top Support Agents in ZZZ
 
-As of Version 2.7, the Support meta is dominated by **Sunna** and **Ukinami Yuzuha**, who offer unprecedented utility for Physical and [Information not yet publicly available as of 2026-05-14] teams respectively. However, the 1.0 roster remains essential for F2P players:
+As of Version 2.7, the Support meta is dominated by **Sunna** and **Ukinami Yuzuha**, who offer unprecedented utility for Physical and undisclosed teams respectively. However, the 1.0 roster remains essential for F2P players:
 
 *   **Nicole:** Essential for Ether teams and grouping enemies.
 *   **Soukaku:** The premier buffer for Ice teams.

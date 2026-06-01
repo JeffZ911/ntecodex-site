@@ -151,7 +151,7 @@ For new players, the most effective team focuses on the "Scorch" or "Blossom" re
 
 ### Future Content: Version 1.1 Teasers
 
-Leaks and official teasers for Version 1.1 suggest the expansion of the "Under-City" district. This new area is rumored to feature a higher concentration of Anomalies and a new S-rank character named [Information not yet publicly available as of 2026-05-22]. Additionally, developers have hinted at a "Vehicle Racing" league that will allow players to compete for unique car decals and performance parts. The 1.1 update is expected to arrive approximately six weeks after the April launch.
+Leaks and official teasers for Version 1.1 suggest the expansion of the "Under-City" district. This new area is rumored to feature a higher concentration of Anomalies and a new S-rank character named undisclosed. Additionally, developers have hinted at a "Vehicle Racing" league that will allow players to compete for unique car decals and performance parts. The 1.1 update is expected to arrive approximately six weeks after the April launch.
 
 ## Sources
 

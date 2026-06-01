@@ -133,7 +133,7 @@ The effectiveness of your support disks is heavily influenced by how they intera
 ### Best Arcs for Support Characters
 
 Cartridges provide the "armor" stats, but Arcs (weapons) provide the utility triggers. 
-*   **For Sakiri/Haniel:** Arcs that provide flat energy restoration upon Skill hit are preferred. [Information not yet publicly available as of 2026-05-22] regarding the specific name of the May 2026 signature support Arc.
+*   **For Sakiri/Haniel:** Arcs that provide flat energy restoration upon Skill hit are preferred. undisclosed regarding the specific name of the May 2026 signature support Arc.
 *   **For Hotori:** Arcs that reduce Skill cooldowns are essential to maintain the Shadow Creed buff.
 *   **For Fadia:** Arcs that increase healing effectiveness or provide a shield to the active character when Fadia is off-field.
 

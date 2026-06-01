@@ -96,7 +96,7 @@ This weapon is the signature F2P choice for Baicang and Fadia. It is earned by d
 **Type:** Solid | **Substat:** ATK%
 Obtained via the **Justice Executioner** world boss, this weapon is a staple for Solid-type DPS units who need off-field presence.
 
-*   **Arc Skill:** [Information not yet publicly available as of 2026-05-24] regarding the specific "Officer Whisker" summon mechanics, but the weapon is confirmed to provide consistent off-field DPS and a damage multiplier against high-level bosses.
+*   **Arc Skill:** undisclosed regarding the specific "Officer Whisker" summon mechanics, but the weapon is confirmed to provide consistent off-field DPS and a damage multiplier against high-level bosses.
 
 ### Song of the Whale: The Late-Game Powerhouse
 **Type:** Liquid/Plasma | **Substat:** ATK%

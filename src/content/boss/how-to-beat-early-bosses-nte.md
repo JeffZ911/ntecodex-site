@@ -39,7 +39,7 @@ Early game bosses in NTE serve as skill checks for the Break Meter and Esper Cyc
 | Boss Name | Level Range | Elemental Weakness | Primary Location |
 | :--- | :--- | :--- | :--- |
 | Picture Frame | 1 - 5 | Physical / Neutral | Bridge Crossings |
-| Bopp | 10 - 15 | [Information not yet publicly available as of 2026-05-21] | Anomaly Commission (Industrial) |
+| Bopp | 10 - 15 | — | Anomaly Commission (Industrial) |
 | Black Tome | 20 - 25 | Chaos | New Herland District |
 
 ### Picture Frame (Tutorial Boss)

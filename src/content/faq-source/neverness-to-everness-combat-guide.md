@@ -60,9 +60,9 @@ Duo Reactions occur when you swap from an active character with a full Esper Met
 
 | Element Pair | Reaction Name | Effect |
 | :--- | :--- | :--- |
-| [Information not yet publicly available] | Remora | [Information not yet publicly available as of 2026-05-15] |
-| [Information not yet publicly available] | Blossom | [Information not yet publicly available as of 2026-05-15] |
-| [Information not yet publicly available] | [Information not yet publicly available] | [Information not yet publicly available] |
+| — | Remora | — |
+| — | Blossom | — |
+| — | — | — |
 
 Because the game is in its early post-launch phase, the specific mathematical coefficients for these reactions are still being calculated by the community. However, the mechanical requirement remains consistent: you must fill the meter of the incoming character before the swap is performed to see the reaction name appear on the UI.
 

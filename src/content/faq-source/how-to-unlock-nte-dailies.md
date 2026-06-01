@@ -63,7 +63,7 @@ Once you finish "Film Anomaly," the **Exploration Guide** becomes available. Thi
 | :--- | :--- |
 | **Main Story Milestone** | Complete "Prologue - Part 2" |
 | **Specific Quest** | "Film Anomaly" |
-| **Minimum Hunter Level** | [Information not yet publicly available as of 2026-05-22] |
+| **Minimum Hunter Level** | — |
 | **Menu Name** | Exploration Guide |
 | **Daily Task Tab** | Participation Tasks |
 
@@ -170,7 +170,7 @@ Dailies are the primary tool for overcoming the level gates that stop story prog
 | **Chapter 2 Conclusion** | Level 8 |
 | **Chapter 3 Start** | Level 14 |
 | **Chapter 4 Start** | Level 24 |
-| **Endgame Domains Unlock** | [Information not yet publicly available as of 2026-05-22] |
+| **Endgame Domains Unlock** | — |
 
 ### Weekly vs. Daily Activity Comparison
 

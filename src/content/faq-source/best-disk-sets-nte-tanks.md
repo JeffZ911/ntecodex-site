@@ -130,7 +130,7 @@ Arcs serve as the weapons of NTE, and choosing one that complements your disk se
 
 1.  **Day Off:** This is widely considered the best-in-slot (BiS) Arc for HP-scaling tanks like Fadia. It provides a significant base HP stat and a passive that restores a percentage of Max HP whenever the character triggers an elemental reaction.
 2.  **Hethereau's Keeper:** The premier choice for Adler and other DEF-based tanks. It increases base DEF and grants a stacking Shield Strength bonus that perfectly synergizes with the Kingdom's Guard disk set.
-3.  **[Information not yet publicly available as of 2026-05-15]:** While other Arcs exist, these two remain the dominant choices for pure tanking roles in the current Version 1.0 meta.
+3.  **undisclosed:** While other Arcs exist, these two remain the dominant choices for pure tanking roles in the current Version 1.0 meta.
 
 ### Recommended Team Comps for Survival
 

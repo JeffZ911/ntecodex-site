@@ -69,7 +69,7 @@ For supports who focus on Skill usage rather than Ultimates, **Shadow Creed** is
 | **Shadow Creed** | ATK +10% | Wearer ATK +25% for 20s after Skill | Hybrid Supports, Sub-DPS |
 | **Kingdom's Guard** | DEF +15% | Shield Effects +20% | Adler, Defensive builds |
 | **Lost Radiance** | Cosmos DMG +10% | Ignore 25% Enemy DEF for 20s after Ultimate | Zero (MC), [Hotori](/characters/hotori-best-team-nte) |
-| **[Information not yet publicly available]** | Healing Bonus +20% | [Information not yet publicly available] | Edgar, Jiuyuan |
+| **—** | Healing Bonus +20% | — | Edgar, Jiuyuan |
 
 ### Best-in-Slot (BiS) Recommendations by Character
 

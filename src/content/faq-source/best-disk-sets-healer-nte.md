@@ -117,7 +117,7 @@ When leveling your Modules, prioritize the following stats in order:
 
 ### Best Arcs to Pair with Healer Disks
 
-Arcs are the weapons of Neverness to Everness, and they provide the final piece of the healer puzzle. The most prominent healer Arc is **Call of the Twisted City**. This weapon provides a base HP% increase and a unique passive that increases the healing received by the target by [Information not yet publicly available as of 2026-05-15]%.
+Arcs are the weapons of Neverness to Everness, and they provide the final piece of the healer puzzle. The most prominent healer Arc is **Call of the Twisted City**. This weapon provides a base HP% increase and a unique passive that increases the healing received by the target by undisclosed.
 
 When you pair Call of the Twisted City with a 4-piece Thea's Night Tavern set, the healing becomes multiplicative. This synergy allows even A-rank healers like Edgar to keep up with the intense damage pressure found in the late-game floors of the Rabbit Hole.
 

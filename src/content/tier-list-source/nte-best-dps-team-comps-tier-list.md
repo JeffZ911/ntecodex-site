@@ -144,10 +144,10 @@ This team utilizes characters given through the main story or common "Standard R
 
 | Character | Role | Element | Recommended Arc |
 | :--- | :--- | :--- | :--- |
-| **Zero** | Main DPS | Cosmos | [Information not yet publicly available] |
-| **Edgar** | Healer | [Information unavailable] | [Information not yet publicly available] |
-| **Adler** | Shield | Incantation | [Information not yet publicly available] |
-| **Mint** | Sub-DPS | Anima | [Information not yet publicly available] |
+| **Zero** | Main DPS | Cosmos | — |
+| **Edgar** | Healer | [Information unavailable] | — |
+| **Adler** | Shield | Incantation | — |
+| **Mint** | Sub-DPS | Anima | — |
 
 ### Generalist Anima/Cosmos Comps
 

@@ -88,7 +88,7 @@ This set is the best-in-slot (BiS) for [Sakiri](/characters/sakiri-nte-free-5-st
 With the release of [Hotori](/characters/hotori-best-team-nte) in Phase 2, Shadow Creed has risen to S-Tier status. While it functions as a damage set, its application for "Sub-DPS" supports is unparalleled.
 
 *   **2-Piece Bonus**: Increases ATK by 10%.
-*   **4-Piece Bonus**: [Information not yet publicly available as of 2026-05-20].
+*   **4-Piece Bonus**: undisclosed.
 
 Shadow Creed is favored for characters like Hotori because it allows them to contribute meaningful off-field damage while their primary buffs are active. In the current "Chaos" elemental lane meta, having a support who can also chip away at the enemy's health bar is more valuable than a pure healer who provides no offensive pressure.
 
@@ -111,7 +111,7 @@ A-Tier sets are exceptionally powerful but are often limited by specific charact
 Devil Blood's Curse is specifically optimized for Incantation-type supports, with Haniel being the primary benefactor. 
 
 *   **2-Piece Bonus**: Increases Base ATK by 10%.
-*   **4-Piece Bonus**: [Information not yet publicly available as of 2026-05-20].
+*   **4-Piece Bonus**: undisclosed.
 
 Haniel’s buffs scale directly off her Base ATK. This makes Devil Blood's Curse a mandatory pick for players looking to maximize her skill-based healing and damage amplification. The set focuses on raw stat transfer rather than the timed buffs found in Speedy Hedgehog. While it provides a higher ceiling for Haniel's individual performance, it lacks the universal Charge Efficiency that makes other sets more flexible.
 
@@ -153,7 +153,7 @@ This set is ideal for high-difficulty boss fights where the main DPS is at risk 
 Sloth Radiance is the "budget" version of Speedy Hedgehog.
 
 *   **2-Piece Bonus**: Provides a flat +10 Charge bonus.
-*   **4-Piece Bonus**: [Information not yet publicly available as of 2026-05-20].
+*   **4-Piece Bonus**: undisclosed.
 
 While it helps with energy management in the early game (Hunter Level 1-25), it lacks the team-wide buffs necessary for the late-game meta. Most players should transition away from Sloth Radiance as soon as they can secure 4-star or 5-star Speedy Hedgehog pieces.
 

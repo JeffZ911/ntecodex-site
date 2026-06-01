@@ -61,7 +61,7 @@ Since Kaito is a community figure rather than an in-game Esper, there are no "be
 | **Zero** | Playable | S-Rank Liquid-type Burst Support |
 | **[Nanally](/characters/nanally-guide-nte)** | Playable | S-Rank Gas-type Crowd Control |
 | **Daffodil** | Playable | A-Rank Solid-type Tank |
-| **Lacrimosa** | Upcoming | [Information not yet publicly available as of 2026-05-19] |
+| **Lacrimosa** | Upcoming | — |
 
 ### Is Kaito a Playable Character?
 
@@ -101,7 +101,7 @@ Since players often look for Kaito's recommendations for the current meta, the f
 | **Hotori** | The Rain That Shook the World | Increases Physical DMG by [information unavailable] after a Perfect Dodge. |
 | **Zero** | Reality Refuge | Boosts Liquid-state elemental mastery and reduces skill cooldowns. |
 | **Nanally** | Youthful Fantasy | Increases Gas-state AoE radius and adds a suction effect to basic attacks. |
-| **Daffodil** | [Information not yet publicly available] | [Information not yet publicly available] |
+| **Daffodil** | — | — |
 
 "The Rain That Shook the World" is currently considered the strongest Arc for physical DPS characters due to its high base scaling. It was featured heavily in Kaito's launch week showcase, leading many to associate the item with his "signature" recommendations.
 
@@ -149,7 +149,7 @@ To optimize your grid:
 
 ### Upcoming Characters and Banners
 
-Looking ahead, the community is closely watching Kaito’s leaks regarding the character **Lacrimosa**. While her specific kit details remain [Information not yet publicly available as of 2026-05-19], she is expected to be a Liquid-type Esper who may shift the current meta away from Hotori-centric physical teams.
+Looking ahead, the community is closely watching Kaito’s leaks regarding the character **Lacrimosa**. While her specific kit details remain undisclosed, she is expected to be a Liquid-type Esper who may shift the current meta away from Hotori-centric physical teams.
 
 The current featured banner, **"The Ichi-daime,"** which features Nanally, is scheduled to end in late May. Players are advised to save their Annulith if they already have a competent Gas-type character, as the next rotation is rumored to introduce a new S-rank Arc specifically designed for the upcoming "Chaos" elemental reaction.
 

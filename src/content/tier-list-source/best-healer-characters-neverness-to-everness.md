@@ -116,7 +116,7 @@ The protagonist, Esper Zero, remains a surprisingly effective free healer. While
 Zero’s greatest strength is their element. As a Cosmos Esper, they can fit into almost any team to facilitate reactions. Their ability to rapidly fill the Esper Meter through their basic combos makes them a top-tier enabler for reaction-heavy teams that rely on "Nova" or "Blossom" procs. For F2P players, Zero is the most accessible survival option because their Awakenings are story-gated rather than locked behind the gacha system.
 
 **Best Arcs for Healer-build Zero:**
-To maximize Zero’s healing potential, players should focus on Arcs that provide [Information not yet publicly available as of 2026-05-20]. However, general HP% and Energy Recharge stats are the current priority to ensure their Support Skill is always available when the team's HP dips.
+To maximize Zero’s healing potential, players should focus on Arcs that provide undisclosed. However, general HP% and Energy Recharge stats are the current priority to ensure their Support Skill is always available when the team's HP dips.
 
 ## B Tier
 

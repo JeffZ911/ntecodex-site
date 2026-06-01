@@ -86,7 +86,7 @@ Once an Esper reaches a level cap (starting at level 20), you must perform an As
 
 Arcs serve as the primary "weapons" for your Espers. Enhancing them requires **Dyes**, which function as weapon EXP. These are farmed in the **Kaleidoscope** stage. Like Hunter Guides, Dyes have different rarities that provide varying amounts of EXP.
 
-Ascending an Arc to unlock higher level caps requires specialized materials from the **Bubble Can Factory**. This domain focuses on combat challenges that reward items like the [Information not yet publicly available as of 2026-05-20] and various industrial components.
+Ascending an Arc to unlock higher level caps requires specialized materials from the **Bubble Can Factory**. This domain focuses on combat challenges that reward items like the undisclosed and various industrial components.
 
 Mixing (refining) an Arc requires duplicate copies of the same Arc or specialized "Universal Mixing Components" which are often limited to event rewards or high-level shop exchanges.
 
@@ -129,7 +129,7 @@ To minimize the daily grind, Neverness to Everness includes several "quality of 
 
 The **Butler** is an AI assistant that can be configured to "auto-farm" stages you have already cleared with a 3-star rating. You can assign your Character Pixels to the Butler, and it will complete the runs over time, even while you are exploring the city or offline. This is best used for Hunter Guides and Dyes.
 
-The **Hamster Ball** is a passive reward generator located in your home base. It accumulates small amounts of Fons, basic EXP materials, and occasionally rare items like [Information not yet publicly available as of 2026-05-20]. The capacity of the Hamster Ball increases as you level up your City Tycoon rank.
+The **Hamster Ball** is a passive reward generator located in your home base. It accumulates small amounts of Fons, basic EXP materials, and occasionally rare items like undisclosed. The capacity of the Hamster Ball increases as you level up your City Tycoon rank.
 
 ## Related
 
@@ -152,7 +152,7 @@ Always prioritize ascending Arcs that provide "Anomaly Damage" or "Pixel Regener
 
 Farming isn't just about combat; it's about exploration. Throughout the various districts of Hethereau, you will find **Oracle Stones**. These are collectible items that, when turned in at the central plaza, increase your maximum Character Pixel cap.
 
-Increasing your stamina cap is the single most important thing you can do for long-term farming efficiency. A higher cap means more runs of the Bubble Can Factory or the Rabbit Hole before needing to wait for a recharge or using a [Information not yet publicly available as of 2026-05-20] item to restore Pixels.
+Increasing your stamina cap is the single most important thing you can do for long-term farming efficiency. A higher cap means more runs of the Bubble Can Factory or the Rabbit Hole before needing to wait for a recharge or using a undisclosed item to restore Pixels.
 
 ## Sources
 - Official Neverness to Everness Website — https://nte.hotta.games/

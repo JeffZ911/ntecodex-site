@@ -59,7 +59,7 @@ The Console system is the most intricate part of character building in Neverness
 
 ### Understanding the Console: Cartridges vs. Modules
 
-Every Esper has a Console that serves as their equipment motherboard. This motherboard has a grid—the size of which is [Information not yet publicly available as of 2026-05-24]—where all gear must be placed.
+Every Esper has a Console that serves as their equipment motherboard. This motherboard has a grid—the size of which is undisclosed—where all gear must be placed.
 
 1.  **The Cartridge:** This is the core item. It occupies a central, non-removable position (conceptually) but can be swapped out for different set types. The Cartridge itself provides a massive Main Stat (such as Elemental DMG Bonus or ATK%) and lists the 2-piece and 4-piece passives that can be unlocked.
 2.  **The Modules:** These are the individual "blocks" you collect. Each Module has its own Main Stat and a set of Substats. Modules come in four shapes, known as Type I, Type II, Type III, and Type IV. Because the grid space is limited, you cannot simply equip the "best" Modules; you must equip the Modules that actually fit together without overlapping.

@@ -149,7 +149,7 @@ Your choice of W-Engine can significantly alleviate the pressure of balancing th
 1.  **Sharpened Stinger (Jane Doe Signature):** Provides high Physical DMG and Anomaly Proficiency. It also increases the wearer's Anomaly Buildup Rate, effectively giving you "free" Mastery.
 2.  **Fusion Compiler (Grace Signature):** Provides a massive boost to ATK and up to 75 Anomaly Proficiency (at base rank) when using Special Attacks. It is the best general-purpose damage engine for Anomaly Agents.
 3.  **Flamemaker Shaker (Burnice Signature):** Provides Fire DMG and Anomaly Mastery. This is the gold standard for Agents who need to trigger statuses quickly while off-field.
-4.  **Rainweaver (Yanagi Signature):** [Information not yet publicly available as of 2026-05-14 regarding exact stat values], but it is designed to enhance Electric Anomaly and Disorder efficiency.
+4.  **Rainweaver (Yanagi Signature):** undisclosed, but it is designed to enhance Electric Anomaly and Disorder efficiency.
 5.  **Electro-Lip Gloss (A-Rank):** A fantastic F2P-friendly option that provides Anomaly Proficiency and increases DMG when an enemy is affected by an Anomaly.
 
 ### Final Verdict: Balancing Your Build

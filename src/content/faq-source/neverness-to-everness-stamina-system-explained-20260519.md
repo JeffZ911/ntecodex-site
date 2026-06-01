@@ -89,7 +89,7 @@ The amount of City Stamina you have access to is tied directly to your Tycoon Le
 
 #### Hethereau Hobbies
 City Stamina is consumed when participating in Hethereau Hobbies. These are not just for fun; they are the most efficient way to farm Fons (money) for car upgrades and apartment decorations.
-*   **Mahjong Inferno:** [Information not yet publicly available as of 2026-05-19] regarding exact stamina cost per round.
+*   **Mahjong Inferno:** undisclosed regarding exact stamina cost per round.
 *   **Tetrominoes:** High-speed puzzle game consuming 20 City Stamina per session.
 *   **Pink Paws Heist:** A stealth-based minigame that yields high Fons rewards for 30 City Stamina.
 
@@ -100,7 +100,7 @@ Separate from the "currency" stamina (Pixels and City Energy) is the physical st
 *   **Sprinting:** Normal sprinting in the open world consumes stamina slowly.
 *   **Combat-Sprinting:** Sprinting while in a combat stance or inside Anomaly Zones consumes stamina at a 25% faster rate.
 *   **Dodging:** Each dodge consumes a fixed segment of the bar.
-*   **Character-Specific Costs:** Certain characters have unique costs. For example, Hathor's aerial heavy attack consumes [Information not yet publicly available as of 2026-05-19] stamina but allows for extended airtime.
+*   **Character-Specific Costs:** Certain characters have unique costs. For example, Hathor's aerial heavy attack consumes undisclosed stamina but allows for extended airtime.
 
 ### Maximizing Efficiency: Daily and Weekly Routines
 
@@ -119,7 +119,7 @@ If you run out of stamina, you can use Annuliths (premium currency) to refill. H
 **Anomaly Zone Farming Priorities:**
 1.  **Esper Breakthrough Materials:** Always the highest priority to unlock level caps.
 2.  **Weapon Augmentation Components:** Necessary for maintaining damage output.
-3.  **Consoles (Gear):** Only farm these once you reach the [Information not yet publicly available as of 2026-05-19] recommended Tycoon/Account level for Gold-tier drops.
+3.  **Consoles (Gear):** Only farm these once you reach the undisclosed recommended Tycoon/Account level for Gold-tier drops.
 
 ## Related
 

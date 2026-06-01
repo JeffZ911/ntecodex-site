@@ -60,10 +60,10 @@ In the current version 1.0 meta, Kuro primarily functions as a Quick-Swap Batter
 
 | Stat | Value at Level 60 |
 | :--- | :--- |
-| HP | [Information not yet publicly available as of 2026-05-19] |
-| ATK | [Information not yet publicly available as of 2026-05-19] |
-| DEF | [Information not yet publicly available as of 2026-05-19] |
-| Cycle Intensity | [Information not yet publicly available as of 2026-05-19] |
+| HP | — |
+| ATK | — |
+| DEF | — |
+| Cycle Intensity | — |
 | Base Cycle Rate | 100 (Fixed for Redirect Skill) |
 
 ### Kuro's Role in the Meta

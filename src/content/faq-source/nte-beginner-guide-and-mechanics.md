@@ -65,8 +65,8 @@ As you deal damage or perform **Critical Ripostes** (perfect dodges or parries a
 | :--- | :--- | :--- |
 | **Blossom** | Cosmos + Anima | Deals AoE damage and restores a portion of the active character's Anomaly Talent energy. |
 | **Discord** | Psyche + Incantation | Reduces the enemy's Break Meter resistance and applies a lingering damage-over-time effect. |
-| [Information unavailable] | Lakshana + Chaos | [Information not yet publicly available as of 2026-05-22] |
-| [Information unavailable] | Anima + Psyche | [Information not yet publicly available as of 2026-05-22] |
+| [Information unavailable] | Lakshana + Chaos | — |
+| [Information unavailable] | Anima + Psyche | — |
 
 The **Break System** is the second pillar of combat. Elite enemies and bosses have a white bar beneath their health. Once depleted, the enemy enters a "Fractured" state, taking significantly increased damage and becoming immobilized. To shred this bar quickly, focus on "Critical Ripostes." When an enemy flashes red, timing your dodge perfectly will trigger a slow-motion window where your next few hits deal massive Break damage.
 
@@ -122,7 +122,7 @@ As you progress beyond the first week, you should look into optimizing your team
 
 *   **Sakiri vs. Daffodil:** For your 40-pull selector, **Sakiri** is generally recommended for players who want a high-speed, parry-focused playstyle. **Daffodil** is better for players who prefer a "tank and spank" approach, as her shields are currently the strongest in the game.
 *   **Fons Maximization:** To maximize your income, prioritize upgrading your "Processing Plant" business first, as it provides materials needed to upgrade your other shops.
-*   **NTE Vehicle Tier List:** While the starter car is functional, saving Fons for the [Information not yet publicly available as of 2026-05-22] is a priority for competitive racing.
+*   **NTE Vehicle Tier List:** While the starter car is functional, saving Fons for the undisclosed is a priority for competitive racing.
 *   **Nanally Guide:** Beyond exploration, Nanally excels in "Air-to-Ground" combat. Learning her "Plunge Cancel" mechanic is vital for maximizing her damage output in the Void Threshold.
 
 ## Sources

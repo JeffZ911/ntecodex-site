@@ -77,9 +77,9 @@ Every character in Neverness to Everness is categorized into one of six Esper Ty
 1.  **Cosmos:** Often associated with field manipulation and sustainable damage. Chiz is the most prominent example of a Cosmos anchor.
 2.  **Anima:** Focused on high-frequency hits and "Plasma" effects. Nanally utilizes Anima to overwhelm enemies with rapid follow-up strikes.
 3.  **Incantation:** Typically provides utility, crowd control, and "Gas" based area-of-effect (AoE) damage. Sakiri is the gold standard for this type.
-4.  **Chaos:** [Information not yet publicly available as of 2026-05-15 regarding specific Chaos-type characters in the current banner rotation].
-5.  **Psyche:** [Information not yet publicly available as of 2026-05-15 regarding specific Psyche-type mechanics].
-6.  **Lakshana:** [Information not yet publicly available as of 2026-05-15 regarding Lakshana-type availability].
+4.  **Chaos:** undisclosed.
+5.  **Psyche:** undisclosed.
+6.  **Lakshana:** undisclosed.
 
 In addition to their types, characters fill specific combat roles:
 *   **Main DPS:** The on-field anchor who stays active for the majority of the rotation to maximize damage.

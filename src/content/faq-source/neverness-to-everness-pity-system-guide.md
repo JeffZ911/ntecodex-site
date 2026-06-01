@@ -108,7 +108,7 @@ Upon completing 50 pulls on the Standard Board, players are granted an S-Rank Se
 *   Baicang (Physical Bruiser)
 *   Hathor (Support/Utility)
 *   Mint (Elemental Sub-DPS)
-*   [Information not yet publicly available as of 2026-05-23]
+*   undisclosed
 
 ### Pity Carry-Over Rules and Exceptions
 
@@ -128,7 +128,7 @@ Pity in Neverness to Everness is persistent across banners of the same type. If 
 | :--- | :--- | :--- |
 | 50 Pulls | Accessory / Glider | Urban Explorer Wings |
 | 120 Pulls | Vehicle Skin / Weapon Skin | Neon Drifter Car Wrap |
-| 200 Pulls | Character Outfit | [Information not yet publicly available as of 2026-05-23] |
+| 200 Pulls | Character Outfit | — |
 
 ### Gacha Currencies: Annulith, Dice, and Tri-Keys
 

@@ -59,7 +59,7 @@ The following table provides a quick reference for the optimal weapon pairings f
 | **Zero** | Cosmos / Solid | Hethereau's Keeper | First Step to Success | ATK% / Crit Damage |
 | **Mint** | Anima / Liquid | Fluff of Fleetness | Mind Royale | Energy Regen / ATK% |
 | **Chiz** | Cosmos / Gas | Good Boy's Grand Adventure | Contemplative Cat | ATK% / Support Buffs |
-| **Haniel** | Psyche / Gas | Good Boy's Grand Adventure | [Information not yet publicly available] | Energy Regen / ATK |
+| **Haniel** | Psyche / Gas | Good Boy's Grand Adventure | — | Energy Regen / ATK |
 | **Adler** | Incantation / Solid | Day Off | Hethereau's Keeper | DEF% / HP |
 | **Aurelia** | Psyche / Liquid | Real Music | Fluff of Fleetness | Anomaly Mastery |
 

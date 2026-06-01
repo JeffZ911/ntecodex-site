@@ -85,8 +85,8 @@ For characters with slow energy generation, baiting a parry is the most efficien
 | :--- | :--- | :--- |
 | Normal Attack | Slow / Steady | Low |
 | Special Skill | Moderate | Moderate |
-| Ultimate Ability | [Information not yet publicly available as of 2026-05-20] | Moderate to High |
-| Critical Riposte | [Information not yet publicly available as of 2026-05-20] | High |
+| Ultimate Ability | — | Moderate to High |
+| Critical Riposte | — | High |
 | Successful Parry | 100% (Instant Fill) | Very High |
 
 ### Elemental Reactions Table
@@ -114,7 +114,7 @@ In Neverness to Everness, weapons are referred to as Arcs. These are categorized
 S-Rank Arcs provide the highest base stats and unique passive effects that often define a character's role in the meta.
 
 1.  **Good Boy's Grand Adventure (Gas):** This is the undisputed Best-in-Slot (BiS) for [Sakiri](/characters/sakiri-nte-free-5-star-guide). It provides an 18% boost to Charge Efficiency and increases the entire team's ATK by 10% for 20 seconds after the wearer uses an Ultimate. This bonus increases by an additional 6% if the Ultimate successfully controls or groups enemies, which perfectly aligns with Sakiri’s kit.
-2.  **Cosmos Daze (Gas):** A premier choice for main DPS units that rely on consistent elemental application. While its exact scaling is [Information not yet publicly available as of 2026-05-20], it is highly valued for its synergy with high-uptime attackers.
+2.  **Cosmos Daze (Gas):** A premier choice for main DPS units that rely on consistent elemental application. While its exact scaling is undisclosed, it is highly valued for its synergy with high-uptime attackers.
 3.  **Wild Reverie (Gas):** This Arc is designed for quick-swap sub-DPS units. It triggers an 18% to 30% Damage bonus for 10 seconds after a Support Skill is used, making it ideal for characters who enter the field just to trigger a reaction and then swap out.
 4.  **Hethereau's Keeper (Solid):** A powerful choice for Solid-type damage dealers like Zero. It grants a flat ATK boost and summons a companion (Officer Whisker) to deal continuous automated damage, providing high passive pressure during boss fights.
 5.  **Marching Beyond Time (Solid):** This Arc focuses on Critical Rate and ATK scaling. It is a top-tier choice for players looking to maximize their raw damage output during the Stagger window.
@@ -123,8 +123,8 @@ S-Rank Arcs provide the highest base stats and unique passive effects that often
 
 For players who haven't secured S-Rank Arcs from the Scarborough Fair gacha system, several A-Rank options provide excellent utility.
 
-*   **Shiny Days:** An excellent all-rounder that provides [Information not yet publicly available as of 2026-05-20]. It is often used as a placeholder for Anima or Cosmos damage dealers.
-*   **The Forgotten:** This Arc focuses on [Information not yet publicly available as of 2026-05-20], making it a viable choice for survival-focused units or early-game progression where gear is limited.
+*   **Shiny Days:** An excellent all-rounder that provides undisclosed. It is often used as a placeholder for Anima or Cosmos damage dealers.
+*   **The Forgotten:** This Arc focuses on undisclosed, making it a viable choice for survival-focused units or early-game progression where gear is limited.
 
 | Arc Name | Rarity | Type | Primary Combat Effect |
 | :--- | :--- | :--- | :--- |
@@ -223,7 +223,7 @@ A rotation in NTE is not a fixed sequence of buttons but a priority list based o
 1.  **The Stagger Trigger:** Just before the Break meter hits zero, ensure your Main DPS (Nanally or Baicang) has a full Ultimate meter.
 2.  **The Burst:** As soon as the enemy is "Broken," swap to your Main DPS.
 3.  **Ability Sequence:** Execute the Ultimate immediately to benefit from the Lost Radiance DEF-ignore bonus, followed by the Redirect Skill.
-4.  **[Information not yet publicly available as of 2026-05-20]:** Utilize specific character passives, such as Hotori's ability to reset skill cooldowns after a successful counter, to extend the damage output within this 5-second window.
+4.  **undisclosed:** Utilize specific character passives, such as Hotori's ability to reset skill cooldowns after a successful counter, to extend the damage output within this 5-second window.
 
 ### Quickswap Reaction Chaining
 

@@ -176,7 +176,7 @@ The weapon system in NTE uses Arcs, which provide both base stats and unique pas
 ### Healers in Elemental Teams: Blossom and Nova Synergies
 Healers play a crucial role in triggering elemental reactions.
 *   **Blossom (Anima + Cosmos):** When Jiuyuan (Anima) and Edgar (Cosmos) are on the same team, their skills trigger Blossom, which creates a zone that continuously heals allies and deals periodic damage to enemies. This is currently the strongest defensive synergy in the game.
-*   **Nova (Psyche + Chaos):** Fadia or Haniel (Psyche) paired with a Chaos-element DPS (like [Information not yet publicly available as of 2026-05-21]) creates the Nova reaction. This reduces enemy ATK, further decreasing the amount of healing your team actually needs.
+*   **Nova (Psyche + Chaos):** Fadia or Haniel (Psyche) paired with a Chaos-element DPS (like undisclosed) creates the Nova reaction. This reduces enemy ATK, further decreasing the amount of healing your team actually needs.
 
 ### Healers vs. Shielders: Which Does Your Team Need?
 In the current meta, players often debate between using a healer or a shielder like Adler. Shielders are excellent for preventing one-shot mechanics, especially when using the **Adler and the Kingdom's Guard** Cartridge set. However, shielders cannot recover HP lost to "Corrosion" or "Bleed" effects. For most high-level content, a healer is considered more reliable, though "Double Support" (one healer, one shielder) is the safest way to clear the Resonance 15 difficulty.

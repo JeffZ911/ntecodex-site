@@ -160,7 +160,7 @@ Sanhua is a "universal" support, but she performs best when paired with characte
 | :--- | :--- | :--- |
 | **Encore** | Fusion Main DPS | Encore's enhanced state (Resonance Liberation) counts as Basic Attack damage. Sanhua's 38% buff is massive for her. |
 | **Havoc Rover** | Havoc Main DPS | Havoc Rover deals high damage through their enhanced Basic Attack strings in the Dark Surge state. |
-| **Camellya** | [Information not yet publicly available as of 2026-05-14] | [Information not yet publicly available as of 2026-05-14] |
+| **Camellya** | — | — |
 | **Jiyan** | Aero Main DPS | While Jiyan prefers Mortefi (Heavy Attack buff), Sanhua is a viable second-best support for his fast-hitting strings. |
 
 ### Sanhua Skill Upgrade Priority

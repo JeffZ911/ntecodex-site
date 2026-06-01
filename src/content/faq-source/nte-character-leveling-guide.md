@@ -81,7 +81,7 @@ While you can use any guide at any level, the Beetle Coin cost scales with the a
 Once an Esper reaches their current maximum level (e.g., Level 20), they cannot gain further XP until they undergo Ascension. This process "breaks" the level cap and unlocks the next bracket of levels.
 
 To perform an Ascension, you need:
-1. **Anomaly Boss Drops:** Each Esper requires a specific material dropped by bosses found in Anomaly Zones. For example, a Fire-type Esper might require [Information not yet publicly available as of 2026-05-15] from a specific urban anomaly boss.
+1. **Anomaly Boss Drops:** Each Esper requires a specific material dropped by bosses found in Anomaly Zones. For example, a Fire-type Esper might require undisclosed from a specific urban anomaly boss.
 2. **Regional Specialty Items:** These are collectible items found in the open world of Hesperia, such as specific plants or mechanical parts found in districts like the Mistville area.
 3. **Beetle Coins:** A significant amount of currency is required for each Ascension tier.
 

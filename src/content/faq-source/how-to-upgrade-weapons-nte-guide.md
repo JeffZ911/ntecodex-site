@@ -105,7 +105,7 @@ Ascension is the process of "limit breaking" your Arc so it can reach the next s
 | Level 40 | Appraisal Level 3 | Bubble Can Factory (Mid Tier) |
 | Level 50 | Appraisal Level 4 | Anomaly Hunt Bosses |
 | Level 60 | Appraisal Level 5 | Anomaly Hunt Bosses |
-| Level 80 | Appraisal Level 7 | [Information not yet publicly available as of 2026-05-19] |
+| Level 80 | Appraisal Level 7 | — |
 
 Ascension materials are more specialized than Dye. For A-Rank Arcs, you typically need common drops from enemies found in Hethereau. For S-Rank Arcs, you will often need rarer items like "Golden Appleseed" or "Harmony," which are typically obtained through the Bubble Can Factory or by exchanging Mhm! Coins in the Hunter Exchange.
 

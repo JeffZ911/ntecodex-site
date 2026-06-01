@@ -127,7 +127,7 @@ Chiz’s power is tied directly to the City Tycoon system. By managing "Grain" s
 
 ### Daffodil: The Chaos Break Specialist
 
-As the only Chaos character available at launch, Daffodil is the sole enabler for certain Triple Cycle reactions. She is a "Break Specialist," meaning her primary role is to shred enemy Break Gauges faster than any other unit. Once an enemy is broken, her damage against them increases by [Information not yet publicly available as of 2026-05-17].
+As the only Chaos character available at launch, Daffodil is the sole enabler for certain Triple Cycle reactions. She is a "Break Specialist," meaning her primary role is to shred enemy Break Gauges faster than any other unit. Once an enemy is broken, her damage against them increases by undisclosed.
 
 ### Haniel: The Psyche Sub-DPS
 

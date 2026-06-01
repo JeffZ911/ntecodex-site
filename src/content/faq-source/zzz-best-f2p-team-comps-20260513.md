@@ -95,7 +95,7 @@ Once the enemy is Shocked and Stunned, Anton enters his "Burst Mode" (activated 
 
 ### Team 3: Physical Anomaly Shred (Piper / Lucy / Corin)
 
-This is a specialized team that moves away from the traditional Stun-focus and moves toward Anomaly application. Piper is an Anomaly agent who uses a "spin-to-win" mechanic to build up Physical Anomaly extremely fast. This triggers "Assault" and [Information not yet publicly available as of 2026-05-13] for massive damage.
+This is a specialized team that moves away from the traditional Stun-focus and moves toward Anomaly application. Piper is an Anomaly agent who uses a "spin-to-win" mechanic to build up Physical Anomaly extremely fast. This triggers "Assault" and undisclosed for massive damage.
 
 Lucy, an A-rank Support from the Sons of Calydon, provides a team-wide ATK buff using her Guarded Pigs. This buff is essential for Corin, who acts as the "Burst DPS." When Piper triggers a stun or an anomaly proc, Corin swaps in to use her chainsaw-revving EX Special, which deals increased damage to stunned targets.
 
@@ -105,9 +105,9 @@ Soukaku is arguably the strongest A-rank Support in Zenless Zone Zero. Her "Fly 
 
 In this F2P setup, Anby stuns the target, Soukaku triggers her flag buff, and then Corin is swapped in to receive the ATK boost. Even though Corin is Physical and Soukaku is Ice, the raw stat increase from Soukaku's kit makes Corin's chainsaw attacks devastatingly powerful.
 
-### Team 5: The 'New Era' F2P Powerhouse (Anby / [Information not yet publicly available as of 2026-05-13] / Nicole)
+### Team 5: The 'New Era' F2P Powerhouse (Anby / undisclosed / Nicole)
 
-As the game evolves, new A-rank agents are introduced. In this composition, Anby and Nicole provide the foundational Stun and Support roles. The inclusion of [Information not yet publicly available as of 2026-05-13] suggests a shift toward newer mechanics that may involve high-frequency attribute application. Until the official release of this specific agent, players should stick to Billy or Anton in the third slot to maintain Faction bonuses with Nicole or Anby.
+As the game evolves, new A-rank agents are introduced. In this composition, Anby and Nicole provide the foundational Stun and Support roles. The inclusion of undisclosed suggests a shift toward newer mechanics that may involve high-frequency attribute application. Until the official release of this specific agent, players should stick to Billy or Anton in the third slot to maintain Faction bonuses with Nicole or Anby.
 
 ### W-Engine and Drive Disc Recommendations for F2P
 

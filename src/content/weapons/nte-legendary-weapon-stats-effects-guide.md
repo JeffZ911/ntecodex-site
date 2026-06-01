@@ -60,7 +60,7 @@ Every Arc is categorized into one of five matter-based types: Plasma, Solid, Gas
 | Eternal Waltz | Synthesis | 424 | 41.25% HP |
 | Day Off | Solid | 512 | 33% Charge Efficiency |
 | Fluff of Fleetness | Liquid | 512 | 44% CRIT DMG |
-| Marching Beyond Time | Solid | [Information not yet publicly available] | [Information not yet publicly available] |
+| Marching Beyond Time | Solid | — | — |
 
 ### Plasma and Solid Arcs: Offensive Powerhouses
 Plasma and Solid Arcs typically focus on raw damage output. Ready-Ready, the signature weapon for Nanally, provides a consistent 16% ATK boost and enhances Basic Attack damage by an additional 16% after using a skill or ultimate. Solid Arcs like Hethereau's Keeper trade utility for pure boss-slaying potential, offering a flat 15% damage increase against elite units.

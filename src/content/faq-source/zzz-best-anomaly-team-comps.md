@@ -157,8 +157,8 @@ Your choice of Bangboo can significantly speed up your Anomaly Buildup.
 
 ### Future Anomaly Characters to Watch
 As we look toward the latter half of 2026, rumors of new Agents like Alice and Vivian have surfaced. 
-*   **Alice:** [Information not yet publicly available as of 2026-05-14]
-*   **Vivian:** [Information not yet publicly available as of 2026-05-14]
+*   **Alice:** undisclosed
+*   **Vivian:** undisclosed
 
 To stay ahead of the meta, players should keep an eye on characters who offer "Attribute Resistance Shred," as this is one of the few ways to further multiply Anomaly damage once Proficiency has reached diminishing returns.
 

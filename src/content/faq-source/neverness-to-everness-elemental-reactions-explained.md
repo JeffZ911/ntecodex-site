@@ -77,10 +77,10 @@ Duo Reactions provide immediate tactical advantages and are the bread and butter
 | :--- | :--- | :--- |
 | **Remora** | Lakshana + Cosmos | Creates a gravitational field that applies "Slow" to all enemies in a 5-meter radius for 4 seconds. |
 | **Blossom** | Anima + Lakshana | Summons a temporary Anima Turret that fires homing projectiles dealing Lakshana damage based on the incoming Esper's ATK. |
-| **Hexed** | Cosmos + Anima | Triggers a high-frequency Burst of damage that ignores [Information not yet publicly available as of 2026-05-17]% of the target's Defense. |
+| **Hexed** | Cosmos + Anima | Triggers a high-frequency Burst of damage that ignores — of the target's Defense. |
 | **Scorch** | Incantation + Chaos | Applies a "Burning Curse" Damage over Time (DoT) effect that scales with the character's Elemental Mastery. |
 | **Nova** | Chaos + Psyche | Plants a psychic seed in the target that triggers a Delayed Explosion after 3 seconds, dealing massive AOE damage. |
-| **Stain** | Psyche + Incantation | Inflicts Damage Vulnerability, increasing all damage taken by the target by [Information not yet publicly available as of 2026-05-17]% for 6 seconds. |
+| **Stain** | Psyche + Incantation | Inflicts Damage Vulnerability, increasing all damage taken by the target by — for 6 seconds. |
 
 Strategy Tip: Use **Remora** to group small mobs together before swapping into a high-damage **Hexed** or **Nova** reaction to clear the wave instantly.
 
@@ -102,7 +102,7 @@ The Esper Meter is charged through various combat actions, with some being much 
 | **Normal Attack String** | Low (Requires full combo for significant gain) |
 | **Elemental Skill** | Moderate (Depends on the number of hits/cooldown) |
 | **Ultimate Ability** | High (Usually grants 40-60% of the next character's meter) |
-| **Perfect Dodge Counter** | Very High (Grants a flat [Information not yet publicly available as of 2026-05-17]% boost) |
+| **Perfect Dodge Counter** | Very High (Grants a flat — boost) |
 | **Perfect Parry** | Instant 100% Charge |
 
 Mastering the Parry mechanic is the fastest way to maintain a continuous cycle of reactions. A successful parry allows you to immediately swap and trigger a Duo Cycle, even if you just swapped to the current character seconds ago.

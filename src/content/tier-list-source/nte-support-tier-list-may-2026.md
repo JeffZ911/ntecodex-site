@@ -182,7 +182,7 @@ Edgar is a Cosmos-element healer who deploys static healing zones on the ground.
 
 ### Skia: Niche Shadow Mechanics
 
-[Information not yet publicly available as of 2026-05-23]. While Skia is available in the standard pool, her wolf-like combat style and shadow transformation mechanics are currently tuned for a main DPS role that she cannot fulfill effectively compared to units like Nanally. As a support, she lacks any significant off-field utility or team-wide buffs.
+undisclosed. While Skia is available in the standard pool, her wolf-like combat style and shadow transformation mechanics are currently tuned for a main DPS role that she cannot fulfill effectively compared to units like Nanally. As a support, she lacks any significant off-field utility or team-wide buffs.
 
 ### Aurelia: Lacks Support Utility
 

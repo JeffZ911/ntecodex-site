@@ -156,7 +156,7 @@ You should stick with or pull for Hu Tao if:
 
 ### Final Verdict: The Current Pyro Archon (Unofficial)
 
-As of the Natlan era [Information not yet publicly available as of 2026-05-12], Arlecchino has largely taken over as the "general use" Pyro DPS. Her ability to stay on the field, swap out without losing her infusion state, and hit multiple targets makes her the more practical choice for most players. Hu Tao remains a specialized scalpel—unmatched in her specific niche of single-target destruction, but requiring more investment and effort to reach that peak.
+As of the Natlan era undisclosed, Arlecchino has largely taken over as the "general use" Pyro DPS. Her ability to stay on the field, swap out without losing her infusion state, and hit multiple targets makes her the more practical choice for most players. Hu Tao remains a specialized scalpel—unmatched in her specific niche of single-target destruction, but requiring more investment and effort to reach that peak.
 
 If you are looking for your first major Pyro carry, Arlecchino is the recommendation for 2026. If you already have a highly invested Hu Tao, Arlecchino is a side-grade in damage but a massive upgrade in terms of quality of life and team flexibility.
 

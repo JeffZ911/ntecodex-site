@@ -105,7 +105,7 @@ At A1, every time a Pact Settlement is triggered by her Ultimate, **Final Reckon
 | :--- | :--- | :--- |
 | **Healing Type** | Burst / Replay | Damage-to-Heal Conversion |
 | **Primary Utility** | Time Stop & Skill Duplication | Ranged DPS & Crowd Control |
-| **Best Arc** | [Information not yet publicly available] | Solid-type Arcs (e.g., Eclipse) |
+| **Best Arc** | — | Solid-type Arcs (e.g., Eclipse) |
 | **Meta Synergy** | Nanally / Zero (Cosmos Core) | Anima / Scorch Teams |
 
 ## A Tier

@@ -78,7 +78,7 @@ The 5-step Eclipse conversation chain includes:
 4.  **New Herland Park:** He is found near the central fountain.
 5.  **The Rooftop of the Bureau:** After the first four interactions, Eclipse grants the 'Day Off' Arc as a reward for "understanding the value of rest."
 
-This Arc provides [information not yet publicly available as of 2026-05-19] base ATK but features a unique passive that increases Zero’s ultimate energy regeneration by [information unavailable] whenever a dodge is successfully performed.
+This Arc provides undisclosed base ATK but features a unique passive that increases Zero’s ultimate energy regeneration by [information unavailable] whenever a dodge is successfully performed.
 
 ### Nanally & Hathor: Farming the Headless Rider for Raging Flames
 The 'Raging Flames' Arc is a Solid-type weapon that excels on characters with high burst damage. It is a guaranteed drop table item from the 'Headless Rider' world boss located in the Bridge Crossings district. This boss spawns at night and requires players to manage a "Terror" meter. 
@@ -93,7 +93,7 @@ This Arc is unique because its passive focuses on team-wide buffs. When Sakiri u
 ### Chiz: Maximizing City Tycoon Levels for Contemplative Cat
 Chiz’s best F2P option, 'Contemplative Cat', is not tied to combat but rather the City Tycoon progression system. As you renovate shops and manage properties in Hethereau, you earn Tycoon XP. Upon reaching Level 21, the 'Contemplative Cat' Liquid-type Arc is unlocked. 
 
-This weapon scales with Chiz’s maximum health, providing [information not yet publicly available as of 2026-05-19] bonus healing and shield strength. Since Chiz functions as the primary defensive unit for many players, this Arc is essential for surviving late-game boss encounters where damage spikes are frequent.
+This weapon scales with Chiz’s maximum health, providing undisclosed bonus healing and shield strength. Since Chiz functions as the primary defensive unit for many players, this Arc is essential for surviving late-game boss encounters where damage spikes are frequent.
 
 ### Daffodill & Jiuyuan: New Herland District Boss Drops
 Daffodill’s 'Youthful Fantasy' is a Plasma-type Arc that can be found by collecting all 20 "Black Tomes" scattered throughout the New Herland District. These tomes are often hidden behind environmental puzzles that require Plasma-style characters to activate. 

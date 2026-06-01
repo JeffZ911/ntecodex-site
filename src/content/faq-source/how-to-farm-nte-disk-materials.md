@@ -85,7 +85,7 @@ The Rabbit Hole is the most important destination for any player looking to impr
 Modules are unique because they are not dropped directly by enemies in the same way Cartridges are. Instead, you must use the Rewind system. 
 
 The Rewind system allows you to spend Carrota Coins to "generate" Modules of varying shapes and rarities.
-*   **Bronze Carrota Coins:** [Information not yet publicly available as of 2026-05-22].
+*   **Bronze Carrota Coins:** undisclosed.
 *   **Silver Carrota Coins:** Used for a higher chance at A-Rank (Purple) Modules.
 *   **Gold Carrota Coins:** The rarest currency, guaranteed to provide high-tier Modules with better sub-stats.
 
@@ -114,7 +114,7 @@ As you perfect your gear farming routine, you may want to look into how specific
 
 ### Best Cartridge Sets for Every Role
 Characters in NTE generally fall into roles like Main DPS, Support, or Breaker. 
-*   **Main DPS (e.g., Nanally):** Usually requires the [Information not yet publicly available as of 2026-05-22] set which boosts Crit Damage.
+*   **Main DPS (e.g., Nanally):** Usually requires the undisclosed set which boosts Crit Damage.
 *   **Breakers:** Focus on sets that increase "Anomaly Pressure" to shield-break enemies faster.
 *   **Supports:** Look for sets that provide team-wide buffs or energy regeneration when the character is off-field.
 

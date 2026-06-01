@@ -67,7 +67,7 @@ S-Tier characters are the current gold standard for survival in NTE. They do not
 
 ### Fadia: The Ultimate Defensive Anchor
 
-Fadia is currently the premier sustain unit in the game. As an S-Rank Psyche character with the Synthesis attribute, she fits into almost any team looking for maximum safety. Her primary healing ability, "Prayer," provides a consistent stream of team-wide healing that scales based on her [Information not yet publicly available as of 2026-05-15].
+Fadia is currently the premier sustain unit in the game. As an S-Rank Psyche character with the Synthesis attribute, she fits into almost any team looking for maximum safety. Her primary healing ability, "Prayer," provides a consistent stream of team-wide healing that scales based on her undisclosed.
 
 What truly sets Fadia apart is her damage redirection mechanic. She can deploy cross-based barriers on the battlefield. When an active character is within the influence of these barriers, a portion of the incoming damage is redirected to Fadia’s own health pool or absorbed by the barrier itself. This prevents your squishy DPS units from being one-shot by boss mechanics in the Anomaly Pilgrimage. Because her healing is largely passive once her "Prayer" state is active, she allows players to focus entirely on their DPS combos without constantly monitoring health bars.
 
@@ -94,7 +94,7 @@ Her kit allows her to suspend smaller enemies and slow down the attack animation
 
 Haniel is the most reliable A-Rank support for free-to-play players. Being a Psyche element character with the Solid attribute, she shares a natural synergy with Fadia for players looking to trigger Psyche resonance buffs. Haniel’s kit is straightforward: she provides a burst heal on her Skill and a team-wide ATK buff on her Ultimate.
 
-While her raw healing numbers are lower than Fadia's, Haniel's ATK buff is [Information not yet publicly available as of 2026-05-15]%, making her a valuable asset for boosting team damage. She is considered a staple because she is much easier to obtain and Awaken than the S-Rank units. For players who did not pull for Fadia or Jiuyuan, Haniel is the go-to choice for maintaining health in mid-to-high-level content.
+While her raw healing numbers are lower than Fadia's, Haniel's ATK buff is undisclosed, making her a valuable asset for boosting team damage. She is considered a staple because she is much easier to obtain and Awaken than the S-Rank units. For players who did not pull for Fadia or Jiuyuan, Haniel is the go-to choice for maintaining health in mid-to-high-level content.
 
 ## B Tier
 
@@ -141,7 +141,7 @@ The landscape of Neverness to Everness has shifted rapidly since its launch on A
 
 At launch, many players prioritized pure healers like Edgar because the boss patterns were unfamiliar. However, as the community mastered the "Critical Riposte" mechanic, the value of pure healing dropped. Players realized that a perfect dodge not only negates damage but also provides an opening for a counter-attack, reducing the need for massive HP restoration.
 
-This shift favored offensive supports like Sakiri and hybrid units like Jiuyuan. The discovery of the "A2 Jiuyuan" build changed the endgame entirely. By mid-May 2026, Jiuyuan has officially overtaken Edgar in the Anomaly Pilgrimage rankings. Teams using A2 Jiuyuan are seeing clear times that are [Information not yet publicly available as of 2026-05-15]% faster than those using dedicated healers, simply because Jiuyuan contributes so much personal damage while maintaining the team's health.
+This shift favored offensive supports like Sakiri and hybrid units like Jiuyuan. The discovery of the "A2 Jiuyuan" build changed the endgame entirely. By mid-May 2026, Jiuyuan has officially overtaken Edgar in the Anomaly Pilgrimage rankings. Teams using A2 Jiuyuan are seeing clear times that are undisclosed faster than those using dedicated healers, simply because Jiuyuan contributes so much personal damage while maintaining the team's health.
 
 Furthermore, the prevalence of Anima-heavy teams (driven by Nanally's power level) has made Anima-element sustain units much more desirable for the elemental resonance bonuses they provide. As we move further into the Version 1.0 cycle, expect to see "Role Compression" remain the most important factor in determining the best healer for your roster.
 

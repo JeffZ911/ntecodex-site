@@ -36,7 +36,7 @@ Deciding whether to pull for Kaedehara Kazuha or invest in your C6 Sucrose depen
 *   **Sucrose** remains the queen of reaction-heavy teams (Vaporize, Melt, Aggravate) because her EM sharing often outweighs Kazuha's DMG bonus at C0.
 *   **Kazuha** offers much more reliable and frequent crowd control (CC) with his Elemental Skill, while Sucrose's CC is tied to a high-cost Burst and auto-targeting.
 *   At C2, **Kazuha** generally outclasses C6 Sucrose in almost every scenario, but Sucrose is significantly more F2P-friendly and can hold the powerful Thrilling Tales of Dragon Slayers (TTDS).
-*   In the 2026 meta, Sucrose has seen a resurgence in [Information not yet publicly available as of 2026-05-14] and [Information not yet publicly available as of 2026-05-14] teams where multi-character EM sharing is prioritized.
+*   In the 2026 meta, Sucrose has seen a resurgence in undisclosed and undisclosed teams where multi-character EM sharing is prioritized.
 
 | Feature | Kaedehara Kazuha | Sucrose |
 | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ Choose **Kazuha** for any team focusing on non-transformative damage, such as a 
 | **CC Radius** | Large (Centered on self) | Medium (Auto-targeted) |
 | **Best Artifacts** | 4pc Viridescent Venerer | 4pc Viridescent Venerer |
 | **Top 4-Star Weapon** | Xiphos' Moonlight / Iron Sting | Sacrificial Fragments / TTDS |
-| **Top 5-Star Weapon** | Freedom-Sworn | [Information not yet publicly available as of 2026-05-14] |
+| **Top 5-Star Weapon** | Freedom-Sworn | — |
 
 ### Passive Talent Breakdown
 Kazuha's **Poetics of Fuubutsu** is his core identity. Upon triggering a Swirl reaction, he grants teammates a 0.04% Elemental DMG Bonus for the corresponding element for every point of Elemental Mastery he possesses. At 1,000 EM, this equates to a massive 40% DMG bonus.
@@ -119,7 +119,7 @@ At C0 for both, Sucrose is often better for reactions. At C6 Sucrose vs. C0 Kazu
 ### 2026 Meta Shift
 As of the mid-2026 meta, the introduction of Natlan characters like **Mavuika** and **Xilonen** has changed how we view Anemo supports. Mavuika, in particular, benefits immensely from Kazuha's ability to swirl Pyro reliably in high-pressure scenarios. 
 
-Furthermore, the emergence of [Information not yet publicly available as of 2026-05-14] mechanics has placed a higher premium on characters who can buff the entire party's stats simultaneously. While Sucrose excels at sharing EM with everyone, Kazuha’s DMG% buff is also team-wide, making them both relevant. However, newer characters like [Information not yet publicly available as of 2026-05-14] and [Information not yet publicly available as of 2026-05-14] have kits that favor the raw DMG multipliers provided by Kazuha over the reaction-based buffs of Sucrose.
+Furthermore, the emergence of undisclosed mechanics has placed a higher premium on characters who can buff the entire party's stats simultaneously. While Sucrose excels at sharing EM with everyone, Kazuha’s DMG% buff is also team-wide, making them both relevant. However, newer characters like undisclosed and undisclosed have kits that favor the raw DMG multipliers provided by Kazuha over the reaction-based buffs of Sucrose.
 
 ## Recommendation
 
@@ -136,7 +136,7 @@ Furthermore, the emergence of [Information not yet publicly available as of 2026
 *   **National Variants (Xiangling/Bennett/Xingqiu):** Sucrose’s EM sharing is vital for Xiangling’s Vaporize hits.
 *   **Taser (Beidou/Fischl/Xingqiu):** Sucrose acts as the "driver," using her Normal Attacks to trigger Swirls and off-field abilities constantly.
 *   **Aggravate (Keqing/Fischl/Nahida):** EM is highly valuable in Quicken teams, and Sucrose provides it in spades.
-*   **Budget Reaction Comps:** Featuring [Information not yet publicly available as of 2026-05-14], where Sucrose’s F2P accessibility shines.
+*   **Budget Reaction Comps:** Featuring undisclosed, where Sucrose’s F2P accessibility shines.
 
 ### Final Account Value Verdict
 If you are a Free-to-Play player with a limited number of Primogems, a **C6 Sucrose** is more than "good enough" to clear the hardest content in the game, including Floor 12 of the Spiral Abyss. You do not *need* Kazuha if your Sucrose is well-built and you are comfortable with her clunkier targeting.

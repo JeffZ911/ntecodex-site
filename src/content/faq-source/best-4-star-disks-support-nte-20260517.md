@@ -136,7 +136,7 @@ As you progress beyond 4-star gear, you will need to consider how your disks pai
 An Esper's performance is the sum of their Cartridges and their Arc. For support units, you want Arcs that provide team-wide benefits or further boost Charge Efficiency.
 
 *   **Blow of the Crowd:** This 4-star Arc is excellent for supports who use their Ultimate frequently. It provides a small amount of Energy to the entire team when the wearer's Ultimate hits an enemy.
-*   **Umbrella:** [Information not yet publicly available as of 2026-05-17].
+*   **Umbrella:** undisclosed.
 *   **The Ichi-daime:** While technically a signature weapon, its utility in boosting elemental application makes it a strong contender for any support capable of wielding it.
 
 ### NTE Support Character Tier List Overview

@@ -109,7 +109,7 @@ However, Edgar’s primary weakness is his Ultimate. It creates a stationary "Co
 
 **Skill Breakdown:**
 *   **Primary Skill:** Single-target burst heal for the lowest HP ally.
-*   **Ultimate:** Stationary healing radius of [Information not yet publicly available as of 2026-05-20] meters.
+*   **Ultimate:** Stationary healing radius of undisclosed meters.
 *   **Passive:** Increases healing received by 15% when an ally is below 30% HP.
 
 ## B Tier

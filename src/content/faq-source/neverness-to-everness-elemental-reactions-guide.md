@@ -47,7 +47,7 @@ The fundamental rule of NTE combat is the Esper Wheel. Reactions do not occur ra
 
 | Element | Associated Color | Primary Combat Theme |
 | :--- | :--- | :--- |
-| Lakshana | Gold | [Information not yet publicly available as of 2026-05-15] |
+| Lakshana | Gold | — |
 | Cosmos | Silver | Space, Gravity, and Precision |
 | Anima | Green | Nature, Growth, and Sustained Damage |
 | Incantation | Red | Fire, Combustion, and High Impact |
@@ -142,7 +142,7 @@ Most elite enemies and bosses possess a "Break Meter" (the white bar under their
 Based on current community testing, the following pairings are highly recommended for maximizing the Esper Cycle:
 
 *   **Nanally + Jiuyuan:** This pairing focuses on the **Blossom** reaction. Nanally provides the high-frequency Incantation application, while Jiuyuan provides the Anima triggers that keep the team healthy while dealing sustained damage.
-*   **Sakya + [Information not yet publicly available as of 2026-05-15]:** Sakya’s Chaos abilities pair exceptionally well with Cosmos users to create a "Black Hole" effect through the **Hexed** reaction, pulling enemies together before the explosion.
+*   **Sakya + undisclosed:** Sakya’s Chaos abilities pair exceptionally well with Cosmos users to create a "Black Hole" effect through the **Hexed** reaction, pulling enemies together before the explosion.
 *   **Mint + Sakya:** The **Stain** reaction triggered by these two is vital for late-game content, as reducing enemy elemental resistance is the only way to effectively damage high-level Anomalies.
 
 Understanding the Esper Cycle is not just about memorizing names; it is about feeling the rhythm of the city's supernatural combat. By prioritizing Cycle Rate in your builds and respecting the adjacency of the Esper Wheel, you can ensure that your team is always operating at peak efficiency in the ever-changing world of Neverness to Everness.

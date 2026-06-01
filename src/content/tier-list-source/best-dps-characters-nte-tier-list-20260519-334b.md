@@ -159,7 +159,7 @@ Edgar is a pure healer. While his healing output is the highest in the game, he 
 
 Aurelia is a Psyche-element Main DPS given to players early in the story. Her scalings are notably lower than other attackers, and she requires a significant amount of field time to deal mediocre damage. Most players replace her as soon as they pull their first A-Class or S-Class unit from the standard resonance banner.
 
-### Lacrimosa: [Information not yet publicly available as of 2026-05-19]
+### Lacrimosa: undisclosed
 
 Lacrimosa has been teased in recent developer livestreams as a Chaos-element character arriving in Version 1.1. While community hype is high, there is currently no finalized performance data or kit details available. Early leaks suggest she may focus on a new "Life-Drain" mechanic, but until her release, she remains unranked.
 

@@ -55,7 +55,7 @@ Understanding how elements interact is the foundation of team building. Use this
 | Anima | Incantation | Hexed | Triggers "Unison Damage" based on the last 3 elemental hits. |
 | Lakshana | Cosmos | Remora | Slows enemies and increases critical hit damage taken. |
 | Cosmos | Incantation | Scorch | Deals immediate burst damage and applies a DoT burn. |
-| Anima | Lakshana | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
+| Anima | Lakshana | — | — |
 
 ### Defining the F2P Roster
 
@@ -157,7 +157,7 @@ This team relies on raw physical and elemental damage. Because it lacks a fourth
 | Zero | Cosmos | Main DPS | Void Step |
 | Mint | Cosmos | Sub-DPS | Starlight Ray |
 | Adler | Incantation | Shield/Tank | Iron Bulwark |
-| [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
+| — | — | — | — |
 
 ### When to Transition to Advanced Teams
 
@@ -186,7 +186,7 @@ Additionally, a recent system update has adjusted the Esper Meter generation fro
 | :--- | :--- | :--- |
 | Dominant Element | Cosmos / Anima | Chaos / Lakshana |
 | Key Reaction | Blossom / Charge | Discord / Nova |
-| F2P MVP | Chiz / Adler | [Information not yet publicly available as of 2026-05-22] |
+| F2P MVP | Chiz / Adler | — |
 | Energy Meta | Parry-based | Reaction-based |
 
 By focusing on these F2P-friendly compositions, you can ensure your resources are spent on units that provide the highest return on investment. Whether you prefer the high-octane energy loops of the Chiz-led S-Tier or the unshakable defense of an Adler-supported A-Tier, mastering these team synergies is your fastest path to dominating the urban anomalies of Hethereau.

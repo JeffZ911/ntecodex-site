@@ -64,9 +64,9 @@ To challenge the Mourning Aix Hologram, you must travel to the southeastern port
 
 ### Difficulty VI Special Mechanisms Explained
 
-Difficulty VI introduces two lethal mechanisms that define the flow of the fight. The first is a stacking enrage mechanic, [Information not yet publicly available as of 2026-05-15]. Once the fight reaches the 3-minute mark, Mourning Aix gains a 50% ATK increase every 10 seconds. These stacks are infinite, meaning that by the 4-minute mark, almost any single hit—even through a shield—will result in an immediate character defeat.
+Difficulty VI introduces two lethal mechanisms that define the flow of the fight. The first is a stacking enrage mechanic, undisclosed. Once the fight reaches the 3-minute mark, Mourning Aix gains a 50% ATK increase every 10 seconds. These stacks are infinite, meaning that by the 4-minute mark, almost any single hit—even through a shield—will result in an immediate character defeat.
 
-The second mechanism, [Information not yet publicly available as of 2026-05-15], targets your stamina. If your active Resonator is at any value less than 100% HP, every dodge consumes an additional 10 Stamina. In a fight where you must dodge frequently to survive, this penalty can quickly lead to stamina depletion, leaving you unable to avoid the boss's command grabs or laser beams. Maintaining full HP through consistent healing or flawless play is mandatory.
+The second mechanism, undisclosed, targets your stamina. If your active Resonator is at any value less than 100% HP, every dodge consumes an additional 10 Stamina. In a fight where you must dodge frequently to survive, this penalty can quickly lead to stamina depletion, leaving you unable to avoid the boss's command grabs or laser beams. Maintaining full HP through consistent healing or flawless play is mandatory.
 
 ## Attack Patterns
 
@@ -126,11 +126,11 @@ Due to the stamina penalty mechanism, keeping your HP at 100% is more important 
 
 The 2026 meta for Wuthering Waves emphasizes high-mobility units and Resonators who can exploit elemental weaknesses. For Mourning Aix VI, avoid Spectro-based teams entirely.
 
-### Top Tier: The [Information not yet publicly available as of 2026-05-15] Core
+### Top Tier: The undisclosed Core
 
 The current gold standard for this fight involves a combination of high Glacio or Aero shred.
-*   **Main DPS:** [Information not yet publicly available as of 2026-05-15]
-*   **Sub-DPS:** [Information not yet publicly available as of 2026-05-15]
+*   **Main DPS:** undisclosed
+*   **Sub-DPS:** undisclosed
 *   **Support:** Shorekeeper
 
 Shorekeeper is vital in this composition for her ability to provide massive energy regeneration and consistent healing, which nullifies the stamina penalty. The synergy between the Main and Sub-DPS in this team allows for constant interruption of the boss's ground combos.
@@ -168,7 +168,7 @@ Completing Mourning Aix VI is a one-time milestone that provides significant rew
 The first time you clear Difficulty VI, you will receive a bounty of rewards:
 *   **Astrite:** 20–50 (depending on cumulative achievement milestones).
 *   **Advanced Simulation Data:** Used in the Simulation Training Store to purchase Premium Tuners and Shell Credits.
-*   **Trophy:** Unlocks the [Information not yet publicly available as of 2026-05-15] achievement.
+*   **Trophy:** Unlocks the undisclosed achievement.
 *   **Mourning Aix Echo:** A guaranteed 5-Star Echo with a high probability of optimized base stats.
 
 ### Farming the Simulation Training Store

@@ -137,7 +137,7 @@ Your Appraisal Level acts as the world tier for Neverness to Everness. It determ
 | 20 | Appraisal Level 1 | Level 40 |
 | 30 | Appraisal Level 2 | Level 50 |
 | 40 | Appraisal Level 3 | Level 60 |
-| [Information not yet publicly available as of 2026-05-20] | Appraisal Level 4 | [Information not yet publicly available as of 2026-05-20] |
+| — | Appraisal Level 4 | — |
 
 To increase your Hunter Level, focus on completing "Urban Errands" (daily quests) and spending your "Stamina" equivalent on resource nodes like the Witch's House.
 

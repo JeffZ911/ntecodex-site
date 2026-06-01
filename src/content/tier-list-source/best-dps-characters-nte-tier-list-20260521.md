@@ -74,7 +74,7 @@ Nanally remains the undisputed queen of DPS in Neverness to Everness. Her kit re
 
 Her primary strength lies in her ability to deal damage while off-field or during animations. When Nanally triggers her ultimate, the Underboss remains active for 15 seconds, dealing [information unavailable] additional damage with every basic attack she performs. This makes her the most consistent damage dealer for long-form boss fights where window-of-opportunity attacking is required.
 
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-21]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Ultimate Energy Cost:** 125
 
 ### Jiuyuan: The Anima Powerhouse for Standard Banner Users
@@ -83,7 +83,7 @@ As the strongest DPS available on the standard banner, Jiuyuan is the backbone o
 
 Jiuyuan is particularly effective for players who have not pulled for limited characters, as her constellations (obtained through standard pulls) significantly increase her Break Efficiency, making her a hybrid threat who can both shatter gauges and execute enemies.
 
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-21]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Ultimate Energy Cost:** 100 (Effective cost is lower due to Pact Settlement)
 
 ### Hotori: Mastering the Cosmos and Skill Recording
@@ -92,7 +92,7 @@ Released on May 13, 2026, Hotori has completely shifted the sub-DPS landscape. W
 
 Her Cosmos/Solid typing makes her incredibly flexible, fitting into almost any team composition. In the current "Beyond the Rails" season, Hotori paired with Nanally is considered the "gold standard" for speed-clearing, as she can replicate Nanally’s high-multiplier Plasma strikes while the enemy is frozen in time.
 
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-21]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Ultimate Energy Cost:** 140
 
 ## A Tier

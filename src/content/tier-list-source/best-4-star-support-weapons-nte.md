@@ -84,9 +84,9 @@ The Arcs in this tier are considered "universal" supports. They provide powerful
 
 ### Be Happy: The Best-in-Slot for Haniel
 
-Despite being categorized as a Gas-type weapon in some early databases, **Be Happy** has solidified itself as a cornerstone of the support meta. While its base stats include a [Information not yet publicly available as of 2026-05-22] HP substat, its true value lies in its refinement potential.
+Despite being categorized as a Gas-type weapon in some early databases, **Be Happy** has solidified itself as a cornerstone of the support meta. While its base stats include a undisclosed HP substat, its true value lies in its refinement potential.
 
-At high Mixing levels, Be Happy provides a significant boost to team sustain. According to current testing, it restores between 12% and 20% HP upon defeating an enemy. However, in the 1.1 meta, players are prioritizing it for its [Information not yet publicly available as of 2026-05-22] Charge Efficiency and the reported [Information not yet publicly available as of 2026-05-22] team ATK buff triggered after an Ultimate. For an A-Class support like Haniel, who already excels at boosting squad damage, this weapon amplifies her role to a near S-Rank level.
+At high Mixing levels, Be Happy provides a significant boost to team sustain. According to current testing, it restores between 12% and 20% HP upon defeating an enemy. However, in the 1.1 meta, players are prioritizing it for its undisclosed Charge Efficiency and the reported undisclosed team ATK buff triggered after an Ultimate. For an A-Class support like Haniel, who already excels at boosting squad damage, this weapon amplifies her role to a near S-Rank level.
 
 ### Tears Beneath the Mask: Essential for High-Level Anomalies
 
@@ -98,7 +98,7 @@ The standout feature of this Arc is the **"Warning Gaze"** debuff (part of the N
 
 | Arc Name | Rarity | Type | Key Support Effect |
 | :--- | :--- | :--- | :--- |
-| **Be Happy** | 4-Star | Gas | HP restoration and [Information not yet publicly available as of 2026-05-22] team buffs. |
+| **Be Happy** | 4-Star | Gas | HP restoration and — team buffs. |
 | **Tears Beneath the Mask** | 4-Star | Gas | 18% enemy DMG reduction (Warning Gaze). |
 | **Good Boy's Grand Adventure**| S-Rank | Gas | Massive team ATK buffs and energy restoration. |
 | **Day Off** | S-Rank | Solid | 33% Charge Efficiency and Ultimate Energy restore. |
@@ -112,7 +112,7 @@ A-Tier Arcs are highly effective but often require specific team compositions or
 
 ### Umbrella: The Shielder's Choice
 
-The **Umbrella** is a Solid-type Arc that serves as the best-in-slot 4-star option for characters like Adler. Because Adler scales primarily off defensive stats rather than ATK, the Umbrella's focus on [Information not yet publicly available as of 2026-05-22] Max HP and shield strengthening makes it indispensable.
+The **Umbrella** is a Solid-type Arc that serves as the best-in-slot 4-star option for characters like Adler. Because Adler scales primarily off defensive stats rather than ATK, the Umbrella's focus on undisclosed Max HP and shield strengthening makes it indispensable.
 
 When the wearer’s health is above 50%, the Umbrella provides a bonus to shield durability, ensuring that Adler’s protection remains active even under heavy fire. In the current "Scorch" and "Hex" team archetypes, where survival is as important as damage, the Umbrella provides the necessary bulk to keep the team standing.
 
@@ -126,9 +126,9 @@ While Redirect Skill DMG might seem like a DPS stat, it is vital for supports wh
 
 | Mixing Rank | Redirect Skill DMG Bonus | Break Intensity Bonus |
 | :--- | :--- | :--- |
-| Rank 1 | 12% | [Information not yet publicly available as of 2026-05-22] |
-| Rank 3 | 14% | [Information not yet publicly available as of 2026-05-22] |
-| Rank 5 | 16% | [Information not yet publicly available as of 2026-05-22] |
+| Rank 1 | 12% | — |
+| Rank 3 | 14% | — |
+| Rank 5 | 16% | — |
 
 ## B Tier
 

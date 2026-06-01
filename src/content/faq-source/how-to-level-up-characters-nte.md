@@ -61,7 +61,7 @@ The fundamental way to increase an Esper's level is by using Hunter Guides. Thes
 | Basic Hunter Guide | 1,000 | Green (Common) |
 | Intermediate Hunter Guide | 5,000 | Blue (Rare) |
 | Advanced Hunter Guide | 20,000 | Purple (Epic) |
-| [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | Gold (Legendary) |
+| — | — | Gold (Legendary) |
 
 Beetle Coins are consumed for every point of EXP gained. At lower levels, the cost is negligible, but moving from level 70 to 80 requires a significant reserve of coins. It is common to run out of Beetle Coins before running out of Hunter Guides, so participating in City Tycoon business activities is a necessary part of the leveling loop to maintain your gold flow.
 

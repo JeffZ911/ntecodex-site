@@ -55,7 +55,7 @@ The fight is structured around a dual-phase health bar. Unlike common enemies, A
 
 | Stat | Value / Attribute |
 | :--- | :--- |
-| **Primary Element** | [Information not yet publicly available as of 2026-05-20] |
+| **Primary Element** | — |
 | **Weakness** | Chaos |
 | **Resistances** | Plasma, Physical |
 | **Recommended Level** | 25+ (Hunter Level) |

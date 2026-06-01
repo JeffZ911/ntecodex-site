@@ -63,8 +63,8 @@ Breakthroughs require specific materials gathered from regional bosses located t
 | Hunter's Manual (Basic) | Leveling XP | Daily Commissions / Shops |
 | Hunter's Manual (Advanced) | Leveling XP | Anomaly Zone Rewards |
 | Shell Credits | Currency | General Gameplay / Events |
-| [Information not yet publicly available as of 2026-05-23] | Breakthrough Material | Regional Boss: [Information not yet publicly available] |
-| [Information not yet publicly available as of 2026-05-23] | Breakthrough Material | Regional Boss: [Information not yet publicly available] |
+| — | Breakthrough Material | Regional Boss: — |
+| — | Breakthrough Material | Regional Boss: — |
 
 Beyond base levels, you must invest in Skill Upgrades. Each Esper has a talent tree that enhances their Active Skills, Ultimate, and Passive traits. Investing in these talents increases the damage multipliers of your abilities, which is often more impactful than raw stat increases in the late game.
 
@@ -94,8 +94,8 @@ Raw stats can only take you so far if you do not understand the Esper Cycle. Com
 | :--- | :--- | :--- |
 | **Blossom** | Anima + Cosmos | High damage over time (DoT) and AOE explosion. |
 | **Discord** | Incantation + Chaos + Psyche | Massive shield-breaking damage and stun. |
-| [Information not yet publicly available] | Chaos + Lakshana | [Information not yet publicly available] |
-| [Information not yet publicly available] | Psyche + Cosmos | [Information not yet publicly available] |
+| — | Chaos + Lakshana | — |
+| — | Psyche + Cosmos | — |
 
 A team with lower raw power but high synergy will often outperform a "whale" team with no elemental cohesion. For example, triggering Discord is essential for late-game bosses that regenerate shields rapidly. If your team cannot trigger Discord, your numerical Team Power becomes irrelevant against those specific mechanics.
 

@@ -92,7 +92,7 @@ Huohuo’s position in the S-Tier was solidified by her "Novaflare" enhancement 
 *   **Best-in-Slot Light Cone:** "Night of Fright" (Provides Energy Regeneration and heals the lowest-HP ally whenever an ally uses their Ultimate).
 
 ### Evernight: Unparalleled Damage Mitigation
-[Information not yet publicly available as of 2026-05-12] regarding Evernight's exact base statistics, but her performance in Version 4.2 content places her firmly in the S-Tier. Known as the "Veil of Evernight," she is an Emanator of Remembrance who functions as a high-concept damage mitigator. Her kit utilizes "Memoria" points to grant the team stacks of CC immunity. Once she reaches 16 Memoria points, she becomes completely immune to Crowd Control and allows her memosprite, "Evey," to take immediate action. In the Amphoreus arc, her ability to protect March 7th (and other "mirrored soul" units) from "Oblivion" mechanics makes her essential for lore-heavy challenge stages.
+undisclosed regarding Evernight's exact base statistics, but her performance in Version 4.2 content places her firmly in the S-Tier. Known as the "Veil of Evernight," she is an Emanator of Remembrance who functions as a high-concept damage mitigator. Her kit utilizes "Memoria" points to grant the team stacks of CC immunity. Once she reaches 16 Memoria points, she becomes completely immune to Crowd Control and allows her memosprite, "Evey," to take immediate action. In the Amphoreus arc, her ability to protect March 7th (and other "mirrored soul" units) from "Oblivion" mechanics makes her essential for lore-heavy challenge stages.
 
 [Image Spec: Comparison chart of S-Tier sustain characters showing their primary utility (Buffs, Cleanse, SP Efficiency).]
 

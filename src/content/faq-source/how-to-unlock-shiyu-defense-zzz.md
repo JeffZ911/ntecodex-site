@@ -83,7 +83,7 @@ Shiyu Defense is divided into different "Node" categories, each serving a differ
 | **Stable Nodes** | Permanent (One-time) | Progressive (Low to High) | Polychromes, Master Copies |
 | **Disputed Nodes** | Permanent (One-time) | Survival-Focused | Polychromes, Plating Agents |
 | **Critical Nodes** | Bi-monthly (1st and 16th) | Very High | Polychromes, Ether Medals |
-| **Ambush Nodes** | Event-based | Variable | [Information not yet publicly available as of 2026-05-13] |
+| **Ambush Nodes** | Event-based | Variable | — |
 
 **Stable Nodes** consist of 10 stages. These are designed as a "gear check" to see if your teams are ready for the true endgame. Once you clear a Stable Node stage with an S-Rank, you claim the rewards, and they do not refresh.
 

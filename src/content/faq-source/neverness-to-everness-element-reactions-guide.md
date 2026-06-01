@@ -78,11 +78,11 @@ Duo Reactions are the bread and butter of mid-tier combat. They provide the util
 | Elements involved | Reaction Name | Primary Effect | Duration |
 | :--- | :--- | :--- | :--- |
 | Anima + Cosmos | Blossom | Summons "Lebenstamm" turrets that fire at nearby enemies. | 12 Seconds |
-| Cosmos + Lakshana | [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | [Information unavailable] |
-| Incantation + Chaos | [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | [Information unavailable] |
+| Cosmos + Lakshana | — | — | [Information unavailable] |
+| Incantation + Chaos | — | — | [Information unavailable] |
 | Chaos + Psyche | Remora | Applies a "Stasis" effect that slows enemy actions by [exact value pending official confirmation]. | 8 Seconds |
-| Psyche + Anima | [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | [Information unavailable] |
-| Lakshana + Incantation | [Information not yet publicly available as of 2026-05-15] | [Information not yet publicly available as of 2026-05-15] | [Information unavailable] |
+| Psyche + Anima | — | — | [Information unavailable] |
+| Lakshana + Incantation | — | — | [Information unavailable] |
 
 The Blossom reaction is currently a meta-favorite due to its high scaling with the Cycle Intensity stat. When [Nanally](/characters/nanally-guide-nte) (Anima) swaps into a Cosmos-type character, the resulting Lebenstamm turrets inherit a portion of the character's Attack stat, making it a potent off-field damage source.
 
@@ -129,7 +129,7 @@ As of the current 2026-05-15 meta, certain characters stand out for their abilit
 | [Information unavailable] | Cosmos | Sub-DPS / Crowd Control | 5-Star |
 | [Information unavailable] | Lakshana | Support / Healer | 4-Star |
 | Sakya | Chaos | Burst DPS | 5-Star |
-| Mint | [Information not yet publicly available as of 2026-05-15] | Utility | 4-Star |
+| Mint | — | Utility | 4-Star |
 
 Nanally remains the premier choice for Top Trio teams. Her "The Ichi-daime" banner introduced her as a powerhouse for Blossom-based compositions, as her passive skills specifically enhance the duration and fire rate of the Lebenstamm turrets.
 

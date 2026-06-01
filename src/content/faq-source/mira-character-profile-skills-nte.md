@@ -104,7 +104,7 @@ Hotori’s gameplay is highly technical, revolving around time manipulation and 
 | **Normal Attack** | Misty Moon Style | Performs 5 consecutive attacks dealing Cosmos DMG. Holding the button triggers "Rippling Waves" for AoE damage. |
 | **Esper Skill** | Present Replay | Consumes 60 Timepiece energy to record the Support and Redirect skills used by allies for 5 seconds. |
 | **Ultimate** | World's Tide | Stops time in a wide area and replays all recorded ally skills simultaneously, ending with a massive Cosmos DMG finisher. |
-| **Support Skill** | Shopkeeper's Authority | [Information not yet publicly available as of 2026-05-20] |
+| **Support Skill** | Shopkeeper's Authority | — |
 | **Passive Talent** | Non-Closed Timepiece | A gauge that slowly builds energy while Hotori is on the field, capping at 120 energy. |
 
 ### NTE Character System: Elements and Arcs
@@ -132,7 +132,7 @@ Combat in NTE relies on swapping characters to trigger reactions between neighbo
 
 Weapons in NTE are called Arcs and are divided into five types: **Solid, Plasma, Gas, Liquid, and Synthesis**. Each character can only equip an Arc that matches their specific type.
 
-For **Nanally (Plasma)**, players should look for Arcs that amplify follow-up attack damage or provide flat ATK bonuses after using a Redirect skill. [Information not yet publicly available as of 2026-05-20] is currently considered a strong choice for her due to its synergy with the Underboss summon.
+For **Nanally (Plasma)**, players should look for Arcs that amplify follow-up attack damage or provide flat ATK bonuses after using a Redirect skill. undisclosed is currently considered a strong choice for her due to its synergy with the Underboss summon.
 
 For **Hotori (Solid)**, her signature S-Rank Arc is **"Marching Beyond Time."** This weapon is specifically designed to maximize her Ultimate's "Time Stop" window. It provides a significant boost to CRIT Rate and allows allies to build "Waste Time" stacks, which Hotori consumes during her Ultimate to ignore [exact value pending official confirmation] of the enemy’s DEF.
 

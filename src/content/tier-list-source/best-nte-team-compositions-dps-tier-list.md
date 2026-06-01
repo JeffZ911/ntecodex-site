@@ -123,7 +123,7 @@ Hathor is a premier Lakshana DPS who excels when paired with Psyche units to tri
 *   **Breaker:** Daffodill
 *   **Sub-DPS:** Zero
 
-This team relies on "Stain" to increase enemy vulnerability. While Hathor’s raw numbers are comparable to Baicang’s, she lacks the consistent off-field follow-up of Nanally, meaning your swap timings must be perfect to maintain high DPS. Haniel acts as the primary buffer here, increasing Hathor’s Lakshana damage by [Information not yet publicly available as of 2026-05-24].
+This team relies on "Stain" to increase enemy vulnerability. While Hathor’s raw numbers are comparable to Baicang’s, she lacks the consistent off-field follow-up of Nanally, meaning your swap timings must be perfect to maintain high DPS. Haniel acts as the primary buffer here, increasing Hathor’s Lakshana damage by undisclosed.
 
 ### F2P Excellence: The Chiz & Mint Rotation
 

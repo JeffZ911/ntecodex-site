@@ -188,7 +188,7 @@ Managing the Esper Cycle is crucial because Nanally’s "Fair Duel" passive only
 No, her official name in the game is Nanally Coluccis. "Mako" is a popular community nickname derived from her shark-like design elements, such as her teeth and "Underboss" summon.
 
 **How do I unlock Nanally?**
-Nanally was the featured S-rank character on the limited-time "The Ichi-daime" banner at the game's launch. [Information not yet publicly available as of 2026-05-21] regarding when her banner will return for a rerun.
+Nanally was the featured S-rank character on the limited-time "The Ichi-daime" banner at the game's launch. undisclosed regarding when her banner will return for a rerun.
 
 **What is her best Awakening level?**
 Her A1 (Gang Formation) is the best stopping point for most players, as it provides a significant ATK boost based on her follow-up attacks. Her A5 (Because We're Family) is her "whale" milestone, as it drastically increases the uptime of her Ichi-daime's Authority state.

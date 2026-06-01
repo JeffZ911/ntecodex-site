@@ -176,7 +176,7 @@ The damage of a Disorder proc is calculated based on the "remaining" damage of t
 
 
 ### Does elemental damage crit?
-Standard hits from an elemental Agent can crit like any other attack. However, the **Attribute Anomaly damage** (the DoT from Burn/Shock or the burst from Assault/Shatter) cannot crit. The only exception is if a character has a specific passive or W-Engine that allows Anomaly damage to crit [information not yet publicly available as of 2026-05-13].
+Standard hits from an elemental Agent can crit like any other attack. However, the **Attribute Anomaly damage** (the DoT from Burn/Shock or the burst from Assault/Shatter) cannot crit. The only exception is if a character has a specific passive or W-Engine that allows Anomaly damage to crit undisclosed.
 
 ### How does enemy resistance affect buildup?
 Enemies have varying levels of Attribute Resistance. If an enemy is resistant to Fire, the Fire Anomaly meter will fill much slower, and the resulting Burn damage will be reduced. Conversely, hitting an enemy with an element they are weak to increases the buildup rate significantly.

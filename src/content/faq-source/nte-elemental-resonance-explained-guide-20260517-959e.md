@@ -129,7 +129,7 @@ For example, running **Nanally** and **Jiuyuan** (both Incantation) provides a t
 
 Daffodill is a unique case in the 1.0 roster because she possesses a specialized "Resonance Stack" system. As a Chaos-user, she is designed to be the "finisher" in many rotations. 
 
-When teammates use their Support Skills or trigger a Duo Cycle involving Chaos, Daffodill gains a "Resonance Stack" [Information not yet publicly available as of 2026-05-17 regarding the maximum stack limit]. These stacks significantly enhance the damage of her Skill, making her the premier choice for teams focusing on the **Nova** (Incantation + Chaos) and **Stain** (Chaos + Psyche) reactions. Managing her stacks requires a strict rotation: start with your Incantation or Psyche character, build their meter, and swap into Daffodill only once the resonance is primed.
+When teammates use their Support Skills or trigger a Duo Cycle involving Chaos, Daffodill gains a "Resonance Stack" undisclosed. These stacks significantly enhance the damage of her Skill, making her the premier choice for teams focusing on the **Nova** (Incantation + Chaos) and **Stain** (Chaos + Psyche) reactions. Managing her stacks requires a strict rotation: start with your Incantation or Psyche character, build their meter, and swap into Daffodill only once the resonance is primed.
 
 ## Related
 

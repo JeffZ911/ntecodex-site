@@ -77,7 +77,7 @@ Duo Cycles occur when you swap from an "A" element character to a "B" element ch
 | Elements | Reaction Name | Effect | Duration |
 | :--- | :--- | :--- | :--- |
 | Cosmos + Anima | **Blossom** | Summons a botanical turret that fires homing projectiles at nearby enemies. | 12 Seconds |
-| Anima + Incantation | **Scorch** | Applies a stacking burn that reduces enemy defense by [Information not yet publicly available as of 2026-05-21]. | 8 Seconds |
+| Anima + Incantation | **Scorch** | Applies a stacking burn that reduces enemy defense by —. | 8 Seconds |
 | Incantation + Chaos | **Hexed** | Creates a zone of gravity that pulls small enemies toward the center. | 5 Seconds |
 | Chaos + Psyche | **Stain** | Infects the target, causing them to explode and deal AoE damage upon death. | Permanent until death |
 | Psyche + Lakshana | **Remora** | Attaches a "Mind Parasite" to the enemy that deals damage whenever the player lands a critical hit. | 10 Seconds |
@@ -93,7 +93,7 @@ When a team is composed of three elements that form a specific "Trio" on the whe
 
 | Trio Group | Reaction Name | Combo Requirements | Effect |
 | :--- | :--- | :--- | :--- |
-| **Top Trio** (Lakshana, Cosmos, Anima) | **Charged** | Complete two Duo Cycles within the trio in under 15 seconds. | Grants the entire team [Information not yet publicly available as of 2026-05-21] Energy Regeneration and resets Skill Cooldowns. |
+| **Top Trio** (Lakshana, Cosmos, Anima) | **Charged** | Complete two Duo Cycles within the trio in under 15 seconds. | Grants the entire team — Energy Regeneration and resets Skill Cooldowns. |
 | **Bottom Trio** (Incantation, Chaos, Psyche) | **Discord** | Complete two Duo Cycles within the trio in under 15 seconds. | Deals massive "Shatter" damage to the enemy's Stagger bar and increases damage taken by 30%. |
 
 The **Discord** reaction is the primary tool for defeating world bosses. By cycling through [Nanally](/characters/nanally-guide-nte) (Incantation) and a Chaos-element support, players can rapidly deplete a boss's posture, leading to a "Down" state where they take amplified damage.
@@ -103,8 +103,8 @@ The **Discord** reaction is the primary tool for defeating world bosses. By cycl
 Beyond active reactions, having multiple characters of the same element (or elements that share a resonance group) provides passive stat boosts.
 
 *   **Jiuyuan and Anima Stacking:** Using Jiuyuan alongside another Anima character increases the damage of "Blossom" turrets by a flat percentage. This makes her essential for "Turret Meta" builds.
-*   **Nanally and Incantation Synergy:** Nanally provides a passive buff called [Information not yet publicly available as of 2026-05-21] which increases the explosion radius of the Scorch reaction.
-*   **Mint's Versatility:** Mint acts as a "bridge" character. Her passive allows her to count as both her primary element and her adjacent neighbor for the purpose of triggering Triple Cycles, though this has a [Information not yet publicly available as of 2026-05-21] second internal cooldown.
+*   **Nanally and Incantation Synergy:** Nanally provides a passive buff called undisclosed which increases the explosion radius of the Scorch reaction.
+*   **Mint's Versatility:** Mint acts as a "bridge" character. Her passive allows her to count as both her primary element and her adjacent neighbor for the purpose of triggering Triple Cycles, though this has a undisclosed second internal cooldown.
 
 ### Managing the Esper Meter: Cycle Rate and Parrying
 
@@ -123,9 +123,9 @@ Building a team requires balancing elemental adjacency with character roles (DPS
 
 | Team Name | Core Characters | Primary Reaction | Playstyle |
 | :--- | :--- | :--- | :--- |
-| **The Boss Executioner** | Nanally, Zero, [Information not yet publicly available as of 2026-05-21] | Discord | Focuses on rapid swaps to trigger Discord and break boss shields instantly. |
-| **Nature's Wrath (AoE)** | Jiuyuan, Mint, [Information not yet publicly available as of 2026-05-21] | Blossom | Sets up multiple automated turrets to clear waves of enemies while staying mobile. |
-| **Silver Order** | [Information not yet publicly available as of 2026-05-21], Zero, Mint | Nova / Charged | High utility team that focuses on crowd control and frequent Ultimate usage. |
+| **The Boss Executioner** | Nanally, Zero, — | Discord | Focuses on rapid swaps to trigger Discord and break boss shields instantly. |
+| **Nature's Wrath (AoE)** | Jiuyuan, Mint, — | Blossom | Sets up multiple automated turrets to clear waves of enemies while staying mobile. |
+| **Silver Order** | —, Zero, Mint | Nova / Charged | High utility team that focuses on crowd control and frequent Ultimate usage. |
 
 In the "Boss Executioner" team, Nanally serves as the primary damage dealer. By using Zero to reset the cycle, you can trigger Discord twice in a single window, which is usually enough to stagger even the most difficult Anomalies in the "Beyond the Rails" endgame mode.
 

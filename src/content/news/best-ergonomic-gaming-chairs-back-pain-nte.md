@@ -72,7 +72,7 @@ Ergonomic technology in 2026 has shifted toward "dynamic support" to accommodate
 
 The <a href="https://www.amazon.com/s?k=Razer+Iskur+V2&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Razer Iskur V2</a> has emerged as a frontrunner in this new era. Its 6D adjustable lumbar system is specifically designed to adapt to shifting postures. As you lean forward to time a perfect dodge with Mint, the lumbar plate pivots to maintain contact with your spine. When you lean back to check your City Tycoon profits, the plate flattens and supports the natural curve of your lower back.
 
-Another significant advancement is the introduction of the [Information not yet publicly available as of 2026-05-28], which reportedly features a spinal massage motor and a 160-degree recline. This chair is marketed specifically for the "gacha relaxation" phases, allowing players to lie nearly flat while navigating menus.
+Another significant advancement is the introduction of the undisclosed, which reportedly features a spinal massage motor and a 160-degree recline. This chair is marketed specifically for the "gacha relaxation" phases, allowing players to lie nearly flat while navigating menus.
 
 ### Comparison of Top Ergonomic Chairs for NTE Grinders
 

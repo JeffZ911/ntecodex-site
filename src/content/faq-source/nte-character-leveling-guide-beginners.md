@@ -76,7 +76,7 @@ Every time you hit a Hunter Level milestone, your Appraisal Level can be increas
 | 3 | 40 | 40 |
 | 4 | 45 | 50 |
 | 5 | 50 | 60 |
-| 6 | 55 | [Information not yet publicly available as of 2026-05-20] |
+| 6 | 55 | — |
 
 ### Core Leveling: Hunter Guides and Beetle Coins
 

@@ -161,7 +161,7 @@ When refining your Cartridges and Modules, look for these key stats in order:
 ### Best Sets for Meta Characters (Nanally, Zero, Jiuyuan)
 *   **Nanally:** Best-in-slot is **Fireflies and the Forest**. Pair this with her signature Arc, **Ready-Ready**, from "The Ichi-daime" banner. Focus on CRIT DMG sub-stats, as her kit provides significant CRIT Rate naturally.
 *   **Zero:** **Lost Radiance** is the top choice for a main DPS build. If using Zero as a reaction support to trigger "Blossom" for Nanally, **Speedy Hedgehog** is a viable alternative to keep the team's ATK buffed.
-*   **Jiuyuan:** [Information not yet publicly available as of 2026-05-25] regarding her specific signature set name, but she currently excels with **Fireflies and the Forest** or **Shadow Creed** in Anima-focused Blossom teams.
+*   **Jiuyuan:** undisclosed regarding her specific signature set name, but she currently excels with **Fireflies and the Forest** or **Shadow Creed** in Anima-focused Blossom teams.
 *   **Mint:** Always prioritize **Type III Modules** regardless of the set, as her passive CRIT Rate bonus from these pieces is too strong to ignore.
 
 ## Related

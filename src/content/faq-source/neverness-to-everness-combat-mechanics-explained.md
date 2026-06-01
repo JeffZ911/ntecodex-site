@@ -89,8 +89,8 @@ When two elements interact, they create a Duo Cycle. While the exact damage perc
 | Blossom | Anima + Psyche | Creates a field that deals periodic damage and heals the active Esper. |
 | Overload | Chaos + Incantation | Produces a high-impact explosion that deals massive Break DMG. |
 | Singularity | Cosmos + Lakshana | Pulls enemies into a central point and reduces their elemental resistance. |
-| [Information Unavailable] | Anima + Chaos | [Information not yet publicly available as of 2026-05-14] |
-| [Information Unavailable] | Psyche + Incantation | [Information not yet publicly available as of 2026-05-14] |
+| [Information Unavailable] | Anima + Chaos | — |
+| [Information Unavailable] | Psyche + Incantation | — |
 
 **Triple Cycle Advanced Reactions:**
 Triple Cycles occur when you successfully rotate three different elements onto a target within a short "Reaction Window." These are the most powerful moves in the game.

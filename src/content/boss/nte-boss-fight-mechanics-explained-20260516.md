@@ -124,7 +124,7 @@ The current meta revolves around the "Stain" reaction, which requires a combinat
 | Team Comp | Core Characters | Primary Role | Strategy |
 | :--- | :--- | :--- | :--- |
 | **The Stain Team** | Nanally, Daffodil, [Sakiri](/characters/sakiri-nte-free-5-star-guide) | Elemental Burst | Uses Lakshana/Psyche to melt boss HP during Break windows. |
-| **The Charge Team** | Edgar, Nanally, [Information not yet publicly available] | Ultimate Spam | Focuses on rapid Esper Meter regeneration. |
+| **The Charge Team** | Edgar, Nanally, — | Ultimate Spam | Focuses on rapid Esper Meter regeneration. |
 | **The Discord Team** | Chaos-type Lead, Psyche, Anima | Crowd Control/DoT | Focuses on Chaos-based debuffs to slow boss Break recovery. |
 
 ### Character Role Breakdown

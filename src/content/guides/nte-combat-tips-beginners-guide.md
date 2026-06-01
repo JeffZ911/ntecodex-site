@@ -225,7 +225,7 @@ Cartridges are primarily obtained through District exploration, completing Anoma
 Cosmos and Anima are highly versatile. Zero (Cosmos) is a fantastic starter unit because Cosmos reacts well with almost every other element, making him a staple in almost any team composition.
 
 **Can I change the MC's (Zero) element?**  
-[Information not yet publicly available as of 2026-05-21]
+undisclosed
 
 ## Sources
 

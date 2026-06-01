@@ -107,7 +107,7 @@ Adler is particularly strong in Scorch-based teams, where his ability to apply I
 Sakiri is not a healer in the traditional sense, but she earns her spot here through superior damage mitigation. By using her Incantation-based crowd control and suppression, she prevents enemies from attacking in the first place. In the NTE meta, reducing the number of hits your team takes is often more efficient than healing through them. She is a staple in "Hexed" teams (Anima + Incantation), where she provides DEF shred and ATK buffs that end fights before sustain becomes an issue.
 
 ### Haniel: Offensive Utility
-Haniel is a Psyche-element buffer who provides significant ATK increases and skill cycle acceleration. While her direct healing is minimal, she is ranked here because her offensive utility is so high that she effectively "sustains" the team by shortening the duration of encounters. [Information not yet publicly available as of 2026-05-17] regarding her exact ATK buff percentages at Level 10, but community testing suggests she is essential for competitive clear times in the Bureau of Anomaly Control challenges.
+Haniel is a Psyche-element buffer who provides significant ATK increases and skill cycle acceleration. While her direct healing is minimal, she is ranked here because her offensive utility is so high that she effectively "sustains" the team by shortening the duration of encounters. undisclosed regarding her exact ATK buff percentages at Level 10, but community testing suggests she is essential for competitive clear times in the Bureau of Anomaly Control challenges.
 
 ## B Tier
 

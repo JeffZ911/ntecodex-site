@@ -78,12 +78,12 @@ Non-adjacent elements (e.g., Cosmos and Chaos) cannot react directly. This means
 
 Duo Cycles occur when you swap from one element to an adjacent one. Each pair produces a unique effect that can alter the flow of battle.
 
-1.  **Lakshana + Cosmos:** [Information not yet publicly available as of 2026-05-19]
-2.  **Cosmos + Anima:** [Information not yet publicly available as of 2026-05-19]
-3.  **Anima + Incantation:** [Information not yet publicly available as of 2026-05-19]
-4.  **Incantation + Chaos:** [Information not yet publicly available as of 2026-05-19]
-5.  **Chaos + Psyche:** [Information not yet publicly available as of 2026-05-19]
-6.  **Psyche + Lakshana:** [Information not yet publicly available as of 2026-05-19]
+1.  **Lakshana + Cosmos:** undisclosed
+2.  **Cosmos + Anima:** undisclosed
+3.  **Anima + Incantation:** undisclosed
+4.  **Incantation + Chaos:** undisclosed
+5.  **Chaos + Psyche:** undisclosed
+6.  **Psyche + Lakshana:** undisclosed
 
 While the specific names for all six Duo Cycles remain under wraps, the effects generally follow a pattern: one side of the wheel (Lakshana, Cosmos, Anima) focuses on "Charge" mechanics—buffing the active character and restoring energy—while the other side (Incantation, Chaos, Psyche) focuses on "Discord" mechanics—shredding enemy Break Meters and dealing raw damage.
 
@@ -138,15 +138,15 @@ Knowing your roster's elemental alignment is crucial for planning your rotations
 *   **Anima (Green):** Nanally
 *   **Incantation (Red):** Saki
 *   **Psyche (Azure):** Mint
-*   **Lakshana (Gold):** [Information not yet publicly available as of 2026-05-19]
-*   **Chaos (Purple):** [Information not yet publicly available as of 2026-05-19]
+*   **Lakshana (Gold):** undisclosed
+*   **Chaos (Purple):** undisclosed
 
 ### Best Arcs for Elemental Synergy
 
 Arcs act as the primary equipment system in NTE, providing both stats and unique effects. For elemental teams, you should look for Arcs that specifically mention "Cycle Damage" or "Resonance."
 
 *   **The Ichi-daime (Nanally's Signature):** Highly effective for Anima characters, boosting the damage of any Duo Cycle involving Anima by [exact value pending official confirmation].
-*   **[Information not yet publicly available as of 2026-05-19]:** Many Arcs provide a flat 15% bonus to Cycle Rate if the team contains at least three different elements.
+*   **undisclosed:** Many Arcs provide a flat 15% bonus to Cycle Rate if the team contains at least three different elements.
 
 ### Countering Anomalies with the Right Elements
 

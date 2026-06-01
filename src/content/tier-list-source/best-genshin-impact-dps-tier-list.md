@@ -94,17 +94,17 @@ Arlecchino's "Masque of the Red Death" state allows her to clear single-target b
 As the Pyro Archon, Mavuika has fundamentally changed how Pyro teams function. Her kit utilizes the Nightsoul mechanic to trigger explosive Pyro explosions that ignore a portion of the enemy's DEF [exact percentage pending official confirmation].
 
 *   **Key Strengths:** Massive "Nightsoul" burst damage and a passive that buffs the entire team's ATK based on Pyro-related reactions.
-*   **Signature Weapon:** [Information not yet publicly available as of 2026-05-14].
+*   **Signature Weapon:** undisclosed.
 *   **Best Team:** Mavuika, Furina, Citlali, and Bennett.
 
 Mavuika’s arrival has made Mono-Pyro and Vaporize teams more explosive than ever, particularly when paired with the newest supports from the Natlan region.
 
 ### Nefer: The New Standard for Single-Target DPS
 
-Nefer joined the roster in early 2026 and immediately claimed a spot in the S Tier due to his "unique elemental conversion" [Information not yet publicly available as of 2026-05-14]. He is currently the gold standard for single-target boss encounters.
+Nefer joined the roster in early 2026 and immediately claimed a spot in the S Tier due to his "unique elemental conversion" undisclosed. He is currently the gold standard for single-target boss encounters.
 
 *   **Key Strengths:** Exceptional scaling in 1v1 scenarios and a high-frequency attack pattern that shreds elemental shields.
-*   **Signature Weapon:** [Information not yet publicly available as of 2026-05-14].
+*   **Signature Weapon:** undisclosed.
 *   **Best Team:** Nefer, Nahida, Xingqiu, and Kuki Shinobu (in Quickbloom variants).
 
 ## A Tier
@@ -133,16 +133,16 @@ Navia utilizes the Crystallize reaction to load her "Gunbrella," dealing massive
 Flins is a 2026 Electro addition who bridges the gap between raw Electro damage and reaction-based playstyles. 
 
 *   **Key Strengths:** High mobility and a kit that rewards triggering multiple Electro reactions in short succession.
-*   **Signature Weapon:** [Information not yet publicly available as of 2026-05-14].
+*   **Signature Weapon:** undisclosed.
 *   **Synergy:** Pairs exceptionally well with Dendro and Hydro units for high-frequency Aggravate and Electro-Charged triggers.
 
 ### Chasca and Varka: The Anemo Resurgence
 
 The Anemo element has seen a massive boost with the release of Chasca and the playable Grandmaster Varka.
 
-*   **Chasca:** A versatile Anemo DPS capable of slotting into multiple elemental reaction teams thanks to her unique "Swirl-focused" multipliers [Information not yet publicly available as of 2026-05-14].
+*   **Chasca:** A versatile Anemo DPS capable of slotting into multiple elemental reaction teams thanks to her unique "Swirl-focused" multipliers undisclosed.
 *   **Varka:** Delivers high-impact Anemo and physical-hybrid damage. His playstyle is characterized by heavy, impactful strikes that can stagger even the largest enemies.
-*   **Best Weapons:** [Information not yet publicly available as of 2026-05-14].
+*   **Best Weapons:** undisclosed.
 
 ## B Tier
 
@@ -193,7 +193,7 @@ The "Freeze" meta has struggled in recent patches as more bosses in the Spiral A
 
 ### Why Standard Banner DPS Characters Have Fallen Off
 
-Characters like Diluc, Jean, and Keqing suffer from lower base multipliers compared to limited-run characters. While the "Hex" mechanic [Information not yet publicly available as of 2026-05-14] and new support units have provided indirect buffs to some older units, the investment-to-performance ratio for standard banner characters remains low for players looking to optimize their accounts.
+Characters like Diluc, Jean, and Keqing suffer from lower base multipliers compared to limited-run characters. While the "Hex" mechanic undisclosed and new support units have provided indirect buffs to some older units, the investment-to-performance ratio for standard banner characters remains low for players looking to optimize their accounts.
 
 ## Recent Changes
 
@@ -206,7 +206,7 @@ The Version 6.0 to 6.6 cycle has introduced several shifts that have redefined t
 
 The **Nightsoul** mechanic is the defining feature of the Natlan era. Characters who can manipulate their Nightsoul gauge gain significant advantages in the region's endgame challenges. This has led to a meta where "on-field" time is more valuable, favoring carries like Mavuika and Nefer.
 
-The **Hex** mechanic [Information not yet publicly available as of 2026-05-14] has started to appear in Version 6.5 and 6.6, providing unique debuffs to enemies that can only be exploited by specific elemental combinations or Natlan-native characters.
+The **Hex** mechanic undisclosed has started to appear in Version 6.5 and 6.6, providing unique debuffs to enemies that can only be exploited by specific elemental combinations or Natlan-native characters.
 
 ### The Rise of Mono-Pyro and Overload
 

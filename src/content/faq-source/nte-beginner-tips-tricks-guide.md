@@ -59,7 +59,7 @@ Soft pity begins to increase your odds significantly starting at 70 pulls, while
 | Soft Pity Start | 70 Pulls |
 | Hard Pity (Guaranteed S-Rank) | 90 Pulls |
 | Featured Character Rate-Up | 100% (No 50/50) |
-| S-Rank Base Probability | [Information not yet publicly available as of 2026-05-23] |
+| S-Rank Base Probability | — |
 | Dice Board Movement | 1 Roll per Pull |
 
 ### Combat Fundamentals: The Esper Cycle and Elemental Synergy
@@ -70,7 +70,7 @@ Combat in Hethereau is built around the "Esper Cycle," a rhythmic rotation of yo
 2.  **Helpers:** These characters typically provide off-field elemental application or damage, helping to prime enemies for reactions.
 3.  **Protectors:** These Espers focus on survivability, providing shields or healing to keep the team in the fight during high-intensity Anomaly encounters.
 
-The core loop involves using your Helper and Protector abilities to fill the Esper Cycle gauge located near the character icons. Once the gauge is flashing, switching to your Front Runner triggers a powerful "Switch Skill" that deals massive burst damage and applies elemental status effects. Understanding how elements like Fire, Ice, and [Information not yet publicly available as of 2026-05-23] interact is the key to clearing timed challenges in the early game.
+The core loop involves using your Helper and Protector abilities to fill the Esper Cycle gauge located near the character icons. Once the gauge is flashing, switching to your Front Runner triggers a powerful "Switch Skill" that deals massive burst damage and applies elemental status effects. Understanding how elements like Fire, Ice, and undisclosed interact is the key to clearing timed challenges in the early game.
 
 ### City Tycoon and Urban Life: Earning Fons and Buying Properties
 
@@ -98,9 +98,9 @@ A critical tip for new players is to assign Jiuyuan as a passenger in your prima
 
 | Dealership | Location | Starting Price (Fons) |
 | :--- | :--- | :--- |
-| Novus | Central District | [Information not yet publicly available as of 2026-05-23] |
-| TerraX | Industrial Zone | [Information not yet publicly available as of 2026-05-23] |
-| Regalia | Uptown Plaza | [Information not yet publicly available as of 2026-05-23] |
+| Novus | Central District | — |
+| TerraX | Industrial Zone | — |
+| Regalia | Uptown Plaza | — |
 
 ### Daily and Weekly Routine: Optimizing Your Stamina
 

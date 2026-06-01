@@ -89,9 +89,9 @@ Duo Cycles are the most frequent reactions you will use in standard combat. Thes
 | **Scorch** | Chaos + Incantation | Applies a high-intensity burn that deals percentage-based damage over time. |
 | **Blossom** | Anima + Lakshana | Summons "Vita Buds" that automatically fire projectiles at nearby enemies. |
 | **Remora** | Cosmos + Psyche | Creates a field of "Entropy" that slows enemy movement and attack speed by [information unavailable]. |
-| **[Information not yet publicly available]** | Incantation + Anima | [Information not yet publicly available as of 2026-05-16] |
-| **[Information not yet publicly available]** | Lakshana + Cosmos | [Information not yet publicly available as of 2026-05-16] |
-| **[Information not yet publicly available]** | Psyche + Chaos | [Information not yet publicly available as of 2026-05-16] |
+| **—** | Incantation + Anima | — |
+| **—** | Lakshana + Cosmos | — |
+| **—** | Psyche + Chaos | — |
 
 The Blossom reaction is currently a cornerstone of the meta. When you swap from an Anima character like Nanally to a Lakshana character like Mint (or vice versa), the Vita Buds provide consistent off-field pressure, allowing your active character to focus on their main combo without losing DPS.
 

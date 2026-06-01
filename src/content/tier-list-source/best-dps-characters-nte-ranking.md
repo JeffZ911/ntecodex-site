@@ -150,11 +150,11 @@ Hathor (Lakshana/Plasma) is a high-skill character who relies on her motorcycle 
 
 ### Fadia: The High-Skill Expert
 
-Fadia (Psyche/Liquid) has the potential for A-tier damage, but she is one of the most difficult characters to play optimally. Her damage is heavily back-loaded into her ultimate, which requires [Information not yet publicly available as of 2026-05-17] Energy to cast. Without specific "battery" supports to fund her ultimate, Fadia’s damage per second drops significantly.
+Fadia (Psyche/Liquid) has the potential for A-tier damage, but she is one of the most difficult characters to play optimally. Her damage is heavily back-loaded into her ultimate, which requires undisclosed Energy to cast. Without specific "battery" supports to fund her ultimate, Fadia’s damage per second drops significantly.
 
 **Fadia Energy Requirements for 100% Uptime:**
 *   **Base Energy Regen:** 100%
-*   **Recommended Energy Regen:** [Information not yet publicly available as of 2026-05-17]
+*   **Recommended Energy Regen:** undisclosed
 *   **Required Support:** Requires at least one Psyche or Liquid battery unit.
 
 ## C Tier

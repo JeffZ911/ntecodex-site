@@ -58,7 +58,7 @@ Esper Abilities, which function as the character's active and passive skills, ar
 | :--- | :--- | :--- |
 | **Character EXP** | Hunter Guides (Rising, Senior, Elite) | Houdinii's Magic Stage |
 | **Ascension** | Boss Drops (e.g., Beat King's pick) | Anomaly Hunts |
-| **Ability Upgrades** | [Information not yet publicly available as of 2026-05-23] | Houdinii's Schemes |
+| **Ability Upgrades** | — | Houdinii's Schemes |
 | **Console Gear** | Cartridges & Modules | Rabbit Hole / Rewind Gacha |
 | **Currency** | Beetle Coins | All Urban Activities / Commissions |
 
@@ -119,7 +119,7 @@ You cannot simply farm your way to level 100 on day one. NTE employs "Appraisal 
 | 20 | 1 | 40 | Appraisal Test I |
 | 40 | 2 | 50 | Appraisal Test II |
 | 50 | 3 | 60 | Appraisal Test III |
-| [Pending] | [Pending] | [Pending] | [Information not yet publicly available as of 2026-05-23] |
+| [Pending] | [Pending] | [Pending] | — |
 
 Failing to complete the Appraisal Test will cap your Hunter Rank experience, so these should be prioritized as soon as they become available.
 

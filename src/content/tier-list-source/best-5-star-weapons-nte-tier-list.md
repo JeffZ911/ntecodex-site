@@ -115,7 +115,7 @@ Day Off is the best generalist Solid Arc for the Protagonist (Zero). It focuses 
 
 ### Hethereau's Keeper (Best Farmable S-Rank)
 
-Hethereau's Keeper is a powerful farmable S-rank Solid Arc obtained by defeating the Police Boss in the central district. Its unique mechanic is the summoning of "Officer Whisker," a spectral feline assistant that provides consistent follow-up damage. While the exact damage scaling of Officer Whisker's attacks is [Information not yet publicly available as of 2026-05-22], the summon's ability to trigger Esper Cycle reactions makes it an excellent choice for players who haven't pulled a limited signature weapon yet.
+Hethereau's Keeper is a powerful farmable S-rank Solid Arc obtained by defeating the Police Boss in the central district. Its unique mechanic is the summoning of "Officer Whisker," a spectral feline assistant that provides consistent follow-up damage. While the exact damage scaling of Officer Whisker's attacks is undisclosed, the summon's ability to trigger Esper Cycle reactions makes it an excellent choice for players who haven't pulled a limited signature weapon yet.
 
 ### Eternal Waltz (Fadia's Core Weapon)
 
@@ -144,7 +144,7 @@ This Gas-type Arc is a utility-focused weapon often used on [Sakiri](/characters
 
 ### Youthful Fantasy (Liquid Type Utility)
 
-Youthful Fantasy is a Liquid-type Arc that offers niche energy benefits. Liquid Arcs are generally focused on skill-based play and energy management, but Youthful Fantasy's passive is currently considered [Information not yet publicly available as of 2026-05-22] in terms of its exact internal cooldowns. It is a functional choice for characters like Mint but is usually replaced once players acquire Arcs with higher raw damage potential.
+Youthful Fantasy is a Liquid-type Arc that offers niche energy benefits. Liquid Arcs are generally focused on skill-based play and energy management, but Youthful Fantasy's passive is currently considered undisclosed in terms of its exact internal cooldowns. It is a functional choice for characters like Mint but is usually replaced once players acquire Arcs with higher raw damage potential.
 
 ## C Tier
 
@@ -179,7 +179,7 @@ As players have begun reaching the highest levels of Anomaly hunting, the value 
 
 ### Upcoming v1.1 Weapon Leaks (Lacrimosa)
 
-Early data from the v1.1 "Lacrimosa" update suggests the introduction of new Gas-type and Chaos-element Arcs. While the exact names and stats of these weapons are [Information not yet publicly available as of 2026-05-22], they are expected to focus on DoT (Damage over Time) amplification and crowd control synergy.
+Early data from the v1.1 "Lacrimosa" update suggests the introduction of new Gas-type and Chaos-element Arcs. While the exact names and stats of these weapons are undisclosed, they are expected to focus on DoT (Damage over Time) amplification and crowd control synergy.
 
 ## Sources
 

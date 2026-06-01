@@ -71,19 +71,19 @@ The following table lists the complete playable roster as of May 15, 2026, inclu
 | **Nanally** | S-Rank | Anima | Main DPS | Plasma | Eibon Antique Shop |
 | **Hotori** | S-Rank | Cosmos | Support/Burst DPS | Bose | Eibon Antique Shop |
 | **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | S-Rank | Incantation | Support/CC | Bose | Eibon Antique Shop |
-| **Baicang** | S-Rank | Incantation | Main DPS | Solid | [Information not yet publicly available as of 2026-05-15] |
-| **Daffodill** | S-Rank | Chaos | Break/Sub-DPS | Liquid | [Information not yet publicly available as of 2026-05-15] |
-| **Fadia** | S-Rank | Psyche | Survival/Healer | Solid | [Information not yet publicly available as of 2026-05-15] |
-| **Hathor** | S-Rank | Lakshana | AoE Sub-DPS | Bose | [Information not yet publicly available as of 2026-05-15] |
-| **Jiuyuan** | S-Rank | Anima | Main DPS | Plasma | [Information not yet publicly available as of 2026-05-15] |
+| **Baicang** | S-Rank | Incantation | Main DPS | Solid | — |
+| **Daffodill** | S-Rank | Chaos | Break/Sub-DPS | Liquid | — |
+| **Fadia** | S-Rank | Psyche | Survival/Healer | Solid | — |
+| **Hathor** | S-Rank | Lakshana | AoE Sub-DPS | Bose | — |
+| **Jiuyuan** | S-Rank | Anima | Main DPS | Plasma | — |
 | **Chiz** | S-Rank | Cosmos | Main DPS | Gas | Pink Paws Bank |
 | **Zero (MC)** | A-Rank | Cosmos | All-Rounder | Bose | Eibon Antique Shop |
 | **Mint** | A-Rank | Anima | Sub-DPS | Liquid | Eibon Antique Shop |
 | **Haniel** | A-Rank | Psyche | Buffer | Solid | Eibon Antique Shop |
 | **Adler** | A-Rank | Incantation | Shielder | Solid | Eibon Antique Shop |
-| **Aurelia** | A-Rank | Psyche | Ranged DPS | Solid | [Information not yet publicly available as of 2026-05-15] |
-| **Edgar** | A-Rank | Cosmos | Healer | Liquid | [Information not yet publicly available as of 2026-05-15] |
-| **Skia** | A-Rank | Lakshana | DPS | [information unavailable] | [Information not yet publicly available as of 2026-05-15] |
+| **Aurelia** | A-Rank | Psyche | Ranged DPS | Solid | — |
+| **Edgar** | A-Rank | Cosmos | Healer | Liquid | — |
+| **Skia** | A-Rank | Lakshana | DPS | [information unavailable] | — |
 
 ### Launch Rarity Distribution
 

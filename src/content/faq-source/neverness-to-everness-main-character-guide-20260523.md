@@ -51,8 +51,8 @@ In combat, the Appraiser functions as a highly versatile DPS or Sub-DPS. Their k
 | :--- | :--- |
 | **Codename** | Appraiser (Zero) |
 | **Combat Role** | Adaptive DPS / Sub-DPS |
-| **Primary Element** | [Information not yet publicly available as of 2026-05-23] |
-| **Weapon Type** | [Information not yet publicly available as of 2026-05-23] |
+| **Primary Element** | — |
+| **Weapon Type** | — |
 | **Key Attribute** | ATK / Energy Regeneration |
 | **Signature Weapon** | Day Off (S-Rank Arc) |
 
@@ -71,7 +71,7 @@ Unlike other Espers who possess specialized, narrow abilities, the Appraiser exh
 
 Neverness to Everness stands out for its "Fluid Identity" system. If you find yourself regretting your initial choice of male or female protagonist, you are not stuck. To unlock the ability to swap, you must reach the Hanaku Street district and locate Good Joe's Vintage Shop.
 
-1.  **Triggering the Quest**: Once you reach Account Level [Information not yet publicly available as of 2026-05-23], a rumor will appear in your Hesperia Intelligence Agency (HIA) handbook regarding a "Haunted Mirror."
+1.  **Triggering the Quest**: Once you reach Account Level undisclosed, a rumor will appear in your Hesperia Intelligence Agency (HIA) handbook regarding a "Haunted Mirror."
 2.  **Locating the Mirror**: Head to Good Joe’s Vintage Shop. In the back room, you will find a large, ornate mirror that serves as the centerpiece of the "In the Reflection" quest.
 3.  **Completing the Trial**: You must enter a solo Blockade instance where you fight a shadow version of your current character.
 4.  **Swapping**: After the quest is complete, you can interact with the mirror at any time in the Eibon Antique Shop to switch between the male and female versions of the Appraiser. This change is cosmetic and does not reset your level, skills, or equipment.
@@ -82,7 +82,7 @@ Combat in NTE is fast-paced and relies heavily on the "Esper Cycle." The Apprais
 
 | Ability Type | Effect Description |
 | :--- | :--- |
-| **Basic Attack** | [Information not yet publicly available as of 2026-05-23] |
+| **Basic Attack** | — |
 | **Esper Skill** | A directional strike that pulls nearby anomalies toward the center, dealing sustained damage. |
 | **Ultimate Ability** | A massive burst of energy that triggers an "Esper Collapse," significantly reducing the guard gauge of elite enemies. |
 | **Passive Ability** | Increases the party's Energy Regeneration rate by a percentage based on the Appraiser's current ATK. |
@@ -100,8 +100,8 @@ In Neverness to Everness, weapons are known as Arcs. These items provide both ra
 | Arc Name | Rank | Primary Stat | Arc Eclipse Effect |
 | :--- | :--- | :--- | :--- |
 | **Day Off** | S | ATK% | Increases Esper Skill damage by 20%. After using an Ultimate, restores 15 Energy to all party members. |
-| [Information not yet publicly available as of 2026-05-23] | A | Energy Regen | [Information not yet publicly available as of 2026-05-23] |
-| [Information not yet publicly available as of 2026-05-23] | A | Crit Rate | Increases Basic Attack speed after a successful dodge. |
+| — | A | Energy Regen | — |
+| — | A | Crit Rate | Increases Basic Attack speed after a successful dodge. |
 
 The "Day Off" Arc is widely considered the best choice because it addresses the Appraiser’s primary role: an engine for the team's Ultimate abilities.
 
@@ -129,8 +129,8 @@ For the Appraiser, the **"Urban Hustle"** set is the premier choice for early to
 
 The Appraiser is a "glue" character—they make everyone else on the team better. Because they are a free unit, they are designed to synergize with the limited banners, such as Nanally's "The Ichi-daime" banner.
 
-1.  **The F2P Starter Team**: Appraiser (Sub-DPS), Sakiri (Main DPS), and [Information not yet publicly available as of 2026-05-23] (Healer). This team focuses on basic elemental reactions and is sufficient for clearing the first three chapters of the main story.
-2.  **The Hesperia Hyper-Carry**: Nanally (Main DPS), Appraiser (Support/Sub-DPS), and [Information not yet publicly available as of 2026-05-23]. In this setup, the Appraiser uses the "Day Off" Arc to constantly feed Energy to Nanally, allowing her to stay in her transformed state almost indefinitely.
+1.  **The F2P Starter Team**: Appraiser (Sub-DPS), Sakiri (Main DPS), and undisclosed (Healer). This team focuses on basic elemental reactions and is sufficient for clearing the first three chapters of the main story.
+2.  **The Hesperia Hyper-Carry**: Nanally (Main DPS), Appraiser (Support/Sub-DPS), and undisclosed. In this setup, the Appraiser uses the "Day Off" Arc to constantly feed Energy to Nanally, allowing her to stay in her transformed state almost indefinitely.
 3.  **The Anomaly Control Squad**: This team utilizes the Appraiser's crowd control capabilities alongside characters who deal high AoE damage, making it ideal for clearing high-density Blockades in the late game.
 
 ### Urban Exploration and Life Simulator Features

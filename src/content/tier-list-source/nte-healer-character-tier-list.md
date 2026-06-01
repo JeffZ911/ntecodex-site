@@ -139,7 +139,7 @@ In the current Version 1.0 meta, Haniel is often used in "One-Cycle" teams where
 ![C Tier](/img/nte-healer-character-tier-list/inline-5.webp)
 
 
-[Information not yet publicly available as of 2026-05-24]. Currently, there are no characters in the launch roster that fall into a "C Tier" for healing, as the pool of survival-focused Espers is relatively limited. Most characters released in Version 1.0 are either highly effective at their specific niche or are strictly DPS-focused.
+undisclosed. Currently, there are no characters in the launch roster that fall into a "C Tier" for healing, as the pool of survival-focused Espers is relatively limited. Most characters released in Version 1.0 are either highly effective at their specific niche or are strictly DPS-focused.
 
 ### The Risks of 'No-Healer' Compositions
 

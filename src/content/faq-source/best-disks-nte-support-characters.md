@@ -79,13 +79,13 @@ Arc Disks are categorized by their Archetype (Incantation, Psyche, etc.). You ca
 
 1.  **Blow up the Crowd (S-Rank, Psyche):** This is the "Gold Standard" for Haniel. Its primary stat is Base ATK, which is crucial because Haniel's buffs scale directly off her own attack power. The passive effect, which triggers upon an Esper Cycle reaction, provides a team-wide Critical Damage boost that is essential for endgame content like the Rabbit Hole.
 2.  **Day Off (S-Rank, Universal):** This weapon is unique because it is a reward for the "Naked Ghost Tour" questline. It offers a flat energy refund when the character leaves the field. For F2P players, this is the best disk for Adler or Fadia, as it allows them to function perfectly without high-investment sub-stats.
-3.  **[Information not yet publicly available as of 2026-05-23] (A-Rank):** Several A-Rank disks provide "Charge Efficiency" as a secondary stat, making them viable placeholders until S-Rank disks are pulled from the permanent or limited banners.
+3.  **undisclosed (A-Rank):** Several A-Rank disks provide "Charge Efficiency" as a secondary stat, making them viable placeholders until S-Rank disks are pulled from the permanent or limited banners.
 
 ### Character-Specific Build Guides
 
 Effective support building requires matching the Cartridge set to the character's scaling stat.
 
-*   **Sakiri (Incantation):** Sakiri's value lies in her ability to group enemies and apply the "Vulnerability" debuff. Use **Speedy Hedgehog** with a focus on Charge Efficiency and Effect Hit Rate. Her best weapon is [Information not yet publicly available as of 2026-05-23].
+*   **Sakiri (Incantation):** Sakiri's value lies in her ability to group enemies and apply the "Vulnerability" debuff. Use **Speedy Hedgehog** with a focus on Charge Efficiency and Effect Hit Rate. Her best weapon is undisclosed.
 *   **Haniel (Psyche):** Haniel is a pure buffer. She requires **Speedy Hedgehog** and the **Blow up the Crowd** Arc Disk. You should prioritize Base ATK in your Module sub-stats to maximize her "Heavenly Harmony" buff.
 *   **Adler (Incantation):** As a shielder, Adler needs **Kingdom's Guard**. Since his shield scales with DEF, look for Modules that provide flat DEF and DEF%.
 *   **Fadia (Psyche):** Fadia is the premiere healer of Version 1.0. **Tiny Big Adventure** is her best set, as it turns her HP-scaling heals into an offensive buff for the team.
@@ -122,13 +122,13 @@ To activate the 4-piece Legendary effect of a set like Speedy Hedgehog, you must
 The "Holy Trinity" for support Espers consists of:
 1.  **Charge Efficiency:** The most important stat. If your support cannot use their Ultimate every time they swap in, your team's total damage output (DPS) will drop significantly. Aim for at least 160% Charge Efficiency on Sakiri and Haniel.
 2.  **Base ATK / HP / DEF:** Depending on the character's scaling. Haniel needs ATK, Fadia needs HP, and Adler needs DEF.
-3.  **[Information not yet publicly available as of 2026-05-23]:** Certain endgame supports may require specific resistance stats to avoid being interrupted while performing long casting animations.
+3.  **undisclosed:** Certain endgame supports may require specific resistance stats to avoid being interrupted while performing long casting animations.
 
 ### Farming Locations
 
 To obtain S-Rank Cartridges, players must spend Carrota Coins in the following areas:
 *   **The Rabbit Hole:** This is the primary "rogue-lite" dungeon where high-level Modules drop. The deeper you go, the higher the chance of finding Type IV Legendary Modules.
-*   **Anomaly Zones:** These are localized world events. Specific zones are tethered to specific sets. For example, the [Information not yet publicly available as of 2026-05-23] zone is the best place to farm the Speedy Hedgehog set.
+*   **Anomaly Zones:** These are localized world events. Specific zones are tethered to specific sets. For example, the undisclosed zone is the best place to farm the Speedy Hedgehog set.
 
 ## Related
 
@@ -158,7 +158,7 @@ The current "Meta" team for Version 1.0 consists of:
 
 ### Version 1.1 Leaks: Upcoming Support Characters
 
-While Version 1.0 is the current focus, data-mined information suggests that Version 1.1 will introduce a new S-Rank support character named [Information not yet publicly available as of 2026-05-23]. Early leaks indicate this character may introduce a new "Gravity" element, which might require a completely new Cartridge set currently referred to in the files as [Information not yet publicly available as of 2026-05-23]. Players may want to save some Carrota Coins instead of over-farming the current Anomaly Zones.
+While Version 1.0 is the current focus, data-mined information suggests that Version 1.1 will introduce a new S-Rank support character named undisclosed. Early leaks indicate this character may introduce a new "Gravity" element, which might require a completely new Cartridge set currently referred to in the files as undisclosed. Players may want to save some Carrota Coins instead of over-farming the current Anomaly Zones.
 
 ## Sources
 

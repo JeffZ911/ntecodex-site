@@ -54,10 +54,10 @@ The Esper Cycle is the heartbeat of NTE combat. By combining specific elemental 
 | **Blossom** | Anima + Cosmos | Summons automated turrets that provide continuous AoE pressure. |
 | **Discord** | Scorch + Nova | Rapidly depletes enemy Break bars, leaving bosses vulnerable. |
 | **Stain** | Psyche + Lakshana | Increases enemy damage vulnerability by [exact value pending official confirmation]. |
-| **Scorch** | [Information not yet publicly available as of 2026-05-24] | Initial elemental state for Chaos-aligned interactions. |
-| **Nova** | [Information not yet publicly available as of 2026-05-24] | Initial elemental state for Incantation-aligned interactions. |
-| **Remora** | [Information not yet publicly available as of 2026-05-24] | High-frequency displacement effect. |
-| **Hex** | [Information not yet publicly available as of 2026-05-24] | Long-term debuff reducing enemy ATK stats. |
+| **Scorch** | — | Initial elemental state for Chaos-aligned interactions. |
+| **Nova** | — | Initial elemental state for Incantation-aligned interactions. |
+| **Remora** | — | High-frequency displacement effect. |
+| **Hex** | — | Long-term debuff reducing enemy ATK stats. |
 
 ### The Importance of Lane Swapping
 

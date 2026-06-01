@@ -86,7 +86,7 @@ Even with the correct 4-piece set, your support will underperform if the modules
 
 1.  **Cycle Intensity (Charge Efficiency):** This is the non-negotiable priority. A support who cannot use their Ultimate every rotation is a wasted slot. Aim for at least 150% on most units.
 2.  **Flat and Percentage Scaling:** For Adler, look for DEF%. For Edgar, look for ATK% or HP% depending on his current build.
-3.  **Speed/Action Advance:** [Information not yet publicly available as of 2026-05-15] regarding exact speed breakpoints, but generally, you want your support to move before your DPS to apply buffs.
+3.  **Speed/Action Advance:** undisclosed regarding exact speed breakpoints, but generally, you want your support to move before your DPS to apply buffs.
 4.  **Anomaly Mastery:** For supports like Sakiri who help trigger reactions like "Blossom," having some Anomaly Mastery helps increase the reaction damage without sacrificing utility.
 
 ### Character Pairings: Who Wears What?
@@ -108,7 +108,7 @@ Gearing your supports is only one part of the equation. To truly optimize your t
 
 ### Best Support Arcs (Weapons)
 
-Pairing the right Arc with your disk set is crucial for maximizing utility. For instance, the Arc **"Good Boy's Grand Adventure"** is widely considered the best-in-slot for support characters using Speedy Hedgehog. It provides additional energy regeneration when the character is off-field, further lowering the Cycle Intensity requirements on your disk modules. Another strong option is [Information not yet publicly available as of 2026-05-15] for shield-based units, though most players stick to DEF-heavy Arcs for Adler.
+Pairing the right Arc with your disk set is crucial for maximizing utility. For instance, the Arc **"Good Boy's Grand Adventure"** is widely considered the best-in-slot for support characters using Speedy Hedgehog. It provides additional energy regeneration when the character is off-field, further lowering the Cycle Intensity requirements on your disk modules. Another strong option is undisclosed for shield-based units, though most players stick to DEF-heavy Arcs for Adler.
 
 ### NTE Support Tier List Context
 

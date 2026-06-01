@@ -54,7 +54,7 @@ The most efficient way to farm both Hunter Guides and Beetle Coins is through Ho
 | 11 - 20 | Rising / Senior Hunter Guide | 35,000 |
 | 21 - 30 | Senior Hunter Guide | 85,000 |
 | 31 - 40 | Senior / Elite Hunter Guide | 160,000 |
-| 41 - 50 | Elite Hunter Guide | [Information not yet publicly available as of 2026-05-22] |
+| 41 - 50 | Elite Hunter Guide | — |
 
 ### Hunter Rank and Appraisal Level Gates
 
@@ -150,7 +150,7 @@ For players without a full roster of S-Rank characters, Nanally still performs w
 | :--- | :--- | :--- | :--- | :--- |
 | **Premium (Blossom Nuke)** | Nanally | Zero | Sakiri | Jiuyuan |
 | **Sustained Utility** | Nanally | Zero | Haniel | Sakiri |
-| **F2P Friendly** | Nanally | Adler | Mint | [Information not yet publicly available] |
+| **F2P Friendly** | Nanally | Adler | Mint | — |
 
 ## Rotation
 
@@ -195,7 +195,7 @@ You must reach Hunter Rank 10 and complete the Appraisal Level test. This test i
 As of the current version, the level cap is 60. Reaching this cap requires achieving Appraisal Level 3 at Hunter Rank 30. Future updates may increase this cap as the story progresses.
 
 **Can I reset character levels?**
-[Information not yet publicly available as of 2026-05-22]
+undisclosed
 
 ### Resource Farming FAQ
 

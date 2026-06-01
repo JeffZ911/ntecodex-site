@@ -58,9 +58,9 @@ Elemental interactions also play a vital role in damage multiplication:
 
 | Element A | Element B | Interaction Effect |
 | :--- | :--- | :--- |
-| Anima | Cosmos | [Information not yet publicly available as of 2026-05-16] |
-| Incantation | Chaos | [Information not yet publicly available as of 2026-05-16] |
-| Psyche | Lakshana | [Information not yet publicly available as of 2026-05-16] |
+| Anima | Cosmos | — |
+| Incantation | Chaos | — |
+| Psyche | Lakshana | — |
 
 ## S Tier
 
@@ -93,10 +93,10 @@ Chiz is a standout for players who prefer not to spend Riftcrystals on every ban
 
 | Character | Element / State | Best Arc (Weapon) | Primary Role |
 | :--- | :--- | :--- | :--- |
-| Nanally | Anima / Plasma | [Information not yet publicly available as of 2026-05-16] | Main DPS |
-| Hotori | Cosmos / Solid | [Information not yet publicly available as of 2026-05-16] | Sub-DPS |
-| Jiuyuan | Incantation / Liquid | [Information not yet publicly available as of 2026-05-16] | Boss Killer |
-| Chiz | Cosmos / Solid | [Information not yet publicly available as of 2026-05-16] | Burst DPS |
+| Nanally | Anima / Plasma | — | Main DPS |
+| Hotori | Cosmos / Solid | — | Sub-DPS |
+| Jiuyuan | Incantation / Liquid | — | Boss Killer |
+| Chiz | Cosmos / Solid | — | Burst DPS |
 
 ## A Tier
 

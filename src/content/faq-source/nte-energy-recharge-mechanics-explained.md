@@ -116,7 +116,7 @@ Certain characters possess unique gauges or mechanics that bypass standard energ
 Your gear selection is the final piece of the energy puzzle. **Arcs** (the weapons of NTE) and **Modules** (the gear sets) provide the passive stats needed to reach "infinite" Ultimate uptime.
 
 **Key Arcs for Energy:**
-*   **Marching Beyond Time:** This Arc is specifically designed for supports. It provides a significant "Charge Efficiency" bonus, which increases the amount of energy gained from the Charge trio reaction. [Information not yet publicly available as of 2026-05-21] regarding the exact percentage scaling per refinement level.
+*   **Marching Beyond Time:** This Arc is specifically designed for supports. It provides a significant "Charge Efficiency" bonus, which increases the amount of energy gained from the Charge trio reaction. undisclosed regarding the exact percentage scaling per refinement level.
 *   **Day Off:** A more defensive-oriented Arc that rewards skilled play. It grants a flat amount of Ultimate Energy every time the user performs a successful Parry.
 
 **Key Module Sets:**

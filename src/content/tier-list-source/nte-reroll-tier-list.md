@@ -92,10 +92,10 @@ Jiuyuan is the target for your "Beginner Selector" or standard banner pulls. She
 
 | Character | Role | Element | Signature Arc |
 | :--- | :--- | :--- | :--- |
-| Nanally | Anima | Liquid | [Information not yet publicly available as of 2026-05-14] |
-| Hotori | Cosmos | Solid | [Information not yet publicly available as of 2026-05-14] |
-| Jiuyuan | Anima | Solid | [Information not yet publicly available as of 2026-05-14] |
-| Sakiri | Incantation | Gas | [Information not yet publicly available as of 2026-05-14] |
+| Nanally | Anima | Liquid | — |
+| Hotori | Cosmos | Solid | — |
+| Jiuyuan | Anima | Solid | — |
+| Sakiri | Incantation | Gas | — |
 
 ## A Tier
 

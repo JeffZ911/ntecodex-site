@@ -52,9 +52,9 @@ The combat in NTE revolves around the "Esper Cycle," where triggering elemental 
 The current Version 1.0 meta for Neverness to Everness prioritizes Arcs and Cartridges that offer multiplicative damage scaling rather than flat stat increases. While several options exist, the following Disks have emerged as the gold standard for damage dealers as of May 23, 2026.
 
 **Top-Tier DPS Arcs (Weapon Disks):**
-*   **S-Tier:** [Information not yet publicly available as of 2026-05-23] — Currently regarded as the Best-in-Slot (BiS) for Anima-based attackers like [Nanally](/characters/nanally-guide-nte) due to its high Crit Rate and follow-up damage amplification.
-*   **S-Tier:** [Information not yet publicly available as of 2026-05-23] — The premier choice for Cosmos-element DPS, offering significant DMG% buffs that scale with the character's movement speed.
-*   **A-Tier:** [Information not yet publicly available as of 2026-05-23] — A highly versatile Arc that rewards consistent basic attacks with stacking ATK and Crit DMG bonuses.
+*   **S-Tier:** undisclosed — Currently regarded as the Best-in-Slot (BiS) for Anima-based attackers like [Nanally](/characters/nanally-guide-nte) due to its high Crit Rate and follow-up damage amplification.
+*   **S-Tier:** undisclosed — The premier choice for Cosmos-element DPS, offering significant DMG% buffs that scale with the character's movement speed.
+*   **A-Tier:** undisclosed — A highly versatile Arc that rewards consistent basic attacks with stacking ATK and Crit DMG bonuses.
 
 **Top-Tier DPS Cartridge Sets:**
 *   **Lost Radiance:** The most universal DPS set, providing a massive 25% DEF-ignore bonus when a 4-piece set is equipped.
@@ -90,7 +90,7 @@ The complexity of NTE’s gear system lies in the interaction between the physic
 
 Arcs in Neverness to Everness are more than just stat sticks; they define the character's combat rhythm. For example, characters like Nanally rely on Arcs that enhance her "Anima" state. When selecting an Arc, you must match the physical type—Plasma, Solid, or Gas—to the character’s innate scaling. 
 
-Refining Arcs (using duplicate copies) is particularly impactful in NTE. Unlike other games where refinement only offers marginal gains, NTE Arcs often unlock secondary passive tiers at Refinement Level 3 (R3). For DPS Arcs, these tiers usually involve "Execution" mechanics, where damage is increased by [information unavailable] against enemies below 30% HP. If you are a F2P player, focusing on refining A-rank Arcs like [Information not yet publicly available as of 2026-05-23] can often outperform a base R1 S-rank Arc.
+Refining Arcs (using duplicate copies) is particularly impactful in NTE. Unlike other games where refinement only offers marginal gains, NTE Arcs often unlock secondary passive tiers at Refinement Level 3 (R3). For DPS Arcs, these tiers usually involve "Execution" mechanics, where damage is increased by [information unavailable] against enemies below 30% HP. If you are a F2P player, focusing on refining A-rank Arcs like undisclosed can often outperform a base R1 S-rank Arc.
 
 ### Cartridge Set Mechanics: 2-Piece vs. 4-Piece
 
@@ -127,14 +127,14 @@ Building a top-tier DPS requires looking beyond just the main attacker. The syne
 ### Best Disks for Nanally (Anima Main DPS)
 
 Nanally remains the most popular DPS since the "The Ichi-daime" banner launched. Her best build involves:
-*   **Arc:** [Information not yet publicly available as of 2026-05-23].
+*   **Arc:** undisclosed.
 *   **Cartridge:** 4-piece **Fireflies and the Forest**.
 *   **Console Priority:** Type II Modules (Square shapes) to trigger her Crit Rate Resonance.
 
 ### Best Disks for Chiz and Esper Zero (Cosmos)
 
 Cosmos characters thrive on "Stability Damage," which allows them to break enemy guards faster.
-*   **Arc:** [Information not yet publicly available as of 2026-05-23].
+*   **Arc:** undisclosed.
 *   **Cartridge:** 4-piece **Lost Radiance** or 2-piece **Cosmos Echo** / 2-piece **Lost Radiance**.
 *   **Strategy:** Focus on "Break Efficiency" substats to trigger the Blossom reaction more frequently.
 

@@ -96,8 +96,8 @@ This composition is widely considered the strongest for single-target encounters
 5.  During the Discord stun window, unleash Baicang’s Ultimate for [exact value pending official confirmation] increased damage.
 
 **Best-in-Slot Arcs:**
-*   **Baicang:** [Information not yet publicly available as of 2026-05-19]
-*   **Sakiri:** [Information not yet publicly available as of 2026-05-19]
+*   **Baicang:** undisclosed
+*   **Sakiri:** undisclosed
 
 ### Nanally Hypercarry: The AOE Queen
 

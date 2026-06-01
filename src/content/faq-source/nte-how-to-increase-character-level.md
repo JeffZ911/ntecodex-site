@@ -87,7 +87,7 @@ Once an Esper reaches their current maximum level (initially Level 20), their EX
 
 Breakthroughs generally require:
 1.  **Beetle Coins:** The cost increases significantly at higher tiers.
-2.  **Common Mob Drops:** Items like [Information not yet publicly available as of 2026-05-22] which are found by defeating standard enemies in the city.
+2.  **Common Mob Drops:** Items like undisclosed which are found by defeating standard enemies in the city.
 3.  **Specialized Boss Materials:** Dropped by world bosses or Anomaly Hunt targets.
 4.  **Hunter Rank Requirement:** For the first major Breakthrough, you must reach **Hunter Rank 10**.
 
@@ -96,7 +96,7 @@ Breakthroughs generally require:
 | Level 20 -> 40 | Hunter Rank 10 | Basic Anomaly Drops |
 | Level 40 -> 50 | Hunter Rank 20 | Intermediate Boss Drops |
 | Level 50 -> 60 | Hunter Rank 30 | Advanced Boss Drops |
-| Level 60 -> 70 | Hunter Rank 40 | [Information not yet publicly available] |
+| Level 60 -> 70 | Hunter Rank 40 | — |
 
 ### Hunter Level vs. Appraisal Level Gates
 

@@ -85,7 +85,7 @@ This is a game-changer for early-game power. For example, if a character has a m
 While each node provides a distinct stat or minor passive boost, the "Resonance" effects are cumulative milestones. 
 
 *   **A3 (First Resonance):** This tier usually targets the "Esper Ability" or the character's unique combat quirk. For many S-Rank characters, this is where they transition from a "good" unit to a "meta" unit.
-*   **A6 (Final Resonance):** This is the pinnacle of character progression. Reaching A6 requires six Mind Shards. The bonuses at this level are designed to be overwhelming, often providing [Information not yet publicly available as of 2026-05-24] damage increases or entirely removing the resource costs of certain high-impact skills.
+*   **A6 (Final Resonance):** This is the pinnacle of character progression. Reaching A6 requires six Mind Shards. The bonuses at this level are designed to be overwhelming, often providing undisclosed damage increases or entirely removing the resource costs of certain high-impact skills.
 
 ### How to Obtain Mind Shards: Scarborough Fair and Beyond
 
@@ -121,10 +121,10 @@ If you find that your Nanally is dying too quickly in a specific "Beyond the Rai
 ### Resonance Impact on Meta Characters (Nanally, Sakiri, and Zero)
 
 **Nanally Coluccis:**
-Nanally is currently the premier Physical/Fire DPS. Her A6 Resonance is widely considered the strongest in the game as of the 1.0/1.1 patch cycle. It transforms her follow-up mechanics into a top-tier DPS engine by [Information not yet publicly available as of 2026-05-24]. Players aiming for the top of the leaderboards generally consider A6 Nanally the "gold standard" for clear speeds.
+Nanally is currently the premier Physical/Fire DPS. Her A6 Resonance is widely considered the strongest in the game as of the 1.0/1.1 patch cycle. It transforms her follow-up mechanics into a top-tier DPS engine by undisclosed. Players aiming for the top of the leaderboards generally consider A6 Nanally the "gold standard" for clear speeds.
 
 **Sakiri:**
-For Sakiri, the A3 Resonance is the "sweet spot" for F2P and low-spending players. At A3, Sakiri gains a massive boost to her support utility, allowing her to [Information not yet publicly available as of 2026-05-24]. This makes her an indispensable part of any elemental reaction team without requiring the massive investment of an A6.
+For Sakiri, the A3 Resonance is the "sweet spot" for F2P and low-spending players. At A3, Sakiri gains a massive boost to her support utility, allowing her to undisclosed. This makes her an indispensable part of any elemental reaction team without requiring the massive investment of an A6.
 
 **Zero:**
 Zero’s Resonance nodes focus heavily on "Anomaly" efficiency. His A3 provides a significant multiplier to his ability to trigger elemental collapses, making him a bridge for complex team rotations.
@@ -133,7 +133,7 @@ Zero’s Resonance nodes focus heavily on "Anomaly" efficiency. His A3 provides 
 
 For Free-to-Play (F2P) players, the most efficient strategy is "Horizontal Progression." Rather than dumping all resources into getting a single S-Rank to A6, it is often better to aim for A0 or A1 on several versatile characters. The exception is the "Hyper-Carry" strategy, where you save all Scarborough Fair dice rolls for a single banner (like Nanally's) to hit A3, which provides the best "bang for your buck" in terms of power-to-cost ratio.
 
-"Whales" or high-spenders typically push for A6 on their primary DPS while keeping supports at A3. The jump from A5 to A6 is usually a [Information not yet publicly available as of 2026-05-24]% increase in total damage output, which is necessary for competitive "Beyond the Rails" rankings.
+"Whales" or high-spenders typically push for A6 on their primary DPS while keeping supports at A3. The jump from A5 to A6 is usually a undisclosed increase in total damage output, which is necessary for competitive "Beyond the Rails" rankings.
 
 ### NTE Awakening vs. Traditional Gacha Constellation Systems
 

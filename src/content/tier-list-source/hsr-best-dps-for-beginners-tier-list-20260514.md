@@ -65,10 +65,10 @@ We evaluate how well a DPS works with free or easily obtainable supports. While 
 | Character | Path / Element | Primary Mechanic | Best F2P Light Cone |
 | :--- | :--- | :--- | :--- |
 | **The Herta** | Erudition / Ice | Interpretation Stacks | Eternal Calculus |
-| **Phainon** | Destruction / Remembrance | Coreflame Transformation | [Information not yet publicly available] |
+| **Phainon** | Destruction / Remembrance | Coreflame Transformation | — |
 | **Firefly** | Destruction / Fire | Super Break / Weakness Implant | On the Fall of an Aeon |
 | **Acheron** | Nihility / Lightning | Slashed Dream Stacks | Boundless Choreo |
-| **Silver Wolf LV. 999** | Elation / Imaginary | Hidden MMR / Godmode | [Information not yet publicly available] |
+| **Silver Wolf LV. 999** | Elation / Imaginary | Hidden MMR / Godmode | — |
 
 ## S Tier
 

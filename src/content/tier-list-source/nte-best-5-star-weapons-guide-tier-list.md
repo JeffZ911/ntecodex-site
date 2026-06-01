@@ -84,7 +84,7 @@ Hethereau's Keeper is a Solid-type Arc that specializes in boss-slaying through 
 | :--- | :--- | :--- | :--- |
 | **Ready-Ready** | Plasma | CRIT DMG | Nanally |
 | **Raging Flames** | Plasma | CRIT Rate | Hathor |
-| **Camellia Society** | Synthesis | CRIT DMG | [Information not yet publicly available] |
+| **Camellia Society** | Synthesis | CRIT DMG | — |
 | **Marching Beyond Time**| Solid | CRIT Rate | General DPS / Sub-DPS |
 | **Hethereau's Keeper** | Solid | ATK% | Haniel / Off-field Units |
 
@@ -180,7 +180,7 @@ The NTE weapon meta has shifted significantly since the April 2026 launch. Stayi
 ### NTE Weapon Banner History (April-May 2026)
 
 *   **April 29 - May 15:** "The Ichi-daime" Banner featuring Nanally (Esper) and Ready-Ready (Arc).
-*   **May 16 - June 4:** "Whispers of the Garden" Banner featuring [Information not yet publicly available] and Camellia Society (Arc).
+*   **May 16 - June 4:** "Whispers of the Garden" Banner featuring undisclosed and Camellia Society (Arc).
 
 ## Sources
 

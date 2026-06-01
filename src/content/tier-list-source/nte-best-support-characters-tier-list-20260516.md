@@ -74,7 +74,7 @@ The S Tier represents characters that are currently irreplaceable. If you are re
 
 Beyond her CC, Sakiri is a premier offensive buffer. Her Ultimate provides a team-wide 30% ATK buff that lasts for 20 seconds. If you manage to reach Awakening 1, this buff scales up to [information unavailable as of 2026-05-16]—though community testing suggests it reaches approximately 60% with full investment. She is best equipped with Gas-type Arcs that focus on Energy Regeneration to ensure 100% uptime on her Ultimate.
 
-*   **Best Arcs:** [Information not yet publicly available as of 2026-05-16]
+*   **Best Arcs:** undisclosed
 *   **Best Cartridges:** 4-piece "Hethereau Wind" for increased Gas DMG and Energy Recharge.
 
 ### Hotori: The Damage Multiplier and Time Controller
@@ -82,7 +82,7 @@ Added in the May 13 update, Hotori (S-Class, Cosmos, Solid) has redefined the ce
 
 Her Ultimate is even more impactful. It triggers a Time-Stop effect that freezes the battlefield for several seconds. During this window, your main DPS is guaranteed 10 hits that ignore a portion of the enemy's DEF. This mechanic is essential for bypassing the high-mobility phases of late-game bosses.
 
-*   **Best Arcs:** [Information not yet publicly available as of 2026-05-16]
+*   **Best Arcs:** undisclosed
 *   **Best Cartridges:** 4-piece "Cosmic Echo" to maximize the "Record" damage multiplier.
 
 ## A Tier

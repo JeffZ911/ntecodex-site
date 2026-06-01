@@ -66,7 +66,7 @@ As of May 2026, the NTE meta has shifted away from "pure healing" toward "role c
 The most effective 5-star Disk sets for healers in NTE are categorized by their primary utility: raw healing, energy management, or team-wide offensive support.
 
 *   **Best for Pure Healing:** The **Thea's Night Tavern** set (often referred to by the community as the Knight's Tavern set) is the premier choice for maximizing raw HP recovery. Its 4-piece bonus significantly boosts Healing Bonus based on the wearer's Max HP.
-*   **Best for Ultimate Uptime:** While a Disk set specifically named Call of the Twisted City is [Information not yet publicly available as of 2026-05-21], the **Speedy Hedgehog** set is the current gold standard for healers who need high Ultimate uptime, offering substantial Charge Efficiency.
+*   **Best for Ultimate Uptime:** While a Disk set specifically named Call of the Twisted City is undisclosed, the **Speedy Hedgehog** set is the current gold standard for healers who need high Ultimate uptime, offering substantial Charge Efficiency.
 *   **Best for Hybrid Support:** **Speedy Hedgehog** is also the top choice for "Buffer-Healers" like Haniel or Mint, as it provides a team-wide ATK buff upon casting an Ultimate.
 *   **Best for Sustain Tanks:** For Fadia, the **Tiny Big Adventure** set is the Best-in-Slot (BiS) option, as it scales her Max HP aggressively through a stacking mechanic triggered by taking damage.
 
@@ -77,7 +77,7 @@ The most effective 5-star Disk sets for healers in NTE are categorized by their 
 | **Thea's Night Tavern** | HP +10% | Wearer's Healing Bonus +20% | Edgar, Haniel |
 | **Speedy Hedgehog** | Charge Efficiency +12% | Team ATK +15% for 20s after Ultimate | Mint, Haniel, Zero |
 | **Tiny Big Adventure** | HP +10% | Max HP +4% per stack (up to 10 stacks) | Fadia |
-| **Lost Radiance** | Cosmos DMG +10% | [Information not yet publicly available as of 2026-05-21] | Edgar (Hybrid) |
+| **Lost Radiance** | Cosmos DMG +10% | — | Edgar (Hybrid) |
 
 ### Best-in-Slot (BiS) for Specific Healers
 
@@ -100,7 +100,7 @@ The 4-piece bonus is where the set shines, granting a flat 20% Healing Bonus. In
 
 ### Deep Dive: Call of the Twisted City for Energy Management
 
-It is vital to distinguish between Arcs and Disks. **Call of the Twisted City** is currently recognized as a top-tier A-Rank Liquid **Arc** (weapon) that increases Healing Bonus by 12% after using a Redirect Skill. However, a Disk set under this name is [Information not yet publicly available as of 2026-05-21]. 
+It is vital to distinguish between Arcs and Disks. **Call of the Twisted City** is currently recognized as a top-tier A-Rank Liquid **Arc** (weapon) that increases Healing Bonus by 12% after using a Redirect Skill. However, a Disk set under this name is undisclosed. 
 
 To achieve the energy management goals often associated with this name, players use the **Speedy Hedgehog** Disk set. This set provides 12% Charge Efficiency, which speeds up the rate at which an Esper gains Ultimate Energy from all sources, including basic attacks and Esper Cycle reactions like "Charge."
 

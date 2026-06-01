@@ -76,7 +76,7 @@ Every character in NTE utilizes an "Arc," which functions as their weapon and pr
 S-Tier characters are the gold standard for survival. They do not just keep the team alive; they actively accelerate the pace of combat.
 
 ### Fadia: The Unkillable Apostle
-Fadia is currently the premier survival unit in Neverness to Everness. As a Psyche-element character with a Synthesis-type Arc, she fits into almost any team composition. Her core mechanic is **Damage Redirection**. When Fadia’s Skill is active, [Information not yet publicly available as of 2026-05-17]% of the damage taken by her teammates is instead transferred to Fadia herself.
+Fadia is currently the premier survival unit in Neverness to Everness. As a Psyche-element character with a Synthesis-type Arc, she fits into almost any team composition. Her core mechanic is **Damage Redirection**. When Fadia’s Skill is active, undisclosed of the damage taken by her teammates is instead transferred to Fadia herself.
 
 Because Fadia has the highest base HP in the game, she can absorb hits that would instantly defeat a glass-cannon DPS like [Nanally](/characters/nanally-guide-nte). Her Ultimate further cements her S-Tier status by providing a massive self-heal based on her Max HP, effectively resetting her health bar. 
 
@@ -90,7 +90,7 @@ Jiuyuan is a unique case where her tier placement depends entirely on her Awaken
 With "Intel Turns Into Blades," a portion of the damage Jiuyuan deals is converted into team-wide healing. In the current meta, this is incredibly powerful because it removes the "DPS loss" usually associated with switching to a healer. You can keep Jiuyuan on the field to trigger Scorch reactions while simultaneously topping off your team’s health.
 
 **Jiuyuan A2 Breakdown:**
-*   **Healing Conversion:** [Information not yet publicly available as of 2026-05-17]% of Crit Damage dealt.
+*   **Healing Conversion:** undisclosed of Crit Damage dealt.
 *   **Role:** Hybrid Main-DPS / Healer.
 *   **Requirement:** High investment in Crit Rate Cartridges to ensure consistent healing procs.
 
@@ -102,7 +102,7 @@ With "Intel Turns Into Blades," a portion of the damage Jiuyuan deals is convert
 A-Tier characters are highly effective and often more accessible than S-Class units. They are the backbone of most F2P (Free-to-Play) team comps.
 
 ### Adler: The Shielding Specialist
-Adler is the best A-Class survival unit for players who haven't pulled Fadia. As an Incantation-element user, he provides consistent shielding that scales with his [Information not yet publicly available as of 2026-05-17]. 
+Adler is the best A-Class survival unit for players who haven't pulled Fadia. As an Incantation-element user, he provides consistent shielding that scales with his undisclosed. 
 
 Adler’s shields are particularly valuable against the "Hethereau Stalkers" and other bosses with high burst damage. Unlike Edgar’s healing, Adler’s shields prevent the "Flinch" mechanic, allowing your DPS to continue their attack animations even while taking hits. 
 
@@ -111,7 +111,7 @@ Adler’s shields are particularly valuable against the "Hethereau Stalkers" and
 ### Esper Zero: Reliable F2P Survival
 Esper Zero, the protagonist of NTE, is a surprisingly capable sustain unit. Being a Cosmos-element character with a Solid-type Arc, Zero offers "Instant Cycle" mechanics that allow for quick elemental transitions.
 
-Zero’s survival utility comes from their passive healing. While it isn't as bursty as Edgar’s or as consistent as Fadia’s redirection, Zero recovers [Information not yet publicly available as of 2026-05-17] HP every time they trigger a Cosmos-based reaction. This makes them an excellent "all-rounder" for general exploration and mid-tier "Beyond the Rails" floors.
+Zero’s survival utility comes from their passive healing. While it isn't as bursty as Edgar’s or as consistent as Fadia’s redirection, Zero recovers undisclosed HP every time they trigger a Cosmos-based reaction. This makes them an excellent "all-rounder" for general exploration and mid-tier "Beyond the Rails" floors.
 
 ## B Tier
 
@@ -125,7 +125,7 @@ Edgar is the only "pure" healer available at the Version 1.0 launch. His kit is 
 
 **Edgar Skill Breakdown:**
 *   **Wild Current:** Edgar places a stationary water field on the ground. Allies within the radius receive healing every 1.5 seconds.
-*   **Cooldown:** [Information not yet publicly available as of 2026-05-17] seconds.
+*   **Cooldown:** undisclosed seconds.
 *   **The Problem:** The "Wild Current" field is stationary. In NTE’s fast-paced combat, bosses move constantly. If a boss moves out of the circle, or if you have to dodge an AoE attack, you lose the healing.
 
 Furthermore, as players get better at "Perfect Dodges," the need for Edgar’s raw HP restoration diminishes. He provides very little utility outside of healing, meaning he often feels like "dead weight" on a team that needs to beat a strict clear timer.

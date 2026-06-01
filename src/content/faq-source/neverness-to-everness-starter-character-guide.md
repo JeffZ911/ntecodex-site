@@ -102,7 +102,7 @@ The smartest strategy is to wait until you have performed your first natural S-r
 **Standard Board Selector Tier List:**
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (S-Tier):** The best pick for single-target boss encounters. Her Incantation-based kit deals massive "Bleed" damage, which is vital for late-game Anomaly bosses.
 *   **Jiuyuan (S-Tier):** An elite Psyche-element controller. If you find yourself struggling with large groups of enemies, Jiuyuan’s ability to freeze time in a small radius is invaluable.
-*   **[Information not yet publicly available as of 2026-05-23]:** The remaining four units are specialized for specific elemental mono-teams.
+*   **undisclosed:** The remaining four units are specialized for specific elemental mono-teams.
 
 ### Best F2P Team Compositions for the Early Game
 
@@ -147,7 +147,7 @@ Once you have mastered your starter team, you will want to look toward the mid-g
 As of Version 1.0, the meta is dominated by Nanally and Sakiri. While the free characters are excellent for story progression, the higher floors of the "Deep Anomaly" require specific elemental counters. Keeping an eye on the latest tier lists will help you decide which limited banners to save your Annulith for.
 
 ### Best Early-Game Arcs and Equipment
-Starter characters perform best with Arcs that provide energy regeneration. For Zero, look for the [Information not yet publicly available as of 2026-05-23] Arc, which can be crafted at the Eibon Antique Shop. Chiz benefits most from Arcs that increase her "Grain Stack" generation speed.
+Starter characters perform best with Arcs that provide energy regeneration. For Zero, look for the undisclosed Arc, which can be crafted at the Eibon Antique Shop. Chiz benefits most from Arcs that increase her "Grain Stack" generation speed.
 
 ### How to Farm Annulith Fast
 Annulith is the premium currency used for pulls. The fastest way to farm it as a new player is through "Hethereau Sightseeing" (finding hidden collectibles in the city) and completing the "Appraiser's Handbook" tasks. Each Anomaly Zone floor cleared for the first time also rewards a significant amount of Annulith.

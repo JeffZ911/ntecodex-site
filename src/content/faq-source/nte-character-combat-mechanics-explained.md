@@ -89,10 +89,10 @@ When a character's portrait on the right side of the screen begins to glow, thei
 Elemental reactions in NTE are categorized by the number of elements involved in the sequence. These reactions are not just visual flair; they provide the highest damage numbers in the game.
 
 **Duo Reactions (Two Elements):**
-*   **Blossom:** Triggered by combining Anima with [Information not yet publicly available as of 2026-05-23].
-*   **Remora:** Triggered by combining Cosmos with [Information not yet publicly available as of 2026-05-23].
-*   **Nova:** A high-impact explosion resulting from the interaction of Psyche and [Information not yet publicly available as of 2026-05-23].
-*   **Scorch:** A lingering damage-over-time effect caused by Chaos and [Information not yet publicly available as of 2026-05-23].
+*   **Blossom:** Triggered by combining Anima with undisclosed.
+*   **Remora:** Triggered by combining Cosmos with undisclosed.
+*   **Nova:** A high-impact explosion resulting from the interaction of Psyche and undisclosed.
+*   **Scorch:** A lingering damage-over-time effect caused by Chaos and undisclosed.
 
 **Trio Reactions (Three Elements):**
 Trio reactions occur when a third element is introduced to an existing Duo state.

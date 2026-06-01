@@ -111,7 +111,7 @@ Hoodie provides a persistent aura that buffs the active character’s ATK and Cr
 *   **Skill Level 1:** 10% ATK / 5% Crit DMG
 *   **Skill Level 4:** 14% ATK / 8% Crit DMG
 *   **Skill Level 7:** 18% ATK / 12% Crit DMG
-*   **Skill Level 10:** [Information not yet publicly available as of 2026-05-23]
+*   **Skill Level 10:** undisclosed
 
 ### Adler: Defensive Stability and Scorch Synergy
 

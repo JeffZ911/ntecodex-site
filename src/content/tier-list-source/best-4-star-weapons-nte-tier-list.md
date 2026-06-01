@@ -133,7 +133,7 @@ B-Tier Arcs are situational. They are often used as placeholders until a more sp
 
 ### The Fools' Spring: Niche Shield Synergies
 
-[Information not yet publicly available as of 2026-05-17] regarding the specific stat scaling for **The Fools' Spring**. However, it is known to be a Synthesis-type Arc that interacts with shield-generating mechanics. Its value is currently limited by the small number of Espers who can consistently trigger its shield-based buffs.
+undisclosed regarding the specific stat scaling for **The Fools' Spring**. However, it is known to be a Synthesis-type Arc that interacts with shield-generating mechanics. Its value is currently limited by the small number of Espers who can consistently trigger its shield-based buffs.
 
 ### Additional B-Tier Options
 

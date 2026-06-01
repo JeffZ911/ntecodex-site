@@ -72,7 +72,7 @@ In an Anima-focused team, Jiuyuan facilitates the Blossom reaction constantly. H
 
 ### Fadia: The Ultimate Damage Sponge
 
-Fadia offers a completely different approach to sustain compared to Jiuyuan. As a Psyche element S-Class, Fadia excels at damage redirection. Her active skill allows her to link with teammates, taking a percentage of the damage they would have received. [Information not yet publicly available as of 2026-05-17] regarding the exact percentage of damage redirected at Skill Level 10, but community testing suggests it is significant enough to prevent one-shots in "Beyond the Rails" Floor 12.
+Fadia offers a completely different approach to sustain compared to Jiuyuan. As a Psyche element S-Class, Fadia excels at damage redirection. Her active skill allows her to link with teammates, taking a percentage of the damage they would have received. undisclosed regarding the exact percentage of damage redirected at Skill Level 10, but community testing suggests it is significant enough to prevent one-shots in "Beyond the Rails" Floor 12.
 
 Fadia’s Ultimate skill allows her to recover HP based on the total damage she has redirected during its duration. This creates a loop where she absorbs punishment for the team and then resets her own health pool. This makes her the premier choice for players who prefer a "tanky" playstyle or those using characters with long, uninterruptible attack animations.
 
@@ -124,10 +124,10 @@ Edgar is most useful for players who are under-leveled for their current content
 
 | Edgar Skill Level | Healing Amount (% of Ally Max HP) |
 | :--- | :--- |
-| Level 1 | [Information not yet publicly available as of 2026-05-17] |
-| Level 4 | [Information not yet publicly available as of 2026-05-17] |
-| Level 7 | [Information not yet publicly available as of 2026-05-17] |
-| Level 10 | [Information not yet publicly available as of 2026-05-17] |
+| Level 1 | — |
+| Level 4 | — |
+| Level 7 | — |
+| Level 10 | — |
 
 ### Hathor: Sustain through Crowd Control
 

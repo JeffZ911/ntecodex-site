@@ -81,9 +81,9 @@ To reach the gacha system, known as the **Scarborough Fair**, you must progress 
 Before you start pulling, ensure you have maximized your Annulith count by redeeming active promo codes. These codes are often distributed via the official Discord or social media channels.
 
 **Active Promo Codes as of May 22, 2026:**
-*   [Information not yet publicly available as of 2026-05-22]
-*   [Information not yet publicly available as of 2026-05-22]
-*   [Information not yet publicly available as of 2026-05-22]
+*   undisclosed
+*   undisclosed
+*   undisclosed
 
 *Note: If no codes are currently active, the mailbox rewards alone should provide enough for at least three 10-pulls on the "Strange Encounters" banner.*
 
@@ -96,7 +96,7 @@ Knowing who to aim for is just as important as knowing how to reroll. The curren
 
 ### Top Tier: Sakiri and Nanally
 
-**Sakiri (Incantation/Support):** Sakiri is widely considered the best reroll target for long-term account health. Her ability to group enemies and apply resistance shreds makes her indispensable for both mob clearing and boss fights. She uses a [Information not yet publicly available as of 2026-05-22] type weapon and fits into almost any team composition.
+**Sakiri (Incantation/Support):** Sakiri is widely considered the best reroll target for long-term account health. Her ability to group enemies and apply resistance shreds makes her indispensable for both mob clearing and boss fights. She uses a undisclosed type weapon and fits into almost any team composition.
 
 **Nanally (Anima/DPS):** As the featured character on the limited banner "The Ichi-daime," Nanally is the premier damage dealer. Her kit focuses on high-speed strikes and a unique mobility skill that allows her to traverse the verticality of Hethereau faster than any other character. If you manage to pull her early using the Annulith from launch rewards, your account is considered an "S+ Tier" start.
 
@@ -119,8 +119,8 @@ Once you have finished your initial pulls, you will eventually hit the 50-pull m
 ### Free Characters to Avoid Rerolling For
 
 The game provides several A-Rank characters for free through the story and beginner missions. Do not waste your reroll efforts if you only pull these units:
-*   [Information not yet publicly available as of 2026-05-22]
-*   [Information not yet publicly available as of 2026-05-22]
+*   undisclosed
+*   undisclosed
 
 These characters are guaranteed to everyone and do not represent the "God Start" you are looking for.
 

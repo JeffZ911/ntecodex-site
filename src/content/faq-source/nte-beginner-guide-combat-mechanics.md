@@ -66,12 +66,12 @@ When you swap from one Esper to another, the game checks the elemental relations
 
 | Duo Reaction | Elements Involved | Primary Combat Effect |
 | :--- | :--- | :--- |
-| Blossom | Lakshana + Cosmos | [Information not yet publicly available as of 2026-05-24] |
+| Blossom | Lakshana + Cosmos | — |
 | Scorch | Anima + Incantation | Deals sustained Fire-type damage over time and reduces enemy defense. |
-| Nova | Cosmos + Anima | [Information not yet publicly available as of 2026-05-24] |
+| Nova | Cosmos + Anima | — |
 | Stain | Chaos + Psyche | Applies a debuff that increases the Stagger damage taken by the target. |
-| [Reaction Name] | Incantation + Chaos | [Information not yet publicly available as of 2026-05-24] |
-| [Reaction Name] | Psyche + Lakshana | [Information not yet publicly available as of 2026-05-24] |
+| [Reaction Name] | Incantation + Chaos | — |
+| [Reaction Name] | Psyche + Lakshana | — |
 
 To maximize your DPS, you should build your team specifically to facilitate these reactions. A "circular" rotation that moves through the wheel ensures that every character swap results in a powerful elemental explosion or debuff.
 
@@ -117,7 +117,7 @@ Understanding the "Esper Meter Generation Rates" is key to optimizing this syner
 
 | Action | Esper Meter Gain |
 | :--- | :--- |
-| Normal Attack (Full String) | [Information not yet publicly available as of 2026-05-24] |
+| Normal Attack (Full String) | — |
 | Perfect Dodge (Riposte) | Moderate |
 | Perfect Parry | Massive / Full |
 | Redirect Skill Hit | High |

@@ -71,9 +71,9 @@ Fadia (S-Class, Psyche, Survival) is currently the gold standard for team surviv
 Fadia's Ultimate ability allows her to enter a state where she converts a percentage of the damage she has taken back into health for herself and her teammates. This creates a loop where she absorbs punishment and then resets her own HP bar while keeping the team topped off. Because she scales primarily with HP and Defense, she is incredibly difficult for bosses to take down.
 
 **Fadia Stat Overview (Base at Level 60):**
-*   **HP:** [Information not yet publicly available as of 2026-05-15]
-*   **DEF:** [Information not yet publicly available as of 2026-05-15]
-*   **Energy Regen:** [Information not yet publicly available as of 2026-05-15]
+*   **HP:** undisclosed
+*   **DEF:** undisclosed
+*   **Energy Regen:** undisclosed
 
 ### Sakiri: Prevention is Better Than Cure
 

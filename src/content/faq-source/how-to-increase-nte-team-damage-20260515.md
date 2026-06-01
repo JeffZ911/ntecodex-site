@@ -66,8 +66,8 @@ The elements in NTE are divided into two main groups on the Esper Wheel: the "Ph
 | :--- | :--- | :--- |
 | Discord | Chaos + Psyche + Lakshana | High burst damage and reduces enemy resistance to all elements. |
 | Charge | Cosmos + Anima + Incantation | Increases the team's Energy Regeneration and boosts Basic Attack DMG. |
-| [Information not yet publicly available] | Cosmos + Chaos | [Information not yet publicly available as of 2026-05-15] |
-| [Information not yet publicly available] | Anima + Psyche | [Information not yet publicly available as of 2026-05-15] |
+| — | Cosmos + Chaos | — |
+| — | Anima + Psyche | — |
 
 To maximize damage, you should aim to complete a Trio Reaction every time your Esper Cycle resets. This requires a team composition that covers at least three different elements that can interact. For example, a team featuring [Nanally](/characters/nanally-guide-nte) (Anima) should be paired with characters who can provide the Cosmos and Incantation elements to consistently trigger the Charge reaction, keeping Nanally's high-damage skills fueled with energy.
 
@@ -97,7 +97,7 @@ Arcs are the weapons of NTE, and they come in five distinct types based on their
 | Plasma | Ranged DPS / Speed | CRIT Rate, Energy Regen, ASPD |
 | Gas | Support / Crowd Control | Cycle Intensity, Skill Cooldown |
 | Liquid | Healers / Elemental Enablers | HP, Elemental Mastery, Healing Bonus |
-| Synthesis | Hybrid / Specialized | [Information not yet publicly available as of 2026-05-15] |
+| Synthesis | Hybrid / Specialized | — |
 
 To increase your damage via Arcs, you must follow three progression paths:
 1.  **Enhancement:** Use "Arc XP" materials to level up the weapon, increasing its base ATK.

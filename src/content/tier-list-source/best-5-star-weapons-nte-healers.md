@@ -112,7 +112,7 @@ B-Tier weapons are niche or specialized Arcs that are often "signature" weapons 
 ### Day Off: The Hybrid Choice for Zero
 Day Off is the signature weapon for Zero. While it is an S-Rank Arc, its design leans heavily toward a hybrid playstyle rather than pure healing. It focuses on ATK stats and Energy restoration. For Zero, who functions as a bridge between support and damage, this is a strong tool. However, for a dedicated healer like Fadia, the lack of HP scaling makes it a suboptimal choice.
 
-Day Off's energy restoration mechanics are unique: [Information not yet publicly available as of 2026-05-22]. Compared to standard energy regen stats, it requires the character to be active on the field to maximize its benefits, which contradicts the "tag-in, heal, tag-out" rotation favored in the current meta.
+Day Off's energy restoration mechanics are unique: undisclosed. Compared to standard energy regen stats, it requires the character to be active on the field to maximize its benefits, which contradicts the "tag-in, heal, tag-out" rotation favored in the current meta.
 
 ### Camellia Society: Managing the High-Risk Passive
 Camellia Society is a Synthesis weapon that introduces a high-risk, high-reward mechanic. It rewards the character for HP loss, providing buffs when the wearer's health drops below certain thresholds. This is incredibly niche for healers. While a healer can theoretically manage their own health pool effectively, the risk of being caught at low HP in endgame content like Anomaly Hunts is often too great.

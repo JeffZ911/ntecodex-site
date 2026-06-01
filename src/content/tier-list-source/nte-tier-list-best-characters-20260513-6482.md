@@ -70,17 +70,17 @@ S-Tier characters are the "must-pull" units of Neverness to Everness. They defin
 
 ### Nanally: The Coluccis' Powerhouse
 Nanally remains the undisputed queen of the launch meta. As a Cosmos-attribute Damage dealer, she possesses a kit centered around high-frequency follow-up attacks. Her Ultimate, which covers a massive AoE, can clear entire rooms of anomalies in seconds. Beyond combat, her presence in your City Tycoon roster provides a significant boost to high-end boutique revenue, making her a dual-threat unit.
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-13]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Primary Role:** Main DPS
 
 ### Sakiri: The Ultimate Crowd Controller
 [Sakiri](/characters/sakiri-nte-free-5-star-guide) is an Incantation-attribute Support whose value lies in her unique "Eating Mode." This mechanic allows her to effectively remove elite enemies from the battlefield temporarily, providing much-needed breathing room. Furthermore, her "Feast of Gluttony" Ultimate grants a 30% team-wide ATK buff, which is currently the highest offensive buff in the game. Her utility in the City Tycoon system involves significant bonuses to restaurant management efficiency.
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-13]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Primary Role:** Offensive Support / Crowd Control
 
 ### Hotori: Mastering Time in Hethereau
 Released on May 13 with Version 1.0.1, Hotori has immediately claimed a spot in S-Tier. Her Cosmos-attribute kit introduces a time-stop mechanic that freezes enemy animations while allowing your team to continue dealing damage. This is meta-defining for boss fights where attack patterns are difficult to dodge. In the open world, her high-speed movement skills make her the best character for urban exploration and rooftop traversal.
-*   **Best-in-Slot Arc:** [Information not yet publicly available as of 2026-05-13]
+*   **Best-in-Slot Arc:** undisclosed
 *   **Primary Role:** Burst DPS / Utility
 
 ### Jiuyuan (Anima/Damage)

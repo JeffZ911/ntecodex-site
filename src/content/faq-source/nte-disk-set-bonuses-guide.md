@@ -56,7 +56,7 @@ Activating a 2-piece bonus is straightforward; you simply equip the Cartridge. H
 | :--- | :--- | :--- | :--- |
 | **Lost Radiance** | Main DPS | +15% ATK | Ignores 20% of enemy DEF when hitting Weakness |
 | **Speedy Hedgehog** | Support | +10% SPD | Grants 15% ATK to the entire team for 10s after Skill |
-| **Fireflies and the Forest** | Elemental DPS | +10% Elemental DMG | [Information not yet publicly available as of 2026-05-21] |
+| **Fireflies and the Forest** | Elemental DPS | +10% Elemental DMG | — |
 | **Iron Wall Protocol** | Tank / Shielder | +15% DEF | Increases Shield Strength by 20% and taunts nearby foes |
 | **Silent Symphony** | Burst Support | +15% Energy Regen | Reduces Ultimate Cooldown by 15% after a successful Parry |
 
@@ -100,7 +100,7 @@ As of the current patch, the following sets are the most prevalent in the meta:
     *   **Required Shapes:** Three 1x3 straight blocks.
 *   **Glacial Remnant:**
     *   **2-pc:** +10% Ice DMG.
-    *   **4-pc:** [Information not yet publicly available as of 2026-05-21].
+    *   **4-pc:** undisclosed.
     *   **Required Shapes:** One 2x2 square and two 1x2 blocks.
 *   **Vibrant Pulse:**
     *   **2-pc:** +10% Crit Rate.

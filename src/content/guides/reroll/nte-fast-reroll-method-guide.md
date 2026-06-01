@@ -83,7 +83,7 @@ To maximize your pulls per reroll, you must claim every available resource immed
 
 **Mandatory Tutorial Milestones:**
 *   Complete the "Hethereau Arrival" opening sequence.
-*   Reach the first Urban Exploration hub and talk to the NPC [Information not yet publicly available as of 2026-05-17].
+*   Reach the first Urban Exploration hub and talk to the NPC undisclosed.
 *   Finish the "Anomaly Breach" combat tutorial.
 *   Unlock the main menu (usually occurs after the first 15-20 minutes of gameplay).
 
@@ -115,7 +115,7 @@ Hotori offers a different playstyle, focusing on Cosmos-element off-field damage
 
 If you aren't pulling on the limited banner or if you're using your 50-pull selector, prioritize these characters:
 
-1.  **Sakiri (S Tier - Support/CC):** Her ability to group enemies and apply [Information not yet publicly available as of 2026-05-17] makes her the best long-term investment. Supports usually outlast DPS units in the meta.
+1.  **Sakiri (S Tier - Support/CC):** Her ability to group enemies and apply undisclosed makes her the best long-term investment. Supports usually outlast DPS units in the meta.
 2.  **Jiuyuan (S Tier - DoT DPS):** Excellent for sustained damage. She pairs exceptionally well with free units that apply elemental debuffs.
 3.  **Baicang (S Tier - Tank/Utility):** While defensive units are less flashy for rerolling, Baicang provides a safety net that makes high-level Anomaly clearing much easier for casual players.
 

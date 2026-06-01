@@ -51,7 +51,7 @@ It is easy for new players to confuse Resonance Level with other progression sys
 | **Primary Purpose** | Character-specific power and passive unlocks. | Overall account progression and level gating. | World difficulty and loot quality scaling. |
 | **How to Increase** | Using Mind Shards and Awakening nodes (A1-A6). | Completing missions, Daily Commissions, and spending Stamina. | Completing "Appraisal Rank" trials at specific Hunter Levels. |
 | **Impact** | Skill enhancements, cooldown resets, and R1/R2 buffs. | Unlocks new story chapters and increases character level caps. | Higher drop rates for gold-tier Cassettes and Arcs. |
-| **Reset/Cap** | Permanent per character; capped at R2 (A6). | Permanent per account; currently capped at [Information not yet publicly available as of 2026-05-15]. | Increases world difficulty; can be manually lowered in settings. |
+| **Reset/Cap** | Permanent per character; capped at R2 (A6). | Permanent per account; currently capped at —. | Increases world difficulty; can be manually lowered in settings. |
 
 ## Direct Answer
 
@@ -109,7 +109,7 @@ The most common way to increase Resonance Level is through the Scarborough Fair 
 *   **Fabricated Dice:** Used for the standard permanent banner. This is the best way to slowly build Resonance for A-Rank characters like Mint, Daffodil, and Edgar.
 *   **Solid Dice:** Used for limited-time S-Rank banners. Saving these is essential for hitting R1 or R2 on premium characters like Baicang or [Sakiri](/characters/sakiri-nte-free-5-star-guide).
 
-If luck isn't on your side, the **Warp Exchange** serves as a pity system. Every time you pull a duplicate, you receive Warp Pieces. You can spend these pieces in the shop to buy Mind Shards for characters currently in the rotation. S-Rank shards are significantly more expensive and are often limited to [Information not yet publicly available as of 2026-05-15] per month.
+If luck isn't on your side, the **Warp Exchange** serves as a pity system. Every time you pull a duplicate, you receive Warp Pieces. You can spend these pieces in the shop to buy Mind Shards for characters currently in the rotation. S-Rank shards are significantly more expensive and are often limited to undisclosed per month.
 
 ### City Tycoon: The Path to Free Resonance
 
@@ -123,7 +123,7 @@ The "Esper Cycle" is the flow of combat in NTE, involving character swaps and el
 
 *   **Cooldown Management:** Many R1 passives reduce the cooldown of the character’s "Anomaly Skill" when they trigger a specific reaction. This allows for a much faster rotation.
 *   **Energy Economy:** Higher Resonance nodes often provide flat energy restoration. This reduces the need for Energy Regeneration stats on your Cassettes, allowing you to focus purely on damage-oriented sub-stats.
-*   **Team Synergy:** R2 bonuses are frequently team-wide. For instance, an R2 Sakiri might provide a [Information not yet publicly available as of 2026-05-15]% DMG boost to all teammates after using her ultimate, making her a top-tier support even if she isn't the primary damage dealer.
+*   **Team Synergy:** R2 bonuses are frequently team-wide. For instance, an R2 Sakiri might provide a undisclosed DMG boost to all teammates after using her ultimate, making her a top-tier support even if she isn't the primary damage dealer.
 
 ### Resource Management: Dice, Warp Pieces, and Analith
 
@@ -150,9 +150,9 @@ If you find yourself unable to click the "Awaken" button despite having the shar
 
 For most players, focusing on A-Rank characters for R2 is more realistic than chasing R2 on an S-Rank. 
 
-*   **Mint (A-Rank):** Her R2 provides a significant boost to [Information not yet publicly available as of 2026-05-15] and makes her one of the most reliable healers in the game.
+*   **Mint (A-Rank):** Her R2 provides a significant boost to undisclosed and makes her one of the most reliable healers in the game.
 *   **Edgar (A-Rank):** Reaching R1 with Edgar allows for much better crowd control during urban skirmishes.
-*   **Baicang (S-Rank):** If you are a spender or have saved Solid Dice, Baicang's R1 is considered a "meta-defining" upgrade, as it significantly alters his [Information not yet publicly available as of 2026-05-15] scaling.
+*   **Baicang (S-Rank):** If you are a spender or have saved Solid Dice, Baicang's R1 is considered a "meta-defining" upgrade, as it significantly alters his undisclosed scaling.
 *   **Nanally (S-Rank):** Her banner, "The Ichi-daime," is a frequent target for players looking to hit R1, which enhances her ability to shred enemy elemental shields.
 
 | Character | Recommended Resonance | Priority Reason |

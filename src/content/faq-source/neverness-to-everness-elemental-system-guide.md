@@ -77,7 +77,7 @@ If you swap from an Anima character to an Incantation character, you trigger a D
 Every character has an Esper Meter visible on their portrait in the party HUD. This meter must be at 100% to trigger an Esper Ability and a reaction upon swapping.
 
 *   **Normal Attacks:** Provide a slow, steady charge to the meter.
-*   **Skills and Ultimates:** Provide significant chunks of meter, usually between [Information not yet publicly available as of 2026-05-21]% and [Information not yet publicly available as of 2026-05-21]%.
+*   **Skills and Ultimates:** Provide significant chunks of meter, usually between undisclosed and undisclosed.
 *   **Perfect Dodge:** Provides a moderate boost to the active character's meter.
 *   **Parry:** A successful Parry is the most powerful mechanic in the game, providing an instant 100% fill to the active character’s Esper Meter.
 
@@ -85,9 +85,9 @@ A critical attribute for any character is the **Cycle Rate**. This stat acts as 
 
 | Combat Action | Meter Gain (Base) | Notes |
 | :--- | :--- | :--- |
-| Normal Attack String | [Information not yet publicly available as of 2026-05-21] | Varies by character speed |
-| Character Skill | [Information not yet publicly available as of 2026-05-21] | Major source of charge |
-| Perfect Dodge | [Information not yet publicly available as of 2026-05-21] | Rewards defensive play |
+| Normal Attack String | — | Varies by character speed |
+| Character Skill | — | Major source of charge |
+| Perfect Dodge | — | Rewards defensive play |
 | Successful Parry | 100% | Instant full charge |
 
 ### Duo Cycle Reactions: The Core Combat Loop

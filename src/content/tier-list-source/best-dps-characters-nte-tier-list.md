@@ -68,13 +68,13 @@ S-Tier characters represent the absolute pinnacle of the Hethereau meta. These E
 
 [Nanally](/characters/nanally-guide-nte) has solidified her spot at the top of the tier list due to her incredible Anima-type synergy. Her playstyle revolves around her "Underboss" summon—a massive spectral entity that mirrors her attacks. What makes Nanally exceptional is her anti-gravity mobility; while her Underboss is active, Nanally can hover and dash through the air, making her nearly impossible for ground-based anomalies to hit.
 
-Her follow-up damage is categorized as Anima-type, which currently ignores [Information not yet publicly available as of 2026-05-15] of an enemy's base physical resistance. This makes her the go-to choice for "Beyond the Rails" floors featuring armored heavy-type enemies. Her signature banner, "The Ichi-daime," provides her with the necessary Crit Rate to make every Underboss swing a devastating blow.
+Her follow-up damage is categorized as Anima-type, which currently ignores undisclosed of an enemy's base physical resistance. This makes her the go-to choice for "Beyond the Rails" floors featuring armored heavy-type enemies. Her signature banner, "The Ichi-daime," provides her with the necessary Crit Rate to make every Underboss swing a devastating blow.
 
 ### Chiz: The Tycoon Scaling Powerhouse
 
 Chiz is a unique Cosmos-element carry who scales directly with the player's progress in the "Tycoon" system—NTE’s business management side-game. For F2P players, Chiz is a godsend because her power isn't strictly locked behind gacha duplicates; instead, as you upgrade your urban properties and increase your Hethereau influence, Chiz gains flat ATK and Elemental Mastery bonuses.
 
-Her combat style uses a combination of umbrella strikes and Cosmos-energy projectiles. In high-level play, Chiz is used to "stack" market-fluctuation buffs that increase her damage by [Information not yet publicly available as of 2026-05-15] for every successful property transaction completed in the game world that week. This makes her one of the most consistent damage dealers for dedicated players.
+Her combat style uses a combination of umbrella strikes and Cosmos-energy projectiles. In high-level play, Chiz is used to "stack" market-fluctuation buffs that increase her damage by undisclosed for every successful property transaction completed in the game world that week. This makes her one of the most consistent damage dealers for dedicated players.
 
 ### Jiuyuan: Burst Damage and Crowd Control
 
@@ -82,7 +82,7 @@ Jiuyuan is the highlight of the standard banner. Specializing in the "Lethal Ros
 
 ### Hotori: Doubling Your Damage Potential
 
-[Hotori](/characters/hotori-best-team-nte) is technically a Cosmos Sub-DPS, but her impact on team damage is so profound that she earns an S-Tier ranking. Her core mechanic involves "recording" the skill used by the character immediately preceding her in the Esper Cycle. She can then "replay" that skill with a [Information not yet publicly available as of 2026-05-15] multiplier. This effectively allows you to use two Ultimates back-to-back. In the current meta, pairing Hotori with Nanally or Jiuyuan results in the highest recorded burst damage in the game.
+[Hotori](/characters/hotori-best-team-nte) is technically a Cosmos Sub-DPS, but her impact on team damage is so profound that she earns an S-Tier ranking. Her core mechanic involves "recording" the skill used by the character immediately preceding her in the Esper Cycle. She can then "replay" that skill with a undisclosed multiplier. This effectively allows you to use two Ultimates back-to-back. In the current meta, pairing Hotori with Nanally or Jiuyuan results in the highest recorded burst damage in the game.
 
 **S Tier Character Stat Comparison**
 
@@ -106,7 +106,7 @@ A-Tier characters are highly effective and can clear all current content. They t
 
 ### Baicang: Mastery of Incantation DoTs
 
-Baicang is an Incantation-type DPS who thrives on execution. Her kit focuses on applying "Wither" marks to enemies. When an enemy's HP falls below [Information not yet publicly available as of 2026-05-15], Baicang’s Incantation damage increases significantly, allowing her to finish off bosses with ease. She is particularly strong against enemies with high HP pools but low resistance to status ailments.
+Baicang is an Incantation-type DPS who thrives on execution. Her kit focuses on applying "Wither" marks to enemies. When an enemy's HP falls below undisclosed, Baicang’s Incantation damage increases significantly, allowing her to finish off bosses with ease. She is particularly strong against enemies with high HP pools but low resistance to status ailments.
 
 ### Daffodill: The Stance Break Specialist
 
@@ -114,7 +114,7 @@ Daffodill is currently the premier Chaos-type breaker. In NTE, enemies have a "S
 
 ### Esper Zero: The Protagonist's Meta Utility
 
-As the player character, Esper Zero is surprisingly viable in the A-Tier. Their "Instant Cycle" mechanic is unique; it allows the player to ignore the standard swap cooldown once every [Information not yet publicly available as of 2026-05-15] seconds. This enables lightning-fast rotations that can overwhelm enemies before they can react. While their base stats are lower than premium S-Class Espers, their versatility across all Arc types keeps them relevant in high-level play.
+As the player character, Esper Zero is surprisingly viable in the A-Tier. Their "Instant Cycle" mechanic is unique; it allows the player to ignore the standard swap cooldown once every undisclosed seconds. This enables lightning-fast rotations that can overwhelm enemies before they can react. While their base stats are lower than premium S-Class Espers, their versatility across all Arc types keeps them relevant in high-level play.
 
 **A Tier Synergy Chart**
 
@@ -132,7 +132,7 @@ B-Tier characters are viable for the mid-game and specific niche strategies but 
 
 ### Mint: High Skill Ceiling for A-Class
 
-Mint is an A-Class Anima DPS who relies entirely on the "Critical Riposte" mechanic. By performing a perfect dodge at the last possible moment, Mint resets her primary skill cooldown and gains a [Information not yet publicly available as of 2026-05-15] damage boost. In the hands of a highly skilled player, Mint can perform like an S-Tier character. However, her lack of consistency and high risk of taking damage makes her less reliable than the top-ranked Espers.
+Mint is an A-Class Anima DPS who relies entirely on the "Critical Riposte" mechanic. By performing a perfect dodge at the last possible moment, Mint resets her primary skill cooldown and gains a undisclosed damage boost. In the hands of a highly skilled player, Mint can perform like an S-Tier character. However, her lack of consistency and high risk of taking damage makes her less reliable than the top-ranked Espers.
 
 ### Hathor: High Risk, High Reward Burst
 
@@ -170,7 +170,7 @@ With the launch of Hotori’s banner, the "Cosmos Meta" has become the dominant 
 
 ### Future Character Teasers: Lacrimosa
 
-Community anticipation is currently high for the upcoming character "Lacrimosa." Leaks suggest she will be a Lakshana-element DPS designed to fix the issues currently plaguing the element, such as Hathor's animation locks. If her kit includes the rumored [Information not yet publicly available as of 2026-05-15] mechanic, she could potentially dethrone Nanally as the top DPS in the game.
+Community anticipation is currently high for the upcoming character "Lacrimosa." Leaks suggest she will be a Lakshana-element DPS designed to fix the issues currently plaguing the element, such as Hathor's animation locks. If her kit includes the rumored undisclosed mechanic, she could potentially dethrone Nanally as the top DPS in the game.
 
 **Patch 1.0.2 Balance Change Summary**
 

@@ -132,7 +132,7 @@ Understanding Impact is just the first step in mastering the ZZZ combat loop. On
 
 ### Maximizing the Stun Window
 
-Once the enemy is Stunned, the "Stun DMG Multiplier" takes effect. Every enemy has a base multiplier (usually 150%), but this can be modified. For example, **Qingyi** has a passive that increases this multiplier up to a cap of [Information not yet publicly available as of 2026-05-14] depending on her Subjugation stacks. 
+Once the enemy is Stunned, the "Stun DMG Multiplier" takes effect. Every enemy has a base multiplier (usually 150%), but this can be modified. For example, **Qingyi** has a passive that increases this multiplier up to a cap of undisclosed depending on her Subjugation stacks. 
 
 To maximize this window:
 1.  **Apply Debuffs:** Ensure your "Support" Agents (like Nicole or Soukaku) have applied their DEF shreds or Elemental buffs before the Stun bar hits 100%.

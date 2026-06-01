@@ -145,7 +145,7 @@ C-Tier characters are currently considered "off-meta" because their kits do not 
 Edgar is the only "dedicated" pure healer in NTE. He ranks low because his kit lacks any offensive buffs or utility. His skill, **"Wild Current,"** requires him to channel while stationary, leaving him vulnerable to attacks. While his raw healing numbers are high, he is often considered a "noob trap" because players who rely on him tend to neglect learning the game's defensive mechanics.
 
 **Edgar's Healing Scaling Table:**
-*   **Level 1 Skill:** [Information not yet publicly available as of 2026-05-22]
+*   **Level 1 Skill:** undisclosed
 *   **Level 10 Skill:** 15% Max HP + 1,200 Flat HP
 *   **Ultimate Level 10:** 2.5% Max HP per tick in domain
 

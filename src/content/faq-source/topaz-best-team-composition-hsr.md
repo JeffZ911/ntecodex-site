@@ -95,7 +95,7 @@ If your Topaz is E0S0, she cannot solo-support Dr. Ratio’s debuff requirement.
 *   **Dr. Ratio Skill:** Effect RES Down (1 Debuff, 100% base chance)
 *   **Aventurine Ultimate:** Unnerved (1 Debuff)
 *   **Aventurine S1:** Blind Bet follow-up debuff (1 Debuff)
-*   **Robin E1:** [Information not yet publicly available as of 2026-05-12] (Note: Robin's E1 provides Res Pen, which is a buff, not a debuff on the enemy).
+*   **Robin E1:** undisclosed (Note: Robin's E1 provides Res Pen, which is a buff, not a debuff on the enemy).
 
 ### The Premium IPC Team: Ratio, Robin, and Aventurine
 This is widely considered the "Gold Standard" for follow-up teams. Robin is the lynchpin here because her Ultimate, "Vox Harmonique, Opus Cosmique," provides a massive Attack buff and causes her to deal additional Physical damage every time an ally attacks. Since Topaz, Numby, Ratio, and Aventurine all attack multiple times per cycle, they trigger Robin’s coordinated attacks more than any other team, leading to massive total damage output.

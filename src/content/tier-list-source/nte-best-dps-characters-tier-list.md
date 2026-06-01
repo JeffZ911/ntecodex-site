@@ -78,8 +78,8 @@ S-tier characters are the current gold standard for performance. They define the
 
 Nanally remains the undisputed queen of the Plasma Arc. As an Anima-aligned Main DPS, her kit revolves around her "Underboss" summon. Unlike standard pets, the Underboss mimics Nanally’s attacks with coordinated follow-ups, effectively doubling her hit count. This makes her the most efficient character for proccing "on-hit" weapon effects and building the Esper Cycle meter.
 
-*   **Best Weapons:** [Information not yet publicly available as of 2026-05-15]
-*   **Best Cartridges:** [Information not yet publicly available as of 2026-05-15]
+*   **Best Weapons:** undisclosed
+*   **Best Cartridges:** undisclosed
 *   **Key Mechanic:** Her "Underboss" summon scales directly with Nanally’s Crit Rate, making her a high-investment, high-reward carry.
 
 ### Jiuyuan: Burst and Battlefield Control

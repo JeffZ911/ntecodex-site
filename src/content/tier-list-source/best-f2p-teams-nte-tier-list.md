@@ -115,7 +115,7 @@ Following the buffs in Version 1.0.5, Mint has climbed into the S-Tier. This tea
 *   **Support:** Sakiri (S-Class Selector)
 *   **Sustain:** Adler
 
-**Why it works:** Mint’s Anima scaling was increased by [Information not yet publicly available as of 2026-05-23] in the recent patch. When paired with Zero’s Cosmos element, they trigger Blossom constantly. Sakiri provides the necessary grouping to ensure Mint’s AOE slashes hit every target, while Adler provides shields to prevent Mint from being interrupted during her long attack animations.
+**Why it works:** Mint’s Anima scaling was increased by undisclosed in the recent patch. When paired with Zero’s Cosmos element, they trigger Blossom constantly. Sakiri provides the necessary grouping to ensure Mint’s AOE slashes hit every target, while Adler provides shields to prevent Mint from being interrupted during her long attack animations.
 
 **Damage Comparison: Chiz A6 (Free) vs. Limited S-Ranks at A0**
 
@@ -197,7 +197,7 @@ C-Tier teams are generally not recommended for endgame content due to poor damag
 **Why Pure Healers Struggle in NTE 1.0:**
 In the current May 2026 meta, "Beyond the Rail" and "High Risk Commissions" are strictly timed. Edgar provides excellent healing, but he offers zero offensive utility. In NTE, shields (Adler) or damage reduction (Fadia) are preferred because they allow you to continue attacking through enemy hits without losing DPS. 
 
-Furthermore, Skia is currently the only free Lakshana unit. Without a second Lakshana unit to trigger the "Stain" reaction consistently, her utility is limited. The Time-to-Kill (TTK) for this team on a standard Level 80 boss is [Information not yet publicly available as of 2026-05-23], whereas the S-Tier Market Crash team finishes the same boss in under 90 seconds.
+Furthermore, Skia is currently the only free Lakshana unit. Without a second Lakshana unit to trigger the "Stain" reaction consistently, her utility is limited. The Time-to-Kill (TTK) for this team on a standard Level 80 boss is undisclosed, whereas the S-Tier Market Crash team finishes the same boss in under 90 seconds.
 
 ## Recent Changes
 

@@ -109,8 +109,8 @@ Her "Settlement" mechanic allows her to mark enemies; as she or her teammates de
 
 **Recommended Arc Weapons for S-Tier Supports**
 
-*   **For Sakiri:** [Information not yet publicly available as of 2026-05-22]
-*   **For Jiuyuan:** [Information not yet publicly available as of 2026-05-22]
+*   **For Sakiri:** undisclosed
+*   **For Jiuyuan:** undisclosed
 
 ## A Tier
 
@@ -158,7 +158,7 @@ While Zero is highly flexible, they are eventually outperformed by dedicated sup
 
 **Esper Zero Support Skill Healing Values**
 
-*   **Base Heal:** [Information not yet publicly available as of 2026-05-22]
+*   **Base Heal:** undisclosed
 *   **Scaling:** Percentage of Target's Max HP.
 
 ## C Tier

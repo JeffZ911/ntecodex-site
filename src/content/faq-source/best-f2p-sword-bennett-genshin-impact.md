@@ -157,7 +157,7 @@ If you use the Sapwood Blade, you will almost certainly need an **Energy Recharg
 If you happen to pull a 5-star sword, these are the rankings for Bennett:
 1.  **Aquila Favonia / Mistsplitter Reforged:** Both have 674 Base ATK, the highest in the game. They provide the maximum possible buff but require heavy ER investment from artifacts.
 2.  **Skyward Blade:** 608 Base ATK and 55.1% ER. This is arguably Bennett's best-in-slot (BiS) weapon because it combines high attack with massive energy.
-3.  **Absolution:** [Information not yet publicly available as of 2026-05-14].
+3.  **Absolution:** undisclosed.
 
 ### Recommended Artifact Stats for Support Bennett
 
@@ -179,7 +179,7 @@ Bennett’s versatility allows him to anchor several F2P-friendly teams:
 
 As we move deeper into the 5.x and 6.x patches, new regional weapons have appeared. The Natlan craftable sword, **Flute of Ezpitzal**, features a DEF% substat and a low Base ATK of 454, making it a poor choice for Bennett. 
 
-Regarding the Snezhnayan (Nod-Krai) craftable sword series, the specific stats and names for the 6.0 weapon set are [Information not yet publicly available as of 2026-05-14]. However, based on historical trends, unless a new sword with 565+ Base ATK and an ER substat is released, the Sapwood Blade will likely remain the king of F2P Bennett weapons through the end of the Teyvat chapter.
+Regarding the Snezhnayan (Nod-Krai) craftable sword series, the specific stats and names for the 6.0 weapon set are undisclosed. However, based on historical trends, unless a new sword with 565+ Base ATK and an ER substat is released, the Sapwood Blade will likely remain the king of F2P Bennett weapons through the end of the Teyvat chapter.
 
 ## Sources
 - genshin-impact.fandom.com — https://genshin-impact.fandom.com/wiki/Bennett

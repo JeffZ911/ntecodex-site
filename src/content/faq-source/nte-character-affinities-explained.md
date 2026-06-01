@@ -80,18 +80,18 @@ As of May 23, 2026, the roster of Espers in Hethereau has expanded significantly
     *   **Jiuyuan:** A tactical specialist with high Anima resonance.
 *   **Incantation (Purple):** These characters excel at applying debuffs and "marking" enemies.
     *   **Chiz:** A specialist in ritualistic combat and area-of-effect curses.
-    *   [Information not yet publicly available as of 2026-05-23]
+    *   undisclosed
 *   **Chaos (Red):** The primary source of raw explosive damage and shield breaking.
     *   **Adler:** A heavy hitter focused on chaotic energy and high-impact strikes.
-    *   [Information not yet publicly available as of 2026-05-23]
+    *   undisclosed
 *   **Psyche (Blue):** Focused on freezing enemies and managing the flow of time or movement.
     *   **Haniel:** A support-oriented character with strong mental energy barriers.
     *   **Aurelia:** A tactical Esper who uses Psyche energy for precision strikes.
 *   **Lakshana (White):** The foundation of team defense and purification.
     *   **Skia:** A defensive powerhouse who can mitigate massive amounts of incoming damage.
-    *   [Information not yet publicly available as of 2026-05-23]
+    *   undisclosed
 
-(Note: Additional characters like Saki and various local Hethereau specialists have been sighted in recent updates, but their official Esper Type classifications for the 1.1 patch remain [Information not yet publicly available as of 2026-05-23].)
+(Note: Additional characters like Saki and various local Hethereau specialists have been sighted in recent updates, but their official Esper Type classifications for the 1.1 patch remain undisclosed.)
 
 ### The Esper Wheel: Understanding the Adjacency Rule
 
@@ -164,7 +164,7 @@ Acquiring characters of specific affinities requires interacting with the "Gacha
 *   **The Ichi-daime Banner:** This is the limited-time banner for **Nanally (Anima)**. 
 *   **Standard Resonance:** The permanent pool where you can find characters like Zero, Adler, and Haniel.
 
-As of May 23, 2026, players are advised to save their "Urban Vouchers" for the upcoming 1.2 patch, which is rumored to introduce the first dual-affinity Esper, though this remains [Information not yet publicly available as of 2026-05-23].
+As of May 23, 2026, players are advised to save their "Urban Vouchers" for the upcoming 1.2 patch, which is rumored to introduce the first dual-affinity Esper, though this remains undisclosed.
 
 ## Sources
 - neverness.gg — https://www.neverness.gg/

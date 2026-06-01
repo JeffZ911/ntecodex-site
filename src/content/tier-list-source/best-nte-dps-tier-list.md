@@ -128,7 +128,7 @@ Baicang (Incantation) is a specialist in attrition. He excels in long boss fight
 
 *   **Base Execute Threshold:** 10% HP.
 *   **Awakening 3 Execute Threshold:** 15% HP.
-*   **Awakening 6 Execute Threshold:** [Information not yet publicly available as of 2026-05-24].
+*   **Awakening 6 Execute Threshold:** undisclosed.
 
 ### Haniel: The Universal Buffer
 

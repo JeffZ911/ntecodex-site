@@ -69,7 +69,7 @@ Regarding the S-Class Selector priority, F2P players should pick **[Sakiri](/cha
 | :--- | :--- | :--- | :--- |
 | **Starter Four** | Zero, Mint, Adler, Haniel | Blossom / Hexed | General Story & Survival |
 | **Chiz Hypercarry** | Chiz, Zero, Haniel, Selector Pick | Blossom / Physical | High DPS & Boss Killing |
-| **Chaos Breach** | Aurelia, Zero, Adler, Mint | [Information not yet publicly available as of 2026-05-25] | AoE & Anomaly Clears |
+| **Chaos Breach** | Aurelia, Zero, Adler, Mint | — | AoE & Anomaly Clears |
 
 ### The S-Class Selector Priority
 

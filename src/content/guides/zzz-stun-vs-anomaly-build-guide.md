@@ -57,7 +57,7 @@ The following table breaks down the fundamental differences between these two pl
 | **Anomaly** | Proficiency / Mastery | Trigger Attribute Effects & Disorder | Freedom Blues, Chaos Jazz | Jane Doe, Burnice, Grace, Piper |
 | **Attack (Burst)** | ATK / Crit | High damage during Stun windows | Woodpecker Electro, Polar Metal | Ellen Joe, Zhu Yuan, Anton |
 | **Support** | Energy Regen | Buffing the team / Applying Daze | Swing Jazz | Nicole, Rina, Lucy, Caesar |
-| **Defense** | Impact / HP / DEF | Survival and Interruption | [Information not yet publicly available as of 2026-05-14] | Ben, Seth, Caesar |
+| **Defense** | Impact / HP / DEF | Survival and Interruption | — | Ben, Seth, Caesar |
 
 ## Detailed Comparison
 

@@ -100,7 +100,7 @@ To optimize your daily 10-gift limit:
 
 If you want to bypass the need to farm specific items for every character, focus on universal gifts.
 
-*   **A Handwritten Letter (+2000 AP):** This is the "gold standard" of gifts. It is universally loved by the entire cast. You can obtain these through the Warp Exchange or by completing Circle Bounties. Unlike standard gifts, some versions of the Handwritten Letter are [Information not yet publicly available as of 2026-05-24] regarding whether they bypass the daily 10-gift cap, though most players report they count toward the daily 3-per-character limit.
+*   **A Handwritten Letter (+2000 AP):** This is the "gold standard" of gifts. It is universally loved by the entire cast. You can obtain these through the Warp Exchange or by completing Circle Bounties. Unlike standard gifts, some versions of the Handwritten Letter are undisclosed regarding whether they bypass the daily 10-gift cap, though most players report they count toward the daily 3-per-character limit.
 *   **Fluffy Cotton (+400 AP):** This item is highly valued by characters like [Nanally](/characters/nanally-guide-nte). It can be generated passively through the "Compressed Boom Boom Cloud" furniture in your apartment.
 
 ### Character Gift Preferences

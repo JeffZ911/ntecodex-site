@@ -105,23 +105,23 @@ Without a confirmed kit for Mira, it is impossible to determine which of these r
 
 ### Character Rarity and Attribute [information unavailable]
 
-Since Mira is not a part of the launch roster, her rarity (S-rank or A-rank) and her elemental attribute (Cosmos, Anima, Chaos, Psyche, Incantation, or Lakshana) are [Information not yet publicly available as of 2026-05-19]. Speculation in the community suggests she might be a future Psyche or Lakshana unit, but these claims lack official confirmation from Hotta Studio.
+Since Mira is not a part of the launch roster, her rarity (S-rank or A-rank) and her elemental attribute (Cosmos, Anima, Chaos, Psyche, Incantation, or Lakshana) are undisclosed. Speculation in the community suggests she might be a future Psyche or Lakshana unit, but these claims lack official confirmation from Hotta Studio.
 
 ### Active and Passive Skills [information unavailable]
 
-The specific mechanics of Mira's "Normal Attack," "Resonance Skill," and "Ultimate Burst" are [Information not yet publicly available as of 2026-05-19]. In NTE, skills are often categorized by their ability to generate "Anomaly Energy" or their "Break" value against shields. Without a playable model, these values and their associated animations remain unknown.
+The specific mechanics of Mira's "Normal Attack," "Resonance Skill," and "Ultimate Burst" are undisclosed. In NTE, skills are often categorized by their ability to generate "Anomaly Energy" or their "Break" value against shields. Without a playable model, these values and their associated animations remain unknown.
 
 ### Best Weapons and Arcs [information unavailable]
 
-Because Mira's attribute and weapon type are unconfirmed, identifying her "Best-in-Slot" Arc is impossible. In the current version of the game, Arcs are restricted by character type. Until Mira's combat style is revealed, her recommended 5-star and 4-star weapon options are [Information not yet publicly available as of 2026-05-19].
+Because Mira's attribute and weapon type are unconfirmed, identifying her "Best-in-Slot" Arc is impossible. In the current version of the game, Arcs are restricted by character type. Until Mira's combat style is revealed, her recommended 5-star and 4-star weapon options are undisclosed.
 
 ### Optimal Team Compositions [information unavailable]
 
-Team building in Neverness to Everness relies on "Attribute Resonance" (having two characters of the same element) or "Reactive Synergies" (combining different elements for explosive effects). Since Mira's attribute is unknown, her ideal teammates and the specific buffs she would provide to a squad are [Information not yet publicly available as of 2026-05-19].
+Team building in Neverness to Everness relies on "Attribute Resonance" (having two characters of the same element) or "Reactive Synergies" (combining different elements for explosive effects). Since Mira's attribute is unknown, her ideal teammates and the specific buffs she would provide to a squad are undisclosed.
 
 ### Meta Ranking and Analysis [information unavailable]
 
-The current NTE Tier List is topped by Nanally and Sakiri due to their immense scaling in the "Urban Defense" endgame mode. Where Mira would fit into this hierarchy—whether she would be a "Tier 0" must-pull or a niche "Tier 2" support—is [Information not yet publicly available as of 2026-05-19].
+The current NTE Tier List is topped by Nanally and Sakiri due to their immense scaling in the "Urban Defense" endgame mode. Where Mira would fit into this hierarchy—whether she would be a "Tier 0" must-pull or a niche "Tier 2" support—is undisclosed.
 
 ## Related
 

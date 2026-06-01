@@ -81,7 +81,7 @@ The progression loop in Neverness to Everness is designed to reward both narrati
 
 The relationship between Hunter Level and Appraisal Level is the core of the NTE experience. As you gain Hunter EXP from various sources, your Hunter Level rises. At specific intervals—most notably at levels 20, 40, and 50—you will hit a "soft cap." At this point, your Appraisal Level must be increased through a dedicated Ascension Quest.
 
-Increasing your Appraisal Level raises the base level of all monsters in Hethereau. While this makes exploration more dangerous, it is the only way to access higher-tier materials in Anomaly Zones. For example, [Information not yet publicly available as of 2026-05-17] materials required for Level 60+ Esper Ascension only drop once you have reached the appropriate Appraisal tier.
+Increasing your Appraisal Level raises the base level of all monsters in Hethereau. While this makes exploration more dangerous, it is the only way to access higher-tier materials in Anomaly Zones. For example, undisclosed materials required for Level 60+ Esper Ascension only drop once you have reached the appropriate Appraisal tier.
 
 ### Maximizing Daily Hunter EXP
 
@@ -94,7 +94,7 @@ For players who have cleared the available Main Episodes, the Participation Task
 *   **Perform 1 City Tycoon Task:** 100 Points
 *   **Interact with a ReroRero Phone Booth:** 50 Points
 
-Reaching the maximum daily point threshold grants a total of 1,500 Hunter EXP and a small amount of [Information not yet publicly available as of 2026-05-17] currency.
+Reaching the maximum daily point threshold grants a total of 1,500 Hunter EXP and a small amount of undisclosed currency.
 
 ### Ascension Quests: Breaking the Level Cap
 

@@ -49,7 +49,7 @@ The following table illustrates the expected progression path for a standard acc
 | 40 | 2 | Access to higher-tier Arc materials. | Yes |
 | 41-49 | 2 | Elite enemies begin appearing in the open world. | No |
 | 50 | 3 | Maximum difficulty for standard farming zones. | Yes |
-| 60 | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] | [Information not yet publicly available as of 2026-05-22] |
+| 60 | — | — | — |
 
 ## Direct Answer
 
@@ -143,7 +143,7 @@ As your Hunter Level rises, you must keep your characters (Esper/Anomalists) and
 | 3 | 60 |
 | 4 | 70 |
 | 5 | 80 |
-| 6 | [Information not yet publicly available as of 2026-05-22] |
+| 6 | — |
 
 ### Understanding the City Tycoon System
 

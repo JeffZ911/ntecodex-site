@@ -56,7 +56,7 @@ Unlike many contemporary gacha games, NTE does not feature a "50/50" system for 
 | :--- | :--- | :--- |
 | **Base S-Rank Rate** | 1.87% | 1.5% |
 | **Soft Pity Trigger** | 70 Pulls (Board Modification) | 50 Pulls |
-| **Soft Pity Rate** | 19.59% | [Information not yet publicly available] |
+| **Soft Pity Rate** | 19.59% | — |
 | **Hard Pity (Guaranteed S-Rank)** | 90 Pulls | 60 Pulls |
 | **Featured Guarantee** | 100% (No 50/50) | 80 Pulls (Hard Guarantee) |
 | **A-Rank Pity** | 10 Pulls | 10 Pulls |
@@ -104,9 +104,9 @@ The Arc Research Program is where you pull for weapons, known in-game as Arcs. T
 | :--- | :--- | :--- |
 | **Journey Together (S)** | Featured S-Rank Character | 1.87% (Pre-70) / 19.59% (Post-70) |
 | **Journey Together (A)** | A-Rank Character | 22.98% |
-| **Anomalous Signal** | A-Rank Arc (Weapon) | [Information not yet publicly available] |
+| **Anomalous Signal** | A-Rank Arc (Weapon) | — |
 | **City Supplies** | EXP Materials / Credits | 75.15% |
-| **Warp Tile** | Bonus Currency (Lost Pieces) | [Information not yet publicly available] |
+| **Warp Tile** | Bonus Currency (Lost Pieces) | — |
 
 ### Pity Carryover: What Transfers and What Resets?
 

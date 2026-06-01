@@ -96,8 +96,8 @@ Giving an Esper a gift they love provides a significant multiplier to the affini
 | **Mint** | Waltz | Ramen | +50% |
 | **Nanally** | Kokoro Rider L1 | Chips | +50% |
 | **Skia** | Song of the Gladiator | [Information unavailable] | +50% |
-| **Sakiri** | [Information not yet publicly available as of 2026-05-23] | [Information not yet publicly available as of 2026-05-23] | N/A |
-| **Baicang** | [Information not yet publicly available as of 2026-05-23] | [Information not yet publicly available as of 2026-05-23] | N/A |
+| **Sakiri** | — | — | N/A |
+| **Baicang** | — | — | N/A |
 
 The cost-efficiency of these items varies. For example, Ramen is a low-cost Fons item that can be purchased in bulk at various Hethereau food stalls, making Mint one of the easiest characters to level. Conversely, items like "Song of the Gladiator" for Skia often require specific anomaly drops or higher Fons investment at specialty shops.
 

@@ -60,7 +60,7 @@ Farming in Neverness to Everness is a bifurcated process that requires players t
 The daily loop for most players involves spending Character Pixels first. You should prioritize Ascension materials if your main team has hit a level cap, followed by Hunter Guides to reach the next milestone. Once your daily Pixels are exhausted, you transition to City Tycoon activities. These do not contribute to combat power directly but provide the Fons necessary to pay for the upgrades you just farmed.
 
 ### Stamina Types Explained
-Character Pixels regenerate over time, capping at [Information not yet publicly available as of 2026-05-22]. They are the "hard" gate for character power. City Tycoon Stamina is more flexible, often resetting weekly, allowing players to binge-farm urban activities like deliveries or racing during weekends.
+Character Pixels regenerate over time, capping at undisclosed. They are the "hard" gate for character power. City Tycoon Stamina is more flexible, often resetting weekly, allowing players to binge-farm urban activities like deliveries or racing during weekends.
 
 | Material Type | Primary Location | Stamina Consumed |
 | :--- | :--- | :--- |
@@ -85,9 +85,9 @@ To farm these, you must enter Houdinii’s Magic Stage. This instance features w
 
 | Hunter Guide Tier | EXP Value | Stamina Cost |
 | :--- | :--- | :--- |
-| Rising Hunter Guide | [Information not yet publicly available as of 2026-05-22] | 20 Pixels |
-| Senior Hunter Guide | [Information not yet publicly available as of 2026-05-22] | 20 Pixels |
-| Elite Hunter Guide | [Information not yet publicly available as of 2026-05-22] | 20 Pixels |
+| Rising Hunter Guide | — | 20 Pixels |
+| Senior Hunter Guide | — | 20 Pixels |
+| Elite Hunter Guide | — | 20 Pixels |
 
 Ascension materials are more specialized. Once an Esper reaches a level cap (e.g., Level 20, 40, or 60), you must provide specific items to unlock the next bracket. These are found in Anomaly Hunts. For example, the "Golden Appleseed" is a common requirement for early-game Light-attribute Espers and is often sourced from the Bubble Can Factory challenges.
 
@@ -120,7 +120,7 @@ Once you reach Tycoon Rank 6, the Mall unlocks "Bulk Material Crates." These all
 
 | Anomaly Pilgrimage Boss | Unique Drops | Recommended Attribute |
 | :--- | :--- | :--- |
-| Morphix | The Olive Branch | [Information not yet publicly available] |
+| Morphix | The Olive Branch | — |
 | [Information unavailable] | [Information unavailable] | [Information unavailable] |
 
 ## Related

@@ -107,7 +107,7 @@ Robin’s Energy management is highly variable. If she is in a team that attacks
 
 Ruan Mei is famously F2P-friendly. Her best-in-slot F2P Light Cone is "Meshing Cogs" (a 3-star LC) or "Memories of the Past" (4-star). Her main goal is reaching 180% Break Effect, which is achievable through the "Thief of Shooting Meteor" or "Watchmaker, Master of Dream Machinations" relic sets.
 
-Robin is slightly more demanding. She requires a very high ATK stat (usually 4000+) to maximize her Ultimate's buff. While the event Light Cone "For Tomorrow's Journey" is an excellent F2P option, players who missed that event may find her harder to build. She also heavily favors the "Fleet of the Ageless" or "Lushaka, the Sunken Seas" [Information not yet publicly available as of 2026-05-13] ornaments to boost her ATK and Energy.
+Robin is slightly more demanding. She requires a very high ATK stat (usually 4000+) to maximize her Ultimate's buff. While the event Light Cone "For Tomorrow's Journey" is an excellent F2P option, players who missed that event may find her harder to build. She also heavily favors the "Fleet of the Ageless" or "Lushaka, the Sunken Seas" undisclosed ornaments to boost her ATK and Energy.
 
 ## Recommendation
 

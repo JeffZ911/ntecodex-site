@@ -46,7 +46,7 @@ From a resource perspective, starting with a limited S-Rank like Hotori allows y
 
 | Feature | A-Rank Characters | S-Rank Characters |
 | :--- | :--- | :--- |
-| **Base ATK (Lv. 1)** | [Information not yet publicly available] | [Information not yet publicly available] |
+| **Base ATK (Lv. 1)** | — | — |
 | **Traversal Ability** | Standard dash/climb | Enhanced (e.g., Blink, Wall-Run, or Air-Dash) |
 | **Skill Multipliers** | Average (100% - 150%) | High (200%+ with elemental follow-ups) |
 | **Team Synergy** | Single-element resonance | Multi-type "Esper" resonance |
@@ -176,7 +176,7 @@ Pre-registration rewards, including the Fabricated Dice and the limited-edition 
 The "Strange Encounters" beginner banner is permanent for new players. It does not expire until you have completed the 50 pulls. Once the 50th pull is made and the selector is used, the banner disappears from your Order menu.
 
 ### Do emulators work for NTE?
-[Information not yet publicly available as of 2026-05-17]. Most players prefer the native PC client for better performance and stability.
+undisclosed. Most players prefer the native PC client for better performance and stability.
 
 ### Account Linking & Safety
 Once you find your "god tier" account, immediately link it to a permanent email and enable Two-Factor Authentication (2FA) in the Hotta User Center. Rerolled accounts are often targets for recovery hacks if not properly secured.

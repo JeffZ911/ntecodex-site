@@ -137,7 +137,7 @@ As you progress into the endgame and begin optimizing your Espers' gear (known a
 *   **Cycle Rate:** This is a generation multiplier. A higher Cycle Rate means your Esper Meter fills faster with every hit. This is essential for "Support" or "Sub-DPS" characters who need to swap in, trigger a reaction, and swap out quickly.
 *   **Cycle Intensity:** This stat determines the potency of the elemental reactions themselves (e.g., how much damage the Scorch burn deals or how strong the Hexed resistance shred is). Building Cycle Intensity is vital for characters who are designated as the "Reaction Trigger" in your rotation.
 
-[Information not yet publicly available as of 2026-05-19] regarding the exact mathematical diminishing returns on Cycle Intensity, but current meta testing suggests a balanced approach between Rate and Intensity for most builds.
+undisclosed regarding the exact mathematical diminishing returns on Cycle Intensity, but current meta testing suggests a balanced approach between Rate and Intensity for most builds.
 
 ## Related
 

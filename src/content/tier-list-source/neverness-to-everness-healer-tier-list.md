@@ -118,7 +118,7 @@ Jiuyuan (S-Rank, Anima) is a fascinating case in NTE. While she is primarily des
 
 Jiuyuan’s healing is tied to her "Anima Resonance" triggers. When she participates in an elemental reaction, she restores a small percentage of the active character's HP. However, this recovery is inconsistent and cannot be relied upon as a primary source of sustain in a boss fight. She is placed in B-Tier for this list because while she offers "role compression," she fails to provide the consistent safety net required of a dedicated Survival specialist. She is best used as a "third slot" unit in teams that already have a minor shield or high damage output to end fights before health becomes an issue.
 
-[Information not yet publicly available as of 2026-05-15] regarding other specific B-Tier dedicated healers at launch. Most other characters currently available focus strictly on damage or utility without a health-restoration component.
+undisclosed regarding other specific B-Tier dedicated healers at launch. Most other characters currently available focus strictly on damage or utility without a health-restoration component.
 
 ## C Tier
 
@@ -144,7 +144,7 @@ The landscape of Hethereau is constantly shifting as players optimize their buil
 
 ### Version 1.1 Sneak Peek
 
-Looking ahead, the Version 1.1 update is expected to introduce significant changes to the support meta. The upcoming character **Lacrimosa** (S-Rank, Chaos) has already generated massive hype. Early reports suggest she will be a Chaos-element sustain unit, potentially offering a new way to interact with the "Chaos Lane" which currently lacks a dedicated high-tier healer. Alongside her, another character simply known as **Chaos** (S-Rank) is rumored to be arriving, though their specific role remains [Information not yet publicly available as of 2026-05-15].
+Looking ahead, the Version 1.1 update is expected to introduce significant changes to the support meta. The upcoming character **Lacrimosa** (S-Rank, Chaos) has already generated massive hype. Early reports suggest she will be a Chaos-element sustain unit, potentially offering a new way to interact with the "Chaos Lane" which currently lacks a dedicated high-tier healer. Alongside her, another character simply known as **Chaos** (S-Rank) is rumored to be arriving, though their specific role remains undisclosed.
 
 ### Meta Shift: Redirection vs. Raw Healing
 

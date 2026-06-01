@@ -52,7 +52,7 @@ Healers should prioritize Cartridges with Healing Bonus% or HP% main stats, depe
 | **Thea’s Night Tavern** | +10% Max HP | +20% Healing Bonus | Pure Healing/Survival |
 | **Speedy Hedgehog** | +12% Charge Efficiency | +15% Team ATK for 12s after Ultimate | Meta Utility/Buffing |
 | **Kingdom’s Guard** | +15% DEF | Increases Shield Strength by 20% and Healing by 10% | Hybrid Tank-Healers |
-| **Silent Night** | +10% Max HP | [Information not yet publicly available as of 2026-05-14] | Early Game HP Scaling |
+| **Silent Night** | +10% Max HP | — | Early Game HP Scaling |
 
 ## Detailed Explanation
 
@@ -130,7 +130,7 @@ It is recommended to farm the domain that drops both Speedy Hedgehog and a relev
 The weapon system in NTE uses Arcs, which provide massive stat boosts and unique passive effects. Healers should look for "Synthesis" and "Cognition" type Arcs.
 
 *   **Clear Skies (5-Star):** The current best-in-slot for Edgar. It increases Max HP and provides energy to the entire team when the wearer heals an ally.
-*   **[Information not yet publicly available as of 2026-05-14] (4-Star):** A solid F2P alternative that focuses on Charge Efficiency.
+*   **undisclosed (4-Star):** A solid F2P alternative that focuses on Charge Efficiency.
 *   **The Patient Observer (4-Star):** Increases the wearer's Healing Bonus based on their total DEF.
 
 ### Top Team Comps for Healers

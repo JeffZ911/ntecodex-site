@@ -137,7 +137,7 @@ Defeating these bosses is the primary way to progress your characters and your c
 
 ### Essential Upgrade Materials
 The Never-Ending Arachne is the most important boss to farm early on. Her primary drop, "Dress Sleeves of Vanity," is a required material for upgrading the active skills of Lakshana-aligned characters.
-*   **Dress Sleeves of Vanity:** Used for Level 4+ skill upgrades. [Information not yet publicly available as of 2026-05-20] drop rate per run.
+*   **Dress Sleeves of Vanity:** Used for Level 4+ skill upgrades. undisclosed drop rate per run.
 *   **Anima Shards:** Dropped by Bopp; used for weapon Ascension.
 
 ### Weekly Boss Reward Priority
@@ -150,7 +150,7 @@ Don't waste your weekly claims on the Picture Frame or minor street anomalies, a
 First-time clears of major bosses often reward S-Rank Arcs, which function as powerful equipment modifiers for your characters.
 *   **Reality Refuge:** An S-Rank Arc rewarded for defeating Arachne with an A-Rank or higher combat score. It provides a significant boost to defense when your health drops below 30%.
 *   **Raging Flames:** An S-Rank Arc that enhances Scorch damage, often obtained after clearing the Bopp encounter within a specific time limit.
-*   **Hethereau's Keeper:** A rare Arc that can be found by triggering the "Justice Executioner" event during the Bopp fight. To trigger this, you must defeat Bopp without taking more than [Information not yet publicly available as of 2026-05-20] damage.
+*   **Hethereau's Keeper:** A rare Arc that can be found by triggering the "Justice Executioner" event during the Bopp fight. To trigger this, you must defeat Bopp without taking more than undisclosed damage.
 
 | Item Name | Rarity | Use Case | Frequency |
 | :--- | :--- | :--- | :--- |

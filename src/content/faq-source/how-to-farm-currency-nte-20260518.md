@@ -132,12 +132,12 @@ For a massive early-game boost, players can hunt down 9 Secret Vaults hidden acr
 | **Tower (Right-Bottom Point)** | 200,000 Fons |
 | **Midas Arc Building** | 100,000 Fons |
 | **Tunnel Entrance (Climbing Area)** | 3,750 Fons |
-| **Bridge Crossings Park** | [Information not yet publicly available] |
-| **Davidia Avenue Alley** | [Information not yet publicly available] |
-| **New Herland Garage** | [Information not yet publicly available] |
-| **Illusion Town Southwest** | [Information not yet publicly available] |
-| **Hethereau City Center** | [Information not yet publicly available] |
-| **Old Town Warehouse** | [Information not yet publicly available] |
+| **Bridge Crossings Park** | — |
+| **Davidia Avenue Alley** | — |
+| **New Herland Garage** | — |
+| **Illusion Town Southwest** | — |
+| **Hethereau City Center** | — |
+| **Old Town Warehouse** | — |
 
 ### Specialty Farming: Carrota and Mhm! Coins
 

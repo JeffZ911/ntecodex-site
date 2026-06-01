@@ -63,7 +63,7 @@ Neverness to Everness features three primary energy systems that dictate differe
 | **Character Pixels** | Domain Farming / Bosses | 1 per 6 minutes | Housing Upgrades (Eden Apartment) |
 | **City Stamina** | Tycoon / Business Activities | Weekly Reset (Mon 5 AM) | City Tycoon Rank Milestones |
 | **Combat Energy** | Ultimates / Esper Skills | Active Combat Actions | Gear Stats / Elemental Reactions |
-| **Exploration Stamina** | Sprinting / Climbing | Rapid (When not moving) | [Information not yet publicly available as of 2026-05-14] |
+| **Exploration Stamina** | Sprinting / Climbing | Rapid (When not moving) | — |
 
 ## Detailed Explanation
 
@@ -123,7 +123,7 @@ Different characters have unique interactions with exploration stamina. For exam
 *   **[Nanally](/characters/nanally-guide-nte):** Known for her superior wall-climbing mechanics, she consumes less stamina while ascending vertical surfaces, making her ideal for reaching high-altitude Anomalies.
 *   **Skia:** Offers horizontal movement advantages, allowing for faster sprinting with lower stamina consumption over long distances.
 
-Currently, there are no permanent upgrades to the exploration stamina bar itself [Information not yet publicly available as of 2026-05-14], but using food buffs or specific character passives can temporarily reduce the consumption rate or increase the recovery speed while standing still.
+Currently, there are no permanent upgrades to the exploration stamina bar itself undisclosed, but using food buffs or specific character passives can temporarily reduce the consumption rate or increase the recovery speed while standing still.
 
 ### Refill Items and Currency
 

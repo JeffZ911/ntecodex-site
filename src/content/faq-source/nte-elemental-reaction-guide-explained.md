@@ -112,7 +112,7 @@ The Esper Meter is the circular gauge next to each character's portrait. You can
 *   **Dodge Counters:** Provide a significant burst of meter.
 *   **Perfect Parries:** Instantly fill the character's Esper Meter to 100%.
 
-The **Cycle Rate** stat is a multiplier that dictates how quickly these actions fill the meter. High-tier sub-DPS characters like Zero are valued because they can often fill their meter instantly using specific skills, allowing for rapid-fire reaction chains. Another stat, **Cycle Intensity**, enhances the potency of the resulting reactions, though the exact scaling formulas are [Information not yet publicly available as of 2026-05-15].
+The **Cycle Rate** stat is a multiplier that dictates how quickly these actions fill the meter. High-tier sub-DPS characters like Zero are valued because they can often fill their meter instantly using specific skills, allowing for rapid-fire reaction chains. Another stat, **Cycle Intensity**, enhances the potency of the resulting reactions, though the exact scaling formulas are undisclosed.
 
 ### Team Building Strategy: The 'Reaction Lane' Concept
 
@@ -148,7 +148,7 @@ As of the 1.0 launch, characters are ranked largely by their ability to enable o
 
 To keep your rotations fluid, look for Arcs (weapons) that provide flat Cycle Rate or energy refund mechanics.
 
-*   **[Information not yet publicly available as of 2026-05-15]:** High-rarity Arcs often feature a "Resonance" passive that grants 10-15% Cycle Rate after a successful Dodge Counter.
+*   **undisclosed:** High-rarity Arcs often feature a "Resonance" passive that grants 10-15% Cycle Rate after a successful Dodge Counter.
 *   **A-Rank Alternatives:** Many A-Rank Arcs available from the "Hethereau General Store" provide "Energy on Entry," which can help characters with high Ultimate costs stay in the rotation.
 *   **Cartridge Sets:** The **Fireflies and the Forest** cartridge set is currently the best-in-slot for Anima DPS characters, providing both Anima DMG and Crit DMG, though it does not directly affect Cycle Rate. For pure utility, sets that provide "Unison Energy" are preferred for your support slots.
 

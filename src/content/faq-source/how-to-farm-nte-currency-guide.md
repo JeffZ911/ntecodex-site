@@ -78,7 +78,7 @@ The primary way to farm premium currency (Annulith) is through Daily Participati
 
 The foundation of your NTE income is the Daily Participation system. By completing standard gameplay activities—such as finishing a bounty or spending City Stamina—you earn points toward five daily reward chests. 
 
-Reaching 100 points daily is mandatory for any player looking to maximize their Annulith income. Each chest provides a combination of Fons and Annulith, totaling [Information not yet publicly available as of 2026-05-22] Annulith per day.
+Reaching 100 points daily is mandatory for any player looking to maximize their Annulith income. Each chest provides a combination of Fons and Annulith, totaling undisclosed Annulith per day.
 
 Circle Bounties serve as your main combat-focused daily task. You can complete up to three bounties per day to earn Beetle Coins and character EXP materials. These are located at designated "Circle" kiosks around the city and usually involve clearing a specific group of Anomalies or supernatural threats in a timed encounter.
 
@@ -102,10 +102,10 @@ To maximize this, you should prioritize unlocking new recipe slots and hiring hi
 
 | Tycoon Level | Fons Per Hour (Base) | Max Storage Capacity |
 | :--- | :--- | :--- |
-| Level 1-5 | [Information not yet publicly available as of 2026-05-22] | 50,000 Fons |
-| Level 6-10 | [Information not yet publicly available as of 2026-05-22] | 150,000 Fons |
-| Level 11-15 | [Information not yet publicly available as of 2026-05-22] | 500,000 Fons |
-| Level 16+ | [Information not yet publicly available as of 2026-05-22] | 1,000,000+ Fons |
+| Level 1-5 | — | 50,000 Fons |
+| Level 6-10 | — | 150,000 Fons |
+| Level 11-15 | — | 500,000 Fons |
+| Level 16+ | — | 1,000,000+ Fons |
 
 ### High-Yield Weekly Activities: Pink Paws Heist & World Bosses
 
@@ -140,7 +140,7 @@ The Prime Circle is a weekly boss challenge. While it doesn't provide much Annul
 ### Resource Conversion: Using Warp Pieces and Lost Pieces
 
 When you perform summons (Warps), you will occasionally receive "Lost Pieces" (for duplicate lower-rarity pulls) or "Warp Pieces" (for higher-rarity duplicates). These can be traded in the Exchange Shop for:
-*   **Direct Annulith:** [Information not yet publicly available as of 2026-05-22].
+*   **Direct Annulith:** undisclosed.
 *   **Limited Warp Tickets:** Highly recommended to save your pieces for these.
 *   **Rare Upgrade Materials:** Only purchase these if you are in immediate need of a breakthrough and have an excess of pieces.
 

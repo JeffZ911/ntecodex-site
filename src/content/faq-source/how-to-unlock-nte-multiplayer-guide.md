@@ -150,7 +150,7 @@ However, there are competitive elements in the **Street Racing** mode and certai
 
 According to the latest developer roadmap, the team is looking into expanding the "Tycoon" aspect of multiplayer. This includes the ability to visit friends' customized apartments and businesses, as well as joint-venture opportunities where multiple players can invest in a single large-scale commercial property in the Hethereau business district.
 
-The developers have also hinted at a "Raid" style Anomaly event that will require coordinated teams of eight players, though the release date for this feature remains [Information not yet publicly available as of 2026-05-23].
+The developers have also hinted at a "Raid" style Anomaly event that will require coordinated teams of eight players, though the release date for this feature remains undisclosed.
 
 For now, focusing on reaching **Hunter Level 8** and finishing **Prologue II** is your priority. Once those are out of the way, the full social potential of the city opens up, allowing you to experience the mysteries of Hethereau as a team.
 

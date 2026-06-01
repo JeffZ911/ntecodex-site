@@ -100,7 +100,7 @@ There are six primary Duo reactions in the game. Each pair of adjacent elements 
 | :--- | :--- | :--- |
 | **Remora** | Lakshana + Cosmos | Creates a gravitational pull that groups small enemies. |
 | **Blossom** | Cosmos + Anima | Deals AoE damage and applies a healing-over-time effect to the active character. |
-| **Hexed** | Anima + Incantation | Reduces enemy resistance to elemental damage for [Information not yet publicly available as of 2026-05-23] seconds. |
+| **Hexed** | Anima + Incantation | Reduces enemy resistance to elemental damage for — seconds. |
 | **Scorch** | Incantation + Chaos | Triggers a high-damage explosion with a high chance to Burn. |
 | **Nova** | Chaos + Psyche | Deals massive single-target damage and increases Critical Rate for the next 5 seconds. |
 | **Stain** | Psyche + Lakshana | Applies a "Corrosion" debuff that deals damage based on the enemy's Max HP. |
@@ -118,7 +118,7 @@ Not all characters are created equal when it comes to the Esper Cycle. Some char
 
 On the other hand, characters like **Minthe** or **Sachi** function better as "finishers." Their Switch Entry skills—the attacks they perform the moment they are swapped in during a Cycle—have higher damage multipliers. When building a team, you should look for a balance: one character who can fill their meter instantly (often through parries or fast skills) and another who can capitalize on the resulting reaction.
 
-For example, in a "Scorch" focused team, you might use an Incantation character to apply the initial element and build the meter, then swap to a Chaos character like [Information not yet publicly available as of 2026-05-23] to trigger the explosion.
+For example, in a "Scorch" focused team, you might use an Incantation character to apply the initial element and build the meter, then swap to a Chaos character like undisclosed to trigger the explosion.
 
 ### Advanced Rotation Strategy: The 'Soup' vs. 'Lane' Comps
 

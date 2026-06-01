@@ -110,7 +110,7 @@ Appraisal Level acts as a gate. If you reach Hunter Level 20 but do not complete
 | 20–39 | 1 | 40 | 40 |
 | 40–49 | 2 | 50 | 50 |
 | 50–59 | 3 | 60 | 60 |
-| 60+ | 4 | [Information not yet publicly available] | [Information not yet publicly available] |
+| 60+ | 4 | — | — |
 
 ### Optimizing Character Pixels and City Stamina
 

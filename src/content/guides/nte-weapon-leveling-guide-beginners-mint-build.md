@@ -44,12 +44,12 @@ Your maximum weapon level is tied directly to your Appraisal Level (AL). Your AL
 
 | Level Range | Required Materials | Beetle Coin Cost |
 | :--- | :--- | :--- |
-| 1 - 20 | Dye (Common), [Quantity not yet publicly available] | [Information not yet publicly available] |
-| 21 - 40 | Dye (Uncommon), Bubble Can Materials | [Information not yet publicly available] |
-| 41 - 50 | Dye (Rare), Bubble Can Materials | [Information not yet publicly available] |
-| 51 - 60 | Dye (Rare), Advanced Bubble Can Materials | [Information not yet publicly available] |
-| 61 - 70 | Dye (Epic), Advanced Bubble Can Materials | [Information not yet publicly available] |
-| 71 - 80 | Dye (Epic), Premium Bubble Can Materials | [Information not yet publicly available] |
+| 1 - 20 | Dye (Common), [Quantity not yet publicly available] | — |
+| 21 - 40 | Dye (Uncommon), Bubble Can Materials | — |
+| 41 - 50 | Dye (Rare), Bubble Can Materials | — |
+| 51 - 60 | Dye (Rare), Advanced Bubble Can Materials | — |
+| 61 - 70 | Dye (Epic), Advanced Bubble Can Materials | — |
+| 71 - 80 | Dye (Epic), Premium Bubble Can Materials | — |
 
 ### Appraisal Level Milestones for Weapon Ascension
 

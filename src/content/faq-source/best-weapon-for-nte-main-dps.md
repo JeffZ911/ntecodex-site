@@ -64,7 +64,7 @@ The current meta for Neverness to Everness Main DPS characters is defined by thr
 
 *   **Best Overall (Solid Type):** **Marching Beyond Time** is the premier choice for Solid-type DPS characters like [Hotori](/characters/hotori-best-team-nte). It offers a high CRIT Rate substat and the "Wastelab" passive, which stacks ATK and Ultimate CRIT DMG based on the frequency of Redirect and Support Skills.
 *   **Best Sustained DPS (Liquid Type):** **Fluff of Fleetness** is the unrivaled choice for Liquid-type "selfish" damage dealers like Mint. It provides a massive 44% CRIT DMG substat and an ATK buff that scales the longer the character stays on the field, reaching its peak after 5 seconds.
-*   **Best Boss-Slayer (Plasma Type):** **[Information not yet publicly available as of 2026-05-24]** (Plasma) is currently considered the top option for elite encounters due to its specialized damage multipliers against bosses and its ability to boost Basic Attack and Critical Riposte damage.
+*   **Best Boss-Slayer (Plasma Type):** **undisclosed** (Plasma) is currently considered the top option for elite encounters due to its specialized damage multipliers against bosses and its ability to boost Basic Attack and Critical Riposte damage.
 *   **Character-Specific BiS:** For [Nanally](/characters/nanally-guide-nte), **Song of the Whale** (Plasma) provides significant ATK and damage bonuses against "Broken" enemies, while Hathor benefits most from **Raging Flames** (Plasma), which boosts Lakshana-specific damage.
 
 ### Top 3 DPS Arcs Comparison (May 2026)
@@ -153,7 +153,7 @@ Matching your Arc's passive to these cycles—such as using an Arc that boosts d
 ### Best Cartridge Sets for Main DPS
 
 Arcs should be paired with the correct **Cartridges** (NTE's version of gear sets) to maximize efficiency:
-*   **[Information not yet publicly available as of 2026-05-24] Set:** Often used with Marching Beyond Time to further stack CRIT DMG.
+*   **undisclosed Set:** Often used with Marching Beyond Time to further stack CRIT DMG.
 *   **"Fireflies and the Forest" (Speculative):** Many players pair Liquid Arcs with sets that boost Elemental DMG or provide shields during long on-field durations.
 *   **Module Synergy:** Equipping "Type III Modules" in your character's console can increase the effectiveness of certain Arcs by up to 8% per module.
 

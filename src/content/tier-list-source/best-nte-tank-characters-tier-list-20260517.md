@@ -165,7 +165,7 @@ The release of [Hotori](/characters/hotori-best-team-nte) (Cosmos) on May 13, 20
 
 ### Future Tank Outlook: Lacrimosa Rumors
 
-[Information not yet publicly available as of 2026-05-17] regarding the rumored character Lacrimosa, but community leaks suggest a "Lakshana" element tank might be arriving in the Version 1.1 update. If true, this could introduce a new mechanic centered around "Damage Reflection," potentially challenging Fadia's spot at the top of the S Tier.
+undisclosed regarding the rumored character Lacrimosa, but community leaks suggest a "Lakshana" element tank might be arriving in the Version 1.1 update. If true, this could introduce a new mechanic centered around "Damage Reflection," potentially challenging Fadia's spot at the top of the S Tier.
 
 ### Patch Notes Summary for Defensive Stats (Version 1.0.2)
 

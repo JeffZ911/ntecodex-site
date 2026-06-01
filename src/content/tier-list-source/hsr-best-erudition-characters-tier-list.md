@@ -52,7 +52,7 @@ In the current meta, Pure Fiction remains the "home" of the Erudition Path. A ch
 
 ### The Impact of Novaflare Buffs
 
-[Information not yet publicly available as of 2026-05-14]
+undisclosed
 
 | Character | Element | Rarity | Primary Role |
 | :--- | :--- | :--- | :--- |
@@ -74,13 +74,13 @@ In the current meta, Pure Fiction remains the "home" of the Erudition Path. A ch
 
 The S Tier is reserved for characters who define the meta. These units are not just powerful; they are transformative, often allowing players to ignore certain mechanics or clear content with significantly less effort than other paths.
 
-### [Information not yet publicly available as of 2026-05-14]: The New Gold Standard
+### undisclosed: The New Gold Standard
 
-[Information not yet publicly available as of 2026-05-14]
+undisclosed
 
-### [Information not yet publicly available as of 2026-05-14]: Wind Weakness Specialist
+### undisclosed: Wind Weakness Specialist
 
-[Information not yet publicly available as of 2026-05-14]
+undisclosed
 
 ## A Tier
 
@@ -102,7 +102,7 @@ In Pure Fiction, Jade is a monster. Her Ultimate deals massive Quantum damage to
 | Herta | Constant Ice AoE triggers Jade's charges instantly. | High (PF King) |
 | Robin | Team-wide DMG and ATK buffs during Concerto. | High (All Modes) |
 | Topaz & Numby | Increases FUA damage taken by enemies. | Moderate (Single Target) |
-| [Information Unavailable] | [Information not yet publicly available as of 2026-05-14] | [Information Unavailable] |
+| [Information Unavailable] | — | [Information Unavailable] |
 
 ### Rappa: Breaking the Imaginary Barrier
 
@@ -165,7 +165,7 @@ The transition into Version 4.x has introduced several mechanical shifts that ha
 
 ### The Rise of Novaflares
 
-[Information not yet publicly available as of 2026-05-14]
+undisclosed
 
 ### Meta Shift: Memosprites and Elation
 
@@ -175,7 +175,7 @@ The introduction of "Memosprites" has changed how players approach team building
 
 | Feature | Impact on Erudition |
 | :--- | :--- |
-| Novaflare System | [Information not yet publicly available as of 2026-05-14] |
+| Novaflare System | — |
 | Memosprite Mechanics | Favors high-frequency attackers (Jade, FUAs). |
 | Pure Fiction HP Scaling | Enemies now have [exact value pending official confirmation]% more HP. |
 | New Path: Remembrance | Massive buffs for Ice Erudition units (Herta). |

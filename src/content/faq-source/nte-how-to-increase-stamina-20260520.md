@@ -117,7 +117,7 @@ Not all characters interact with the stamina system in the same way. Choosing th
 
 *   **Nanally:** Known for her high-speed traversal, Nanally has a unique ability to run vertically up walls. While this consumes yellow stamina rapidly, the sheer speed at which she covers distance makes her more efficient than standard climbing for short-to-medium heights. Her banner, "The Ichi-daime," is a high priority for players focused on urban exploration.
 *   **Skia:** Skia is the premier "stamina-saver" for verticality. When Skia enters her shadow form to climb, she consumes zero stamina for a set duration. This allows her to scale heights that would be impossible for other characters with a low-level stamina bar.
-*   **[Information not yet publicly available as of 2026-05-20]:** Future character leaks suggest a character capable of horizontal air-dashing that uses a flat cost of stamina rather than a drain over time, though this remains unconfirmed.
+*   **undisclosed:** Future character leaks suggest a character capable of horizontal air-dashing that uses a flat cost of stamina rather than a drain over time, though this remains unconfirmed.
 
 ## Related
 
@@ -137,7 +137,7 @@ Increasing your stamina via the Eden Apartment is only the first step. Proper ma
 When decorating your apartment, prioritize these items to maximize your resource efficiency:
 1.  **Dream Weaver's Knot:** Essential for the +30 Character Pixel cap.
 2.  **Little Cloud:** A secondary but vital boost for energy storage.
-3.  **[Information not yet publicly available as of 2026-05-20]:** A rumored furniture set from the "Neon District" event is expected to provide a slight boost to the regeneration rate of yellow stamina.
+3.  **undisclosed:** A rumored furniture set from the "Neon District" event is expected to provide a slight boost to the regeneration rate of yellow stamina.
 
 ## Sources
 

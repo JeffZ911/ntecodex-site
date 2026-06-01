@@ -65,7 +65,7 @@ Each character in NTE is attuned to one of six elements. These elements determin
 | **Incantation** | Purple | Occult and Hexes | [Sakiri](/characters/sakiri-nte-free-5-star-guide) |
 | **Chaos** | Red | Destruction and Entropy | [Nanally](/characters/nanally-guide-nte), [Hotori](/characters/hotori-best-team-nte) |
 | **Psyche** | Blue | Mental and Illusion | Chizuru |
-| **Lakshana** | Silver/White | Purity and Form | [Information not yet publicly available as of 2026-05-22] |
+| **Lakshana** | Silver/White | Purity and Form | — |
 
 ### Understanding the Esper Cycle Wheel & Adjacency
 

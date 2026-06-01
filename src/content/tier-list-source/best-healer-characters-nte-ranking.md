@@ -58,7 +58,7 @@ Role compression refers to a single character fulfilling multiple roles within a
 | **Tank/Redirector** | Damage Sharing | Endgame Survival | Damage Mitigation |
 
 **Base HP and Healing Scaling Stats (Estimated for Level 80)**
-*   **Jiuyuan:** 14,200 Base HP | Scaling: [Information not yet publicly available as of 2026-05-20]
+*   **Jiuyuan:** 14,200 Base HP | Scaling: undisclosed
 *   **Fadia:** 18,500 Base HP | Scaling: % of Max HP redirected
 *   **Edgar:** 12,800 Base HP | Scaling: Flat + % of ATK
 *   **Adler:** 15,100 Base HP | Scaling: % of DEF for Shields

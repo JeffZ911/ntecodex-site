@@ -197,7 +197,7 @@ The fastest way to gain Hunter EXP is by completing the Main Story missions foll
 Character Pixels are the stamina resource in Neverness to Everness. They are consumed when you claim rewards from Anomaly Zones or world bosses. They regenerate over time, so ensure you use them daily to avoid hitting the cap.
 
 **Can I reset character levels?**
-[Information not yet publicly available as of 2026-05-16]. Currently, there is no known mechanic to refund resources spent on character levels, so choose your upgrades carefully.
+undisclosed. Currently, there is no known mechanic to refund resources spent on character levels, so choose your upgrades carefully.
 
 ### Combat and Build FAQs
 

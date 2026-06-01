@@ -89,7 +89,7 @@ Jiuyuan serves as a powerful alternative to Sakiri, particularly in **Blossom (A
 For High Risk Commissions where boss damage can be lethal, Adler is the top-tier shielder. His shields scale directly with his DEF stat, providing a massive health buffer that prevents one-shot mechanics. 
 
 **Adler’s Shield Scaling [estimated values]:**
-*   **Base Shield:** [Information not yet publicly available as of 2026-05-25]
+*   **Base Shield:** undisclosed
 *   **DEF Scaling:** [exact value pending official confirmation]
 *   **Utility:** Applies Incantation DoT (Damage over Time) to attackers.
 
@@ -110,7 +110,7 @@ B-Tier units are functional but are generally overshadowed by S and A-Tier optio
 ### Mint: The Anima Battery
 Mint serves as a decent energy battery, specifically for Anima-heavy teams. Her primary role is to feed energy to "hungry" DPS units like Nanally. 
 
-*   **Energy Generation:** [Information not yet publicly available as of 2026-05-25]
+*   **Energy Generation:** undisclosed
 *   **CC Capability:** Minimal (Slow effect only).
 *   **Damage Ceiling:** Low.
 
@@ -141,7 +141,7 @@ The meta of Neverness to Everness has shifted dramatically following the May 202
 
 1.  **Hotori's Impact:** Her arrival has slightly lowered the absolute dominance of Sakiri. While gathering is still important, the ability to stop the clock entirely is often more beneficial for meeting 3-star requirements.
 2.  **The Blossom Meta:** The synergy between Nanally (DPS) and supports like Hotori and Jiuyuan has created a new "ceiling" for endgame damage. Teams focusing on Anima + Cosmos reactions are currently outperforming traditional raw ATK builds.
-3.  **Stagger Bar Adjustments:** Recent balance tweaks have increased the difficulty of breaking enemy guards. This has boosted the value of "Break" utility in supports, leading to increased usage of units like Daffodill in sub-support roles [Information not yet publicly available as of 2026-05-25].
+3.  **Stagger Bar Adjustments:** Recent balance tweaks have increased the difficulty of breaking enemy guards. This has boosted the value of "Break" utility in supports, leading to increased usage of units like Daffodill in sub-support roles undisclosed.
 4.  **Upcoming Banners:** The community is currently anticipating the release of "Lacrimosa." Speculation suggests she may be a Psyche or Chaos-aligned support designed to challenge Hotori's current dominance in the ranking.
 
 As the game continues to evolve, the value of supports will remain tied to their ability to interact with the Esper Cycle. For now, focusing on Hotori, Sakiri, and the highly accessible Haniel will provide the strongest foundation for any endgame-bound player.

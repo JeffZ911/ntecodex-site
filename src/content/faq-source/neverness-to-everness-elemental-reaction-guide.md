@@ -88,7 +88,7 @@ If your active character is an Anima element (like [Nanally](/characters/nanally
 
 You cannot trigger an Esper Cycle at will; you must first build the Esper Meter for the character you wish to bring in.
 *   **Normal Attacks:** Provide the lowest amount of Esper Meter generation.
-*   **Active Skills:** Provide moderate generation (usually [Information not yet publicly available as of 2026-05-20]% per cast).
+*   **Active Skills:** Provide moderate generation (usually undisclosed per cast).
 *   **Parrying:** A successful parry is the most efficient way to fight. Performing a "Perfect Parry" instantly grants the active character's teammates a massive boost to their Esper Meters, often filling them to 100% immediately.
 
 Once the meter is full, the character portrait glows. Pressing the corresponding swap key (or tapping the portrait) executes the Esper Cycle.
@@ -104,7 +104,7 @@ Duo Cycles are the bread and butter of your combat rotation. Each pair of adjace
 | **Hexed** | Incantation + Chaos | Applies a curse that triggers an extra shadow explosion every time the active character hits the enemy. | 6 Seconds |
 | **Scorch** | Chaos + Psyche | Deals massive Fire DoT (Damage over Time) and reduces the enemy's attack speed. | 12 Seconds |
 | **Nova** | Psyche + Lakshana | Attaches a psychic bomb to the target that explodes after a short delay for massive AoE damage. | 4 Seconds |
-| **Stain** | Lakshana + Cosmos | Applies a "Vulnerability" debuff, increasing all damage taken by the enemy by [Information not yet publicly available as of 2026-05-20]%. | 10 Seconds |
+| **Stain** | Lakshana + Cosmos | Applies a "Vulnerability" debuff, increasing all damage taken by the enemy by —. | 10 Seconds |
 
 **Tactical Tip:** Blossom is currently considered the strongest Duo reaction for clearing mobs due to the turret's high fire rate, especially when using characters like Nanally and Jiuyuan who can further buff Anima-related damage.
 
@@ -119,7 +119,7 @@ When you cycle through these three elements in any order (as long as they are ne
 
 #### 2. The Bottom Trio: Discord (Incantation, Chaos, Psyche)
 When you cycle through these three elements in order (e.g., Incantation -> Chaos -> Psyche), you trigger **Discord**.
-*   **Effect:** Deals massive Stagger damage (breaking the enemy's shield/posture) and shreds Physical Resistance by [Information not yet publicly available as of 2026-05-20]%.
+*   **Effect:** Deals massive Stagger damage (breaking the enemy's shield/posture) and shreds Physical Resistance by undisclosed.
 *   **Best For:** Boss fights where breaking the enemy's "Anomalous Guard" is required to deal real damage.
 
 ### Optimizing Team Composition for Reactions
@@ -141,10 +141,10 @@ To help you build your team, here are the elements for current popular character
 
 *   **Cosmos:** Zero, Hotori
 *   **Anima:** Nanally, Jiuyuan
-*   **Incantation:** [Information not yet publicly available as of 2026-05-20]
-*   **Chaos:** [Information not yet publicly available as of 2026-05-20]
-*   **Psyche:** [Information not yet publicly available as of 2026-05-20]
-*   **Lakshana:** [Information not yet publicly available as of 2026-05-20]
+*   **Incantation:** undisclosed
+*   **Chaos:** undisclosed
+*   **Psyche:** undisclosed
+*   **Lakshana:** undisclosed
 
 *(Note: As of May 2026, many newer characters have been introduced, but the core synergy between the initial release cast like Nanally and Zero remains the baseline for understanding the Esper Wheel.)*
 

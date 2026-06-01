@@ -112,9 +112,9 @@ F2P players should prioritize Arcs that offer universal utility. **Oraora!** is 
 | :--- | :--- | :--- | :--- |
 | **Nanally** | Ready-Ready | Plasma | 24% CRIT Rate; boosts Basic Attack/Riposte damage. |
 | **Zero (MC)** | Day Off | Solid | Increases Charge Efficiency and grants energy on kills. |
-| **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | [Information not yet publicly available as of 2026-05-16] | Synthesis | Buffs team ATK when enemies are crowd-controlled. |
+| **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** | — | Synthesis | Buffs team ATK when enemies are crowd-controlled. |
 | **Hotori** | Marching Beyond Time | Solid | High CRIT Rate and ATK scaling for Cosmos nuking. |
-| **Daffodil** | [Information not yet publicly available as of 2026-05-16] | Gas | Increases Chaos DMG and Break Intensity. |
+| **Daffodil** | — | Gas | Increases Chaos DMG and Break Intensity. |
 
 ## Best Disks (Cartridges)
 

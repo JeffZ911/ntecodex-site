@@ -112,7 +112,7 @@ Another top-tier option is the **Camellia Society (Synthesis)** Arc. This weapon
 
 Utility Arcs focus on team-wide buffs or summoning assistance. **Hethereau's Keeper (Plasma)** is a standout for summoner-style play. It increases ATK and damage to bosses, but its unique feature is summoning "Officer Whisker," an anomaly that assists in combat by dealing damage equal to a percentage of the wearer's ATK. This is exceptionally strong on Sakiri to help manage crowd control while adding off-field pressure.
 
-For F2P players, **Umbrella** is a reliable A-Rank choice for defensive utility, often used on Adler to bolster his shielding capabilities. Another recommended A-Rank Arc for consistent DPS is [Information not yet publicly available as of 2026-05-13], which provides a steady damage increase without complex activation requirements.
+For F2P players, **Umbrella** is a reliable A-Rank choice for defensive utility, often used on Adler to bolster his shielding capabilities. Another recommended A-Rank Arc for consistent DPS is undisclosed, which provides a steady damage increase without complex activation requirements.
 
 ### Top Tier Arcs Overview
 
@@ -135,7 +135,7 @@ The "Console" system is NTE’s version of gear or artifacts. It consists of a g
 
 To maximize a character's potential, you must fit Modules into their unique grid to activate 2-piece and 4-piece Cartridge set bonuses. The system is remarkably transparent; all sub-stats on a Module are visible before you spend resources to upgrade them, allowing you to plan your builds with precision.
 
-Farming for high-rarity Orange Modules requires spending [Information not yet publicly available as of 2026-05-13] (stamina) in the Rabbit Hole Anomaly Zone. These zones are combat challenges that drop specific Cartridge sets based on the day of the week.
+Farming for high-rarity Orange Modules requires spending undisclosed (stamina) in the Rabbit Hole Anomaly Zone. These zones are combat challenges that drop specific Cartridge sets based on the day of the week.
 
 ### Best Early-Game Cartridge Sets
 
@@ -222,7 +222,7 @@ Rerolling is possible but time-consuming. However, the game provides a "Standard
 Fons is the primary currency for purchasing vehicle parts, character outfits, and property in Hethereau. You earn Fons by completing city commissions, winning street races, or managing businesses in the "City Tycoon" simulation mode.
 
 **What is the best way to spend Carrota Coins in the Module shop?**
-[Information not yet publicly available as of 2026-05-13].
+undisclosed.
 
 ## Sources
 

@@ -84,8 +84,8 @@ While premium banners offer powerful options, you can obtain free S-Rank Arcs th
 
 | Arc Name | Rank | Type | Best For | Key Passive |
 | :--- | :--- | :--- | :--- | :--- |
-| [Information not yet publicly available as of 2026-05-23] | S | Liquid | Mint | Increases Anima DMG after dodging. |
-| [Information not yet publicly available as of 2026-05-23] | S | Plasma | Nanally | Boosts CRIT Rate for ranged attacks. |
+| — | S | Liquid | Mint | Increases Anima DMG after dodging. |
+| — | S | Plasma | Nanally | Boosts CRIT Rate for ranged attacks. |
 | Clear Skies | A | Gas | Esper Zero | Increases Energy Regeneration. |
 | Oraora! | A | Solid | Any DPS | Flat ATK increase after using a Skill. |
 
@@ -108,8 +108,8 @@ For Anima DPS characters like Mint and Nanally, the priority is maximizing their
 
 ### Cartridge Set Bonuses for Beginners
 
-*   **[Information not yet publicly available as of 2026-05-23]**: (2-Piece) Increases Anima DMG by 15%. (4-Piece) Increases CRIT Rate by 10% for 8 seconds after an Elemental Skill.
-*   **[Information not yet publicly available as of 2026-05-23]**: (2-Piece) Increases Cycle Intensity by 20%. (4-Piece) Swapping characters grants the incoming Esper a 15% ATK buff.
+*   **undisclosed**: (2-Piece) Increases Anima DMG by 15%. (4-Piece) Increases CRIT Rate by 10% for 8 seconds after an Elemental Skill.
+*   **undisclosed**: (2-Piece) Increases Cycle Intensity by 20%. (4-Piece) Swapping characters grants the incoming Esper a 15% ATK buff.
 
 ### Module Stat Priority by Role
 

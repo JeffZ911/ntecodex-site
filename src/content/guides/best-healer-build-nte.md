@@ -66,7 +66,7 @@ The following table outlines Edgar's baseline attributes at the current level ca
 | HP | 16,362 |
 | ATK | 421 |
 | DEF | 824 |
-| Cycle Intensity | [Information not yet publicly available as of 2026-05-14] |
+| Cycle Intensity | — |
 | Crit Rate | 5% |
 | Crit DMG | 50% |
 
@@ -111,7 +111,7 @@ For F2P players or those just starting their journey in Hethereau, the **B-Rank 
 | :--- | :--- | :--- | :--- |
 | **Call of the Twisted City** | A-Rank | HP 37.5% | +12%–20% Healing Bonus for 10s after Redirect Skill. |
 | **Mind Royale** | A-Rank | [Value pending] | Grants 10 Ultimate Energy on Redirect Skill cast (20s CD). |
-| **Your Happiness is Priceless** | [Information not yet publicly available as of 2026-05-14] | [Information not yet publicly available as of 2026-05-14] | [Information not yet publicly available as of 2026-05-14] |
+| **Your Happiness is Priceless** | — | — | — |
 | **Umbrella** | B-Rank | HP % | Increases base HP and provides basic sustain. |
 
 ## Best Disks (Artifacts)

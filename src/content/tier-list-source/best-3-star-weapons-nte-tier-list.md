@@ -68,7 +68,7 @@ Resource efficiency is also a major factor. The following chart outlines the est
 | :--- | :--- | :--- |
 | **Level 1-20** | 5,000 | Basic Annulith |
 | **Level 20-40** | 15,000 | Refined Annulith |
-| **Level 40-60** | 45,000 | [Information not yet publicly available as of 2026-05-17] |
+| **Level 40-60** | 45,000 | — |
 
 ## S Tier
 
@@ -126,7 +126,7 @@ Watch Your Heads! (Synthesis type) is a highly specialized weapon. It boosts dam
 ![B Tier](/img/best-3-star-weapons-nte-tier-list/inline-4.webp)
 
 
-B-Tier Arcs are "placeholders." They are safe to level to 40 to help you progress through the main story, but you should avoid spending high-level Ascension materials (like [Information not yet publicly available as of 2026-05-17]) on them.
+B-Tier Arcs are "placeholders." They are safe to level to 40 to help you progress through the main story, but you should avoid spending high-level Ascension materials (like undisclosed) on them.
 
 ### Shiny Days: Energy Management
 
@@ -169,7 +169,7 @@ Dismantling Arcs is a necessary part of resource management. If you have already
 
 | Arc Rarity | Dismantle Reward (Fons) | Additional Materials |
 | :--- | :--- | :--- |
-| **B-Rank (3-Star)** | 1,200 | [Information not yet publicly available] |
+| **B-Rank (3-Star)** | 1,200 | — |
 | **A-Rank (4-Star)** | 5,000 | Arc Essence x1 |
 
 ## Recent Changes

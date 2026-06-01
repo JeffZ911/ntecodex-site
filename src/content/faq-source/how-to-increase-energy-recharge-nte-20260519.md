@@ -76,7 +76,7 @@ Arcs are the primary way to fundamentally change a character's energy economy. S
 
 *   **Good Boy's Grand Adventure (Gas-type):** This Arc is a staple for supports and sub-DPS characters. It provides a massive 30% boost to Charge Efficiency. When equipped on a character with high hit-counts, it can fill an Ultimate bar in seconds.
 *   **Day Off (Solid-type):** This Arc is highly effective for "burst" teams. During its unique "Eclipse" window—a temporary buff state triggered by specific combat actions—it restores up to 10 Ultimate Energy per kill. In multi-target scenarios like urban anomalies, this can lead to back-to-back Ultimates.
-*   **Hethereau's Keeper:** [Information not yet publicly available as of 2026-05-19] regarding the exact percentage of its energy-related passive, though it is widely recognized as a high-tier utility Arc for energy-hungry compositions.
+*   **Hethereau's Keeper:** undisclosed regarding the exact percentage of its energy-related passive, though it is widely recognized as a high-tier utility Arc for energy-hungry compositions.
 
 ### Gearing for Energy: Cartridges and Module Optimization
 

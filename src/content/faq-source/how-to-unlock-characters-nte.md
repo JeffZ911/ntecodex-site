@@ -66,7 +66,7 @@ The recruitment process in Neverness to Everness is deeply tied to the "Urban An
 
 The journey begins with Zero, the default S-rank Cosmos protagonist. Unlike many other titles where the protagonist scales poorly, Zero remains a viable core for many teams due to their elemental versatility. Shortly after starting, you will unlock Mint. Mint is an A-rank Anima DPS specializing in AoE (Area of Effect) attacks, making her invaluable for clearing early-game mobs in the Hethereau suburbs.
 
-As you progress through the first chapter and reach the Eibon Antique Shop, Adler joins the roster. Adler is an A-rank Incantation character who provides essential utility and elemental reactions. To round out a starting team, players who participated in pre-registration or log in during the launch window receive Haniel and Aurelia. Haniel is a Psyche-element character who excels at [Information not yet publicly available as of 2026-05-19], while Aurelia provides additional elemental coverage.
+As you progress through the first chapter and reach the Eibon Antique Shop, Adler joins the roster. Adler is an A-rank Incantation character who provides essential utility and elemental reactions. To round out a starting team, players who participated in pre-registration or log in during the launch window receive Haniel and Aurelia. Haniel is a Psyche-element character who excels at undisclosed, while Aurelia provides additional elemental coverage.
 
 ### The Scarborough Fair Gacha System Explained
 
@@ -90,8 +90,8 @@ Reaching Level 18 in City Tycoon is the specific milestone for Chiz. This requir
 
 **City Tycoon Progression Rewards for Chiz:**
 * **Level 18:** Chiz (Character Unlock)
-* **Level 22:** [Information not yet publicly available as of 2026-05-19] (Upgrade Material)
-* **Level 25:** Chiz’s Signature Weapon: [Information not yet publicly available as of 2026-05-19]
+* **Level 22:** undisclosed (Upgrade Material)
+* **Level 25:** Chiz’s Signature Weapon: undisclosed
 * **Level 30+:** Chiz Awakening Shards (Used to increase her star rating and unlock passive talents).
 
 ### The 50-Pull S-Rank Selector Strategy

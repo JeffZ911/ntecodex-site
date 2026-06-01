@@ -83,7 +83,7 @@ Traversing Hesperia is primarily done through the vehicle system. Unlike many op
 | :--- | :--- | :--- |
 | Rover A1 | Free (Photo Studio Episode) | 0 |
 | Novis ST-X 950 | E-Motors Showroom | 1,200,000 |
-| Griffin | Limited Event Reward | [Information not yet publicly available] |
+| Griffin | Limited Event Reward | — |
 | LaVelox | Rampage Players Special Order | 3,500,000 |
 
 ### The City Tycoon and Business Management

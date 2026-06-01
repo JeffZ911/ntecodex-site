@@ -64,9 +64,9 @@ For Free-to-Play (F2P) players, Haniel is a godsend. Because she is distributed 
 
 | Stat | Level 1 | Level 80 |
 | :--- | :--- | :--- |
-| HP | 1130 | [Information not yet publicly available as of 2026-05-17] |
-| ATK | 62 | [Information not yet publicly available as of 2026-05-17] |
-| DEF | 70 | [Information not yet publicly available as of 2026-05-17] |
+| HP | 1130 | — |
+| ATK | 62 | — |
+| DEF | 70 | — |
 | Break Intensity | [information unavailable] | [information unavailable] |
 
 **Skill Multiplier Chart: 'Silent Moonlit Forest Guardian'**
@@ -91,7 +91,7 @@ In Neverness to Everness, weapons are referred to as Arcs. For a support like Ha
 
 ### F2P Alternatives: A-Rank and B-Rank Arcs
 *   **Time Bandit (A-Rank):** The best F2P weapon for Haniel in the early game. While its primary stat is HP%, its passive increases Break Intensity by 90 for 10 seconds after casting a Redirect Skill. This helps Haniel contribute to the team's "Break" goals before swapping to a DPS.
-*   **Forgotten (B-Rank):** [Information not yet publicly available as of 2026-05-17].
+*   **Forgotten (B-Rank):** undisclosed.
 
 | Arc Name | Rarity | Type | Key Passive Effect |
 | :--- | :--- | :--- | :--- |
@@ -141,7 +141,7 @@ The most powerful team composition in the 1.0 meta revolves around the **Blossom
 For players who did not pull for Nanally, Haniel can still lead a very effective team:
 *   **Zero (DPS):** Using the protagonist as your main damage dealer.
 *   **Haniel (Support):** Providing the necessary ATK boost to keep Zero's damage relevant.
-*   **Edgar (Healer):** An A-Rank Cosmos healer who ensures the team stays alive in difficult "Beyond the Rails" [Information not yet publicly available as of 2026-05-17] content.
+*   **Edgar (Healer):** An A-Rank Cosmos healer who ensures the team stays alive in difficult "Beyond the Rails" undisclosed content.
 
 | Character | Element | Role | Synergy Level |
 | :--- | :--- | :--- | :--- |
@@ -176,7 +176,7 @@ The "Esper Cycle" is the circular meter next to character portraits. Haniel buil
 Yes, but her official name in the game is **Haniel**. The community calls her "Mimi" due to her visual similarities to a character from Tower of Fantasy, another Hotta Studio game.
 
 **Does Haniel's buff snapshot her current ATK?**
-[Information not yet publicly available as of 2026-05-17]. Most players recommend casting her Ultimate while all temporary self-buffs are active to be safe.
+undisclosed. Most players recommend casting her Ultimate while all temporary self-buffs are active to be safe.
 
 **What is the best F2P weapon for Haniel?**
 **Time Bandit** is the most reliable A-Rank choice, but **Blow up the Crowd** can be obtained for free by completing the "Rhythm Master" Anomaly Commission in Illusion Town.

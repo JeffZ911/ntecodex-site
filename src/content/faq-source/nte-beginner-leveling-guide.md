@@ -176,7 +176,7 @@ In the early game, you can get by with raw levels. However, as enemies scale, yo
 
 Don't forget that your characters have "Life Skills" that are separate from their combat abilities. Some Espers are better at managing the Cafe, while others provide bonuses during car races or heists. Properly assigning your team to city tasks will increase your Tycoon Level faster, which in turn provides more Hunter XP.
 
-At the current maximum Hunter Level of 60, any excess experience you earn does not go to waste. Instead, it is converted into Beetle Coins at a ratio of [Information not yet publicly available as of 2026-05-21]. This ensures that late-game players always have a steady supply of currency for upgrading new characters and Arcs.
+At the current maximum Hunter Level of 60, any excess experience you earn does not go to waste. Instead, it is converted into Beetle Coins at a ratio of undisclosed. This ensures that late-game players always have a steady supply of currency for upgrading new characters and Arcs.
 
 ## Sources
 

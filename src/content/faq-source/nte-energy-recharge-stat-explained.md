@@ -97,7 +97,7 @@ Equipping the right Arcs (the weapons of NTE) and Consoles (the modular gear sys
 | Source Type | Name | Key Energy Effect |
 | :--- | :--- | :--- |
 | **S-Rank Arc** | **Day Off** | Provides a 33% Charge Efficiency substat and the 'Eclipse' effect, restoring 10 energy upon enemy defeat. |
-| **A-Rank Arc** | [Information not yet publicly available as of 2026-05-24] | Often used as a budget option for supports. |
+| **A-Rank Arc** | — | Often used as a budget option for supports. |
 | **Console Module** | **Flow-State Module** | Secondary stat can roll up to 12.5% Charge Efficiency at max level. |
 | **Console Cartridge** | **Recharge Cartridge** | Set bonus (2-piece) increases Charge Efficiency by 20%. |
 
