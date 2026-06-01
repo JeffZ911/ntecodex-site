@@ -8,6 +8,7 @@ word_count: 1860
 published_at: "2026-05-12T05:36:18.162295+00:00"
 published_url: /faq
 sources: []
+hero_image: /img/hsr-how-to-get-stellar-jade-nte/hero.webp
 ---
 
 Transitioning from the turn-based battles of the Astral Express to the supernatural city streets of Hethereau requires a quick adjustment to your resource management. If you are a veteran of Honkai: Star Rail looking for the most efficient way to pull new characters, understanding the local currency is your first priority.
