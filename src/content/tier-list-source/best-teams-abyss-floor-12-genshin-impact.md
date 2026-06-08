@@ -181,7 +181,7 @@ Arlecchino has changed the priority of the Bennett/Zhongli core. Because she can
 ### New Enemy Mechanics: Fatui Operatives
 The **Fatui Operatives** (Wind and Frost) are more dangerous than standard elite enemies. Their "Hunt Down" state allows them to ignore some forms of stagger, and their Bond of Life application can be lethal if not managed. 
 
-**Arlecchino vs. Hu Tao: Pyro DPS Comparison**
+**Arlecchino vs. Hu Tao: Pyro [DPS Comparison](https://ntecodex.com/news/lacrimosa-vs-hotori-dps-comparison-20260608)**
 While Hu Tao has long been the queen of single-target Pyro damage, Arlecchino offers more consistent AoE and a simpler rotation. In the 4.6 Abyss, Arlecchino's ability to switch targets without losing her Pyro infusion gives her a slight edge over Hu Tao in Chamber 12-1-1 and 12-3-1, where multiple enemies are present.
 
 To successfully clear Floor 12 in Version 4.6, prioritize Pyro and Hydro units for the second half and high-sustain AoE units for the first half. Monitoring your Bond of Life status and timing your bursts to coincide with the Iniquitous Baptist's shield breaks will be the difference between a 33-star and a 36-star run.
