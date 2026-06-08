@@ -77,7 +77,7 @@ Chiz is the surprise S-tier entry for many players. While she is a "rhythm" char
 ### Sakiri: The Ultimate Force Multiplier
 While [Sakiri](/characters/sakiri-nte-free-5-star-guide) is often labeled as a support, her personal damage and "Devour Whole" mechanic make her a hybrid DPS threat. She can group entire waves of enemies into a single point, then apply a 30% ATK buff to the team. In the current meta, "Sakiri-clumping" is the foundation of every speedrun strategy. Her ability to condense combat encounters into a few seconds of burst makes her essential for any account aiming to clear the highest tiers of the Hethereau endgame.
 
-**S-Tier DPS Comparison Table**
+**S-Tier [DPS Comparison](https://ntecodex.com/news/lacrimosa-vs-hotori-dps-comparison-20260608) Table**
 
 | Agent | Element | Arc Type | Primary Role |
 | :--- | :--- | :--- | :--- |

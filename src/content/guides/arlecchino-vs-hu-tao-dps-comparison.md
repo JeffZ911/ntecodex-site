@@ -167,6 +167,6 @@ If you are looking for your first major Pyro carry, Arlecchino is the recommenda
 *   Arlecchino Build Guide and Team Comps — https://game8.co/games/Genshin-Impact/archives/445434
 *   Hu Tao Build Guide and Team Comps — https://game8.co/games/Genshin-Impact/archives/312214
 *   Bond of Life Mechanic Explained — https://genshin-impact.fandom.com/wiki/Bond_of_Life
-*   Arlecchino vs Hu Tao DPS Comparison Discussion — https://www.reddit.com/r/Genshin_Impact/comments/1ccu0k5/arlecchino_vs_hu_tao/
+*   Arlecchino vs Hu Tao [DPS Comparison](https://ntecodex.com/news/lacrimosa-vs-hotori-dps-comparison-20260608) Discussion — https://www.reddit.com/r/Genshin_Impact/comments/1ccu0k5/arlecchino_vs_hu_tao/
 *   Hu Tao Damage Calculations and Weapons — https://paimon.moe/characters/hu_tao
 *   Arlecchino Weapon and Artifact Rankings
