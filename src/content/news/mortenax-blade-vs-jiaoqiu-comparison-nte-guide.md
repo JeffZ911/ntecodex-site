@@ -36,7 +36,7 @@ The June 2026 gacha landscape has reached a fever pitch as two of the industry's
 
 # Mortenax Blade vs Jiaoqiu Comparison: How NTE’s Lacrimosa and Chaos Stack Up in the June 2026 Meta
 
-The simultaneous arrival of major patches for both *Neverness to Everness* (NTE) and *Honkai: Star Rail* (HSR) has left players torn between the supernatural streets of Hethereau and the cosmic battlefields of the Astral Express. With the official launch of NTE Version 1.1 "Dreamwalk Corridor" and HSR Version 4.3 on June 3, 2026, the community is currently debating the value of two massive Fire/Chaos-themed units. While Mortenax Blade has effectively redefined the Nihility path in *Star Rail*, NTE’s Lacrimosa has introduced a unique "Nightmare" stacking mechanic that shifts the open-world RPG's combat into a new gear.
+The simultaneous arrival of major patches for both *Neverness to Everness* (NTE) and *Honkai: Star Rail* (HSR) has left players torn between the supernatural streets of Hethereau and the cosmic battlefields of the Astral Express. With the official launch of NTE Version 1.1 "Dreamwalk Corridor" and HSR Version 4.3 on June 3, 2026, the community is currently debating the value of two massive Fire/Chaos-themed units. While [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) has effectively redefined the Nihility path in *Star Rail*, NTE’s Lacrimosa has introduced a unique "Nightmare" stacking mechanic that shifts the open-world RPG's combat into a new gear.
 
 ## What Happened
 
