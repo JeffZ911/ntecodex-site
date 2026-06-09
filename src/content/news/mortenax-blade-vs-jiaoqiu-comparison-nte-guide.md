@@ -51,7 +51,7 @@ The June 3, 2026 release date marked a rare moment where a major new IP (NTE) an
 In NTE 1.1, the spotlight is firmly on Lacrimosa, a member of the Bureau of Anomaly Control’s ETD-4. She is an S-Class Chaos character who utilizes a "Liquid Arc" to manipulate combat. Her arrival is tied to the Scarborough Fair gacha system, a board-game-inspired mechanic where players roll dice to move across a reward-filled board. Lacrimosa's gameplay focuses on stacking "Nightmare" DoT effects on enemies, which can reach up to 10 stacks and feature a fixed 50% Crit Rate.
 
 ### HSR 4.3: The Arrival of Mortenax Blade
-In the turn-based world of *Honkai: Star Rail*, the community is reeling from the Mortenax Blade banner. Positioned as a premier Fire Nihility unit, Mortenax Blade has sparked an immediate powercreep debate. He is designed as an HP-scaling sub-DPS and support who enters a transformative Infinite Fury state via his Ultimate. This state allows him to shred enemy DEF by 40% and increase the damage enemies receive by a staggering 60%, making him a direct competitor to the previously established Fire Nihility support, Jiaoqiu.
+In the turn-based world of *Honkai: Star Rail*, the community is reeling from the [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) banner. Positioned as a premier Fire Nihility unit, Mortenax Blade has sparked an immediate powercreep debate. He is designed as an HP-scaling sub-DPS and support who enters a transformative Infinite Fury state via his Ultimate. This state allows him to shred enemy DEF by 40% and increase the damage enemies receive by a staggering 60%, making him a direct competitor to the previously established Fire Nihility support, Jiaoqiu.
 
 ## Key Changes
 
