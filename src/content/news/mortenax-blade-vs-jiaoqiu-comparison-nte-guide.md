@@ -90,7 +90,7 @@ For the *Honkai: Star Rail* community, the consensus is clear: [Mortenax Blade](
 The Scarborough Fair system in *Neverness to Everness* continues to be a polarizing topic. Unlike HSR’s traditional "Warp" system, Scarborough Fair is an interactive board game where players roll Solid Dice to move toward character tiles. While some enjoy the extra rewards and lack of a 50/50 pity system, others find the dice-rolling process time-consuming. However, the ability to unlock exclusive cosmetics, such as Lacrimosa's "Priceless Orchid" skin, directly from the gacha board has been praised as a more transparent way to handle premium items.
 
 ### F2P Verdict: Where Should Your Annulith Go?
-For Free-to-Play (F2P) players, the decision often comes down to longevity. Lacrimosa is currently the definitive Chaos-element Main DPS in NTE, and her ability to copy enemy skills through her "Devilish Inspiration" mechanic makes her highly future-proof. In HSR, while Mortenax Blade is undeniably powerful, the rapid pace of powercreep in the Nihility path has some players cautious about spending all their Jades before the rumored "Himeko Nova" update in Version 4.4.
+For Free-to-Play (F2P) players, the decision often comes down to longevity. Lacrimosa is currently the definitive Chaos-element Main DPS in NTE, and her ability to copy enemy skills through her "Devilish Inspiration" mechanic makes her highly future-proof. In HSR, while [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) is undeniably powerful, the rapid pace of powercreep in the Nihility path has some players cautious about spending all their Jades before the rumored "Himeko Nova" update in Version 4.4.
 
 ## What's Next
 
