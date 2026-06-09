@@ -67,7 +67,7 @@ In contrast, Lacrimosa in NTE uses a dual-stance system that focuses on fluidity
 ### Debuff Power Creep: Is Jiaoqiu Still Relevant?
 The biggest question for HSR players is whether Jiaoqiu has been rendered obsolete by [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608). Jiaoqiu’s "Ashen Roast" vulnerability was once the gold standard for Acheron teams, but Mortenax Blade's "Balefire Bind" offers a 60% damage increase alongside 40% DEF reduction. Community comparisons on [Reddit r/AcheronMainsHSR](https://www.reddit.com/r/AcheronMainsHSR/comments/1c6d7e0/e0s0_m_blade_vs_e2s1_jiaoqiu_pull/) suggest that even an E0 Mortenax Blade can outperform an E6 Jiaoqiu in terms of sheer damage amplification and stack generation for Acheron.
 
-| Stat/Ability | Mortenax Blade (HSR) | Lacrimosa (NTE) | Jiaoqiu (HSR) |
+| Stat/Ability | [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) (HSR) | Lacrimosa (NTE) | Jiaoqiu (HSR) |
 | :--- | :--- | :--- | :--- |
 | **Element/Type** | Fire Nihility | Chaos (Liquid) | Fire Nihility |
 | **Primary Mechanic** | Infinite Fury (HP-Scaling) | Nightmare Stacks (DoT) | Ashen Roast (Vulnerability) |
