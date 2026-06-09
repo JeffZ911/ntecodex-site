@@ -60,7 +60,7 @@ In the turn-based world of *Honkai: Star Rail*, the community is reeling from th
 The shift in the 2026 meta is defined by two distinct trends: HP-scaling versatility and high-frequency debuff application. While both games are moving toward "Zero SP" or high-utility kits, they approach combat depth from very different angles.
 
 ### HP-Scaling Meta: The New Industry Standard?
-Mortenax Blade’s kit is built entirely around his health pool. His Ultimate, Fornax Ex Corpore, consumes 40% of his Max HP to deploy a Zone that triggers his "Infinite Fury" state. In this mode, his Critical Rate increases by 40% and Critical DMG by 60%, while his basic attacks are enhanced to scale off his HP. 
+[Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608)’s kit is built entirely around his health pool. His Ultimate, Fornax Ex Corpore, consumes 40% of his Max HP to deploy a Zone that triggers his "Infinite Fury" state. In this mode, his Critical Rate increases by 40% and Critical DMG by 60%, while his basic attacks are enhanced to scale off his HP. 
 
 In contrast, Lacrimosa in NTE uses a dual-stance system that focuses on fluidity rather than raw stat-padding. By using the aim button, players can swap between "Tomato Metal" (melee) and "Tomato Percussion" (ranged) stances. While she doesn't scale off HP in the same way as Mortenax, her A5 Awakening reduces enemy Max HP by 200% of the Nightmare damage dealt, effectively "shredding" the opponent's total life pool.
 
