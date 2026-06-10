@@ -99,7 +99,7 @@ Jiuyuan is an anomaly in the Survival category. While she is primarily a ranged 
 
 At A1, every time a Pact Settlement is triggered by her Ultimate, **Final Reckoning**, she restores HP to the entire team equal to 5% of the total damage accumulated by that Pact. In high-difficulty boss fights where Jiuyuan is dealing millions of damage, this 5% conversion results in a full team heal nearly every rotation. She is the epitome of role compression, allowing you to run a "triple DPS" team where Jiuyuan handles all the sustain requirements through her offensive output.
 
-**S-Tier Support Comparison**
+**S-Tier [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear)**
 
 | Feature | Hotori (Cosmos) | Jiuyuan (Anima) |
 | :--- | :--- | :--- |

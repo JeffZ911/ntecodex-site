@@ -161,7 +161,7 @@ Fadia (Psyche/Synthesis) is a survival-focused support with a vampire-like plays
 
 Aurelia (Anima/Synthesis) is provided as a 3-day login reward. She offers decent utility, including a minor movement speed buff and energy restoration. Her primary drawback is her exceptionally long cooldowns. In the fast-paced Esper Cycle, waiting 20 seconds for a skill to refresh can stall the entire team’s momentum. She is a great placeholder until better units are acquired.
 
-**F2P Support Comparison: Mint vs. Aurelia**
+**F2P [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear): Mint vs. Aurelia**
 Mint is generally preferred for her grouping and higher Break Intensity. Aurelia is only recommended if your team is starving for Energy Recharge and you lack a dedicated "Battery" character.
 
 ## C Tier
