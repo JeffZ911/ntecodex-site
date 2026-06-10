@@ -33,8 +33,8 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="NTE FAQ — Frequently Asked Questions"
-  description="Common questions about Neverness to Everness — pity system, banner schedule, gacha mechanics and more."
+  title={`Neverness to Everness FAQ (${new Date().toLocaleString("en-US", { month: "long", year: "numeric", timeZone: "UTC" })}) — ${items.length}+ NTE Questions Answered`}
+  description={`Pity system, banner schedule, reroll, currencies, co-op — ${items.length}+ Neverness to Everness questions answered and kept current with every patch. Find yours in seconds.`}
   jsonLd={jsonLd}
 >
   <Breadcrumb crumbs={[{ href: "/", label: "Home" }, { label: "FAQ" }]} />

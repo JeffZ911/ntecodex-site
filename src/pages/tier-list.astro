@@ -73,8 +73,8 @@ const jsonLd = {
 ---
 
 <BaseLayout
-  title="Gacha Tier List — Best Characters Across Every Game We Cover"
-  description="Multi-game tier list — every character we cover ranked S+ to C with role and game filters. Spans Neverness to Everness, Honkai Star Rail, Genshin Impact, ZZZ and more."
+  title={`Gacha Tier List (${new Date().toLocaleString("en-US", { month: "long", year: "numeric", timeZone: "UTC" })}) — NTE, HSR, Genshin, ZZZ & WuWa Ranked`}
+  description={`${entries.length} characters ranked S+ to C across Neverness to Everness, Honkai Star Rail, Genshin Impact, ZZZ and Wuthering Waves — updated for the current banners and patches.`}
   jsonLd={jsonLd}
 >
   <Breadcrumb crumbs={[{ href: "/", label: "Home" }, { label: "Tier List" }]} />
