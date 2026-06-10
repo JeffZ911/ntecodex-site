@@ -116,7 +116,7 @@ If you are an Acheron main in *Honkai: Star Rail*, [Mortenax Blade is an essenti
 - Lacrimosa Build Guide - Weapons, Gear, & More - NTE — https://www.mobalytics.gg/nte/characters/lacrimosa
 - Neverness To Everness: Best Lacrimosa Build And Team
 - Lacrimosa: Rotation & Team Composition Guide | NTE
-- Mortenax Blade | Honkai Star Rail Database Wiki — https://www.hoyolab.com/article/30123456
+- [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) | Honkai Star Rail Database Wiki — https://www.hoyolab.com/article/30123456
 - Honkai: Star Rail Mortenax Blade Build — https://genshin.gg/star-rail/characters/mortenax-blade/
 - Mortenax Blade Best Build Guide | Honkai: Star Rail — https://www.prydwen.gg/star-rail/characters/mortenax-blade
 - Lacrimosa Guide, Skills, Kit and Awakenings - NTE
