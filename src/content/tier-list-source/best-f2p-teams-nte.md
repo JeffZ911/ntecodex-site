@@ -198,7 +198,7 @@ The release of [Hotori](/characters/hotori-best-team-nte), an S-Rank Cosmos char
 
 Hotori introduces the "Skill Replay" mechanic. When she is on the field, she can "record" the last support skill used (such as Haniel's ATK buff) and replay it, effectively doubling the duration and potency of F2P buffs.
 
-**Hotori vs. Zero: Cosmos Support Comparison**
+**Hotori vs. Zero: Cosmos [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear)**
 *   **Zero:** Provides better energy particles for the whole team; easier to play.
 *   **Hotori:** Provides much higher damage ceiling through Skill Replay; requires complex rotation timing.
 

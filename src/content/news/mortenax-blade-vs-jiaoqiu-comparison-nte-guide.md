@@ -117,7 +117,7 @@ If you are an Acheron main in *Honkai: Star Rail*, [Mortenax Blade is an essenti
 - Neverness To Everness: Best Lacrimosa Build And Team
 - Lacrimosa: Rotation & Team Composition Guide | NTE
 - [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) | Honkai Star Rail Database Wiki — https://www.hoyolab.com/article/30123456
-- Honkai: Star Rail Mortenax Blade Build — https://genshin.gg/star-rail/characters/mortenax-blade/
+- Honkai: Star Rail [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) Build — https://genshin.gg/star-rail/characters/mortenax-blade/
 - Mortenax Blade Best Build Guide | Honkai: Star Rail — https://www.prydwen.gg/star-rail/characters/mortenax-blade
 - Lacrimosa Guide, Skills, Kit and Awakenings - NTE
 - PSA - Lacrimosa's Bat form is IMMUNE to the lasers! — https://www.reddit.com/r/NevernessToEverness/comments/1d7v6e0/psa_lacrimosas_bat_form_is_immune_to_the_lasers/

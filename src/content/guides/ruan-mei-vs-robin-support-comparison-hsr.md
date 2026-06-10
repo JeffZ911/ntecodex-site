@@ -151,4 +151,4 @@ Ruan Mei remains the "safe" pick. Her ability to shred Toughness and delay enemi
 - Honkai: Star Rail Fandom Wiki - Robin — https://honkai-star-rail.fandom.com/wiki/Robin
 - Game8 - Honkai: Star Rail Best Team Comps — https://game8.co/games/Honkai-Star-Rail/archives/410631
 - Official Honkai: Star Rail HoYoLAB Community — https://www.hoyolab.com/home
-- Game Rant - HSR Support Comparison Guide
+- Game Rant - HSR [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear) Guide
