@@ -112,7 +112,7 @@ If you are an Acheron main in *Honkai: Star Rail*, [Mortenax Blade is an essenti
 
 ## Sources
 - NTE 1.1 Release Date, Time, and Countdown
-- Mortenax Blade Character Trailer: "Nirvana" — https://www.youtube.com/watch?v=R9o8S-n0-7U
+- [Mortenax Blade](https://ntecodex.com/weapons/mortenax-blade-vs-evanescia-dps-comparison-20260608) Character Trailer: "Nirvana" — https://www.youtube.com/watch?v=R9o8S-n0-7U
 - Lacrimosa Build Guide - Weapons, Gear, & More - NTE — https://www.mobalytics.gg/nte/characters/lacrimosa
 - Neverness To Everness: Best Lacrimosa Build And Team
 - Lacrimosa: Rotation & Team Composition Guide | NTE
