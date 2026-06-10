@@ -84,7 +84,7 @@ This mechanic is exceptionally strong when paired with burst-heavy characters. B
 
 Haniel is the perfect example of why A-Rank units should not be overlooked. While she may lack the raw base stats of Sakiri or Hotori, her Awakening 2 (A2) power spike makes her a rival to any S-Class unit. Haniel specializes in Psyche-based buffs that have incredibly high uptime. With proper energy regeneration stats, Haniel can maintain near 100% uptime on her team-wide damage buffs. Her Psyche element also facilitates the Discord reaction, which is essential for breaking the resistance bars of certain elite enemies found in late-game Commissions.
 
-**S Tier Support Comparison Chart**
+**S Tier [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear) Chart**
 
 | Character | Buff Type | Max Buff Value | Key Mechanic |
 | :--- | :--- | :--- | :--- |

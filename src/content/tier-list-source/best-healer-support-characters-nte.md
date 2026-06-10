@@ -83,7 +83,7 @@ Hotori is particularly effective in teams that rely on high-cooldown, high-impac
 ### Jiuyuan: The Hybrid Healing Queen
 Jiuyuan offers the best role compression currently available in NTE. She functions as a ranged DPS, but her "Rose Pact" mechanics allow her to provide consistent healing to the active character based on the damage she deals. This "lifesteal" style of support ensures that your team stays healthy without ever having to stop the offensive pressure.
 
-**S-Tier Support Comparison**
+**S-Tier [Support Comparison](https://ntecodex.com/guides/lumi-vs-sanhua-support-comparison-gear)**
 
 | Character | Primary Role | Key Buff/Utility | Recommended Arc |
 | :--- | :--- | :--- | :--- |
