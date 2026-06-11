@@ -142,7 +142,7 @@ Modules are not dropped directly in the Rabbit Hole. Instead, you earn **Carrota
 Choosing the right set depends on the "Esper Cycle" (the elemental reaction system). 
 
 * **Best for Cosmos DPS (Zero, Chiz):** **Lost Radiance**. The DEF ignore is unparalleled for high-end bossing.
-* **Best for Psyche DPS (Aurelia):** **Devil's Blood: Curse**. This set is specifically designed to reward teams that trigger Nova or Stain reactions, doubling the damage bonus.
+* **Best for Psyche DPS (Aurelia):** **Devil's Blood: Curse**. This set is specifically designed to reward teams that [trigger Nova](https://ntecodex.com/faq) or Stain reactions, doubling the damage bonus.
 * **Best for Supports ([Sakiri](/characters/sakiri-nte-free-5-star-guide), Nanally):** **Speedy Hedgehog**. Since supports usually cycle their Ultimates to buff the team, the 15% team-wide ATK buff is essential.
 * **Best for Tanks (Fadia):** **Tiny Big Adventure**. This set rewards characters who stay on the field and absorb hits, providing a massive Max HP boost that often scales with a tank's utility.
 

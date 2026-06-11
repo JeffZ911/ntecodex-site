@@ -162,7 +162,7 @@ Silver Wolf is the best individual partner for Dr. Ratio when fighting enemies t
 ![Dr. Ratio Eidolon Guide](/img/dr-ratio-build-guide/inline-6.webp)
 
 
-While Dr. Ratio is exceptionally strong at E0, his Eidolons provide significant quality-of-life improvements and damage scaling.
+While Dr. Ratio is exceptionally strong at E0, his Eidolons provide significant quality-of-life improvements and [damage scaling](https://ntecodex.com/faq).
 
 *   **E1 (Pride Comes Before a Fall):** Increases the maximum stacks of "Summation" by 4 and provides 4 stacks immediately at the start of battle. This gives Dr. Ratio an extra 10% Crit Rate and 20% Crit DMG (Totaling 25% CR / 50% CD), making him much easier to build.
 *   **E2 (Divine Proportion):** When his Talent's follow-up attack hits a target, it deals extra Imaginary DMG equal to 20% of ATK for every debuff the target has (up to 4 debuffs). This adds a flat 80% ATK scaling to every follow-up.

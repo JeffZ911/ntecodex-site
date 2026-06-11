@@ -28,7 +28,7 @@ Optimizing your team for the latest endgame challenges requires a deep understan
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-11._
 
 
-In NTE v1.1, Nova damage scales primarily with the Cycle Intensity of the character with the highest stat in your team. It deals delayed Mental Damage and is a core component of the high-break Discord reaction, which is currently the most effective way to shred boss Break bars.
+In [NTE v1](https://ntecodex.com/faq).1, [Nova damage](https://ntecodex.com/faq) scales primarily with the Cycle Intensity of the character with the highest stat in your team. It deals delayed Mental Damage and is a core component of the high-break Discord reaction, which is currently the most effective way to shred boss Break bars.
 
 ## Question Restated
 

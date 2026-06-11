@@ -58,7 +58,7 @@ Endgame content like "Beyond the Rails" currently favors the **Blossom** (Cosmos
 The meta currently prioritizes "Cycle Intensity" over raw ATK for support characters. This stat determines the damage dealt by reactions like Blossom turrets and Scorch DoTs. Because reactions scale separately from a character’s active skills, the strongest teams utilize "Quick-Swap" rotations where no single character stays on the field for more than 5 to 8 seconds, except during a boss's "Broken" state.
 
 ### The Importance of Synergy over Rarity
-While S-Rank characters provide higher base stats, an A-Rank team with perfect elemental synergy will consistently outperform a "random" team of four S-Ranks. For example, Haniel (A-Rank) is often preferred over higher-rarity units in Discord teams because her Psyche application is perfectly timed to trigger Nova precisely when a Chaos unit like Daffodil finishes her combo.
+While S-Rank characters provide higher base stats, an A-Rank team with perfect elemental synergy will consistently outperform a "random" team of four S-Ranks. For example, Haniel (A-Rank) is often preferred over higher-rarity units in Discord teams because her Psyche application is perfectly timed to [trigger Nova](https://ntecodex.com/faq) precisely when a Chaos unit like Daffodil finishes her combo.
 
 ## Direct Answer
 

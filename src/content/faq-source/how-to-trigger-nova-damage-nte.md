@@ -89,7 +89,7 @@ The synergy between Chaos and Psyche is designed to reward tactical swapping. Ch
 
 ### Optimizing Nova: Cycle Intensity and Stats
 
-A common mistake is building Nova-focused characters with pure Critical Damage. However, Nova damage is a "fixed" reaction burst that does not crit by default. To increase the damage of the explosion, you must prioritize the Cycle Intensity stat. This stat acts as a multiplier for all Esper Cycle reactions.
+A common mistake is building Nova-focused characters with pure Critical Damage. However, [Nova damage](https://ntecodex.com/faq) is a "fixed" reaction burst that does not crit by default. To increase the damage of the explosion, you must prioritize the Cycle Intensity stat. This stat acts as a multiplier for all Esper Cycle reactions.
 
 In addition to Cycle Intensity, you should consider the character's level. Like many modern urban RPGs, the base damage of reactions in NTE is heavily influenced by the character's current level relative to the enemy's level.
 

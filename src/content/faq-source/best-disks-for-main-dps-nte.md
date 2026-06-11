@@ -42,7 +42,7 @@ Conversely, the Console system utilizes Cartridges and Modules. While Arcs provi
 
 ### Why Your Choice of Arc Disk Determines Endgame Viability
 
-In NTE, damage scaling is not linear. The game utilizes a "Type Resonance" mechanic where equipping an Arc that matches the Esper's type (e.g., a Liquid Arc on a Liquid Esper) grants a significant percentage-based multiplier to all damage dealt. If you equip an S-Rank Arc of the wrong type, you lose out on the core passive, often resulting in lower total damage than a well-matched A-Rank Arc.
+In NTE, [damage scaling](https://ntecodex.com/faq) is not linear. The game utilizes a "Type Resonance" mechanic where equipping an Arc that matches the Esper's type (e.g., a Liquid Arc on a Liquid Esper) grants a significant percentage-based multiplier to all damage dealt. If you equip an S-Rank Arc of the wrong type, you lose out on the core passive, often resulting in lower total damage than a well-matched A-Rank Arc.
 
 Furthermore, Main DPS characters rely on specific triggers—such as Baicang’s HP consumption or Daffodil’s Break state transitions—which are only facilitated by top-tier Arcs. Without the correct disk, your Esper Cycles will feel sluggish, and your "Ultimate Redirect" skills will fail to hit the necessary damage thresholds for boss phases.
 
