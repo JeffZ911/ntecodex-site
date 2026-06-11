@@ -32,12 +32,15 @@ interface Props {
   /** Markdown headings from `entry.render().headings`. When passed in,
    * renders a sticky right-side TOC on xl+ screens (≥1280px). */
   headings?: Heading[];
+  /** Raw markdown body (entry.body) — used to derive FAQPage JSON-LD from the
+   * `## Frequently Asked Questions` section the writer emits. */
+  body?: string;
 }
 
 const {
   title, description, publishedAt, qaScore, wordCount,
   articleType, heroImage, sources = [], crumbs, slug,
-  affiliate = false, quickAnswer, headings = [],
+  affiliate = false, quickAnswer, headings = [], body = "",
 } = Astro.props;
 
 const dateStr = publishedAt
@@ -77,9 +80,30 @@ const jsonLd = {
   description: description,
   ...(heroImage ? { image: heroImage } : {}),
 };
+
+// FAQPage JSON-LD — parsed from the writer-emitted `## Frequently Asked
+// Questions` section (### question + answer paragraphs). Rich-result
+// eligibility for the PAA/FAQ surface; emitted alongside the Article object.
+const faqMatch = body.match(/^##\s+Frequently Asked Questions\s*$([\s\S]*?)(?=^##\s|(?![\s\S]))/m);
+const faqEntities = [];
+if (faqMatch) {
+  const sect = faqMatch[1];
+  const qa = [...sect.matchAll(/^###\s+(.+)$([\s\S]*?)(?=^###\s|(?![\s\S]))/gm)];
+  for (const m of qa) {
+    const q = m[1].trim();
+    const a = m[2].replace(/\s+/g, " ").trim().slice(0, 600);
+    if (q && a) faqEntities.push({
+      "@type": "Question", name: q,
+      acceptedAnswer: { "@type": "Answer", text: a },
+    });
+  }
+}
+const jsonLdOut = faqEntities.length
+  ? [jsonLd, { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqEntities }]
+  : jsonLd;
 ---
 
-<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLd} noindex={noindex}>
+<BaseLayout title={title} description={description} ogImage={heroImage} jsonLd={jsonLdOut} noindex={noindex}>
   <Breadcrumb crumbs={crumbs} />
 
   {/* 2-column layout on xl+: main article + sticky TOC sidebar.
@@ -88,7 +112,7 @@ const jsonLd = {
   <div class="xl:grid xl:grid-cols-[minmax(0,1fr)_14rem] xl:gap-10">
     <article class="prose-game max-w-none min-w-0">
       {heroImage && (
-        <img src={heroImage} alt=""
+        <img src={heroImage} alt={title}
              width="1280" height="720"
              fetchpriority="high"
              class="mb-6 aspect-video w-full max-h-[400px] rounded-xl object-cover" />

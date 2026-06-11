@@ -28,7 +28,7 @@ const dateStr = publishedAt ? new Date(publishedAt).toISOString().slice(0, 10) :
 <a href={href} class="block no-underline group h-full">
   <article class="card h-full flex flex-col">
     {heroImage ? (
-      <img src={heroImage} alt=""
+      <img src={heroImage} alt={title}
            width="640" height="360"
            loading="lazy" decoding="async"
            class="aspect-video w-full rounded-lg object-cover mb-3 -mt-1" />
