@@ -125,7 +125,7 @@ Arc Compatibility is also vital. Certain Arcs provide bonuses only when a specif
 To optimize your team, you should build "Lanes" on the Esper Cycle wheel. A popular lane is the **Chaos-Psyche-Incantation** lane.
 
 *   **Slot 1 (Main DPS):** Nanally (Chaos) - Uses her high-speed attacks to build meter.
-*   **Slot 2 (Sub-DPS):** Chizuru (Psyche) - Swaps in to trigger Nova and provide crowd control.
+*   **Slot 2 (Sub-DPS):** Chizuru (Psyche) - Swaps in to [trigger Nova](https://ntecodex.com/faq) and provide crowd control.
 *   **Slot 3 (Support/Utility):** Sakiri (Incantation) - Swaps in to trigger Scorch or finish the Discord Trio Reaction.
 
 By staying within this three-element segment of the wheel, every single swap you perform will result in an Esper Cycle reaction, provided you are parrying or using skills effectively. If you were to swap one of these for Zero (Cosmos), you would break the lane, as Cosmos does not connect to Chaos or Psyche, leaving your rotations clunky and inefficient.

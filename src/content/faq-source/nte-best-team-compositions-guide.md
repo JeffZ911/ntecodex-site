@@ -134,7 +134,7 @@ This is the premier team for tackling high-level bosses in "Beyond the Rails." I
 | **Haniel** | Support | Psyche | — |
 
 **Rotation Strategy:**
-Apply Scorch using Sakiri and Daffodil. Once the enemy is scorched, swap to Haniel to trigger Nova. The resulting Discord reaction will rapidly deplete the boss's stagger bar. Switch to Baicang during the Break window; his "Judgment of Autumn" domain executes enemies below 10% HP (5% for bosses), making him the ultimate finisher. Note that Baicang drains his own HP to power his "Power Words," so Haniel’s healing is vital here.
+Apply Scorch using Sakiri and Daffodil. Once the enemy is scorched, swap to Haniel to [trigger Nova](https://ntecodex.com/faq). The resulting Discord reaction will rapidly deplete the boss's stagger bar. Switch to Baicang during the Break window; his "Judgment of Autumn" domain executes enemies below 10% HP (5% for bosses), making him the ultimate finisher. Note that Baicang drains his own HP to power his "Power Words," so Haniel’s healing is vital here.
 
 ### Meta Team 3: The Hotori 'Brute Force' Nuke
 Hotori is unique because her Ultimate, "World's Tide," has no energy cost but requires her "Non-Closed Timepiece" to be fully charged.

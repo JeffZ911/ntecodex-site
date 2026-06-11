@@ -131,7 +131,7 @@ By focusing on these mechanics, you can transform Nova from a simple elemental r
 ## Frequently Asked Questions
 
 ### Does Nova damage scale with my character's Attack stat?
-Nova damage primarily scales with Cycle Intensity and the character's level rather than raw Attack. While a higher Attack stat improves your basic skills, the specific explosion at the end of the Nova Mark relies on the elemental mastery provided by the Cycle Intensity stat.
+[Nova damage](https://ntecodex.com/faq) primarily scales with Cycle Intensity and the character's level rather than raw Attack. While a higher Attack stat improves your basic skills, the specific explosion at the end of the Nova Mark relies on the elemental mastery provided by the Cycle Intensity stat.
 
 ### Can Nova damage land a Critical Hit?
 By default, Nova damage cannot land a Critical Hit. It is a fixed-damage reaction that bypasses traditional crit checks. To increase its output, you should focus on increasing your Cycle Intensity and shredding the enemy's Mental resistance rather than building for Critical Rate or Critical Damage.

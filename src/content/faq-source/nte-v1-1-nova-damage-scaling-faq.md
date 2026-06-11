@@ -37,7 +37,7 @@ In [NTE v1](https://ntecodex.com/faq).1, [Nova damage](https://ntecodex.com/faq)
 
 Understanding how the Nova reaction functions is essential for players moving into v1.1 content. Common questions from the community include:
 
-*   How does Nova damage scale in Neverness to Everness v1.1?
+*   How does [Nova damage](https://ntecodex.com/faq) scale in Neverness to Everness v1.1?
 *   What stats should I prioritize for a Nova-focused team?
 *   Does Nova damage benefit from ATK or Crit stats?
 *   How did the v1.1 update affect Nova's position in the meta?

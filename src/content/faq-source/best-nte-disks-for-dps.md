@@ -49,7 +49,7 @@ The combat in NTE revolves around the "Esper Cycle," where triggering elemental 
 ![Direct Answer](/img/best-nte-disks-for-dps/inline-2.webp)
 
 
-The current Version 1.0 meta for Neverness to Everness prioritizes Arcs and Cartridges that offer multiplicative damage scaling rather than flat stat increases. While several options exist, the following Disks have emerged as the gold standard for damage dealers as of May 23, 2026.
+The current Version 1.0 meta for Neverness to Everness prioritizes Arcs and Cartridges that offer multiplicative [damage scaling](https://ntecodex.com/faq) rather than flat stat increases. While several options exist, the following Disks have emerged as the gold standard for damage dealers as of May 23, 2026.
 
 **Top-Tier DPS Arcs (Weapon Disks):**
 *   **S-Tier:** undisclosed — Currently regarded as the Best-in-Slot (BiS) for Anima-based attackers like [Nanally](/characters/nanally-guide-nte) due to its high Crit Rate and follow-up damage amplification.
