@@ -151,7 +151,7 @@ The effectiveness of your Disk sets often depends on your team's ability to trig
 *   **Nova (Chaos + Psyche):** Triggers the secondary effect of the Diabolos set, increasing resistance shred.
 *   **Scorch (Chaos + Incantation):** Another way to trigger Diabolos bonuses while dealing damage over time.
 
-When building your Console, always consider if your team can consistently trigger the reactions required by your 4-piece Legendary effects. If your team cannot trigger Nova or Scorch, the Diabolos set loses half of its value, and you might be better off with a universal ATK set like Shadow Creed.
+When building your Console, always consider if your team can consistently trigger the reactions required by your 4-piece Legendary effects. If your team cannot [trigger Nova](https://ntecodex.com/faq) or Scorch, the Diabolos set loses half of its value, and you might be better off with a universal ATK set like Shadow Creed.
 
 ## Sources
 - neverness.gg — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGFzVIzSGgw4T6-XgGa6vjhihJ43eQQnjdR8iHKoWuHI_wN6t5wYGYwx5ZxugeKHNuuASlPi2GgHS-_EW6YawL7M2EOIgKcVwKCd9mL89WsQJobz2CkSBfdNiZCI5VDNlknA==

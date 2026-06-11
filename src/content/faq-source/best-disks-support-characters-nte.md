@@ -89,7 +89,7 @@ The gear system in Neverness to Everness is deeper than standard RPGs due to the
 
 Every character has a Console grid with a specific shape. To activate a 4-piece Cartridge bonus, you don't just "click and equip." You must place Modules into the grid that connect the Cartridge slots. 
 
-Each character has a "Tetris Passive" visible in the top-left of the Console screen. This passive rewards you for using specific Module types (Type II, Type III, or Type IV). For example, Sakiri’s passive increases the team's Nova damage if you fill her grid using at least four Type III Modules. This adds a layer of complexity; you aren't just looking for the best stats, but the right shapes to fit the grid while satisfying the passive requirements.
+Each character has a "Tetris Passive" visible in the top-left of the Console screen. This passive rewards you for using specific Module types (Type II, Type III, or Type IV). For example, Sakiri’s passive increases the team's [Nova damage](https://ntecodex.com/faq) if you fill her grid using at least four Type III Modules. This adds a layer of complexity; you aren't just looking for the best stats, but the right shapes to fit the grid while satisfying the passive requirements.
 
 ### Best Disks for Sakiri and Haniel
 

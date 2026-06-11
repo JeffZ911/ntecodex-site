@@ -28,14 +28,14 @@ Mastering combat in the urban sprawl of Hethereau requires more than just high-l
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-11._
 
 
-To trigger Nova damage in NTE, swap between a Chaos-type and a Psyche-type character when the Esper Meter is full. This applies a mark that explodes after 5 seconds for massive Mental damage.
+To [trigger Nova damage](https://ntecodex.com/faq) in NTE, swap between a Chaos-type and a Psyche-type character when the Esper Meter is full. This applies a mark that explodes after 5 seconds for massive Mental damage.
 
 ## Question Restated
 
 ![Question Restated](/img/how-to-trigger-nova-damage-nte/inline-1.webp)
 
 
-Understanding Nova damage is essential for players looking to optimize their damage rotations in Neverness to Everness. Many players find themselves asking what exactly Nova damage represents within the broader combat system. In the current meta, Nova is recognized as one of the strongest burst reactions because it bypasses several traditional defensive layers that enemies in Hethereau possess.
+Understanding [Nova damage](https://ntecodex.com/faq) is essential for players looking to optimize their damage rotations in Neverness to Everness. Many players find themselves asking what exactly Nova damage represents within the broader combat system. In the current meta, Nova is recognized as one of the strongest burst reactions because it bypasses several traditional defensive layers that enemies in Hethereau possess.
 
 Unlike standard elemental types such as Cosmos or Anima, which often focus on sustained damage over time or immediate flat damage, Nova is a delayed reaction. This delay often leads to confusion among new players who may not see an immediate impact on the enemy's health bar. The reaction is specifically categorized as Mental damage (also known as Cognito damage), a unique damage type that scales differently than physical or elemental strikes.
 
@@ -58,7 +58,7 @@ The damage of this explosion does not scale with traditional Attack or Critical 
 
 ### Chaos and Psyche Character Table
 
-To trigger Nova, you must use characters from the following elemental groups:
+To [trigger Nova](https://ntecodex.com/faq), you must use characters from the following elemental groups:
 
 | Character | Element | Primary Combat Role |
 | :--- | :--- | :--- |
