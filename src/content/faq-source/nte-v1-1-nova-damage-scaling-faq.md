@@ -39,7 +39,7 @@ Understanding how the Nova reaction functions is essential for players moving in
 
 *   How does [Nova damage](https://ntecodex.com/faq) scale in Neverness to Everness v1.1?
 *   What stats should I prioritize for a Nova-focused team?
-*   Does Nova damage benefit from ATK or Crit stats?
+*   Does [Nova damage](https://ntecodex.com/faq) benefit from ATK or Crit stats?
 *   How did the v1.1 update affect Nova's position in the meta?
 
 By answering these questions, players can better allocate resources to characters like Lacrimosa and Haniel who define the current competitive landscape.

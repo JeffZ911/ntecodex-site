@@ -145,7 +145,7 @@ Adler provides a shield that scales off DEF, making him the most durable F2P fro
 ### Nova Burst: Chaos Lane Budget Options
 **Team:** Haniel + Daffodil + Adler + Zero
 
-If you chose Daffodil as your selector S-Rank, your focus shifts to the "Nova" reaction (Chaos + Psyche). This comp excels at delayed burst damage. You apply the Chaos element with Daffodil, then swap to Haniel or Aurelia to trigger Nova. After a short delay, the Nova explodes for massive damage.
+If you chose Daffodil as your selector S-Rank, your focus shifts to the "Nova" reaction (Chaos + Psyche). This comp excels at delayed burst damage. You apply the Chaos element with Daffodil, then swap to Haniel or Aurelia to [trigger Nova](https://ntecodex.com/faq). After a short delay, the Nova explodes for massive damage.
 
 The limitation of this team is the "Chaos" requirement. As of May 2026, Daffodil is one of the few reliable sources of Chaos for F2P players, making her the "linchpin" of this rotation. If she is off-field or her meter is low, the team's damage drops significantly.
 

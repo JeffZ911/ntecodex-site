@@ -85,7 +85,7 @@ To truly master Anomaly team comps, one must understand the underlying math that
 
 ### Core Mechanics: Mastery, Proficiency, and Buildup
 *   **Anomaly Mastery:** This stat determines how quickly you fill the enemy's Anomaly Buildup bar. Higher Mastery means fewer hits are required to trigger an effect like Shock or Burn. This is essential for on-field "drivers" like Jane Doe.
-*   **Anomaly Proficiency:** This stat determines the actual damage dealt by the Anomaly and the resulting Disorder. For every point of Anomaly Proficiency, the damage of the elemental effect increases by 1%. At high levels (300+ Proficiency), the damage scaling becomes exponential compared to traditional Attack scaling.
+*   **Anomaly Proficiency:** This stat determines the actual damage dealt by the Anomaly and the resulting Disorder. For every point of Anomaly Proficiency, the damage of the elemental effect increases by 1%. At high levels (300+ Proficiency), the [damage scaling](https://ntecodex.com/faq) becomes exponential compared to traditional Attack scaling.
 
 ### The Art of the Disorder Rotation
 A successful Disorder rotation follows a specific sequence. First, you apply the "Primary Anomaly" (usually the one with the longest duration or highest DoT, like Burn or Shock). Once the icon appears on the enemy's health bar, you immediately swap to your second Anomaly Agent to trigger the "Secondary Anomaly." 

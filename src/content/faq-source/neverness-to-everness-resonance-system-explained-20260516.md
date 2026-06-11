@@ -48,7 +48,7 @@ The Resonance system (officially managed in the "Awaken" tab) is the primary way
 
 By consuming Mind Shards obtained from the Scarborough Fair gacha, players can unlock up to six Awakening nodes (A1-A6). Each node provides a specific bonus, ranging from cooldown reductions to increased elemental damage. The flexibility of the system is its standout feature; players are not forced into a linear path. If the A4 node provides a utility boost you value more than the A1 damage boost, you can prioritize it immediately upon obtaining the necessary shards.
 
-Major power spikes occur at "Resonance Tiers": Resonance 1 is unlocked at 3 active nodes (A3), and Resonance 2 is unlocked at 6 active nodes (A6). These tiers act as cumulative bonuses that trigger once the required number of nodes are active, regardless of which specific nodes you chose to reach that count. This design encourages strategic planning based on whether you need immediate utility or long-term damage scaling.
+Major power spikes occur at "Resonance Tiers": Resonance 1 is unlocked at 3 active nodes (A3), and Resonance 2 is unlocked at 6 active nodes (A6). These tiers act as cumulative bonuses that trigger once the required number of nodes are active, regardless of which specific nodes you chose to reach that count. This design encourages strategic planning based on whether you need immediate utility or long-term [damage scaling](https://ntecodex.com/faq).
 
 ## Detailed Explanation
 

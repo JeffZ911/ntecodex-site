@@ -138,7 +138,7 @@ Arcs (weapons) play a significant role in how often you can trigger the Esper Cy
 
 ### Advanced Stagger and Break Strategies
 
-While Duo reactions like Scorch provide decent damage, mastering the timing of **Discord** is necessary for the hardest content. Since Discord requires the overlap of Scorch (a 15s DoT) and Nova (an 8s delayed explosion), the optimal rotation involves applying Scorch first, then swapping through the wheel to trigger Nova just as the enemy is about to perform a heavy attack. This maximizes the Stagger damage during the enemy's "vulnerable" frames, leading to faster Breaks.
+While Duo reactions like Scorch provide decent damage, mastering the timing of **Discord** is necessary for the hardest content. Since Discord requires the overlap of Scorch (a 15s DoT) and Nova (an 8s delayed explosion), the optimal rotation involves applying Scorch first, then swapping through the wheel to [trigger Nova](https://ntecodex.com/faq) just as the enemy is about to perform a heavy attack. This maximizes the Stagger damage during the enemy's "vulnerable" frames, leading to faster Breaks.
 
 ## Sources
 
