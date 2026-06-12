@@ -94,7 +94,7 @@ The Console system is where NTE gear complexity truly resides. Every character h
 
 To optimize a support Console, you should aim for the following:
 1.  **Module Type Synergy:** Characters have "Console Bonuses" that trigger based on the *type* of modules installed. For example, Haniel gains a 10% ATK bonus for every Type III Module equipped.
-2.  **Stat Priority:** For the center Cartridge piece, always look for **Charge Efficiency** as the main stat. For the individual Modules, prioritize **Cycle Intensity** (which boosts reaction damage) and **Break Intensity** (which helps stun bosses).
+2.  **Stat Priority:** For the center Cartridge piece, always look for **Charge Efficiency** as the main stat. For the individual Modules, prioritize **Cycle Intensity** (which boosts [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide)) and **Break Intensity** (which helps stun bosses).
 3.  **Shape Efficiency:** Use the "Rewind" system to gamble for Module shapes that take up the least amount of space (like 1x2 or 1x3 blocks) so you can fit more Modules into the grid beyond the four required for the set bonus.
 
 ### Haniel Build Guide: The F2P Support Queen

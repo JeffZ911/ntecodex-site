@@ -72,7 +72,7 @@ New players should focus on building a "Lane" of at least two characters whose e
 This team is the gold standard for beginners because all three units are provided through the main story or pre-registration rewards. Zero acts as your primary field carry, Edgar provides a safety net with consistent healing, and Haniel offers a massive damage multiplier through her Ultimate. Because Zero and Edgar share the Cosmos element, they generate "Cosmos Resonance," which increases the duration of Phantoms by undisclosed.
 
 ### Best Team for Bosses: The Discord Breaker
-Bosses in NTE have a "Stagger Bar" that reduces incoming damage until it is broken. The Discord reaction (Incantation + Chaos + Psyche) is the fastest way to deplete this bar. By using Adler to apply Incantation, Daffodil to trigger Chaos, and Fadia to amplify the Psyche component, you can keep bosses in a "Broken" state for nearly 40% of the fight duration.
+Bosses in NTE have a "Stagger Bar" that reduces incoming damage until it is broken. The [Discord reaction](https://ntecodex.com/faq) (Incantation + Chaos + Psyche) is the fastest way to deplete this bar. By using Adler to apply Incantation, Daffodil to trigger Chaos, and Fadia to amplify the Psyche component, you can keep bosses in a "Broken" state for nearly 40% of the fight duration.
 
 ### Best Team for Exploration: The Blossom AoE Squad
 When moving through Hethereau, you often encounter groups of 5–10 enemies. The Blossom reaction (Cosmos + Anima) creates small floral turrets that automatically target the nearest enemy. By combining Zero’s wide swings with Mint’s Anima-infused projectiles, you can maintain 3–4 Blossom turrets simultaneously, clearing mobs without having to target each one individually.

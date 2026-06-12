@@ -49,7 +49,7 @@ In the Esper Cycle, Chaos and Psyche occupy specific positions that allow them t
 ![Direct Answer](/img/how-nova-scaling-works-nte/inline-2.webp)
 
 
-Nova scaling is primarily driven by the [Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) stat of the characters involved in the reaction. This stat acts as a dedicated multiplier for reaction-based damage, distinguishing it from the raw ATK or CRIT stats used by physical or direct elemental attackers.
+[Nova scaling](https://ntecodex.com/faq) is primarily driven by the [Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) stat of the characters involved in the reaction. This stat acts as a dedicated multiplier for reaction-based damage, distinguishing it from the raw ATK or CRIT stats used by physical or direct elemental attackers.
 
 The damage formula uses the highest Cycle Intensity value between the Chaos and Psyche Espers who triggered the effect. This means you only need one "reaction driver" with extremely high stats to maximize the damage, rather than needing high stats on every member of the team. Base damage for the Nova burst scales exponentially with character level, independent of traditional ATK stats. While the damage is categorized as Mental damage, it notably does not scale with Mental DMG bonus percentages from gear or buffs, making Cycle Intensity and Level the only two ways to directly increase the raw numbers.
 
@@ -77,7 +77,7 @@ The formula follows a structure where:
 Because the game selects the highest Cycle Intensity value from the participating Espers, players often build one "Trigger" character (like Haniel) with maximum Cycle Intensity via Cartridges, while the "Enabler" character (like Daffodil) focuses on Cycle Rate to apply elements as fast as possible.
 
 ### Level Scaling: From Early Game to Level 90
-Leveling your characters is the most significant way to increase Nova damage because the base value grows significantly in the later stages of progression. At Level 70, the base Nova burst damage is approximately 28,000 before any multipliers are applied. This base value jumps significantly as you approach the level cap.
+Leveling your characters is the most significant way to increase [Nova damage](https://ntecodex.com/faq) because the base value grows significantly in the later stages of progression. At Level 70, the base Nova burst damage is approximately 28,000 before any multipliers are applied. This base value jumps significantly as you approach the level cap.
 
 | Esper Level | Approximate Base Nova Damage |
 | :--- | :--- |

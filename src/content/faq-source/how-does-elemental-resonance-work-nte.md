@@ -104,7 +104,7 @@ Triple Cycles are advanced maneuvers that require you to cycle through three cha
 *   **How to trigger:** Complete a full rotation between these three elements (e.g., Lakshana -> Cosmos -> Anima).
 *   **Effect:** Upon completing the third swap, the team enters a "Charged State." This restores a massive amount of Energy to all characters and reduces the cooldown of Esper Skills by [exact value pending official confirmation]. It is the go-to strategy for teams that rely on frequent Ultimate usage.
 
-**The Discord Reaction (Bottom Trio)**
+**The [Discord Reaction](https://ntecodex.com/faq) (Bottom Trio)**
 *   **Elements:** Incantation, Chaos, Psyche.
 *   **How to trigger:** Complete a full rotation between these three elements (e.g., Chaos -> Incantation -> Psyche).
 *   **Effect:** Triggers a "Discordance Explosion." This deals heavy Stagger damage, often instantly breaking the "Toughness" bar of elite enemies and bosses. It is essential for high-difficulty content where enemies have regenerating shields.

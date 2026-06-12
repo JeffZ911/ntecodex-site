@@ -81,7 +81,7 @@ Characters like Adler rely heavily on DEF scaling to provide shields. Kingdom’
 Fadia remains the most popular healer in the game, and Thea’s Night Tavern is her signature set. The energy restoration mechanic (2 energy per second) is often overlooked but allows for "infinite looping" of Ultimates in well-constructed teams.
 
 **Tiny Big Adventure**
-This set is specifically designed for characters whose utility scales with their health pool. By converting HP into Cycle Intensity, it allows a tanky support to increase the team's reaction damage without sacrificing their own survivability.
+This set is specifically designed for characters whose utility scales with their health pool. By converting HP into Cycle Intensity, it allows a tanky support to increase the team's [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) without sacrificing their own survivability.
 
 ### Main Stat and Sub-stat Priority for Supports
 

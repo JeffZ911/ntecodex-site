@@ -56,7 +56,7 @@ As of the current version of the game, Discord has become the cornerstone of the
 Discord is an advanced Trio Reaction that functions as a powerful debuff against enemy defenses. It is triggered by stacking the Nova and Scorch Duo Reactions on a single target. 
 
 To achieve this, you must follow a specific elemental formula:
-1.  **Requirement 1:** Trigger Nova by combining Psyche and Chaos.
+1.  **Requirement 1:** [Trigger Nova](https://ntecodex.com/faq) by combining Psyche and Chaos.
 2.  **Requirement 2:** Trigger Scorch by combining Incantation and Chaos.
 3.  **The Result:** When both Nova and Scorch are active on the same enemy, the Discord reaction triggers automatically.
 
@@ -85,7 +85,7 @@ Executing the Discord reaction requires a disciplined rotation and careful manag
 
 ### Mastering the Rotation Timing
 
-To trigger Discord effectively, follow this step-by-step rotation:
+To [trigger Discord](https://ntecodex.com/faq) effectively, follow this step-by-step rotation:
 
 1.  **Build Cycle Energy:** Begin the fight by using your characters' basic attacks, parries, or perfect dodges to fill the Esper Meter. You will need enough energy to perform at least two swaps within the Esper Cycle.
 2.  **Apply Scorch First:** Start with an Incantation character like Baicang and swap to a Chaos character like Daffodil. This triggers Scorch. Scorch is the foundation of the Discord reaction because it has a relatively long duration of 15 seconds.
