@@ -56,7 +56,7 @@ To maximize Pela's utility while conserving resources, follow this upgrade prior
 
 1.  **Ultimate (Zone Suppression):** This is her most important tool. Increasing its level directly increases the percentage of DEF shred applied to enemies.
 2.  **Talent (Data Collecting):** This allows Pela to regenerate extra Energy when her attack hits a debuffed enemy. High levels are required to achieve consistent 2-turn or 3-turn Ultimate rotations.
-3.  **Skill (Frostbite):** Useful for removing buffs from enemies (like the Mara-Struck's revive), but the damage scaling is secondary.
+3.  **Skill (Frostbite):** Useful for removing buffs from enemies (like the Mara-Struck's revive), but the [damage scaling](https://ntecodex.com/faq) is secondary.
 4.  **Basic ATK (Frost Shot):** Used primarily for SP generation and Energy. Upgrade this last.
 
 ### Why Pela is a Top-Tier Support

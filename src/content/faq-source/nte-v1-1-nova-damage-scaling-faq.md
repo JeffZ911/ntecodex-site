@@ -119,7 +119,7 @@ While Nova deals delayed Mental Damage, Scorch (Incantation + Chaos) deals Damag
 ## Frequently Asked Questions
 
 ### Does Nova damage benefit from Critical Hits?
-No, Nova damage is a reaction-based burst and cannot critically hit. To increase its damage, you must focus on increasing your team's highest Cycle Intensity stat or using gear like the Devil's Blood: Curse set which provides a flat percentage damage increase.
+No, [Nova damage](https://ntecodex.com/faq) is a reaction-based burst and cannot critically hit. To increase its damage, you must focus on increasing your team's highest Cycle Intensity stat or using gear like the Devil's Blood: Curse set which provides a flat percentage damage increase.
 
 ### Why does my Nova damage feel low even with high ATK?
 Nova damage scales with Cycle Intensity, not ATK. If your characters are built with high ATK but low Cycle Intensity, your standard skills will hit hard, but your Nova reactions will underperform. You should check your Cartridges to ensure you have enough Cycle Intensity for v1.1 content.

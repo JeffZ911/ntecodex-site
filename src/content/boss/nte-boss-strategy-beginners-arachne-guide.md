@@ -139,7 +139,7 @@ Hathor is widely considered the MVP for the Never-Ending Arachne fight. Her kit 
 
 ### Best F2P Team Composition
 If you haven't pulled any S-Rank characters yet, you can still clear this boss using the starter units:
-*   **Zero (Cosmos):** Use Zero to mark the boss with "Remora," which increases the reaction damage from your other units.
+*   **Zero (Cosmos):** Use Zero to mark the boss with "Remora," which increases the [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) from your other units.
 *   **Mint (Blossom):** Provides the necessary healing to survive the puppet shockwaves in Phase 1.
 *   **Adler (Incantation):** Acts as your primary damage dealer, utilizing the reactions triggered between Cosmos and Blossom to reset skill cooldowns.
 

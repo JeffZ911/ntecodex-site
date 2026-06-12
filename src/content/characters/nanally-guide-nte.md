@@ -156,7 +156,7 @@ Nanally shines brightest when paired with characters who can trigger rapid **Esp
 *   **Sub-DPS/Support:** Zero
 *   **Support/Utility:** [Sakiri](/characters/sakiri-nte-free-5-star-guide/)
 
-This is the current "meta" team for Nanally. **Zero** provides instant Esper Cycle gauge fills and triggers the **Blossom** reaction (Anima + Cosmos). **Jiuyuan** is critical here because she increases the maximum number of Blossoms allowed on the field simultaneously, effectively doubling the reaction damage. Finally, **Sakiri** provides the **Hexed** reaction, which records a percentage of Nanally's damage over a short window and then "detonates" it for a massive burst. For more on her best partner, see our Jiuyuan build guide.
+This is the current "meta" team for Nanally. **Zero** provides instant Esper Cycle gauge fills and triggers the **Blossom** reaction (Anima + Cosmos). **Jiuyuan** is critical here because she increases the maximum number of Blossoms allowed on the field simultaneously, effectively doubling the [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). Finally, **Sakiri** provides the **Hexed** reaction, which records a percentage of Nanally's damage over a short window and then "detonates" it for a massive burst. For more on her best partner, see our Jiuyuan build guide.
 
 ### 2. F2P Friendly Cycle
 *   **Main DPS:** Nanally

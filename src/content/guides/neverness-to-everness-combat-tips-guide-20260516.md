@@ -104,7 +104,7 @@ For Cosmos characters like Zero or [Hotori](/characters/hotori-best-team-nte), *
 
 ### Best A-Rank and F2P Arcs
 
-F2P players should prioritize Arcs that offer universal utility. **Oraora!** is a standout A-Rank option for characters who rely on high-frequency Basic Attacks, such as Nanally or Chiz. It provides a stacking damage bonus that is easy to maintain. Another strong F2P option is **Song of the Whale**, which can be obtained as a drop from world bosses and provides consistent damage scaling for sustained fights.
+F2P players should prioritize Arcs that offer universal utility. **Oraora!** is a standout A-Rank option for characters who rely on high-frequency Basic Attacks, such as Nanally or Chiz. It provides a stacking damage bonus that is easy to maintain. Another strong F2P option is **Song of the Whale**, which can be obtained as a drop from world bosses and provides consistent [damage scaling](https://ntecodex.com/faq) for sustained fights.
 
 ### Recommended Arcs for Top Characters
 

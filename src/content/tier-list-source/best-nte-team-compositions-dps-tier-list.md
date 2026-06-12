@@ -92,7 +92,7 @@ If Nanally is the queen of sustained damage, the Daffodill and Baicang duo are t
 *   **Support:** Sakiri
 *   **Tank/Support:** Fadia
 
-The rotation begins with Daffodill using her "Kiroumaru" assist skill to shred shields. Once the boss is nearing a break state, Sakiri applies Incantation to prime a Scorch reaction. Baicang then enters the field to trigger Nova with her Chaos-aligned attacks. The resulting Discord reaction (Nova + Scorch) deals massive percentage-based damage that ignores a portion of the boss's defense.
+The rotation begins with Daffodill using her "Kiroumaru" assist skill to shred shields. Once the boss is nearing a break state, Sakiri applies Incantation to prime a Scorch reaction. Baicang then enters the field to [trigger Nova](https://ntecodex.com/faq) with her Chaos-aligned attacks. The resulting Discord reaction (Nova + Scorch) deals massive percentage-based damage that ignores a portion of the boss's defense.
 
 **Comparison Table: Nanally vs. Baicang DPS Output**
 

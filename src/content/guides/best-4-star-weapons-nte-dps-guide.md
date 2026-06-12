@@ -132,7 +132,7 @@ This makes it an essential tool for Anomaly Hunts and world boss encounters. Add
 
 Stellar Veil is the go-to recommendation for Psyche-specific DPS units, most notably Aurelia. Its passive, "Aqua Astra," provides a flat 12% boost to all Psyche damage. Furthermore, dealing Psyche damage grants a stacking CRIT DMG buff (2% per stack, up to 10 stacks) that can be triggered every 0.1 seconds.
 
-Because Psyche characters often rely on high-frequency elemental procs, the 10 stacks are usually achieved almost instantly. This weapon serves as a bridge between the raw power of S-Rank signatures and the general utility of the Fluff series, offering a more tailored experience for the Psyche reaction meta.
+Because Psyche characters often rely on high-frequency elemental procs, the 10 stacks are usually achieved almost instantly. This weapon serves as a bridge between the raw power of S-Rank signatures and the general utility of the Fluff series, offering a more tailored experience for the [Psyche reaction](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) meta.
 
 **Pros:**
 *   Tailored specifically for Psyche elemental scaling.

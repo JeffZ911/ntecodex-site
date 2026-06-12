@@ -129,7 +129,7 @@ Adler is the go-to choice for players who struggle with dodging boss mechanics. 
 
 Haniel (A-Rank, Psyche/Solid) is a specialist designed for "hyper-carry" teams. Her "Silent Moonlit Forest Guardian" skill creates a tether to the active character, granting them a percentage of Haniel’s own base ATK. Because this scales off her base stats, she is incredibly easy to build—simply stack ATK-main stat Arcs on her, and your main DPS will see a massive spike in performance.
 
-She is particularly potent when paired with Psyche-element DPS characters to trigger Nova reactions, which provide the necessary AOE burst that Haniel otherwise lacks in her own kit.
+She is particularly potent when paired with Psyche-element DPS characters to [trigger Nova](https://ntecodex.com/faq) reactions, which provide the necessary AOE burst that Haniel otherwise lacks in her own kit.
 
 **Haniel ATK Buff Calculation Guide**
 
