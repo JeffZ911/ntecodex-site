@@ -1,5 +1,5 @@
 ---
-title: "Best Healer Build in Neverness to Everness (NTE): Top Espers & Arcs"
+title: "Best Healer in NTE: Top Builds, Espers & Arcs (June 2026)"
 slug: best-healer-build-nte-20260520
 article_type: build
 qa_score: 8.8

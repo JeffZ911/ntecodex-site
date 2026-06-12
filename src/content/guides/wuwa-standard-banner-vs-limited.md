@@ -1,5 +1,5 @@
 ---
-title: "WuWa Standard Banner vs Limited: Where to Pull (June 2026)"
+title: "WuWa Standard Banner vs Limited: Best Pulls for June 2026"
 slug: wuwa-standard-banner-vs-limited
 game: wuthering_waves
 article_type: comparison
