@@ -110,7 +110,7 @@ When rolling for substats on your 4-star support disks, one stat reigns supreme:
 For support Cartridges, prioritize stats in this order:
 1.  **Charge Efficiency** (until you reach your character's "Comfort Threshold").
 2.  **Flat HP / DEF** (for survivability).
-3.  **Elemental Mastery** (to increase reaction damage like Scorch or Stain).
+3.  **Elemental Mastery** (to increase [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) like Scorch or Stain).
 4.  **ATK%** (only if the support has significant personal damage).
 
 A common mistake is trying to build Crit Rate on a support character. Unless you are running a very specific "Sub-DPS" build, Crit stats on a support are usually wasted potential that could have been Charge Efficiency.

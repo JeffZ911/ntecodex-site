@@ -128,7 +128,7 @@ The Protagonist is surprisingly versatile, capable of acting as a secondary DPS 
 *   **Module Priority:** If running as a support, stack Type IV Modules for maximum Cycle Intensity.
 
 #### Sakiri (S-Rank Incantation Support)
-Sakiri is essential for any team looking to maximize elemental reaction damage.
+Sakiri is essential for any team looking to maximize elemental [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 *   **Recommended Set:** 4-piece Speedy Hedgehog.
 *   **Module Priority:** Focus entirely on Cycle Intensity and HP%. Sakiri needs to survive long enough to rotate her buffs, and her healing scales slightly with her total health.
 

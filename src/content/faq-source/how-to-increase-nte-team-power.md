@@ -97,7 +97,7 @@ Raw stats can only take you so far if you do not understand the Esper Cycle. Com
 | — | Chaos + Lakshana | — |
 | — | Psyche + Cosmos | — |
 
-A team with lower raw power but high synergy will often outperform a "whale" team with no elemental cohesion. For example, triggering Discord is essential for late-game bosses that regenerate shields rapidly. If your team cannot trigger Discord, your numerical Team Power becomes irrelevant against those specific mechanics.
+A team with lower raw power but high synergy will often outperform a "whale" team with no elemental cohesion. For example, triggering Discord is essential for late-game bosses that regenerate shields rapidly. If your team cannot [trigger Discord](https://ntecodex.com/faq), your numerical Team Power becomes irrelevant against those specific mechanics.
 
 ### Hunter Level and Appraisal Level Gating
 

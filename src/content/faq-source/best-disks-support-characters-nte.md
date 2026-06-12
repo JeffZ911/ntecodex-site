@@ -100,7 +100,7 @@ Sakiri is currently the premier support in NTE. Her Ultimate provides a massive 
 
 **Haniel (A-Class Discord Support)**
 Haniel excels at breaking shields and applying the Discord status effect, which increases the damage enemies take from all sources.
-*   **Best Set:** **Lost Glow**. The 4-piece bonus of Lost Glow shreds the enemy's DEF by 20% for 10 seconds after Haniel uses her Skill. This stacks with the Discord reaction, making her essential for boss fights.
+*   **Best Set:** **Lost Glow**. The 4-piece bonus of Lost Glow shreds the enemy's DEF by 20% for 10 seconds after Haniel uses her Skill. This stacks with the [Discord reaction](https://ntecodex.com/faq), making her essential for boss fights.
 *   **Module Priority:** Haniel uses a mix of Type II and Type IV Modules. Prioritize Break Intensity main stats to ensure she can deplete the stability bar in a single rotation.
 
 ### Defensive Supports: Building Adler and Edgar

@@ -110,7 +110,7 @@ The Blossom reaction creates "Anima Blooms" on the battlefield. Each Bloom fires
 ### Advanced Starter Synergy: Triggering Discord with Adler and Daffodil
 Discord is a Trio Reaction, making it harder to execute but significantly more powerful. It requires three different elements to be present on the target within a 3-second window.
 
-Adler (Incantation) and Daffodil (Chaos) are both obtainable through the standard "Urban Recruitment" banner. When paired with a Psyche unit like Fadia or Haniel, they form the "Discord Breaker" team. This team is less about sustained damage and more about "Burst Windows." You apply all three elements, trigger Discord to break the boss, and then dump all your Ultimates while the boss is incapacitated.
+Adler (Incantation) and Daffodil (Chaos) are both obtainable through the standard "Urban Recruitment" banner. When paired with a Psyche unit like Fadia or Haniel, they form the "Discord Breaker" team. This team is less about sustained damage and more about "Burst Windows." You apply all three elements, [trigger Discord](https://ntecodex.com/faq) to break the boss, and then dump all your Ultimates while the boss is incapacitated.
 
 ### How to Use Your S-Rank Selector for Team Balance
 Most players receive an S-Rank Standard Selector after 300 recruitments or through specific launch milestones. To optimize your starter team, you should pick a character that completes a high-tier "Lane."

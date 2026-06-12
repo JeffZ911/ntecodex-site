@@ -26,7 +26,7 @@ Maximizing Cognito burst damage requires a deep understanding of how elemental i
 
 # How Nova Scaling Works in Neverness to Everness (NTE)
 
-Nova scaling in NTE determines the damage of the Chaos + [Psyche reaction](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). It scales based on the highest Cycle Intensity stat among participating Espers and the character's level, resulting in a massive Cognito burst after 5 seconds.
+[Nova scaling](https://ntecodex.com/faq) in NTE determines the damage of the Chaos + [Psyche reaction](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). It scales based on the highest Cycle Intensity stat among participating Espers and the character's level, resulting in a massive Cognito burst after 5 seconds.
 
 ## Question Restated
 
@@ -72,7 +72,7 @@ The Nova reaction attaches a mark to the enemy that detonates after a 5-second d
 Cycle Intensity acts as a direct multiplier to the base reaction damage. Unlike ATK, which has diminishing returns as you stack flat and percentage bonuses, Cycle Intensity provides a consistent growth curve. For example, reaching [360 Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) provides approximately a 60% damage increase to the burst. 
 
 The formula follows a structure where:
-`Nova Damage = Base Damage (Level) * (1 + (Cycle Intensity / 600))` 
+`[Nova Damage](https://ntecodex.com/faq) = Base Damage (Level) * (1 + (Cycle Intensity / 600))` 
 
 Because the game selects the highest Cycle Intensity value from the participating Espers, players often build one "Trigger" character (like Haniel) with maximum Cycle Intensity via Cartridges, while the "Enabler" character (like Daffodil) focuses on Cycle Rate to apply elements as fast as possible.
 
