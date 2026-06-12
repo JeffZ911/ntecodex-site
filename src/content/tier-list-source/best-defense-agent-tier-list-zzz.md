@@ -162,4 +162,4 @@ Key updates in the 2.7 cycle include:
 - Sportskeeda ZZZ Zhao Kit Leaks — https://www.sportskeeda.com/esports/zenless-zone-zero-zhao-kit-leaks-abilities-special-attack-ultimate
 - Joytify ZZZ Version 2.7 Meta — https://joytify.com/best-zzz-tier-list-v2-7-meta-agents-in-2026/
 - LootBar Pan Yinhu Kit Analysis — https://lootbar.gg/blog/pan-yinhu-kit-w-engine-mindscape-cinema-leaked-zenless-zone-zero/
-- Genshin Builds ZZZ 2.7 Tier List
+- Genshin Builds [ZZZ 2](https://ntecodex.com/guides/zzz-2-1-yuzuha-vs-alice-gear-comparison).7 Tier List

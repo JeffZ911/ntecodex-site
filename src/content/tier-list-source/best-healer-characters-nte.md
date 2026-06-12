@@ -83,7 +83,7 @@ Her Ultimate ability provides a massive self-heal based on her total Psyche reso
 
 Jiuyuan represents the "Hybrid" archetype that NTE players have come to love. As an Anima-element character, she provides consistent ranged DPS that rivals many dedicated attackers. However, her true value lies in her Awakening 2 (A2) passive, which converts a portion of her skill damage into team-wide healing.
 
-This "Lifesteal" mechanic means that as long as Jiuyuan is attacking, your team is receiving a steady stream of health. She is particularly effective when using a Liquid Arc, which enhances her Anima application and allows her to trigger Nova reactions frequently. For players who want to maximize their clear times without sacrificing safety, Jiuyuan is the optimal choice.
+This "Lifesteal" mechanic means that as long as Jiuyuan is attacking, your team is receiving a steady stream of health. She is particularly effective when using a Liquid Arc, which enhances her Anima application and allows her to [trigger Nova](https://ntecodex.com/faq) reactions frequently. For players who want to maximize their clear times without sacrificing safety, Jiuyuan is the optimal choice.
 
 ## A Tier
 

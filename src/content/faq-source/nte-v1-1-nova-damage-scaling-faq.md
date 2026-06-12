@@ -98,7 +98,7 @@ Discord is the primary tool for shredding enemy Break/Stagger gauges. In v1.1, b
 ![Related](/img/nte-v1-1-nova-damage-scaling-faq/inline-4.webp)
 
 
-Mastering Nova damage is just one part of building a top-tier team. To fully utilize these mechanics, players should look into the specific builds for the characters that trigger these reactions most effectively.
+Mastering [Nova damage](https://ntecodex.com/faq) is just one part of building a top-tier team. To fully utilize these mechanics, players should look into the specific builds for the characters that trigger these reactions most effectively.
 
 ### Lacrimosa v1.1 Build Guide
 

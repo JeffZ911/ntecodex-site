@@ -48,7 +48,7 @@ Deciding between Kamisato Ayaka and Ganyu requires an understanding of how their
 ![TL;DR Verdict](/img/ayaka-vs-ganyu-dps-comparison/inline-1.webp)
 
 
-Kamisato Ayaka remains the premier choice for players who prioritize "nuking" enemies. Her ability to dump over 4,000% damage scaling into a five-second window makes her the undisputed queen of Freeze teams, especially when paired with modern supports like Furina or the recently released Escoffier. If you want a character who can delete a boss's health bar before it can move, Ayaka is your pick.
+Kamisato Ayaka remains the premier choice for players who prioritize "nuking" enemies. Her ability to dump over 4,000% [damage scaling](https://ntecodex.com/faq) into a five-second window makes her the undisputed queen of Freeze teams, especially when paired with modern supports like Furina or the recently released Escoffier. If you want a character who can delete a boss's health bar before it can move, Ayaka is your pick.
 
 Ganyu, conversely, is the pinnacle of versatility. While her Freeze teams have faced challenges due to un-groupable enemies in the Natlan era, her Melt compositions have seen a massive resurgence thanks to Mavuika. Ganyu offers a "no-cooldown" playstyle where her primary damage comes from her Level 2 Charged Shots, making her immune to the Energy Recharge (ER) droughts that can cripple Ayaka.
 

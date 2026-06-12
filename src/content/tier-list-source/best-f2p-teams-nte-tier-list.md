@@ -141,7 +141,7 @@ This team is designed specifically for boss encounters where "Stance Breaking" i
 *   **Support:** Haniel
 *   **Sub-DPS:** Aurelia
 
-**Why it works:** Daffodil is a Chaos-element specialist with the highest "Break" value in the game. By using Haniel and Zero to provide buffs and energy, Daffodil can keep a boss in a "Broken" state for nearly 40% of the fight. Aurelia provides off-field Psyche damage, which reacts with Daffodil’s Chaos to trigger Nova explosions.
+**Why it works:** Daffodil is a Chaos-element specialist with the highest "Break" value in the game. By using Haniel and Zero to provide buffs and energy, Daffodil can keep a boss in a "Broken" state for nearly 40% of the fight. Aurelia provides off-field Psyche damage, which reacts with Daffodil’s Chaos to [trigger Nova](https://ntecodex.com/faq) explosions.
 
 **Best F2P Arcs (Weapons) for A-Tier Teams:**
 *   **Daffodil:** "Heavy Metal Riff" (Craftable) - Increases Break Efficiency by 15%.

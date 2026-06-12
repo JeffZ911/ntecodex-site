@@ -65,7 +65,7 @@ The core of Nanally’s power lies in her ability to maintain pressure both on a
 
 ### Why Nanally is the Best Launch DPS
 
-Nanally stands at the top of the launch meta because her damage scaling is exceptionally efficient. As a Plasma-type character, she benefits from offensive stat growth that prioritizes burst potential. Her kit is perfectly tuned for the "Blossom" reaction (Anima + Cosmos), which is currently the most accessible and high-performing elemental interaction for new players. 
+Nanally stands at the top of the launch meta because her [damage scaling](https://ntecodex.com/faq) is exceptionally efficient. As a Plasma-type character, she benefits from offensive stat growth that prioritizes burst potential. Her kit is perfectly tuned for the "Blossom" reaction (Anima + Cosmos), which is currently the most accessible and high-performing elemental interaction for new players. 
 
 Furthermore, her skill floor is relatively forgiving. While her ceiling is high due to the spatial awareness required for her anti-gravity wall-running, her basic "hit everything fast" playstyle produces massive numbers even with moderate investment. She excels in both multi-target mob clearing and single-target boss encounters, making her a "one-size-fits-all" solution for the game’s early challenging content.
 
