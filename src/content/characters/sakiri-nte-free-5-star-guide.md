@@ -1,5 +1,5 @@
 ---
-title: "Sakiri: Best Free 5-Star Character Guide | NTE"
+title: "Sakiri NTE Guide: Best Free 5-Star Character (June 2026)"
 game: nte
 slug: sakiri-nte-free-5-star-guide
 article_type: character_db

@@ -1,5 +1,5 @@
 ---
-title: "Ruan Mei vs Robin: Which HSR Support Is Better? (June 2026)"
+title: "Robin or Ruan Mei for DoT? Best HSR Support (June 2026)"
 slug: ruan-mei-vs-robin-support-comparison-hsr
 game: hsr
 article_type: comparison
