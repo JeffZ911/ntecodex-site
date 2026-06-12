@@ -1,5 +1,5 @@
 ---
-title: "Neverness to Everness: Should You Pull Nanally or Wait for Hotori?"
+title: "Can I Still Get Nanally in NTE? Pull vs Hotori (June 2026)"
 game: nte
 slug: nte-should-i-pull-nanally-hotori-guide
 article_type: comparison
