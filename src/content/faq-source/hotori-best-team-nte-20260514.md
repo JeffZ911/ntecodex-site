@@ -128,7 +128,7 @@ For gear, the **"Lost Radiance"** 4-piece Cartridge set is the standard. The 2-p
 | **Signature Arc** | Marching Beyond Time | Grants team-wide "Wastetime" stacks; provides massive DEF ignore on Ultimate. |
 | **F2P Arc** | The Rain That Shook the World | Increases Cosmos DMG by 42% after using a Redirect skill. |
 | **Best Cartridge** | Lost Radiance (4-Pc) | Increases Cosmos DMG and provides post-Ultimate DEF shred. |
-| **Alternative Cartridge** | Fireflies and the Forest | Boosts Blossom reaction damage and Vita Bud attack speed. |
+| **Alternative Cartridge** | Fireflies and the Forest | Boosts Blossom [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) and Vita Bud attack speed. |
 
 ### Hotori vs. Other Cosmos Characters
 Compared to other Cosmos units like **Zero** or **Edgar**, Hotori occupies a unique niche. Zero is a "Main DPS" who wants to stay on the field and slash enemies with a sword. Edgar is a "Survival/Healer" who focuses on keeping the team alive with "Liquid" archetype abilities. Hotori is the only character who can "borrow" the power of her teammates. This makes her more future-proof; as stronger Anima or Lakshana characters are released in future patches (such as the rumored Chaos or Psyche characters in version 1.1), Hotori will only get stronger by recording their more powerful skills.

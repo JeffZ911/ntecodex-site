@@ -79,7 +79,7 @@ Because the game selects the highest Cycle Intensity value from the participatin
 ### Level Scaling: From Early Game to Level 90
 Leveling your characters is the most significant way to increase [Nova damage](https://ntecodex.com/faq) because the base value grows significantly in the later stages of progression. At Level 70, the base Nova burst damage is approximately 28,000 before any multipliers are applied. This base value jumps significantly as you approach the level cap.
 
-| Esper Level | Approximate Base Nova Damage |
+| Esper Level | Approximate Base [Nova Damage](https://ntecodex.com/faq) |
 | :--- | :--- |
 | 10 | 1,200 |
 | 30 | 4,500 |
@@ -118,7 +118,7 @@ While Nova is the king of delayed burst damage, other reactions serve different 
 It is easy to confuse these two stats. [Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) is a damage multiplier. Cycle Rate is effectively "Elemental Energy Recharge"—it determines how quickly your Espers can use their abilities and how fast they apply elemental gauges. For a Nova team, you want your Enabler (Chaos) to have high Cycle Rate and your Trigger (Psyche) to have high Cycle Intensity.
 
 ### Beginner Progression Guide: Appraisal Levels and Hunter EXP
-To reach the high base damage numbers of Nova scaling, you must focus on the [City Tycoon](https://www.reddit.com/r/NevernessToEverness/comments/city_tycoon_resource_guide/) system. This side of the game manages your resource gathering for Esper upgrades. Higher Appraisal Levels unlock better Module drops and the materials required to ascend characters past Level 70. Without consistent participation in the city's management mechanics, your Hunter EXP will lag, preventing you from reaching the Level 90 threshold where Nova damage truly peaks.
+To reach the high base damage numbers of [Nova scaling](https://ntecodex.com/faq), you must focus on the [City Tycoon](https://www.reddit.com/r/NevernessToEverness/comments/city_tycoon_resource_guide/) system. This side of the game manages your resource gathering for Esper upgrades. Higher Appraisal Levels unlock better Module drops and the materials required to ascend characters past Level 70. Without consistent participation in the city's management mechanics, your Hunter EXP will lag, preventing you from reaching the Level 90 threshold where Nova damage truly peaks.
 
 ## Frequently Asked Questions
 

@@ -133,7 +133,7 @@ While Cartridges provide the set bonuses, Arcs provide the raw stat sticks.
 
 The Esper Cycle is the circular gauge located near your character's health bar. It fills as you deal elemental damage. Support characters using the Speedy Hedgehog or Tiny Big Adventure sets accelerate this gauge significantly. When the gauge is full, switching to your main DPS triggers an "Esper Burst," which consumes all current buffs to deal a massive finishing blow. 
 
-To optimize this, always rotate through your supports first to trigger the 4-piece Cartridge buffs (like the 15% ATK from Speedy Hedgehog) before switching to your Nanally or other hypercarry for the final burst. This ensures the Esper Reaction damage inherits the ATK buffs from your gear.
+To optimize this, always rotate through your supports first to trigger the 4-piece Cartridge buffs (like the 15% ATK from Speedy Hedgehog) before switching to your Nanally or other hypercarry for the final burst. This ensures the Esper [Reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) inherits the ATK buffs from your gear.
 
 ## Sources
 

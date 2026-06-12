@@ -26,7 +26,7 @@ Optimizing high-end damage dealers requires a deep understanding of how set bonu
 
 # HSR 4.3 Mortenax Blade Relic FAQ: Best Builds & NTE Gear Equivalents
 
-As players progress through the Version 4.3 update of Honkai: Star Rail, the introduction of Mortenax Blade has shifted the meta toward high-risk, high-reward Fire Nihility builds. Because many players are also exploring the open-world mechanics of Neverness to Everness (NTE), which launched on 2026-04-29, there is a growing interest in how the gear systems of these two titles compare. This guide answers the most pressing questions regarding Mortenax Blade’s relic requirements and identifies the closest equipment equivalents within the NTE "Console" system.
+As players progress through the Version 4.3 update of Honkai: Star Rail, the introduction of [Mortenax Blade](https://ntecodex.com/faq) has shifted the meta toward high-risk, high-reward Fire Nihility builds. Because many players are also exploring the open-world mechanics of Neverness to Everness (NTE), which launched on 2026-04-29, there is a growing interest in how the gear systems of these two titles compare. This guide answers the most pressing questions regarding Mortenax Blade’s relic requirements and identifies the closest equipment equivalents within the NTE "Console" system.
 
 ## Question Restated
 

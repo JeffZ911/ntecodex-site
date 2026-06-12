@@ -26,7 +26,7 @@ Mastering the elemental system in Neverness to Everness is the key to conquering
 
 # How to Trigger Discord Reaction in Neverness to Everness (NTE)
 
-To trigger the Discord reaction in NTE, you must apply both the Nova (Psyche + Chaos) and Scorch (Incantation + Chaos) effects to the same enemy simultaneously. This Trio Reaction significantly reduces the target's Break cap, allowing your team to stagger even the most resilient bosses with a single rotation.
+To trigger the [Discord reaction](https://ntecodex.com/faq) in NTE, you must apply both the Nova (Psyche + Chaos) and Scorch (Incantation + Chaos) effects to the same enemy simultaneously. This Trio Reaction significantly reduces the target's Break cap, allowing your team to stagger even the most resilient bosses with a single rotation.
 
 ## Question Restated
 
@@ -102,7 +102,7 @@ Choosing the right "enablers" is the difference between a clunky rotation and a 
 
 ### How to Fill the Esper Meter Instantly
 
-If you find yourself struggling to maintain the rotation, the protagonist, [Esper Zero](https://ign.com), offers a unique solution. Their [Redirect Skill](https://ign.com) can immediately trigger an Esper Cycle regardless of your current energy levels, provided the skill is off cooldown. This is a "get out of jail free" card for when a boss enters a critical phase and you need to trigger Discord immediately but lack the built-up energy.
+If you find yourself struggling to maintain the rotation, the protagonist, [Esper Zero](https://ign.com), offers a unique solution. Their [Redirect Skill](https://ign.com) can immediately trigger an Esper Cycle regardless of your current energy levels, provided the skill is off cooldown. This is a "get out of jail free" card for when a boss enters a critical phase and you need to [trigger Discord](https://ntecodex.com/faq) immediately but lack the built-up energy.
 
 ### The Impact of Break Cap Reduction
 

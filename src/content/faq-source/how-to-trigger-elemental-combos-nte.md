@@ -146,7 +146,7 @@ Beyond the Esper Cycle, players should focus on the following mechanics to impro
 
 *   **Parry Timing:** Since a successful parry grants 100% Esper energy instantly, learning the attack patterns of bosses is the fastest way to speed up your rotations.
 *   **Arc Selection:** Look for Arcs that provide "Cycle Rate" or "Switch Entry DMG." These weapons are specifically designed to reward players who swap frequently.
-*   **Break Gauge Management:** Understanding how the Discord reaction interacts with a boss's white bar (the Stagger meter) is essential for clearing late-game challenges.
+*   **Break Gauge Management:** Understanding how the [Discord reaction](https://ntecodex.com/faq) interacts with a boss's white bar (the Stagger meter) is essential for clearing late-game challenges.
 
 ## Sources
 
