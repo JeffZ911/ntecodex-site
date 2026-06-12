@@ -22,11 +22,11 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing Cognito burst damage requires a deep understanding of how elemental interactions transition from simple status effects into massive area-of-effect explosions. This guide breaks down the specific math and stat priorities needed to optimize Nova scaling for high-level Hethereau content.
+Maximizing Cognito burst damage requires a deep understanding of how elemental interactions transition from simple status effects into massive area-of-effect explosions. This guide breaks down the specific math and stat priorities needed to optimize [Nova scaling](https://ntecodex.com/faq) for high-level Hethereau content.
 
 # How Nova Scaling Works in Neverness to Everness (NTE)
 
-Nova scaling in NTE determines the damage of the Chaos + Psyche reaction. It scales based on the highest Cycle Intensity stat among participating Espers and the character's level, resulting in a massive Cognito burst after 5 seconds.
+Nova scaling in NTE determines the damage of the Chaos + [Psyche reaction](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). It scales based on the highest Cycle Intensity stat among participating Espers and the character's level, resulting in a massive Cognito burst after 5 seconds.
 
 ## Question Restated
 
@@ -53,7 +53,7 @@ Nova scaling is primarily driven by the [Cycle Intensity](https://www.reddit.com
 
 The damage formula uses the highest Cycle Intensity value between the Chaos and Psyche Espers who triggered the effect. This means you only need one "reaction driver" with extremely high stats to maximize the damage, rather than needing high stats on every member of the team. Base damage for the Nova burst scales exponentially with character level, independent of traditional ATK stats. While the damage is categorized as Mental damage, it notably does not scale with Mental DMG bonus percentages from gear or buffs, making Cycle Intensity and Level the only two ways to directly increase the raw numbers.
 
-| Scaling Factor | Impact on Nova Damage | Scaling Type |
+| Scaling Factor | Impact on [Nova Damage](https://ntecodex.com/faq) | Scaling Type |
 | :--- | :--- | :--- |
 | Character Level | Determines Base Damage | Exponential |
 | Cycle Intensity | Multiplies Base Damage | Linear Multiplier |
@@ -112,7 +112,7 @@ Specific characters like Daffodil (Chaos) and Haniel (Psyche) are optimal for No
 Nova is just one part of the broader elemental ecosystem in Neverness to Everness. Understanding how it compares to other reactions helps in team building for the Dreamwalk Corridor.
 
 ### NTE Elemental Reaction Tier List
-While Nova is the king of delayed burst damage, other reactions serve different roles. Scorch (Incantation + Chaos) provides high damage over time (DoT), while reactions involving Lakshana often focus on crowd control or defensive utility. Nova currently sits at the top of the "Burst" tier, especially for players who have reached Level 80+ where the base damage scaling becomes overwhelming for most elite enemies.
+While Nova is the king of delayed burst damage, other reactions serve different roles. Scorch (Incantation + Chaos) provides high damage over time (DoT), while reactions involving Lakshana often focus on crowd control or defensive utility. Nova currently sits at the top of the "Burst" tier, especially for players who have reached Level 80+ where the base [damage scaling](https://ntecodex.com/faq) becomes overwhelming for most elite enemies.
 
 ### Cycle Intensity vs. Cycle Rate: What's the Difference?
 It is easy to confuse these two stats. [Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) is a damage multiplier. Cycle Rate is effectively "Elemental Energy Recharge"—it determines how quickly your Espers can use their abilities and how fast they apply elemental gauges. For a Nova team, you want your Enabler (Chaos) to have high Cycle Rate and your Trigger (Psyche) to have high Cycle Intensity.

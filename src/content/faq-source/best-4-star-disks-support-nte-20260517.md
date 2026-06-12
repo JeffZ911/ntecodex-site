@@ -94,7 +94,7 @@ The choice between **Speedy Hedgehog** and **Shadow Creed** usually comes down t
 
 **Haniel** is a premier support who excels at grouping enemies and applying elemental status. For Haniel, **Speedy Hedgehog** is almost always the best choice. Her Ultimate is her most impactful tool, and ensuring it is available every rotation is critical. By stacking Charge Efficiency on her Hedgehog set, you ensure that she can keep enemies grouped and the team's ATK boosted simultaneously.
 
-**Sakiri** is more flexible. While she can use Speedy Hedgehog effectively, many players prefer **Shadow Creed** on her. Sakiri often enters the field, drops her skill to trigger a reaction (like Blossom), and immediately swaps out. The 25% ATK buff from Shadow Creed provides a massive window for your Main DPS to capitalize on the reaction damage.
+**Sakiri** is more flexible. While she can use Speedy Hedgehog effectively, many players prefer **Shadow Creed** on her. Sakiri often enters the field, drops her skill to trigger a reaction (like Blossom), and immediately swaps out. The 25% ATK buff from Shadow Creed provides a massive window for your Main DPS to capitalize on the [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 
 ### Defensive Support Gear: Adler and Fadia
 

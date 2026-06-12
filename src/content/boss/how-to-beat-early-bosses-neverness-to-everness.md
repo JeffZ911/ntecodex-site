@@ -98,7 +98,7 @@ Once Phase 2 begins, the goal shifts to breaking her guard as quickly as possibl
 ### Maximizing Damage with Elemental Reactions
 The most effective way to end early boss fights is by triggering the "Discord" reaction. This occurs when you combine Scorch and Nova elements.
 *   **Step 1:** Apply Scorch using a character like [Nanally](/characters/nanally-guide-nte) or a Scorch-aligned weapon.
-*   **Step 2:** Immediately switch to a Nova-aligned character to trigger Discord.
+*   **Step 2:** Immediately switch to a Nova-aligned character to [trigger Discord](https://ntecodex.com/faq).
 *   **Effect:** Discord creates a localized explosion that ignores a portion of the boss's defense and deals massive "Stain" damage, increasing their Lakshana vulnerability.
 
 ## Recommended Team
@@ -159,7 +159,7 @@ First-time clears of major bosses often reward S-Rank Arcs, which function as po
 | Fons | Common | General Currency | Unlimited |
 | Tycoon XP | Rare | City Tycoon Leveling | Once per kill |
 
-By focusing on the Break Gauge and mastering the Discord reaction, you can overcome the early difficulty spikes of Neverness to Everness. Keep your Hunter Level high, manage your weekly boss claims wisely, and utilize Nanally’s mobility to stay out of the red zones.
+By focusing on the Break Gauge and mastering the [Discord reaction](https://ntecodex.com/faq), you can overcome the early difficulty spikes of Neverness to Everness. Keep your Hunter Level high, manage your weekly boss claims wisely, and utilize Nanally’s mobility to stay out of the red zones.
 
 ## Sources
 - Neverness to Everness Official Site — https://nte.perfectworld.com/

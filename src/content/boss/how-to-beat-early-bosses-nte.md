@@ -27,7 +27,7 @@ Mastering the urban anomalies of Hethereau requires more than just high-level ge
 
 # How to Beat Early Bosses in Neverness to Everness (NTE)
 
-Navigating the supernatural streets of Hethereau City involves encountering Anomalies that range from minor nuisances to district-threatening entities. The early game focuses on teaching you the fundamental rhythm of combat: dodging, parrying, and cycling through your Espers to trigger the Discord reaction. This guide provides the tactical breakdown necessary to overcome the first three major hurdles in your journey.
+Navigating the supernatural streets of Hethereau City involves encountering Anomalies that range from minor nuisances to district-threatening entities. The early game focuses on teaching you the fundamental rhythm of combat: dodging, parrying, and cycling through your Espers to trigger the [Discord reaction](https://ntecodex.com/faq). This guide provides the tactical breakdown necessary to overcome the first three major hurdles in your journey.
 
 ## Boss Stats
 
@@ -120,7 +120,7 @@ Building a balanced team is essential for the New Herland District content. You 
 This team focuses on high utility and sustainability. **Chiz** is essential for early game progress because her abilities help generate **Fons**, the primary currency used for upgrades and certain in-combat mechanics. **Sakiri** provides essential grouping, pulling smaller adds toward the boss so your AoE attacks hit multiple targets.
 
 ### Chaos-Focus Team for Black Tome
-Because the Black Tome is weak to the Chaos attribute, **Daffodil** is the star of this encounter. Her ability to apply Chaos-taint allows the rest of the team to trigger Discord reactions more frequently. When fighting the Black Tome, ensure Daffodil is the one on the field when the boss enters the Stagger state.
+Because the Black Tome is weak to the Chaos attribute, **Daffodil** is the star of this encounter. Her ability to apply Chaos-taint allows the rest of the team to [trigger Discord](https://ntecodex.com/faq) reactions more frequently. When fighting the Black Tome, ensure Daffodil is the one on the field when the boss enters the Stagger state.
 
 ### High-DPS Team with Nanally
 If you were lucky enough to pull **Nanally** from "The Ichi-daime" banner, she should be your primary focus. Nanally’s raw damage output is currently unmatched in the early game. Pair her with **Sakiri** to keep enemies grouped and **Chiz** to ensure you have enough Fons to keep your gear at the maximum level allowed for your current District.

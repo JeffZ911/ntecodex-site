@@ -87,7 +87,7 @@ Even with the correct 4-piece set, your support will underperform if the modules
 1.  **Cycle Intensity (Charge Efficiency):** This is the non-negotiable priority. A support who cannot use their Ultimate every rotation is a wasted slot. Aim for at least 150% on most units.
 2.  **Flat and Percentage Scaling:** For Adler, look for DEF%. For Edgar, look for ATK% or HP% depending on his current build.
 3.  **Speed/Action Advance:** undisclosed regarding exact speed breakpoints, but generally, you want your support to move before your DPS to apply buffs.
-4.  **Anomaly Mastery:** For supports like Sakiri who help trigger reactions like "Blossom," having some Anomaly Mastery helps increase the reaction damage without sacrificing utility.
+4.  **Anomaly Mastery:** For supports like Sakiri who help trigger reactions like "Blossom," having some Anomaly Mastery helps increase the [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) without sacrificing utility.
 
 ### Character Pairings: Who Wears What?
 
