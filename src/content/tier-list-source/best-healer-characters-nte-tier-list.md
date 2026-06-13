@@ -92,7 +92,7 @@ Her kit allows her to suspend smaller enemies and slow down the attack animation
 
 ### Haniel: The F2P Support Staple
 
-Haniel is the most reliable A-Rank support for free-to-play players. Being a Psyche element character with the Solid attribute, she shares a natural synergy with Fadia for players looking to trigger Psyche resonance buffs. Haniel’s kit is straightforward: she provides a burst heal on her Skill and a team-wide ATK buff on her Ultimate.
+Haniel is the most reliable A-Rank support for free-to-play players. Being a Psyche element character with the Solid attribute, she shares a natural synergy with Fadia for players looking to trigger [Psyche resonance](https://ntecodex.com/faq) buffs. Haniel’s kit is straightforward: she provides a burst heal on her Skill and a team-wide ATK buff on her Ultimate.
 
 While her raw healing numbers are lower than Fadia's, Haniel's ATK buff is undisclosed, making her a valuable asset for boosting team damage. She is considered a staple because she is much easier to obtain and Awaken than the S-Rank units. For players who did not pull for Fadia or Jiuyuan, Haniel is the go-to choice for maintaining health in mid-to-high-level content.
 

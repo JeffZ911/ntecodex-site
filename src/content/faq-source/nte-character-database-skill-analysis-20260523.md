@@ -139,7 +139,7 @@ The character roster is only one part of the NTE experience. To fully optimize y
 While every character is viable, the current meta heavily favors S-Rank units like Nanally for her raw DPS and Chiz for her team-wide utility. A-Rank units like Adler are frequently cited as the best "budget" options for players who need a strong Cosmos-element damage dealer without spending significant gacha resources.
 
 ### Weapon and Module Guide
-Espers are equipped with "Arcs" (the game's weapon equivalent) and "Modules" (the artifact/gear system). Arcs are element-specific, meaning an Incantation character like Nanally must equip an Incantation-type Arc to receive stat bonuses. Modules provide set bonuses, such as increasing Break Efficiency or boosting Duo Reaction damage.
+Espers are equipped with "Arcs" (the game's weapon equivalent) and "Modules" (the artifact/gear system). Arcs are element-specific, meaning an Incantation character like Nanally must equip an Incantation-type Arc to receive stat bonuses. Modules provide set bonuses, such as increasing Break Efficiency or boosting Duo [Reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 
 ### Urban Life Guide
 Outside of combat, your characters possess "Life Skills." These are used in the city of Hethereau for various activities:

@@ -106,7 +106,7 @@ If you find yourself struggling to maintain the rotation, the protagonist, [Espe
 
 ### The Impact of Break Cap Reduction
 
-The visual indicator of a successful Discord reaction is the enemy's Break meter turning a distinct color and shrinking in size. According to community testing on thegamer.com, the reduction is percentage-based, meaning it scales effectively against bosses with massive health pools. Once the meter is depleted, the enemy is incapacitated, allowing for a "Break Burst" where all incoming damage is significantly multiplied.
+The visual indicator of a successful [Discord reaction](https://ntecodex.com/faq) is the enemy's Break meter turning a distinct color and shrinking in size. According to community testing on thegamer.com, the reduction is percentage-based, meaning it scales effectively against bosses with massive health pools. Once the meter is depleted, the enemy is incapacitated, allowing for a "Break Burst" where all incoming damage is significantly multiplied.
 
 | Reaction | Duration | Primary Effect |
 | :--- | :--- | :--- |

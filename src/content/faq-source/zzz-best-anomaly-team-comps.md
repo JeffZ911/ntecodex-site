@@ -94,7 +94,7 @@ The moment the second bar fills, the Disorder damage number (usually a large whi
 
 ### Premium Team: Jane Doe + Burnice + Seth
 This team is widely considered the best overall composition in ZZZ for its ease of use and high damage floor.
-*   **Jane Doe (Physical Anomaly):** She functions as the on-field driver. Her "Passion" state allows her to build Physical Anomaly at an accelerated rate. For more details on her optimal setup, check out a Jane Doe Build Guide.
+*   **[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) (Physical Anomaly):** She functions as the on-field driver. Her "Passion" state allows her to build Physical Anomaly at an accelerated rate. For more details on her optimal setup, check out a Jane Doe Build Guide.
 *   **Burnice White (Fire Anomaly):** Burnice is the engine of the team. Her "Afterburn" state allows her to trigger Fire damage and buildup even when she is off-field. This ensures that the enemy is almost always "pre-loaded" with Fire Anomaly.
 *   **Seth Lowell (Defense):** Seth is the secret weapon of Anomaly teams. His shield not only provides safety but also grants a massive 100-point Anomaly Proficiency buff to the character he swaps into via his Quick Assist.
 

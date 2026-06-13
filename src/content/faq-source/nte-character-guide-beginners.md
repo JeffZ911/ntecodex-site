@@ -128,7 +128,7 @@ Arcs come in five compatibility types. An Esper can only equip an Arc that match
 1.  **Plasma:** Often focused on Crit Rate and Attack Speed.
 2.  **Solid:** Usually provides DEF and HP scaling for tankier Espers.
 3.  **Gas:** Focused on Energy Regeneration and Esper Meter gain.
-4.  **Liquid:** Provides Elemental Mastery and reaction damage bonuses.
+4.  **Liquid:** Provides Elemental Mastery and [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) bonuses.
 5.  **Synthesis:** Versatile Arcs that offer balanced stat spreads.
 
 #### Consoles (Equipment)

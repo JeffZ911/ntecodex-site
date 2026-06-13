@@ -77,7 +77,7 @@ The S Tier is reserved for characters who define the current meta. These units d
 
 Fadia has solidified her position as the premier survival unit in Neverness to Everness. Unlike traditional healers, Fadia’s kit revolves around her unique ability to link with her teammates and redirect [exact value pending official confirmation] of the damage they receive to herself. Because Fadia possesses a massive base HP pool and high damage resistance, she can tank hits that would normally eliminate a DPS character.
 
-Her Ultimate ability provides a massive self-heal based on her total Psyche resonance, ensuring she stays healthy while protecting the team. When paired with a Synthesis Arc, Fadia also boosts the team's elemental mastery, making her an essential component of any high-tier Psyche or Discord-focused team composition. Her ability to operate almost entirely off-field makes her the gold standard for role compression.
+Her Ultimate ability provides a massive self-heal based on her total [Psyche resonance](https://ntecodex.com/faq), ensuring she stays healthy while protecting the team. When paired with a Synthesis Arc, Fadia also boosts the team's elemental mastery, making her an essential component of any high-tier Psyche or Discord-focused team composition. Her ability to operate almost entirely off-field makes her the gold standard for role compression.
 
 ### Jiuyuan: The Ultimate Role Compressor
 

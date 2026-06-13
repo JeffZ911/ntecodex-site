@@ -184,7 +184,7 @@ When playing a Disorder team, do not stay on Piper too long. Once the Disorder e
 ![FAQ](/img/piper-wheel-best-build-zzz/inline-6.webp)
 
 
-**Is Piper Wheel better than Jane Doe?**
+**Is Piper Wheel better than [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)?**
 Jane Doe is an S-Rank Physical Anomaly Agent and generally has higher ceiling damage and better mobility. However, Piper remains a top-tier choice due to her superior AoE capabilities and the fact that she provides a team-wide DMG buff, which Jane does not. Piper is often the better choice for content with many small enemies, while Jane excels in single-target boss fights.
 
 **What is the best Mindscape for Piper?**

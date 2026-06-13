@@ -161,7 +161,7 @@ This team focuses on aggressive "Breaking" and sustained DoT damage.
 
 *   **Main DPS: Baicang (Incantation).** A heavy hitter who shreds Break bars.
 *   **Cycler: Daffodill (Chaos).** Triggers Scorch for defense reduction and DoT.
-*   **Sub-DPS: Haniel (Psyche).** Adds Psyche to the mix to trigger Discord (Stun damage) when paired with Lakshana supports.
+*   **Sub-DPS: Haniel (Psyche).** Adds Psyche to the mix to [trigger Discord](https://ntecodex.com/faq) (Stun damage) when paired with Lakshana supports.
 *   **Support: Edgar (Anima).** A reliable healer who ensures the team stays healthy during long boss fights.
 
 ### Best F2P Starter Lineup
