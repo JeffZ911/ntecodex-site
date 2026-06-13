@@ -1,5 +1,5 @@
 ---
-title: "Mortenax Blade vs Jiaoqiu Comparison: NTE 1.1 vs HSR 4.3 Meta"
+title: "Mortenax Blade vs Jiaoqiu: June 2026 Meta Comparison"
 slug: mortenax-blade-vs-jiaoqiu-comparison-nte-guide
 article_type: news
 qa_score: 10.0
