@@ -127,7 +127,7 @@ Building a team requires balancing elemental adjacency with character roles (DPS
 | **Nature's Wrath (AoE)** | Jiuyuan, Mint, — | Blossom | Sets up multiple automated turrets to clear waves of enemies while staying mobile. |
 | **Silver Order** | —, Zero, Mint | Nova / Charged | High utility team that focuses on crowd control and frequent Ultimate usage. |
 
-In the "Boss Executioner" team, Nanally serves as the primary damage dealer. By using Zero to reset the cycle, you can trigger Discord twice in a single window, which is usually enough to stagger even the most difficult Anomalies in the "Beyond the Rails" endgame mode.
+In the "Boss Executioner" team, Nanally serves as the primary damage dealer. By using Zero to reset the cycle, you can [trigger Discord](https://ntecodex.com/faq) twice in a single window, which is usually enough to stagger even the most difficult Anomalies in the "Beyond the Rails" endgame mode.
 
 ## Related
 

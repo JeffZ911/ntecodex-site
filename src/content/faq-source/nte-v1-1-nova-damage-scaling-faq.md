@@ -85,7 +85,7 @@ A nuance that players should observe is the interaction with gear. Certain "Ment
 
 To maximize Nova, players should equip their enablers with gear that specifically targets reaction efficiency. The Devil's Blood: Curse set is the premier choice in v1.1. This set increases total damage by 36% against units currently affected by the Nova mark. Since the mark lasts for 5 seconds before detonating, this provides a significant window for your main DPS to unload their skills.
 
-For Arcs, look for options that provide flat bonuses to Cycle Intensity. Because Nova scaling is exponential rather than linear, even a small increase in this stat can result in thousands of additional damage during the burst phase.
+For Arcs, look for options that provide flat bonuses to Cycle Intensity. Because [Nova scaling](https://ntecodex.com/faq) is exponential rather than linear, even a small increase in this stat can result in thousands of additional damage during the burst phase.
 
 ### Nova's Interaction with the Discord Triple-Cycle
 
@@ -122,7 +122,7 @@ While Nova deals delayed Mental Damage, Scorch (Incantation + Chaos) deals Damag
 No, [Nova damage](https://ntecodex.com/faq) is a reaction-based burst and cannot critically hit. To increase its damage, you must focus on increasing your team's highest Cycle Intensity stat or using gear like the Devil's Blood: Curse set which provides a flat percentage damage increase.
 
 ### Why does my Nova damage feel low even with high ATK?
-Nova damage scales with Cycle Intensity, not ATK. If your characters are built with high ATK but low Cycle Intensity, your standard skills will hit hard, but your Nova reactions will underperform. You should check your Cartridges to ensure you have enough Cycle Intensity for v1.1 content.
+[Nova damage](https://ntecodex.com/faq) scales with Cycle Intensity, not ATK. If your characters are built with high ATK but low Cycle Intensity, your standard skills will hit hard, but your Nova reactions will underperform. You should check your Cartridges to ensure you have enough Cycle Intensity for v1.1 content.
 
 ### What is the difference between Nova and Discord?
 Nova is a two-element reaction (Chaos + Psyche) that deals delayed Mental Damage. Discord is a triple-cycle reaction (Incantation + Chaos + Psyche) that triggers when Nova and Scorch overlap. Discord is specifically designed to reduce the enemy's Break gauge and deals much higher damage to staggered targets.

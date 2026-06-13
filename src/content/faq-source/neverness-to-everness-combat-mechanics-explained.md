@@ -136,7 +136,7 @@ Every Esper falls into a specific combat role that dictates their stats and idea
 | Support | Healing, shielding, and buffing the party's damage. | HP, DEF, Energy Regen |
 
 **Arc Compatibility:**
-Arcs are the primary gear system in NTE. Each Arc provides a passive bonus that often scales with specific roles. For example, an Arc that increases "Impact" is best suited for a Break Specialist, while an Arc that boosts "Reaction Damage" is ideal for a Sub-DPS who frequently triggers Duo Cycles. Equipping an Arc that matches a character's "Resonance Type" [exact mechanic name pending official confirmation] provides an additional 15% stat bonus to the base attributes of the weapon.
+Arcs are the primary gear system in NTE. Each Arc provides a passive bonus that often scales with specific roles. For example, an Arc that increases "Impact" is best suited for a Break Specialist, while an Arc that boosts "[Reaction Damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide)" is ideal for a Sub-DPS who frequently triggers Duo Cycles. Equipping an Arc that matches a character's "Resonance Type" [exact mechanic name pending official confirmation] provides an additional 15% stat bonus to the base attributes of the weapon.
 
 ## Related
 

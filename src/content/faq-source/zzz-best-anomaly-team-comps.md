@@ -68,7 +68,7 @@ The following table outlines the current top-performing Anomaly compositions as 
 | **Ether Erosion** | [Information not yet available] | Vivian | Alice | Ether / [TBD] |
 
 ### The 'Disorder' Meta Explained
-The "Disorder Premium" composition featuring Jane Doe and Burnice White remains the gold standard for general clearing. This team works because Jane Doe requires significant field time to build her "Passion" meter, while Burnice White can apply Fire Anomaly from the sidelines using her "Afterburn" mechanic. By the time Jane triggers an Assault, Burnice has likely already applied Burn, or is close to it, allowing for a near-constant stream of Disorder procs.
+The "Disorder Premium" composition featuring [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) and Burnice White remains the gold standard for general clearing. This team works because Jane Doe requires significant field time to build her "Passion" meter, while Burnice White can apply Fire Anomaly from the sidelines using her "Afterburn" mechanic. By the time Jane triggers an Assault, Burnice has likely already applied Burn, or is close to it, allowing for a near-constant stream of Disorder procs.
 
 For Electric-focused content, Yanagi has redefined the meta with her "Polarity Disorder" mechanic. Unlike standard Disorder, Yanagi’s unique kit allows her to trigger a specialized version of the reaction that deals increased damage and benefits from her high Anomaly Proficiency scaling. When paired with Caesar King, who provides a massive universal shield and Attack buff, this team becomes nearly indestructible while maintaining top-tier DPS.
 

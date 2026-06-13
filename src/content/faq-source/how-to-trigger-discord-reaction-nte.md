@@ -81,7 +81,7 @@ In the current combat environment, particularly following the release of Lacrimo
 ![Detailed Explanation](/img/how-to-trigger-discord-reaction-nte/inline-3.webp)
 
 
-Executing the Discord reaction requires a disciplined rotation and careful management of your team's Esper Meter, also known as Cycle Energy. Because the durations of the prerequisite Duo Reactions differ, the order in which you apply them is critical.
+Executing the [Discord reaction](https://ntecodex.com/faq) requires a disciplined rotation and careful management of your team's Esper Meter, also known as Cycle Energy. Because the durations of the prerequisite Duo Reactions differ, the order in which you apply them is critical.
 
 ### Mastering the Rotation Timing
 

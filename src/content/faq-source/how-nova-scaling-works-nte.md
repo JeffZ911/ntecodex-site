@@ -132,7 +132,7 @@ You can refresh the Nova mark, but the detonation has a fixed 5-second internal 
 You should build Cycle Intensity on the character who is most likely to be the "trigger" (the one applying the second element). In a Daffodil and Haniel team, Haniel is usually the trigger, so stacking Cycle Intensity on her will ensure the Nova burst uses her higher stat for the damage calculation.
 
 ### Does Mental Damage bonus affect the Nova burst?
-No, even though Nova is classified as Mental damage, it is considered "Reaction Damage" which follows a separate calculation path. Traditional [Mental DMG %](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) bonuses from Arcs or Cartridges only affect the direct hits of your skills, not the resulting Nova explosion.
+No, even though Nova is classified as Mental damage, it is considered "[Reaction Damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide)" which follows a separate calculation path. Traditional [Mental DMG %](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) bonuses from Arcs or Cartridges only affect the direct hits of your skills, not the resulting Nova explosion.
 
 ## Sources
 - Reddit — https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/

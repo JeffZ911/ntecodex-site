@@ -156,7 +156,7 @@ To stay ahead of the power curve, you should follow a structured routine to ensu
 ![Related](/img/nte-endgame-content-guide/inline-4.webp)
 
 
-To succeed in the endgame, you must master the **Esper Cycle** system. This combat mechanic relies on switching between characters to trigger elemental reactions. The most potent endgame reaction is **Discord** (Incantation + Chaos + Psyche). To trigger Discord, you must apply **Scorch** (Incantation + Chaos) and **Nova** (Chaos + Psyche) to an enemy simultaneously. This causes massive Break/Stagger damage, allowing characters like **Baicang** to execute bosses once their health falls below a certain threshold.
+To succeed in the endgame, you must master the **Esper Cycle** system. This combat mechanic relies on switching between characters to trigger elemental reactions. The most potent endgame reaction is **Discord** (Incantation + Chaos + Psyche). To [trigger Discord](https://ntecodex.com/faq), you must apply **Scorch** (Incantation + Chaos) and **Nova** (Chaos + Psyche) to an enemy simultaneously. This causes massive Break/Stagger damage, allowing characters like **Baicang** to execute bosses once their health falls below a certain threshold.
 
 For high-tier racing, vehicle customization is more than cosmetic. Upgrading your car's "Cycle Intensity" in the Garage allows you to maintain speed through Anomaly Zones during city races. Furthermore, certain character builds, such as **[Nanally](/characters/nanally-guide-nte)** (Ice DPS) and **Baicang** (Incantation DPS), are currently considered the meta for clearing the 10th stop of the Fracture Circle due to their high AoE damage and Break efficiency.
 
