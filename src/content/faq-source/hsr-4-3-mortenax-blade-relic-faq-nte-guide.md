@@ -36,7 +36,7 @@ As players progress through the Version 4.3 update of Honkai: Star Rail, the int
 *Related: [Best Gaming Gear for Optimizing NTE Chaos vs Psyche Reaction Damage in](/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) · [Best Gaming Gear for 8-Hour Gacha Grinding Sessions in WuWa 3.4](/guides/wuwa-3-4-lucy-vs-rebecca-gear-comparison) · [Best Gaming Gear for Comparing High-Fidelity Character Models in ZZZ 2](/guides/zzz-2-1-yuzuha-vs-alice-gear-comparison)*
 
 
-The community has raised several specific questions regarding the optimization of Mortenax Blade and how his gear logic translates to the newer systems found in Neverness to Everness:
+The community has raised several specific questions regarding the optimization of [Mortenax Blade](https://ntecodex.com/faq) and how his gear logic translates to the newer systems found in Neverness to Everness:
 
 *   **What are the best Cavern Relics and Planar Ornaments for Mortenax Blade in Honkai: Star Rail Version 4.3?** Players need to know which specific sets maximize his unique HP-scaling and DEF-shred capabilities.
 *   **How do the gear mechanics for Mortenax Blade compare to the equipment system in Neverness to Everness (NTE)?** Understanding the transition from Relics to "Cartridges" and "Modules" is essential for cross-platform players.

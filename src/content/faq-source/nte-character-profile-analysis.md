@@ -151,7 +151,7 @@ A character's profile is further refined through the **Console System**. This in
 The most effective teams in the current meta focus on "Trio Reactions." 
 
 1.  **The Blossom-Charge Team:** Consists of Nanally (Main DPS), Zero (Sub-DPS), and Jiuyuan (Support). This team focuses on the Anima/Cosmos/Lakshana side of the wheel to trigger both Blossom for damage and Charge for infinite Ultimate uptime.
-2.  **The Discord-Scorch Team:** Typically features Sakiri (Support), Baicang (Main DPS), and Daffodill (Breaker). This team utilizes the Incantation/Chaos/Psyche trio to trigger Discord, which shreds enemy Break gauges, followed by Scorch for massive DoT.
+2.  **The Discord-Scorch Team:** Typically features Sakiri (Support), Baicang (Main DPS), and Daffodill (Breaker). This team utilizes the Incantation/Chaos/Psyche trio to [trigger Discord](https://ntecodex.com/faq), which shreds enemy Break gauges, followed by Scorch for massive DoT.
 
 ### Top 5 S-Class Character Skill & Passive Analysis
 

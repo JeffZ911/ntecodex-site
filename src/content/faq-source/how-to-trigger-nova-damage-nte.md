@@ -104,7 +104,7 @@ In addition to Cycle Intensity, you should consider the character's level. Like 
 
 ### Advanced Combat: The Discord Trio Reaction
 
-For advanced players, Nova is often just the first step in a more complex rotation. By introducing a third element—Incantation—you can trigger the Discord reaction. Discord is a "Trio" reaction that occurs when Psyche is introduced to a target already suffering from the Scorch effect (Incantation + Chaos).
+For advanced players, Nova is often just the first step in a more complex rotation. By introducing a third element—Incantation—you can trigger the [Discord reaction](https://ntecodex.com/faq). Discord is a "Trio" reaction that occurs when Psyche is introduced to a target already suffering from the Scorch effect (Incantation + Chaos).
 
 The Discord reaction is widely considered the ultimate tool for breaking enemy shields. It combines the raw Mental damage of Nova with the shield-shredding properties of Incantation, effectively melting the "Break" gauge of even the toughest bosses in Hethereau.
 

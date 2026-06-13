@@ -148,7 +148,7 @@ Beyond the basic mechanics of the Esper Wheel, high-level play involves integrat
 
 **The "Discord Strikeforce" (Bottom Trio Focus)**
 *   **Core:** Sakya (Chaos) + Incantation Control + Psyche Speedster.
-*   **Strategy:** Designed for boss killing. The goal is to trigger Remora to slow the boss, followed by a full rotation to trigger Discord. This setup can deplete a boss's Stability bar in under 20 seconds if executed with perfect parries.
+*   **Strategy:** Designed for boss killing. The goal is to trigger Remora to slow the boss, followed by a full rotation to [trigger Discord](https://ntecodex.com/faq). This setup can deplete a boss's Stability bar in under 20 seconds if executed with perfect parries.
 
 ### Weapon (Arc) Compatibility for Elemental DPS
 

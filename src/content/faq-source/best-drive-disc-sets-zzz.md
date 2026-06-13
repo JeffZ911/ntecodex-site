@@ -69,7 +69,7 @@ The Drive Disc system is divided into six slots, each offering specific main sta
 
 While Woodpecker Electro is a great generalist set, specific elemental sets often provide higher damage ceilings for specialized Attackers.
 
-*   **Fanged Metal (Physical):** Increases Physical DMG by 10% (2-pc). The 4-piece bonus increases DMG by 35% for 12 seconds whenever any squad member inflicts the Assault anomaly. This is the best-in-slot (BiS) set for Jane Doe and Billy Kid.
+*   **Fanged Metal (Physical):** Increases Physical DMG by 10% (2-pc). The 4-piece bonus increases DMG by 35% for 12 seconds whenever any squad member inflicts the Assault anomaly. This is the best-in-slot (BiS) set for [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) and Billy Kid.
 *   **Polar Metal (Ice):** Increases Ice DMG by 10% (2-pc). The 4-piece bonus increases Basic Attack and Dash Attack DMG by 20%. If an enemy is Frozen or Shattered, this bonus increases by an additional 20% for 12 seconds. This is essential for Ellen Joe and Hoshimi Miyabi.
 *   **Inferno Metal (Fire):** Increases Fire DMG by 10% (2-pc). The 4-piece bonus increases Crit Rate by 28% for 8 seconds when hitting a Burning enemy. This allows characters like Soldier 11 to focus their substats entirely on Crit DMG.
 *   **Thunder Metal (Electric):** Increases Electric DMG by 10% (2-pc). The 4-piece bonus increases ATK by 28% as long as an enemy is Shocked. This is the preferred set for Anton and Harumasa.

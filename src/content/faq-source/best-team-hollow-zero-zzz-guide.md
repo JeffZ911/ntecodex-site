@@ -62,7 +62,7 @@ The current meta for Hollow Zero favors teams that can exploit the most powerful
 | :--- | :--- | :--- | :--- | :--- |
 | **Ice Mono (Classic)** | Ellen Joe | Von Lycaon | Soukaku | Sharkboo |
 | **Ether Burst** | Zhu Yuan | Nangong Yu | Nicole Demara | Resonaboo |
-| **Anomaly Disorder** | Jane Doe | Burnice White | Caesar King | Officer Cui |
+| **Anomaly Disorder** | [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) | Burnice White | Caesar King | Officer Cui |
 | **Elite 2026 Meta** | Ye Shunguang | Dialyn | Astra Yao | Gulliver |
 
 ### The Gold Standard: Ice Hypercarry

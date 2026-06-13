@@ -36,7 +36,7 @@ To trigger the [Discord reaction](https://ntecodex.com/faq) in NTE, you must app
 *Related: [Best Gaming Gear for Optimizing NTE Chaos vs Psyche Reaction Damage in](/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) · [Best Gaming Gear for 8-Hour Gacha Grinding Sessions in WuWa 3.4](/guides/wuwa-3-4-lucy-vs-rebecca-gear-comparison) · [Best Gaming Gear for Comparing High-Fidelity Character Models in ZZZ 2](/guides/zzz-2-1-yuzuha-vs-alice-gear-comparison)*
 
 
-Understanding the nuances of the combat system is essential for any player looking to optimize their damage output. A common point of confusion for new players involves the advanced elemental interactions known as Trio Reactions. Specifically, players often ask how to consistently activate the Discord reaction during intense combat sequences.
+Understanding the nuances of the combat system is essential for any player looking to optimize their damage output. A common point of confusion for new players involves the advanced elemental interactions known as Trio Reactions. Specifically, players often ask how to consistently activate the [Discord reaction](https://ntecodex.com/faq) during intense combat sequences.
 
 ### Understanding Trio Reactions in NTE
 

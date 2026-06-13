@@ -123,7 +123,7 @@ A "Strong" aura can support multiple "Weak" trigger reactions before it is fully
 
 For transformative reactions (Swirl, Bloom, Overloaded), your Attack stat does not matter. The damage is determined by:
 1.  **Character Level:** The base damage of these reactions scales exponentially as a character moves from Level 80 to Level 90.
-2.  **Elemental Mastery (EM):** This stat provides a percentage bonus to reaction damage.
+2.  **Elemental Mastery (EM):** This stat provides a percentage bonus to [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 3.  **Enemy Resistance:** Reactions are still affected by how much resistance an enemy has to that specific element.
 
 In contrast, Amplifying reactions (Melt/Vaporize) use your character's standard damage (Attack, CRIT, Damage Bonus) and then multiply it by the reaction bonus (2.0x or 1.5x) plus a small bonus from EM.
