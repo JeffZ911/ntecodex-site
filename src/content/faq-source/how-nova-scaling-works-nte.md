@@ -69,7 +69,7 @@ The damage formula uses the highest Cycle Intensity value between the Chaos and 
 The Nova reaction attaches a mark to the enemy that detonates after a 5-second delay. This delay is a critical window during which players can set up further reactions or reposition. If the target dies before the 5 seconds elapse, the Nova burst triggers immediately at the location of the target's death, ensuring no damage is wasted in mob-clearing scenarios.
 
 ### The Math Behind Cycle Intensity
-Cycle Intensity acts as a direct multiplier to the base reaction damage. Unlike ATK, which has diminishing returns as you stack flat and percentage bonuses, Cycle Intensity provides a consistent growth curve. For example, reaching [360 Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) provides approximately a 60% damage increase to the burst. 
+Cycle Intensity acts as a direct multiplier to the base [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). Unlike ATK, which has diminishing returns as you stack flat and percentage bonuses, Cycle Intensity provides a consistent growth curve. For example, reaching [360 Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) provides approximately a 60% damage increase to the burst. 
 
 The formula follows a structure where:
 `[Nova Damage](https://ntecodex.com/faq) = Base Damage (Level) * (1 + (Cycle Intensity / 600))` 
@@ -118,7 +118,7 @@ While Nova is the king of delayed burst damage, other reactions serve different 
 It is easy to confuse these two stats. [Cycle Intensity](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) is a damage multiplier. Cycle Rate is effectively "Elemental Energy Recharge"—it determines how quickly your Espers can use their abilities and how fast they apply elemental gauges. For a Nova team, you want your Enabler (Chaos) to have high Cycle Rate and your Trigger (Psyche) to have high Cycle Intensity.
 
 ### Beginner Progression Guide: Appraisal Levels and Hunter EXP
-To reach the high base damage numbers of [Nova scaling](https://ntecodex.com/faq), you must focus on the [City Tycoon](https://www.reddit.com/r/NevernessToEverness/comments/city_tycoon_resource_guide/) system. This side of the game manages your resource gathering for Esper upgrades. Higher Appraisal Levels unlock better Module drops and the materials required to ascend characters past Level 70. Without consistent participation in the city's management mechanics, your Hunter EXP will lag, preventing you from reaching the Level 90 threshold where Nova damage truly peaks.
+To reach the high base damage numbers of [Nova scaling](https://ntecodex.com/faq), you must focus on the [City Tycoon](https://www.reddit.com/r/NevernessToEverness/comments/city_tycoon_resource_guide/) system. This side of the game manages your resource gathering for Esper upgrades. Higher Appraisal Levels unlock better Module drops and the materials required to ascend characters past Level 70. Without consistent participation in the city's management mechanics, your Hunter EXP will lag, preventing you from reaching the Level 90 threshold where [Nova damage](https://ntecodex.com/faq) truly peaks.
 
 ## Frequently Asked Questions
 

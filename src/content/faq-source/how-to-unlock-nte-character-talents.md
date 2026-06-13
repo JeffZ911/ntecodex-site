@@ -98,7 +98,7 @@ Your Appraisal Level is the true gatekeeper of talent progression. It is tied di
 | Resource Priority | Target | Reason |
 | :--- | :--- | :--- |
 | **Main DPS** | Max Talents | Essential for clearing Anomaly Pilgrimages. |
-| **Main Support** | Level 4-6 Talents | Focus on buffing reaction damage. |
+| **Main Support** | Level 4-6 Talents | Focus on buffing [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). |
 | **Sub-DPS** | Level 4-6 Talents | Focus on off-field damage like Blossom. |
 
 ### Esper Cycle Mechanics

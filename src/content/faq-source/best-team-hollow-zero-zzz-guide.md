@@ -93,7 +93,7 @@ As of the 2.7 update, **Nangong Yu** has replaced Qingyi as the premier stunner 
 *   **Zhu Yuan:** She is a burst-window specialist. When an enemy is stunned, her "Enhanced Shotshells" deal massive Ether damage. This team thrives on the **Ether Resonia** path, which adds additional corruption damage to Ether-affected targets.
 
 #### 3. The Anomaly/Disorder Team (Jane Doe, Burnice, Caesar)
-Anomaly teams have seen a massive resurgence with the release of **Burnice White** and **Jane Doe**.
+Anomaly teams have seen a massive resurgence with the release of **Burnice White** and **[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)**.
 *   **Jane Doe:** A Physical Anomaly specialist who triggers "Assault" rapidly.
 *   **Burnice White:** A Fire Anomaly specialist who applies "Burn" off-field.
 *   **Disorder Mechanic:** When you apply a new Attribute Anomaly to an enemy already suffering from one, it triggers **Disorder**, dealing a massive chunk of damage based on the remaining duration of the previous status. This is the most effective way to kill "Sponge" bosses in the lower floors of Hollow Zero.

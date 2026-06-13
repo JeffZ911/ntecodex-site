@@ -92,7 +92,7 @@ While Duo Cycles are frequent, Trio Cycles represent the peak of NTE’s combat 
 The Charge reaction is the ultimate utility combo. When you rotate through these three elements in order, your entire team receives a massive surge in energy regeneration. This allows you to use Ultimate Arcs much more frequently. It is often used at the start of a fight to set up your team's buffs.
 
 **2. The Discord Cycle (Incantation + Chaos + Psyche)**
-Discord is the primary tool for dealing with "Anomalous Shields" found on world bosses. This Trio reaction focuses on "Break" damage. When Discord is triggered, it deals a heavy blow to the enemy's stagger bar (Break Gauge). In the 1.0 meta, teams featuring Nanally (Incantation), Daffodill (Chaos), and [Hotori](/characters/hotori-best-team-nte) (Psyche) are highly valued specifically for their ability to trigger Discord and shred boss defenses.
+Discord is the primary tool for dealing with "Anomalous Shields" found on world bosses. This Trio reaction focuses on "Break" damage. When Discord is triggered, it deals a heavy blow to the enemy's stagger bar (Break Gauge). In the 1.0 meta, teams featuring Nanally (Incantation), Daffodill (Chaos), and [Hotori](/characters/hotori-best-team-nte) (Psyche) are highly valued specifically for their ability to [trigger Discord](https://ntecodex.com/faq) and shred boss defenses.
 
 ### Esper Meter Management: The Key to Constant Rotations
 
@@ -152,4 +152,4 @@ Mastering elemental resonance is just the first step in optimizing your Hetherea
 - r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/
 - IGN: Neverness to Everness Review and Guides — https://www.ign.com/games/neverness-to-everness
 - Lootbar.gg NTE Elemental Guide
-- TheGamer: How the Esper Wheel Works in NTE
+- TheGamer: How the Esper Wheel [Works in NTE](https://ntecodex.com/faq)

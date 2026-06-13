@@ -58,7 +58,7 @@ Discord is an advanced Trio Reaction that functions as a powerful debuff against
 To achieve this, you must follow a specific elemental formula:
 1.  **Requirement 1:** [Trigger Nova](https://ntecodex.com/faq) by combining Psyche and Chaos.
 2.  **Requirement 2:** Trigger Scorch by combining Incantation and Chaos.
-3.  **The Result:** When both Nova and Scorch are active on the same enemy, the Discord reaction triggers automatically.
+3.  **The Result:** When both Nova and Scorch are active on the same enemy, the [Discord reaction](https://ntecodex.com/faq) triggers automatically.
 
 The primary effect of Discord is a massive deduction from the enemy's Break cap. This is not merely damage to the stagger bar; it actually lowers the total amount of "stagger" required to put the enemy into a vulnerable state.
 
