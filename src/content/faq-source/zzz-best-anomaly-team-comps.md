@@ -84,7 +84,7 @@ F2P players should not feel left out, as Piper remains one of the most effective
 To truly master Anomaly team comps, one must understand the underlying math that separates a mediocre build from a meta-defining one. The two most important stats for any Anomaly Agent are Anomaly Mastery and Anomaly Proficiency.
 
 ### Core Mechanics: Mastery, Proficiency, and Buildup
-*   **Anomaly Mastery:** This stat determines how quickly you fill the enemy's Anomaly Buildup bar. Higher Mastery means fewer hits are required to trigger an effect like Shock or Burn. This is essential for on-field "drivers" like Jane Doe.
+*   **Anomaly Mastery:** This stat determines how quickly you fill the enemy's Anomaly Buildup bar. Higher Mastery means fewer hits are required to trigger an effect like Shock or Burn. This is essential for on-field "drivers" like [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison).
 *   **Anomaly Proficiency:** This stat determines the actual damage dealt by the Anomaly and the resulting Disorder. For every point of Anomaly Proficiency, the damage of the elemental effect increases by 1%. At high levels (300+ Proficiency), the [damage scaling](https://ntecodex.com/faq) becomes exponential compared to traditional Attack scaling.
 
 ### The Art of the Disorder Rotation

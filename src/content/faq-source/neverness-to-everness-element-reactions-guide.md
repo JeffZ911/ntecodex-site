@@ -157,7 +157,7 @@ The type of Arc a character wields changes how they interact with their element.
 *   **Plasma:** High hit-rate, excellent for building Esper Meter quickly. Best for Psyche and Chaos characters.
 *   **Solid:** High impact, provides bonus Break damage. Synergizes well with the Discord reaction.
 *   **Gas:** Focuses on AoE and lingering field effects. Ideal for Anima and Cosmos characters.
-*   **Liquid:** Provides healing or lifesteal based on reaction damage.
+*   **Liquid:** Provides healing or lifesteal based on [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 *   **Synthesis:** A versatile type that can adapt its bonus based on the current Esper Cycle active on the field.
 
 When choosing an Arc, ensure the sub-stat complements the character's role in the Esper Cycle. A Nanally build, for instance, should favor a Gas-type Arc with high Cycle Intensity to maximize her Blossom damage.

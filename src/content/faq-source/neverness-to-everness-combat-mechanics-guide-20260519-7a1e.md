@@ -128,7 +128,7 @@ When the gauge reaches zero, the enemy enters the **Broken** state. During this 
 | Redirect Skill | High |
 | Critical Riposte | Very High |
 | Parry | Massive (Flat reduction) |
-| Discord Reaction | Extreme |
+| [Discord Reaction](https://ntecodex.com/faq) | Extreme |
 
 ### Combat Stats: Cycle Rate and Cycle Intensity Explained
 

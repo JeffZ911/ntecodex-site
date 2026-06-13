@@ -91,7 +91,7 @@ While the S-rank units provide the damage, the A-rank support trio ensures your 
 
 1.  **Mint (Anima):** Your primary healer. Mint’s skill creates a "Botanical Zone" that restores health to the active character over time. In the first three Anomaly Zones, Mint is essential because enemy damage scales aggressively.
 2.  **Adler (Incantation):** A crowd-control specialist. Adler’s abilities can pull smaller enemies together, making it easier for Chiz to hit them with her Grain Market bursts. Adler is obtained at the Eibon Antique Shop after completing the "Echoes of the Past" story beat.
-3.  **Haniel (Psyche):** A pure offensive buffer. Haniel’s kit revolves around increasing the "Esper Resonance" of the party. When Haniel uses her burst, the active character gains a flat attack increase and a [information unavailable]% boost to elemental reaction damage.
+3.  **Haniel (Psyche):** A pure offensive buffer. Haniel’s kit revolves around increasing the "Esper Resonance" of the party. When Haniel uses her burst, the active character gains a flat attack increase and a [information unavailable]% boost to elemental [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 
 ### The Standard Board Selector: Who Should You Pick?
 

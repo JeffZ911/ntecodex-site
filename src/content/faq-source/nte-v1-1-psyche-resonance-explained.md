@@ -67,7 +67,7 @@ Understanding these mechanics is essential for anyone looking to master the Beyo
 ![Direct Answer](/img/nte-v1-1-psyche-resonance-explained/inline-2.webp)
 
 
-The term "Psyche Resonance" is often used by the community to describe a two-fold system: the character-exclusive bonuses unlocked at Awakening levels 3 (A3) and 6 (A6), and the elemental synergy between Psyche and Chaos characters. These Resonance nodes transform Psyche units from simple supports into high-utility "Survival" hybrids or potent buffers.
+The term "[Psyche Resonance](https://ntecodex.com/faq)" is often used by the community to describe a two-fold system: the character-exclusive bonuses unlocked at Awakening levels 3 (A3) and 6 (A6), and the elemental synergy between Psyche and Chaos characters. These Resonance nodes transform Psyche units from simple supports into high-utility "Survival" hybrids or potent buffers.
 
 In Version 1.1, these synergies have become the dominant meta due to the release of Lacrimosa, an S-Rank Chaos character who triggers the "Discord" and "Nova" reactions when paired with Psyche supports like Fadia. To maximize these effects, players must collect character duplicates, known as Mind Shards, to unlock the A3 and A6 Resonance tiers. These tiers provide unique passive abilities—such as Fadia's The Unified Saint—that offer team-wide stat boosts or enhanced damage redirection.
 
@@ -113,7 +113,7 @@ Fadia remains the premier Psyche unit in v1.1. Her role as a Survival character 
 **Character Spotlight: Haniel**
 If you lack Fadia, Haniel is a powerful alternative. Her Resonance focuses on scaling team Crit DMG, which synergizes perfectly with Lacrimosa's high-frequency Chaos attacks.
 
-**Best v1.1 Psyche Resonance Team Compositions**
+**Best v1.[1 Psyche Resonance](https://ntecodex.com/faq) Team Compositions**
 
 | Team Archetype | Main DPS | Sub-DPS/Breaker | Support (Psyche) | Reaction Focus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -155,7 +155,7 @@ Awakening is the general system of enhancing characters using Mind Shards, spann
 Fadia is generally considered superior for high-difficulty content because her Survival role and damage redirection keep Lacrimosa alive. However, if you are speed-running and have a high-investment team, Haniel's Crit DMG Resonance can provide higher overall damage output.
 
 ### How do I trigger the Discord reaction?
-To trigger Discord, you must apply both the Nova (Psyche + Chaos) and Scorch (Chaos + Incantation) effects to the same target simultaneously. This requires a three-element team and careful management of your Esper Cycle swaps to ensure both debuffs are active at once.
+To [trigger Discord](https://ntecodex.com/faq), you must apply both the Nova (Psyche + Chaos) and Scorch (Chaos + Incantation) effects to the same target simultaneously. This requires a three-element team and careful management of your Esper Cycle swaps to ensure both debuffs are active at once.
 
 ### Can I get Mind Shards without spending money?
 Yes, you can earn Fons, the game's non-paid currency, through the City Tycoon system and daily commissions. These Fons can be used to pull on banners, which provide the Mind Shards needed for Awakening. Additionally, some A-Rank character Shards are available through login rewards and event shops.

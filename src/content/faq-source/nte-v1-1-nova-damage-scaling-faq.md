@@ -51,7 +51,7 @@ By answering these questions, players can better allocate resources to character
 
 The Nova reaction is an Esper Cycle interaction triggered by combining Chaos and Psyche elements on a single target. Unlike standard character skills that typically scale with Attack (ATK), Nova's damage output is determined by the Cycle Intensity of the triggering character—specifically the highest value among all participants in the reaction.
 
-When triggered, Nova applies a mark to the enemy that deals a delayed burst of Mental Damage exactly 5 seconds after application. In the current v1.1 meta, Nova is rarely used in isolation; instead, it serves as the bridge for the Discord triple-cycle reaction. By combining Incantation, Chaos, and Psyche, players trigger Discord to significantly reduce enemy Break gauges, allowing for massive damage windows during the Stagger phase.
+When triggered, Nova applies a mark to the enemy that deals a delayed burst of Mental Damage exactly 5 seconds after application. In the current v1.1 meta, Nova is rarely used in isolation; instead, it serves as the bridge for the Discord triple-cycle reaction. By combining Incantation, Chaos, and Psyche, players [trigger Discord](https://ntecodex.com/faq) to significantly reduce enemy Break gauges, allowing for massive damage windows during the Stagger phase.
 
 ## Detailed Explanation
 

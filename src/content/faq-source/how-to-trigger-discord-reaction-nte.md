@@ -88,7 +88,7 @@ Executing the [Discord reaction](https://ntecodex.com/faq) requires a discipline
 To [trigger Discord](https://ntecodex.com/faq) effectively, follow this step-by-step rotation:
 
 1.  **Build Cycle Energy:** Begin the fight by using your characters' basic attacks, parries, or perfect dodges to fill the Esper Meter. You will need enough energy to perform at least two swaps within the Esper Cycle.
-2.  **Apply Scorch First:** Start with an Incantation character like Baicang and swap to a Chaos character like Daffodil. This triggers Scorch. Scorch is the foundation of the Discord reaction because it has a relatively long duration of 15 seconds.
+2.  **Apply Scorch First:** Start with an Incantation character like Baicang and swap to a Chaos character like Daffodil. This triggers Scorch. Scorch is the foundation of the [Discord reaction](https://ntecodex.com/faq) because it has a relatively long duration of 15 seconds.
 3.  **Apply Nova:** While the Scorch effect is still active on the enemy, swap from your Chaos character to a Psyche character such as Haniel or Fadia. This triggers Nova. 
 4.  **The Discord Window:** The Nova effect only lasts for 5 seconds. Therefore, you must ensure that your Psyche character enters the field and applies their elemental damage while the 15-second Scorch timer is still ticking. Once both are active, the Discord icon will appear above the enemy's health bar, and their Break cap will visibly shrink.
 
