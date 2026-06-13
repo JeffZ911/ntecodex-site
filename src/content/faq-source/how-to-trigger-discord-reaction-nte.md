@@ -64,7 +64,7 @@ The primary effect of Discord is a massive deduction from the enemy's Break cap.
 
 ### The Discord Formula
 
-The following table breaks down the elemental components required to achieve the Discord reaction:
+The following table breaks down the elemental components required to achieve the [Discord reaction](https://ntecodex.com/faq):
 
 | Reaction Type | Element 1 | Element 2 | Resulting Effect |
 | :--- | :--- | :--- | :--- |

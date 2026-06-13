@@ -118,7 +118,7 @@ Upgrading a character involves four main pillars: Leveling, Resonance, Arcs, and
 1.  **Leveling:** Uses Fons (the primary currency) and experience materials found during urban exploration.
 2.  **Resonance (Awakenings):** This requires duplicate copies of the character. For S-Class characters, Resonance 1 (R1) and Resonance 2 (R2) are usually the biggest power spikes. For Nanally, her R1 increases her follow-up attack damage by [information unavailable].
 3.  **Arc Compatibility:** As mentioned, matching the Arc type (Solid, Liquid, etc.) is mandatory. S-Class Arcs provide unique passive effects, such as "Increasing damage after a successful Parry."
-4.  **Modules:** These are gear pieces with randomized stats. Players should focus on "Cycle Rate" and "Elemental Mastery" to maximize reaction damage.
+4.  **Modules:** These are gear pieces with randomized stats. Players should focus on "Cycle Rate" and "Elemental Mastery" to maximize [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 
 ### Advanced Combat: Parrying and the Cycle Rate Stat
 

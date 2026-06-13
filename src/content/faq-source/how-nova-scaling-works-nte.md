@@ -95,7 +95,7 @@ The "Discord" advanced reaction (Nova + Scorch) further scales damage by [deduct
 
 ### Optimizing Your Console: Modules for Nova Damage
 When configuring your Esper's Console, gear optimization is different for Nova builds. You should focus on Cartridges and Modules that provide Cycle Intensity rather than raw ATK. 
-*   **Best-in-Slot Cartridges:** Look for sets that grant a flat Cycle Intensity bonus or increase reaction damage specifically.
+*   **Best-in-Slot Cartridges:** Look for sets that grant a flat Cycle Intensity bonus or increase [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) specifically.
 *   **Sub-stat Priority:** Cycle Intensity > Cycle Rate > HP/DEF (for survivability).
 *   **Avoid:** Mental DMG % and CRIT Rate/DMG, as these do not affect the Cognito burst detonation.
 
@@ -123,7 +123,7 @@ To reach the high base damage numbers of [Nova scaling](https://ntecodex.com/faq
 ## Frequently Asked Questions
 
 ### Does Nova damage crit in NTE?
-No, Nova damage is a fixed Cognito burst that cannot land a critical hit. Because it bypasses the crit check entirely, players should prioritize Cycle Intensity and character levels over CRIT Rate or CRIT DMG sub-stats when building a Nova-focused Esper.
+No, [Nova damage](https://ntecodex.com/faq) is a fixed Cognito burst that cannot land a critical hit. Because it bypasses the crit check entirely, players should prioritize Cycle Intensity and character levels over CRIT Rate or CRIT DMG sub-stats when building a Nova-focused Esper.
 
 ### Can I trigger Nova multiple times on the same enemy?
 You can refresh the Nova mark, but the detonation has a fixed 5-second internal timer. If you apply Chaos and Psyche again while a mark is already ticking, it will typically refresh the duration or queue a second burst depending on the specific Esper's Resonance Skill properties, but they will not detonate simultaneously.

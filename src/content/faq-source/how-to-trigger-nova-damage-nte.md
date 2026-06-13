@@ -117,7 +117,7 @@ To truly master Nova-focused teams, you must balance two key stats: Cycle Rate a
 
 ### Best Team Compositions for Nova
 
-The most popular team for triggering Nova frequently involves Lacrimosa and Fadia. Lacrimosa provides consistent Chaos application and off-field support, while Fadia can swap in to trigger the Nova Mark while simultaneously providing heals to the party. Adding a third character like Sakiri (Incantation) allows the team to access the Discord reaction, making the composition viable for almost all content in the game.
+The most popular team for triggering Nova frequently involves Lacrimosa and Fadia. Lacrimosa provides consistent Chaos application and off-field support, while Fadia can swap in to trigger the Nova Mark while simultaneously providing heals to the party. Adding a third character like Sakiri (Incantation) allows the team to access the [Discord reaction](https://ntecodex.com/faq), making the composition viable for almost all content in the game.
 
 ### Filling the Esper Meter Faster
 

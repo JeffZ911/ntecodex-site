@@ -61,7 +61,7 @@ The following table outlines the current top-performing Anomaly compositions as 
 
 | Team Name | Core Carry | Off-Field/Sub-DPS | Support/Defense | Primary Elements |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Disorder Premium** | Jane Doe | Burnice White | Seth Lowell | Physical / Fire |
+| **The Disorder Premium** | [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) | Burnice White | Seth Lowell | Physical / Fire |
 | **The Polarity Meta** | Yanagi | Burnice White | Caesar King | Electric / Fire |
 | **Frostbite Burst** | Miyabi | Yanagi | Yuzuha | Ice / Electric |
 | **F2P Anomaly** | Piper | Lucy | Grace | Physical / Fire / Electric |

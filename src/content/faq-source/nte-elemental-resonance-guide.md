@@ -123,7 +123,7 @@ Building a team requires balancing elemental adjacency with character roles (DPS
 
 | Team Name | Core Characters | Primary Reaction | Playstyle |
 | :--- | :--- | :--- | :--- |
-| **The Boss Executioner** | Nanally, Zero, — | Discord | Focuses on rapid swaps to trigger Discord and break boss shields instantly. |
+| **The Boss Executioner** | Nanally, Zero, — | Discord | Focuses on rapid swaps to [trigger Discord](https://ntecodex.com/faq) and break boss shields instantly. |
 | **Nature's Wrath (AoE)** | Jiuyuan, Mint, — | Blossom | Sets up multiple automated turrets to clear waves of enemies while staying mobile. |
 | **Silver Order** | —, Zero, Mint | Nova / Charged | High utility team that focuses on crowd control and frequent Ultimate usage. |
 

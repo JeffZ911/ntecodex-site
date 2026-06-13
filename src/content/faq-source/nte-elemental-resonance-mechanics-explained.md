@@ -96,7 +96,7 @@ Strategic use of these reactions is essential. **Blossom** is currently a favori
 Trio Reactions are the advanced stage of the Esper Cycle. These are not triggered by a single swap, but by completing a sequence of three adjacent elements within the same Trio group.
 
 *   **Charge (Top Trio: Lakshana, Cosmos, Anima):** To trigger Charge, you must activate the Blossom and Remora effects within a short window. Once active, the "Leaden Blooms" (attacks from the Blossom turrets) grant the active character 10 additional Ultimate Energy per hit whenever they strike an enemy marked by Remora. This is the primary way to "battery" your team for high-cost Ultimates.
-*   **Discord (Bottom Trio: Incantation, Chaos, Psyche):** This is the premier boss-killing mechanic. To trigger Discord, an enemy must be simultaneously affected by **Scorch** (from Incantation/Chaos) and **Nova** (from Chaos/Psyche). When Discord procs, it deals massive Break and Stagger damage. This is the most efficient way to deplete a boss's stability bar and force a "Punish Window."
+*   **Discord (Bottom Trio: Incantation, Chaos, Psyche):** This is the premier boss-killing mechanic. To [trigger Discord](https://ntecodex.com/faq), an enemy must be simultaneously affected by **Scorch** (from Incantation/Chaos) and **Nova** (from Chaos/Psyche). When Discord procs, it deals massive Break and Stagger damage. This is the most efficient way to deplete a boss's stability bar and force a "Punish Window."
 
 ### Managing the Esper Meter: Cycle Rate and Parrying
 

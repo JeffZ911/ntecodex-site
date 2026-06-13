@@ -39,7 +39,7 @@ As players progress through the Version 4.3 update of Honkai: Star Rail, the int
 The community has raised several specific questions regarding the optimization of [Mortenax Blade](https://ntecodex.com/faq) and how his gear logic translates to the newer systems found in Neverness to Everness:
 
 *   **What are the best Cavern Relics and Planar Ornaments for [Mortenax Blade](https://ntecodex.com/faq) in Honkai: Star Rail Version 4.3?** Players need to know which specific sets maximize his unique HP-scaling and DEF-shred capabilities.
-*   **How do the gear mechanics for Mortenax Blade compare to the equipment system in Neverness to Everness (NTE)?** Understanding the transition from Relics to "Cartridges" and "Modules" is essential for cross-platform players.
+*   **How do the gear mechanics for [Mortenax Blade](https://ntecodex.com/faq) compare to the equipment system in Neverness to Everness (NTE)?** Understanding the transition from Relics to "Cartridges" and "Modules" is essential for cross-platform players.
 *   **Which stats should be prioritized for Mortenax Blade's high-risk, HP-scaling playstyle?** Since he consumes his own health to fuel his Fire damage, balancing survivability and CRIT stats is vital.
 *   **Are there equivalent gear sets in NTE that provide similar DEF-shred or CRIT DMG bonuses?** Finding the NTE counterparts for a character like Mortenax Blade helps players build characters like Lacrimosa or Hotori more effectively.
 
