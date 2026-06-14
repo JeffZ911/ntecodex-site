@@ -64,7 +64,7 @@ To understand how these stats interact with your gear and the game's mechanics, 
 | **Base Value** | Starts at 0 (modified by Agent level/gear). | Starts at 100 (base buildup rate). |
 | **Scaling Formula** | 1 Point = 1% Damage Multiplier. | 1% Mastery = 1% faster buildup. |
 | **Impact on Disorder** | Increases the damage of the Disorder burst. | Helps trigger Disorder faster by cycling statuses. |
-| **Character Example** | Jane Doe (needs high damage per proc). | Burnice (needs to apply Burn quickly off-field). |
+| **Character Example** | [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) (needs high damage per proc). | Burnice (needs to apply Burn quickly off-field). |
 
 ## Detailed Comparison
 

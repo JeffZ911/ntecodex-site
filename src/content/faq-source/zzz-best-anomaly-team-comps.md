@@ -129,7 +129,7 @@ Optimizing gear is non-negotiable for high-level Shiyu Defense.
 
 | Character | Attribute | Primary Role | Key Stat Priority |
 | :--- | :--- | :--- | :--- |
-| Jane Doe | Physical | On-Field Driver | Anomaly Mastery > Proficiency |
+| [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) | Physical | On-Field Driver | Anomaly Mastery > Proficiency |
 | Burnice | Fire | Off-Field Applier | Anomaly Proficiency > ATK% |
 | Yanagi | Electric | Disorder Specialist | Anomaly Proficiency > Mastery |
 | Piper | Physical | F2P Driver | Anomaly Mastery > ATK% |

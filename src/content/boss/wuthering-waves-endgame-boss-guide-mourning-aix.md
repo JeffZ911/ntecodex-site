@@ -124,7 +124,7 @@ Due to the stamina penalty mechanism, keeping your HP at 100% is more important 
 ![Recommended Team](/img/wuthering-waves-endgame-boss-guide-mourning-aix/inline-4.webp)
 
 
-The 2026 meta for Wuthering Waves emphasizes high-mobility units and Resonators who can exploit elemental weaknesses. For Mourning Aix VI, avoid Spectro-based teams entirely.
+The 2026 meta for [Wuthering Waves](https://ntecodex.com/faq) emphasizes high-mobility units and Resonators who can exploit elemental weaknesses. For Mourning Aix VI, avoid Spectro-based teams entirely.
 
 ### Top Tier: The undisclosed Core
 

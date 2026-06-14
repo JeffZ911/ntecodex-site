@@ -54,7 +54,7 @@ This guide clarifies the mechanics of the Scarborough Fair board-game gacha, foc
 ![Direct Answer](/img/how-does-pity-work-wuwa-neverness-to-everness/inline-2.webp)
 
 
-Neverness to Everness (NTE) features a hard pity of 90 pulls for S-class characters on both Limited and Standard Boards. While this is slightly higher than the 80-pull hard pity found in Wuthering Waves, NTE compensates by removing the "50/50" mechanic entirely for Limited Boards. If you land an S-class character on a limited banner, it is 100% guaranteed to be the featured character.
+Neverness to Everness (NTE) features a hard pity of 90 pulls for S-class characters on both Limited and Standard Boards. While this is slightly higher than the 80-pull hard pity found in [Wuthering Waves](https://ntecodex.com/faq), NTE compensates by removing the "50/50" mechanic entirely for Limited Boards. If you land an S-class character on a limited banner, it is 100% guaranteed to be the featured character.
 
 A soft pity mechanic known as **Board Modification** triggers at 70 pulls, which immediately increases the S-class drop rate from a base of 0.99% (or 1.87% depending on the board) to 19.59%. For weapons—known in NTE as Arcs—the hard pity is set at 80 pulls, with a soft pity threshold occurring at 60 pulls. Pity progress is permanent and carries over between banners of the same type (Limited to Limited, and Standard to Standard).
 

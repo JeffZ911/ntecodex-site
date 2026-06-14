@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-As players transition from the turn-based combat of Honkai: Star Rail to the urban open-world of Hethereau, identifying the core progression loops is essential for character power. Understanding how to farm gear efficiently in the new environment requires a clear look at the systems that replace familiar mechanics like the Cavern of Corrosion.
+As players transition from the turn-based combat of Honkai: Star Rail to the urban open-world of Hethereau, identifying the core progression loops is essential for character power. Understanding how to farm gear efficiently in the new environment requires a clear look at the systems that replace familiar mechanics like the [Cavern of Corrosion](https://ntecodex.com/faq).
 
 # HSR 4.3 Cavern of Corrosion Explained: Farming Gear in Neverness to Everness
 
@@ -36,7 +36,7 @@ The Neverness to Everness (NTE) equivalent to the Honkai: Star Rail (HSR) Cavern
 *Related: [Aurelia Nova vs Lacrimosa NTE: Best Gaming Gear for Neverness to Evern](/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) · [Best Ergonomic Gear for Players Grinding NTE v1.1 Street and Circuit R](/guides/best-gear-for-nte-v1-1-racing-mechanics) · [Best High-End Audio Gear for 10-Hour JRPG and Gacha Grinding Sessions](/guides/lacrimosa-vs-alice-nte-comparison-20260614)*
 
 
-When looking for the HSR 4.3 Cavern of Corrosion equivalent in Neverness to Everness, several key questions arise regarding the transition between these two systems. Players often want to know exactly where the gear farming domains are located within the sprawling city of Hethereau and how the stamina costs compare to the Trailblaze Power they are used to spending.
+When looking for the [HSR 4](https://ntecodex.com/faq).[3 Cavern](https://ntecodex.com/faq) of Corrosion equivalent in Neverness to Everness, several key questions arise regarding the transition between these two systems. Players often want to know exactly where the gear farming domains are located within the sprawling city of Hethereau and how the stamina costs compare to the Trailblaze Power they are used to spending.
 
 The core of the inquiry focuses on:
 *   What is the specific equivalent of the Honkai: Star Rail 4.3 Cavern of Corrosion in Neverness to Everness?

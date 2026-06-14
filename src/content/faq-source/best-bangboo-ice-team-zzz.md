@@ -127,7 +127,7 @@ In an Ice team rotation, you typically want to trigger the Bangboo Chain Attack 
 ### Bangboo Progression: Leveling and System Optimization
 To get the most out of your chosen Bangboo, you must invest in its progression. This involves three main components:
 1.  **Leveling:** Use Bangboo Algorithm Modules to increase the level cap. At Level 60, the jump in ATK and Anomaly Mastery is significant.
-2.  **Core Skill Upgrades:** These require specific materials found in Hollow Zero. Upgrading the Core Skill improves the percentage bonuses of the Bangboo’s passive abilities.
+2.  **Core Skill Upgrades:** These require specific materials found in [Hollow Zero](https://ntecodex.com/faq). Upgrading the Core Skill improves the percentage bonuses of the Bangboo’s passive abilities.
 3.  **Optimization:** This refers to pulling duplicate Bangboos to increase their "Stars." Each star level provides a direct multiplier to their Active and Chain skills.
 
 ## Related

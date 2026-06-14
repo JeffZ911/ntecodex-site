@@ -25,7 +25,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Success in Hollow Zero hinges on the synergy between your chosen Agents and the Resonia sets you collect throughout each floor. As of May 2026, the meta has expanded to include high-tier factions like the Angels of Delusion and Section 6, but the core mechanics of managing Pressure and matching elements to Resonia remain the foundation of any successful run.
+Success in [Hollow Zero](https://ntecodex.com/faq) hinges on the synergy between your chosen Agents and the Resonia sets you collect throughout each floor. As of May 2026, the meta has expanded to include high-tier factions like the Angels of Delusion and Section 6, but the core mechanics of managing Pressure and matching elements to Resonia remain the foundation of any successful run.
 
 # Best Team for Hollow Zero in Zenless Zone Zero (ZZZ)
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

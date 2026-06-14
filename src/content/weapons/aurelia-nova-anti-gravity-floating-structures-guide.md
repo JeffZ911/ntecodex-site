@@ -35,7 +35,7 @@ The "[Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-co
 ![Stats](/img/aurelia-nova-anti-gravity-floating-structures-guide/inline-1.webp)
 
 
-Aurelia's primary weapons are Plasma Arcs, which manifest as anti-gravity floating structures, often referred to by the community as jellyfish units. These weapons are unique in Neverness to Everness because they allow for automated firing and high-speed traversal during combat. The effectiveness of the "Aurelia Nova" build is largely determined by the Base ATK and substat scaling of these Arcs, as her Crescendo passive converts specific offensive stats into stacking damage bonuses.
+Aurelia's primary weapons are Plasma Arcs, which manifest as anti-gravity floating structures, often referred to by the community as jellyfish units. These weapons are unique in Neverness to Everness because they allow for automated firing and high-speed traversal during combat. The effectiveness of the "[Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f)" build is largely determined by the Base ATK and substat scaling of these Arcs, as her Crescendo passive converts specific offensive stats into stacking damage bonuses.
 
 The Stellar Veil serves as Aurelia's signature weapon, providing a massive ATK% boost that scales her multi-hit jellyfish blasts. For players looking for raw power in the Nova meta, the Song of the Whale offers the highest base ATK among accessible S-Rank Arcs. Meanwhile, Ready-Ready is the premier choice for players focusing on Critical Riposte damage, also known as the Syncopation mechanic.
 
