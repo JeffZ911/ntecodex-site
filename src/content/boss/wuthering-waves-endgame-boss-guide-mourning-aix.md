@@ -178,7 +178,7 @@ The Advanced Simulation Data earned from high-level Hologram clears is the prima
 2.  **Malleable Echo Ore:** Allows you to choose the primary stat for specific Echo sets.
 3.  **Shell Credits:** The high cost of Level 90+ upgrades makes these a constant necessity.
 
-By mastering the parry timings and maintaining a strict healing rotation to avoid stamina penalties, you can overcome the Mourning Aix VI and solidify your place among the elite Resonators in Wuthering Waves.
+By mastering the parry timings and maintaining a strict healing rotation to avoid stamina penalties, you can overcome the Mourning Aix VI and solidify your place among the elite Resonators in [Wuthering Waves](https://ntecodex.com/faq).
 
 ## Sources
 

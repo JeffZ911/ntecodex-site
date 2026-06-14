@@ -26,7 +26,7 @@ As players transition from the turn-based combat of Honkai: Star Rail to the urb
 
 # HSR 4.3 Cavern of Corrosion Explained: Farming Gear in Neverness to Everness
 
-The Neverness to Everness (NTE) equivalent to the Honkai: Star Rail (HSR) Cavern of Corrosion is the Rabbit Hole domain, which is the primary source for Cartridges. While HSR players farm Relics, NTE players utilize the Console System, which combines these Cartridges with Tetris-like Modules obtained through the Rewind System using Carrota Coins.
+The Neverness to Everness (NTE) equivalent to the Honkai: Star Rail (HSR) [Cavern of Corrosion](https://ntecodex.com/faq) is the Rabbit Hole domain, which is the primary source for Cartridges. While HSR players farm Relics, NTE players utilize the Console System, which combines these Cartridges with Tetris-like Modules obtained through the Rewind System using Carrota Coins.
 
 ## Question Restated
 
@@ -39,7 +39,7 @@ The Neverness to Everness (NTE) equivalent to the Honkai: Star Rail (HSR) Cavern
 When looking for the [HSR 4](https://ntecodex.com/faq).[3 Cavern](https://ntecodex.com/faq) of Corrosion equivalent in Neverness to Everness, several key questions arise regarding the transition between these two systems. Players often want to know exactly where the gear farming domains are located within the sprawling city of Hethereau and how the stamina costs compare to the Trailblaze Power they are used to spending.
 
 The core of the inquiry focuses on:
-*   What is the specific equivalent of the Honkai: Star Rail 4.3 Cavern of Corrosion in Neverness to Everness?
+*   What is the specific equivalent of the Honkai: Star Rail 4.[3 Cavern](https://ntecodex.com/faq) of Corrosion in Neverness to Everness?
 *   How do players farm endgame gear, specifically the Cartridges and Modules that make up the Console System?
 *   Where can players find these domains in the Hethereau districts?
 *   What are the specific costs in terms of Character Pixels and what reward tiers can be expected at different levels?

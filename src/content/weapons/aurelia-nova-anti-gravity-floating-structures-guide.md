@@ -60,7 +60,7 @@ Ready-Ready is an S-Rank Plasma Arc that pivots away from ATK% in favor of Crit 
 ![Effect](/img/aurelia-nova-anti-gravity-floating-structures-guide/inline-2.webp)
 
 
-The effects of these anti-gravity structures define the playstyle of the Aurelia Nova team. These weapons do not just provide stats; they alter how the Esper interacts with the environment and the Nova reaction.
+The effects of these anti-gravity structures define the playstyle of the [Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) team. These weapons do not just provide stats; they alter how the Esper interacts with the environment and the Nova reaction.
 
 ### Signature Passive: Stellar Veil
 The Stellar Veil passive permanently increases Psyche DMG by 12%. Additionally, it grants stacking Crit DMG bonuses, up to a maximum of 20%, upon landing successful Psyche hits. Because Aurelia's Staccato state involves a barrage of small jellyfish blasts, she can reach the maximum stack count in less than two seconds. This creates a feedback loop where her multi-hits build the stacks required for her final Cadenza explosion to deal catastrophic damage.

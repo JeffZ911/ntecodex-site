@@ -142,7 +142,7 @@ As of May 2026, Ellen Joe remains the premier Ice DPS due to her mobility and hi
 
 ### How do you get more Bangboo Coupons?
 Bangboo Coupons (Boopons) are a rare currency that cannot be purchased with Polychromes. To farm them efficiently:
-*   **Hollow Zero:** Complete weekly commissions and clear higher difficulty tiers to earn coupons from the license level rewards.
+*   **[Hollow Zero](https://ntecodex.com/faq):** Complete weekly commissions and clear higher difficulty tiers to earn coupons from the license level rewards.
 *   **Events:** Most limited-time events in ZZZ provide at least 5-10 Bangboo Coupons.
 *   **Officer Mewmew:** Complete urban exploration tasks and medals in various districts (Sixth Street, Brant Street, etc.) to receive one-time coupon rewards.
 

@@ -51,7 +51,7 @@ Her kit revolves around the Heat mechanic. By consuming Energy through her vario
 
 ### Burnice's Role in the Meta
 
-In the current Zenless Zone Zero meta, Burnice White occupies a top-tier slot for Anomaly-focused compositions. While characters like Grace or Jane Doe require significant field time to build up their respective anomalies, Burnice does the heavy lifting from the sidelines. She is the first character specifically designed to facilitate "Disorder" damage—a massive burst of damage triggered when a second elemental anomaly is applied to an enemy already suffering from one.
+In the current Zenless Zone Zero meta, Burnice White occupies a top-tier slot for Anomaly-focused compositions. While characters like Grace or [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) require significant field time to build up their respective anomalies, Burnice does the heavy lifting from the sidelines. She is the first character specifically designed to facilitate "Disorder" damage—a massive burst of damage triggered when a second elemental anomaly is applied to an enemy already suffering from one.
 
 Her presence allows players to run dual-anomaly setups without the clunkiness of constant manual swapping. By simply building her Heat and switching out, she provides consistent Fire application that bridges the gap between different elemental rotations.
 

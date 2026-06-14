@@ -36,7 +36,7 @@ Success in [Hollow Zero](https://ntecodex.com/faq) hinges on the synergy between
 ![Question Restated](/img/best-team-hollow-zero-zzz-guide/inline-1.webp)
 
 
-Clearing Hollow Zero, particularly high-intensity zones like Withering Garden or the newer Deadly Assault nodes, requires more than just high-level characters. Players frequently ask which team compositions provide the most consistent results when facing escalating Corruption and the relentless Pressure mechanic. 
+Clearing [Hollow Zero](https://ntecodex.com/faq), particularly high-intensity zones like Withering Garden or the newer Deadly Assault nodes, requires more than just high-level characters. Players frequently ask which team compositions provide the most consistent results when facing escalating Corruption and the relentless Pressure mechanic. 
 
 Success in this mode involves answering three primary concerns:
 *   **What are the most effective team compositions for clearing Hollow Zero?** You need a team that can handle both large waves of "trash" mobs and high-HP bosses like Nineveh or the latest Eridan threats.
