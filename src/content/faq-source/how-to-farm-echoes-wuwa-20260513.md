@@ -141,6 +141,6 @@ As you increase your Union Level and progress through SOL-3 Phases, the world le
 
 - Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/en/
 - Prydwen Institute Wuthering Waves Guide — https://www.prydwen.gg/wuthering-waves/
-- Game8 Wuthering Waves Echo Guide — https://game8.co/games/Wuthering-Waves/archives/454522
+- Game8 [Wuthering Waves Echo](https://ntecodex.com/faq) Guide — https://game8.co/games/Wuthering-Waves/archives/454522
 - Wuthering Waves Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Echo
 - Wuthering.wiki Database — https://wuthering.wiki/

@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Optimizing your character builds is the most effective way to clear high-difficulty content like Shiyu Defense and Hollow Zero. This guide breaks down the best Drive Disc sets currently dominating the Zenless Zone Zero meta to help you maximize your squad's potential.
+Optimizing your character builds is the most effective way to clear high-difficulty content like Shiyu Defense and [Hollow Zero](https://ntecodex.com/faq). This guide breaks down the best Drive Disc sets currently dominating the Zenless Zone Zero meta to help you maximize your squad's potential.
 
 # What Are the Best Drive Disc Sets in Zenless Zone Zero?
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

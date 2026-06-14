@@ -28,7 +28,7 @@ Optimizing the [Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrim
 
 # "Aurelia Nova" Anti-Gravity Floating Structures: Stats, Effects, and Best Weapons
 
-The "Aurelia Nova" build utilizes Plasma Arcs—anti-gravity floating structures like Stellar Veil and Song of the Whale—to maximize Psyche damage and trigger the powerful Nova Esper Cycle reaction.
+The "[Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f)" build utilizes Plasma Arcs—anti-gravity floating structures like Stellar Veil and Song of the Whale—to maximize Psyche damage and trigger the powerful Nova Esper Cycle reaction.
 
 ## Stats
 

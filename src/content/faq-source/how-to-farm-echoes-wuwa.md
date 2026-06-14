@@ -157,6 +157,6 @@ With an inventory limit of 2,000 Echoes, you will quickly find yourself overwhel
 
 - Wuthering Waves Official Wiki — https://wuthering.wiki
 - Prydwen Institute Wuthering Waves Guide — https://www.prydwen.gg/wuthering-waves/
-- Game8 Wuthering Waves Echo Guide — https://game8.co/games/Wuthering-Waves/archives/454504
+- Game8 [Wuthering Waves Echo](https://ntecodex.com/faq) Guide — https://game8.co/games/Wuthering-Waves/archives/454504
 - Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/en/
 - Reddit r/WutheringWaves Community Guides — https://www.reddit.com/r/WutheringWaves/

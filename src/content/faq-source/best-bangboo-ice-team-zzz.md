@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing the synergy between your Agents and their robotic companions is essential for clearing the high-difficulty content of the Hollow Zero and Shiyu Defense. Choosing the right Bangboo for an Ice-based squad determines how quickly you can freeze enemies and how often your DPS can unleash their ultimate attacks.
+Maximizing the synergy between your Agents and their robotic companions is essential for clearing the high-difficulty content of the [Hollow Zero](https://ntecodex.com/faq) and Shiyu Defense. Choosing the right Bangboo for an Ice-based squad determines how quickly you can freeze enemies and how often your DPS can unleash their ultimate attacks.
 
 # Best Bangboo for Ice Team ZZZ: Top Picks & Rankings
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._

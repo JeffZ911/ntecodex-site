@@ -45,7 +45,7 @@ As players transition from the post-apocalyptic landscapes of Solaris-3 to the b
 ![Question Restated](/img/how-does-pity-work-wuwa-neverness-to-everness/inline-1.webp)
 
 
-The gacha landscape has evolved significantly since the release of Wuthering Waves (WuWa) in 2024, and the arrival of Neverness to Everness (NTE) in 2026 introduces a unique "Scarborough Fair" system that departs from traditional pull animations. Many players searching for "how does pity work wuwa" are looking for a direct comparison to see if NTE is more or less generous than Kuro Games' title.
+The gacha landscape has evolved significantly since the release of [Wuthering Waves](https://ntecodex.com/faq) (WuWa) in 2024, and the arrival of Neverness to Everness (NTE) in 2026 introduces a unique "Scarborough Fair" system that departs from traditional pull animations. Many players searching for "how does pity work wuwa" are looking for a direct comparison to see if NTE is more or less generous than Kuro Games' title.
 
 This guide clarifies the mechanics of the Scarborough Fair board-game gacha, focusing on how many Solid or Fabricated Dice rolls are required to secure S-class Espers like [Nanally](/characters/nanally-guide-nte) or Hotori. We will define the specific terminology used in Hethereau, including Board Modification, Tri-Keys, and Arcs, while providing a clear roadmap for hitting your pity thresholds without wasting Annulith.
 

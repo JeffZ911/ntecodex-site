@@ -23,7 +23,7 @@ inline_image_sections:
   - "Loot"
 ---
 
-Facing the Tactical Hologram: Mourning Aix at Difficulty VI is widely considered the ultimate skill check for Resonators seeking to master the current endgame of Wuthering Waves.
+Facing the Tactical Hologram: Mourning Aix at Difficulty VI is widely considered the ultimate skill check for Resonators seeking to master the current endgame of [Wuthering Waves](https://ntecodex.com/faq).
 
 # Wuthering Waves Endgame Boss Guide: How to Beat Tactical Hologram Mourning Aix VI
 

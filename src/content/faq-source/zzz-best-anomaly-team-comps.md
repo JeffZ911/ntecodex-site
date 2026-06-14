@@ -121,7 +121,7 @@ Optimizing gear is non-negotiable for high-level Shiyu Defense.
 3.  **Thunder Metal / Fanged Metal:** These are secondary options if you are focusing more on raw elemental damage rather than just the Disorder burst.
 
 **W-Engine Priorities:**
-*   **Sharpened Stinger (S-Rank):** Jane Doe's signature. Provides massive Physical DMG and Anomaly Buildup.
+*   **Sharpened Stinger (S-Rank):** [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)'s signature. Provides massive Physical DMG and Anomaly Buildup.
 *   **Flamemaker Shaker (S-Rank):** Burnice's signature. Essential for keeping her off-field Fire application consistent.
 *   **Weeping Gemini (A-Rank):** The best F2P option. It grants stacking Anomaly Proficiency every time an Agent triggers an Anomaly, up to 3 times.
 

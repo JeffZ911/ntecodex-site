@@ -38,7 +38,7 @@ If you are looking for a quick answer on how to build your Agents, the distincti
 
 *   **Anomaly Proficiency** increases the raw damage dealt by Attribute Anomalies (Burn, Shock, Corruption, etc.). Think of it as the "Attack" or "Crit" equivalent for elemental status effects.
 *   **Anomaly Mastery** increases the speed at which the Anomaly gauge fills up. It functions similarly to "Impact" for Stun Agents, allowing you to trigger status effects more frequently.
-*   **For Main DPS Anomaly Agents (like Jane Doe):** Prioritize Anomaly Proficiency. Jane Doe specifically scales her Attack and Crit Rate for Assault based on this stat, with a "Gold Standard" target of 420 Proficiency.
+*   **For Main DPS Anomaly Agents (like [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)):** Prioritize Anomaly Proficiency. Jane Doe specifically scales her Attack and Crit Rate for Assault based on this stat, with a "Gold Standard" target of 420 Proficiency.
 *   **For Support or Disorder-enabling Agents (like Grace or Burnice):** Prioritize Anomaly Mastery. These Agents often need to apply their status quickly before swapping to another character to trigger a Disorder burst.
 
 ### Quick Summary for Busy Proxies
