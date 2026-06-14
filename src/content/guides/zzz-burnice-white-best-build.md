@@ -148,7 +148,7 @@ Burnice is a versatile unit, but she truly shines in "Disorder" compositions whe
 
 ### The Jane Doe Disorder Team
 
-This is currently the strongest team for Burnice White. Jane Doe provides massive Physical Anomaly (Assault), while Burnice provides off-field Fire Anomaly (Burn).
+This is currently the strongest team for Burnice White. [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) provides massive Physical Anomaly (Assault), while Burnice provides off-field Fire Anomaly (Burn).
 - **Main DPS:** Jane Doe
 - **Sub-DPS:** Burnice White
 - **Support/Stun:** Caesar King or Seth Lowell

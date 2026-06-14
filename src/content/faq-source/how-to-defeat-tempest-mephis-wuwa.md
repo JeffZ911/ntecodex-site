@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Tempest Mephis stands as one of the most mechanically demanding boss encounters in Wuthering Waves, requiring players to master high-speed parry timings and dodge-heavy patterns. This Electro-attribute phantom serves as a gatekeeper for character ascension materials and high-tier Echo sets, making it a mandatory stop for any player building a powerful Electro team.
+Tempest Mephis stands as one of the most mechanically demanding boss encounters in [Wuthering Waves](https://ntecodex.com/faq), requiring players to master high-speed parry timings and dodge-heavy patterns. This Electro-attribute phantom serves as a gatekeeper for character ascension materials and high-tier Echo sets, making it a mandatory stop for any player building a powerful Electro team.
 
 # How to Defeat Tempest Mephis in Wuthering Waves: Location and Strategy Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._

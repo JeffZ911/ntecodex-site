@@ -39,7 +39,7 @@ Success in [Hollow Zero](https://ntecodex.com/faq) hinges on the synergy between
 Clearing [Hollow Zero](https://ntecodex.com/faq), particularly high-intensity zones like Withering Garden or the newer Deadly Assault nodes, requires more than just high-level characters. Players frequently ask which team compositions provide the most consistent results when facing escalating Corruption and the relentless Pressure mechanic. 
 
 Success in this mode involves answering three primary concerns:
-*   **What are the most effective team compositions for clearing Hollow Zero?** You need a team that can handle both large waves of "trash" mobs and high-HP bosses like Nineveh or the latest Eridan threats.
+*   **What are the most effective team compositions for clearing [Hollow Zero](https://ntecodex.com/faq)?** You need a team that can handle both large waves of "trash" mobs and high-HP bosses like Nineveh or the latest Eridan threats.
 *   **How do character roles (Attacker, Stun, Support) influence success in high-intensity runs?** While raw damage is important, the ability to build Daze quickly and provide defensive utility becomes mandatory at Intensity 11 and above.
 *   **Which teams synergize best with specific Resonia paths like Freeze, Duel, or Shield?** Your team's elemental affinity and combat style must align with the Resonia you prioritize to unlock powerful "Advanced Resonia" bonuses.
 

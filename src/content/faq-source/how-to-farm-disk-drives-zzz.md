@@ -32,7 +32,7 @@ Maximizing your Agent's potential in New Eridu requires more than just leveling 
 ![Question Restated](/img/how-to-farm-disk-drives-zzz/inline-1.webp)
 
 
-Players often find themselves hitting a progression wall where simple character levels are no longer enough to clear difficult Hollow Zero or Shiyu Defense stages. This leads to several common questions regarding the equipment system:
+Players often find themselves hitting a progression wall where simple character levels are no longer enough to clear difficult [Hollow Zero](https://ntecodex.com/faq) or Shiyu Defense stages. This leads to several common questions regarding the equipment system:
 
 *   **What are the primary methods for obtaining Disk Drives in Zenless Zone Zero?** The two main avenues are Routine Cleanup missions, which use Battery Charge, and the Bardic Needle music store, which uses Master Copies obtained through dismantling or mission rewards.
 *   **At what Inter-Knot Level (IKL) does Disk Drive farming become available?** While the system introduces itself early, efficient farming only begins once you reach specific milestones that unlock higher-tier rewards.

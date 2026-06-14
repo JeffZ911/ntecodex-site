@@ -185,5 +185,5 @@ By mastering the parry timings and maintaining a strict healing rotation to avoi
 - Prydwen
 - Game8 — https://game8.co/games/Wuthering-Waves/archives/455502
 - Wuthering Wiki
-- Official Wuthering Waves Website — https://wutheringwaves.kurogames.com/en/main/news/detail/823
+- Official [Wuthering Waves](https://ntecodex.com/faq) Website — https://wutheringwaves.kurogames.com/en/main/news/detail/823
 - Reddit (r/WutheringWaves) — https://www.reddit.com/r/WutheringWaves/comments/1d3f5s1/mourning_aix_hologram_6_guide/

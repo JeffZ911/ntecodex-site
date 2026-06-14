@@ -191,5 +191,5 @@ This entire sequence should take no more than 5 seconds. If performed correctly,
 - Prydwen Institute — https://www.prydwen.gg/wuthering-waves/characters/sanhua
 - Game8 Wuthering Waves Guide — https://game8.co/games/Wuthering-Waves/archives/454504
 - Wuthering.wiki Sanhua Database — https://wuthering.wiki/character_1402.html
-- IGN Wuthering Waves Echo Guide
+- IGN [Wuthering Waves Echo](https://ntecodex.com/faq) Guide
 - WutheringLab Sanhua Build — https://wutheringlab.com/character/sanhua-build/

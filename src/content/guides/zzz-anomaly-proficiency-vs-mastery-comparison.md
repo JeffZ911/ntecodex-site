@@ -126,7 +126,7 @@ Choosing between these stats often depends on the specific Agent you are playing
 
 ### Best Stats for Jane Doe and Physical Agents
 
-Jane Doe is currently the benchmark for on-field Anomaly DPS. Her kit is designed to stay on the field, dodge frequently to enter the **Passion** state, and trigger **Assault** repeatedly.
+[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) is currently the benchmark for on-field Anomaly DPS. Her kit is designed to stay on the field, dodge frequently to enter the **Passion** state, and trigger **Assault** repeatedly.
 
 *   **Priority:** Anomaly Proficiency.
 *   **Why:** Jane needs to hit the 420 Proficiency threshold to maximize her passive buffs. While she still needs Mastery to trigger Assault quickly, her kit provides natural buildup bonuses while in the Passion state, allowing her to focus more heavily on Proficiency for damage.
