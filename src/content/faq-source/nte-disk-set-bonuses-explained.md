@@ -96,7 +96,7 @@ As of May 2026, the following sets are the most sought-after for endgame builds.
 | Set Name | 2-Piece Bonus (Epic) | 4-Piece Bonus (Legendary) |
 | :--- | :--- | :--- |
 | **Lost Radiance** | +15% Physical DMG | After using an Ultimate, increases Basic Attack DMG by 50% for 10s. |
-| **Fireflies and the Forest** | +80 Elemental Mastery | Increases Scorch and Remora reaction damage by 40%. |
+| **Fireflies and the Forest** | +80 Elemental Mastery | Increases Scorch and Remora [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) by 40%. |
 | **Devil's Blood: Curse** | +15% ATK | When HP is below 50%, gain 20% Life Steal and 25% DMG Reduction. |
 | **Speedy Hedgehog** | +20% Energy Regen | Switching characters grants the incoming ally +15% ATK for 12s. |
 | **Abyssal Echo** | +15% Shadow DMG | Dealing Shadow DMG reduces enemy Shadow RES by 20% for 6s. |

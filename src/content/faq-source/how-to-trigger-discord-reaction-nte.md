@@ -148,7 +148,7 @@ Another common mistake is ignoring the Esper Cycle Wheel. Elements must be appli
 ## Frequently Asked Questions
 
 ### Can I trigger Discord with only two characters?
-No, the Discord reaction requires three specific elemental affinities: Chaos, Psyche, and Incantation. Since each character in NTE typically only carries one primary elemental affinity, you must have a team of three characters that cover these three elements to trigger the reaction.
+No, the [Discord reaction](https://ntecodex.com/faq) requires three specific elemental affinities: Chaos, Psyche, and Incantation. Since each character in NTE typically only carries one primary elemental affinity, you must have a team of three characters that cover these three elements to trigger the reaction.
 
 ### What is the best Chaos character for a Discord team?
 Currently, Lacrimosa is considered the best Chaos character for Discord teams due to her v1.1 buffs and the Tomato Banquet passive. However, Daffodil remains a very strong free-to-play friendly alternative for players who haven't pulled for limited banners.

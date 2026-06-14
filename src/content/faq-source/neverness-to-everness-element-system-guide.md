@@ -144,7 +144,7 @@ As of the current 2026-05-19 meta, certain characters stand out within their ele
 *   **S-Tier (Cosmos):** Mint — Provides unparalleled utility and easy access to Blossom and Remora.
 *   **S-Tier (Anima):** Nanally — High physical/elemental hybrid damage; her banner "The Ichi-daime" remains a top pick for new players.
 *   **A-Tier (Lakshana):** Iris — Essential for survivability and triggering the Stain debuff.
-*   **A-Tier (Chaos):** Sakya — The premier shield-breaker for teams utilizing the Discord reaction.
+*   **A-Tier (Chaos):** Sakya — The premier shield-breaker for teams utilizing the [Discord reaction](https://ntecodex.com/faq).
 *   **B-Tier (Incantation):** Ruta — Strong DoT but requires a specific Chaos partner to shine.
 *   **[Information unavailable] (Psyche):** Current Psyche characters are undergoing balance adjustments in the latest patch.
 

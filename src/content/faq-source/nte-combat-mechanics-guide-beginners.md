@@ -118,7 +118,7 @@ Characters are equipped with "Arcs" (the NTE equivalent of weapons) categorized 
 | Arc Type | Primary Role | Common Stat Bonus |
 | :--- | :--- | :--- |
 | **Solid** | Breaking / Heavy Damage | Increase to Break Meter impact. |
-| **Plasma** | Elemental Application | Increase to Elemental Mastery and Reaction damage. |
+| **Plasma** | Elemental Application | Increase to Elemental Mastery and [Reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide). |
 | **Gas** | Attack Speed / Combo | Increase to Crit Rate and Normal Attack speed. |
 | **Liquid** | Crowd Control / Support | Increase to Energy Recharge and Skill Cooldown reduction. |
 | **Synthesis** | Hybrid / Versatility | Balanced stats; often provides team-wide buffs. |

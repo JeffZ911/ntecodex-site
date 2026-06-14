@@ -50,7 +50,7 @@ The community has raised several specific questions regarding the optimization o
 
 [Mortenax Blade](https://ntecodex.com/faq) is a 5-star Fire Nihility character in Honkai: Star Rail 4.3, characterized by his ability to shred enemy defenses while scaling his damage output directly from his Max HP. His Best-in-Slot (BiS) cavern relic set is the 4-piece **Divine-Querying Master Smith**, which provides a significant boost to CRIT DMG when attacking enemies with reduced defense. For his Planar Ornaments, the 2-piece **Bone Collection's Serene Demesne** is the optimal choice, as it rewards players who reach high HP thresholds.
 
-In Neverness to Everness (NTE), the equipment system does not use traditional armor or relics. Instead, players utilize the **Console** system to slot in **Modules** (Tetris-like blocks) that activate **Cartridge** set bonuses. For a DPS character with high-scaling damage similar to Mortenax Blade, the Diabolos Cartridge set is the premier choice for Chaos-element characters like Lacrimosa, while the Lost Radiance set serves Ultimate-heavy characters like Hotori.
+In Neverness to Everness (NTE), the equipment system does not use traditional armor or relics. Instead, players utilize the **Console** system to slot in **Modules** (Tetris-like blocks) that activate **Cartridge** set bonuses. For a DPS character with high-scaling damage similar to [Mortenax Blade](https://ntecodex.com/faq), the Diabolos Cartridge set is the premier choice for Chaos-element characters like Lacrimosa, while the Lost Radiance set serves Ultimate-heavy characters like Hotori.
 
 ### Table: Mortenax Blade BiS Relics and Stats (HSR 4.3)
 

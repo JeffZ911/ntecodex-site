@@ -117,7 +117,7 @@ Hoodie provides a persistent aura that buffs the active character’s ATK and Cr
 
 Adler (A-Class, Incantation) is the premier shielder in the current version of the game. His shields scale directly with his DEF stat, making him very easy to build with "leftover" gear that other characters don't want. When his shield is active, the protected character gains resistance to interruption, which is vital for DPS characters with long animation sequences.
 
-Furthermore, Adler's shield pulses with Incantation energy, applying the Scorch status to nearby enemies. This allows him to contribute to the Esper Cycle and trigger Discord reactions even while he is off-field, providing both safety and offensive utility.
+Furthermore, Adler's shield pulses with Incantation energy, applying the Scorch status to nearby enemies. This allows him to contribute to the Esper Cycle and [trigger Discord](https://ntecodex.com/faq) reactions even while he is off-field, providing both safety and offensive utility.
 
 ### Fadia: S-Class Defensive Powerhouse
 

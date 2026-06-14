@@ -116,7 +116,7 @@ As the protagonist unit, Esper Zero is often overlooked, but they are the only c
 A-Tier characters are highly effective but may require specific team compositions or slightly more field time to achieve maximum value.
 
 ### Daffodil: The Chaos Break Specialist
-Daffodil is currently the only Chaos element S-rank in the game, making her mandatory for triggering the "Discord" trio reaction (Chaos + Incantation + Psyche). Discord is the premier reaction for bossing because it applies a massive debuff to the enemy's Break resistance. Daffodil’s "Still Waters" skill provides consistent Chaos application from off-field, allowing your Main DPS to trigger Discord effortlessly.
+Daffodil is currently the only Chaos element S-rank in the game, making her mandatory for triggering the "Discord" trio reaction (Chaos + Incantation + Psyche). Discord is the premier reaction for bossing because it applies a massive debuff to the enemy's Break resistance. Daffodil’s "Still Waters" skill provides consistent Chaos application from off-field, allowing your Main DPS to [trigger Discord](https://ntecodex.com/faq) effortlessly.
 
 ### Haniel: High-Value Support for F2P Players
 Haniel is an A-class Psyche unit that rivals S-ranks in terms of pure buff uptime. She is often given for free via pre-registration rewards or early story milestones. Her Redirect Skill applies a team-wide damage buff that is easy to maintain, making her the "glue" for teams that lack Sakiri or Hotori.

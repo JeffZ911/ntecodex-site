@@ -98,7 +98,7 @@ This team is widely considered the best overall composition in ZZZ for its ease 
 *   **Burnice White (Fire Anomaly):** Burnice is the engine of the team. Her "Afterburn" state allows her to trigger Fire damage and buildup even when she is off-field. This ensures that the enemy is almost always "pre-loaded" with Fire Anomaly.
 *   **Seth Lowell (Defense):** Seth is the secret weapon of Anomaly teams. His shield not only provides safety but also grants a massive 100-point Anomaly Proficiency buff to the character he swaps into via his Quick Assist.
 
-[Team composition layout for the Jane Doe / Burnice / Seth premium team with character portraits and element icons.]
+[Team composition layout for the [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) / Burnice / Seth premium team with character portraits and element icons.]
 
 ### Meta Team: Yanagi + Burnice + Caesar
 Yanagi introduces a high-skill ceiling to the Anomaly meta. Her kit revolves around her "Polarity" state.

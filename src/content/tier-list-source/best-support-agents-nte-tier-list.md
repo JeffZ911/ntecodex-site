@@ -109,7 +109,7 @@ This makes her the ideal support for Anima-heavy teams that focus on DoT (Damage
 
 **Haniel vs. Sakiri Buff Comparison (Base Levels):**
 *   **Sakiri (Feast of Gluttony):** 30% ATK Boost, 20s Duration.
-*   **Haniel (Psyche Resonance):** 18% ATK Boost, 15s Duration.
+*   **Haniel ([Psyche Resonance](https://ntecodex.com/faq)):** 18% ATK Boost, 15s Duration.
 
 ## B Tier
 

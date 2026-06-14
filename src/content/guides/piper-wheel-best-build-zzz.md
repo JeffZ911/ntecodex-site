@@ -185,7 +185,7 @@ When playing a Disorder team, do not stay on Piper too long. Once the Disorder e
 
 
 **Is Piper Wheel better than [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)?**
-Jane Doe is an S-Rank Physical Anomaly Agent and generally has higher ceiling damage and better mobility. However, Piper remains a top-tier choice due to her superior AoE capabilities and the fact that she provides a team-wide DMG buff, which Jane does not. Piper is often the better choice for content with many small enemies, while Jane excels in single-target boss fights.
+[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) is an S-Rank Physical Anomaly Agent and generally has higher ceiling damage and better mobility. However, Piper remains a top-tier choice due to her superior AoE capabilities and the fact that she provides a team-wide DMG buff, which Jane does not. Piper is often the better choice for content with many small enemies, while Jane excels in single-target boss fights.
 
 **What is the best Mindscape for Piper?**
 Mindscape 1 (M1) is her most important upgrade, as it increases the Power stack limit to 30 and gives her a 50% chance to gain extra stacks. Mindscape 6 (M6) is also significant, as it increases the maximum duration of her EX Special spin by 2 seconds, allowing for even more Anomaly buildup in a single window.
