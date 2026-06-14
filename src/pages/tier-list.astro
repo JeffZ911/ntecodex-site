@@ -53,8 +53,53 @@ const presentRoles = Array.from(
   new Set(entries.flatMap((e) => e.role || []).map((r) => r.trim()))
 ).filter(Boolean).sort();
 
-const lastUpdated = characters
-  .map((c) => c.data.published_at)
+// ── Internal-link equity for trend pages. The tier-list is the most-crawled,
+// highest-authority page on the site (it carries the impression spikes). Trend
+// articles (news/boss/guides/weapons) win a temporary freshness ranking, then
+// fall back to baseline once the freshness boost expires — partly because they
+// sit "naked" with few inbound internal links. Linking the most recent ones
+// FROM this hub passes crawl equity + authority so they hold rank after the
+// freshness window closes (turns the impression sawtooth into a rising floor).
+const indexable = (e: any) =>
+  !(typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW);
+const guideCollections: { name: any; prefix: string }[] = [
+  { name: "news", prefix: "/news" },
+  { name: "guides", prefix: "/guides" },
+  { name: "boss", prefix: "/boss" },
+  { name: "weapons", prefix: "/weapons" },
+];
+const recentGuides = (
+  await Promise.all(
+    guideCollections.map(async ({ name, prefix }) => {
+      const items = await getCollection(name).catch(() => []);
+      return items.filter(indexable).map((e: any) => ({
+        href: `${prefix}/${e.slug}/`,
+        title: e.data.title,
+        publishedAt: e.data.published_at,
+      }));
+    })
+  )
+)
+  .flat()
+  .filter((g) => g.title && g.href)
+  .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""))
+  .slice(0, 12);
+
+// Freshness signal (dateModified + visible "Last updated") must reflect EVERY
+// real update to this hub. ntecodex only generates comparison/faq articles
+// (tier_list/news/etc. are blacklisted as too-fabrication-prone for a new
+// game), so new character/tier-list-source entries are rare and the hub would
+// otherwise advertise a stale dateModified for weeks. But every patch DOES
+// produce fresh comparison/faq guides, which this hub now showcases in its
+// "Latest Guides" block — so the freshest guide it links IS a genuine update
+// to this page. Take the max published_at across characters, tier-list-source,
+// AND the newest showcased guide → the hub re-enters Google's freshness window
+// on each patch wave, honestly (its content really did change).
+const lastUpdated = [
+  ...characters.map((c) => c.data.published_at),
+  ...tierListArticles.map((e) => e.data.published_at),
+  recentGuides[0]?.publishedAt,
+]
   .filter(Boolean)
   .sort()
   .pop();
@@ -235,6 +280,30 @@ const jsonLd = {
           );
         })}
       </div>
+    </section>
+  )}
+
+  {recentGuides.length > 0 && (
+    <section class="mt-16">
+      <h2 class="mb-2">Latest Guides &amp; Patch Coverage</h2>
+      <p class="text-sm text-gray-400 mb-5">
+        Fresh builds, comparisons, and patch breakdowns that feed into these
+        rankings — updated as new banners and versions go live.
+      </p>
+      <ul class="grid gap-x-8 gap-y-2 sm:grid-cols-2">
+        {recentGuides.map((g) => (
+          <li class="border-b border-white/5 py-2">
+            <a href={g.href} class="text-gray-300 hover:text-white">
+              {g.title}
+            </a>
+            {g.publishedAt && (
+              <span class="ml-2 text-xs text-gray-600">
+                {new Date(g.publishedAt).toISOString().slice(0, 10)}
+              </span>
+            )}
+          </li>
+        ))}
+      </ul>
     </section>
   )}
 
