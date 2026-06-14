@@ -1,5 +1,5 @@
 ---
-title: "How to Beat Sam in Honkai: Star Rail: Boss Guide & Best Teams"
+title: "Sam HSR: How to Beat the Boss & Best Teams (June 2026)"
 slug: how-to-beat-sam-boss-hsr
 game: hsr
 article_type: boss_guide
