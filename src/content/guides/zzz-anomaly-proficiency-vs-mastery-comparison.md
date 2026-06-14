@@ -25,7 +25,7 @@ Optimizing an Anomaly Agent in Zenless Zone Zero requires a precise balance betw
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-14._
 
 
-In the high-intensity combat of Zenless Zone Zero, Anomaly Agents like Jane Doe, Burnice, and Grace serve as the primary engines for elemental damage and team-wide synergy. However, players often face a difficult choice when equipping Disk Drives: should they prioritize Anomaly Proficiency or Anomaly Mastery? While both stats are essential for any Anomaly-focused build, they serve entirely different functions in the damage calculation formula.
+In the high-intensity combat of Zenless Zone Zero, Anomaly Agents like [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison), Burnice, and Grace serve as the primary engines for elemental damage and team-wide synergy. However, players often face a difficult choice when equipping Disk Drives: should they prioritize Anomaly Proficiency or Anomaly Mastery? While both stats are essential for any Anomaly-focused build, they serve entirely different functions in the damage calculation formula.
 
 Differentiating between these two stats is vital for maximizing your DPS, especially when tackling high-level content like Shiyu Defense or the Hollow Zero. This guide breaks down the mechanics of Anomaly Proficiency and Anomaly Mastery, explaining how they scale, where to find them, and which one your specific Agent needs most.
 

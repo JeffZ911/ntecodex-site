@@ -154,7 +154,7 @@ C-Tier teams are generally not recommended for competitive DPS checks, though th
 
 ### Aurelia: The High-Skill Floor Problem
 
-The "Aurelia Nova Burst" team (Aurelia, Fadia, Haniel, Edgar) relies on Aurelia’s "Dodge-to-Burst" mechanic. Aurelia gains a massive damage multiplier if she performs a "Perfect Dodge" right before using her Skill. 
+The "[Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) Burst" team (Aurelia, Fadia, Haniel, Edgar) relies on Aurelia’s "Dodge-to-Burst" mechanic. Aurelia gains a massive damage multiplier if she performs a "Perfect Dodge" right before using her Skill. 
 
 The risk-to-reward ratio is currently skewed; a single missed dodge results in a significant DPS loss, and even a perfect rotation barely matches the baseline damage of a Chiz F2P team. Aurelia struggles with "Flat Damage" issues when reactions aren't timed perfectly with her short burst window.
 

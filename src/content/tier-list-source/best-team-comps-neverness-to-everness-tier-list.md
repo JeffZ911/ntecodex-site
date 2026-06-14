@@ -81,7 +81,7 @@ S-tier compositions represent the pinnacle of the current Hethereau meta. These 
 
 ### The Discord Shredder: Best for Bosses
 
-This composition is widely considered the strongest for single-target encounters, specifically the high-level bosses found in the District 4 containment zones. It focuses on stacking Scorch and Nova to trigger Discord.
+This composition is widely considered the strongest for single-target encounters, specifically the high-level bosses found in the District 4 containment zones. It focuses on stacking Scorch and Nova to [trigger Discord](https://ntecodex.com/faq).
 
 *   **Main DPS:** Baicang (Incantation)
 *   **Sub-DPS:** Daffodil (Chaos)

@@ -24,7 +24,7 @@ inline_image_sections:
   - "Comparison"
 ---
 
-Optimizing the Aurelia Nova build requires a deep understanding of how anti-gravity structures interact with Psyche damage and the Nova Esper Cycle. By selecting the correct Plasma Arc, players can transform Aurelia from a standard damage dealer into a high-speed jellyfish commander capable of clearing endgame anomalies.
+Optimizing the [Aurelia Nova](https://ntecodex.com/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) build requires a deep understanding of how anti-gravity structures interact with Psyche damage and the Nova Esper Cycle. By selecting the correct Plasma Arc, players can transform Aurelia from a standard damage dealer into a high-speed jellyfish commander capable of clearing endgame anomalies.
 
 # "Aurelia Nova" Anti-Gravity Floating Structures: Stats, Effects, and Best Weapons
 

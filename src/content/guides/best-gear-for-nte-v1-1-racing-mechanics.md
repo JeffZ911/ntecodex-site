@@ -30,7 +30,7 @@ Mastering the high-speed drifts and technical maneuvers in the v1.1 update requi
 
 # Best Ergonomic Gear for Players Grinding NTE v1.1 Street and Circuit Racing Mechanics
 
-The Secretlab TITAN Evo 2022 is our top pick for session endurance, while the LG 27GP850-B offers the 180Hz refresh rate necessary for the high-speed visual clarity required in NTE v1.1 racing segments.
+The Secretlab TITAN Evo 2022 is our top pick for session endurance, while the LG 27GP850-B offers the 180Hz refresh rate necessary for the high-speed visual clarity required in [NTE v1](https://ntecodex.com/faq).1 racing segments.
 
 ## How we picked these gear for NTE v1.1
 

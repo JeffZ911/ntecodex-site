@@ -110,7 +110,7 @@ Miyabi serves as a hybrid between an Attack and Anomaly unit. Her ability to app
 
 ### F2P Friendly: Piper and Lucy Compositions
 Piper is the "spin-to-win" queen of F2P Anomaly teams. Her kit is straightforward: the longer she spins, the more Physical Buildup she applies. 
-*   **Piper / Lucy / Grace:** This "Tri-Element" or "Dual-Element" setup uses Lucy to buff Piper's Attack. Grace is used to quickly apply Shock, which Piper then converts into Disorder damage with her heavy Physical hits. It is a highly effective budget version of the Jane Doe premium team.
+*   **Piper / Lucy / Grace:** This "Tri-Element" or "Dual-Element" setup uses Lucy to buff Piper's Attack. Grace is used to quickly apply Shock, which Piper then converts into Disorder damage with her heavy Physical hits. It is a highly effective budget version of the [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) premium team.
 
 ### Best W-Engines and Drive Discs for Anomaly Units
 Optimizing gear is non-negotiable for high-level Shiyu Defense.

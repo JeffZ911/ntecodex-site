@@ -154,7 +154,7 @@ No, the [Discord reaction](https://ntecodex.com/faq) requires three specific ele
 Currently, Lacrimosa is considered the best Chaos character for Discord teams due to her v1.1 buffs and the Tomato Banquet passive. However, Daffodil remains a very strong free-to-play friendly alternative for players who haven't pulled for limited banners.
 
 ### Does the Discord reaction do direct damage?
-While the process of applying Scorch and Nova deals elemental damage, the Discord reaction itself is primarily a utility debuff. Its main function is to reduce the enemy's Break cap, which facilitates faster staggering rather than providing a single large burst of health damage.
+While the process of applying Scorch and Nova deals elemental damage, the [Discord reaction](https://ntecodex.com/faq) itself is primarily a utility debuff. Its main function is to reduce the enemy's Break cap, which facilitates faster staggering rather than providing a single large burst of health damage.
 
 ### How do I know if Discord has been triggered?
 When Discord is successfully applied, a specific purple and gold icon will appear under the enemy's health bar. Additionally, you will see a portion of the enemy's white Break meter disappear or change color, signifying that the total stagger requirement has been reduced.

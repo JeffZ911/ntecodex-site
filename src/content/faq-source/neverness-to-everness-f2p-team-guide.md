@@ -120,7 +120,7 @@ For F2P players, the **Cosmos-Anima-Incantation** arc of the wheel is the most a
 #### 3. The "Discord" Stagger Team (Adler, Aurelia, Sakiri/Baicang)
 *   **Focus:** Staggering Bosses.
 *   **Rotation:** This team requires using your S-Rank Selector on either **[Sakiri](/characters/sakiri-nte-free-5-star-guide)** or **Baicang**.
-*   **Why it works:** By combining Incantation (Adler/Sakiri) and Psyche (Aurelia/Haniel), you can trigger the Discord reaction. This is the most efficient way to deplete a boss’s Break Meter, leading to long windows where the enemy is incapacitated and takes 150% increased damage.
+*   **Why it works:** By combining Incantation (Adler/Sakiri) and Psyche (Aurelia/Haniel), you can trigger the [Discord reaction](https://ntecodex.com/faq). This is the most efficient way to deplete a boss’s Break Meter, leading to long windows where the enemy is incapacitated and takes 150% increased damage.
 
 ### F2P Character Investment Priority
 

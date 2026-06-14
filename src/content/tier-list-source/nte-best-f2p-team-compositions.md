@@ -78,7 +78,7 @@ This is currently the strongest F2P composition in version 1.0. It utilizes Chiz
 
 *   **Composition:** Chiz (Main DPS), Haniel (Support), Adler (Shielder), Edgar (Sustain - Selector Choice).
 *   **The Discord Reaction:** By rotating through Incantation (Adler), Psyche (Haniel), and Cosmos (Chiz), you trigger the **Discord** reaction. This provides a [information unavailable] increase to Break damage, allowing you to shatter elite enemy shields in seconds.
-*   **Rotation Flow:** Start with Adler to provide a shield and apply the Incantation mark. Switch to Haniel to drop her Psychic field, then immediately swap to Chiz. Chiz’s "Neon Slash" skill will consume both marks to trigger Discord, resetting her dash cooldown.
+*   **Rotation Flow:** Start with Adler to provide a shield and apply the Incantation mark. Switch to Haniel to drop her Psychic field, then immediately swap to Chiz. Chiz’s "Neon Slash" skill will consume both marks to [trigger Discord](https://ntecodex.com/faq), resetting her dash cooldown.
 
 ### Team 2: The Anima Blossom Swarm (Cosmos/Anima Focus)
 

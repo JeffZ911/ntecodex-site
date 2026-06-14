@@ -70,7 +70,7 @@ In Neverness to Everness (NTE), the equipment system does not use traditional ar
 
 ### Mortenax Blade Relic & Stat Breakdown (HSR 4.3)
 
-Mortenax Blade operates as a "0-SP" bruiser, meaning his primary combat loop does not consume Skill Points once he enters his enhanced state. His core mechanic revolves around his Ultimate, **Fornax Ex Corpore**, which places him into the **Infinite Fury** stance. During this stance, his basic attacks are replaced with enhanced Fire strikes that apply the **Balefire Bind** debuff. This debuff is the reason why the Divine-Querying Master Smith relic set is so effective; it shreds 30% of the enemy's DEF, allowing Mortenax to naturally trigger the set's CRIT DMG bonus.
+[Mortenax Blade](https://ntecodex.com/faq) operates as a "0-SP" bruiser, meaning his primary combat loop does not consume Skill Points once he enters his enhanced state. His core mechanic revolves around his Ultimate, **Fornax Ex Corpore**, which places him into the **Infinite Fury** stance. During this stance, his basic attacks are replaced with enhanced Fire strikes that apply the **Balefire Bind** debuff. This debuff is the reason why the Divine-Querying Master Smith relic set is so effective; it shreds 30% of the enemy's DEF, allowing Mortenax to naturally trigger the set's CRIT DMG bonus.
 
 When prioritizing stats, HP% is more valuable than ATK% because his Skill and Ultimate multipliers rely almost entirely on his health pool. Reaching the 5,000 HP threshold is mandatory to activate the full effects of the Bone Collection's Serene Demesne Planar set. Once this threshold is met, focusing on CRIT DMG becomes the priority, as Mortenax gains a natural CRIT Rate boost through his Ascension Traces.
 
