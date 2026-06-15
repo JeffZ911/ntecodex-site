@@ -66,7 +66,7 @@ The current meta for [Hollow Zero](https://ntecodex.com/faq) favors teams that c
 | **Elite 2026 Meta** | Ye Shunguang | Dialyn | Astra Yao | Gulliver |
 
 ### The Gold Standard: Ice Hypercarry
-The team of **Ellen Joe, Von Lycaon, and Soukaku** remains the overall best choice for Hollow Zero. This is primarily due to its perfect synergy with the **Freeze Resonia** path. Lycaon provides massive Daze buildup while shredding Ice RES, Soukaku offers a significant ATK buff that can be transferred to Ellen, and Ellen herself deals explosive burst damage. When combined with the "Ice Maker" and "Freezing Gloves" Resonia, this team can keep even the most aggressive bosses permanently frozen, effectively ignoring many high-intensity mechanics.
+The team of **Ellen Joe, Von Lycaon, and Soukaku** remains the overall best choice for [Hollow Zero](https://ntecodex.com/faq). This is primarily due to its perfect synergy with the **Freeze Resonia** path. Lycaon provides massive Daze buildup while shredding Ice RES, Soukaku offers a significant ATK buff that can be transferred to Ellen, and Ellen herself deals explosive burst damage. When combined with the "Ice Maker" and "Freezing Gloves" Resonia, this team can keep even the most aggressive bosses permanently frozen, effectively ignoring many high-intensity mechanics.
 
 ### The Ether Alternative
 For zones with high Ice resistance, the Ether team led by **Zhu Yuan** is the premier alternative. By pairing her with a top-tier stunner like **Nangong Yu** or **Qingyi** and the grouping capabilities of **Nicole**, you can delete entire waves during a single Stun window. This team excels with the **Duel** and **Ether** Resonia paths, focusing on maximizing the damage multiplier applied to stunned enemies.

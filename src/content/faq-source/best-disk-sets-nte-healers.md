@@ -138,7 +138,7 @@ While not primary healing sets, two other Cartridges are worth noting for specif
 In the current 1.0 meta, **Fadia** is ranked as the lone S-Tier survival character. Her ability to redirect damage and her massive HP pool make her the most "comfy" pick for high-tier content like the Rabbit Hole or Beyond the Rails. **Jiuyuan** sits in the S-Tier for utility, though her healing is locked behind her first Awakening. **Edgar** is a solid B-Tier or C-Tier option; while his raw healing is high, he lacks the defensive utility or damage redirection found in higher-ranked Espers.
 
 ### How to Farm Legendary Cartridges
-To obtain high-rarity (S-Rank) Cartridges like The Knight's Tavern or Tiny Big Adventure, you must navigate the **Rabbit Hole** Anomaly Zone. This challenge is located on the south side of the **New Herland District**. 
+To obtain high-rarity (S-Rank) Cartridges like The Knight's Tavern or Tiny Big Adventure, you must navigate the **Rabbit Hole** [Anomaly Zone](https://ntecodex.com/faq). This challenge is located on the south side of the **New Herland District**. 
 *   **Cost:** 40 Character Pixels per run.
 *   **Tip:** You can claim double rewards to save time, which is highly recommended when farming for specific Module shapes to complete your Legend sets.
 *   **Rewards:** In addition to Cartridges, you will earn Carrota and upgrade materials necessary for leveling your Console.

@@ -118,7 +118,7 @@ To maximize a DPS build, fitting your Modules into the Console is a puzzle that 
 
 ### When to Start Farming 5-Star Disks
 
-Farming Cartridges consumes "Character Pixels" (stamina). It is highly recommended to wait until you reach **Tycoon Level 40** before heavily investing your stamina into Cartridge domains. At Tycoon Level 40, the drop rates for Gold (5-star) Cartridges and Modules increase significantly, guaranteeing at least one S-rank drop per run. 
+Farming Cartridges consumes "Character Pixels" (stamina). It is highly recommended to wait until you reach **Tycoon Level 40** before heavily investing your stamina into Cartridge domains. At Tycoon Level 40, the [drop rates](https://ntecodex.com/faq) for Gold (5-star) Cartridges and Modules increase significantly, guaranteeing at least one S-rank drop per run. 
 
 Before Level 40, players should focus on leveling their Arcs (weapons) and Esper levels. Using the "Hunter Exchange" unlocked at Tycoon Rank 6 is a good way to get baseline gear, but the true "endgame" grind for perfect substats should be reserved for the post-Level 40 phase.
 

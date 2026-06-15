@@ -81,7 +81,7 @@ The 4-piece bonus provides a 20% Healing Bonus. Unlike raw HP, which has diminis
 
 ### Speedy Hedgehog: The Offensive Support Meta
 
-In the current endgame meta, especially within the Rabbit Hole Anomaly Zone, pure healing is often secondary to clear speed. Speedy Hedgehog addresses this by focusing on "Charge Efficiency." This stat dictates how quickly a character generates energy for their Ultimate.
+In the current endgame meta, especially within the Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq), pure healing is often secondary to clear speed. Speedy Hedgehog addresses this by focusing on "Charge Efficiency." This stat dictates how quickly a character generates energy for their Ultimate.
 
 The 12% Charge Efficiency from the 2-piece set allows healers to cycle their bursts more frequently. However, the real value is the 4-piece bonus: a 15% team-wide ATK buff. Since healers are often the first to rotate into the field to drop their buffs and Ultimates, this set ensures that your main DPS (like [Nanally](/characters/nanally-guide-nte)) enters their damage window with maximum offensive stats.
 

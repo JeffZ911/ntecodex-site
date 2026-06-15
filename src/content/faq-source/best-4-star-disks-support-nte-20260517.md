@@ -117,7 +117,7 @@ A common mistake is trying to build Crit Rate on a support character. Unless you
 
 ### Farming Guide: Where to Find A-Rank Cartridges in Hethereau
 
-Farming 4-star disks is a straightforward process once you reach **Hunter Level 30**. At this level, the drop rates for A-Rank gear in Character Pixels (NTE's version of gear domains) become guaranteed.
+Farming 4-star disks is a straightforward process once you reach **Hunter Level 30**. At this level, the [drop rates](https://ntecodex.com/faq) for A-Rank gear in Character Pixels (NTE's version of gear domains) become guaranteed.
 
 To farm efficiently:
 *   **Targeted Farming:** Each Character Pixel domain features two specific Cartridge sets. Check the "Rewards" tab before spending your Stamina to ensure you are farming for Speedy Hedgehog or Shadow Creed.
