@@ -154,7 +154,7 @@ To increase your efficiency when farming for a Gold-tier Tempest Mephis Echo:
 
 ## Sources
 
-- Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/en/
+- [Wuthering Waves](https://ntecodex.com/faq) Official Site — https://wutheringwaves.kurogames.com/en/
 - Prydwen Institute Wuthering Waves Guide — https://www.prydwen.gg/wuthering-waves/
 - Game8 Wuthering Waves Boss Database — https://game8.co/games/Wuthering-Waves/archives/454552
 - Wuthering Waves Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Tempest_Mephis

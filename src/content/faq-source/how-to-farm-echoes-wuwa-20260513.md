@@ -32,7 +32,7 @@ Maximizing your Resonator's potential in [Wuthering Waves](https://ntecodex.com/
 ![Question Restated](/img/how-to-farm-echoes-wuwa-20260513/inline-1.webp)
 
 
-What is the most efficient way to farm Echoes in Wuthering Waves? This is a common question for players entering the mid-to-late game who find themselves hitting a wall in difficulty. To answer this, we must look at how players can target specific Echo sets and main stats for their Resonators, such as seeking out Havoc DMG Bonus on a Cost 3 Echo for Danjin or Rover. 
+What is the most efficient way to farm Echoes in [Wuthering Waves](https://ntecodex.com/faq)? This is a common question for players entering the mid-to-late game who find themselves hitting a wall in difficulty. To answer this, we must look at how players can target specific Echo sets and main stats for their Resonators, such as seeking out Havoc DMG Bonus on a Cost 3 Echo for Danjin or Rover. 
 
 The process is governed by the Data Bank, which determines the drop rates and rarity of the Echoes you find. Understanding how to level this system quickly is the foundation of any farming strategy. Furthermore, players often wonder if there are hidden mechanics, such as "Echo pity," that can be manipulated to guarantee drops from rare Elite monsters. This guide addresses these concerns by breaking down the math behind the drops and the most time-effective routes to take across the map of Solaris-3.
 

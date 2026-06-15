@@ -59,7 +59,7 @@ Farming a single run of the Rabbit Hole costs 40 Character Pixels, which is the 
 
 | Feature | Honkai: Star Rail (HSR) | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
-| **Gear Domain** | Cavern of Corrosion | Rabbit Hole |
+| **Gear Domain** | [Cavern of Corrosion](https://ntecodex.com/faq) | Rabbit Hole |
 | **Main Gear Type** | Relics | Cartridges |
 | **Sub-Components** | Sub-stats (Random) | Modules (Tetris-style) |
 | **Stamina Currency** | Trailblaze Power | Character Pixels |

@@ -60,7 +60,7 @@ Instead of capturing and fusing monsters, players hunt Anomalies to obtain mater
 | Feature | Wuthering Waves | Neverness to Everness |
 | :--- | :--- | :--- |
 | **Primary Gear** | Echoes (Captured Monsters) | Arcs (Weapons) & Cartridges |
-| **Upgrade Mechanic** | Echo Fusion / Tuning | Arc Refinement & Leveling |
+| **Upgrade Mechanic** | [Echo Fusion](https://ntecodex.com/faq) / Tuning | Arc Refinement & Leveling |
 | **Monster Interaction** | Equippable Skills | Material Drops (Annulith, Fons) |
 | **Duplicate System** | Resonance Chain | Awakening System |
 | **World Progression** | Exploration / Puzzles | City Tycoon & Vehicle Tuning |
@@ -96,7 +96,7 @@ To actually level up an Arc, you will use standard enhancement materials. When y
 
 ### Esper Cycles: The Core Combat Mechanic
 
-Combat in NTE is built around six distinct Esper types: **Anima, Chaos, Cosmos, Incantation, Lakshana, and Psyche**. Instead of relying on a monster's active skill (like a Wuthering Waves Echo), players trigger "Cycles" by switching between characters and layering elemental effects.
+Combat in NTE is built around six distinct Esper types: **Anima, Chaos, Cosmos, Incantation, Lakshana, and Psyche**. Instead of relying on a monster's active skill (like a [Wuthering Waves Echo](https://ntecodex.com/faq)), players trigger "Cycles" by switching between characters and layering elemental effects.
 
 *   **Anima & Chaos:** Often serve as the primary damage dealers or "Main DPS" roles.
 *   **Cosmos & Psyche:** Focus on crowd control and spatial manipulation.
