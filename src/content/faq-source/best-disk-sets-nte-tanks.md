@@ -144,8 +144,8 @@ Tanks in NTE do not operate in a vacuum. They are designed to protect high-damag
 
 To obtain the S-Rank versions of Tiny Big Adventure or Kingdom's Guard, you must engage with the game's endgame farming loops.
 
-*   **Anomaly Zones:** These are the primary source of high-tier Cartridges. Each Anomaly Zone has a specific "drop table." To farm Tiny Big Adventure, focus on the [information unavailable] Anomaly Zone, which typically features enemies weak to Ice or Physical damage.
-*   **Rabbit Holes:** These are challenge-based instances that offer guaranteed S-Rank drops upon first completion and higher drop rates for specific Module Types (II, III, or IV) on a weekly rotation.
+*   **Anomaly Zones:** These are the primary source of high-tier Cartridges. Each [Anomaly Zone](https://ntecodex.com/faq) has a specific "drop table." To farm Tiny Big Adventure, focus on the [information unavailable] Anomaly Zone, which typically features enemies weak to Ice or Physical damage.
+*   **Rabbit Holes:** These are challenge-based instances that offer guaranteed S-Rank drops upon first completion and higher [drop rates](https://ntecodex.com/faq) for specific Module Types (II, III, or IV) on a weekly rotation.
 *   **Crafting and Recalibration:** If you have "junk" S-Rank Cartridges, you can dismantle them to receive materials used for recalibrating the sub-stats on your preferred tank sets. This is the most reliable way to get the "perfect" HP% or DEF% rolls required for the hardest content in Hethereau.
 
 ### Esper Cycle Synergy

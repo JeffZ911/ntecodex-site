@@ -134,7 +134,7 @@ To pull on the Rewind banner, you need a specialized resource called **Carrota**
 
 *   **Neverness to Everness Character Tier List:** Find out which characters are worth spending your hard-earned Annulith on.
 *   **NTE Beginner's Guide: 10 Tips for Starting in Hethereau:** Essential advice for navigating the early game economy.
-*   **How the Gacha Board Works: Pity and Rates Explained:** A deep dive into the math behind Solid and Fabricated Dice.
+*   **How the Gacha Board Works: Pity and [Rates Explained](https://ntecodex.com/faq):** A deep dive into the math behind Solid and Fabricated Dice.
 *   **Best Arcs for Early Game Progression:** Which Arcs provide the best value for your Beetle Coins.
 *   **NTE Active Redeem Codes for Free Annulith:** A frequently updated list of codes to boost your currency reserves.
 

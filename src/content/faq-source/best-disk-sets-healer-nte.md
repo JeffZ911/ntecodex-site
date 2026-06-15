@@ -147,7 +147,7 @@ Healers perform best when paired with buffers who can protect them or enhance th
 
 To obtain S-rank (Legendary) versions of Thea's Night Tavern or Speedy Hedgehog, you must venture into the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)**. This is the primary endgame dungeon where you spend **Character Pixels** (the game's stamina equivalent) to claim rewards.
 
-The drop rates for specific Cartridges are randomized, but you can use "Resonance Filters" to target specific sets. It is recommended to farm the "Urban Outskirts" branch of the Rabbit Hole, as it has a higher drop weight for support-oriented Cartridges.
+The [drop rates](https://ntecodex.com/faq) for specific Cartridges are randomized, but you can use "Resonance Filters" to target specific sets. It is recommended to farm the "Urban Outskirts" branch of the Rabbit Hole, as it has a higher drop weight for support-oriented Cartridges.
 
 ### The Esper Cycle: Blossom and Charge
 

@@ -119,7 +119,7 @@ The key strategy is to prioritize your character's **Specialization Modules** fi
 
 Farming for the perfect gear setup involves two distinct loops:
 
-1.  **The Rabbit Hole:** Located in Cape Square, this Anomaly Zone is where you spend **Character Pixels** (40 per run) to obtain Cartridges. Higher difficulty stages reward Purple (A-Rank) and Gold (S-Rank) Cartridges.
+1.  **The Rabbit Hole:** Located in Cape Square, this [Anomaly Zone](https://ntecodex.com/faq) is where you spend **Character Pixels** (40 per run) to obtain Cartridges. Higher difficulty stages reward Purple (A-Rank) and Gold (S-Rank) Cartridges.
 2.  **The Rewind System:** Accessed through the character's Console menu, this is where you spend **Carrota Coins** to pull for Modules.
 
 To optimize your farming, do not waste Carrota Coins on "Easy" or "Normal" Rewind modes once you reach Hunter Level 30. Save your **Gold Carrota Coins** for "Hard" mode to guarantee S-Rank Modules. Use the **Module Selection** feature during 10-pulls to target specific shapes (like Type III) that your character specialization requires.
