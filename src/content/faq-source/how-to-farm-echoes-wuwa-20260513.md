@@ -41,7 +41,7 @@ The process is governed by the Data Bank, which determines the drop rates and ra
 ![Direct Answer](/img/how-to-farm-echoes-wuwa-20260513/inline-2.webp)
 
 
-Echo farming in Wuthering Waves involves defeating Tacet Discords (TDs) in the open world and absorbing their remains to gain stats and skills. Unlike traditional gear systems in other games, Echoes are dropped directly by enemies upon death, provided the "Echo Drop Rate" roll is successful.
+Echo farming in [Wuthering Waves](https://ntecodex.com/faq) involves defeating Tacet Discords (TDs) in the open world and absorbing their remains to gain stats and skills. Unlike traditional gear systems in other games, Echoes are dropped directly by enemies upon death, provided the "Echo Drop Rate" roll is successful.
 
 The most efficient farming method is a three-pronged approach:
 1.  **Overworld Tracking:** Use the in-game Guidebook (Echo Gallery) to track specific enemies. Once an enemy is defeated, the tracker automatically points to the next closest spawn on the map, allowing for rapid-fire farming of specific sets.

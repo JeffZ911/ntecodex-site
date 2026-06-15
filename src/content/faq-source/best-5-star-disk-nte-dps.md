@@ -111,7 +111,7 @@ Modules come in three types: Type II (2 cells), Type III (3 cells), and Type IV 
 
 Farming S-Rank disks (Cartridges and Modules) requires "Character Pixels" (stamina). While you can start seeing S-Rank drops in domains at level 30, the community consensus is to **wait until Hunter Level 40** before spending your saved stamina refills. At Level 40, the drop rate for gold S-Rank Cartridges becomes guaranteed, ensuring you don't waste resources on purple A-Rank gear that will eventually be replaced.
 
-To obtain Modules, you must use the **Rewind** system found within the Console menu. This uses "Carrota Coins" (Bronze, Silver, or Gold) which are farmed in the **Rabbit Hole Anomaly Zone**. For the best DPS results, aim for Gold Carrota pulls to secure S-Rank modules with CRIT DMG substats.
+To obtain Modules, you must use the **Rewind** system found within the Console menu. This uses "Carrota Coins" (Bronze, Silver, or Gold) which are farmed in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)**. For the best DPS results, aim for Gold Carrota pulls to secure S-Rank modules with CRIT DMG substats.
 
 ### Secret Quest Guide: How to Get the 'Day Off' Arc for Free
 

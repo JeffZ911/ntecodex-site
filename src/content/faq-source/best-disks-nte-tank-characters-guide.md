@@ -75,7 +75,7 @@ Unlike traditional RPGs where you simply equip a piece of gear, NTE uses a "Cons
 
 ### Fadia: The Ultimate Redirection Tank Build
 
-Fadia is currently the premier S-Class tank in the NTE 1.0 meta due to her "All Eyes on Me" passive. This ability allows her to redirect a significant portion of damage taken by her teammates to herself. Because this redirected damage is calculated based on her own durability, stacking HP is the most efficient way to build her.
+Fadia is currently the premier S-Class tank in the [NTE 1](https://ntecodex.com/faq).0 meta due to her "All Eyes on Me" passive. This ability allows her to redirect a significant portion of damage taken by her teammates to herself. Because this redirected damage is calculated based on her own durability, stacking HP is the most efficient way to build her.
 
 **Best Cartridge: Tiny Big Adventure**
 *   **2-Piece Bonus:** Increases HP by 10%.

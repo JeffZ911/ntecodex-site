@@ -138,7 +138,7 @@ Fadia is a Psyche-element S-Rank who excels in "Discord" or "Nova" team composit
 
 ### Where to Farm Tank Disks: Rabbit Holes and Hunter Level 30+
 
-Cartridges are primarily farmed in the **Rabbit Hole Anomaly Zone**, located in the southern section of the New Herland District.
+Cartridges are primarily farmed in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)**, located in the southern section of the New Herland District.
 *   **Stamina Cost:** 40 Character Pixels per run.
 *   **Drops:** Specific Rabbit Hole stages rotate daily, dropping different Cartridge sets. Check the "Hunter Exchange" or the in-game guide to see which stage currently features Kingdom's Guard or Tiny Big Adventure.
 *   **Modules:** These are obtained through the **Rewind** feature in your Console menu. You spend Carrota Coins (earned from the Rabbit Hole) to pull for random Module shapes.

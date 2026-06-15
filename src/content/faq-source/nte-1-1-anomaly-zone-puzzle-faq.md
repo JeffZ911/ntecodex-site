@@ -152,4 +152,4 @@ Your Tycoon Rank increases as you complete Anomaly Commissions and manage your p
 - NTE Lights On (Miles Apart) Walkthrough - PowerPyx
 - Neverness to Everness Ultimate Beginner's Guide - GAMES.GG
 - Play Lacrimosa RIGHT! Best Rotation, Teams, Build & Pull Worth - YouTube — https://www.youtube.com/watch?v=HAPklgmg_b9DLnzZwIz0-sy6rE-6KWw8I6_hbfN2JMePsrIhFhNEZ1xFvN5oSuVxpf143hIRaDzcsoL5dXuhJAiEuJaWcNzwr6ovYPzPlmL5QwIvpPT6xK8ZhEUCLNBtu1
-- NTE V1.1 "Dreamwalk Corridor" PV - YouTube — https://www.youtube.com/watch?v=HXffHkyDAzM
+- [NTE V1](https://ntecodex.com/guides/best-gear-for-nte-v1-1-racing-mechanics).1 "Dreamwalk Corridor" PV - YouTube — https://www.youtube.com/watch?v=HXffHkyDAzM
