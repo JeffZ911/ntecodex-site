@@ -51,7 +51,7 @@ In Honkai: Star Rail, the [Cavern of Corrosion](https://ntecodex.com/faq) provid
 ![Direct Answer](/img/hsr-4-3-cavern-of-corrosion-explained-nte-guide/inline-2.webp)
 
 
-In Neverness to Everness, the gear system is known as the Console System, which uses Cartridges and Modules instead of traditional Relics. The direct equivalent to the Cavern of Corrosion is the Rabbit Hole domain. This domain is physically located in the Cape Square district of Hethereau, often found near the New Herland border.
+In Neverness to Everness, the gear system is known as the Console System, which uses Cartridges and Modules instead of traditional Relics. The direct equivalent to the [Cavern of Corrosion](https://ntecodex.com/faq) is the Rabbit Hole domain. This domain is physically located in the Cape Square district of Hethereau, often found near the New Herland border.
 
 Farming a single run of the Rabbit Hole costs 40 Character Pixels, which is the NTE version of Trailblaze Power. While the Cartridges themselves drop directly from these domain clears, the Modules—the sub-components that provide additional stats—are primarily obtained via the Rewind System. This system uses Carrota Coins earned as a secondary reward from your Rabbit Hole clears.
 

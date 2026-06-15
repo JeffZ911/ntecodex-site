@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing your Resonator's potential in Wuthering Waves requires a steady supply of high-quality Echoes to provide both powerful active skills and massive stat boosts. Mastering the intricacies of the Data Bank and overworld pathing is the only way to ensure your team is ready for endgame content like the Tower of Adversity.
+Maximizing your Resonator's potential in [Wuthering Waves](https://ntecodex.com/faq) requires a steady supply of high-quality Echoes to provide both powerful active skills and massive stat boosts. Mastering the intricacies of the Data Bank and overworld pathing is the only way to ensure your team is ready for endgame content like the Tower of Adversity.
 
 # How to Farm Echoes in Wuthering Waves: The Ultimate Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

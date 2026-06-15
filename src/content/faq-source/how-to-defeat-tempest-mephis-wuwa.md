@@ -34,7 +34,7 @@ Tempest Mephis stands as one of the most mechanically demanding boss encounters 
 
 When approaching the Tempest Mephis boss fight, players typically look for answers to several core questions to ensure a successful hunt. This guide addresses the following:
 
-*   **Where can I find the Tempest Mephis boss in Wuthering Waves?** Many players struggle to locate the arena because it is tucked away in an underground cavern rather than being visible on the surface map.
+*   **Where can I find the Tempest Mephis boss in [Wuthering Waves](https://ntecodex.com/faq)?** Many players struggle to locate the arena because it is tucked away in an underground cavern rather than being visible on the surface map.
 *   **What are the best strategies and team compositions to defeat Tempest Mephis?** Understanding the elemental resistances and the most effective Resonators for this specific encounter is vital for efficiency.
 *   **How do the parry mechanics work for this specific boss?** Tempest Mephis utilizes "Weakness Halos" (gold/yellow rings) that appear during specific windows, and missing these can lead to devastating counter-attacks.
 *   **What rewards and Echo stats does Tempest Mephis provide?** We provide a breakdown of the Hidden Thunder Tacet Cores and the specific sub-stats players should look for when farming this 4-cost Echo.

@@ -62,7 +62,7 @@ The most reliable way to farm Disk Drives is through Routine Cleanup missions at
 | **Routine Cleanup** | Scott Outpost | 60 Battery Charge | Specific Disk Sets, Plating Agents | Targeted set farming |
 | **Bardic Needle (Tuning)** | Sixth Street | Master Copies | Any unlocked Disk Sets | Targeted Slot/Stat farming |
 | **Dismantling** | Bardic Needle | Unwanted Disks | Master Copies | Recycling bad RNG rolls |
-| **Hollow Zero** | Scott Outpost | Z-Merits | Master Copies, Tuning Calibrators | Supplementing farm |
+| **[Hollow Zero](https://ntecodex.com/faq)** | Scott Outpost | Z-Merits | Master Copies, Tuning Calibrators | Supplementing farm |
 
 ## Detailed Explanation
 
