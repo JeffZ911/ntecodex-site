@@ -76,7 +76,7 @@ For zones with high Ice resistance, the Ether team led by **Zhu Yuan** is the pr
 ![Detailed Explanation](/img/best-team-hollow-zero-zzz-guide/inline-3.webp)
 
 
-Hollow Zero is a marathon, not a sprint. To succeed at the highest difficulty levels, such as Withering Garden Intensity 11, you must understand the deep synergies between your Agents' kits and the environmental buffs provided by the Resonia system.
+[Hollow Zero](https://ntecodex.com/faq) is a marathon, not a sprint. To succeed at the highest difficulty levels, such as Withering Garden Intensity 11, you must understand the deep synergies between your Agents' kits and the environmental buffs provided by the Resonia system.
 
 ### Top Tier Team Compositions
 

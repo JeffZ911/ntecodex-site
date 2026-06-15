@@ -117,7 +117,7 @@ In the current Version 1.1 meta, Sakiri and Haniel remain at the top of the tier
 ### Farming Guide: Character Pixels and Carrota Coins
 
 Farming Legendary (Gold) disks requires a significant investment of "Stamina" (Action Points). To efficiently farm these sets:
-1.  Focus on the "Cartridge Salvage" domains during the weekends when drop rates for Type IV modules are slightly higher.
+1.  Focus on the "Cartridge Salvage" domains during the weekends when [drop rates](https://ntecodex.com/faq) for Type IV modules are slightly higher.
 2.  Use **Character Pixels** to craft specific slots for your Speedy Hedgehog set if you are missing a specific shape for the Console grid.
 3.  Keep an eye on the **Carrota Coin** shop; it resets monthly and often contains Epic or Legendary modules with pre-determined favorable sub-stats.
 

@@ -117,7 +117,7 @@ Fadia (Psyche) and Adler (Incantation) are survival-focused units. While you can
 *   **Adler:** Works best with **Kingdom's Guard** (+15% DEF, +20% Shield Strength) since his walking-stick-generated shields scale with his DEF stat.
 
 ### Farming the Rabbit Hole: Where to Get Best-in-Slot Cartridges
-To get these sets, you must farm the **Rabbit Hole Anomaly Zone** located south of the New Herland District. 
+To get these sets, you must farm the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)** located south of the New Herland District. 
 *   **Stamina Cost:** Each run costs 40 Character Pixels.
 *   **Rarity:** S-Rank (Gold) Cartridges only begin dropping consistently once you reach Hunter Level 30.
 *   **The Rewind System:** After farming the Rabbit Hole, you will earn **Carrota Coins**. Take these to the "Rewind" arcade machine in your Console menu. This is where you "pull" for Modules. Use the "Hard" difficulty setting (unlocked at Level 30) to ensure you get Gold-tier Modules with four substats visible from Level 1.

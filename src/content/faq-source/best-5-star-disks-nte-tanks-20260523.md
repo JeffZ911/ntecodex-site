@@ -121,7 +121,7 @@ Adler, conversely, excels in "Mono Scorch" setups. His shields provide the stabi
 
 S-Rank Disks do not drop early in the game. You must reach Hunter Level 30 before the "Rabbit Hole" domains begin dropping Golden (S-Rank) Cartridges. Specifically, the "Neon Graveyard" Rabbit Hole is the primary farming location for the Crimson Twin Butterflies set.
 
-For the DEF and Shield-focused sets, you will need to clear the "Industrial District: Sector 7" domain. These challenges are difficult and often require a well-built 4-star (A-Rank) set before you can successfully farm the 5-star versions. It is recommended to use your "Resonance Energy" (stamina) on these domains during the weekend when drop rates for S-Rank Modules are slightly increased.
+For the DEF and Shield-focused sets, you will need to clear the "Industrial District: Sector 7" domain. These challenges are difficult and often require a well-built 4-star (A-Rank) set before you can successfully farm the 5-star versions. It is recommended to use your "Resonance Energy" (stamina) on these domains during the weekend when [drop rates](https://ntecodex.com/faq) for S-Rank Modules are slightly increased.
 
 ### Budget 4-Star Alternatives
 
