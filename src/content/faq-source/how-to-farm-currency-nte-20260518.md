@@ -68,7 +68,7 @@ Efficiently farming currency in Neverness to Everness requires balancing combat-
 *   **Annulith (Premium Currency):** Farmed primarily through daily Exploration Guide tasks (60 per day), weekly Anomaly Commissions (420 per week), and City Tycoon progression milestones.
 *   **Fons (Standard Currency):** The most effective source is the **Pink Paws Heist**, which offers up to 1,000,000 Fons every two weeks. For passive income, the **Cafe by Origen** generates revenue hourly, while spending **City Stamina** on hobbies like Fishing or City Delivery provides a consistent 1,000 Fons per stamina point.
 *   **Gacha Dice (Solid/Fabricated):** These pull currencies are obtained by converting Annulith at a **160:1 ratio**. You can also secure them through monthly shop resets in the Mall or by reaching specific Tycoon Level milestones.
-*   **Specialty Currencies:** **Carrota** (Bronze, Silver, and Gold) is farmed exclusively in the **Rabbit Hole Anomaly Zone** to fuel the Module "Rewind" system. **Mhm! Coins** are earned daily by visiting **Nacupeda's Pool** and making a "Sincere Wish."
+*   **Specialty Currencies:** **Carrota** (Bronze, Silver, and Gold) is farmed exclusively in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)** to fuel the Module "Rewind" system. **Mhm! Coins** are earned daily by visiting **Nacupeda's Pool** and making a "Sincere Wish."
 
 | Currency | Primary Use | Best Farming Source |
 | :--- | :--- | :--- |

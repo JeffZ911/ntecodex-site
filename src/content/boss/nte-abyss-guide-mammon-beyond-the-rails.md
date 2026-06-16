@@ -120,7 +120,7 @@ Building a team around the **Lakshana Meta** is currently the most effective way
 ### Premium Bossing Team
 *   **Main DPS: Nanally (Anima)** – Currently the highest damage dealer for boss execution. Her lightning finger attacks deal massive damage during the stagger window.
 *   **Sub-DPS/Breaker: Hathor (Lakshana)** – Mandatory for her Lakshana attribute. She is the most efficient character for breaking Mammon's resistance.
-*   **Cycle Battery: Esper Zero (Cosmos)** – Use Zero to quickly fill the Esper Meter and trigger the Cosmos half of the Remora reaction.
+*   **Cycle Battery: Esper Zero (Cosmos)** – Use Zero to quickly fill the [Esper Meter](https://ntecodex.com/faq) and trigger the Cosmos half of the Remora reaction.
 *   **Support/Healer: Edgar (Cosmos)** – Provides essential sustain for Stop 10 clears where Mammon's chip damage can become lethal.
 
 ### F2P Alternative

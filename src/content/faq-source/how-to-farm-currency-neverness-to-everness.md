@@ -80,7 +80,7 @@ Once the initial world rewards are exhausted, your primary source of Annulith sh
 
 Beetle Coins are consumed in almost every character-related action, from ascending an Esper to enhancing an Arc. While they seem abundant early on, the costs scale exponentially at higher levels.
 
-The most efficient way to farm Beetle Coins is through **Daily Commissions**. These are short combat or traversal tasks found on the city map. Using your **Esper Pixels** to clear "Wealth Anomalies" in the Anomaly Zone is the fastest method for bulk farming when you are in a pinch. However, since Esper Pixels are also needed for talent materials, it is recommended to only farm Beetle Coins this way during "Double Drop" event periods.
+The most efficient way to farm Beetle Coins is through **Daily Commissions**. These are short combat or traversal tasks found on the city map. Using your **Esper Pixels** to clear "Wealth Anomalies" in the [Anomaly Zone](https://ntecodex.com/faq) is the fastest method for bulk farming when you are in a pinch. However, since Esper Pixels are also needed for talent materials, it is recommended to only farm Beetle Coins this way during "Double Drop" event periods.
 
 ### The Urban Grind: Farming Fons for Cars and Property
 

@@ -44,7 +44,7 @@ The Break Meter (or Stagger Bar) dictates the flow of battle. Different types of
 
 | Attack Type | Break Pressure Multiplier | Effect on Boss |
 | :--- | :--- | :--- |
-| Basic Attack String | 1.0x | Minimal stagger; primarily builds Esper Meter. |
+| Basic Attack String | 1.0x | Minimal stagger; primarily builds [Esper Meter](https://ntecodex.com/faq). |
 | Perfect Parry | 3.5x | Massive [Break damage](https://ntecodex.com/faq); slows boss movement briefly. |
 | Critical Riposte | 5.0x | Triggered after perfect dodge/parry; highest Break source. |
 | Elemental Skill | 2.0x - 2.5x | Varies by character; helps maintain Break decay. |
@@ -129,7 +129,7 @@ The current meta revolves around the "Stain" reaction, which requires a combinat
 
 ### Character Role Breakdown
 
-*   **The Break Specialist:** Characters like Daffodil are essential. Their kits are specifically tuned to deal high Break damage. Bringing a Breaker allows you to reach the Burst window twice as fast as a team of pure DPS characters.
+*   **The Break Specialist:** Characters like Daffodil are essential. Their kits are specifically tuned to deal high [Break damage](https://ntecodex.com/faq). Bringing a Breaker allows you to reach the Burst window twice as fast as a team of pure DPS characters.
 *   **The DPS Carry:** Nanally remains the premier choice for boss encounters. Her high Burst damage and unique time-manipulation abilities allow her to extend the duration of the Downed state by several seconds, effectively lengthening your high-damage window.
 *   **Support/Sustainability:** Sakiri and Edgar are the backbone of survivability. Sakiri provides essential healing and shields, which are vital for surviving the chip damage from aggressive bosses like Mammon. Edgar offers crowd control that can interrupt minor Anomaly adds that often spawn during boss phase transitions.
 

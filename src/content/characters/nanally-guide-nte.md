@@ -65,7 +65,7 @@ To play Nanally effectively, you must understand the rhythm of her basic attack 
 
 ### Basic Attack: Colucci Secret Skill
 Nanally performs a 5-hit combo dealing Anima DMG. While the standard combo is reliable, the core of her ground game is the **Heavy Hitter!** charged attack.
-*   **Heavy Hitter!:** By holding the attack button after the 1st, 2nd, 3rd, or 5th hit of her basic string, Nanally performs a powerful 3-hit combo. This derivation deals significantly higher Break damage and is essential for staggering elite enemies.
+*   **Heavy Hitter!:** By holding the attack button after the 1st, 2nd, 3rd, or 5th hit of her basic string, Nanally performs a powerful 3-hit combo. This derivation deals significantly higher [Break damage](https://ntecodex.com/faq) and is essential for staggering elite enemies.
 *   **Colucci Secret Gundo:** Her aimed shot allows her to pick off flying enemies or trigger distant environmental puzzles.
 *   **Grand Entrance!:** Her plunge attack deals increased damage based on fall height (up to 200%). This is especially potent when dropping from a ceiling run.
 
