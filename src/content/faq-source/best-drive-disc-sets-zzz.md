@@ -122,7 +122,7 @@ The Bardic Needle in Sixth Street is where you will spend most of your time opti
 
 *   **Basic Tuning:** Uses Plating Subsidies to generate A-Rank or B-Rank discs.
 *   **Intermediate/Advanced Tuning:** Uses specialized materials to guarantee S-Rank discs.
-*   **Tuning Calibrator:** This is the most valuable resource in the game. It allows you to choose the specific Main Stat for a disc you are about to craft. **Always save Tuning Calibrators for Slot 5 (Elemental DMG) or Slot 6 (Impact/Anomaly Mastery)**, as these have the lowest drop rates in Routine Cleanup.
+*   **Tuning Calibrator:** This is the most valuable resource in the game. It allows you to choose the specific Main Stat for a disc you are about to craft. **Always save Tuning Calibrators for Slot 5 (Elemental DMG) or Slot 6 (Impact/Anomaly Mastery)**, as these have the lowest [drop rates](https://ntecodex.com/faq) in Routine Cleanup.
 
 ### Dismantling and Leveling Strategy
 

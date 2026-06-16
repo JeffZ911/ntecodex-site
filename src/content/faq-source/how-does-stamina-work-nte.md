@@ -87,7 +87,7 @@ The split nature of NTE's stamina means you are rarely "out of things to do." If
 
 ### Character Pixels: Combat & Progression
 
-Character Pixels are the gatekeeper for Esper power. Every time you enter an Anomaly Zone—whether it is Houdini's Magic Stage for EXP or the Rabbit Hole for Cartridges—you must spend Pixels to claim rewards.
+Character Pixels are the gatekeeper for Esper power. Every time you enter an [Anomaly Zone](https://ntecodex.com/faq)—whether it is Houdini's Magic Stage for EXP or the Rabbit Hole for Cartridges—you must spend Pixels to claim rewards.
 
 A standard Anomaly Zone run costs **40 Character Pixels**. However, most players prefer the "Double Reward" toggle, which consumes **80 Character Pixels** to grant twice the loot in a single combat encounter. This is a significant time-saver but does not change the Pixel-to-loot efficiency.
 

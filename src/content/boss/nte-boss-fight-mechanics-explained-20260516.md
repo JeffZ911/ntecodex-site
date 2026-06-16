@@ -45,7 +45,7 @@ The Break Meter (or Stagger Bar) dictates the flow of battle. Different types of
 | Attack Type | Break Pressure Multiplier | Effect on Boss |
 | :--- | :--- | :--- |
 | Basic Attack String | 1.0x | Minimal stagger; primarily builds Esper Meter. |
-| Perfect Parry | 3.5x | Massive Break damage; slows boss movement briefly. |
+| Perfect Parry | 3.5x | Massive [Break damage](https://ntecodex.com/faq); slows boss movement briefly. |
 | Critical Riposte | 5.0x | Triggered after perfect dodge/parry; highest Break source. |
 | Elemental Skill | 2.0x - 2.5x | Varies by character; helps maintain Break decay. |
 | Ultimate Ability | 4.0x | Large burst of Break damage; often ignores resistance. |

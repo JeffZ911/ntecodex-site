@@ -150,7 +150,7 @@ For more information on optimizing your team in Neverness to Everness, check out
 *   **Haniel Best Weapons:** How to choose between "Blow up the Crowd" and "The Forgotten" for your Psyche buffer.
 *   **Esper Cycle Explained:** A complete breakdown of how to trigger Blossom, Scorch, and Discord reactions.
 *   **Fadia Support Build:** How to maximize damage redirection and survivability for the Bureau of Anomaly Control's best tank.
-*   **Farming Guide:** The best locations to spend Character Pixels and how to efficiently clear the Rabbit Hole Anomaly Zone.
+*   **Farming Guide:** The best locations to spend Character Pixels and how to efficiently clear the Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq).
 
 ## Sources
 

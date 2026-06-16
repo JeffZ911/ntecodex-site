@@ -101,7 +101,7 @@ Once the boss's first health bar is depleted (or after a scripted transition at 
 Mastering this fight is less about raw power and more about rhythmic execution. If you are struggling with the damage output, focus on the following rotation to maximize your "Break" efficiency.
 
 ### Mastering the Critical Riposte
-The "Red Shine" is your best friend in this encounter. When Arachne prepares a heavy attack, a distinct red flash will appear on her weapon. If you dodge at the exact moment this flash occurs, you trigger a **Critical Riposte**. This isn't just a dodge; it’s a counter-system that deals massive Break damage and often grants your character a temporary ATK buff or energy refund.
+The "Red Shine" is your best friend in this encounter. When Arachne prepares a heavy attack, a distinct red flash will appear on her weapon. If you dodge at the exact moment this flash occurs, you trigger a **Critical Riposte**. This isn't just a dodge; it’s a counter-system that deals massive [Break damage](https://ntecodex.com/faq) and often grants your character a temporary ATK buff or energy refund.
 
 For beginners, the easiest way to land a Critical Riposte is during her "Triple Thread" combo. Don't spam the dash button during the first two hits. Wait for the third hit—the one with the flash—and dash toward the boss. This puts you in a perfect position to retaliate while her animations are recovering.
 
