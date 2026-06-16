@@ -41,7 +41,7 @@ The process is governed by the Data Bank, which determines the drop rates and ra
 ![Direct Answer](/img/how-to-farm-echoes-wuwa-20260513/inline-2.webp)
 
 
-Echo farming in [Wuthering Waves](https://ntecodex.com/faq) involves defeating Tacet Discords (TDs) in the open world and absorbing their remains to gain stats and skills. Unlike traditional gear systems in other games, Echoes are dropped directly by enemies upon death, provided the "Echo Drop Rate" roll is successful.
+Echo farming in [Wuthering Waves](https://ntecodex.com/faq) involves defeating Tacet Discords (TDs) in the open world and absorbing their remains to gain stats and skills. Unlike traditional gear systems in other games, Echoes are dropped directly by enemies upon death, provided the "[Echo Drop](https://ntecodex.com/faq) Rate" roll is successful.
 
 The most efficient farming method is a three-pronged approach:
 1.  **Overworld Tracking:** Use the in-game Guidebook (Echo Gallery) to track specific enemies. Once an enemy is defeated, the tracker automatically points to the next closest spawn on the map, allowing for rapid-fire farming of specific sets.
@@ -55,7 +55,7 @@ To get the best results, players must reach Data Bank Level 15 to unlock 5-star 
 ![Detailed Explanation](/img/how-to-farm-echoes-wuwa-20260513/inline-3.webp)
 
 
-The Echo system is the core progression mechanic in Wuthering Waves. To farm effectively, you must understand the relationship between your Data Bank level, the enemy classes, and the cost system. Echoes are categorized into four classes: Calamity (Cost 4), Overlord (Cost 4), Elite (Cost 3), and Common (Cost 1). A standard endgame build typically follows a "4-3-3-1-1" cost structure to maximize stat efficiency.
+The Echo system is the core progression mechanic in [Wuthering Waves](https://ntecodex.com/faq). To farm effectively, you must understand the relationship between your Data Bank level, the enemy classes, and the cost system. Echoes are categorized into four classes: Calamity (Cost 4), Overlord (Cost 4), Elite (Cost 3), and Common (Cost 1). A standard endgame build typically follows a "4-3-3-1-1" cost structure to maximize stat efficiency.
 
 ### Raising Your Data Bank Level to 21
 

@@ -158,7 +158,7 @@ Once you have the right Disks, you must level them using "Data Shards."
 *   **Cartridges:** Can be upgraded to Level 20. Every 4 levels, one of the four sub-stats will be randomly increased.
 *   **Modules:** These do not level up in the traditional sense. Instead, you "Refine" them using duplicate Modules of the same shape to increase their base stat values.
 
-Managing your Character Pixels efficiently is key. Spend your Pixels on Cartridge farming in the Rabbit Hole during the week, and save your Carrota Coins for weekend "Rewind" banners that have higher drop rates for specific Module shapes (like the Type III shapes needed for Sakiri).
+Managing your Character Pixels efficiently is key. Spend your Pixels on Cartridge farming in the Rabbit Hole during the week, and save your Carrota Coins for weekend "Rewind" banners that have higher [drop rates](https://ntecodex.com/faq) for specific Module shapes (like the Type III shapes needed for Sakiri).
 
 For players looking to test their support builds, the "Beyond the Rails" endgame mode is the ultimate proving ground. This mode features enemies with massive stability bars, making your Break Intensity and Cycle Intensity stats more important than ever.
 

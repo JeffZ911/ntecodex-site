@@ -143,7 +143,7 @@ Choosing the right Arc (weapon) is just as important as the Cartridge set.
 ### Farming Guide for Support Disks
 
 Acquiring high-rarity support gear requires consistent farming in the New Herland District.
-1.  **Cartridges:** These are farmed in the **Rabbit Hole Anomaly Zone**. Each run costs 40 Character Pixels (stamina). Higher stages unlock as your Hunter Level increases, eventually dropping S-Rank (Orange) Cartridges.
+1.  **Cartridges:** These are farmed in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)**. Each run costs 40 Character Pixels (stamina). Higher stages unlock as your Hunter Level increases, eventually dropping S-Rank (Orange) Cartridges.
 2.  **Modules:** Modules are obtained through the **Rewind** system. You collect "Carrotas" from Rabbit Hole domains and spend them in the Rewind menu to "roll" for random Module shapes and stats. 
 3.  **Hunter Exchange:** You can purchase specific S-Rank Cartridges like Shadow Creed and Speedy Hedgehog from the Hunter Exchange once you reach City Tycoon Rank 6. This requires managing your properties in Hethereau and completing city-life activities to earn Fons.
 

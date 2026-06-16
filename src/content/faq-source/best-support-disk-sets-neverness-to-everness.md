@@ -135,7 +135,7 @@ For supports, the priority of substats differs significantly from DPS units. You
 
 ### Farming Strategy
 
-To acquire these sets, you must spend **Character Pixels** (stamina) in **Anomaly Zones**. The most efficient way to farm for support gear is the **Rabbit Hole Anomaly Zone** located in the **New Herland District**. 
+To acquire these sets, you must spend **Character Pixels** (stamina) in **Anomaly Zones**. The most efficient way to farm for support gear is the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)** located in the **New Herland District**. 
 
 The Rabbit Hole is unique because it drops both Cartridges and **Carrota Coins**. Carrota Coins are used in the **Rewind** system, which is the only way to obtain high-rarity (S-Rank) Modules. When farming, prioritize completing the 4-piece set first, regardless of the substats. The 15% team-wide ATK buff from a "bad" Speedy Hedgehog set is still more valuable than a perfect set of random Modules that provides no team utility.
 
