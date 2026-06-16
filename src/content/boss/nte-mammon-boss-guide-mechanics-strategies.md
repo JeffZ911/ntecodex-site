@@ -78,7 +78,7 @@ Mammon’s animations are deceptive; despite his large, gold-encrusted frame, he
 In the initial phase, Mammon focuses on heavy, telegraphed melee strikes.
 *   **Ground Slam**: Mammon raises both arms and strikes the floor. This creates a shockwave with a significant AoE range. You must jump or dodge the moment his hands hit the ground to avoid the lingering tremor damage.
 *   **Swipe**: A standard horizontal claw attack. Look for the white flash on his hand; this is your window for a standard dodge or a parry.
-*   **Gold Flash Strikes**: These are Mammon's most vulnerable moments. When you see a bright gold flash, a successful Parry will instantly fill a large portion of your team's Esper Meter and deal massive Break damage.
+*   **Gold Flash Strikes**: These are Mammon's most vulnerable moments. When you see a bright gold flash, a successful Parry will instantly fill a large portion of your team's Esper Meter and deal massive [Break damage](https://ntecodex.com/faq).
 
 ### Phase 2: Enraged Greed (Below 50% HP)
 Once Mammon drops below 50% health, his Greed Meter accelerates, and he introduces unparryable "Red Aura" attacks.

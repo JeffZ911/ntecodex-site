@@ -130,7 +130,7 @@ Leveling a Drive Disc to +15 requires a significant amount of "Master Copy" (XP 
 
 Dismantling unused discs at the Bardic Needle provides two benefits: it returns a portion of the XP materials invested and gives you "Base / Senior / Elite Master Copies" which are used to craft new discs. If you have an S-Rank disc with terrible substats (e.g., three flat defensive stats), it is often better to dismantle it to try for a new roll rather than using it as fodder.
 
-Transitioning from A-Rank to S-Rank discs should begin in earnest at Inter-Knot Level 35, where S-Rank drops become guaranteed from Routine Cleanup. Prior to this level, focus on matching the correct 2-piece and 4-piece bonuses regardless of the disc rank. Once you hit IL 45 and 50, the drop rates increase significantly, making it the optimal time to burn your stored Battery Charge for perfect substat rolls.
+Transitioning from A-Rank to S-Rank discs should begin in earnest at Inter-Knot Level 35, where S-Rank drops become guaranteed from Routine Cleanup. Prior to this level, focus on matching the correct 2-piece and 4-piece bonuses regardless of the disc rank. Once you hit IL 45 and 50, the [drop rates](https://ntecodex.com/faq) increase significantly, making it the optimal time to burn your stored Battery Charge for perfect substat rolls.
 
 ## Sources
 

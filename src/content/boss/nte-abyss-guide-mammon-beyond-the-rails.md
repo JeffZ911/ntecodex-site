@@ -75,7 +75,7 @@ Mammon’s combat style is characterized by "Erratic Melee Aggression." He often
 ### Phase 1: Melee Aggression
 During the first half of the fight (100% to 50% HP), Mammon focuses on close-quarters combat.
 *   **Straight-Line Lunge:** Mammon lowers his center of gravity and charges forward. This attack has a very long reach. To avoid it, dodge diagonally (45 degrees) toward the boss. Dodging backward will often still result in you getting hit by the end of the hitbox.
-*   **Erratic Melee Swipes:** A 3-4 hit combo using his claws. The first few hits are standard, but the final hit features a distinct **golden/white flash**. This is your primary window for a **Parry Attack**, which will significantly boost your Esper Meter and deal heavy [Break damage](https://ntecodex.com/faq).
+*   **Erratic Melee Swipes:** A 3-4 hit combo using his claws. The first few hits are standard, but the final hit features a distinct **golden/white flash**. This is your primary window for a **Parry Attack**, which will significantly boost your [Esper Meter](https://ntecodex.com/faq) and deal heavy [Break damage](https://ntecodex.com/faq).
 
 ### Phase 2: Enraged Speed and AoE Slams
 Once Mammon drops below 50% HP, he enters an enraged state. His movement speed increases, and the wind-up time for his lunges is nearly halved.

@@ -109,7 +109,7 @@ Combat in NTE revolves around the "Lane" system, where you swap between four cha
 
 ### The Lane Swap Rotation for Maximum DPS
 
-To maximize your damage, you should never stay on one character for too long. As you attack, your teammates' icons will begin to glow, indicating their Esper Meter is full. Swapping to a glowing character triggers their entry skill and leaves a phantom of the previous character on the field for a short duration.
+To maximize your damage, you should never stay on one character for too long. As you attack, your teammates' icons will begin to glow, indicating their [Esper Meter](https://ntecodex.com/faq) is full. Swapping to a glowing character triggers their entry skill and leaves a phantom of the previous character on the field for a short duration.
 
 1.  **Initiate:** Start with an Anima character (like [Nanally](/characters/nanally-guide-nte)) to apply the initial element.
 2.  **React:** Swap to an Incantation character (like Adler or [Sakiri](/characters/sakiri-nte-free-5-star-guide)) to trigger the Shatter reaction.
@@ -190,4 +190,4 @@ Always prioritize your three weekly boss clears before spending Character Pixels
 - NTE | Hunter Level Guide - How To Increase Fast
 - How to get secret S-tier Hethereau's Keeper Arc in NTE — https://escorenews.com/en/neverness-to-everness/guides/how-to-get-hethereaus-keeper-arc
 - Neverness to Everness Combat System and Team Building Guide — https://www.enjoygm.com/neverness-to-everness-combat-guide
-- NTE Esper Cycle Reactions Guide 2026
+- [NTE Esper](https://ntecodex.com/faq) Cycle Reactions Guide 2026

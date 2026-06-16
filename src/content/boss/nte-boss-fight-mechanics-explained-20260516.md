@@ -48,7 +48,7 @@ The Break Meter (or Stagger Bar) dictates the flow of battle. Different types of
 | Perfect Parry | 3.5x | Massive [Break damage](https://ntecodex.com/faq); slows boss movement briefly. |
 | Critical Riposte | 5.0x | Triggered after perfect dodge/parry; highest Break source. |
 | Elemental Skill | 2.0x - 2.5x | Varies by character; helps maintain Break decay. |
-| Ultimate Ability | 4.0x | Large burst of Break damage; often ignores resistance. |
+| Ultimate Ability | 4.0x | Large burst of [Break damage](https://ntecodex.com/faq); often ignores resistance. |
 
 Once the Break Meter reaches zero, the boss enters a "Downed" state. During this window, all damage dealt to the boss is increased by 50%, and they are unable to perform any actions. This is your primary window for unleashing high-damage Ultimates and Esper Cycles.
 
