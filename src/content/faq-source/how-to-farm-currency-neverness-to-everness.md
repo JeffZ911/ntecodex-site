@@ -55,7 +55,7 @@ The game limits your farming via two resources: **Esper Pixels**, which replenis
 | **Annulith** | Premium | Quests, Anomaly Hunts, Exploration | Purchasing Solid/Fabricated Dice |
 | **Beetle Coins** | Progression | Daily Commissions, Anomaly Zones | Leveling Characters, Arcs, and Talents |
 | **Fons** | Urban/Economy | Cafe Management, Pink Paws Heist | Buying Cars, Tuning Parts, Housing |
-| **Carrota** | Specialized | Rabbit Hole Anomaly Zone | Participating in the Rewind Gacha |
+| **Carrota** | Specialized | Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq) | Participating in the Rewind Gacha |
 | **Warp Pieces** | Exchange | Duplicate 4/5-star pulls | Buying Dice and rare materials |
 | **Lost Pieces** | Exchange | Duplicate 3-star pulls | Buying upgrade materials and Dice |
 

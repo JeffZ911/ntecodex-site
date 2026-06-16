@@ -121,7 +121,7 @@ To maximize your damage, you should never stay on one character for too long. As
 The Shatter reaction, triggered by combining Incantation and Anima, is specifically tuned for breaking stagger bars. It deals "Toughness Fixed DMG," which ignores the boss's natural defense and directly depletes the white bar.
 
 When a boss prepares a red-marked attack, you have two options:
-*   **Parry:** Press your skill button exactly as the attack connects to instantly fill your Esper Meter and deal high posture damage.
+*   **Parry:** Press your skill button exactly as the attack connects to instantly fill your [Esper Meter](https://ntecodex.com/faq) and deal high posture damage.
 *   **Critical Dodge:** Dodge at the last possible second to trigger a slowdown effect and enable a **Critical Riposte**. This follow-up attack deals the highest amount of posture damage available in the game and is the fastest way to ground the Nestbound Bird.
 
 For the Nestbound Bird specifically, a scripted cutscene involving Hotori triggers when its HP reaches 30-35%. Immediately after this cutscene, the boss will remain stationary and vulnerable for approximately 10 seconds. Save your Ultimates for this specific window to bypass its final aggressive phase.

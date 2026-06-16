@@ -95,7 +95,7 @@ Success in the NTE Abyss depends on identifying visual cues instantly.
 To beat Mammon within the Beyond the Rails time limit, you must master the Esper Cycle mechanics. The fight is a race to trigger the "Remora" and "Charge" reactions to keep Mammon controlled and your Ultimates ready.
 
 ### Step 1: Build the Esper Cycle Meter
-Start the fight with your active character (usually your Cycle Battery or Sub-DPS) and use basic attacks and successful parries to fill the Esper Meter. A successful parry against Mammon's golden swipe will instantly fill a large portion of the bar.
+Start the fight with your active character (usually your Cycle Battery or Sub-DPS) and use basic attacks and successful parries to fill the [Esper Meter](https://ntecodex.com/faq). A successful parry against Mammon's golden swipe will instantly fill a large portion of the bar.
 
 ### Step 2: Trigger the "Remora" Reaction
 Once your Lakshana and Cosmos characters have full meters, swap between them to trigger **Remora (Lakshana + Cosmos)**. This reaction marks Mammon and slows his movement and attack speed for several seconds. This is critical for keeping him in place so your high-damage skills actually land.

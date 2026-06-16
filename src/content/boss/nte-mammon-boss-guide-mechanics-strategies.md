@@ -94,7 +94,7 @@ Once Mammon drops below 50% health, his Greed Meter accelerates, and he introduc
 The most effective way to defeat Mammon is to prioritize the Stagger Bar over raw HP damage. A "downed" Mammon takes significantly increased damage from all sources and stops the Greed Meter from rising temporarily.
 
 ### Breaking the Stagger Meter
-To break Mammon quickly, you must exploit his **Lakshana weakness**. Characters like Hathor or any unit utilizing Lakshana-attribute Arcs deal increased Break damage. 
+To break Mammon quickly, you must exploit his **Lakshana weakness**. Characters like Hathor or any unit utilizing Lakshana-attribute Arcs deal increased [Break damage](https://ntecodex.com/faq). 
 1.  **Parry the Gold Flashes**: Each successful parry reduces the Stagger Bar by roughly 15-20%. 
 2.  **Use Chaos/Psyche Reactions**: Triggering the **Discord** reaction (Incantation + Chaos + Psyche) deals the highest amount of Stagger damage in the game.
 3.  **Daffodil’s Role**: Switch to Daffodil when Mammon is at 30% Stagger remaining. Her burst abilities are specifically tuned to "shatter" the final portion of the meter.

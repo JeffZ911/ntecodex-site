@@ -69,7 +69,7 @@ Mastering NTE boss fights requires a keen eye for visual cues. The game uses a s
 
 The most recognizable mechanic in NTE combat is the "Parry Circle." When a boss prepares a parryable attack, two red concentric circles will appear on the screen, closing in toward a center point. To execute a successful Parry, you must activate your defensive skill or attack just as the circles overlap and flash golden or white.
 
-Successful parries do more than just prevent damage; they trigger a time-slow effect and allow for a "Critical Riposte," which deals massive Break damage. Conversely, some attacks are preceded by a deep red aura emanating from the boss's body. These attacks are unparryable. If you see the deep red glow, you must use a dash to perform a Perfect Dodge. A successful Perfect Dodge grants a brief window of invulnerability and generates a significant amount of Esper Meter, allowing you to cycle through your team’s abilities faster.
+Successful parries do more than just prevent damage; they trigger a time-slow effect and allow for a "Critical Riposte," which deals massive [Break damage](https://ntecodex.com/faq). Conversely, some attacks are preceded by a deep red aura emanating from the boss's body. These attacks are unparryable. If you see the deep red glow, you must use a dash to perform a Perfect Dodge. A successful Perfect Dodge grants a brief window of invulnerability and generates a significant amount of Esper Meter, allowing you to cycle through your team’s abilities faster.
 
 ### Phase-Specific Mechanics
 
