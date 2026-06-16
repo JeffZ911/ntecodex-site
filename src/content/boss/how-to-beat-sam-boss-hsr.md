@@ -148,7 +148,7 @@ The Stagnant Shadow: Shape of Roast is the primary location to farm Sam for char
 **Raging Heart** is the core drop from this encounter. As of the current version, it is the primary material required to ascend Firefly. Players planning to pull for Firefly should stockpile at least 65 of these materials.
 
 ### Simulated Universe & MoC Drops
-In the Simulated Universe (specifically World 9 or Divergent Universe), Sam may appear as a final boss or an elite encounter.
+In the Simulated Universe (specifically World 9 or [Divergent Universe](https://ntecodex.com/faq)), Sam may appear as a final boss or an elite encounter.
 *   **Planar Ornaments:** Defeating Sam in the Simulated Universe allows you to spend Immersifiers for Planar Ornaments like the Izumo Gensei and Takama Divine Realm set.
 *   **Memory of Chaos:** When Sam appears in the Memory of Chaos, he is often paired with high-HP mobs. Clearing this floor grants **Stellar Jades** and **Lucent Afterglow**, which can be traded in the Light Cone Manifest store.
 

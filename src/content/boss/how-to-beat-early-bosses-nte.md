@@ -96,7 +96,7 @@ Below the boss's red health bar is a white "Break Meter." As long as this bar is
 ### Executing the Perfect Esper Cycle
 Neverness to Everness rewards players for constant character swapping. When an off-field character's portrait begins to glow, it signifies they are ready for a "Switch Attack."
 *   **Triggering Discord:** By swapping a Chaos-element character like Daffodil in immediately after an Anima-element character has used a skill, you trigger the **Discord** reaction. This reaction deals a burst of elemental damage and prevents the boss's Break Meter from regenerating for a short period.
-*   **Critical Riposte:** After performing a perfect dodge (Red Flash), your next attack within 1.5 seconds deals double Break damage. Always prioritize a heavy attack immediately after a successful dodge.
+*   **Critical Riposte:** After performing a perfect dodge (Red Flash), your next attack within 1.5 seconds deals double [Break damage](https://ntecodex.com/faq). Always prioritize a heavy attack immediately after a successful dodge.
 
 ### Positioning and Terrain Usage
 For the Picture Frame fight, positioning is everything. You must target specific spatial anomalies—small, floating rifts—that appear around the arena. Destroying these "Nexus" points is the only way to lower Picture Frame's defenses. If you stay too close to the boss without clearing the Nexuses, you will take constant chip damage from spatial distortion.

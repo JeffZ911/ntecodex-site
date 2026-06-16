@@ -118,7 +118,7 @@ For a support, stats should be prioritized in the following order:
 
 ### Farming Guide: Reaching Hunter Level 40
 
-To guarantee Gold-tier Cartridge drops, you must reach **Hunter Level 40**. Before this level, the drop rates for Legendary gear in domains are too low to justify heavy resource spending. 
+To guarantee Gold-tier Cartridge drops, you must reach **Hunter Level 40**. Before this level, the [drop rates](https://ntecodex.com/faq) for Legendary gear in domains are too low to justify heavy resource spending. 
 *   **Daily Commissions:** The fastest way to gain Hunter XP.
 *   **Urban Errands:** Small side quests in the city that provide steady XP.
 *   **Domain Farming:** Once you hit Level 40, focus your "Battery" (stamina) on the "Speedy Hedgehog" domain, as it is the most versatile set for any account.

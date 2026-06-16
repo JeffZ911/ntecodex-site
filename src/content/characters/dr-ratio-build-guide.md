@@ -44,7 +44,7 @@ Dr. Ratio is a 5-star Imaginary character following the Path of The Hunt. His pr
 Key points regarding his gameplay include:
 *   **Follow-up Mastery:** A significant portion of his total damage output comes from his Talent, "Cogito, Ergo Sum," which triggers after he uses his Skill.
 *   **Debuff Dependency:** To guarantee his follow-up attacks, an enemy needs at least three debuffs. Having more debuffs further increases his Crit stats and raw Damage dealt.
-*   **Single-Target Precision:** As a Hunt character, he lacks AoE capabilities but possesses some of the highest single-target multipliers in the game, making him a premier choice for Memory of Chaos and Apocalyptic Shadow.
+*   **Single-Target Precision:** As a Hunt character, he lacks AoE capabilities but possesses some of the highest single-target multipliers in the game, making him a premier choice for Memory of Chaos and [Apocalyptic Shadow](https://ntecodex.com/faq).
 *   **Accessibility:** Because he was distributed for free to all players during Version 1.6, he remains one of the most widely owned and utilized 5-star DPS units in the game.
 
 ## Dr. Ratio Skills and Trace Priority

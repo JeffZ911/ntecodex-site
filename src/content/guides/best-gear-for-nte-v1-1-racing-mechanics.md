@@ -163,7 +163,7 @@ The <a href="https://www.amazon.com/s?k=Razer+Naga+V2+Pro&tag=jeffzen911-20" rel
 ![When to skip the upgrade](/img/best-gear-for-nte-v1-1-racing-mechanics/inline-4.webp)
 
 
-While high-end gear can enhance your experience in Neverness to Everness, not every player needs to rush out for an upgrade. If you already own a 144Hz IPS monitor, the jump to 165Hz or 180Hz provides diminishing returns for NTE v1.1. The human eye struggles to perceive the difference between 144 and 165 frames per second unless you are a highly competitive player focusing exclusively on circuit racing leaderboards.
+While high-end gear can enhance your experience in Neverness to Everness, not every player needs to rush out for an upgrade. If you already own a 144Hz IPS monitor, the jump to 165Hz or 180Hz provides diminishing returns for [NTE v1](https://ntecodex.com/guides/nte-v1-1-physical-vs-nova-comparison-20260616).1. The human eye struggles to perceive the difference between 144 and 165 frames per second unless you are a highly competitive player focusing exclusively on circuit racing leaderboards.
 
 Furthermore, you should avoid upgrading your mouse if your current sensor supports at least 12,000 DPI. The precision ceiling for the Pursuit V8 and other vehicles in the current patch is rarely high enough to justify a 30,000 DPI sensor unless you play on an ultra-wide 4K setup that requires massive cursor travel. Finally, do not buy a racing-style chair if you have existing shoulder impingement issues; a mesh office chair like the Branch Ergonomic may be better suited for your physiology as it offers more breathability and less restrictive shoulder bolsters.
 
