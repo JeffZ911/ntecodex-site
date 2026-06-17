@@ -90,7 +90,7 @@ To defeat bosses efficiently, you should follow the "Setup-Break-Burst" combat l
 
 ### Maximizing the Stagger Window
 
-The fight begins with the Setup phase. During Phase 1, your goal is to build your Esper Meter. Do not use your Ultimates immediately. Instead, focus on landing Perfect Dodges and Parries. Every successful defensive maneuver builds your meter and chips away at the white Break bar.
+The fight begins with the Setup phase. During Phase 1, your goal is to build your [Esper Meter](https://ntecodex.com/faq). Do not use your Ultimates immediately. Instead, focus on landing Perfect Dodges and Parries. Every successful defensive maneuver builds your meter and chips away at the white Break bar.
 
 Once the Break Meter is nearly depleted, switch to your "Breaker" specialist (such as Daffodil) to land the final blow. This triggers the "Downed" state. As soon as the boss hits the ground, the Burst window begins. You have approximately 8 to 12 seconds [exact duration varies by boss] of 50% increased damage.
 

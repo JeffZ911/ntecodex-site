@@ -142,10 +142,10 @@ A common mistake for new players is focusing entirely on their Disk level while 
 
 To level up your 3-star Disks, you will need a steady supply of **Beetle Coins** and **Elite Hunter Guides**. These can be farmed through:
 *   **Daily Commissions:** The most reliable source of XP materials.
-*   **Scarborough Fair undisclosed:** Using undisclosed to pull for new Arcs often yields "fodder" Arcs that can be used to level up your primary Disks.
+*   **[Scarborough Fair](https://ntecodex.com/faq) undisclosed:** Using undisclosed to pull for new Arcs often yields "fodder" Arcs that can be used to level up your primary Disks.
 *   **Hethereau Field Bosses:** Defeating anomalies in the open world frequently drops Arc ascension materials.
 
-By efficiently managing your resources and focusing on the top-tier 3-star Disks like Oraora! and Mind Royale, you can successfully navigate the early challenges of Neverness to Everness without needing to spend heavily on the gacha system.
+By efficiently managing your resources and focusing on the top-tier 3-star Disks like Oraora! and Mind Royale, you can successfully navigate the early challenges of Neverness to Everness without needing to spend heavily on the [gacha system](https://ntecodex.com/faq).
 
 ## Sources
 

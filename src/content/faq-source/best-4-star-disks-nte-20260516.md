@@ -115,7 +115,7 @@ Survival becomes a priority in high-level Anomaly Commissions where enemies can 
 
 Acquiring A-Rank Arcs is more straightforward than hunting for S-Ranks. You can obtain them through:
 
-1.  **The Scarborough Fair:** This is the primary gacha system where you can spend your earned currency to pull for Arcs.
+1.  **The [Scarborough Fair](https://ntecodex.com/faq):** This is the primary [gacha system](https://ntecodex.com/faq) where you can spend your earned currency to pull for Arcs.
 2.  **Anomaly Commissions:** These are repeatable combat challenges found throughout Hethereau. Higher-tier commissions have a high probability of dropping A-Rank Arcs and Cartridges.
 3.  **Arc Collection Packs:** By earning keys through exploration and mission completion, you can open packs of ten Arcs at a time, which frequently contain A-Rank items.
 

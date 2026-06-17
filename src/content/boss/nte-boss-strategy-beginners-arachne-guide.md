@@ -78,7 +78,7 @@ The Never-Ending Arachne fight is a theatrical experience divided into two disti
 ### Phase 1: Puppet Stage Mechanics
 During Phase 1, Arachne remains on the elevated opera stage, making her untargetable by most melee Hunters. Instead of fighting you directly, she manipulates life-sized puppets that flood the arena floor.
 
-*   **Circular Shockwaves:** The puppets will periodically slam the ground, emitting glowing rings of energy. These rings expand outward at high speeds. You must jump or dash through them to avoid taking chip damage and losing your Esper Meter momentum.
+*   **Circular Shockwaves:** The puppets will periodically slam the ground, emitting glowing rings of energy. These rings expand outward at high speeds. You must jump or dash through them to avoid taking chip damage and losing your [Esper Meter](https://ntecodex.com/faq) momentum.
 *   **Puppet Spin:** One or more puppets will occasionally detach from their strings and spin toward your position like a top. This attack causes a stagger lock if it hits, leaving you vulnerable to the next shockwave.
 *   **Spotlight Laser:** A red spotlight will track your character on the ground. After three seconds, a laser beam fires from the stage. You must dash at the last moment to avoid the burn effect.
 
