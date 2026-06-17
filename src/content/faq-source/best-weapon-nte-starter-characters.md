@@ -41,7 +41,7 @@ In Neverness to Everness, "starter characters" refers to the units provided for 
 *   **Zero:** The S-Class protagonist (Cosmos element) who utilizes Solid-type Arcs.
 *   **Mint:** An A-Class Anima/Liquid character given early in the story, specializing in AOE damage.
 *   **Chiz:** An S-Class Cosmos/Gas character unlocked via the City Tycoon management rewards.
-*   **Haniel, Adler, and Aurelia:** These are common A-Class characters frequently obtained through the initial "Arc Research Program" (the gacha system) or early-game selector boxes.
+*   **Haniel, Adler, and Aurelia:** These are common A-Class characters frequently obtained through the initial "Arc Research Program" (the [gacha system](https://ntecodex.com/faq)) or early-game selector boxes.
 
 ### The Importance of Weapon (Arc) Selection
 

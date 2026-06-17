@@ -34,7 +34,7 @@ Mastering the flow of combat in Hekebon requires a deep understanding of how dif
 
 Understanding the combat mechanics of Neverness to Everness (NTE) involves more than just identifying character strengths; it requires a grasp of how the "Esper Cycle" dictates the flow of battle. Players often ask: What is the core mechanic behind Elemental Resonance in NTE? How do different elements interact during combat to produce unique reactions? Furthermore, what are the specific benefits of matching certain character types or elements within a single team composition?
 
-Elemental Resonance is not a static buff but a dynamic system triggered by character rotations. Unlike games where elements react simply by being applied to an enemy, NTE focuses on the transition between characters. This guide explores the intricacies of the Esper Wheel, the requirements for filling the Esper Meter, and how to maximize damage through Duo and Triple Cycle reactions.
+Elemental Resonance is not a static buff but a dynamic system triggered by character rotations. Unlike games where elements react simply by being applied to an enemy, NTE focuses on the transition between characters. This guide explores the intricacies of the Esper Wheel, the requirements for filling the [Esper Meter](https://ntecodex.com/faq), and how to maximize damage through Duo and Triple Cycle reactions.
 
 ## Direct Answer
 

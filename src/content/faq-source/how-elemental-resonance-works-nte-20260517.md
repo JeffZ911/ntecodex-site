@@ -83,7 +83,7 @@ Duo Cycles are the bread and butter of your rotation. When you swap between two 
 | :--- | :--- | :--- |
 | **Lakshana + Cosmos** | Remora | Slows enemies in a radius and restores a portion of the incoming character's HP. |
 | **Cosmos + Anima** | Blossom | Increases the damage and attack frequency of all active summons/turrets. |
-| **Anima + Incantation** | Hexed | Deals a massive burst of Force damage and increases Break damage for 5 seconds. |
+| **Anima + Incantation** | Hexed | Deals a massive burst of Force damage and increases [Break damage](https://ntecodex.com/faq) for 5 seconds. |
 | **Incantation + Chaos** | Scorch | Ignites the target, dealing Chaos damage over time based on the incoming character's Attack. |
 | **Chaos + Psyche** | Nova | Triggers a wide-area explosion that shreds enemy Defense by [information unavailable]. |
 | **Psyche + Lakshana** | Stain | Marks enemies; attacking marked enemies restores Esper Meter for the whole team. |

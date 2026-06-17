@@ -84,7 +84,7 @@ Teammates like **Nanally** and **Zero** are mandatory for high-level play becaus
 | :--- | :--- | :--- |
 | **Nanally** | Anima | T0 Main DPS; provides follow-up attacks and benefits from time-stop to land her full "Underboss" combo. |
 | **Jiuyuan** | Anima | Essential for Blossom teams; doubles Vita Bud spawns and provides crowd control with her "Rose Pact" grouping. |
-| **Zero** | Cosmos | The protagonist; their "Insta-Cycle" skill instantly fills the Esper Meter, allowing for immediate Blossom triggers. |
+| **Zero** | Cosmos | The protagonist; their "Insta-Cycle" skill instantly fills the [Esper Meter](https://ntecodex.com/faq), allowing for immediate Blossom triggers. |
 | **Sakiri** | Lakshana | Premier support; provides massive DEF shred and ATK buffs that stack with Hotori’s time-stop finisher. |
 | **Mint** | Anima | F2P Anima option; her skills provide wide AOE that helps spread Blossom reactions to groups of enemies. |
 
