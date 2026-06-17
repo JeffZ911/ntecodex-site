@@ -12,7 +12,7 @@ sources:
   - https://www.rtings.com/chair
   - https://www.reddit.com/r/ergonomics/wiki/index
   - https://www.tomshardware.com/reviews/gaming-chair-buying-guide
-affiliate: false  # ASINs/links pending Amazon Associates approval + manual verification
+affiliate: true
 quick_answer: "For most gacha players running 3+ hour sessions, the Secretlab TITAN Evo 2024 hits the best balance of adjustability, lumbar support and 5-year warranty for the money. If your budget is under $300, the Razer Iskur Essentials is the strongest pick we tested; for taller players (6'2\" and up), the Herman Miller Sayl is the long-term answer."
 products:
   - name: "Secretlab TITAN Evo 2024 (Regular)"

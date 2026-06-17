@@ -53,7 +53,12 @@ const dateStr = publishedAt
 // only the better ~275 pages stay indexable, lifting the site's quality
 // signal. Reversible — change the threshold. noindex,follow keeps link equity.
 const NOINDEX_BELOW = 6.0;
-const noindex = qaScore != null && qaScore < NOINDEX_BELOW;
+// Authority concentration (2026-06-17): affiliate "best X for Y" gear roundups
+// average 2 impressions/page vs 18 for real game content (9× worse) and earn
+// ~0 clicks, yet their mass dilutes the site's topical authority + scaled-
+// content signal. noindex,follow them so crawl/quality signal concentrates on
+// the game guides; link equity still flows and the URLs stay live (no 404s).
+const noindex = (qaScore != null && qaScore < NOINDEX_BELOW) || affiliate === true;
 
 // JSON-LD: brand-author + publishingPrinciples / actionableFeedbackPolicy
 // fields are Google's documented E-E-A-T signals — pointing them at

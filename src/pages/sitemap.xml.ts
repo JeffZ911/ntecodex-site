@@ -36,9 +36,12 @@ export const GET: APIRoute = async () => {
   // to the directory-derived form when missing.
   const pushEntry = (
     fallbackPrefix: string,
-    e: { slug: string; data: { published_url?: string; published_at?: string; qa_score?: number } }
+    e: { slug: string; data: { published_url?: string; published_at?: string; qa_score?: number; affiliate?: boolean } }
   ) => {
     if (typeof e.data.qa_score === "number" && e.data.qa_score < NOINDEX_BELOW) return;
+    // Affiliate gear roundups are noindex'd (see ArticleLayout) to concentrate
+    // authority on game content — keep them out of the sitemap to match.
+    if (e.data.affiliate === true) return;
     const url = e.data.published_url || `/${fallbackPrefix}/${e.slug}`;
     dynamic.push({ url, lastmod: e.data.published_at });
   };

@@ -2,6 +2,7 @@
 title: Best Closed Back Headphones for NTE Raid Leaders in 2026
 slug: best-closed-back-headphones-nte-raid-leaders-2026
 article_type: news
+affiliate: true
 qa_score: 9.2
 word_count: 1940
 published_at: "2026-06-04T01:59:09.590753+00:00"

@@ -2,6 +2,7 @@
 title: Best Ultrawide Gaming Monitor for Neverness to Everness Under $800
 slug: best-ultrawide-gaming-monitor-neverness-to-everness-under-800-20260531
 article_type: news
+affiliate: true
 qa_score: 8.3
 word_count: 1826
 published_at: "2026-05-31T16:31:13.527682+00:00"

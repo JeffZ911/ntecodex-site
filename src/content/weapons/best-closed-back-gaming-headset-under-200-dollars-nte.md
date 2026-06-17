@@ -2,6 +2,7 @@
 title: "Best Closed-Back Gaming Headset Under 200 Dollars: Blow up the Crowd"
 slug: best-closed-back-gaming-headset-under-200-dollars-nte
 article_type: weapon_db
+affiliate: true
 qa_score: 7.5
 word_count: 1760
 published_at: "2026-06-04T07:30:41.374171+00:00"

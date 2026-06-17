@@ -2,6 +2,7 @@
 title: Best Low Profile Mechanical Keyboard for Compact Desk Setups (2026)
 slug: best-low-profile-mechanical-keyboard-compact-desk-setups
 article_type: news
+affiliate: true
 qa_score: 8.8
 word_count: 2110
 published_at: "2026-06-02T00:30:33.530883+00:00"

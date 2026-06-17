@@ -2,6 +2,7 @@
 title: "Best Closed Back Headphones for Competitive MMO Players Under 200: Blow up the Crowd"
 slug: best-closed-back-headphones-competitive-mmo-players-under-200
 article_type: weapon_db
+affiliate: true
 qa_score: 6.3
 word_count: 2020
 published_at: "2026-06-04T07:30:45.743630+00:00"

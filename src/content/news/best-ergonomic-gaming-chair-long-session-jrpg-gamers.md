@@ -2,6 +2,7 @@
 title: Best Ergonomic Gaming Chair for Long Session JRPG Gamers (NTE)
 slug: best-ergonomic-gaming-chair-long-session-jrpg-gamers
 article_type: news
+affiliate: true
 qa_score: 9.6
 word_count: 2305
 published_at: "2026-05-27T07:05:38.618192+00:00"

@@ -2,6 +2,7 @@
 title: "Best 1440p OLED Gaming Monitor for Gacha Grinders: NTE V1.1 Guide"
 slug: best-1440p-oled-gaming-monitor-gacha-grinders
 article_type: news
+affiliate: true
 qa_score: 7.5
 word_count: 2108
 published_at: "2026-05-27T07:05:35.560697+00:00"

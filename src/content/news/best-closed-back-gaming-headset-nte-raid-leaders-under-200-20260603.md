@@ -2,6 +2,7 @@
 title: Best Closed-Back Gaming Headset for NTE Raid Leaders Under $200
 slug: best-closed-back-gaming-headset-nte-raid-leaders-under-200-20260603
 article_type: news
+affiliate: true
 qa_score: 10.0
 word_count: 2078
 published_at: "2026-06-03T12:04:47.665416+00:00"
