@@ -32,7 +32,7 @@ Optimizing your character’s gear without spending premium currency is the most
 ![Question Restated](/img/best-f2p-weapons-neverness-to-everness-characters/inline-1.webp)
 
 
-Identifying the most effective weapons (Arcs) for F2P players in NTE requires a deep understanding of how weapon passives interact with character styles. While the gacha system offers powerful options, many of the game's top-tier S-Rank Arcs are actually obtainable through dedicated world exploration and boss farming. Distinguishing between gacha-exclusive Arcs and those obtainable through gameplay is the first step in efficient resource management.
+Identifying the most effective weapons (Arcs) for F2P players in NTE requires a deep understanding of how weapon passives interact with character styles. While the [gacha system](https://ntecodex.com/faq) offers powerful options, many of the game's top-tier S-Rank Arcs are actually obtainable through dedicated world exploration and boss farming. Distinguishing between gacha-exclusive Arcs and those obtainable through gameplay is the first step in efficient resource management.
 
 Evaluating which free S-Rank and A-Rank Arcs provide the best stat-to-effort ratio is vital for players who want to clear high-level content like the "Anomaly Containment" challenges without pulling on weapon banners. Furthermore, clarifying the acquisition methods for "Signature" F2P weapons ensures that players do not miss out on powerful gear hidden behind specific questlines or city progression milestones.
 

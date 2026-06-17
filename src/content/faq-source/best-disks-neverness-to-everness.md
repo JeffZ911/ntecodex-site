@@ -44,7 +44,7 @@ Equipping the right gear in Hethereau City is the difference between a smooth an
 
 What are the best disks to equip in Neverness to Everness (NTE)? Since the game's launch on April 29, 2026, players have discovered that "disks" actually refer to two distinct equipment systems: Arcs (weapon disks) and Cartridges (gear disks). Arcs provide base stats and unique combat abilities, while Cartridges function as the primary armor system, utilizing a Tetris-style grid to activate powerful set bonuses.
 
-Understanding which disks provide the highest DPS, Support, and Break utility is essential for clearing high-level content like the Rabbit Hole or the Scarborough Fair challenges. This guide identifies the top-tier options for current meta favorites like [Nanally](/characters/nanally-guide-nte), [Sakiri](/characters/sakiri-nte-free-5-star-guide), and the protagonist, Esper Zero.
+Understanding which disks provide the highest DPS, Support, and Break utility is essential for clearing high-level content like the Rabbit Hole or the [Scarborough Fair](https://ntecodex.com/faq) challenges. This guide identifies the top-tier options for current meta favorites like [Nanally](/characters/nanally-guide-nte), [Sakiri](/characters/sakiri-nte-free-5-star-guide), and the protagonist, Esper Zero.
 
 ## Direct Answer
 

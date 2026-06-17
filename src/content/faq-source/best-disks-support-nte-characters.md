@@ -112,7 +112,7 @@ To activate the 4-piece Legendary bonus, you must fit four Modules of the same s
 
 For a support, stats should be prioritized in the following order:
 1.  **Cycle Intensity (Energy Recharge):** This is non-negotiable. If your support cannot use their Ultimate every rotation, they are failing their role.
-2.  **Break Intensity:** In NTE, "Breaking" an enemy (depleting their white bar) results in a massive damage window. Supports are often the best at dealing Break damage.
+2.  **Break Intensity:** In NTE, "Breaking" an enemy (depleting their white bar) results in a massive damage window. Supports are often the best at dealing [Break damage](https://ntecodex.com/faq).
 3.  **HP% / DEF%:** For general survivability.
 4.  **ATK%:** Only relevant for characters like Sakiri whose buffs scale off their own ATK.
 

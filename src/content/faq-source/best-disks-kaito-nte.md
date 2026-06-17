@@ -107,7 +107,7 @@ Since players often look for Kaito's recommendations for the current meta, the f
 
 ### How to Obtain and Upgrade Your Disks
 
-Acquiring S-rank Arcs is primarily done through the **Scarborough Fair** system. This is NTE's unique gacha mechanic that resembles a digital board game. Players use currency to roll dice and move across a map. To get Arcs, you must land on "Arc Research Program" tiles.
+Acquiring S-rank Arcs is primarily done through the **[Scarborough Fair](https://ntecodex.com/faq)** system. This is NTE's unique gacha mechanic that resembles a digital board game. Players use currency to roll dice and move across a map. To get Arcs, you must land on "Arc Research Program" tiles.
 
 **Arc Rarity and [Drop Rates](https://ntecodex.com/faq) in Scarborough Fair:**
 *   **S-Rank Arcs:** ~1.5% base drop rate (Pity system guarantees an S-rank after 80 rolls).
