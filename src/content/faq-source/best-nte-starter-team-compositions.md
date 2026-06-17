@@ -40,7 +40,7 @@ The elemental system in NTE is not just about damage types; it is about how thes
 | :--- | :--- | :--- | :--- |
 | **Cosmos** | Foundation | Blossom (w/ Anima) | Spawns automated turrets dealing continuous damage. |
 | **Anima** | Catalyst | Scorch (w/ Incantation) | High-frequency damage over time (DoT). |
-| **Incantation** | Trigger | Discord (w/ Chaos + Psyche) | Massive Stagger/Break damage to shields. |
+| **Incantation** | Trigger | Discord (w/ Chaos + Psyche) | Massive Stagger/[Break damage](https://ntecodex.com/faq) to shields. |
 | **Chaos** | Disruptor | Fracture (w/ Cosmos) | Reduces enemy defense and slows movement. |
 | **Psyche** | Support | Resonance (w/ any) | Buffs the active character's elemental mastery. |
 | **Physical** | Neutral | — | Deals direct damage without elemental scaling. |

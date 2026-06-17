@@ -125,7 +125,7 @@ When you pull on banners, you will inevitably receive duplicate items or charact
 
 The **Module System** is NTE’s version of gear or equipment. To optimize your characters, you must participate in the **Rewind** gacha, which specifically grants character Modules.
 
-To pull on the Rewind banner, you need a specialized resource called **Carrota**. Carrota is farmed in the **Rabbit Hole Anomaly Zone**. This zone functions similarly to a roguelike dungeon where you face waves of enemies in an ever-shifting environment. The deeper you go into the Rabbit Hole, the more Carrota you earn. Since Modules provide massive percentage boosts to stats like Crit Rate and Anomaly Damage, farming Carrota is a mandatory endgame activity for any player looking to clear high-level content.
+To pull on the Rewind banner, you need a specialized resource called **Carrota**. Carrota is farmed in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)**. This zone functions similarly to a roguelike dungeon where you face waves of enemies in an ever-shifting environment. The deeper you go into the Rabbit Hole, the more Carrota you earn. Since Modules provide massive percentage boosts to stats like Crit Rate and Anomaly Damage, farming Carrota is a mandatory endgame activity for any player looking to clear high-level content.
 
 ## Related
 

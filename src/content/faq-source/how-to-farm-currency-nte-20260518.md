@@ -143,7 +143,7 @@ For a massive early-game boost, players can hunt down 9 Secret Vaults hidden acr
 
 Specialty currencies are used for character power spikes rather than general spending.
 
-*   **Carrota:** Farmed in the **Rabbit Hole Anomaly Zone** (New Herland District). Bronze, Silver, and Gold Carrota are used in the "Rewind" gacha to obtain Modules for your character's Console. Higher difficulty stages (Hunter Level 30+) are required for Gold Carrota.
+*   **Carrota:** Farmed in the **Rabbit Hole [Anomaly Zone](https://ntecodex.com/faq)** (New Herland District). Bronze, Silver, and Gold Carrota are used in the "Rewind" gacha to obtain Modules for your character's Console. Higher difficulty stages (Hunter Level 30+) are required for Gold Carrota.
 *   **Mhm! Coins:** Obtained daily at **Nacupeda’s Pool** in Illusion Town by selecting "Make a Sincere Wish." After collecting 100 Mhm! Coins, you can purchase the S-Class Arc **"Your Happiness is Priceless"** from the exchange shop.
 *   **Beetle Coins:** Earned primarily through Tycoon Level milestones (5,000 to 7,500 per level). These are spent in the **Hunter Exchange** to buy Annulith and high-tier upgrade materials.
 

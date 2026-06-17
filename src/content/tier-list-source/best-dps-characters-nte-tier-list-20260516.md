@@ -98,7 +98,7 @@ Jiuyuan is the premier S-rank character from the standard banner. She specialize
 
 Chiz has climbed the tier list as veteran players have progressed through the City Tycoon system. Her damage uniquely scales with the player's current "Fons" (in-game currency) balance. As the Lobby Manager of Pink Paws Bank, Chiz rewards players who manage their urban economy well. While her base multipliers are standard, the bonus damage gained from a high Fons reserve allows her to compete with limited S-class units, making her the most powerful "free" DPS option available after completing her associated quests.
 
-**Break DMG Efficiency Comparison:**
+**Break DMG [Efficiency Comparison](https://ntecodex.com/guides/norma-stun-efficiency-comparison-zzz-3-0-gear-guide):**
 *   **Daffodil:** 10/10 (Highest in-game)
 *   **Nanally:** 8.5/10 (High via Critical Riposte)
 *   **Mint:** 7/10 (Consistent multi-hits)

@@ -96,7 +96,7 @@ Not every support is an ATK buffer. **Fadia**, a premier healer and shielder, re
 *   **Haniel:** As an A-class character, she is highly accessible but requires high-investment support disks to compete with S-class alternatives. Speedy Hedgehog is her best bet to stay relevant in the late-game meta.
 *   **Hotori:** Hotori has the unique ability to "record" and "replay" ally skills. Because her utility is tied to her Skill usage, Shadow Creed is often superior for her, allowing her to buff the team every time she executes a recorded skill.
 *   **Fadia:** Purely HP and Shield-focused. Stick to Tiny Big Adventure.
-*   **Adler:** Adler provides significant Break damage. While he can use Speedy Hedgehog, some players prefer sets that increase **Break Intensity** to 100% to stun bosses faster.
+*   **Adler:** Adler provides significant [Break damage](https://ntecodex.com/faq). While he can use Speedy Hedgehog, some players prefer sets that increase **Break Intensity** to 100% to stun bosses faster.
 
 ### Optimizing the Module Grid (The Tetris Puzzle)
 

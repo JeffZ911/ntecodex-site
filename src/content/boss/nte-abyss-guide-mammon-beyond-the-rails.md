@@ -136,7 +136,7 @@ Choosing the right Arcs (weapons) can significantly reduce your clear times.
 | :--- | :--- | :--- |
 | Nanally | [information unavailable] | Increases Anima DMG during Stagger |
 | Hathor | Plasma-type Arcs | Boosts Lakshana Break Efficiency |
-| Zero | Solid-type Arcs | Increases Esper Meter generation rate |
+| Zero | Solid-type Arcs | Increases [Esper Meter](https://ntecodex.com/faq) generation rate |
 | Edgar | [information unavailable] | Enhances healing based on Max HP |
 
 For a more detailed breakdown of character-specific equipment, see our Hathor team comps guide.

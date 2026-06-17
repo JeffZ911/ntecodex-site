@@ -136,7 +136,7 @@ For bosses with massive "Break" bars, the "Break Masters" comp is the most effic
 
 Daffodil is currently the fastest "Breaker" in Neverness to Everness. Her heavy weapon swings deal massive poise damage. By rotating through Fadia and Adler to trigger the Discord Trio reaction, you can keep most bosses in a permanent state of stagger.
 
-**Break Efficiency Comparison:**
+**Break [Efficiency Comparison](https://ntecodex.com/guides/norma-stun-efficiency-comparison-zzz-3-0-gear-guide):**
 *   **Daffodil:** 100% (Baseline for Break Speed)
 *   **Chiz:** 65% (High frequency, low impact per hit)
 *   **Nanally:** 40% (Summon-dependent)
