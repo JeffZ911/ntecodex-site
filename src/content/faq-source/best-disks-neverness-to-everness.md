@@ -155,7 +155,7 @@ Upgrading Arcs requires two types of materials: **EXP Dyes** and **Ascension Mat
 
 ### Scarborough Fair: Pulling for S-Rank Arcs
 
-The gacha system in Neverness to Everness is called **Scarborough Fair**. It uses a board-game mechanic where you roll **Solid Dice** (for limited banners) or **Fabricated Dice** (for standard banners).
+The [gacha system](https://ntecodex.com/faq) in Neverness to Everness is called **Scarborough Fair**. It uses a board-game mechanic where you roll **Solid Dice** (for limited banners) or **Fabricated Dice** (for standard banners).
 *   **Arc Research Program:** This is the dedicated weapon banner. It requires **Tri-Keys** instead of dice.
 *   **Pity Mechanics:** S-Rank Arcs are guaranteed within 80 pulls (8 multis). There is no "50/50" on the weapon banner; the featured Arc is the guaranteed S-Rank pull.
 *   **Board Modification:** After 70 pulls without an S-Rank, the board "modifies," significantly increasing the number of S-Rank tiles until you land on one.

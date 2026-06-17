@@ -143,7 +143,7 @@ A T5 **Call of the Twisted City** provides a 20% Healing Bonus, which often outp
 
 
 *   **Best Healer Characters Tier List:** Discover how Fadia and Edgar rank against the full roster of Espers in Hethereau.
-*   **How to Farm Arcs in Scarborough Fair:** A guide to the best activities for obtaining A-rank and B-rank weapon drops.
+*   **How to Farm Arcs in [Scarborough Fair](https://ntecodex.com/faq):** A guide to the best activities for obtaining A-rank and B-rank weapon drops.
 *   **Fadia Build Guide: Best Cartridges and Stats:** Learn which Cartridge sets maximize Fadia's damage redirection and self-healing.
 *   **NTE Elemental Synergy and Esper Cycles Guide:** Understand how to trigger Blossom, Charge, and Discord reactions to boost your team's efficiency.
 

@@ -103,7 +103,7 @@ The core of NTE’s high-level DPS is the Esper Cycle. By chaining neighboring e
 3.  **Trio Esper Cycle:** If your meter is full, activate all three character Ultimates in rapid succession. Chaining Lakshana into Psyche creates a "Stain" effect that amplifies all elemental damage for the duration of the Downed state.
 
 **The Setup-Break-Burst Checklist:**
-*   [ ] Build Esper Meter using basic attacks and Perfect Dodges.
+*   [ ] Build [Esper Meter](https://ntecodex.com/faq) using basic attacks and Perfect Dodges.
 *   [ ] Use "Critical Riposte" to deplete the white Break Meter.
 *   [ ] Wait for the "Downed" animation to fully trigger.
 *   [ ] Switch to your DPS Carry (e.g., [Nanally](/characters/nanally-guide-nte)).

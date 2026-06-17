@@ -94,7 +94,7 @@ Currently the most sought-after support Arc in the game, "Good Boy's Grand Adven
 This Arc is designed for "off-field" supports. Its effects trigger even when the character holding the Arc is not the active unit on the field. This allows characters like Sakiri to provide continuous ATK buffs to the active DPS without needing to take up valuable field time.
 
 **Hethereau's Keeper**
-This is a unique S-Rank Arc that cannot be pulled from "The Fair" (the gacha system). Instead, it is a rare drop or reward associated with the 5-star Wanted Level boss, Officer Whisker. Its unique effect allows the user to summon a spectral version of Officer Whisker to the battlefield. This summon provides defensive utility and shreds enemy resistances, making it an excellent choice for hybrid or tankier characters who need to contribute to team damage.
+This is a unique S-Rank Arc that cannot be pulled from "The Fair" (the [gacha system](https://ntecodex.com/faq)). Instead, it is a rare drop or reward associated with the 5-star Wanted Level boss, Officer Whisker. Its unique effect allows the user to summon a spectral version of Officer Whisker to the battlefield. This summon provides defensive utility and shreds enemy resistances, making it an excellent choice for hybrid or tankier characters who need to contribute to team damage.
 
 ### How to Obtain 5-Star Disks: Gacha vs. F2P Sources
 

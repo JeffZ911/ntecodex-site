@@ -124,7 +124,7 @@ In the city-building and apartment customization aspect of Neverness to Everness
 
 ### F2P Acquisition: How to Get These Arcs
 You do not need to spend Riftcrystals to obtain these powerful 4-star Arcs.
-*   **Scarborough Fair (Arc Exchange):** Call of the Twisted City can be purchased using U-00NE currency, which is earned by recycling lower-tier Arcs.
+*   **[Scarborough Fair](https://ntecodex.com/faq) (Arc Exchange):** Call of the Twisted City can be purchased using U-00NE currency, which is earned by recycling lower-tier Arcs.
 *   **Anomaly Commissions:** Tears Beneath the Mask is a guaranteed reward for completing the "Call of the Lost" commission and defeating the Nestbound Bird anomaly.
 *   **City Tycoon Rewards:** Progressing through the urban exploration and management mini-games often rewards A-Rank Arc selectors, allowing you to pick the specific weapon your healer needs.
 
