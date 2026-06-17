@@ -79,7 +79,7 @@ While mechanical skill is paramount, the math of NTE still requires a baseline o
 
 Clearing NTE combat challenges successfully relies on three fundamental pillars: mastering the **Esper Cycle**, efficiently depleting the enemy's **Break Meter**, and optimizing character **Cycle Rate**. You must prioritize building "Elemental Lanes" within your team to trigger consistent Duo and Trio reactions such as **Blossom**, **Scorch**, and **Discord**. 
 
-To maximize damage, use defensive mechanics like **Critical Dodge** and **Parrying** offensively; these actions instantly fill Esper Meters and trigger **Critical Ripostes**, which deal massive Break damage. Finally, ensure your team includes a "Break" specialized character, such as Daffodil, to stun bosses quickly and open windows for high-damage Ultimates. Success is found in the rhythm of the swap, not the strength of a single strike.
+To maximize damage, use defensive mechanics like **Critical Dodge** and **Parrying** offensively; these actions instantly fill Esper Meters and trigger **Critical Ripostes**, which deal massive [Break damage](https://ntecodex.com/faq). Finally, ensure your team includes a "Break" specialized character, such as Daffodil, to stun bosses quickly and open windows for high-damage Ultimates. Success is found in the rhythm of the swap, not the strength of a single strike.
 
 ## Detailed Explanation
 

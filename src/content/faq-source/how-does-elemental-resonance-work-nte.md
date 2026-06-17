@@ -71,7 +71,7 @@ The wheel is arranged such that Lakshana is at the top-center, followed clockwis
 
 ### Mastering the Esper Meter and Character Swapping
 
-To trigger any Elemental Resonance effect, the active character must first fill their Esper Meter. This meter is visible as a circular gauge around the character's portrait or as a bar near the health display.
+To trigger any Elemental Resonance effect, the active character must first fill their [Esper Meter](https://ntecodex.com/faq). This meter is visible as a circular gauge around the character's portrait or as a bar near the health display.
 
 There are three primary ways to fill the Esper Meter:
 1.  **Normal and Heavy Attacks:** Consistent damage dealing builds the meter steadily.

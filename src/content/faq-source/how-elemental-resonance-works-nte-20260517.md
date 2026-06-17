@@ -92,7 +92,7 @@ Duo Cycles are the bread and butter of your rotation. When you swap between two 
 Triple Cycle reactions are rare, high-impact events that occur when you execute two Duo Cycles in rapid succession (within a [information unavailable] second window) involving three different elements in a linear sequence on the wheel.
 
 *   **Charge:** Triggered by a sequence that moves clockwise or counter-clockwise through three elements (e.g., Lakshana -> Cosmos -> Anima). This provides a massive burst of energy to the entire team's Ultimate meters.
-*   **Discord:** Triggered when the third character in a sequence hits an enemy already affected by a specific Duo status (like Scorch or Hexed) with a contrasting element. This deals massive Break damage, often instantly shattering the shields of elite anomalies.
+*   **Discord:** Triggered when the third character in a sequence hits an enemy already affected by a specific Duo status (like Scorch or Hexed) with a contrasting element. This deals massive [Break damage](https://ntecodex.com/faq), often instantly shattering the shields of elite anomalies.
 
 ### The Math of Cycle Rate and Meter Generation
 The speed at which you can trigger these reactions is governed by "Cycle Rate." Not all characters generate Esper Meter at the same speed.

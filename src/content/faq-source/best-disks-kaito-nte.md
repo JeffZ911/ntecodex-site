@@ -153,7 +153,7 @@ Looking ahead, the community is closely watching Kaito’s leaks regarding the c
 
 The current featured banner, **"The Ichi-daime,"** which features Nanally, is scheduled to end in late May. Players are advised to save their Annulith if they already have a competent Gas-type character, as the next rotation is rumored to introduce a new S-rank Arc specifically designed for the upcoming "Chaos" elemental reaction.
 
-Understanding the synergy between your Arc (Disk), Cartridges, and Modules is the only way to tackle the endgame content in Hesperia. By following the data-driven insights from community experts and staying updated on the Scarborough Fair rotations, you can ensure your team remains viable as the version 1.0 meta continues to evolve.
+Understanding the synergy between your Arc (Disk), Cartridges, and Modules is the only way to tackle the endgame content in Hesperia. By following the data-driven insights from community experts and staying updated on the [Scarborough Fair](https://ntecodex.com/faq) rotations, you can ensure your team remains viable as the version 1.0 meta continues to evolve.
 
 ## Sources
 

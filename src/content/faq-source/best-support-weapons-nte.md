@@ -107,7 +107,7 @@ If you are looking for shield utility, the A-Rank Arc **Umbrella** is a surprisi
 Breaking an enemy's gauge is the fastest way to deal massive damage in NTE. **Youthful Fantasy** is a Liquid-type Arc that specializes in this mechanic. It increases Break Intensity by 60 and features a unique "Black Tome" seal. Using Support Skills on your team unleashes chains; once two chains are broken, the Black Tome is summoned for 20 seconds. This tome designates enemies and deals Chaos DMG equal to 200% of the wearer's ATK whenever the target takes [Break Damage](https://ntecodex.com/faq). This synergy makes it the best choice for Daffodil or Edgar when they are played in a support capacity.
 
 ### F2P Support Arcs: Maximizing Value with Lower Rarity
-Not every player will pull multiple S-Rank Arcs from the Scarborough Fair. Fortunately, several B-Rank and A-Rank options provide excellent utility:
+Not every player will pull multiple S-Rank Arcs from the [Scarborough Fair](https://ntecodex.com/faq). Fortunately, several B-Rank and A-Rank options provide excellent utility:
 *   **Be Happy (B-Rank):** A Gas-type Arc that restores 12% of the wearer's HP upon defeating an enemy. It is a solid choice for early-game survivability.
 *   **Call of the Twisted City (A-Rank):** A Liquid-type Arc that grants a 12% Healing Bonus for 10 seconds after the wearer uses a Redirect Skill. This is the go-to budget option for healers who lack their signature S-Rank Arcs.
 *   **First Step to Success (B-Rank):** A Solid-type Arc that provides a simple 12% ATK boost for 10 seconds after a Redirect Skill, making it a decent placeholder for offensive supports.
