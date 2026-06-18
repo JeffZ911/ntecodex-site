@@ -122,7 +122,7 @@ Characters in NTE generally fall into roles like Main DPS, Support, or Breaker.
 Since the best farming nodes are locked behind Hunter Levels, reaching Level 30 should be your priority. The fastest way to gain Hunter XP is by completing "City Errands" and clearing the "Anomaly Handbook" tasks. These provide massive chunks of XP without requiring Character Pixels.
 
 ### NTE Gacha Guide: Dice and Board Mechanics
-While you farm for gear, you will also be interacting with the "Scarborough Fair" gacha system to pull for new Arcs and characters. Unlike traditional gacha, NTE uses a unique board-game-inspired mechanic where players roll dice to progress toward a guaranteed "Resonance" (pity). Understanding how to balance your spend between the character banners (like Nanally's "The Ichi-daime") and the weapon banners is crucial for long-term account health.
+While you farm for gear, you will also be interacting with the "[Scarborough Fair](https://ntecodex.com/faq)" [gacha system](https://ntecodex.com/faq) to pull for new Arcs and characters. Unlike traditional gacha, NTE uses a unique board-game-inspired mechanic where players roll dice to progress toward a guaranteed "Resonance" (pity). Understanding how to balance your spend between the character banners (like Nanally's "The Ichi-daime") and the weapon banners is crucial for long-term account health.
 
 ## Sources
 *   Neverness to Everness Official Site — https://nte.hotta.studio/

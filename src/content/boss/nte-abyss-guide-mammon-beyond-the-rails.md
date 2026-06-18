@@ -126,7 +126,7 @@ Building a team around the **Lakshana Meta** is currently the most effective way
 ### F2P Alternative
 *   **Main DPS: Zero (Cosmos)** – While usually a battery, Zero can be built for damage in early Abyss Stops.
 *   **Weakness Breaker: Hathor (Lakshana)** – Even at base investment, her elemental advantage is too good to pass up.
-*   **Utility: [Sakiri](/characters/sakiri-nte-free-5-star-guide/) (Anima)** – Provides crowd control and helps trigger the Charge reaction for energy generation.
+*   **Utility: [Sakiri](/characters/sakiri-nte-free-5-star-guide/) (Anima)** – Provides crowd control and helps trigger the [Charge reaction](https://ntecodex.com/faq) for energy generation.
 *   **Sustain: Edgar (Cosmos)** – The most accessible healer for high-difficulty content.
 
 ### Best Arcs for Bossing

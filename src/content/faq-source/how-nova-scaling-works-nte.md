@@ -109,7 +109,7 @@ Specific characters like Daffodil (Chaos) and Haniel (Psyche) are optimal for No
 ![Related](/img/how-nova-scaling-works-nte/inline-4.webp)
 
 
-Nova is just one part of the broader elemental ecosystem in Neverness to Everness. Understanding how it compares to other reactions helps in team building for the Dreamwalk Corridor.
+Nova is just one part of the broader elemental ecosystem in Neverness to Everness. Understanding how it compares to other reactions helps in team building for the [Dreamwalk Corridor](https://ntecodex.com/faq).
 
 ### NTE Elemental Reaction Tier List
 While Nova is the king of delayed burst damage, other reactions serve different roles. Scorch (Incantation + Chaos) provides high damage over time (DoT), while reactions involving Lakshana often focus on crowd control or defensive utility. Nova currently sits at the top of the "Burst" tier, especially for players who have reached Level 80+ where the base [damage scaling](https://ntecodex.com/faq) becomes overwhelming for most elite enemies.

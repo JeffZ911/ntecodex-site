@@ -99,7 +99,7 @@ The Blossom reaction is currently a cornerstone of the meta. When you swap from 
 
 Triple Cycles are advanced maneuvers that require you to cycle through three characters of a specific "Trio" group in succession. To trigger these, all three characters in your party must belong to either the Top Trio or the Bottom Trio.
 
-**The Charge Reaction (Top Trio)**
+**The [Charge Reaction](https://ntecodex.com/faq) (Top Trio)**
 *   **Elements:** Lakshana, Cosmos, Anima.
 *   **How to trigger:** Complete a full rotation between these three elements (e.g., Lakshana -> Cosmos -> Anima).
 *   **Effect:** Upon completing the third swap, the team enters a "Charged State." This restores a massive amount of Energy to all characters and reduces the cooldown of Esper Skills by [exact value pending official confirmation]. It is the go-to strategy for teams that rely on frequent Ultimate usage.
