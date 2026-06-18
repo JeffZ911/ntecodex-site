@@ -107,7 +107,7 @@ Certain characters are designed specifically to manipulate the Esper Meter more 
 
 The elemental system in NTE is divided into six primary elements: Lakshana, Cosmos, Anima, Incantation, Chaos, and Psyche. These elements occupy specific positions on the elemental wheel, and their interactions determine the type of reaction triggered.
 
-The **Charge** reaction is a unique synergy specifically designed for energy generation. It is typically triggered by combining the Blossom and Remora statuses. When a Charge reaction occurs, it creates a localized energy field that restores a portion of the Esper Meter for all party members, even those currently off-field. This is a vital strategy for teams that rely on expensive Resonance Skills or have naturally low Cycle Rate stats.
+The **Charge** reaction is a unique synergy specifically designed for energy generation. It is typically triggered by combining the Blossom and Remora statuses. When a [Charge reaction](https://ntecodex.com/faq) occurs, it creates a localized energy field that restores a portion of the Esper Meter for all party members, even those currently off-field. This is a vital strategy for teams that rely on expensive Resonance Skills or have naturally low Cycle Rate stats.
 
 ### Advanced Rotation Strategies for 100% Up-Time
 

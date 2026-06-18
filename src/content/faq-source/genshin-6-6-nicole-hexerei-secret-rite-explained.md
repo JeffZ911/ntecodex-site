@@ -53,7 +53,7 @@ As the meta shifts toward faction-specific synergies, players are eager to under
 
 *   What is the new Hexerei: [Secret Rite](https://ntecodex.com/faq) mechanic introduced in Genshin Impact 6.6?
 *   How does the character Nicole Reeyn utilize this [secret rite](https://ntecodex.com/faq) in her kit?
-*   What are the requirements to unlock the Secret Rite for Hexenzirkel members?
+*   What are the requirements to unlock the [Secret Rite](https://ntecodex.com/faq) for Hexenzirkel members?
 *   How does this system compare to the Esper Resonance found in Neverness to Everness (NTE)?
 
 ### The Buzz Around Version 6.6

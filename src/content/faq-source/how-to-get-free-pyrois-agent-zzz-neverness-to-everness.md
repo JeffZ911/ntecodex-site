@@ -58,14 +58,14 @@ With the simultaneous buzz surrounding the Version 3.0 update of Zenless Zone Ze
 
 This guide clarifies the requirements for obtaining free high-rarity units in both games. We will identify:
 *   Whether Pyrois is a character in Neverness to Everness or Zenless Zone Zero.
-*   The exact gameplay milestones required to unlock Pyrois for free.
+*   The exact gameplay milestones required to [unlock Pyrois](https://ntecodex.com/faq) for free.
 *   The roster of free S-Rank and A-Rank characters available in Neverness to Everness at launch.
 
 ### Is Pyrois in Neverness to Everness?
 No, **Pyrois** is not a character in Neverness to Everness. Pyrois is the first playable combat version of the Phaethon Proxies in Zenless Zone Zero. While both games share an urban aesthetic, Pyrois is exclusive to HoYoverse's title, whereas NTE features its own S-Rank protagonists like Zero and Chiz.
 
 ### The "Agent ZZZ" Keyword Explained
-Search trends for "Agent ZZZ" typically refer to the playable characters in Zenless Zone Zero. The release of Version 3.0 has specifically tied this keyword to Pyrois, an S-Rank Ether Attack Agent. In contrast, Neverness to Everness uses the term "Espers" to describe its supernatural combatants.
+Search trends for "[Agent ZZZ](https://ntecodex.com/faq)" typically refer to the playable characters in Zenless Zone Zero. The release of Version 3.0 has specifically tied this keyword to Pyrois, an S-Rank Ether Attack Agent. In contrast, Neverness to Everness uses the term "Espers" to describe its supernatural combatants.
 
 ## Direct Answer
 
@@ -76,7 +76,7 @@ Pyrois is an S-Rank Ether DPS Agent in Zenless Zone Zero, introduced in the Vers
 
 In Neverness to Everness, there is no Esper named Pyrois, but the game is remarkably generous with its own S-Rank units. Players automatically receive **Zero** at the start of the game and can earn **Chiz** by reaching Level 18 in the City Tycoon management system. Furthermore, NTE provides an S-Rank Selector box after completing 50 pulls on the **Strange Encounters** Standard Board.
 
-| Character | Game | Rarity | Element/Role | How to Get Free |
+| Character | Game | Rarity | Element/Role | How to [Get Free](https://ntecodex.com/faq) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Pyrois** | ZZZ | S-Rank | Ether / Attack | Complete Roscaelifer Story Ch. 1 |
 | **Zero** | NTE | S-Rank | Cosmos / Main DPS | Prologue Selection |
@@ -110,7 +110,7 @@ You unlock the first copy of Chiz at Tycoon Level 18. As you continue to level u
 *   **Level 21, 27, 35, 39, 43:** Unlocks for her signature Arc.
 
 ### NTE Gacha Mechanics: The Scarborough Fair Board
-Neverness to Everness uses a unique gacha system called Scarborough Fair. Instead of a standard "pull" animation, players roll dice to move a piece called a **Chuppa** across a board. Each tile landed on provides a reward, ranging from upgrade materials to S-Class characters.
+Neverness to Everness uses a unique [gacha system](https://ntecodex.com/faq) called [Scarborough Fair](https://ntecodex.com/faq). Instead of a standard "pull" animation, players roll dice to move a piece called a **Chuppa** across a board. Each tile landed on provides a reward, ranging from upgrade materials to S-Class characters.
 
 There are two primary types of dice:
 *   Fabricated Dice: Used for the **Strange Encounters** Standard Board.

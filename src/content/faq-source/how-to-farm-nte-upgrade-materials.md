@@ -49,7 +49,7 @@ This guide focuses on:
 
 Efficient farming in Neverness to Everness is a matter of targeting the correct "Stage" or "Anomaly" based on your current progression bottleneck. For character levels, Houdinii’s Magic Stage is the primary destination. For Arcs (weapons), players must visit the Kaleidoscope for Dyes and the Bubble Can Factory for ascension materials.
 
-The Module system, which provides significant stat boosts and set bonuses, is tied to the Rabbit Hole in the New Herland District. Here, you farm Carrota to use in the Rewind gacha system. Urban progression, including car modifications and property management, relies on Fons, which are earned through City Tycoon activities and various city commissions.
+The Module system, which provides significant stat boosts and set bonuses, is tied to the Rabbit Hole in the New Herland District. Here, you farm Carrota to use in the Rewind [gacha system](https://ntecodex.com/faq). Urban progression, including car modifications and property management, relies on Fons, which are earned through City Tycoon activities and various city commissions.
 
 To maximize efficiency, players should utilize the Butler auto-farm system for repeatable stages and ensure they collect their daily Hamster Ball rewards, which provide a passive influx of basic resources.
 
