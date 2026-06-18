@@ -86,7 +86,7 @@ Duo Cycles are the bread and butter of your rotation. When you swap between two 
 | **Anima + Incantation** | Hexed | Deals a massive burst of Force damage and increases [Break damage](https://ntecodex.com/faq) for 5 seconds. |
 | **Incantation + Chaos** | Scorch | Ignites the target, dealing Chaos damage over time based on the incoming character's Attack. |
 | **Chaos + Psyche** | Nova | Triggers a wide-area explosion that shreds enemy Defense by [information unavailable]. |
-| **Psyche + Lakshana** | Stain | Marks enemies; attacking marked enemies restores Esper Meter for the whole team. |
+| **Psyche + Lakshana** | Stain | Marks enemies; attacking marked enemies restores [Esper Meter](https://ntecodex.com/faq) for the whole team. |
 
 ### Advanced Combat: Triggering Triple Cycle Reactions
 Triple Cycle reactions are rare, high-impact events that occur when you execute two Duo Cycles in rapid succession (within a [information unavailable] second window) involving three different elements in a linear sequence on the wheel.

@@ -39,7 +39,7 @@ With the arrival of Version 6.6, the long-awaited debut of the Hexenzirkel has f
 
 # Genshin 6.6 Nicole Hexerei Secret Rite Explained (NTE Guide)
 
-The Hexerei: Secret Rite is a faction-based team passive in Genshin Impact 6.6 that activates when two or more Hexerei characters are in a party, granting unique buffs like Nicole's 150% Arcane Projection DMG boost.
+The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a faction-based team passive in Genshin Impact 6.6 that activates when two or more Hexerei characters are in a party, granting unique buffs like Nicole's 150% Arcane Projection DMG boost.
 
 ## Question Restated
 
@@ -60,7 +60,7 @@ As the meta shifts toward faction-specific synergies, players are eager to under
 Version 6.6, titled "Luna VII: Truth Amongst the Pages of Purana," has been hailed as a turning point for veteran players. By introducing the first playable Hexenzirkel member, Nicole Reeyn, HoYoverse has finally bridged years of cryptic lore with high-impact gameplay. The centerpiece of this update is the Hexerei system, a mechanic that rewards players for grouping characters tied to the legendary coven of witches.
 
 ### Why NTE Players Are Watching the Hexerei Update
-Since the global launch of Neverness to Everness (NTE) on April 29, 2026, the gacha community has been closely comparing its urban "Esper" synergies with Genshin's evolving systems. NTE’s Scarborough Fair gacha and its attribute-based Esper Resonance have set a high bar for team-building depth. Genshin's response—the Hexerei: Secret Rite—offers a lore-driven alternative that specifically targets long-time fans of the Mondstadt cast.
+Since the global launch of Neverness to Everness (NTE) on April 29, 2026, the gacha community has been closely comparing its urban "Esper" synergies with Genshin's evolving systems. NTE’s [Scarborough Fair gacha](https://ntecodex.com/faq) and its attribute-based Esper Resonance have set a high bar for team-building depth. Genshin's response—the Hexerei: Secret Rite—offers a lore-driven alternative that specifically targets long-time fans of the Mondstadt cast.
 
 ## Direct Answer
 
@@ -124,7 +124,7 @@ The debate between NTE and Genshin players often centers on flexibility versus f
 *   **NTE's Esper Synergy**: In Neverness to Everness, the Esper Resonance system is highly flexible. It relies on Anima, Cosmos, or Chaos attributes. For instance, Hotori (Cosmos) can synergize with Nanally (Anima) to trigger powerful Esper Cycles regardless of their lore background.
 *   **Genshin's Secret Rite**: This system is more rigid but offers higher power ceilings for specific lore groups. The Hexerei: Secret Rite rewards players for building a "Coven Team," which feels more integrated into the world's narrative.
 
-| Feature | NTE (Esper Resonance) | Genshin 6.6 (Secret Rite) |
+| Feature | NTE (Esper Resonance) | [Genshin 6](https://ntecodex.com/faq).6 (Secret Rite) |
 | :--- | :--- | :--- |
 | **Synergy Type** | Attribute-based | Faction-locked |
 | **Unlock Method** | Character Level/Ascension | "Witch's Homework" Quest |
