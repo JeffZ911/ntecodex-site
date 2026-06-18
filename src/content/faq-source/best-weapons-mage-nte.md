@@ -120,7 +120,7 @@ To maximize these weapons, you must pair them with the correct Cartridge sets.
 
 
 ### How to Get Free S-Rank Arcs
-While many S-Rank Arcs are found in the "Scarborough Fair" weapon banner, several can be farmed through gameplay:
+While many S-Rank Arcs are found in the "[Scarborough Fair](https://ntecodex.com/faq)" weapon banner, several can be farmed through gameplay:
 *   **Raging Flames:** Obtained by defeating the **Headless Rider** world boss. You must encounter him at Fox Window Street around 20:00 in-game time.
 *   **Eternal Waltz:** Unlocked by completing the "Arachne" story quest and revisiting the boss in the Anomaly Realm.
 *   **Day Off:** Obtained through the "Solar Eclipse" hidden quest. You must find the NPC "Eclipse" in five different locations across Hethereau City during specific weather conditions.

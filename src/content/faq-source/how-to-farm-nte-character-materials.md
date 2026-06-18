@@ -162,7 +162,7 @@ Character progression doesn't end with levels and talents. To truly optimize you
 
 ### The Hunter Exchange and Mall Shops
 
-If you find yourself short on a specific material and out of Character Pixels, check the **Hunter Exchange**. Here, you can spend **Lost Pieces** (obtained from the gacha system) to buy Hunter Guides, Whisper materials, and even Esper Ability Books.
+If you find yourself short on a specific material and out of Character Pixels, check the **Hunter Exchange**. Here, you can spend **Lost Pieces** (obtained from the [gacha system](https://ntecodex.com/faq)) to buy Hunter Guides, Whisper materials, and even Esper Ability Books.
 
 The **Mall** in Hethereau also features a rotating stock of materials that can be purchased with **Fons**. This is a great way to use your "City Life" progress to speed up your "Combat Life" progress.
 

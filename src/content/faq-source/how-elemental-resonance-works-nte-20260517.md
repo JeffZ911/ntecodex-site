@@ -47,7 +47,7 @@ While the Esper Cycle handles the immediate "reactions" during combat, Elemental
 ![Direct Answer](/img/how-elemental-resonance-works-nte-20260517/inline-2.webp)
 
 
-Elemental Resonance in Neverness to Everness is primarily managed through the "Esper Cycle" system, which triggers when you swap between characters with adjacent elements on the elemental wheel. Combat revolves around filling the Esper Meter through attacks or parries and swapping when the character portrait "Glows" to trigger Duo or Triple Cycle reactions.
+Elemental Resonance in Neverness to Everness is primarily managed through the "Esper Cycle" system, which triggers when you swap between characters with adjacent elements on the elemental wheel. Combat revolves around filling the [Esper Meter](https://ntecodex.com/faq) through attacks or parries and swapping when the character portrait "Glows" to trigger Duo or Triple Cycle reactions.
 
 There are six primary elements in Hethereau, each serving a specific role in the combat ecosystem:
 

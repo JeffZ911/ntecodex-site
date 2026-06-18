@@ -133,7 +133,7 @@ While the Tower of Adversity is the primary source of Astrites, other modes offe
 
 ### Preparing for Version 3.4 Updates
 With Version 3.4 on the horizon, drip marketing has hinted at new challenges that may alter the Tower meta.
-*   **New Characters:** Rumors regarding Lucy and Rebecca suggest a shift toward undisclosed.
+*   **New Characters:** Rumors regarding [Lucy and Rebecca](https://ntecodex.com/guides/wuwa-3-4-lucy-and-rebecca-collab-faq-gear-guide) suggest a shift toward undisclosed.
 *   **Level Cap Increase:** As enemies in the Hazard Zone now reach Level 100 and beyond, optimizing your Echoes with maxed-out offensive stats (Crit Rate, Crit Damage, and Attribute DMG) is mandatory. Ensure you are farming the "Fallacy of No Return" weekly boss to upgrade your Forte levels to the maximum.
 
 To stay ahead, focus on horizontal investment. Having nine well-geared Resonators is far more valuable for the Tower of Adversity than having one "perfect" team that runs out of Vigor after the first two stages.

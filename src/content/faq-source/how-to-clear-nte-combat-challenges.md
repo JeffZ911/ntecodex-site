@@ -110,7 +110,7 @@ For example, Cosmos and Anima are neighbors, so combining them triggers **Blosso
 | **Remora** | Cosmos + Lakshana | Creates a gravity well that pulls in smaller enemies. |
 | **Hexed** | Anima + Incantation | Increases the damage taken by the enemy for 8 seconds. |
 | **Scorch** | Incantation + Chaos | Deals high-frequency Chaos damage (Burn effect). |
-| **Nova** | Chaos + Psyche | Triggers an immediate explosion that deals massive Break damage. |
+| **Nova** | Chaos + Psyche | Triggers an immediate explosion that deals massive [Break damage](https://ntecodex.com/faq). |
 | **Stain** | Psyche + Lakshana | Reduces enemy resistance to all elemental damage. |
 
 The "Discord" reaction (combining **Scorch** and **Nova**) is currently the most effective method for shredding boss Break bars in the endgame meta. This requires a three-element chain, usually starting with an Incantation character to set the Scorch foundation.

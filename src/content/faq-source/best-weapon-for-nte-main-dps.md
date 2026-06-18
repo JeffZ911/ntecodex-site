@@ -159,7 +159,7 @@ Arcs should be paired with the correct **Cartridges** (NTE's version of gear set
 
 ### Where to Farm High-Rank Arcs
 
-While many S-rank Arcs are found in the **Scarborough Fair** gacha (specifically the "Bright Moon Special" or "The Ichi-daime" banners), others can be earned through gameplay:
+While many S-rank Arcs are found in the **[Scarborough Fair](https://ntecodex.com/faq)** gacha (specifically the "Bright Moon Special" or "The Ichi-daime" banners), others can be earned through gameplay:
 *   **Raging Flames:** Dropped by the **Headless Rider** boss. You must encounter this boss at Fox Window Street at night (around 20:00) to trigger the fight.
 *   **Song of the Whale:** Earned by completing the **"Deep Blue Sorrow"** Anomaly Commission and defeating the Sea Prisoner.
 *   **City Tycoon Hunter Exchange:** High-level players can trade "Anomaly Shards" for specific A-rank and S-rank Arcs in the Hunter Exchange shop.

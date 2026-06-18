@@ -73,7 +73,7 @@ The wheel is arranged such that Lakshana is at the top-center, followed clockwis
 
 To trigger any Elemental Resonance effect, the active character must first fill their [Esper Meter](https://ntecodex.com/faq). This meter is visible as a circular gauge around the character's portrait or as a bar near the health display.
 
-There are three primary ways to fill the Esper Meter:
+There are three primary ways to fill the [Esper Meter](https://ntecodex.com/faq):
 1.  **Normal and Heavy Attacks:** Consistent damage dealing builds the meter steadily.
 2.  **Esper Skills:** Using a character's unique abilities provides a significant chunk of meter.
 3.  **Perfect Parry:** This is the most efficient method. Executing a "Perfect Parry" against an incoming enemy attack triggers an "Instant Fill" mechanic, immediately capping the meter and allowing for an instant swap-reaction.

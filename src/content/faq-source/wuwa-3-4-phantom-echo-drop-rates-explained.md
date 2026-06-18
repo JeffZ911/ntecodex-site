@@ -75,7 +75,7 @@ Unlike WuWa's Echo system, NTE uses a "Tetris" style gear placement system with 
 
 ### Current Drop Rate Statistics
 
-While WuWa 3.4 maintains a steady drop rate for standard Echoes at Data Bank 20+, the Phantom variants remain elusive. In contrast, NTE provides more transparency through its Anomaly Zone interface. On Difficulty III, the chance for an S-Class drop is estimated by the community to be around 2-5%. However, upon reaching Appraisal Level IV and moving to Difficulty IV zones, this rate jumps to approximately 15% per run.
+While [WuWa 3](https://ntecodex.com/guides/wuwa-3-4-lucy-and-rebecca-collab-faq-gear-guide).4 maintains a steady drop rate for standard Echoes at Data Bank 20+, the Phantom variants remain elusive. In contrast, NTE provides more transparency through its Anomaly Zone interface. On Difficulty III, the chance for an S-Class drop is estimated by the community to be around 2-5%. However, upon reaching Appraisal Level IV and moving to Difficulty IV zones, this rate jumps to approximately 15% per run.
 
 ### The Appraisal Level Threshold
 
