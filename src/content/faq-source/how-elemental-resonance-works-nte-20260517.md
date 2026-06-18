@@ -61,7 +61,7 @@ There are six primary elements in Hethereau, each serving a specific role in the
 | **Psyche** | Speed / Energy Gain | Enhances attack speed and meter generation. |
 
 ### The Core Mechanic: Swapping and Reacting
-To trigger a reaction, you must first fill the Esper Meter of the active character. Once full, the portraits of your off-field characters will glow. Swapping to a character whose element is a neighbor on the Esper Wheel triggers a Duo Cycle reaction. For example, swapping from a Cosmos character to an Anima character triggers the "Blossom" reaction. If you swap to a non-adjacent element, you lose the opportunity for a reaction, though the swap still occurs.
+To trigger a reaction, you must first fill the [Esper Meter](https://ntecodex.com/faq) of the active character. Once full, the portraits of your off-field characters will glow. Swapping to a character whose element is a neighbor on the Esper Wheel triggers a Duo Cycle reaction. For example, swapping from a Cosmos character to an Anima character triggers the "Blossom" reaction. If you swap to a non-adjacent element, you lose the opportunity for a reaction, though the swap still occurs.
 
 ### Resonance vs. Reactions: Understanding the Difference
 It is vital to distinguish between these two terms. A **Reaction** is the immediate combat effect (like an explosion or a freeze) that happens during a swap. **Resonance** refers to the passive stat increases or mechanic enhancements provided by character traits. For instance, [Nanally](/characters/nanally-guide-nte) provides a Resonance passive that buffs the damage of all "Blossom" reactions triggered by the team, regardless of whether she is currently the active character on the field.

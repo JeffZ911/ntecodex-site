@@ -124,7 +124,7 @@ By combining these characters, you aren't just triggering the Blossom reaction; 
 
 As you obtain duplicates of characters and progress through their "Awakening" (often abbreviated as A1-A6), you unlock "Awakening Resonances." These are powerful, permanent upgrades to how that character interacts with the elemental system.
 
-*   **A3 Resonance:** Usually focuses on resource management. For many characters, A3 allows the Esper Meter to fill [information unavailable]% faster or provides a small stat boost when a Duo Cycle is triggered.
+*   **A3 Resonance:** Usually focuses on resource management. For many characters, A3 allows the [Esper Meter](https://ntecodex.com/faq) to fill [information unavailable]% faster or provides a small stat boost when a Duo Cycle is triggered.
 *   **A6 Resonance (Ultimate Resonance):** This is the pinnacle of a character's kit. An A6 Resonance often fundamentally changes a reaction. For instance, an A6 Chaos character might cause the Scorch reaction to explode at the end of its duration, dealing massive AOE damage that scales with the character's total Attack power.
 
 Because A6 effects are so transformative, they often dictate which "Element Enabler" is considered top-tier. A character with a weak base kit might become a meta-defining support solely due to the strength of their A6 Resonance buff.

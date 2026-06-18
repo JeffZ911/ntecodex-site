@@ -134,7 +134,7 @@ Understanding how to farm currency is only half the battle; knowing where to spe
 
 ### NTE Gacha System and Pity Explained
 
-The gacha in Neverness to Everness is called the **Scarborough Fair**. It uses a "Dice Board" system where your character moves across a board to land on rewards.
+The gacha in Neverness to Everness is called the **[Scarborough Fair](https://ntecodex.com/faq)**. It uses a "Dice Board" system where your character moves across a board to land on rewards.
 
 *   **Hard Pity:** You are guaranteed an S-Rank character at **90 pulls**.
 *   **No 50/50:** Unlike many other urban RPGs, NTE does not have a 50/50 system on its limited banners. If you pull an S-Rank on a limited character banner, it is guaranteed to be the featured character.
@@ -172,7 +172,7 @@ By combining the passive income of the Cafe by Origen with the bi-weekly burst o
 
 - Neverness to Everness Official Website — https://www.nevernesstoeverness.com/
 - GameRant: All Currencies in Neverness to Everness
-- Dexerto: NTE Gacha System and Pity Explained
+- Dexerto: NTE [Gacha System](https://ntecodex.com/faq) and Pity Explained
 - Games.gg: How to Farm Fons Fast in NTE
 - LootBar: Pink Paws Heist and City Tycoon Guide
 - GameWith: City Stamina and Hethereau Hobbies

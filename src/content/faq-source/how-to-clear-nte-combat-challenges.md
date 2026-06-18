@@ -122,7 +122,7 @@ Every elite enemy and boss in NTE has a white **Break Meter** located beneath th
 To clear challenges like Beyond the Rails, you must deplete this bar as fast as possible. This is achieved through:
 1.  **Critical Dodge:** When an enemy attacks and a **Red Flash** appears, dodging at the precise moment triggers a slow-motion window and refills a portion of your active character's Esper Meter.
 2.  **Parrying:** Certain heavy attacks are indicated by a **Double Red Circle**. Attacking into this indicator with a melee character or a specific defensive skill triggers a Parry.
-3.  **Critical Riposte:** Following a successful Parry or a series of high-Break attacks, the enemy will enter a "Vulnerable" state. Tapping the swap button during this window triggers a Critical Riposte, which deals a massive chunk of Break damage.
+3.  **Critical Riposte:** Following a successful Parry or a series of high-Break attacks, the enemy will enter a "Vulnerable" state. Tapping the swap button during this window triggers a Critical Riposte, which deals a massive chunk of [Break damage](https://ntecodex.com/faq).
 
 ### Top Team Compositions for High-Difficulty Content
 
