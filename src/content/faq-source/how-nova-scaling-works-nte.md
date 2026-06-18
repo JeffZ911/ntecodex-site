@@ -36,7 +36,7 @@ Maximizing Cognito burst damage requires a deep understanding of how elemental i
 *Related: [Best Gaming Gear for Optimizing NTE Chaos vs Psyche Reaction Damage in](/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide) · [Best Gaming Gear for 8-Hour Gacha Grinding Sessions in WuWa 3.4](/guides/wuwa-3-4-lucy-vs-rebecca-gear-comparison) · [Best Gaming Gear for Comparing High-Fidelity Character Models in ZZZ 2](/guides/zzz-2-1-yuzuha-vs-alice-gear-comparison)*
 
 
-Understanding the nuances of the combat system is vital for clearing endgame challenges like the Dreamwalk Corridor. Players often look for the specific levers that move the needle on [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide), especially when moving away from traditional Attack-based builds.
+Understanding the nuances of the combat system is vital for clearing endgame challenges like the [Dreamwalk Corridor](https://ntecodex.com/faq). Players often look for the specific levers that move the needle on [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide), especially when moving away from traditional Attack-based builds.
 
 ### Defining Nova in the NTE Combat System
 Nova is a transformative reaction triggered when a target is afflicted with both [Chaos](https://www.reddit.com/r/NevernessToEverness/comments/combat_mechanics_chaos_psyche/) and Psyche elements. Unlike standard hit-based damage, Nova does not trigger immediately. Instead, it places a volatile mark on the enemy that functions as a timed explosive. This "Cognito burst" is the primary source of damage for teams built around these two elements, often serving as the "nuke" in a rotation.

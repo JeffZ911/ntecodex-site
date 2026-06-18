@@ -73,7 +73,7 @@ A soft pity mechanic known as **Board Modification** triggers at 70 pulls, which
 
 ### The Scarborough Fair Board Gacha System
 
-Instead of a standard "summon" button that triggers a cinematic, NTE uses a Monopoly-style visualizer called the Scarborough Fair. Players roll dice to move a game piece called a **Chuppa** across various tiles on a circular board. Each dice roll represents one "pull" and costs 160 Annulith. 
+Instead of a standard "summon" button that triggers a cinematic, NTE uses a Monopoly-style visualizer called the [Scarborough Fair](https://ntecodex.com/faq). Players roll dice to move a game piece called a **Chuppa** across various tiles on a circular board. Each dice roll represents one "pull" and costs 160 Annulith. 
 
 The Chuppa moves between 1 and 6 spaces per roll. While the movement feels interactive, the rewards are determined by the underlying RNG logic common to all gacha games. Every tile you land on provides a reward, ranging from upgrade materials to top-tier characters. This system makes the process of building pity feel more tangible, as you can physically see your piece approaching high-value tiles on the map.
 

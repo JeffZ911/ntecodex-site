@@ -95,7 +95,7 @@ Triple Cycle reactions are rare, high-impact events that occur when you execute 
 *   **Discord:** Triggered when the third character in a sequence hits an enemy already affected by a specific Duo status (like Scorch or Hexed) with a contrasting element. This deals massive [Break damage](https://ntecodex.com/faq), often instantly shattering the shields of elite anomalies.
 
 ### The Math of Cycle Rate and Meter Generation
-The speed at which you can trigger these reactions is governed by "Cycle Rate." Not all characters generate Esper Meter at the same speed.
+The speed at which you can trigger these reactions is governed by "Cycle Rate." Not all characters generate [Esper Meter](https://ntecodex.com/faq) at the same speed.
 
 | Character | Meter Generation Speed | Primary Source of Meter |
 | :--- | :--- | :--- |

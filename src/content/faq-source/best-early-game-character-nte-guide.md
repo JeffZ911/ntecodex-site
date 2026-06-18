@@ -109,7 +109,7 @@ Chiz, on the other hand, represents the reward for engaging with the "City Tycoo
 
 Haniel is the premier A-Rank character in Version 1.0. Her Skill and Ultimate both provide a 40% ATK buff to the active character. This buff scales off Haniel’s own base stats, meaning that as you level her up, the value she provides to your main DPS increases exponentially. In many "Beyond the Rails" team compositions, Haniel is preferred over certain S-Rank units simply because her buffing capability is so consistent.
 
-Adler and Edgar serve as the backbone of team survivability. Adler is a Scorch-aligned shielder. In the early game, where players may not have access to high-tier healing Arcs, Adler’s shields provide a necessary safety net. He is particularly strong when paired with Nanally, as they can trigger Scorch resonance for increased fire damage. Edgar, conversely, focuses on healing and Charge reaction support. He is the go-to sustain unit for teams that rely on high-frequency ability usage, as the Charge reaction helps accelerate energy regeneration.
+Adler and Edgar serve as the backbone of team survivability. Adler is a Scorch-aligned shielder. In the early game, where players may not have access to high-tier healing Arcs, Adler’s shields provide a necessary safety net. He is particularly strong when paired with Nanally, as they can trigger Scorch resonance for increased fire damage. Edgar, conversely, focuses on healing and [Charge reaction](https://ntecodex.com/faq) support. He is the go-to sustain unit for teams that rely on high-frequency ability usage, as the Charge reaction helps accelerate energy regeneration.
 
 ### Understanding Esper Cycles and Team Synergy
 

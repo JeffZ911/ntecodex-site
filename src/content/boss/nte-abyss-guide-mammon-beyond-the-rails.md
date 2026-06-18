@@ -108,7 +108,7 @@ Once Mammon’s Break Gauge is depleted, he will fall to the ground. This is you
 *   **Rotation Tip:** Swap to Lakshana -> Trigger Remora -> Swap to Main DPS -> Use Ultimate.
 
 ### Step 5: Time Management in Beyond the Rails
-In Beyond the Rails mode, your rewards are tied to the "Time Remaining" target. If the timer is running low, prioritize the **Charge reaction (Lakshana + Cosmos + Anima)**. When a target marked by Remora is hit by an Anima effect, your active character generates massive amounts of Ultimate energy, allowing you to chain Ultimates and freeze the countdown timer during the animations.
+In Beyond the Rails mode, your rewards are tied to the "Time Remaining" target. If the timer is running low, prioritize the **[Charge reaction](https://ntecodex.com/faq) (Lakshana + Cosmos + Anima)**. When a target marked by Remora is hit by an Anima effect, your active character generates massive amounts of Ultimate energy, allowing you to chain Ultimates and freeze the countdown timer during the animations.
 
 ## Recommended Team
 
