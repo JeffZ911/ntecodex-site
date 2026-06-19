@@ -162,7 +162,7 @@ To know which 4-star Disks to invest in, you must understand where your characte
 
 ### Beginner Tips for Hethereau Exploration
 
-*   **City Tycoon Rewards:** Progress through the City Tycoon management system early. It is one of the most reliable ways to unlock Chiz and high-quality gear without relying on gacha.
+*   **City Tycoon Rewards:** Progress through the City Tycoon management system early. It is one of the most reliable ways to [unlock Chiz](https://ntecodex.com/faq) and high-quality gear without relying on gacha.
 *   **Stamina Management:** Use your "Character Pixel" (stamina) primarily on Anomaly Commissions that drop the **Speedy Hedgehog** and **Shadow Creed** sets, as these are the most versatile for a growing roster.
 *   **Fons Management:** Some Arcs, like **Contemplative Cat**, scale their damage based on how much "Fons" (currency) you have in your inventory. Avoid over-spending on cosmetics if you are using these specific Disks.
 

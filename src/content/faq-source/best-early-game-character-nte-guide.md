@@ -103,7 +103,7 @@ In the open world, Sakiri’s Nova-aligned attacks can also trigger freeze-like 
 
 Esper Zero is the most resource-efficient unit in the game. Because they are the protagonist, their Awakening materials are often rewarded through story progression rather than requiring luck in the gacha. The "Instant Cycle" mechanic is their standout feature. By timing your character swaps, Esper Zero can trigger a [Discord reaction](https://ntecodex.com/faq) that deals massive percentage-based damage to elite enemies, making them a viable sub-DPS even in teams featuring S-Rank characters.
 
-Chiz, on the other hand, represents the reward for engaging with the "City Tycoon" system. By managing businesses and completing urban development tasks, players can eventually unlock Chiz for free. While her exact stat spread is undisclosed, she is widely considered the best non-gacha DPS option available at launch, filling the gap for players who chose to save their Ethereal Shards for future banners.
+Chiz, on the other hand, represents the reward for engaging with the "City Tycoon" system. By managing businesses and completing urban development tasks, players can eventually [unlock Chiz](https://ntecodex.com/faq) for free. While her exact stat spread is undisclosed, she is widely considered the best non-gacha DPS option available at launch, filling the gap for players who chose to save their Ethereal Shards for future banners.
 
 ### A-Rank Gems: Why You Shouldn't Ignore Haniel and Adler
 

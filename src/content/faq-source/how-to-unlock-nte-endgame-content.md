@@ -161,7 +161,7 @@ Additionally, ensuring your City Tycoon properties are fully staffed with Espers
 
 ### NTE Version 1.1: Dreamwalk Corridor Preview
 
-Looking ahead, the Version 1.1 update is set to introduce the "Dreamwalk Corridor." This new endgame mode is rumored to be a rogue-lite experience where players navigate procedurally generated city blocks. 
+Looking ahead, the Version 1.1 update is set to introduce the "[Dreamwalk Corridor](https://ntecodex.com/faq)." This new endgame mode is rumored to be a rogue-lite experience where players navigate procedurally generated city blocks. 
 
 Unlike Beyond the Rails, which is a pure DPS check, the Dreamwalk Corridor will likely emphasize survival and environmental interaction. Requirements for this mode are expected to be Hunter Level 35 or higher, making it a bridge between the mid-game and the ultra-hard Prime Circle stages.
 

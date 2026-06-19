@@ -132,7 +132,7 @@ If you are looking to master the latest content in both games, consider explorin
 *   **How to farm Gold Carrota in the Rabbit Hole Anomaly Zone**: Tips for maximizing your weekly yield of high-tier currency.
 *   **NTE Elemental Reaction Guide**: Mastering the timing and rotation of Scorch, Nova, and Discord.
 *   **Comparison: HSR Light Cones vs. NTE Arcs**: Understanding how "Arcs" function as both weapons and stat sticks in NTE.
-*   **NTE 1.1 Character Tier List**: Where do Hotori and Lacrimosa rank in the current meta?
+*   **[NTE 1](https://ntecodex.com/faq).1 Character Tier List**: Where do Hotori and Lacrimosa rank in the current meta?
 
 ## Frequently Asked Questions
 
