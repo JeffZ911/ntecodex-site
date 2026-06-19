@@ -144,7 +144,7 @@ Beyond the basic mechanics of the Esper Wheel, high-level play involves integrat
 
 **The "Infinite Blossom" Team (Top Trio Focus)**
 *   **Core:** Nanally (Anima) + Cosmos Support + Lakshana Utility.
-*   **Strategy:** This team focuses on keeping three Lebenstamm turrets active at all times. By cycling through the Top Trio, you trigger the Charge reaction, which provides the energy needed to spam Elemental Bursts, further accelerating the meter gain.
+*   **Strategy:** This team focuses on keeping three Lebenstamm turrets active at all times. By cycling through the Top Trio, you trigger the [Charge reaction](https://ntecodex.com/faq), which provides the energy needed to spam Elemental Bursts, further accelerating the meter gain.
 
 **The "Discord Strikeforce" (Bottom Trio Focus)**
 *   **Core:** Sakya (Chaos) + Incantation Control + Psyche Speedster.

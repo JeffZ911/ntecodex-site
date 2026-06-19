@@ -71,7 +71,7 @@ The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a "Sabbat Resonance" mec
 
 Nicole Reeyn, the first playable Hexenzirkel member (codename "N"), serves as the core of this system. When her [Secret Rite](https://ntecodex.com/faq) is active, she provides a massive 150% ATK-based DMG boost to Arcane Projections—coordinated elemental attacks triggered during her Elemental Burst.
 
-To access these buffs, players must complete the "Witch's Homework" story quest for each character. This questline takes players to a floating Hexenzirkel island located above the Falcon Coast in Mondstadt. Unlike NTE's Esper synergy, which is based on flexible attributes like Anima or Chaos, the Secret Rite is strictly faction-locked to specific lore-related characters.
+To access these buffs, players must complete the "Witch's Homework" story quest for each character. This questline takes players to a floating Hexenzirkel island located above the Falcon Coast in Mondstadt. Unlike NTE's Esper synergy, which is based on flexible attributes like Anima or Chaos, the [Secret Rite](https://ntecodex.com/faq) is strictly faction-locked to specific lore-related characters.
 
 ### Quick Summary of Nicole's Secret Rite Stats
 

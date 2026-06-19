@@ -101,7 +101,7 @@ The Esper Wheel dictates how characters interact when swapped. The "Adjacency Ru
 *   **[Charge Reaction](https://ntecodex.com/faq) (Lakshana + Cosmos + Anima):** Focuses on energy restoration and Ultimate uptime.
 *   **[Discord Reaction](https://ntecodex.com/faq) (Incantation + Chaos + Psyche):** Focuses on shredding the enemy's Break Meter and increasing stagger duration.
 
-If your goal is to trigger Ultimates as frequently as possible, the Charge reaction is your priority. However, if you find that your Ultimates are hitting "armored" enemies for low damage, you may need to lead with a Discord-focused rotation to break the enemy first.
+If your goal is to trigger Ultimates as frequently as possible, the [Charge reaction](https://ntecodex.com/faq) is your priority. However, if you find that your Ultimates are hitting "armored" enemies for low damage, you may need to lead with a Discord-focused rotation to break the enemy first.
 
 ### How to Shred the Enemy Break Meter
 

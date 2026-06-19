@@ -163,7 +163,7 @@ Additionally, ensuring your City Tycoon properties are fully staffed with Espers
 
 Looking ahead, the Version 1.1 update is set to introduce the "[Dreamwalk Corridor](https://ntecodex.com/faq)." This new endgame mode is rumored to be a rogue-lite experience where players navigate procedurally generated city blocks. 
 
-Unlike Beyond the Rails, which is a pure DPS check, the Dreamwalk Corridor will likely emphasize survival and environmental interaction. Requirements for this mode are expected to be Hunter Level 35 or higher, making it a bridge between the mid-game and the ultra-hard Prime Circle stages.
+Unlike Beyond the Rails, which is a pure DPS check, the [Dreamwalk Corridor](https://ntecodex.com/faq) will likely emphasize survival and environmental interaction. Requirements for this mode are expected to be Hunter Level 35 or higher, making it a bridge between the mid-game and the ultra-hard Prime Circle stages.
 
 By following this progression path—hitting Hunter Level 12 for the basics, Level 30 for gear, and Level 50 for the final power spike—you will be well-prepared to dominate the streets of Hethereau and claim all the rewards the Anomaly Express has to offer.
 

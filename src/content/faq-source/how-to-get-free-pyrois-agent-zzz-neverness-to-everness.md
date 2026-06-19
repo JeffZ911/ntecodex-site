@@ -157,7 +157,7 @@ To maintain this roster, ensure you are farming Fabricated and Solid Dice daily 
 Yes, Pyrois is a permanent addition to the Zenless Zone Zero roster for any player who completes the Roscaelifer story arc. Unlike limited event characters, the requirements to unlock him are tied to the main campaign progression in Version 3.0.
 
 ### How long does it take to reach City Tycoon Level 18 in NTE?
-Most players can reach Tycoon Level 18 within the first week of casual play. By focusing on high-yield activities like the **Pink Paws Heist** and managing your **Cafe by Origen** efficiently, you can unlock Chiz relatively quickly without spending real money.
+Most players can reach Tycoon Level 18 within the first week of casual play. By focusing on high-yield activities like the **Pink Paws Heist** and managing your **Cafe by Origen** efficiently, you can [unlock Chiz](https://ntecodex.com/faq) relatively quickly without spending real money.
 
 ### Can I get more than one S-Rank selector in Neverness to Everness?
 At launch, players effectively received two opportunities for a free S-Rank. The first is the guaranteed selector after 50 pulls on the Standard Board, and the second was a May 3rd commemorative gift sent to all global players' mailboxes.

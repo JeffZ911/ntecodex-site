@@ -86,7 +86,7 @@ Beyond the story, the launch celebrations provide two high-value A-Rank characte
 
 One of the most distinct features of NTE is the **City Tycoon** management simulator. In this mode, you manage real estate and businesses across Hethereau. **Chiz**, an S-Rank Chaos-element character, is the ultimate reward for this system. 
 
-To unlock Chiz, you must reach **Tycoon Level 10**. This requires:
+To [unlock Chiz](https://ntecodex.com/faq), you must reach **Tycoon Level 10**. This requires:
 *   Completing "Business Anomalies" (management missions).
 *   Upgrading the "Antique Shop" to Level 5.
 *   Generating a total of [information unavailable] in passive revenue.
