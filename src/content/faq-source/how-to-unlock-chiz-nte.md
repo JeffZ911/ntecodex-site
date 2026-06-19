@@ -105,7 +105,7 @@ Beyond the initial unlock, the City Tycoon system provides everything needed to 
 ![Detailed Explanation](/img/how-to-unlock-chiz-nte/inline-3.webp)
 
 
-The City Tycoon system is a comprehensive business simulation that runs alongside the main RPG elements of Neverness to Everness. To unlock Chiz quickly, you must master the loop of earning Fons and spending City Stamina effectively.
+The City Tycoon system is a comprehensive business simulation that runs alongside the main RPG elements of Neverness to Everness. To [unlock Chiz](https://ntecodex.com/faq) quickly, you must master the loop of earning Fons and spending City Stamina effectively.
 
 ### Mastering the City Tycoon System
 

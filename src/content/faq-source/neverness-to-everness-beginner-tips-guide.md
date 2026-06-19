@@ -173,7 +173,7 @@ To maximize your efficiency, follow this routine to ensure no resources are wast
 
 *   **Neverness to Everness Character Tier List:** Best Espers for Launch
 *   **NTE Reroll Guide:** Should You Restart for Nanally?
-*   **How to Unlock Chiz for Free:** Tycoon Level 18 Guide
+*   **How to [Unlock Chiz](https://ntecodex.com/faq) for Free:** Tycoon Level 18 Guide
 *   **Best Car Builds and Customization Guide for Hethereau**
 *   **Anomaly Investigation Guide: Solving Urban Puzzles**
 

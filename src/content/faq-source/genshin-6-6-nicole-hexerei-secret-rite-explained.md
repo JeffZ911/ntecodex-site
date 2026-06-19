@@ -95,7 +95,7 @@ Nicole Reeyn is a 5-star Pyro Catalyst support whose kit is designed around the 
 In a team with other Hexerei members, Nicole's Methexis passive removes the standard 3-second delay required to upgrade her ATK buffs, allowing for immediate maximum damage output.
 
 ### The Mechanics of Sabbat Resonance
-The Hexerei: Secret Rite acts as a secondary resonance layer. When the requirement of two Hexerei characters is met, the "Sabbat Resonance" UI element glows, indicating that the Secret Rite passives are active. This system is specifically designed to bring older units like Venti and Klee back into high-level content like the Spiral Abyss.
+The Hexerei: [Secret Rite](https://ntecodex.com/faq) acts as a secondary resonance layer. When the requirement of two Hexerei characters is met, the "Sabbat Resonance" UI element glows, indicating that the Secret Rite passives are active. This system is specifically designed to bring older units like Venti and Klee back into high-level content like the Spiral Abyss.
 
 ### Full List of Hexerei Characters and Their Rite Buffs
 As of Version 6.6, several characters have been officially designated as Hexerei members after completing their respective quests:

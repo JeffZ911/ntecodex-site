@@ -46,7 +46,7 @@ To solve [NTE 1](https://ntecodex.com/faq).1 Anomaly Zone puzzles, use the Anoma
 
 The version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update introduces a significant expansion to the supernatural ecosystem of Hethereau. Players are currently seeking answers to several key challenges:
 
-*   What are the new Anomaly Zone and Commission puzzles introduced in the NTE 1.1 "Dreamwalk Corridor" update?
+*   What are the new Anomaly Zone and Commission puzzles introduced in the [NTE 1](https://ntecodex.com/faq).1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update?
 *   How do players navigate the increased difficulty of the Rabbit Hole and Clement Academy puzzles?
 *   Where can players find specific quest items like Empathy Eye Drops and Record Players to trigger these events?
 *   What are the optimal strategies for completing the gravity-defying and color-filling mechanics in Hethereau?

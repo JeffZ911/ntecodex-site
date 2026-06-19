@@ -39,11 +39,11 @@ inline_image_sections:
   - "Related"
 ---
 
-The Version 1.1 "Dreamwalk Corridor" update for Neverness to Everness (NTE) introduces a massive wave of new content, expanding the supernatural urban landscape of Hethereau with significant free and premium rewards. From high-speed Porsche collaborations to the debut of powerful S-rank characters, Appraisers have a packed calendar of events to navigate through July 2026.
+The Version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update for Neverness to Everness (NTE) introduces a massive wave of new content, expanding the supernatural urban landscape of Hethereau with significant free and premium rewards. From high-speed Porsche collaborations to the debut of powerful S-rank characters, Appraisers have a packed calendar of events to navigate through July 2026.
 
 # NTE 1.1 Dreamwalk Corridor Rewards FAQ: Every Free and Premium Reward
 
-NTE 1.1 "Dreamwalk Corridor" rewards include 600 Annulith for maintenance, 10 Solid Dice via the 7-day login event, and exclusive items like the Porsche 918 Spyder and Lacrimosa’s Gilded Rhapsody outfit from gacha milestones.
+[NTE 1](https://ntecodex.com/faq).1 "Dreamwalk Corridor" rewards include 600 Annulith for maintenance, 10 Solid Dice via the 7-day login event, and exclusive items like the Porsche 918 Spyder and Lacrimosa’s Gilded Rhapsody outfit from gacha milestones.
 
 ## Question Restated
 
