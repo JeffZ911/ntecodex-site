@@ -90,7 +90,7 @@ In Neverness to Everness, there is no Esper named Pyrois, but the game is remark
 
 
 ### How to Get Pyrois for Free (ZZZ 3.0)
-To unlock Pyrois in Zenless Zone Zero, you must reach the Roscaelifer floating island, a classified airspace zone added in Version 3.0. Pyrois is fundamentally different from other Agents as he represents the combat manifestation of the Proxy protagonists, Wise and Belle.
+To [unlock Pyrois](https://ntecodex.com/faq) in Zenless Zone Zero, you must reach the Roscaelifer floating island, a classified airspace zone added in Version 3.0. Pyrois is fundamentally different from other Agents as he represents the combat manifestation of the Proxy protagonists, Wise and Belle.
 
 The process involves completing the Main Story Season 3 Chapter 1, titled "A Sleepwalker's Confession." Once the "Triumphant Return" combat tutorial is finished, Pyrois is added to your roster. Additionally, players can earn his signature W-Engine, Sol Exuvia, and his first two Mindscapes (M1 and M2) by increasing their **Interboo account level** through exploration and puzzles in the Roscaelifer district.
 
@@ -139,7 +139,7 @@ NTE's board-game gacha is often seen as more engaging, but ZZZ's traditional pit
 
 ### Upcoming Neverness to Everness Banners
 Following the launch phase, the Version 1.0 schedule includes several highly anticipated Espers:
-*   Hotori (Cosmos): A limited character featured on the Scarborough Fair board. She is known for her high-stakes dice mechanics and premium cosmetics like the "Priceless Orchid" skin.
+*   Hotori (Cosmos): A limited character featured on the [Scarborough Fair](https://ntecodex.com/faq) board. She is known for her high-stakes dice mechanics and premium cosmetics like the "Priceless Orchid" skin.
 *   **Lacrimosa (Chaos):** A powerful late-patch unit that has been teased as a game-changer for F2P endgame content.
 
 ### F2P Team Building Guide

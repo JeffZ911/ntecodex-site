@@ -144,7 +144,7 @@ When starting out, focus your Hunter Guides on a single "Carry" Esper to level 4
 
 ### Best S-Rank Arcs for Beginners
 
-While Arcs are often obtained through the gacha system, some can be earned through high-level city achievements. The "Standard Resonance" concept often discussed in community forums refers to the baseline effectiveness of Arcs when matched with the correct Esper element.
+While Arcs are often obtained through the [gacha system](https://ntecodex.com/faq), some can be earned through high-level city achievements. The "Standard Resonance" concept often discussed in community forums refers to the baseline effectiveness of Arcs when matched with the correct Esper element.
 
 Always prioritize ascending Arcs that provide "Anomaly Damage" or "Pixel Regeneration" stats, as these significantly reduce the time spent in combat encounters during your farm routes.
 

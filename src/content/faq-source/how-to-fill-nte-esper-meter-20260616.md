@@ -113,7 +113,7 @@ The **Charge** reaction is a unique synergy specifically designed for energy gen
 
 To achieve 100% uptime on your [Esper Cycles](https://reddit.com/r/NevernessToEverness/comments/combat_mechanics_explained), you must plan your rotations around energy thresholds. A common strategy involves starting with a high-energy generator like Lacrimosa to apply an initial element. Once her meter is full, you switch to a sub-DPS to trigger a Duo reaction like Scorch or Nova.
 
-The goal is to ensure that by the time the third character enters the field to trigger a Trio reaction like Discord, the first character's meter has already begun to refill through off-field passives or the lingering effects of a Charge reaction. This "endless loop" requires precise timing and a deep understanding of how each character's Resonance Skill interacts with the Cycle Rate stat.
+The goal is to ensure that by the time the third character enters the field to trigger a Trio reaction like Discord, the first character's meter has already begun to refill through off-field passives or the lingering effects of a [Charge reaction](https://ntecodex.com/faq). This "endless loop" requires precise timing and a deep understanding of how each character's Resonance Skill interacts with the Cycle Rate stat.
 
 ## Related
 
