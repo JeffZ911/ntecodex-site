@@ -151,6 +151,6 @@ Understanding the Esper Cycle is not just about memorizing names; it is about fe
 
 - Neverness to Everness Official Site — https://www.nevernesstoeverness.com/
 - Game8 Neverness to Everness Guide — https://game8.co/games/Neverness-to-Everness
-- IGN: NTE Combat Mechanics Explained
+- IGN: NTE Combat [Mechanics Explained](https://ntecodex.com/faq)
 - Reddit: r/NTE_Official Theorycrafting — https://www.reddit.com/r/NTE_Official/
 - Mobalytics: NTE Character and Element Tier List

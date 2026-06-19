@@ -75,7 +75,7 @@ To access these buffs, players must complete the "Witch's Homework" story quest 
 
 ### Quick Summary of Nicole's Secret Rite Stats
 
-| Mechanic | Base Effect | Secret Rite Enhancement |
+| Mechanic | Base Effect | [Secret Rite](https://ntecodex.com/faq) Enhancement |
 | :--- | :--- | :--- |
 | **Arcane Projection** | Coordinated attack at 180% active character ATK | 150% of Nicole's ATK added to DMG |
 | **Grace of Kenosis** | 600 ATK bonus to active character | Upgrades to Guidance of Theosis instantly |

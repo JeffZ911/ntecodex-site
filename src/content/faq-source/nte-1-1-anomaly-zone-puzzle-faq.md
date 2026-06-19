@@ -34,7 +34,7 @@ The supernatural streets of Hethereau have grown even more unpredictable with th
 
 # NTE 1.1 Anomaly Zone Puzzle FAQ: Dreamwalk Corridor Guide
 
-To solve NTE 1.1 Anomaly Zone puzzles, use the Anomagram to track locations, utilize Esper abilities for gravity manipulation in "Reclaim Inspiration," and collect Empathy Eye Drops to reveal puppets in the "Lonely Player" quest. High-level farming for Consoles and Carrota is best handled at the Rabbit Hole Anomaly Zone located on the skyscraper roof in Cape Square.
+To solve [NTE 1](https://ntecodex.com/faq).1 Anomaly Zone puzzles, use the Anomagram to track locations, utilize Esper abilities for gravity manipulation in "Reclaim Inspiration," and collect Empathy Eye Drops to reveal puppets in the "Lonely Player" quest. High-level farming for Consoles and Carrota is best handled at the Rabbit Hole Anomaly Zone located on the skyscraper roof in Cape Square.
 
 ## Question Restated
 
@@ -44,7 +44,7 @@ To solve NTE 1.1 Anomaly Zone puzzles, use the Anomagram to track locations, uti
 *Related: [Best Silent Mechanical Keyboard for Late Night Gacha and MMO Grinding](/guides/best-silent-mechanical-keyboard-late-night-gaming) · [Best Closed-Back Headphones for VTuber Gear Setups Under $200](/guides/best-closed-back-headphones-for-vtuber-setups-under-200) · [Best Standing Desk for WFH Gamers Under $500 for Long MMO Sessions](/guides/best-standing-desk-wfh-gamers-under-500)*
 
 
-The version 1.1 "Dreamwalk Corridor" update introduces a significant expansion to the supernatural ecosystem of Hethereau. Players are currently seeking answers to several key challenges:
+The version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update introduces a significant expansion to the supernatural ecosystem of Hethereau. Players are currently seeking answers to several key challenges:
 
 *   What are the new Anomaly Zone and Commission puzzles introduced in the NTE 1.1 "Dreamwalk Corridor" update?
 *   How do players navigate the increased difficulty of the Rabbit Hole and Clement Academy puzzles?

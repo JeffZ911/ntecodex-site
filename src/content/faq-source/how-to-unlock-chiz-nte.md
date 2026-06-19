@@ -45,7 +45,7 @@ Mastering the urban sprawl of Hethereau requires both combat prowess and busines
 
 # How to Unlock Chiz in Neverness to Everness
 
-To unlock Chiz in Neverness to Everness, you must reach Tycoon Level 18 within the City Tycoon system. Unlike gacha-exclusive units, Chiz is a free S-Rank Cosmos DPS rewarded for progressing through Hethereau's business simulation. Once you reach this milestone, you can claim her directly from the City Tycoon rewards menu.
+To [unlock Chiz](https://ntecodex.com/faq) in Neverness to Everness, you must reach Tycoon Level 18 within the City Tycoon system. Unlike gacha-exclusive units, Chiz is a free S-Rank Cosmos DPS rewarded for progressing through Hethereau's business simulation. Once you reach this milestone, you can claim her directly from the City Tycoon rewards menu.
 
 ## Question Restated
 

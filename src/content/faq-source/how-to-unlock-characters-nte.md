@@ -84,7 +84,7 @@ Each roll costs 160 Annulith (the premium currency). As the Chuppa piece moves, 
 
 ### Unlocking Chiz via City Tycoon
 
-City Tycoon is NTE’s deep management simulation where players oversee businesses and urban development. While it serves as a primary source of passive income, it is also the only way to unlock Chiz, a powerful S-rank Cosmos character, without using the gacha.
+City Tycoon is NTE’s deep management simulation where players oversee businesses and urban development. While it serves as a primary source of passive income, it is also the only way to [unlock Chiz](https://ntecodex.com/faq), a powerful S-rank Cosmos character, without using the gacha.
 
 Reaching Level 18 in City Tycoon is the specific milestone for Chiz. This requires consistent management of your storefronts and completing local "Anomaly Requests." 
 
