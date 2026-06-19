@@ -33,7 +33,7 @@ Topaz & Numby have evolved from a niche sub-DPS into the cornerstone of the most
 When building a team around Topaz & Numby, players often focus on three primary questions to maximize their investment:
 
 **What are the most effective team compositions for Topaz & Numby in the current Honkai: Star Rail meta?**
-The meta has shifted significantly since Topaz's debut. While she was initially paired with units like Clara or Jing Yuan, the introduction of the "IPC Core" (Aventurine and Dr. Ratio) and the high-speed stack mechanics of Version 2.5 characters like Feixiao have redefined her ceiling.
+The meta has shifted significantly since Topaz's debut. While she was initially paired with units like Clara or Jing Yuan, the introduction of the "IPC Core" (Aventurine and Dr. Ratio) and the high-speed [stack mechanics](https://ntecodex.com/guides/best-ergonomic-gear-for-long-gacha-grinding-sessions) of Version 2.5 characters like Feixiao have redefined her ceiling.
 
 **How does Topaz's role as a Hunt character shift between a Main DPS and a Follow-Up Attack (FUA) support?**
 Unlike traditional Hunt characters like Seele, who demand all the team's resources to carry, Topaz functions as a "force multiplier." In single-target scenarios, she can act as a Main DPS, but her true value lies in her "Proof of Debt" debuff, which allows a second damage dealer to reach astronomical damage numbers.

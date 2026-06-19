@@ -137,7 +137,7 @@ The following table estimates the recurring currency income for an active player
 
 ### Scarborough Fair Board Tile Reward Probabilities
 
-The Scarborough Fair is a unique gacha mechanic in NTE that functions like a board game. When you use your "Dice," you move across a board to land on rewards.
+The [Scarborough Fair](https://ntecodex.com/faq) is a unique gacha mechanic in NTE that functions like a board game. When you use your "Dice," you move across a board to land on rewards.
 
 | Tile Type | Primary Reward | Estimated Weight/Probability |
 | :--- | :--- | :--- |

@@ -120,7 +120,7 @@ A-Tier Arcs are exceptionally strong and often serve as the best-in-slot (BiS) o
 ### Specialized Signature Arcs
 
 **Raging Flames (Plasma)**
-Hathor’s signature weapon is a powerhouse for Lakshana-element burst damage. It provides a significant boost to Redirect Skill and Ultimate damage, especially after Hathor uses her flight mechanics. While it is incredibly potent in her hands, its niche focus on Lakshana DMG makes it less versatile than Ready-Ready for other Plasma characters. It can be obtained for free by completing the "Ride Assault" commission and defeating the Headless Rider.
+Hathor’s signature weapon is a powerhouse for Lakshana-element burst damage. It provides a significant boost to Redirect Skill and Ultimate damage, especially after Hathor uses her [flight mechanics](https://ntecodex.com/guides/chasca-vs-wanderer-flight-mechanics-comparison). While it is incredibly potent in her hands, its niche focus on Lakshana DMG makes it less versatile than Ready-Ready for other Plasma characters. It can be obtained for free by completing the "Ride Assault" commission and defeating the Headless Rider.
 
 **Reality Refuge (Solid)**
 Jiuyuan’s signature Arc is tailored for Anima and Attachment DMG. It provides a reliable damage floor and excels in AoE scenarios. However, in the current meta, it is often outclassed by Ready-Ready in terms of raw single-target output. It is a top-tier choice for players who prefer Jiuyuan’s crowd-control playstyle, and it is currently featured with an increased drop rate in the "Bright Moon Special" banner.

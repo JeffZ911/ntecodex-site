@@ -101,7 +101,7 @@ Hotta Studio frequently distributes Annulith via the in-game mailbox for server 
 
 ## Related
 
-Understanding how to spend your hard-earned Annulith is just as important as knowing how to get it. The gacha system in Neverness to Everness differs significantly from other titles in the genre.
+Understanding how to spend your hard-earned Annulith is just as important as knowing how to get it. The [gacha system](https://ntecodex.com/faq) in Neverness to Everness differs significantly from other titles in the genre.
 
 ### How to Spend Annulith Wisely
 
@@ -109,7 +109,7 @@ The golden rule for most players is to **only spend Annulith on Solid Dice**. Be
 
 ### Neverness to Everness Pity System Explained
 
-The summoning system, **Scarborough Fair**, is a board game where you roll dice to move a piece called a **Chuppa** across tiles. 
+The summoning system, **[Scarborough Fair](https://ntecodex.com/faq)**, is a board game where you roll dice to move a piece called a **Chuppa** across tiles. 
 *   **Soft Pity:** At 70 pulls without an S-rank, the board undergoes a "Modification." The tiles change, and the S-rank rate jumps to approximately 19.59%.
 *   **Hard Pity:** You are guaranteed an S-rank character by your 90th pull.
 *   **No 50/50:** Unlike Wuthering Waves or Genshin Impact, if you pull an S-rank on a limited banner (such as Nanally's "The Ichi-daime" banner), it is **100% guaranteed** to be the featured character. There is no risk of losing to a standard pool unit.

@@ -69,7 +69,7 @@ The elements in NTE are divided into two main groups on the Esper Wheel: the "Ph
 | — | Cosmos + Chaos | — |
 | — | Anima + Psyche | — |
 
-To maximize damage, you should aim to complete a Trio Reaction every time your Esper Cycle resets. This requires a team composition that covers at least three different elements that can interact. For example, a team featuring [Nanally](/characters/nanally-guide-nte) (Anima) should be paired with characters who can provide the Cosmos and Incantation elements to consistently trigger the Charge reaction, keeping Nanally's high-damage skills fueled with energy.
+To maximize damage, you should aim to complete a Trio Reaction every time your Esper Cycle resets. This requires a team composition that covers at least three different elements that can interact. For example, a team featuring [Nanally](/characters/nanally-guide-nte) (Anima) should be paired with characters who can provide the Cosmos and Incantation elements to consistently trigger the [Charge reaction](https://ntecodex.com/faq), keeping Nanally's high-damage skills fueled with energy.
 
 ### Optimizing the Console: Cartridges and the Module Tetris System
 

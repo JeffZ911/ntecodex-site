@@ -149,7 +149,7 @@ The release of Version 2.7, "Champions Never Fall to the Past," has introduced n
 
 Key updates in the 2.7 cycle include:
 *   **Nangong Yu (Stun):** While a Stun agent, her synergy with "Ether Veil" has increased the value of Zhao as a primary defensive partner.
-*   **Cissia (Attack):** Her "Venom" stack mechanics require long field-time, making the high-uptime shields of Caesar King and Seth Lowell more relevant than ever.
+*   **Cissia (Attack):** Her "Venom" [stack mechanics](https://ntecodex.com/guides/best-ergonomic-gear-for-long-gacha-grinding-sessions) require long field-time, making the high-uptime shields of Caesar King and Seth Lowell more relevant than ever.
 *   **Ben Bigger Buffs:** A Version 2.6 patch reduced the energy requirement for Ben’s EX Special, allowing him to maintain his Crit Rate buff more consistently, though it was not enough to move him into A Tier.
 *   **New Drive Discs:** The introduction of the "Canglang Ballad" and "Luminant Aria" sets in Version 2.5 has optimized HP-scaling Defense agents, cementing Zhao’s position at the top of the tier list.
 
