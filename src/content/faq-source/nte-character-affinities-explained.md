@@ -134,7 +134,7 @@ To trigger these reactions, you must first fill the Esper Meter of your active c
 
 ### Building Meta Teams Around Affinities
 
-When building your team, you should aim for "Reaction Loops." A popular launch-week team consists of **Zero (Cosmos)**, **Mint (Anima)**, and **Chiz (Incantation)**. This team is built for the "Top Trio" Charge reaction, allowing for constant Ultimate ability usage.
+When building your team, you should aim for "Reaction Loops." A popular launch-week team consists of **Zero (Cosmos)**, **Mint (Anima)**, and **Chiz (Incantation)**. This team is built for the "Top Trio" [Charge reaction](https://ntecodex.com/faq), allowing for constant Ultimate ability usage.
 
 Alternatively, a "Burst Team" might utilize **Adler (Chaos)**, **Aurelia (Psyche)**, and **Skia (Lakshana)** to focus on the Scorch and Nova reactions, keeping enemies permanently debuffed and stationary while Adler provides the heavy damage.
 

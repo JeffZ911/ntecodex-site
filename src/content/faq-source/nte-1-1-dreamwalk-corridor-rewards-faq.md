@@ -56,7 +56,7 @@ The Version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update for Neve
 The launch of the first major patch for Neverness to Everness has raised several questions regarding how to maximize resource gain. Players are specifically looking for clarity on:
 
 *   What are the specific rewards available in the Neverness to Everness (NTE) Version 1.1 update?
-*   How can players claim the "Dreamwalk Corridor" maintenance and login bonuses?
+*   How can players claim the "[Dreamwalk Corridor](https://ntecodex.com/faq)" maintenance and login bonuses?
 *   What are the milestone rewards for the Lacrimosa and Chaos banners?
 *   Which rewards are exclusive to the Porsche collaboration and Sunward Island events?
 

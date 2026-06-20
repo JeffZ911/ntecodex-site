@@ -62,7 +62,7 @@ It is essential to distinguish between the two primary types of supernatural act
 ![Direct Answer](/img/nte-1-1-anomaly-zone-puzzle-faq/inline-2.webp)
 
 
-The [NTE 1](https://ntecodex.com/faq).1 update, "Dreamwalk Corridor," introduces the "Rabbit Hole" Anomaly Zone in Cape Square and complex Commissions like "Lonely Player" and "Reclaim Inspiration." Success requires reaching Hunter Level 10 for high-tier zones and using specific Esper Ability synergies to interact with warped environments. Key puzzle solutions involve item collection (Empathy Eye Drops), environmental manipulation (gravity toggles), and pattern recognition (flower selection in "Miles Apart").
+The [NTE 1](https://ntecodex.com/faq).1 update, "[Dreamwalk Corridor](https://ntecodex.com/faq)," introduces the "Rabbit Hole" Anomaly Zone in Cape Square and complex Commissions like "Lonely Player" and "Reclaim Inspiration." Success requires reaching Hunter Level 10 for high-tier zones and using specific Esper Ability synergies to interact with warped environments. Key puzzle solutions involve item collection (Empathy Eye Drops), environmental manipulation (gravity toggles), and pattern recognition (flower selection in "Miles Apart").
 
 ### 1.1 Anomaly Zone Quick Reference
 

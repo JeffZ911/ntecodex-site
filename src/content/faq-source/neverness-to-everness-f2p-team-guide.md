@@ -115,7 +115,7 @@ For F2P players, the **Cosmos-Anima-Incantation** arc of the wheel is the most a
 #### 2. The "Economy" Carry Team (Chiz, Zero, Aurelia, Haniel)
 *   **Focus:** High Single-Target DPS.
 *   **Rotation:** Use Haniel's buff -> Zero's Skill -> Swap to Chiz (Main DPS) -> Aurelia (Burst).
-*   **Why it works:** Once you unlock Chiz from City Tycoon, she becomes your strongest hitter. She is a Cosmos-element Gas-type user who deals massive damage with her Yokai Hammer. Pairing her with Zero allows for "Double Cosmos" resonance, which increases the crit rate of all Cosmos abilities.
+*   **Why it works:** Once you [unlock Chiz](https://ntecodex.com/faq) from City Tycoon, she becomes your strongest hitter. She is a Cosmos-element Gas-type user who deals massive damage with her Yokai Hammer. Pairing her with Zero allows for "Double Cosmos" resonance, which increases the crit rate of all Cosmos abilities.
 
 #### 3. The "Discord" Stagger Team (Adler, Aurelia, Sakiri/Baicang)
 *   **Focus:** Staggering Bosses.

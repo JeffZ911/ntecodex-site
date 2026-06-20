@@ -105,7 +105,7 @@ Choosing the right Echo set is vital for Danjin, as her damage is split between 
 
 The **Sun-sinking Eclipse (5-piece set)** is the mandatory choice for a Main DPS Danjin.
 *   **2-Piece Bonus:** Havoc DMG +10%.
-*   **5-Piece Bonus:** Havoc DMG +10% after using a Basic or Heavy Attack. This effect stacks up to 4 times, providing a total of 40% additional Havoc DMG. Since Danjin uses Heavy Attacks to consume her Ruby Blossom stacks, she can maintain this buff with ease.
+*   **5-Piece Bonus:** Havoc DMG +10% after using a Basic or Heavy Attack. This effect stacks up to 4 times, providing a total of 40% additional Havoc DMG. Since Danjin uses Heavy Attacks to consume her Ruby [Blossom stacks](https://ntecodex.com/guides/camellya-crimson-blossom-stacks-explained), she can maintain this buff with ease.
 
 For a Sub-DPS or "Buffer" build, the **Moonlit Clouds (5-piece set)** is an alternative. This set focuses on Energy Regeneration and provides a 22.5% ATK buff to the next character after using an Outro Skill. This is only recommended if you are using Danjin exclusively to setup a hyper-carry like Havoc Rover or a future Havoc DPS.
 

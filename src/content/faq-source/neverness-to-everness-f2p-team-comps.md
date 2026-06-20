@@ -147,7 +147,7 @@ While limited S-Class units like **Nanally** and **[Hotori](/characters/hotori-b
 
 ### Unlocking Chiz: The City Tycoon Guide
 
-To unlock Chiz efficiently:
+To [unlock Chiz](https://ntecodex.com/faq) efficiently:
 1.  Complete the "Business Basics" questline in the central district.
 2.  Invest your initial credits into the "Noodle Shop" and "Convenience Store" properties.
 3.  Assign Mint to the Noodle Shop; her "Efficiency" stat reduces production time.
