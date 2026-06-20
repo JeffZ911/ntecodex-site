@@ -52,7 +52,7 @@ The version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update introduc
 *   What are the optimal strategies for completing the gravity-defying and color-filling mechanics in Hethereau?
 
 ### The Challenge of the Dreamwalk Corridor
-The Dreamwalk Corridor update represents the first major content drop since the global launch, shifting the focus toward more intricate environmental storytelling and mechanical complexity. Unlike the straightforward combat encounters of the early game, these new puzzles require specific item prerequisites and a deep understanding of how Esper abilities interact with the "warped" physics of the city. Areas like Bridge Crossings and the skyscraper districts now feature multi-layered navigation challenges that can frustrate even seasoned Appraisers.
+The [Dreamwalk Corridor](https://ntecodex.com/faq) update represents the first major content drop since the global launch, shifting the focus toward more intricate environmental storytelling and mechanical complexity. Unlike the straightforward combat encounters of the early game, these new puzzles require specific item prerequisites and a deep understanding of how Esper abilities interact with the "warped" physics of the city. Areas like Bridge Crossings and the skyscraper districts now feature multi-layered navigation challenges that can frustrate even seasoned Appraisers.
 
 ### Distinguishing Between Anomaly Zones and Commissions
 It is essential to distinguish between the two primary types of supernatural activity. Anomaly Zones are repeatable, stamina-consuming combat stages designed for farming gear like Consoles and enhancement materials. In contrast, Anomaly Commissions (such as "Lonely Player" and "Miles Apart") are narrative-driven, one-time puzzles that often involve investigation, item collection, and environmental manipulation. Successfully identifying which activity you are engaging in will determine whether you need a high-DPS combat team or a specific set of utility items.
@@ -62,7 +62,7 @@ It is essential to distinguish between the two primary types of supernatural act
 ![Direct Answer](/img/nte-1-1-anomaly-zone-puzzle-faq/inline-2.webp)
 
 
-The NTE 1.1 update, "Dreamwalk Corridor," introduces the "Rabbit Hole" Anomaly Zone in Cape Square and complex Commissions like "Lonely Player" and "Reclaim Inspiration." Success requires reaching Hunter Level 10 for high-tier zones and using specific Esper Ability synergies to interact with warped environments. Key puzzle solutions involve item collection (Empathy Eye Drops), environmental manipulation (gravity toggles), and pattern recognition (flower selection in "Miles Apart").
+The [NTE 1](https://ntecodex.com/faq).1 update, "Dreamwalk Corridor," introduces the "Rabbit Hole" Anomaly Zone in Cape Square and complex Commissions like "Lonely Player" and "Reclaim Inspiration." Success requires reaching Hunter Level 10 for high-tier zones and using specific Esper Ability synergies to interact with warped environments. Key puzzle solutions involve item collection (Empathy Eye Drops), environmental manipulation (gravity toggles), and pattern recognition (flower selection in "Miles Apart").
 
 ### 1.1 Anomaly Zone Quick Reference
 

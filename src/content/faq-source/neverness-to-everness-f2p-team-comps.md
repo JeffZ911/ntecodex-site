@@ -92,7 +92,7 @@ For F2P players, focusing on **Blossom** and **Discord** is the most efficient p
 
 1.  **The AOE Shredder (Zero / Mint / Aurelia):** This team is designed for clearing "Anomaly Containment" waves. Zero provides the Cosmos base, Mint triggers Blossom, and Aurelia uses her Lakshana abilities to trigger Void, keeping enemies grouped and slowed.
 2.  **The Break Specialist (Adler / Daffodil / Haniel):** Specifically built for weekly boss resets. Adler provides safety with shields, while Daffodil deals the bulk of the Chaos damage required for Discord reactions.
-3.  **The Hyper-Carry Chiz (Chiz / Haniel / Mint):** Once you unlock Chiz from the Grain Market, this team focuses entirely on her. Chiz uses Chaos-aligned strikes that scale with "Market Fluctuations" (a unique stack mechanic). Haniel and Mint serve purely to provide energy and off-field elemental application.
+3.  **The Hyper-Carry Chiz (Chiz / Haniel / Mint):** Once you [unlock Chiz](https://ntecodex.com/faq) from the Grain Market, this team focuses entirely on her. Chiz uses Chaos-aligned strikes that scale with "Market Fluctuations" (a unique stack mechanic). Haniel and Mint serve purely to provide energy and off-field elemental application.
 
 ### Who to Pick from the S-Class Selector?
 

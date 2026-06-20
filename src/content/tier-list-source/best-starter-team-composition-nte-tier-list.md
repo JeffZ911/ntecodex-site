@@ -83,7 +83,7 @@ The Hyper [Nanally](/characters/nanally-guide-nte) composition (Nanally, Jiuyuan
 For players who did not pull for Nanally, the Hyper Chiz team (Chiz, Jiuyuan, Hathor, [Hotori](/characters/hotori-best-team-nte)) offers a comparable power level using the free S-rank Chiz.
 
 *   **Chiz:** Her energy-recharge mechanics make her one of the most consistent DPS units in the game. She thrives on high "Charge" reaction uptime.
-*   **Hotori:** Added on May 13, 2026, Hotori has revolutionized this team. Her "Time Stop" Ultimate pauses the enemy's internal clock while allowing your elemental applications to continue, leading to massive Blossom stacks.
+*   **Hotori:** Added on May 13, 2026, Hotori has revolutionized this team. Her "Time Stop" Ultimate pauses the enemy's internal clock while allowing your elemental applications to continue, leading to massive [Blossom stacks](https://ntecodex.com/guides/camellya-crimson-blossom-stacks-explained).
 *   **Hathor:** Provides the necessary elemental bridges to ensure Chiz can trigger her Resonance Ability without interruption.
 
 ### Why These Teams Dominate the Early Game

@@ -141,7 +141,7 @@ If you have hit your bi-weekly Heist cap, you can still farm Fons through severa
 
 ### Unlocking Chiz's Signature Weapon and Awakenings
 
-Once you unlock Chiz at Level 18, your goal should shift to Level 21 to obtain her signature weapon, the Contemplative Cat. This Gas-type Arc is tailor-made for her kit, providing a 2.5% Cosmos DMG boost for every 100,000 Fons you currently hold in your inventory (capping at 10 stacks or 1,000,000 Fons).
+Once you [unlock Chiz](https://ntecodex.com/faq) at Level 18, your goal should shift to Level 21 to obtain her signature weapon, the Contemplative Cat. This Gas-type Arc is tailor-made for her kit, providing a 2.5% Cosmos DMG boost for every 100,000 Fons you currently hold in your inventory (capping at 10 stacks or 1,000,000 Fons).
 
 Continuing to level up the Tycoon system will eventually grant you enough copies to reach Awakening 6 (A6). At A6, Chiz becomes one of the most powerful units in the game, rivaling limited S-Rank characters in raw damage output.
 

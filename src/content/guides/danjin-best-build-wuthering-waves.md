@@ -46,7 +46,7 @@ Her kit is built around the "Ruby Blossom" Forte Circuit. By consuming HP throug
 | **Weapon Type** | Sword |
 | **Rarity** | 4-Star |
 | **Affiliation** | Midnight Rangers |
-| **Core Mechanic** | HP Consumption & Ruby Blossom Stacks |
+| **Core Mechanic** | HP Consumption & Ruby [Blossom Stacks](https://ntecodex.com/guides/camellya-crimson-blossom-stacks-explained) |
 | **Primary Role** | Main DPS / Havoc Sub-DPS |
 
 ### Danjin's Role: Main DPS vs. Sub-DPS

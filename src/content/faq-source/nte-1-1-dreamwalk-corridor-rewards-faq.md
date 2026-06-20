@@ -43,7 +43,7 @@ The Version 1.1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" update for Neve
 
 # NTE 1.1 Dreamwalk Corridor Rewards FAQ: Every Free and Premium Reward
 
-[NTE 1](https://ntecodex.com/faq).1 "Dreamwalk Corridor" rewards include 600 Annulith for maintenance, 10 Solid Dice via the 7-day login event, and exclusive items like the Porsche 918 Spyder and Lacrimosa’s Gilded Rhapsody outfit from gacha milestones.
+[NTE 1](https://ntecodex.com/faq).1 "[Dreamwalk Corridor](https://ntecodex.com/faq)" rewards include 600 Annulith for maintenance, 10 Solid Dice via the 7-day login event, and exclusive items like the Porsche 918 Spyder and Lacrimosa’s Gilded Rhapsody outfit from gacha milestones.
 
 ## Question Restated
 

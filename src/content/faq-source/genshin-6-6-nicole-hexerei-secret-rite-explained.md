@@ -100,7 +100,7 @@ The Hexerei: [Secret Rite](https://ntecodex.com/faq) acts as a secondary resonan
 ### Full List of Hexerei Characters and Their Rite Buffs
 As of Version 6.6, several characters have been officially designated as Hexerei members after completing their respective quests:
 
-| Character | Secret Rite Effect | Meta Role Upgrade |
+| Character | [Secret Rite](https://ntecodex.com/faq) Effect | Meta Role Upgrade |
 | :--- | :--- | :--- |
 | **Venti** | Anemo Infusion & Burst duration extension | Main DPS / Driver |
 | **Klee** | Coordinated Boom-Boom Strikes & faster Normal Attacks | Consistent Pyro DPS |
