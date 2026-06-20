@@ -93,7 +93,7 @@ Duo reactions are the bread and butter of your combat rotation. When the second 
 Trio reactions are advanced chains that occur when you complete two Duo reactions in rapid succession. These are the most powerful effects in Neverness to Everness and are essential for clearing timed challenges.
 
 **1. Charge (Lakshana > Cosmos > Anima)**
-The Charge reaction is triggered by completing a Remora reaction followed immediately by a Blossom reaction. When Charge activates, the entire team receives a massive surge of Ultimate Energy. This is the premier strategy for "Burst Teams" that rely on frequent Ultimate usage to clear waves. Characters like Nanally benefit immensely from the Charge cycle, as it keeps her Anima-infused abilities active almost indefinitely.
+The [Charge reaction](https://ntecodex.com/faq) is triggered by completing a Remora reaction followed immediately by a Blossom reaction. When Charge activates, the entire team receives a massive surge of Ultimate Energy. This is the premier strategy for "Burst Teams" that rely on frequent Ultimate usage to clear waves. Characters like Nanally benefit immensely from the Charge cycle, as it keeps her Anima-infused abilities active almost indefinitely.
 
 **2. Discord (Incantation > Chaos > Psyche)**
 Discord is triggered by completing a Scorch reaction followed by a Nova reaction. This reaction is specifically designed for boss "Breaking." When Discord triggers, it deals significant damage to the enemy's Break Meter (shield). Once the Break Meter is depleted, the boss enters a vulnerable state where they take increased damage and remain immobile. If you are struggling with high-HP bosses in the late-game districts, a Discord-focused team is the solution.

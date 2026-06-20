@@ -70,7 +70,7 @@ The rewards in Version 1.1 are split into four primary categories:
 
 ### Eligibility Requirements for 1.1 Rewards
 
-To qualify for the bulk of these rewards, Appraisers must have created their character before the maintenance window on June 3, 2026. Additionally, several event-based rewards are gated behind story progression. Accessing the new Sunward Island map and the Corridor of Echoes permanent anomaly zone requires completing the Version 1.1 main story episode, "Dreamwalk Corridor."
+To qualify for the bulk of these rewards, Appraisers must have created their character before the maintenance window on June 3, 2026. Additionally, several event-based rewards are gated behind story progression. Accessing the new Sunward Island map and the Corridor of Echoes permanent anomaly zone requires completing the Version 1.1 main story episode, "[Dreamwalk Corridor](https://ntecodex.com/faq)."
 
 ## Direct Answer
 

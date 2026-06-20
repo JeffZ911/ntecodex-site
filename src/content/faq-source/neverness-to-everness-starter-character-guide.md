@@ -133,7 +133,7 @@ Rerolling in Neverness to Everness takes approximately [information unavailable]
 To avoid hitting a progression wall, follow this roadmap:
 1.  **Levels 1-10:** Focus exclusively on the Main Story. Do not spend materials on A-rank weapons (Arcs). Use the "Training Arcs" provided by the tutorial.
 2.  **Levels 11-15:** Begin the City Tycoon management. Assign Mint and Adler to the "Eibon Antique Shop" to generate passive income. This is where you begin farming materials for Zero and Mint.
-3.  **Levels 16-18:** Clear Anomaly Zone 1 and 2. This will provide the final experience needed to reach City Tycoon Level 18 and unlock Chiz.
+3.  **Levels 16-18:** Clear Anomaly Zone 1 and 2. This will provide the final experience needed to reach City Tycoon Level 18 and [unlock Chiz](https://ntecodex.com/faq).
 4.  **Level 19-20:** Use your Standard Board Selector. At this point, you should have enough materials to instantly bring your chosen S-rank to Level 20.
 
 ## Related Content and Advanced Tips
