@@ -40,7 +40,7 @@ Understanding the interplay between these three systems is the foundation of eff
 
 ### Hunter Level vs. Character Resonance
 
-While Hunter Level is earned through active play—such as completing quests and spending stamina—Character Resonance is primarily tied to the Scarborough Fair gacha system and specific high-level rewards from the City Tycoon management mode. You cannot "grind" Character Resonance through combat; it requires specific resources called Mind Shards. Conversely, a high Character Resonance level on a character like Daffodil will not help you unlock new story chapters if your Hunter Level is too low.
+While Hunter Level is earned through active play—such as completing quests and spending stamina—Character Resonance is primarily tied to the [Scarborough Fair gacha](https://ntecodex.com/faq) system and specific high-level rewards from the City Tycoon management mode. You cannot "grind" Character Resonance through combat; it requires specific resources called Mind Shards. Conversely, a high Character Resonance level on a character like Daffodil will not help you unlock new story chapters if your Hunter Level is too low.
 
 ### Why Increasing Your Level is Critical
 
@@ -59,7 +59,7 @@ Progression in NTE is strictly gated. If you do not maintain a steady increase i
 
 To increase your account-wide Resonance (Hunter Level), you must focus on activities that grant Hunter EXP. The most efficient methods include completing Main Episodes, finishing Spinoff Quests, and consistently clearing your Daily Participation Tasks in the Exploration Guide.
 
-To increase individual Character Resonance, you must acquire Mind Shards for that specific Esper. These are obtained by pulling duplicates in the Scarborough Fair gacha or by reaching milestone levels in the City Tycoon business simulation. Once you have the required Mind Shards, navigate to the Esper's "Awakening" menu to activate the next Resonance tier.
+To increase individual Character Resonance, you must acquire Mind Shards for that specific Esper. These are obtained by pulling duplicates in the [Scarborough Fair](https://ntecodex.com/faq) gacha or by reaching milestone levels in the City Tycoon business simulation. Once you have the required Mind Shards, navigate to the Esper's "Awakening" menu to activate the next Resonance tier.
 
 **Top 5 Sources for Hunter EXP:**
 1.  **Main Episodes:** 500 – 2,000 EXP per mission.
@@ -111,7 +111,7 @@ Character Resonance is the primary way to customize and significantly boost the 
 *   **A4 & A5:** Further enhance skill levels and base statistics.
 *   **A6 (Second Resonance Effect):** The final tier, often granting a transformative power that defines the character's "best-in-slot" status for endgame content.
 
-To unlock these, you need Mind Shards. While most Mind Shards come from the Scarborough Fair gacha, F2P players should focus on the City Tycoon rewards.
+To unlock these, you need Mind Shards. While most Mind Shards come from the Scarborough [Fair gacha](https://ntecodex.com/faq), F2P players should focus on the City Tycoon rewards.
 
 ### The Role of City Tycoon in Progression
 

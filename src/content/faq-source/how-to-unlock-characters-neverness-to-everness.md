@@ -27,7 +27,7 @@ Starting a journey in Hethereau requires a strong team of Espers to handle the a
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-24._
 
 
-The launch of Neverness to Everness (NTE) on April 29, 2026, introduced a vibrant urban open-world filled with "Espers"—individuals capable of wielding supernatural abilities to combat anomalies. Because team composition is vital for clearing high-level content like the "Anomalous Deep," understanding the various acquisition paths for these characters is the first step for any new player. This guide focuses on maximizing your roster through free progression and the unique Scarborough Fair system.
+The launch of Neverness to Everness (NTE) on April 29, 2026, introduced a vibrant urban open-world filled with "Espers"—individuals capable of wielding supernatural abilities to combat anomalies. Because team composition is vital for clearing high-level content like the "Anomalous Deep," understanding the various acquisition paths for these characters is the first step for any new player. This guide focuses on maximizing your roster through free progression and the unique [Scarborough Fair](https://ntecodex.com/faq) system.
 
 ## Question Restated
 
@@ -36,9 +36,9 @@ The launch of Neverness to Everness (NTE) on April 29, 2026, introduced a vibran
 
 When starting your journey in NTE, several questions regarding character acquisition are common:
 
-*   **How do you get new characters (Espers) in Neverness to Everness?** Most characters are obtained through the Scarborough Fair gacha, but several are tied to specific milestones in the Hethereau city narrative.
+*   **How do you get new characters (Espers) in Neverness to Everness?** Most characters are obtained through the [Scarborough Fair gacha](https://ntecodex.com/faq), but several are tied to specific milestones in the Hethereau city narrative.
 *   **Which characters can be obtained for free through story progression?** The game provides a full functional team of six characters through the main quest, login rewards, and side activities.
-*   **How does the Scarborough Fair gacha system work?** Unlike traditional "pull" systems, NTE uses a board-game mechanic involving dice rolls and tile-based rewards.
+*   **How does the Scarborough [Fair gacha](https://ntecodex.com/faq) system work?** Unlike traditional "pull" systems, NTE uses a board-game mechanic involving dice rolls and tile-based rewards.
 *   **What is the fastest way to expand your roster at launch?** Utilizing the pre-registration rewards and the one-time S-Rank selector is the most efficient path for new accounts.
 
 ## Direct Answer

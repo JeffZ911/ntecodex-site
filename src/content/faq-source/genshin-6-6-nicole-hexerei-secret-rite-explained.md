@@ -124,7 +124,7 @@ The debate between NTE and Genshin players often centers on flexibility versus f
 *   **NTE's Esper Synergy**: In Neverness to Everness, the Esper Resonance system is highly flexible. It relies on Anima, Cosmos, or Chaos attributes. For instance, Hotori (Cosmos) can synergize with Nanally (Anima) to trigger powerful Esper Cycles regardless of their lore background.
 *   **Genshin's [Secret Rite](https://ntecodex.com/faq)**: This system is more rigid but offers higher power ceilings for specific lore groups. The Hexerei: [Secret Rite rewards](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards) players for building a "Coven Team," which feels more integrated into the world's narrative.
 
-| Feature | NTE (Esper Resonance) | [Genshin 6](https://ntecodex.com/faq).6 (Secret Rite) |
+| Feature | NTE (Esper Resonance) | [Genshin 6](https://ntecodex.com/faq).6 ([Secret Rite](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards)) |
 | :--- | :--- | :--- |
 | **Synergy Type** | Attribute-based | Faction-locked |
 | **Unlock Method** | Character Level/Ascension | "Witch's Homework" Quest |

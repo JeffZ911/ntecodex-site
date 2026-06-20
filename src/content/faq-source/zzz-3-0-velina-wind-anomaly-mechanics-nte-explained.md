@@ -71,7 +71,7 @@ In Neverness to Everness, "Anomaly" is a noun rather than a combat mechanic. It 
 
 The fundamental difference between these systems lies in how "Wind" (or its equivalent) and "Anomaly" are categorized. In Zenless Zone Zero, Wind is an element that triggers the Windswept status. In Neverness to Everness, the closest thematic equivalent to a Wind element is the Gas attribute, which defines certain weapons (Arcs) and character playstyles.
 
-| Feature | Zenless Zone Zero (ZZZ 3.0) | Neverness to Everness (NTE) |
+| Feature | Zenless Zone Zero ([ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0) | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
 | **Anomaly Definition** | A combat status/meter buildup. | A supernatural entity or mission. |
 | **Wind Equivalent** | Wind Attribute (e.g., Velina). | Gas Attribute Arcs. |

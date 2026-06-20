@@ -43,7 +43,7 @@ The arrival of the June 2026 updates has fundamentally shifted the gacha landsca
 
 # ZZZ 3.0: How to Unlock Pyrois Agent and Neverness to Everness Free S-Rank Guide
 
-In ZZZ 3.0, you can unlock the S-Rank Agent Pyrois for free by completing the "A Sleepwalker's Confession" story chapter. In Neverness to Everness (NTE), players obtain the S-Rank Chiz for free by reaching City Tycoon Level 18.
+In [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0, you can unlock the S-Rank Agent Pyrois for free by completing the "A Sleepwalker's Confession" story chapter. In Neverness to Everness (NTE), players obtain the S-Rank Chiz for free by reaching City Tycoon Level 18.
 
 ## Question Restated
 
