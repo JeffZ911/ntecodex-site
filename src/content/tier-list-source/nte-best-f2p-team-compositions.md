@@ -185,4 +185,4 @@ Leaks and official previews for Version 1.1 suggest the introduction of two new 
 - Insider Gaming NTE Guide
 - Game8 Neverness to Everness Wiki — https://game8.co/games/Neverness-to-Everness
 - Reddit r/NevernessToEverness — https://www.reddit.com/r/NevernessToEverness/
-- IGN: Neverness to Everness Combat Mechanics Explained
+- IGN: Neverness to Everness Combat [Mechanics Explained](https://ntecodex.com/guides/best-ergonomic-gear-for-long-gacha-grinding-sessions)

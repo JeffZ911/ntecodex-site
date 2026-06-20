@@ -127,5 +127,5 @@ If you are an Acheron main in *Honkai: Star Rail*, [Mortenax Blade is an essenti
 - SHINKU DRIP JUST DROPPED + BROKEN DPS KIT REVEALED! — https://www.youtube.com/watch?v=GGhDsPCUsZu
 - Shinku Guide and Build | Neverness To Everness
 - Hethereau Special Bulletin丨Iroi — https://www.reddit.com/r/NevernessToEverness/comments/1d9v6e0/hethereau_special_bulletin_iroi/
-- HIMEKO • NOVA ALL MECHANICS EXPLAINED! — https://www.youtube.com/watch?v=fM-dq3AwiTe
+- HIMEKO • NOVA ALL [MECHANICS EXPLAINED](https://ntecodex.com/guides/best-ergonomic-gear-for-long-gacha-grinding-sessions)! — https://www.youtube.com/watch?v=fM-dq3AwiTe
 - Himeko Nova Team Guide (v1) - General overview — https://www.reddit.com/r/HimekoMains/comments/1d6v6e0/himeko_nova_team_guide_v1_general_overview/

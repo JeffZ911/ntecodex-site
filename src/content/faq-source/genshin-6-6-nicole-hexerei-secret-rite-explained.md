@@ -150,7 +150,7 @@ The current banner schedule for Genshin Impact 6.6 includes:
 For F2P players, Nicole is the highest priority due to her universal ATK buffs and shielding. Lohen serves as a powerful Cryo carry who benefits significantly from Nicole's off-field coordinated attacks.
 
 ### The Evolution of Team-Building Passives
-The shift toward faction-based mechanics in 2026 reflects a broader trend in open-world gacha games. Both NTE and Genshin are moving away from simple elemental reactions and toward deeper, character-specific synergies. This evolution ensures that even as new units are released, the "foundational" characters of each game remain relevant through specialized resonance systems like the Secret Rite.
+The shift toward faction-based mechanics in 2026 reflects a broader trend in open-world gacha games. Both NTE and Genshin are moving away from simple elemental reactions and toward deeper, character-specific synergies. This evolution ensures that even as new units are released, the "foundational" characters of each game remain relevant through specialized resonance systems like the [Secret Rite](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).
 
 ## Frequently Asked Questions
 

@@ -50,7 +50,7 @@ In the neon-drenched streets of Hethereau, building a versatile team of Espers i
 ![Question Restated](/img/how-to-unlock-characters-nte-20260522/inline-1.webp)
 
 
-Acquiring new characters is the central progression loop for any Appraiser in Neverness to Everness (NTE). Since the game's launch on April 29, 2026, many players have looked for the most efficient ways to expand their roster without necessarily opening their wallets. The process involves a mix of narrative progression, engagement with life-simulation systems, and the unique board-game-inspired gacha known as Scarborough Fair.
+Acquiring new characters is the central progression loop for any Appraiser in Neverness to Everness (NTE). Since the game's launch on April 29, 2026, many players have looked for the most efficient ways to expand their roster without necessarily opening their wallets. The process involves a mix of narrative progression, engagement with life-simulation systems, and the unique board-game-inspired gacha known as [Scarborough Fair](https://ntecodex.com/faq).
 
 ### The Importance of Character Variety in NTE
 
@@ -65,7 +65,7 @@ Characters are divided into two main rarities: S-Class and A-Class. S-Class Espe
 ![Direct Answer](/img/how-to-unlock-characters-nte-20260522/inline-2.webp)
 
 
-Unlocking characters in Neverness to Everness is accomplished through three primary avenues: completing Main Story chapters, progressing through the City Tycoon management system, and participating in the Scarborough Fair gacha. At launch, the game is remarkably generous, offering 6 characters entirely for free through gameplay milestones and login rewards.
+Unlocking characters in Neverness to Everness is accomplished through three primary avenues: completing Main Story chapters, progressing through the City Tycoon management system, and participating in the [Scarborough Fair gacha](https://ntecodex.com/faq). At launch, the game is remarkably generous, offering 6 characters entirely for free through gameplay milestones and login rewards.
 
 The gacha system, Scarborough Fair, uses two types of dice: Fabricated Dice for the permanent Standard Board and Solid Dice for the rotating Limited Boards. Unlike many other urban RPGs, NTE does not use a 50/50 system for limited banners; the first S-Rank you land on a limited board is guaranteed to be the featured character. Additionally, a one-time S-Rank Selector is granted to every player after completing 50 pulls on the Standard Board.
 
@@ -106,7 +106,7 @@ Scarborough Fair is a departure from traditional "pull" mechanics. It is present
 
 Each dice roll costs 160 Annulith. A "10-pull" costs 1,600 Annulith and results in 10 dice rolls that move you cumulatively around the board.
 
-[Placeholder for Image 2: Screenshot of the Scarborough Fair gacha board showing the dice roll mechanic and character reward tiles.]
+[Placeholder for Image 2: Screenshot of the Scarborough [Fair gacha](https://ntecodex.com/faq) board showing the dice roll mechanic and character reward tiles.]
 
 ### Pity Mechanics and Board Modification
 

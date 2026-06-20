@@ -59,7 +59,7 @@ In *Zenless Zone Zero*, characters are referred to as [Agents](https://zzz.hoyov
 
 ### ZZZ 3.0 vs. NTE 1.1: Major Free S-Rank Comparison
 
-| Feature | ZZZ 3.0 (Pyrois) | NTE 1.1 (Chiz) |
+| Feature | [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0 (Pyrois) | NTE 1.1 (Chiz) |
 | :--- | :--- | :--- |
 | **Release Date** | June 17, 2026 | April 29, 2026 (Launch) |
 | **Rarity** | S-Rank | S-Class |

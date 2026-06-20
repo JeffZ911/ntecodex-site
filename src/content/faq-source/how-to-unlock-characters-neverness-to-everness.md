@@ -46,9 +46,9 @@ When starting your journey in NTE, several questions regarding character acquisi
 ![Direct Answer](/img/how-to-unlock-characters-neverness-to-everness/inline-2.webp)
 
 
-Characters in Neverness to Everness (NTE) are unlocked through three primary methods: Main Story progression, limited-time events, and the Scarborough Fair gacha system. Players receive six characters for free: Zero (Starter), Mint (Prologue), Adler (Story), Haniel (Mail/Pre-reg), Aurelia (Login), and Chiz (City Tycoon).
+Characters in Neverness to Everness (NTE) are unlocked through three primary methods: Main Story progression, limited-time events, and the [Scarborough Fair gacha](https://ntecodex.com/faq) system. Players receive six characters for free: Zero (Starter), Mint (Prologue), Adler (Story), Haniel (Mail/Pre-reg), Aurelia (Login), and Chiz (City Tycoon).
 
-A one-time S-Rank Selector is awarded after completing 50 pulls on the Standard Board, allowing players to choose a high-tier Esper to anchor their team. The gacha system, Scarborough Fair, uses a board-game mechanic where players roll Fabricated or Solid Dice to land on character tiles. Notably, NTE features a "No 50/50" system for limited banners, meaning the featured S-Rank character is guaranteed at hard pity, which is set at 90 pulls.
+A one-time S-Rank Selector is awarded after completing 50 pulls on the Standard Board, allowing players to choose a high-tier Esper to anchor their team. The gacha system, [Scarborough Fair](https://ntecodex.com/faq), uses a board-game mechanic where players roll Fabricated or Solid Dice to land on character tiles. Notably, NTE features a "No 50/50" system for limited banners, meaning the featured S-Rank character is guaranteed at hard pity, which is set at 90 pulls.
 
 ### Summary of Free Characters and Unlock Conditions
 
@@ -209,4 +209,4 @@ To stay ahead, always save at least 90 Solid Dice to ensure you can guarantee th
 - IGN: Neverness to Everness Launch Guide
 - Prydwen Institute: NTE Character Database
 - Reddit: r/NTE_Official — https://www.reddit.com/r/NTE_Official/
-- GameSpot: How the Scarborough Fair Gacha Works — https://www.gamespot.com/articles/neverness-to-everness-gacha-guide/1100-6523000/
+- GameSpot: How the Scarborough [Fair Gacha](https://ntecodex.com/faq) Works — https://www.gamespot.com/articles/neverness-to-everness-gacha-guide/1100-6523000/
