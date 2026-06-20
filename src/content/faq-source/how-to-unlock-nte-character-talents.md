@@ -60,7 +60,7 @@ To access the progression menu, you must navigate to the Character Details scree
 
 Character talents, or Esper Abilities, are unlocked via the Esper Ability tab in the Character Details menu. While basic skill upgrades are available early on, their maximum level is strictly capped by the character's current level and Ascension tier. Advanced passives and Cycle Enhancements specifically require the character to reach Ascension Level 2.
 
-Upgrading these talents requires a combination of Beetle Coins (the standard currency) and Esper Ability Progression Materials like The Olive Branch or White Rose. Furthermore, the Awakening system provides a secondary path for talent progression. By using Mind Shards obtained from duplicate pulls in the Scarborough Fair gacha, players can unlock up to six levels of unique character-specific talents, including powerful Resonance effects at Awakening levels 3 and 6.
+Upgrading these talents requires a combination of Beetle Coins (the standard currency) and Esper Ability Progression Materials like The Olive Branch or White Rose. Furthermore, the Awakening system provides a secondary path for talent progression. By using Mind Shards obtained from duplicate pulls in the Scarborough [Fair gacha](https://ntecodex.com/faq), players can unlock up to six levels of unique character-specific talents, including powerful Resonance effects at Awakening levels 3 and 6.
 
 ### Quick Summary of Unlock Requirements
 

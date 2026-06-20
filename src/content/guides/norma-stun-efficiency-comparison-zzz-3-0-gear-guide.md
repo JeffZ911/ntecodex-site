@@ -53,7 +53,7 @@ Optimizing your hardware setup is the most direct way to reduce the physical fri
 *   Heavy 134g weight makes it unsuitable for high-speed FPS flicking
 *   Internal contact pins on side plates can oxidize, requiring periodic cleaning to prevent input drops
 
-**Verdict:** With its 19+1 programmable buttons and the ability to customize scroll resistance via software, this mouse is built for the high-repetition cycles required for Norma stun efficiency comparison ZZZ 3.0 sessions. The optical switches are rated for 90 million clicks, ensuring longevity through heavy grinding.
+**Verdict:** With its 19+1 programmable buttons and the ability to customize scroll resistance via software, this mouse is built for the high-repetition cycles required for Norma stun efficiency comparison [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0 sessions. The optical switches are rated for 90 million clicks, ensuring longevity through heavy grinding.
 
 ### Razer Huntsman V3 Pro TKL
 *   **ASIN:** B0CN13VC2W

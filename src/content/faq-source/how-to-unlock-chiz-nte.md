@@ -175,7 +175,7 @@ While Chiz is the most prominent free S-Rank, Neverness to Everness offers other
 ## Frequently Asked Questions
 
 ### Can I get Chiz if I miss her "banner"?
-Chiz does not have a limited-time banner. She is a permanent reward within the City Tycoon system. You can unlock her at any time by reaching Tycoon Level 18, regardless of which characters are currently featured in the Scarborough Fair gacha.
+Chiz does not have a limited-time banner. She is a permanent reward within the City Tycoon system. You can unlock her at any time by reaching Tycoon Level 18, regardless of which characters are currently featured in the [Scarborough Fair gacha](https://ntecodex.com/faq).
 
 ### What is the fastest way to get Fons for Tycoon Level 18?
 The fastest method is the Pink Paws Heist, which allows you to earn up to 1,000,000 Fons every two weeks. Supplement this by completing daily Anomaly Commissions and hunting for Blind Mammon world events, which provide consistent currency without using your weekly City Stamina.

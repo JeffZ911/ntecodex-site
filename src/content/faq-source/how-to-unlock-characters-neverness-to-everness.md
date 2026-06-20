@@ -95,7 +95,7 @@ Chiz is a powerful sub-DPS who excels in off-field damage, making her a "must-ha
 
 ### Scarborough Fair: The Board Gacha Explained
 
-The gacha in NTE is stylized as **Scarborough Fair**, a board game where your "pulls" are represented by dice rolls. 
+The gacha in NTE is stylized as **[Scarborough Fair](https://ntecodex.com/faq)**, a board game where your "pulls" are represented by dice rolls. 
 
 *   **Fabricated Dice:** Used for the Standard Board ("The Eternal City").
 *   **Solid Dice:** Used for Limited-Time Banners (e.g., [Nanally](/characters/nanally-guide-nte)’s banner, "The Ichi-daime").

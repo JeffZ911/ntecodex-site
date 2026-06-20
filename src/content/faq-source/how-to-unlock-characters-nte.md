@@ -32,14 +32,14 @@ Building a powerful team of Espers in Hethereau requires more than just luck; it
 
 Players arriving in the neon-soaked streets of Hethereau often find themselves asking: how do I unlock new characters (Espers) in Neverness to Everness? Unlike traditional gacha games that rely solely on menu-based summoning, NTE integrates character acquisition into its open-world activities and a unique board-game-style recruitment system. 
 
-Specifically, new players need to know which characters are available for free through story progression and which require active participation in the Scarborough Fair gacha system. Furthermore, understanding the requirements for the free S-Rank selector and the milestones within the City Tycoon management mode is essential for optimizing your roster without wasting premium currency. This guide breaks down every recruitment method available as of the May 2026 update.
+Specifically, new players need to know which characters are available for free through story progression and which require active participation in the [Scarborough Fair gacha](https://ntecodex.com/faq) system. Furthermore, understanding the requirements for the free S-Rank selector and the milestones within the City Tycoon management mode is essential for optimizing your roster without wasting premium currency. This guide breaks down every recruitment method available as of the May 2026 update.
 
 ## Direct Answer
 
 ![Direct Answer](/img/how-to-unlock-characters-nte/inline-2.webp)
 
 
-Characters in NTE are unlocked through four primary methods: Story Progression, Login/Pre-registration Events, the City Tycoon management mode, and the Scarborough Fair gacha system. Story progression provides the foundational members of your team, while the management simulation and gacha systems allow for high-tier specialization.
+Characters in NTE are unlocked through four primary methods: Story Progression, Login/Pre-registration Events, the City Tycoon management mode, and the Scarborough [Fair gacha](https://ntecodex.com/faq) system. Story progression provides the foundational members of your team, while the management simulation and gacha systems allow for high-tier specialization.
 
 Free story characters include Zero (the Main Character), Mint (an A-rank Anima DPS), and Adler (an A-rank Incantation utility). Beyond the main quest, Haniel (an A-rank Psyche) and Aurelia (an A-rank) are obtained via pre-registration rewards and the 3-day launch login event. For those looking for S-rank power without spending, Chiz (S-rank Cosmos) is unlocked by reaching Level 18 in the City Tycoon side activity.
 

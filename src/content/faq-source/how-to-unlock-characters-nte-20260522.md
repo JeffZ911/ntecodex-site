@@ -67,7 +67,7 @@ Characters are divided into two main rarities: S-Class and A-Class. S-Class Espe
 
 Unlocking characters in Neverness to Everness is accomplished through three primary avenues: completing Main Story chapters, progressing through the City Tycoon management system, and participating in the [Scarborough Fair gacha](https://ntecodex.com/faq). At launch, the game is remarkably generous, offering 6 characters entirely for free through gameplay milestones and login rewards.
 
-The gacha system, Scarborough Fair, uses two types of dice: Fabricated Dice for the permanent Standard Board and Solid Dice for the rotating Limited Boards. Unlike many other urban RPGs, NTE does not use a 50/50 system for limited banners; the first S-Rank you land on a limited board is guaranteed to be the featured character. Additionally, a one-time S-Rank Selector is granted to every player after completing 50 pulls on the Standard Board.
+The gacha system, [Scarborough Fair](https://ntecodex.com/faq), uses two types of dice: Fabricated Dice for the permanent Standard Board and Solid Dice for the rotating Limited Boards. Unlike many other urban RPGs, NTE does not use a 50/50 system for limited banners; the first S-Rank you land on a limited board is guaranteed to be the featured character. Additionally, a one-time S-Rank Selector is granted to every player after completing 50 pulls on the Standard Board.
 
 | Character Name | Rarity | Primary Unlock Method | Element |
 | :--- | :--- | :--- | :--- |

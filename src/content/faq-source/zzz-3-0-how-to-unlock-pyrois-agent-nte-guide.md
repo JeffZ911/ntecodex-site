@@ -78,7 +78,7 @@ No, Pyrois is exclusive to *Zenless Zone Zero*. However, NTE players often compa
 ![Direct Answer](/img/zzz-3-0-how-to-unlock-pyrois-agent-nte-guide/inline-2.webp)
 
 
-Unlocking the S-Rank Agent Pyrois in ZZZ 3.0 requires completing the main story chapter titled [A Sleepwalker's Confession](https://store.steampowered.com/news/app/2786300/view/4181104649553335545). This mission becomes available once you reach the new Roscaelifer region. Unlike previous S-Ranks, Pyrois is not tied to a limited-time banner; once the story requirements are met, the character joins your roster permanently.
+Unlocking the S-Rank Agent Pyrois in [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0 requires completing the main story chapter titled [A Sleepwalker's Confession](https://store.steampowered.com/news/app/2786300/view/4181104649553335545). This mission becomes available once you reach the new Roscaelifer region. Unlike previous S-Ranks, Pyrois is not tied to a limited-time banner; once the story requirements are met, the character joins your roster permanently.
 
 In *Neverness to Everness*, the path to a free S-Rank is tied to the City Tycoon system. You must reach Tycoon Level 18 to unlock Chiz. Additionally, NTE provides a one-time S-Class Selection on the "Strange Encounters" Standard Board after completing 50 pulls, allowing you to choose from six different high-tier Espers.
 

@@ -164,7 +164,7 @@ Nicole's buffs and shields scale entirely with her personal ATK. Her signature 5
 Yes, Nanally remains the premier Anima main DPS in Neverness to Everness. In fact, Hotori's "Misty Tipsy Style" banner introduced mechanics that synergize specifically with Anima units, further solidifying Nanally's position at the top of the tier list.
 
 ### Can non-Hexerei characters benefit from Nicole's Arcane Projections?
-Yes, Nicole's Elemental Burst triggers Arcane Projections for any active character. However, if the Hexerei: Secret Rite is not active, these projections deal significantly less damage and do not receive the 150% ATK-based boost.
+Yes, Nicole's Elemental Burst triggers Arcane Projections for any active character. However, if the Hexerei: [Secret Rite](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards) is not active, these projections deal significantly less damage and do not receive the 150% ATK-based boost.
 
 ## Sources
 
