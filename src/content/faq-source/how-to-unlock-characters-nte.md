@@ -70,7 +70,7 @@ As you progress through the first chapter and reach the Eibon Antique Shop, Adle
 
 ### The Scarborough Fair Gacha System Explained
 
-The most distinctive feature of NTE is the Scarborough Fair gacha. Instead of a standard animation, you are presented with a board game. Players roll dice—valued 1 through 6—to move a Chuppa piece across various reward tiles. 
+The most distinctive feature of NTE is the [Scarborough Fair gacha](https://ntecodex.com/faq). Instead of a standard animation, you are presented with a board game. Players roll dice—valued 1 through 6—to move a Chuppa piece across various reward tiles. 
 
 There are two types of dice used here:
 1. **Fabricated Dice:** Used for the Standard Board (Permanent Pool).

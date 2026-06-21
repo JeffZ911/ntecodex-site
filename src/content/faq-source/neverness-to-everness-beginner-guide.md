@@ -37,7 +37,7 @@ What is the best way to start Neverness to Everness (NTE) as a new player? As an
 ![Direct Answer](/img/neverness-to-everness-beginner-guide/inline-2.webp)
 
 
-The most effective way to start your journey in Hethereau is to prioritize the main story episodes. Completing the prologue and the first two chapters is mandatory to unlock the City Tycoon system and the Scarborough Fair gacha. Unlike many contemporary gacha games, NTE features a "No 50/50" system, meaning you are 100% guaranteed the featured S-rank character—such as [Hotori](/characters/hotori-best-team-nte)—at exactly 90 pulls.
+The most effective way to start your journey in Hethereau is to prioritize the main story episodes. Completing the prologue and the first two chapters is mandatory to unlock the City Tycoon system and the Scarborough [Fair gacha](https://ntecodex.com/faq). Unlike many contemporary gacha games, NTE features a "No 50/50" system, meaning you are 100% guaranteed the featured S-rank character—such as [Hotori](/characters/hotori-best-team-nte)—at exactly 90 pulls.
 
 Beginners must manage two distinct types of stamina: Pixels, which are used for combat challenges and character ascension materials, and City Stamina, which is dedicated to tycoon management and lifestyle activities. Your primary goal should be raising your Hunter Level to increase your Appraisal Level (the world level), which improves the quality of loot dropped by anomalies and bosses.
 

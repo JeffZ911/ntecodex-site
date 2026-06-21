@@ -102,7 +102,7 @@ In *Neverness to Everness*, the path to a free S-Rank is tied to the City Tycoon
 
 
 ### Unlocking Pyrois: A Sleepwalker's Confession Walkthrough
-The ZZZ 3.0 update marks the beginning of Season 3, shifting the focus away from New Eridu's streets to the floating classified zone of [Roscaelifer](https://zzz.hoyoverse.com/en-us/news/124434). To begin the unlock process for Pyrois, you must first clear the Eridan Sunset epilogue from the previous patch.
+The [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0 update marks the beginning of Season 3, shifting the focus away from New Eridu's streets to the floating classified zone of [Roscaelifer](https://zzz.hoyoverse.com/en-us/news/124434). To begin the unlock process for Pyrois, you must first clear the Eridan Sunset epilogue from the previous patch.
 
 Once in Roscaelifer, the story follows the "A Sleepwalker's Confession" arc. The pivotal moment occurs during the [Celestial Nexus](https://zzz.hoyoverse.com/en-us/news/124434) commission, where the Proxy twins (Belle and Wise) manifest their Etheric forms. Upon completing the third part of this chapter, Pyrois is automatically added to your Agent list. 
 

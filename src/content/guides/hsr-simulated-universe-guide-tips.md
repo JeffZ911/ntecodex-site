@@ -38,7 +38,7 @@ Clearing the Simulated Universe is a core part of the endgame loop. Weekly reset
 
 ### Understanding Path Resonance
 
-When you collect three Blessings of your chosen Path, you unlock Path Resonance. This is a powerful active ability that can be manually triggered during combat. As you collect 6, 10, and 14 Blessings of that same Path, you can choose Resonance Formations to further enhance the ability, such as increasing its damage, allowing it to regenerate energy faster, or adding secondary status effects.
+When you collect three Blessings of your chosen Path, you unlock [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders). This is a powerful active ability that can be manually triggered during combat. As you collect 6, 10, and 14 Blessings of that same Path, you can choose Resonance Formations to further enhance the ability, such as increasing its damage, allowing it to regenerate energy faster, or adding secondary status effects.
 
 ### The Importance of the Ability Tree
 

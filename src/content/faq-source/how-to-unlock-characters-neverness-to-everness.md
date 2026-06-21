@@ -106,7 +106,7 @@ When you roll, your piece (a small Chuppa mascot) moves across tiles.
 *   **Hero Chests:** These contain character shards (fragments) or upgrade materials.
 *   **Fortune Tiles:** Trigger random events that can boost your next roll or grant bonus currency.
 
-The "No 50/50" system is the most player-friendly aspect of Scarborough Fair. On limited banners, if you reach 90 pulls (the hard pity), you are 100% guaranteed to receive the featured S-Rank character. There is no risk of "losing" to a standard pool character.
+The "No 50/50" system is the most player-friendly aspect of [Scarborough Fair](https://ntecodex.com/faq). On limited banners, if you reach 90 pulls (the hard pity), you are 100% guaranteed to receive the featured S-Rank character. There is no risk of "losing" to a standard pool character.
 
 ### Scarborough Fair Gacha Rates and Pity Thresholds
 

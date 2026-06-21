@@ -72,7 +72,7 @@ Optimizing your hardware setup is the most direct way to reduce the physical fri
 *   Magnetic wrist rest is made of hard textured plastic rather than plush cushioning
 *   The high-pitched 'ping' sound of the aluminum top plate can be distracting in quiet rooms
 
-**Verdict:** The Hall Effect sensors allow for 'Rapid Trigger' functionality, which is a measurable advantage for the frame-perfect inputs often needed in ZZZ 3.0. Its 1000Hz polling rate and adjustable actuation points make it the most efficient keyboard for high-APM combat scenarios.
+**Verdict:** The Hall Effect sensors allow for 'Rapid Trigger' functionality, which is a measurable advantage for the frame-perfect inputs often needed in [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0. Its 1000Hz polling rate and adjustable actuation points make it the most efficient keyboard for high-APM combat scenarios.
 
 ### Secretlab TITAN Evo 2022 Regular
 *   **ASIN:** B0B5DPVR4M

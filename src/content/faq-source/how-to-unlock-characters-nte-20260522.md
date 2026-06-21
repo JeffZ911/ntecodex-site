@@ -97,7 +97,7 @@ The most significant free unlock is **Chiz**, an S-Rank Cosmos character. Unlike
 
 ### The Scarborough Fair Gacha System Explained
 
-Scarborough Fair is a departure from traditional "pull" mechanics. It is presented as a Monopoly-style board game where your "pulls" are actually dice rolls. You move a game piece (a Chuppa) across a board filled with various tiles.
+[Scarborough Fair](https://ntecodex.com/faq) is a departure from traditional "pull" mechanics. It is presented as a Monopoly-style board game where your "pulls" are actually dice rolls. You move a game piece (a Chuppa) across a board filled with various tiles.
 
 *   **Fabricated Dice:** Used for the "Strange Encounters" Standard Board.
 *   **Solid Dice:** Used for Limited-time Event Boards (e.g., Nanally or Hotori).

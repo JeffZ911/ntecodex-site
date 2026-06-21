@@ -45,7 +45,7 @@ Using the correct names for currencies helps you find the right shops and exchan
 
 Stellar Jade is the premium currency of Honkai: Star Rail; in Neverness to Everness, the equivalent currency is called Annulite. This is the primary resource used to purchase Solid Dice (for Limited Banners like "The Ichi-daime") and Fabricated Dice (for the Standard Banner). 
 
-To obtain Annulite, you must participate in the various activities offered within the city of Hethereau, including daily missions, world exploration, and management simulations. The standard exchange rate is 160 Annulite per single Dice roll on the Scarborough Fair gacha board. 
+To obtain Annulite, you must participate in the various activities offered within the city of Hethereau, including daily missions, world exploration, and management simulations. The standard exchange rate is 160 Annulite per single Dice roll on the [Scarborough Fair gacha](https://ntecodex.com/faq) board. 
 
 ### Quick-Reference: Annulite Exchange Rates and Pull Costs
 

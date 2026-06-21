@@ -39,7 +39,7 @@ As the gacha landscape shifts in 2026, players are balancing their weekly routin
 
 # HSR 4.3 Cyclical Extrapolation Rewards Guide: Comparison with Neverness to Everness
 
-The HSR 4.3 Cyclical Extrapolation rewards include a weekly haul of 225 Stellar Jades, Synchronicity Points for the Divergent Universe level, and Planar Ornaments obtained through weekly Save Files. In comparison, Neverness to Everness (NTE) offers a parallel weekly economy where players earn Anulith and Fabricated Dice through Anomaly missions and passive Urban Management systems like the Cafe by Origen and Tofu Delivery.
+The [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 Cyclical Extrapolation rewards include a weekly haul of 225 Stellar Jades, Synchronicity Points for the Divergent Universe level, and Planar Ornaments obtained through weekly Save Files. In comparison, Neverness to Everness (NTE) offers a parallel weekly economy where players earn Anulith and Fabricated Dice through Anomaly missions and passive Urban Management systems like the Cafe by Origen and Tofu Delivery.
 
 ## Question Restated
 

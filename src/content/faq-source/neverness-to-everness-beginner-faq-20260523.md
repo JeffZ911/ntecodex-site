@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Starting your journey in the supernatural city of Hesperia requires more than just a fast car; you need to master the Esper Cycle and the unique Scarborough Fair gacha system.
+Starting your journey in the supernatural city of Hesperia requires more than just a fast car; you need to master the Esper Cycle and the unique Scarborough [Fair gacha](https://ntecodex.com/faq) system.
 
 # Neverness to Everness Beginner FAQ: Your Ultimate Guide to Hesperia
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-23._
