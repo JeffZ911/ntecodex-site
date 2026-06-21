@@ -98,7 +98,7 @@ The gacha system in NTE, known as **Scarborough Fair**, is presented as a digita
 *   **The Board Mechanic:** As you move, you land on "Lucky Tiles" (materials), "Anomaly Tiles" (minor buffs), or "Grand Prize Tiles" (4-star and 5-star characters/weapons).
 *   **Arcs (Weapons):** Arcs are NTE's version of weapons. They require a **Tri-Key** to fully unlock their potential, which is usually obtained by pulling duplicates or through high-level City Tycoon rewards.
 
-!A screenshot of the Scarborough Fair gacha board showing the Monopoly-style layout and dice roll interface.
+!A screenshot of the Scarborough [Fair gacha](https://ntecodex.com/faq) board showing the Monopoly-style layout and dice roll interface.
 
 **Current Banners (May 2026)**
 

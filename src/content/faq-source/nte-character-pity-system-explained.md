@@ -155,7 +155,7 @@ When you roll on the Scarborough Fair board, you will occasionally receive "Warp
 *   **Warp Pieces:** These should be saved to purchase the monthly allowance of discounted Solid and Fabricated Dice from the "Exchange" tab in the shop. This is the most efficient use of this currency.
 *   **Lost Pieces:** This rarer currency can be used to purchase "Synchro Materials" for S-class characters, which allow you to upgrade their talents without needing to pull a second copy of the character. This is essentially the "Constellation" or "Eidolon" equivalent in NTE.
 
-By understanding that the 90-pull hard pity is a safety net rather than a goal, and utilizing the 70-pull Board Modification phase, you can effectively plan your roster. The lack of a 50/50 mechanic makes Neverness to Everness one of the most predictable and fair gacha systems released in 2026, allowing players to focus more on the urban exploration and combat mechanics than on the stress of a coin-flip.
+By understanding that the 90-pull hard pity is a safety net rather than a goal, and utilizing the 70-pull Board Modification phase, you can effectively plan your roster. The lack of a 50/50 mechanic makes Neverness to Everness one of the most predictable and [fair gacha](https://ntecodex.com/faq) systems released in 2026, allowing players to focus more on the urban exploration and combat mechanics than on the stress of a coin-flip.
 
 ## Sources
 

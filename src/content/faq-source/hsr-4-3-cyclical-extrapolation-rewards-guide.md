@@ -109,7 +109,7 @@ One of NTE's standout features is the City Tycoon system. Players can invest in 
 *   **Taxi & Racing:** Other "Hethereau Hobbies" like taxi driving and street racing provide additional avenues to earn currency for purchasing cars and properties.
 
 ### The Fair vs. Warp: Gacha Economy Comparison
-The most significant difference between the two games lies in their gacha architecture. HSR uses the traditional "Warp" system, while NTE uses "The Fair" (also known as Scarborough Fair).
+The most significant difference between the two games lies in their gacha architecture. HSR uses the traditional "Warp" system, while NTE uses "The Fair" (also known as [Scarborough Fair](https://ntecodex.com/faq)).
 
 **NTE's "The Fair" Advantages:**
 *   **No 50/50:** The single most pro-consumer move in NTE is the removal of the 50/50 coin flip. If you pull an S-rank on a limited banner, it is guaranteed to be the featured character.
@@ -142,7 +142,7 @@ As you progress through the 2026 content cycles, staying updated on character bu
 Following the April launch, several characters have emerged as meta-defining units. Nanally, an S-Class **Anima** element character with the **Plasma** attribute, is currently the premier Main DPS due to her powerful follow-up attacks. Hotori, an S-Class **Cosmos** (Light) element Sub-DPS, is highly valued for her time-stop ability, which allows players to pause the battlefield and deal massive burst damage.
 
 ### HSR 4.3 Banner Schedule and Banners
-The HSR 4.3 update features the debut of Graphia and Hysilens. These characters are integrated into the Cyclical Extrapolation trials, allowing players to test their synergy with the latest Equations before committing Stellar Jades to their banners.
+The [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 update features the debut of Graphia and Hysilens. These characters are integrated into the Cyclical Extrapolation trials, allowing players to test their synergy with the latest Equations before committing Stellar Jades to their banners.
 
 ### NTE Gacha System: How "The Fair" Board Works
 The Scarborough Fair system is more than just a gacha; it's a minigame. Players use Solid Dice for limited banners and Fabricated Dice for standard banners. Landing on special tiles like "Slumberland" or "Mystery Boxes" can provide bonus rewards beyond the characters themselves, making every pull feel more interactive than the standard HSR Warp.

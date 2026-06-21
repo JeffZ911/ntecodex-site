@@ -144,7 +144,7 @@ Managing your "stamina" is crucial for long-term growth. Neverness to Everness u
 *   **Character Pixels:** This is your daily regenerating energy (capped at 240). Use these to enter "Memory Fractures" to farm Esper EXP materials, Arc ascension items, and talent books.
 *   **City Stamina:** This is a weekly resource (refreshes every Monday). It is used for "Hethereau Hobbies"—mini-games like street racing, urban delivery, and supernatural photography. These are the best ways to earn large amounts of Fons.
 
-**Annulith** is the premium currency. It is primarily used to purchase Solid Dice for the Scarborough Fair gacha. As a new player, avoid spending Annulith on Character Pixel refreshes or car parts. Save every bit of Annulith for limited character banners, as the power gap between 4-star and 5-star Espers is significant in the endgame "Everness Trials."
+**Annulith** is the premium currency. It is primarily used to purchase Solid Dice for the [Scarborough Fair gacha](https://ntecodex.com/faq). As a new player, avoid spending Annulith on Character Pixel refreshes or car parts. Save every bit of Annulith for limited character banners, as the power gap between 4-star and 5-star Espers is significant in the endgame "Everness Trials."
 
 ## Related
 

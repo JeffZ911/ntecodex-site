@@ -89,7 +89,7 @@ Once an Arc reaches its current level cap, you must perform an **Ascension**. Th
 
 ### The Mixing System: Refining Passive Abilities
 
-If you obtain duplicate copies of an Arc—either through the **Scarborough Fair** gacha or by farming specific world bosses—you can use the **Mixing** system. Mixing functions as the refinement or "awakening" system in NTE. 
+If you obtain duplicate copies of an Arc—either through the **[Scarborough Fair](https://ntecodex.com/faq)** gacha or by farming specific world bosses—you can use the **Mixing** system. Mixing functions as the refinement or "awakening" system in NTE. 
 
 By consuming a duplicate, you increase the **Mixing Intensity** (often denoted as T1 through T5, or A1 through A5). Each rank of Mixing significantly boosts the numerical values of the Arc's unique passive ability. For example, [Nanally](/characters/nanally-guide-nte)'s signature Arc, **Ready-Ready**, sees a substantial jump in its Basic Attack and Critical Riposte damage bonuses at higher Mixing levels.
 
