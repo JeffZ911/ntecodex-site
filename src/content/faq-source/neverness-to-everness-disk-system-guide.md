@@ -70,7 +70,7 @@ A standout feature of the NTE gear loop is its high sub-stat transparency. Unlik
 
 ### Understanding Arc Disks and Mixing
 
-Arc Disks are the cornerstone of your Esper's offensive capabilities. They are primarily obtained through the Scarborough Fair gacha system (using the Dice Board to target specific S-Rank Arcs), the Arc Shop, or as rare drops from world-tier threats like the Headless Biker.
+Arc Disks are the cornerstone of your Esper's offensive capabilities. They are primarily obtained through the [Scarborough Fair gacha](https://ntecodex.com/faq) system (using the Dice Board to target specific S-Rank Arcs), the Arc Shop, or as rare drops from world-tier threats like the Headless Biker.
 
 The progression of an Arc Disk is divided into two main paths: Leveling and Ascension.
 

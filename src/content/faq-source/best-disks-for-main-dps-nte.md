@@ -57,7 +57,7 @@ For Baicang, the undisputed best-in-slot (BiS) disk is Camellia Society. This Sy
 
 F2P players who haven't pulled signature S-Ranks should prioritize the "Day Off" disk, a hidden S-Rank obtainable through world exploration and specific urban side-quests. High-refinement A-Rank disks like "The Last Rose" and "A Time Will Come" also remain competitive, often outperforming R1 S-Rank disks when pushed to R5 (Refinement 5).
 
-| Arc Name | Type | Core Passive Effect | Best For |
+| Arc Name | Type | [Core Passive](https://ntecodex.com/faq) Effect | Best For |
 | :--- | :--- | :--- | :--- |
 | Camellia Society | Synthesis | Converts HP lost into Crit DMG (up to 80%) | Baicang |
 | Youthful Fantasy | Liquid | Increases Break DMG; triggers Chaos follow-up | Daffodil |

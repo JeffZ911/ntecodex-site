@@ -181,7 +181,7 @@ Always prioritize converting Annulith into Solid Dice for limited banners. Stand
 ## Sources
 
 - Neverness to Everness Gacha System and Pity Explained
-- Scarborough Fair | Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Scarborough_Fair
+- [Scarborough Fair](https://ntecodex.com/faq) | Neverness to Everness Wiki — https://neverness-to-everness.fandom.com/wiki/Scarborough_Fair
 - Neverness to Everness gacha & pity system Explained
 - NTE | Gacha System - Pity and Drop Rates
 - All Characters in Neverness to Everness: Rank, Attribute & Weapon

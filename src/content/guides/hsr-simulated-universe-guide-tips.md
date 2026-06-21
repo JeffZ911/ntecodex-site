@@ -118,7 +118,7 @@ Building a team for the Simulated Universe is different from building for Memory
 
 ### The Nihility DoT Powerhouse
 
-The Nihility Path relies on Damage over Time (DoT) and debuffs. It is currently one of the most consistent ways to clear high-difficulty content because the Path Resonance deals massive damage based on the number of DoT stacks on the enemy.
+The Nihility Path relies on Damage over Time (DoT) and debuffs. It is currently one of the most consistent ways to clear high-difficulty content because the [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) deals massive damage based on the number of DoT stacks on the enemy.
 
 *   **Premier Team:** Kafka (Enabler), Black Swan (DoT/Debuff), Acheron (DPS), and Huohuo or Aventurine (Sustain).
 *   **F2P Alternative:** Sampo, Guinaifen, Serval, and Lynx.

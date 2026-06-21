@@ -110,7 +110,7 @@ Most veteran players recommend waiting until you have used your initial free Fab
 
 ### Limited-Time Banner Mechanics
 
-Limited-time banners operate on the same Scarborough Fair board logic but require Solid Dice. These banners usually last for 21 days. Because there is no 50:50 mechanic, the strategy for unlocking limited characters is straightforward: save 14,400 Annulith (equivalent to 90 pulls) to ensure you hit the hard pity. 
+Limited-time banners operate on the same [Scarborough Fair](https://ntecodex.com/faq) board logic but require Solid Dice. These banners usually last for 21 days. Because there is no 50:50 mechanic, the strategy for unlocking limited characters is straightforward: save 14,400 Annulith (equivalent to 90 pulls) to ensure you hit the hard pity. 
 
 When a limited banner ends, any progress made toward the 90-pull pity or the 70-pull Board Modification carries over to the next limited character banner. This "pity carry-over" makes it much easier for free-to-play players to plan their character unlocks months in advance.
 

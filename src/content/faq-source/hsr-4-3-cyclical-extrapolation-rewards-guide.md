@@ -66,7 +66,7 @@ Neverness to Everness has carved out a significant niche by blending high-octane
 ![Direct Answer](/img/hsr-4-3-cyclical-extrapolation-rewards-guide/inline-2.webp)
 
 
-The weekly reward structures of HSR 4.3 and NTE are designed to keep players engaged through different psychological hooks. HSR focuses on the "perfect gear" chase via Planar Ornaments, while NTE focuses on "guaranteed progression" through its non-50/50 gacha board.
+The weekly reward structures of [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 and NTE are designed to keep players engaged through different psychological hooks. HSR focuses on the "perfect gear" chase via Planar Ornaments, while NTE focuses on "guaranteed progression" through its non-50/50 gacha board.
 
 | Feature | Honkai: Star Rail 4.3 (Weekly) | Neverness to Everness (Weekly) |
 | :--- | :--- | :--- |
