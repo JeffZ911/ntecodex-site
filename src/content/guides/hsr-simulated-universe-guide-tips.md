@@ -153,7 +153,7 @@ In the Simulated Universe, your rotation isn't just about character skills; it�
 Don't simply fire off your [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) as soon as it's available. 
 1.  **Phase Transitions:** Bosses in SU have multiple HP bars. If a boss is at 5% HP, do not use your Resonance. Wait for the next phase to start so the Resonance damage isn't wasted on a nearly dead enemy.
 2.  **Add Clearing:** Many bosses, like Cocolia or the Swarm: True Sting, summon smaller adds. Use Path Resonances like The Hunt or Erudition specifically to clear these adds instantly, keeping the focus on the main boss.
-3.  **Resonance Formation: Anatta (Abundance):** This formation puts the Path Resonance on the Action Bar, causing it to heal and cleanse your team automatically. This is vital for bosses that apply heavy CC (Crowd Control) like Kafka’s Dominate.
+3.  **Resonance Formation: Anatta (Abundance):** This formation puts the [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) on the Action Bar, causing it to heal and cleanse your team automatically. This is vital for bosses that apply heavy CC (Crowd Control) like Kafka’s Dominate.
 
 ### Blessing Synergy: Combining Paths
 

@@ -104,7 +104,7 @@ While you must eventually activate all six nodes to reach R2, the path between A
 
 ### Farming Mind Shards: Gacha, Shops, and Events
 
-The most common way to increase Resonance Level is through the Scarborough Fair gacha system. When you pull on a banner—such as the limited-time "The Ichi-daime" banner for [Nanally](/characters/nanally-guide-nte)—any duplicate of a character you already own is automatically converted into Mind Shards.
+The most common way to increase Resonance Level is through the [Scarborough Fair gacha](https://ntecodex.com/faq) system. When you pull on a banner—such as the limited-time "The Ichi-daime" banner for [Nanally](/characters/nanally-guide-nte)—any duplicate of a character you already own is automatically converted into Mind Shards.
 
 *   **Fabricated Dice:** Used for the standard permanent banner. This is the best way to slowly build Resonance for A-Rank characters like Mint, Daffodil, and Edgar.
 *   **Solid Dice:** Used for limited-time S-Rank banners. Saving these is essential for hitting R1 or R2 on premium characters like Baicang or [Sakiri](/characters/sakiri-nte-free-5-star-guide).

@@ -38,7 +38,7 @@ The Scarborough Fair is NTE's board-game-style gacha system where players roll d
 
 Understanding the gacha system is essential for any player looking to optimize their roster in Hethereau. Many new players have specific questions about how the mechanics differ from other open-world RPGs:
 
-*   What exactly is the Scarborough Fair gacha system in Neverness to Everness?
+*   What exactly is the Scarborough [Fair gacha](https://ntecodex.com/faq) system in Neverness to Everness?
 *   How do the dice rolls and board game mechanics work when pulling for new characters?
 *   What are the specific pity rates and guarantees for S-Class units?
 *   How does the weapon-focused Arc Research Program differ from the character-focused board?

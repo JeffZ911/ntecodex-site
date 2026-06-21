@@ -136,8 +136,8 @@ Character stats are only half the battle; the "Esper Cycle" refers to the rotati
 **Farming Beetle Coins and Character Pixels**
 Beetle Coins disappear quickly when leveling multiple characters to Level 60 and beyond. The most efficient way to farm these is through the "City Logistics" missions. Managing your Character Pixels is equally vital; always prioritize boss materials for Ascension before spending Pixels on lower-priority Module farming.
 
-**Scarborough Fair Gacha and Mind Shards**
-Acquiring Mind Shards for Awakening is primarily done through the Scarborough Fair gacha system. It is recommended to save your pulls for "Resonance Milestones" (3 or 6 copies) rather than spreading resources thin across many different characters, as the Resonance power spikes are often more valuable than having multiple low-level Espers.
+**[Scarborough Fair Gacha](https://ntecodex.com/faq) and Mind Shards**
+Acquiring Mind Shards for Awakening is primarily done through the Scarborough [Fair gacha](https://ntecodex.com/faq) system. It is recommended to save your pulls for "Resonance Milestones" (3 or 6 copies) rather than spreading resources thin across many different characters, as the Resonance power spikes are often more valuable than having multiple low-level Espers.
 
 **Console Optimization with Karota Rewinds**
 The Tetris-like Module system can be frustrating if you receive a powerful stat on a poorly shaped block. Using Karota rewinds effectively allows you to keep high-value stats while rearranging your Console grid for better space efficiency. This is considered an endgame activity once your Hunter Rank is high enough to drop Gold-tier Modules.

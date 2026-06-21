@@ -19,7 +19,7 @@ Transitioning from the turn-based battles of the Astral Express to the supernatu
 
 When players search for "hsr how to get stellar jade" in relation to Neverness to Everness (NTE), they are typically looking for the primary premium currency used to pull for new characters and equipment. Because NTE is an urban open-world RPG developed by Hotta Studio, it does not use the exact "Stellar Jade" terminology found in HoYoverse titles. However, the systems are functionally similar, leading many players to use familiar terms while they learn the ropes of Hethereau.
 
-Clarifying these terms is essential for any "Anomaly Hunter" starting their journey. In the world of Hethereau, the resource you need for the gacha system is known as Annulite. Just as Stellar Jade is the lifeblood of your Warp count in Honkai: Star Rail, Annulite determines how many times you can roll on the Scarborough Fair boards.
+Clarifying these terms is essential for any "Anomaly Hunter" starting their journey. In the world of Hethereau, the resource you need for the gacha system is known as Annulite. Just as Stellar Jade is the lifeblood of your Warp count in Honkai: Star Rail, Annulite determines how many times you can roll on the [Scarborough Fair](https://ntecodex.com/faq) boards.
 
 ### Is Stellar Jade Available in Neverness to Everness?
 

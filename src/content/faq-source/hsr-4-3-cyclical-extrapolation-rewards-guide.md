@@ -145,7 +145,7 @@ Following the April launch, several characters have emerged as meta-defining uni
 The [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 update features the debut of Graphia and Hysilens. These characters are integrated into the Cyclical Extrapolation trials, allowing players to test their synergy with the latest Equations before committing Stellar Jades to their banners.
 
 ### NTE Gacha System: How "The Fair" Board Works
-The Scarborough Fair system is more than just a gacha; it's a minigame. Players use Solid Dice for limited banners and Fabricated Dice for standard banners. Landing on special tiles like "Slumberland" or "Mystery Boxes" can provide bonus rewards beyond the characters themselves, making every pull feel more interactive than the standard HSR Warp.
+The [Scarborough Fair](https://ntecodex.com/faq) system is more than just a gacha; it's a minigame. Players use Solid Dice for limited banners and Fabricated Dice for standard banners. Landing on special tiles like "Slumberland" or "Mystery Boxes" can provide bonus rewards beyond the characters themselves, making every pull feel more interactive than the standard HSR Warp.
 
 ## Frequently Asked Questions
 
