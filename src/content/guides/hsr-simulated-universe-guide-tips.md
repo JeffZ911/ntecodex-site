@@ -146,7 +146,7 @@ If you lack limited 5-star characters, the Preservation Path is your best friend
 ![Rotation](/img/hsr-simulated-universe-guide-tips/inline-5.webp)
 
 
-In the Simulated Universe, your rotation isn't just about character skills; it’s about the timing of your Path Resonance and the management of your resources.
+In the Simulated Universe, your rotation isn't just about character skills; it’s about the timing of your [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) and the management of your resources.
 
 ### Optimizing Path Resonance Timing
 

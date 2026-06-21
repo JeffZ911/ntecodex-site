@@ -59,7 +59,7 @@ The depth of the Awakening system lies in its interaction with the Scarborough F
 
 ### How the Awakening System Works
 
-Every Esper starts at A0. To progress, you need Mind Shards specific to that character. For S-Rank Espers like [Nanally](/characters/nanally-guide-nte) or [Sakiri](/characters/sakiri-nte-free-5-star-guide), these shards are primarily found through the Scarborough Fair gacha system. When you land on a character tile or pull a duplicate through the standard "Warp" mechanic, the duplicate is automatically processed into shards.
+Every Esper starts at A0. To progress, you need Mind Shards specific to that character. For S-Rank Espers like [Nanally](/characters/nanally-guide-nte) or [Sakiri](/characters/sakiri-nte-free-5-star-guide), these shards are primarily found through the [Scarborough Fair gacha](https://ntecodex.com/faq) system. When you land on a character tile or pull a duplicate through the standard "Warp" mechanic, the duplicate is automatically processed into shards.
 
 The Awakening grid consists of six nodes. In a significant departure from genre norms, these nodes are interconnected in a web rather than a straight line. This non-linear Awakening path means the "meta" for a character might involve skipping the A1 node to rush a specific energy regeneration node at A2 or A3. 
 
@@ -128,7 +128,7 @@ For instance, an A3 node might state: "When this Esper triggers a Freeze reactio
 
 ### F2P Tips for Maximizing Resonance
 
-For players who are not planning to spend heavily on the Scarborough Fair gacha, maximizing the Resonance system requires discipline.
+For players who are not planning to spend heavily on the Scarborough [Fair gacha](https://ntecodex.com/faq), maximizing the Resonance system requires discipline.
 
 *   **Focus on City Tycoon:** Do not ignore the business management sim. It is the only consistent way to get A6 characters without relying on gacha luck. Chiz is the standout example of a "free" A6 powerhouse.
 *   **Save for "The Ichi-daime" and Similar Banners:** Limited banners often have a higher rate for specific A-Rank characters. If you need shards for a specific support, wait for a banner where they are featured as a rate-up.

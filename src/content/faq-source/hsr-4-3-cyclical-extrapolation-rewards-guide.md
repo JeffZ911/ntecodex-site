@@ -76,7 +76,7 @@ The weekly reward structures of [HSR 4](https://ntecodex.com/guides/best-gaming-
 | **Passive Income** | None | City Tycoon (Fons & Materials) |
 | **Pity System** | 50/50 chance at 90 pulls | 100% Guaranteed at 90 pulls |
 
-HSR 4.3 Cyclical Extrapolation provides a consistent bounty of Stellar Jades, Lost Echoes, and Synchronicity Points. These rewards are essential for players looking to pull for new 4.3 characters like Graphia and Hysilens. In contrast, NTE rewards include Anulith, the primary pull currency, and Fabricated Dice, which are used on "The Fair" gacha board. NTE players also supplement their weekly earnings with passive Fons (gold) and upgrade materials for Espers through the Urban Management system, which includes managing the Cafe by Origen and performing Tofu Delivery missions.
+[HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 Cyclical Extrapolation provides a consistent bounty of Stellar Jades, Lost Echoes, and Synchronicity Points. These rewards are essential for players looking to pull for new 4.3 characters like Graphia and Hysilens. In contrast, NTE rewards include Anulith, the primary pull currency, and Fabricated Dice, which are used on "The Fair" gacha board. NTE players also supplement their weekly earnings with passive Fons (gold) and upgrade materials for Espers through the Urban Management system, which includes managing the Cafe by Origen and performing Tofu Delivery missions.
 
 ## Detailed Explanation
 

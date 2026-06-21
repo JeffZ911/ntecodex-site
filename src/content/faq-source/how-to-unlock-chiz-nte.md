@@ -52,7 +52,7 @@ To [unlock Chiz](https://ntecodex.com/faq) in Neverness to Everness, you must re
 ![Question Restated](/img/how-to-unlock-chiz-nte/inline-1.webp)
 
 
-Players often wonder how to obtain Chiz, given her high ranking on current character tier lists. In the 1.0 launch version of Neverness to Everness (NTE), Chiz occupies a unique position as a powerful S-Rank character that does not require "scarborough fair" pulls or premium currency to obtain. Instead, she serves as the primary reward for engaging with the game's deep life-simulation mechanics.
+Players often wonder how to obtain Chiz, given her high ranking on current character tier lists. In the 1.0 launch version of Neverness to Everness (NTE), Chiz occupies a unique position as a powerful S-Rank character that does not require "[scarborough fair](https://ntecodex.com/faq)" pulls or premium currency to obtain. Instead, she serves as the primary reward for engaging with the game's deep life-simulation mechanics.
 
 As a Cosmos-element Damage dealer, Chiz excels at sustained DPS through her unique "Grain" resource system. Her combat style is heavily influenced by her "Gas" Arc compatibility, making her a versatile pick for players who prefer tactical, resource-based rotations over pure button-mashing. Because she is a permanent progression reward, she remains available to all players regardless of the current limited-time banner rotation.
 

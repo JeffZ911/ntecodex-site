@@ -36,7 +36,7 @@ Since the global launch of Neverness to Everness on April 29, 2026, a significan
 
 ### The Search for Sora in Hethereau
 
-New players often enter Hethereau expecting a character named Sora to appear in the early chapters of the main story or as a featured unit in the Scarborough Fair gacha system. The search for this character usually stems from early promotional "leak" lists that circulated on social media platforms prior to the official April release. However, as players progress through the Hunter Level milestones and unlock the various districts of the city, the absence of a Sora character becomes apparent.
+New players often enter Hethereau expecting a character named Sora to appear in the early chapters of the main story or as a featured unit in the [Scarborough Fair gacha](https://ntecodex.com/faq) system. The search for this character usually stems from early promotional "leak" lists that circulated on social media platforms prior to the official April release. However, as players progress through the Hunter Level milestones and unlock the various districts of the city, the absence of a Sora character becomes apparent.
 
 ### Is Sora a playable character in Neverness to Everness (NTE)?
 
@@ -159,7 +159,7 @@ For those just starting their journey on April 29 or early May, the most reliabl
 
 To speed up your progress, ensure you are completing the daily "Hethereau Dispatch" missions to farm Fons and upgrade Hunter Levels. Increasing your Hunter Level is the only way to unlock higher-tier Cartridges and Arcs for your characters.
 
-Finally, keep an eye out for the latest Neverness to Everness redemption codes for May 2026. These codes often provide free Fons and upgrade materials that are crucial for navigating the Scarborough Fair gacha board without spending real currency.
+Finally, keep an eye out for the latest Neverness to Everness redemption codes for May 2026. These codes often provide free Fons and upgrade materials that are crucial for navigating the Scarborough [Fair gacha](https://ntecodex.com/faq) board without spending real currency.
 
 **Current Active Codes (May 2026):**
 *   **NTE777** — undisclosed
