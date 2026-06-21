@@ -45,7 +45,7 @@ Beginners must manage two distinct types of stamina: Pixels, which are used for 
 
 | Task | Priority | Reward |
 | :--- | :--- | :--- |
-| Complete Episode 1: "The Glitch in the Neon" | Essential | Unlocks Scarborough Fair Gacha & Rover A1 |
+| Complete Episode 1: "The Glitch in the Neon" | Essential | Unlocks [Scarborough Fair Gacha](https://ntecodex.com/faq) & Rover A1 |
 | Reach Hunter Level 15 | High | Unlocks City Tycoon & First Business |
 | Spend daily Pixels on "Anomaly Traces" | High | Character EXP and Ascension Materials |
 | Spend daily City Stamina on "Business Operations" | Medium | Beetle Coins and Tycoon Level |

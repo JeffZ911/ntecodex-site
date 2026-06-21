@@ -97,7 +97,7 @@ Pay close attention to the "Red Flash" mechanic. When an enemy's eyes or weapon 
 
 The gacha system in NTE, known as "Scarborough Fair," uses a unique Monopoly-style board. Instead of a simple animation, you roll dice to move across a board filled with upgrade materials, Arcs, and character shards. 
 
-**Scarborough Fair Gacha Rates & Pity:**
+**[Scarborough Fair Gacha](https://ntecodex.com/faq) Rates & Pity:**
 
 *   **S-Rank Base Rate:** 0.8%
 *   **A-Rank Base Rate:** 6.0%

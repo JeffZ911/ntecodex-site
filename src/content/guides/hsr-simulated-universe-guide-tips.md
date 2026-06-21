@@ -48,7 +48,7 @@ The Ability Tree provides permanent, account-wide upgrades that apply only withi
 
 Blessings are the primary source of your power. They provide direct combat buffs like increased Critical Damage, Speed, or specialized effects like "Aftertaste" or "Quake." Curios, on the other hand, are artifacts that provide utility or high-risk/high-reward modifiers. 
 
-Generally, you should prioritize Blessings that match your Path to unlock Resonance Formations as early as possible. However, if a Curio like the "The Doctor's Robe" (which increases Path Resonance damage and starts every battle with full Resonance Energy) appears, it is often worth taking over a single Blessing.
+Generally, you should prioritize Blessings that match your Path to unlock Resonance Formations as early as possible. However, if a Curio like the "The Doctor's Robe" (which increases [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) damage and starts every battle with full Resonance Energy) appears, it is often worth taking over a single Blessing.
 
 | Path | Primary Combat Focus | Key Mechanic |
 | :--- | :--- | :--- |

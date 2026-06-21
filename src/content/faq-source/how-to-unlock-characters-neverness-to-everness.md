@@ -140,7 +140,7 @@ After you perform 50 rolls on the Standard Board using Fabricated Dice, the game
 For competitive players, "rerolling" is a common tactic to start with multiple S-Rank characters. In NTE, this is done via the **"Salting" method**.
 
 1.  Create an account using an email alias (e.g., yourname+1@gmail.com).
-2.  Play through the prologue until you unlock the Scarborough Fair menu (roughly 20 minutes).
+2.  Play through the prologue until you unlock the [Scarborough Fair](https://ntecodex.com/faq) menu (roughly 20 minutes).
 3.  Collect all pre-registration and mail rewards, which should total approximately 40+ pulls at launch.
 4.  Spend all dice on the Limited Banner.
 5.  If you do not get the featured S-Rank (like Nanally), log out and repeat with a new alias (yourname+2@gmail.com).

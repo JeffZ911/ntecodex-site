@@ -163,7 +163,7 @@ For a more in-depth look at optimizing your city management, consult a City Tyco
 
 ### NTE Reroll Strategy
 
-Rerolling in Neverness to Everness is possible but time-consuming due to the length of the prologue. If you are determined to start with a specific limited character like Nanally or Hotori, you will need to play for approximately 30 to 45 minutes to reach the point where the Scarborough Fair unlocks. Given the generous 50-pull selector and the free Chiz, rerolling is generally only recommended for players who want to maximize their account's power for the Neverness to Everness tier list rankings immediately.
+Rerolling in Neverness to Everness is possible but time-consuming due to the length of the prologue. If you are determined to start with a specific limited character like Nanally or Hotori, you will need to play for approximately 30 to 45 minutes to reach the point where the [Scarborough Fair](https://ntecodex.com/faq) unlocks. Given the generous 50-pull selector and the free Chiz, rerolling is generally only recommended for players who want to maximize their account's power for the Neverness to Everness tier list rankings immediately.
 
 ### Unlocking Arcs (Weapons)
 

@@ -82,7 +82,7 @@ For zones with high Ice resistance, the Ether team led by **Zhu Yuan** is the pr
 
 #### 1. The Ice Mono Powerhouse (Ellen, Lycaon, Soukaku)
 This team’s dominance in [Hollow Zero](https://ntecodex.com/faq) is rooted in the **Freeze** mechanic. In high-intensity runs, enemies gain massive amounts of "Stun Resistance" and "Attack Aggression."
-*   **Von Lycaon:** His role is to initiate combat and build Daze. His charged attacks increase the Daze multiplier, and his core passive reduces the enemy's Ice RES by [exact value pending official confirmation] when he hits them with a finished combo.
+*   **Von Lycaon:** His role is to initiate combat and build Daze. His charged attacks increase the Daze multiplier, and his [core passive](https://ntecodex.com/faq) reduces the enemy's Ice RES by [exact value pending official confirmation] when he hits them with a finished combo.
 *   **Soukaku:** By using her "Fly the Flag" skill, she transfers a portion of her ATK to the next character joining the field. In [Hollow Zero](https://ntecodex.com/faq), where you can stack ATK-increasing Resonia, this buff scales to astronomical levels.
 *   **Ellen Joe:** She utilizes the "Flash Freeze" mechanic to deal rapid Ice damage. In the Withering Garden, her ability to dash and reposition is vital for dodging Nineveh’s screen-wide attacks.
 

@@ -51,7 +51,7 @@ The [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-
 
 With the launch of Neverness to Everness on April 29, 2026, many Appraisers and Trailblazers are evaluating how to optimize their weekly time investment across both titles. This guide addresses the core concerns regarding the endgame economy of both games in the current patch cycle.
 
-*   **What are the specific rewards for the HSR 4.3 Cyclical Extrapolation weekly reset?** Players need to know the exact breakdown of Stellar Jades and materials available to plan their pulls for upcoming banners.
+*   **What are the specific rewards for the [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 Cyclical Extrapolation weekly reset?** Players need to know the exact breakdown of Stellar Jades and materials available to plan their pulls for upcoming banners.
 *   **How do these rewards compare to the endgame economy in Neverness to Everness (NTE)?** With NTE's unique "The Fair" gacha system and urban passive income, the value of a "weekly clear" has changed.
 *   **Which game provides better value for weekly time investment in 2026?** We analyze the time-to-pull ratio for both games to see which title is more rewarding for F2P and low-spending players.
 
