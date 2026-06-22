@@ -129,7 +129,7 @@ Optimizing your hardware setup is the most direct way to reduce the physical fri
 *   The internal driver covers can touch the ears of users with larger-than-average ear sizes
 *   The sidetone (mic monitoring) feature has a faint background hiss when set to the maximum level
 
-**Verdict:** The ComfortMAX system and lightweight steel headband make this headset ideal for the repetitive audio cues of ZZZ 3.0. The ability to mix Discord audio via 2.4GHz while connected to a mobile device via Bluetooth is a major efficiency gain for social gacha players.
+**Verdict:** The ComfortMAX system and lightweight steel headband make this headset ideal for the repetitive audio cues of [ZZZ 3](https://ntecodex.com/faq).0. The ability to mix Discord audio via 2.4GHz while connected to a mobile device via Bluetooth is a major efficiency gain for social gacha players.
 
 ## How we picked these products
 

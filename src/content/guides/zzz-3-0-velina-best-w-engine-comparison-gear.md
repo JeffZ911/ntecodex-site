@@ -32,7 +32,7 @@ inline_image_sections:
   - "What we didn't include and why"
 ---
 
-With the launch of the ZZZ 3.0 update, players are flocking to the floating city of Roscaelifer to pull for the game's first Wind Anomaly Agent, Velina.
+With the launch of the [ZZZ 3](https://ntecodex.com/faq).0 update, players are flocking to the floating city of Roscaelifer to pull for the game's first Wind Anomaly Agent, Velina.
 
 # ZZZ 3.0 Velina Best W-Engine Comparison: The Ultimate Build Guide
 

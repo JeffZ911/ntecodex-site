@@ -57,8 +57,8 @@ NTE characters possess inherent character-specific passives that are triggered a
 
 | Feature | Zenless Zone Zero (Pyrois) | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
-| **Primary System** | Core Passive | Console System |
-| **Main Gear** | Drive Discs | Cartridges |
+| **Primary System** | [Core Passive](https://ntecodex.com/faq) | Console System |
+| **Main Gear** | [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) | Cartridges |
 | **Sub-Components** | W-Engines | Modules |
 | **Stat Focus** | Fixed Passive Nodes | Modular Stat Scaling |
 | **Elemental Trigger** | Attribute Anomalies | Esper Cycle Reactions |
