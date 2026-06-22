@@ -136,6 +136,6 @@ Transitioning from A-Rank to S-Rank discs should begin in earnest at Inter-Knot 
 
 - Zenless Zone Zero Official Wiki — https://zenless-zone-zero.fandom.com/wiki/Drive_Disc
 - Prydwen Institute ZZZ Guide
-- Game8 ZZZ Best Drive Discs — https://game8.co/games/Zenless-Zone-Zero/archives/459520
+- Game8 ZZZ Best [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) — https://game8.co/games/Zenless-Zone-Zero/archives/459520
 - ZZZ Database: Drive Disc Sets and Stats — https://zzz.database.gg/drive-discs
 - Official Zenless Zone Zero HoYoLAB Community — https://www.hoyolab.com/circles/31/35/official

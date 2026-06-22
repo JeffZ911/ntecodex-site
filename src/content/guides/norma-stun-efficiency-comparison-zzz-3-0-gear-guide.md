@@ -145,7 +145,7 @@ Mice were selected based on button density and sensor reliability, specifically 
 
 Ergonomic selections were vetted through industry data, focusing on long-term spinal health for users sitting for 6+ hours. We specifically looked for integrated lumbar systems, such as the [4-way L-ADAPT](https://secretlab.co/products/titan-evo-2022-series) found in the Secretlab TITAN Evo, which adjusts to the user's specific spinal curvature rather than relying on a static pillow.
 
-Monitors were filtered for "Nano IPS" or "OLED" panels to ensure that visual stun indicators and UI elements remain sharp during high-speed motion. The <a href="https://www.amazon.com/s?k=LG+27GP850-B&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">LG 27GP850-B</a> was selected for its 1ms GtG response time, which is critical for tracking the Daze buildup on enemies during a Norma stun efficiency comparison ZZZ 3.0 test.
+Monitors were filtered for "Nano IPS" or "OLED" panels to ensure that visual stun indicators and UI elements remain sharp during high-speed motion. The <a href="https://www.amazon.com/s?k=LG+27GP850-B&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">LG 27GP850-B</a> was selected for its 1ms GtG response time, which is critical for tracking the Daze buildup on enemies during a Norma stun efficiency comparison [ZZZ 3](https://ntecodex.com/faq).0 test.
 
 ## What a high-efficiency player actually needs
 

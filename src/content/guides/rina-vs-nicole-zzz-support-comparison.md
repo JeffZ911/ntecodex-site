@@ -79,7 +79,7 @@ To understand how these two compare at a glance, we can look at their rarity, el
 | **Faction** | Victoria Housekeeping Co. | Cunning Hares |
 | **Primary Buff** | PEN Ratio (Max 30%) | DEF Shred (Max 40%) |
 | **Crowd Control** | Low (Ranged Poke) | High (Vortex/Pull) |
-| **Core Passive** | Mini-Destructive Partner | Mechanical Case |
+| **[Core Passive](https://ntecodex.com/faq)** | Mini-Destructive Partner | Mechanical Case |
 | **Anomaly Synergy** | Shock Extension (+3s) | Corruption / Ether DMG (+25%) |
 | **Best W-Engine** | Weeping Cradle (S) | The Vault (A) |
 | **Best Team** | Ellen, Lycaon, Rina | Zhu Yuan, Anby, Nicole |

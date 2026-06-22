@@ -163,7 +163,7 @@ As we look toward the latter half of 2026, rumors of new Agents like Alice and V
 To stay ahead of the meta, players should keep an eye on characters who offer "Attribute Resistance Shred," as this is one of the few ways to further multiply Anomaly damage once Proficiency has reached diminishing returns.
 
 ### Farming Guide for Anomaly Gear
-To maximize your efficiency, focus your Battery Charge on the **Routine Cleanup: Monster Hunt** nodes. This is where the Chaos Jazz and Freedom Blues sets are found. When rolling for sub-stats on Drive Discs, prioritize Anomaly Proficiency above all else for slots 4, 5, and 6. Slot 6 should almost always be an Anomaly Mastery main stat to ensure your rotations remain fluid.
+To maximize your efficiency, focus your Battery Charge on the **Routine Cleanup: Monster Hunt** nodes. This is where the Chaos Jazz and Freedom Blues sets are found. When rolling for sub-stats on [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions), prioritize Anomaly Proficiency above all else for slots 4, 5, and 6. Slot 6 should almost always be an Anomaly Mastery main stat to ensure your rotations remain fluid.
 
 For a deeper dive into specific character mechanics, you might want to research Burnice White Best W-Engines or read a comprehensive guide on How Disorder Works to perfect your swap-cancel timings.
 

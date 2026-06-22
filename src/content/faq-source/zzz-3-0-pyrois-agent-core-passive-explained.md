@@ -67,7 +67,7 @@ NTE characters possess inherent character-specific passives that are triggered a
 
 Zenless Zone Zero 3.0 and Neverness to Everness are often compared due to their urban settings and high-fidelity combat, but their progression systems are distinct. ZZZ uses a linear upgrade path for Core Passives, where players unlock specific tiers of power as the Agent's level increases.
 
-Conversely, Neverness to Everness offers a more open-ended approach. Instead of a single "Core Passive" button, you build your character's passive power by slotting different Cartridges and Modules into their Console. This allows for significantly more flexibility; for instance, you can choose to focus a character's passive output on raw damage or elemental reaction frequency depending on your current team composition.
+Conversely, Neverness to Everness offers a more open-ended approach. Instead of a single "[Core Passive](https://ntecodex.com/faq)" button, you build your character's passive power by slotting different Cartridges and Modules into their Console. This allows for significantly more flexibility; for instance, you can choose to focus a character's passive output on raw damage or elemental reaction frequency depending on your current team composition.
 
 ## Detailed Explanation
 
