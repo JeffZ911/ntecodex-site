@@ -44,7 +44,7 @@ Nahida’s superiority stems from her "1.5U" Dendro application. In Genshin Impa
 
 ### Key Talents and Passives Explained
 
-To build Nahida correctly, you must understand her two core passive talents:
+To build Nahida correctly, you must understand her two [core passive](https://ntecodex.com/faq) talents:
 
 1.  **Compassion Illuminated (A1):** When using her Burst, the active character’s EM is increased by 25% of the EM of the party member with the highest EM. This bonus maxes out at 250 EM (requiring a 1,000 EM character in the party).
 2.  **Awakening Elucidated (A4):** For every point of Nahida’s EM above 200, she gains 0.1% Bonus DMG and 0.03% Crit Rate for her Tri-Karma Purification. This caps at 80% Bonus DMG and 24% Crit Rate, which is reached exactly at 1,000 EM.

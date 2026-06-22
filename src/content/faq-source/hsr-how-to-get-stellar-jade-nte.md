@@ -108,7 +108,7 @@ To get the most out of your time in Hethereau without spending money, focus on t
 2.  Clear the weekly login requirements.
 3.  Focus on City Tycoon management to reach the Annulite payout thresholds.
 4.  Clear every anomaly in a district before moving to the next one to ensure no chests are missed.
-5.  Save your Solid Dice exclusively for high-tier characters on the Scarborough Fair limited banners.
+5.  Save your Solid Dice exclusively for high-tier characters on the [Scarborough Fair](https://ntecodex.com/faq) limited banners.
 
 #TODO:nte tier list:NTE character tier list
 #TODO:nte gacha system:gacha system guide

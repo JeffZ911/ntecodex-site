@@ -182,7 +182,7 @@ No, Neverness to Everness has removed the 50/50 mechanic for its limited charact
 ## Sources
 - NTE Official Website — https://nte.perfectworld.com/
 - Chiz Build Guide - NTEGame — https://ntegame.com/characters/chiz/
-- ZZZ 3.0 Update Announcement — https://zzz.hoyoverse.com/en-us/news/124434
+- [ZZZ 3](https://ntecodex.com/faq).0 Update Announcement — https://zzz.hoyoverse.com/en-us/news/124434
 - Gacha System & Launch Rewards Guide | NTE - Kaiden.gg
 - NTE City Tycoon: levels, rewards and free Chiz - NiveauMax
 - All free characters in Neverness to Everness - VG247

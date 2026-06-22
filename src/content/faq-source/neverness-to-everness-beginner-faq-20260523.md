@@ -43,7 +43,7 @@ The current game environment, following the April 29, 2026 release, introduces s
 
 Neverness to Everness (NTE) is an urban open-world supernatural RPG released on April 29, 2026, by Hotta Studio. It blends high-octane combat with a deep city-life simulation. The core gameplay involves forming teams of four Espers to nullify supernatural anomalies while managing a "City Tycoon" life that includes car customization, apartment decoration, and business ownership.
 
-As of May 2026, the game features a unique "Scarborough Fair" gacha system. Unlike many of its competitors, NTE does not use a 50/50 chance on limited banners. When you hit an S-Rank on a limited banner, it is guaranteed to be the featured character. This makes character acquisition more predictable than other titles. Beginners should prioritize completing the "Photo Studio" episode early in the main story to unlock their first vehicle. Furthermore, progressing the City Tycoon level is mandatory to earn the free S-Rank character, Chiz, who serves as a top-tier support for most early-game team compositions.
+As of May 2026, the game features a unique "[Scarborough Fair](https://ntecodex.com/faq)" gacha system. Unlike many of its competitors, NTE does not use a 50/50 chance on limited banners. When you hit an S-Rank on a limited banner, it is guaranteed to be the featured character. This makes character acquisition more predictable than other titles. Beginners should prioritize completing the "Photo Studio" episode early in the main story to unlock their first vehicle. Furthermore, progressing the City Tycoon level is mandatory to earn the free S-Rank character, Chiz, who serves as a top-tier support for most early-game team compositions.
 
 ## Detailed Explanation
 

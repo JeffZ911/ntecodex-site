@@ -72,7 +72,7 @@ Leveling up requires two primary resources: **Hunter Guides** (the game's primar
 Each character possesses a unique set of Esper Abilities, including their Basic Attack, Redirect Skill, and Ultimate. These skills are upgraded independently of character levels using materials found in **Houdini's Schemes**. Upgrading skills is vital for increasing your "Cycle Intensity," a stat that directly scales the damage dealt by elemental reactions during the Esper Cycle.
 
 ### The Awakening & Resonance System
-The Awakening system allows you to power up characters by consuming **Mind Shards**, which are obtained by pulling duplicate copies of a character from the Scarborough Fair gacha boards. Each character has six Awakening levels.
+The Awakening system allows you to power up characters by consuming **Mind Shards**, which are obtained by pulling duplicate copies of a character from the [Scarborough Fair gacha](https://ntecodex.com/faq) boards. Each character has six Awakening levels.
 *   **A1 to A6:** These unlock unique passive buffs, such as cooldown reductions or increased damage for specific skills.
 *   **Resonance Bonuses:** At specific Awakening milestones, characters unlock massive Resonance bonuses that provide team-wide stat increases, often boosting the damage of specific elemental "lanes" like Anima or Cosmos.
 
