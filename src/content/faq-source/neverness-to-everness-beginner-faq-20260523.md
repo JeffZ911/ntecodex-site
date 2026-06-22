@@ -58,7 +58,7 @@ Most players find that starting with the guaranteed units—such as Mint and Zer
 
 ### The Scarborough Fair Gacha System Explained
 
-The gacha system in NTE, known as Scarborough Fair, uses a board-game interface rather than a simple animation. Players use Solid Dice for limited banners and Fabricated Dice for the standard banner. As you "roll" the dice, your avatar moves across a board filled with rewards, including Arcs (weapons), Artifacts, and upgrade materials.
+The gacha system in NTE, known as [Scarborough Fair](https://ntecodex.com/faq), uses a board-game interface rather than a simple animation. Players use Solid Dice for limited banners and Fabricated Dice for the standard banner. As you "roll" the dice, your avatar moves across a board filled with rewards, including Arcs (weapons), Artifacts, and upgrade materials.
 
 Landing on a character tile or reaching the hard pity threshold triggers the character acquisition. The pity system is structured to be more player-friendly than previous Hotta Studio titles.
 

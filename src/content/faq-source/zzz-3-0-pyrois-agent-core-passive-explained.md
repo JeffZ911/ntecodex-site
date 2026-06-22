@@ -49,7 +49,7 @@ As players transition between major urban fantasy titles released in early 2026,
 
 It is vital to clarify that **Pyrois is a character from Zenless Zone Zero (ZZZ) Version 3.0** and does not exist in Neverness to Everness (NTE). Pyrois is recognized as an S-Rank Ether Agent whose [Core Passive](https://ntecodex.com/faq) focuses on Ether corruption and energy regeneration within the Hollows.
 
-In Neverness to Everness, the equivalent of a "Core Passive" is the **Console System**. This system utilizes **Cartridges** as the primary gear pieces to provide main and sub-stats, while **Modules** serve as smaller components that provide flat stat increases like ATK and HP.
+In Neverness to Everness, the equivalent of a "[Core Passive](https://ntecodex.com/faq)" is the **Console System**. This system utilizes **Cartridges** as the primary gear pieces to provide main and sub-stats, while **Modules** serve as smaller components that provide flat stat increases like ATK and HP.
 
 NTE characters possess inherent character-specific passives that are triggered and amplified through the **Esper Cycle**, which is the game's elemental reaction system. Specific details for a "Pyrois" character within NTE are unavailable because she is not part of the NTE roster.
 

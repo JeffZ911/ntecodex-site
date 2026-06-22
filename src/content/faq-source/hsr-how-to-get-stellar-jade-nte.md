@@ -133,7 +133,7 @@ There are three primary items used for pulls in NTE. While Annulite can buy the 
 
 ### The Scarborough Fair Pity System Explained
 
-The gacha system in NTE is called the Scarborough Fair. One of the most significant differences between NTE and other major gacha titles is the absence of the 50/50 mechanic. In many games, your first "pity" pull only has a 50% chance of being the featured character. In Neverness to Everness, the pity system is more straightforward.
+The gacha system in NTE is called the [Scarborough Fair](https://ntecodex.com/faq). One of the most significant differences between NTE and other major gacha titles is the absence of the 50/50 mechanic. In many games, your first "pity" pull only has a 50% chance of being the featured character. In Neverness to Everness, the pity system is more straightforward.
 
 The pity threshold is set at 90 pulls. Once you reach 90 pulls on a limited banner, you are guaranteed a high-tier character. Because the 50/50 mechanic is not present, players can plan their Annulite spending with much higher precision.
 

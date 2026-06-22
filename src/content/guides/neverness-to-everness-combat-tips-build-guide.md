@@ -121,7 +121,7 @@ S-Rank Arcs provide the highest base stats and unique passive effects that often
 
 ### Best F2P Weapon Alternatives
 
-For players who haven't secured S-Rank Arcs from the Scarborough Fair gacha system, several A-Rank options provide excellent utility.
+For players who haven't secured S-Rank Arcs from the [Scarborough Fair gacha](https://ntecodex.com/faq) system, several A-Rank options provide excellent utility.
 
 *   **Shiny Days:** An excellent all-rounder that provides undisclosed. It is often used as a placeholder for Anima or Cosmos damage dealers.
 *   **The Forgotten:** This Arc focuses on undisclosed, making it a viable choice for survival-focused units or early-game progression where gear is limited.
@@ -254,7 +254,7 @@ The Red Flash is a visual cue on enemy attacks. Dodging during this flash trigge
 Yes, Esper Zero is a versatile unit. While they start as Cosmos, you can adapt their elemental role and Arc compatibility as you unlock new "Paths" through the main story progression in Hethereau.
 
 **How do I get more Arcs?**
-Arcs are primarily obtained through the Scarborough Fair gacha system or the Arc Collection mechanic. You can also farm specific S-Rank Arcs, such as "Good Boy's Grand Adventure," by defeating world bosses like Morphix or clearing high-level Anomaly hunts.
+Arcs are primarily obtained through the Scarborough [Fair gacha](https://ntecodex.com/faq) system or the Arc Collection mechanic. You can also farm specific S-Rank Arcs, such as "Good Boy's Grand Adventure," by defeating world bosses like Morphix or clearing high-level Anomaly hunts.
 
 **What are Modules?**
 Modules are sub-gear pieces that slot into your character's Console. They provide the base stats (ATK and HP) required to activate the set bonuses of your Cartridges.

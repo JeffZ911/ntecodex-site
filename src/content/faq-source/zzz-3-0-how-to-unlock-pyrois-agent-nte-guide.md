@@ -187,5 +187,5 @@ No, Neverness to Everness has removed the 50/50 mechanic for its limited charact
 - NTE City Tycoon: levels, rewards and free Chiz - NiveauMax
 - All free characters in Neverness to Everness - VG247
 - Best Free S-Class Character to Pick in NTE - GameRant
-- ZZZ 3.0 Banners: Velina, Norma, Pyrois & Pull Guide - GamsGo — https://www.gamsgo.com/blog/zzz-3-0-banners-guide/
+- [ZZZ 3](https://ntecodex.com/faq).0 Banners: Velina, Norma, Pyrois & Pull Guide - GamsGo — https://www.gamsgo.com/blog/zzz-3-0-banners-guide/
 - S-Rank Selector Strategic Blueprint | NTE - Kaiden.gg
