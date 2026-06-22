@@ -38,9 +38,9 @@ Understanding the mechanical differences between various urban open-world titles
 
 As players transition between major urban fantasy titles released in early 2026, a common point of confusion involves the specific terminology used for character growth and combat passives. Many users are currently asking:
 
-*   **What is the Pyrois Agent Core Passive in Neverness to Everness?** This question stems from a mix-up between the Zenless Zone Zero (ZZZ) Version 3.0 roster and the Neverness to Everness (NTE) lineup.
+*   **What is the Pyrois [Agent Core Passive](https://ntecodex.com/faq) in Neverness to Everness?** This question stems from a mix-up between the Zenless Zone Zero (ZZZ) Version 3.0 roster and the Neverness to Everness (NTE) lineup.
 *   **How does the Pyrois passive work in the context of NTE's 2026 combat mechanics?** Since Pyrois is an Ether-based character from a different game, her mechanics do not translate directly into the NTE elemental system.
-*   **Are there equivalent 'Core Passive' systems for NTE characters like [Nanally](/characters/nanally-guide-nte) or Baicang?** While NTE does not use the term "Core Passive," it utilizes the Console System to achieve similar results through modular customization.
+*   **Are there equivalent '[Core Passive](https://ntecodex.com/faq)' systems for NTE characters like [Nanally](/characters/nanally-guide-nte) or Baicang?** While NTE does not use the term "Core Passive," it utilizes the Console System to achieve similar results through modular customization.
 
 ## Direct Answer
 

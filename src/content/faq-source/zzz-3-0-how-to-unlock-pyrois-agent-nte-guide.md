@@ -53,7 +53,7 @@ In [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite
 *Related: [Best adjustable monitor arm for dual screen setups under $200 for long](/guides/best-dual-monitor-arm-under-200-mmo-gacha) · [Best adjustable monitor arm for desk ergonomics for 12-hour MMO marath](/guides/best-adjustable-monitor-arm-for-desk-ergonomics-2026) · [Best Adjustable Monitor Arms for Multi-Screen Gacha Setups and Long Fa](/guides/best-adjustable-monitor-arms-multi-screen-gacha)*
 
 
-As of June 2026, the term "Pyrois Agent" has become one of the most searched phrases in the community, often leading to confusion between two of the year's biggest titles: *Zenless Zone Zero* (ZZZ) and *Neverness to Everness* (NTE). While both games feature supernatural urban settings and high-octane combat, their character acquisition systems differ significantly.
+As of June 2026, the term "[Pyrois Agent](https://ntecodex.com/faq)" has become one of the most searched phrases in the community, often leading to confusion between two of the year's biggest titles: *Zenless Zone Zero* (ZZZ) and *Neverness to Everness* (NTE). While both games feature supernatural urban settings and high-octane combat, their character acquisition systems differ significantly.
 
 In *Zenless Zone Zero*, characters are referred to as [Agents](https://zzz.hoyoverse.com/en-us/news/124434), whereas *Neverness to Everness* utilizes a system of Espers. The search for Pyrois specifically pertains to the landmark 3.0 update in ZZZ, but many players are simultaneously looking for the "equivalent" free S-Rank in NTE, which is the Cosmos-attribute character Chiz.
 
@@ -168,7 +168,7 @@ Aside from Chiz, players can obtain several other characters through gameplay:
 ## Frequently Asked Questions
 
 ### How do I get Pyrois in ZZZ for free?
-You can get the S-Rank Agent Pyrois for free by progressing through the ZZZ 3.0 main story. Specifically, you must complete the chapter titled "A Sleepwalker's Confession" in the Roscaelifer region. This character is a permanent story unlock and does not require Polychromes or banner pulls.
+You can get the S-Rank Agent Pyrois for free by progressing through the [ZZZ 3](https://ntecodex.com/faq).0 main story. Specifically, you must complete the chapter titled "A Sleepwalker's Confession" in the Roscaelifer region. This character is a permanent story unlock and does not require Polychromes or banner pulls.
 
 ### Is the NTE S-Rank Selector permanent?
 The S-Class Selection promotion on the Standard Board in Neverness to Everness is a one-time bonus for new accounts. It activates after you have performed 50 pulls on the "Strange Encounters" board using Fabricated Dice. Once used, the selector option disappears from the banner interface.

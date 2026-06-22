@@ -93,7 +93,7 @@ Another major pillar of progression is the City Tycoon system. This business man
 
 ### Limited-Time Events and Launch Bonuses
 
-For players joining during the launch window of April 29, 2026, the initial rewards are quite generous. Milestone rewards for the global release include over 1,900 Annulite and dozens of free Dice distributed through the in-game mail system and starter login events. These bonuses are designed to help new players reach their first 90-pull pity on the Scarborough Fair board.
+For players joining during the launch window of April 29, 2026, the initial rewards are quite generous. Milestone rewards for the global release include over 1,900 Annulite and dozens of free Dice distributed through the in-game mail system and starter login events. These bonuses are designed to help new players reach their first 90-pull pity on the [Scarborough Fair](https://ntecodex.com/faq) board.
 
 ### Premium Options: Riftcrystals and the Mining Pass
 

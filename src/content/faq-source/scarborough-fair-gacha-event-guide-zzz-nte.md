@@ -38,7 +38,7 @@ The Scarborough Fair is the unique summoning system in Neverness to Everness (NT
 
 Players frequently approach the Scarborough Fair with several questions regarding its departure from standard industry practices. Understanding the nuances of this board-game mechanic is essential for efficient resource management in the current June 2026 meta.
 
-*   **What is the Scarborough Fair gacha event in Neverness to Everness (NTE)?**
+*   **What is the [Scarborough Fair gacha](https://ntecodex.com/faq) event in Neverness to Everness (NTE)?**
     It is the permanent summoning interface where players spend premium currency to navigate a reward board. It serves as the gateway to obtaining S-Class characters and high-tier Arcs (weapons).
 *   **How does the board-game summoning mechanic work compared to traditional gacha?**
     Instead of a single animation revealing a result, players watch an avatar move across tiles. Each "pull" is a dice roll that determines movement, though the mathematical probability of landing on a character tile is governed by a standard pity system.

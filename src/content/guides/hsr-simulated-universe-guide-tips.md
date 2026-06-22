@@ -163,7 +163,7 @@ The best runs often involve "Interplay" or simply picking high-value Blessings f
 
 ### Curio Management Strategy
 
-Manage your Cosmic Fragments wisely. In the final Respite room before the boss, you have the option to enhance Blessings. It is almost always better to enhance three 3-star Blessings than ten 1-star Blessings. Focus on enhancing the "Blue" and "Gold" Blessings that provide multiplicative bonuses or change how your Path Resonance functions.
+Manage your Cosmic Fragments wisely. In the final Respite room before the boss, you have the option to enhance Blessings. It is almost always better to enhance three 3-star Blessings than ten 1-star Blessings. Focus on enhancing the "Blue" and "Gold" Blessings that provide multiplicative bonuses or change how your [Path Resonance](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders) functions.
 
 ## FAQ
 

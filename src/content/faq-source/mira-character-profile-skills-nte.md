@@ -52,7 +52,7 @@ As Neverness to Everness gains momentum following its global release on April 29
 *   What are Mira's combat skills, elemental attributes, and weapon types?
 *   How does Mira fit into the current NTE meta alongside launch units like [Nanally](/characters/nanally-guide-nte) and [Hotori](/characters/hotori-best-team-nte)?
 
-With the game’s "Scarborough Fair" gacha system and the complex "Esper Cycle" elemental mechanics, players are eager to optimize their teams with the best possible units. Understanding whether a character exists is the first step in planning your pulls and resource allocation.
+With the game’s "[Scarborough Fair](https://ntecodex.com/faq)" gacha system and the complex "Esper Cycle" elemental mechanics, players are eager to optimize their teams with the best possible units. Understanding whether a character exists is the first step in planning your pulls and resource allocation.
 
 ## Direct Answer
 
