@@ -176,7 +176,7 @@ Support W-Engines can be obtained through several methods:
 ![Related](/img/zzz-best-w-engine-for-support/inline-4.webp)
 
 
-Maximizing your Support Agents requires more than just a good W-Engine. You must also consider their character levels and the Drive Discs they wear.
+Maximizing your Support Agents requires more than just a good W-Engine. You must also consider their character levels and the [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) they wear.
 
 ### Top Support Agents in ZZZ
 

@@ -83,7 +83,7 @@ The Console is the heart of every Esper in Neverness to Everness. Unlike traditi
 1.  **Cartridges:** These are the most significant items in your build. Cartridges provide the bulk of a character's scaling, including CRIT Rate, CRIT DMG, and elemental damage bonuses. They function as the primary "gear" that defines a character's role in the party.
 2.  **Modules:** These are smaller pieces that fit into the remaining spaces of the Console grid. Modules typically provide flat bonuses, such as flat ATK or HP. While they seem minor, a fully optimized Console with high-tier Modules is required to tackle endgame content in the Hethereau district.
 
-The synergy between these two components creates a custom passive profile for your character. If you are looking for a "Core Passive" experience, you essentially build it yourself by selecting Cartridges that trigger specific effects when certain conditions are met in battle.
+The synergy between these two components creates a custom passive profile for your character. If you are looking for a "[Core Passive](https://ntecodex.com/faq)" experience, you essentially build it yourself by selecting Cartridges that trigger specific effects when certain conditions are met in battle.
 
 ### How the Esper Cycle Influences Passive Triggers
 

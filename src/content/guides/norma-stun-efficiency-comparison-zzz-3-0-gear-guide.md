@@ -170,7 +170,7 @@ Finally, lumbar adaptability is essential for maintaining focus during extended 
 ![Comparison summary](/img/norma-stun-efficiency-comparison-zzz-3-0-gear-guide/inline-3.webp)
 
 
-The Razer Naga V2 Pro leads the group for sheer utility, offering more programmable inputs than any other device on the list. For a player focusing on the Norma stun efficiency comparison ZZZ 3.0, the ability to map character swaps and specific "Ex Specials" to the thumb buttons can shave significant time off a rotation.
+The Razer Naga V2 Pro leads the group for sheer utility, offering more programmable inputs than any other device on the list. For a player focusing on the Norma stun efficiency comparison [ZZZ 3](https://ntecodex.com/faq).0, the ability to map character swaps and specific "Ex Specials" to the thumb buttons can shave significant time off a rotation.
 
 For those focused purely on reaction speed, the Razer Huntsman V3 Pro TKL provides a hardware-level advantage through its analog optical switches. This keyboard is essentially the "Formula 1" of gaming peripherals, designed for maximum speed at the cost of the tactile, "clicky" feel some casual users prefer.
 

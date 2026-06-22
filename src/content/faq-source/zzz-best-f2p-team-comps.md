@@ -118,7 +118,7 @@ Equipping your agents with the right gear is the difference between struggling i
 | **The Vault** | Nicole / Soukaku | Increases Energy Regen. Grants team-wide Energy when EX Special hits. |
 | **Original Transmuter** | Ben Bigger | Increases Impact and DEF. Enhances shield strength. |
 
-For Drive Discs, F2P players should aim for the 4-piece **Woodpecker Electro** set for Attackers to boost Crit Rate, and the 4-piece **Shockstar Disco** set for Stunners like Anby to maximize Daze application.
+For [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions), F2P players should aim for the 4-piece **Woodpecker Electro** set for Attackers to boost Crit Rate, and the 4-piece **Shockstar Disco** set for Stunners like Anby to maximize Daze application.
 
 ### Endgame Strategy: Clearing Shiyu Defense as F2P
 
