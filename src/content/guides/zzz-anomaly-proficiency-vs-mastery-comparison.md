@@ -82,7 +82,7 @@ The base formula for Anomaly Damage is:
 
 Every single point of Anomaly Proficiency adds 1% to your base damage multiplier. For example, if an Agent has 200 Anomaly Proficiency, their Anomaly effects will deal 200% of the base damage. If you push that to 400 Proficiency, the damage doubles again to 400%.
 
-For characters like [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison), Proficiency is even more valuable. Her Core Passive, **Insight**, converts Anomaly Proficiency into flat Attack (up to a maximum of 600 ATK) and increases the Crit Rate of her **Assault** procs by up to 40%. This makes Proficiency the single most important stat for her total output.
+For characters like [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison), Proficiency is even more valuable. Her [Core Passive](https://ntecodex.com/faq), **Insight**, converts Anomaly Proficiency into flat Attack (up to a maximum of 600 ATK) and increases the Crit Rate of her **Assault** procs by up to 40%. This makes Proficiency the single most important stat for her total output.
 
 ### How Anomaly Mastery Accelerates Buildup
 

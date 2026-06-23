@@ -26,7 +26,7 @@ inline_image_sections:
   - "What we didn't include and why"
 ---
 
-Performing a frame-perfect comparison for the ZZZ 3.0 Pyrois vs Lighter DPS debate requires more than just in-game skill; it demands hardware that can keep up with 240Hz animation cycles and 6-hour spreadsheet sessions.
+Performing a frame-perfect comparison for the [ZZZ 3](https://ntecodex.com/faq).[0 Pyrois](https://ntecodex.com/faq) vs Lighter DPS debate requires more than just in-game skill; it demands hardware that can keep up with 240Hz animation cycles and 6-hour spreadsheet sessions.
 
 # Best Gaming Gear for Long Gacha DPS Testing and Frame-Counting Sessions
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-23._

@@ -183,7 +183,7 @@ The SteelSeries Arctis Nova 7 is the best "quality of life" upgrade. Its Comfort
 ![When to skip the upgrade](/img/norma-stun-efficiency-comparison-zzz-3-0-gear-guide/inline-4.webp)
 
 
-While high-end gear offers clear benefits, it is not always necessary for every player. If you primarily play on mobile with a controller, a high-end mechanical keyboard like the Huntsman V3 Pro will offer zero efficiency gains for your ZZZ 3.0 sessions. The game's mobile interface is optimized for touch or gamepad, and the "Rapid Trigger" benefits do not translate through most mobile controller bridges.
+While high-end gear offers clear benefits, it is not always necessary for every player. If you primarily play on mobile with a controller, a high-end mechanical keyboard like the Huntsman V3 Pro will offer zero efficiency gains for your [ZZZ 3](https://ntecodex.com/faq).0 sessions. The game's mobile interface is optimized for touch or gamepad, and the "Rapid Trigger" benefits do not translate through most mobile controller bridges.
 
 Furthermore, do not buy the LG 27GP850-B if you already own a 1440p IPS monitor with a refresh rate above 144Hz. The jump from 144Hz to the 180Hz overclocked peak of the LG is rarely noticeable in gacha combat, which is often capped at 60 or 120 FPS by the game engine itself. The visual fidelity of Neverness to Everness is stunning, but a standard high-quality IPS panel will likely suffice unless you are experiencing significant ghosting.
 

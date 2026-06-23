@@ -129,7 +129,7 @@ A common point of confusion is which character's stats are used for the Anomaly 
 
 If Grace (Electric) deals 90% of the buildup and Rina (Electric) deals the final 10%, the resulting Shock damage will be calculated using 90% of Grace's stats (ATK, Proficiency, Level) and 10% of Rina's. This prevents players from "cheating" the system by building up the gauge with a weak character and only swapping to a high-stat character for the final hit.
 
-However, certain buffs only apply if the character is on-field during the "pop." Advanced players use **swap-canceling** (switching characters during a long animation) to ensure their main Anomaly DPS is the one active when the gauge hits 100%, allowing them to benefit from on-field buffs like those from the *Chaos Jazz* or *Freedom Blues* Drive Discs.
+However, certain buffs only apply if the character is on-field during the "pop." Advanced players use **swap-canceling** (switching characters during a long animation) to ensure their main Anomaly DPS is the one active when the gauge hits 100%, allowing them to benefit from on-field buffs like those from the *Chaos Jazz* or *Freedom Blues* [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions).
 
 ### Enemy Resistances
 

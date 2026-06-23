@@ -192,7 +192,7 @@ Upgrading a W-Engine from Level 1 to 60 requires a significant amount of Denny a
 
 ### Recommended Team Compositions
 
-Support W-Engines shine best when paired with the correct Drive Discs. For most Support Agents, pairing their W-Engine with a 4-piece set of **Swing Jazz** is optimal. This set provides 20% Energy Regen and increases the team's DMG by 15% for 12 seconds after the equipper launches a Chain Attack or Ultimate, stacking effectively with the buffs provided by weapons like The Vault or Kaboom the Cannon.
+Support W-Engines shine best when paired with the correct [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions). For most Support Agents, pairing their W-Engine with a 4-piece set of **Swing Jazz** is optimal. This set provides 20% Energy Regen and increases the team's DMG by 15% for 12 seconds after the equipper launches a Chain Attack or Ultimate, stacking effectively with the buffs provided by weapons like The Vault or Kaboom the Cannon.
 
 ## Sources
 
