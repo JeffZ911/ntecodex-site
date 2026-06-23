@@ -135,7 +135,7 @@ Burnice's damage does not crit. Therefore, you should ignore CRIT Rate and CRIT 
 
 ### The 300 Anomaly Proficiency Cap Explained
 
-Burnice's Core Passive, "Fueling the Fire," provides a direct bonus to her Afterburn DMG based on her Anomaly Proficiency. For every 1 point of Anomaly Proficiency Burnice has, the DMG of her Afterburn increases by 1%, up to a maximum of 300%.
+Burnice's [Core Passive](https://ntecodex.com/faq), "Fueling the Fire," provides a direct bonus to her Afterburn DMG based on her Anomaly Proficiency. For every 1 point of Anomaly Proficiency Burnice has, the DMG of her Afterburn increases by 1%, up to a maximum of 300%.
 
 This means that hitting exactly 300 Anomaly Proficiency is the "sweet spot" for her build. Any points beyond 300 will still increase the damage of the Burn status effect itself, but they will no longer boost the Afterburn explosion modifier. If you find yourself at 350+ Anomaly Proficiency, you may want to swap an Anomaly Proficiency main stat for ATK% to achieve a better damage balance.
 

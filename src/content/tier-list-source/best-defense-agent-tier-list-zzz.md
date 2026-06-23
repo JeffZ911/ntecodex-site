@@ -114,7 +114,7 @@ Seth is a "low-field-time" specialist. You typically swap him in for a Defensive
 B-Tier units are functional but have been largely surpassed by newer releases. They are excellent choices for F2P players or those who lack the specialized S-Rank protectors.
 
 ### Ben Bigger: The Stalwart Bear of Belobog
-Ben Bigger was the game's first Defense agent, and his age is beginning to show in the Version 2.7 meta. Ben boasts the highest raw DEF stat in the game, and his "Guardian" core passive converts 46% of that DEF into ATK. He provides a team-wide Shield after his EX Special follow-up, which also grants a small Crit Rate bonus to allies.
+Ben Bigger was the game's first Defense agent, and his age is beginning to show in the Version 2.7 meta. Ben boasts the highest raw DEF stat in the game, and his "Guardian" [core passive](https://ntecodex.com/faq) converts 46% of that DEF into ATK. He provides a team-wide Shield after his EX Special follow-up, which also grants a small Crit Rate bonus to allies.
 
 The primary issue with Ben is his animation speed. In a meta that rewards fast swaps and high-uptime DPS, Ben’s slow "Block and Counter" animations can feel sluggish. While he received a slight energy cost reduction in Version 2.6, he still struggles to provide the same level of offensive utility as Zhao or Caesar. He remains a solid "comfort" pick for players struggling with survival in early Shiyu Defense floors, especially when paired with his signature W-Engine, "Big Cylinder."
 

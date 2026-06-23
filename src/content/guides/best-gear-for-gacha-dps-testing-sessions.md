@@ -77,7 +77,7 @@ With a 240Hz refresh rate and 0.03ms response time, this OLED panel is the gold 
 *   **Rating:** 4.7/5
 *   **Best For:** Posture management during long grinds
 
-The FlexiSpot E7 Pro is built to handle the heavy multi-monitor setups common among data-driven gamers. When comparing ZZZ 3.0 Pyrois vs Lighter DPS, you likely have the game on one screen and a massive Excel sheet on the other. The 440 lbs weight capacity ensures that your PC, multiple monitors, and heavy peripherals won't cause the desk to wobble during height adjustments.
+The FlexiSpot E7 Pro is built to handle the heavy multi-monitor setups common among data-driven gamers. When comparing [ZZZ 3](https://ntecodex.com/faq).[0 Pyrois](https://ntecodex.com/faq) vs Lighter DPS, you likely have the game on one screen and a massive Excel sheet on the other. The 440 lbs weight capacity ensures that your PC, multiple monitors, and heavy peripherals won't cause the desk to wobble during height adjustments.
 
 **Pros:**
 *   Dual-motor system supports up to 440 lbs of heavy PC gear.

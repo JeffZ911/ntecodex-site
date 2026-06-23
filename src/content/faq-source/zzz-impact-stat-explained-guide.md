@@ -55,7 +55,7 @@ Impact is a base combat stat that determines the amount of Daze an Agent inflict
 *   **When the Daze gauge reaches 100%**, the enemy enters a "Stunned" state, becoming immobilized and taking increased damage for a set duration.
 *   **Impact is the primary stat for "Stun" specialty Agents** such as Anby Demara, Von Lycaon, Koleda Belobog, and Qingyi. While every character has a base Impact stat, Stun-class Agents have higher natural growth and skills specifically designed to maximize Daze accumulation.
 
-To optimize a team, you generally want at least one character—your "Stunner"—to stack as much Impact as possible through W-Engines and Drive Discs. This ensures that the enemy spends the maximum amount of time incapacitated, allowing your "Attack" specialty Agents to safely unload their highest-damage skills.
+To optimize a team, you generally want at least one character—your "Stunner"—to stack as much Impact as possible through W-Engines and [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions). This ensures that the enemy spends the maximum amount of time incapacitated, allowing your "Attack" specialty Agents to safely unload their highest-damage skills.
 
 ## Detailed Explanation
 

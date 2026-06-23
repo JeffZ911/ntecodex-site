@@ -151,7 +151,7 @@ While Anomaly and Stun (Daze) are separate systems, they are highly synergistic.
 
 ### Optimizing Gear for Anomaly Agents
 
-To trigger Anomalies effectively, you must equip the correct Drive Discs. As of May 2026, the following sets are the gold standard for Anomaly builds:
+To trigger Anomalies effectively, you must equip the correct [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions). As of May 2026, the following sets are the gold standard for Anomaly builds:
 
 *   **Freedom Blues (4-Piece):** Reduces the enemy's Anomaly Buildup RES to the equipper's attribute by 20% for 8 seconds after an EX Special Attack hits. This is essential for fast triggers.
 *   **Chaos Jazz (4-Piece):** Provides a 15% Fire/Electric DMG bonus and increases off-field EX Special/Assist DMG by 20%. This is the premier set for off-field Anomaly triggers like Burnice or Yanagi.
