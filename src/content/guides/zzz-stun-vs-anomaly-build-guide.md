@@ -51,7 +51,7 @@ Anomaly builds ignore the traditional "Stun then Burst" cycle. Instead, they foc
 
 The following table breaks down the fundamental differences between these two playstyles.
 
-| Mechanic | Primary Stat | Core Goal | Best Drive Discs | Example Agents |
+| Mechanic | Primary Stat | Core Goal | Best [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) | Example Agents |
 | :--- | :--- | :--- | :--- | :--- |
 | **Stun** | Impact | Maximize Daze to trigger Chain Attacks | Shockstar Disco (4-pc) | Qingyi, Lycaon, Anby, Koleda |
 | **Anomaly** | Proficiency / Mastery | Trigger Attribute Effects & Disorder | Freedom Blues, Chaos Jazz | Jane Doe, Burnice, Grace, Piper |

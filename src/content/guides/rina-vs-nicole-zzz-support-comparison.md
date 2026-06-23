@@ -121,7 +121,7 @@ Investment levels vary wildly between these two. Rina is a "stat-hungry" unit, w
 **For Nicole:**
 *   **Best W-Engine:** *The Vault* (A-Rank). This is her signature weapon and increases the team's DMG when she deals Ether DMG.
 *   **S-Rank Alternative:** *Weeping Cradle* can be used on Nicole for the Energy Regen, but *The Vault* is often more practical.
-*   **Drive Discs:** 4-piece *Swing Jazz* is standard. For the 2-piece set, *Chaotic Metal* (Ether DMG) or *Swing Jazz* (Energy Regen) works best. Focus on Energy Regen in Disc 6 to ensure her EX Special is always ready.
+*   **[Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions):** 4-piece *Swing Jazz* is standard. For the 2-piece set, *Chaotic Metal* (Ether DMG) or *Swing Jazz* (Energy Regen) works best. Focus on Energy Regen in Disc 6 to ensure her EX Special is always ready.
 
 ### Investment and Accessibility
 Nicole is a free character given to every player at the start of the game. Her duplicates (Mindscape Cinema) are also easier to acquire. Her **M6 (Corrupting Energy Field)** is a game-changer, providing up to a 15% team-wide CRIT Rate buff when enemies are hit by her energy fields.
