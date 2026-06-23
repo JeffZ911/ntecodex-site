@@ -105,7 +105,7 @@ A solid choice for long-form content like Hollow Zero or Shiyu Defense. It provi
 ![Best Disks (Artifacts)](/img/zzz-burnice-white-best-build/inline-3.webp)
 
 
-Drive Discs are where you fine-tune Burnice’s stats to ensure her Burn damage and Afterburn triggers hit as hard as possible.
+[Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) are where you fine-tune Burnice’s stats to ensure her Burn damage and Afterburn triggers hit as hard as possible.
 
 ### Recommended Drive Disc Sets
 
