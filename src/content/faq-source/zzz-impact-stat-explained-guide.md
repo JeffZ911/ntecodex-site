@@ -108,7 +108,7 @@ W-Engines are the primary source of flat Impact and percentage-based Impact buff
 *   **Steam Oven (A-Rank):** A versatile F2P option that increases Impact based on the amount of Energy currently accumulated by the user.
 
 #### Drive Discs
-Drive Discs are the "artifacts" or "relics" of ZZZ. To maximize Impact, you must focus on the **Shockstar Disco** set and specific slot main stats.
+[Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) are the "artifacts" or "relics" of ZZZ. To maximize Impact, you must focus on the **Shockstar Disco** set and specific slot main stats.
 
 *   **Shockstar Disco (2-Piece Bonus):** Increases Impact by 6%.
 *   **Shockstar Disco (4-Piece Bonus):** Basic Attacks, Dash Attacks, and Dodge Counters inflict 20% more Daze on the primary target.

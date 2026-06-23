@@ -194,7 +194,7 @@ Mindscape 1 (M1) is her most important upgrade, as it increases the Power stack 
 No. Attribute Anomaly damage (Assault) cannot crit. While her physical hits (the actual slashes of the axe) can crit, they represent a small fraction of her total damage output. Investing in Anomaly Proficiency and ATK% will always yield better results than Crit Rate or Crit DMG.
 
 **How much Anomaly Proficiency does Piper need?**
-For endgame content like Shiyu Defense (Ambush), you should aim for at least 350 Anomaly Proficiency. Optimally, a well-built Piper with a signature W-Engine and Level 15 Drive Discs should sit between 400 and 450 Anomaly Proficiency.
+For endgame content like Shiyu Defense (Ambush), you should aim for at least 350 Anomaly Proficiency. Optimally, a well-built Piper with a signature W-Engine and Level 15 [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) should sit between 400 and 450 Anomaly Proficiency.
 
 ## Sources
 - prydwen.gg
