@@ -116,7 +116,7 @@ Investment levels vary wildly between these two. Rina is a "stat-hungry" unit, w
 **For Rina:**
 *   **Best W-Engine:** *Weeping Cradle* (S-Rank). This is her signature weapon and provides the massive PEN Ratio she needs to reach her 30% buff cap.
 *   **A-Rank Alternative:** *Slice of Time*. This provides PEN Ratio and helps with Decibel generation.
-*   **Drive Discs:** 4-piece *Swing Jazz* (for team DMG) and 2-piece *Puffer Electro* (for the 8% PEN Ratio). You must have PEN Ratio as the main stat on Disc 5.
+*   **[Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions):** 4-piece *Swing Jazz* (for team DMG) and 2-piece *Puffer Electro* (for the 8% PEN Ratio). You must have PEN Ratio as the main stat on Disc 5.
 
 **For Nicole:**
 *   **Best W-Engine:** *The Vault* (A-Rank). This is her signature weapon and increases the team's DMG when she deals Ether DMG.

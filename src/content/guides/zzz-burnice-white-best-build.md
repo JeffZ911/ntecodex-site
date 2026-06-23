@@ -164,7 +164,7 @@ This is an excellent F2P-friendly Disorder team. Piper acts as the on-field Phys
 
 While not as explosive as Disorder teams, Burnice can serve as a support for Soldier 11.
 - **Soldier 11 + Burnice + Ben/Koleda**
-In this setup, Burnice ensures the enemy is constantly Burning, which allows Soldier 11 to utilize certain W-Engines or Drive Discs (like Inferno Metal) that require the target to be on fire.
+In this setup, Burnice ensures the enemy is constantly Burning, which allows Soldier 11 to utilize certain W-Engines or [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) (like Inferno Metal) that require the target to be on fire.
 
 ### Team Composition Summary
 
