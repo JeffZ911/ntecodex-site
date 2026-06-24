@@ -109,7 +109,7 @@ Yanagi introduces a high-skill ceiling to the Anomaly meta. Her kit revolves aro
 Miyabi serves as a hybrid between an Attack and Anomaly unit. Her ability to apply the "Frostbite" status is crucial. Frostbite differs from other anomalies because it doesn't just deal damage; it increases the Crit DMG the enemy takes. In a Disorder setup, pairing Miyabi with an Electric unit like Yanagi allows for a "Freeze-Shatter-Disorder" loop that is particularly effective against fast-moving bosses who are difficult to pin down with traditional combos.
 
 ### F2P Friendly: Piper and Lucy Compositions
-Piper is the "spin-to-win" queen of F2P Anomaly teams. Her kit is straightforward: the longer she spins, the more Physical Buildup she applies. 
+Piper is the "spin-to-win" queen of [F2P Anomaly](https://ntecodex.com/guides/best-gear-zzz-3-0-anomaly-farming) teams. Her kit is straightforward: the longer she spins, the more Physical Buildup she applies. 
 *   **Piper / Lucy / Grace:** This "Tri-Element" or "Dual-Element" setup uses Lucy to buff Piper's Attack. Grace is used to quickly apply Shock, which Piper then converts into Disorder damage with her heavy Physical hits. It is a highly effective budget version of the [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) premium team.
 
 ### Best W-Engines and Drive Discs for Anomaly Units
