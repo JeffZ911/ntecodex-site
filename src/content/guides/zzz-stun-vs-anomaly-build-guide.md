@@ -80,7 +80,7 @@ For Anomaly Agents, the stat priority is more complex:
 3.  **ATK%:** Anomaly damage still scales off the Agent's base Attack, so do not ignore this stat entirely.
 
 ### Gear and Drive Discs: Optimizing for Stun or Status
-The choice of Drive Discs defines your build's ceiling.
+The choice of [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) defines your build's ceiling.
 
 *   **For Stunners:** The **Shockstar Disco** 4-piece set is the universal gold standard. It increases Impact by 6% and significantly boosts Daze from Basic Attacks, Dash Attacks, and Dodge Counters.
 *   **For Anomaly:** The meta is split. **Freedom Blues** is excellent for reducing the enemy's Anomaly Resistance, making it easier to proc effects. However, for Fire-based Anomaly Agents like Burnice, **Chaos Jazz** has become a premier choice for its boost to Fire DMG and off-field Anomaly buildup.
