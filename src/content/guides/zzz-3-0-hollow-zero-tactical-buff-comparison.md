@@ -154,7 +154,7 @@ The soundscape of Hethereau is filled with subtle audio cues that signal nearby 
 ![What a long-session grinder actually needs](/img/zzz-3-0-hollow-zero-tactical-buff-comparison/inline-2.webp)
 
 
-When evaluating the **zzz 3.0 hollow zero tactical buff comparison**, players often focus on the software-side bonuses, but the hardware requirements for an Unreal Engine 5 title like Neverness to Everness are equally demanding. To maintain peak performance over several hours, your gear must address three physical bottlenecks.
+When evaluating the **[zzz 3](https://ntecodex.com/guides/best-gear-zzz-3-0-anomaly-farming).0 hollow zero tactical buff comparison**, players often focus on the software-side bonuses, but the hardware requirements for an Unreal Engine 5 title like Neverness to Everness are equally demanding. To maintain peak performance over several hours, your gear must address three physical bottlenecks.
 
 ### Low Actuation Latency
 In the urban open-world of NTE, combat is fast and punishing. Peripherals that register inputs in under 5ms are essential to avoid "dropped dodges." This is why analog optical switches are becoming the standard; they remove the mechanical debounce delay found in traditional keyboards, allowing your Resonance skills to trigger the moment you think of them.

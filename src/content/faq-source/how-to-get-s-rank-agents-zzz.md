@@ -144,7 +144,7 @@ As of mid-2026, the roster has expanded significantly since launch. However, the
 2.  **A Stun Agent:** Responsible for filling the Daze bar to immobilize enemies (e.g., Lycaon, Koleda, or Qingyi).
 3.  **A Support or Anomaly Agent:** Provides buffs to the team or applies elemental debuffs (e.g., Rina, Caesar, or Grace).
 
-By focusing your Signal Search efforts on filling these specific roles, you can create a team capable of tackling the highest difficulty "Withering Garden" runs in Hollow Zero. Always check the current "Exclusive Channel" to see if the featured Agent fits your current elemental needs, such as building a mono-Ice or mono-Ether team.
+By focusing your Signal Search efforts on filling these specific roles, you can create a team capable of tackling the highest difficulty "Withering Garden" runs in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison). Always check the current "Exclusive Channel" to see if the featured Agent fits your current elemental needs, such as building a mono-Ice or mono-Ether team.
 
 ## Sources
 

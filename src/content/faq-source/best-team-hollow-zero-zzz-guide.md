@@ -100,7 +100,7 @@ Anomaly teams have seen a massive resurgence with the release of **Burnice White
 
 ### Resonia Paths: Which One to Choose?
 
-Resonia are the "roguelike" power-ups found in Hollow Zero. Collecting 4 cards of the same type triggers a **Resonia Reaction**, and 8 cards unlock **Advanced Resonia** with game-changing effects.
+Resonia are the "roguelike" power-ups found in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison). Collecting 4 cards of the same type triggers a **Resonia Reaction**, and 8 cards unlock **Advanced Resonia** with game-changing effects.
 
 **Best Resonia Sets for Each Team Archetype**
 
