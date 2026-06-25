@@ -147,7 +147,7 @@ To maximize damage, you should aim to have your **Attack Agent** (your main DPS)
 | **Invincibility** | Yes (during animation) | Yes (during animation) |
 | **Frequency** | Every time an enemy is Stunned | Once per 3,000 Decibels earned |
 
-By mastering the transition from building Daze with a Stun Agent to executing a full 3-person Chain Attack ending with an Attack Agent, you will be able to clear Shiyu Defense stages and high-intensity Hollow Zero runs with much greater ease.
+By mastering the transition from building Daze with a Stun Agent to executing a full 3-person Chain Attack ending with an Attack Agent, you will be able to clear Shiyu Defense stages and high-intensity [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) runs with much greater ease.
 
 ## Sources
 

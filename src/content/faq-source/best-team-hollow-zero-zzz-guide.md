@@ -123,7 +123,7 @@ Your Bangboo provides a passive "Chain Attack" and a core skill that should matc
 *   **Butler:** A universal top-tier choice for energy-hungry teams (like those using Astra Yao or Sunna) as it regenerates Energy for the active Agent.
 
 ### F2P and Budget Team Options
-If you are a newer player or haven't pulled the limited S-Rank units, the **Cunning Hares** starter team remains surprisingly viable for early Hollow Zero progression.
+If you are a newer player or haven't pulled the limited S-Rank units, the **Cunning Hares** starter team remains surprisingly viable for early [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) progression.
 *   **Anby (Stun):** Reliable Daze buildup and easy-to-trigger combos.
 *   **Nicole (Support):** Provides DEF shred and grouping.
 *   **Billy Kid (Attack):** High mobility and strong AoE damage.
