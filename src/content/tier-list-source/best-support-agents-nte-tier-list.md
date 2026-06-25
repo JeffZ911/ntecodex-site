@@ -107,7 +107,7 @@ Jiuyuan is a unique case in the NTE support roster. Primarily an Anima element D
 
 This makes her the ideal support for Anima-heavy teams that focus on DoT (Damage over Time) and 'Charge' reactions. She provides off-field Anima application, ensuring that the 'Charge' status is constantly refreshed while simultaneously keeping the team topped off on health without needing to take up significant field time.
 
-**Haniel vs. Sakiri Buff Comparison (Base Levels):**
+**Haniel vs. Sakiri [Buff Comparison](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) (Base Levels):**
 *   **Sakiri (Feast of Gluttony):** 30% ATK Boost, 20s Duration.
 *   **Haniel ([Psyche Resonance](https://ntecodex.com/faq)):** 18% ATK Boost, 15s Duration.
 

@@ -96,7 +96,7 @@ As of the 2.7 update, **Nangong Yu** has replaced Qingyi as the premier stunner 
 Anomaly teams have seen a massive resurgence with the release of **Burnice White** and **[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)**.
 *   **[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison):** A Physical Anomaly specialist who triggers "Assault" rapidly.
 *   **Burnice White:** A Fire Anomaly specialist who applies "Burn" off-field.
-*   **Disorder Mechanic:** When you apply a new Attribute Anomaly to an enemy already suffering from one, it triggers **Disorder**, dealing a massive chunk of damage based on the remaining duration of the previous status. This is the most effective way to kill "Sponge" bosses in the lower floors of Hollow Zero.
+*   **Disorder Mechanic:** When you apply a new Attribute Anomaly to an enemy already suffering from one, it triggers **Disorder**, dealing a massive chunk of damage based on the remaining duration of the previous status. This is the most effective way to kill "Sponge" bosses in the lower floors of [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison).
 
 ### Resonia Paths: Which One to Choose?
 
