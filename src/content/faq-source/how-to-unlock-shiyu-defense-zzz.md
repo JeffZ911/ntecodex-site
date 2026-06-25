@@ -123,7 +123,7 @@ The Critical Nodes reset exactly at 4:00 AM server time on the 1st and 16th of e
 
 ### Shiyu Defense vs. Hollow Zero
 
-While both modes are located at Scott Outpost, they offer very different experiences. Hollow Zero is a roguelike mode where you collect "Resonia" (buffs) as you explore a grid-based map. It is more about long-term endurance and managing corruption levels. Shiyu Defense is pure combat; there are no exploration buffs, so your success depends entirely on your Agents' stats, your gear, and your mechanical skill.
+While both modes are located at Scott Outpost, they offer very different experiences. [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) is a roguelike mode where you collect "Resonia" (buffs) as you explore a grid-based map. It is more about long-term endurance and managing corruption levels. Shiyu Defense is pure combat; there are no exploration buffs, so your success depends entirely on your Agents' stats, your gear, and your mechanical skill.
 
 ### Tips for Clearing Stable Node Stage 10 to Unlock Critical Nodes
 

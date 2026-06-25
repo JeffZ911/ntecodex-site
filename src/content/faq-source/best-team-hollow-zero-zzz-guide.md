@@ -138,7 +138,7 @@ If you are a newer player or haven't pulled the limited S-Rank units, the **Cunn
 The Withering Garden is the ultimate challenge in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison). It unlocks at **Inter-Knot Level 45** after you complete the "Enchanting and Stunning, Withering Commission." Once unlocked, you can apply "Ether Activity" levels (up to Intensity 11) to increase the difficulty in exchange for higher rewards and bragging rights.
 
 ### Hollow Zero Reward Structure
-Farming Hollow Zero is the primary way to earn **Z-Merits** and **Investigation Points**.
+Farming [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) is the primary way to earn **Z-Merits** and **Investigation Points**.
 *   **Z-Merits:** Can be traded at the Casper NPC in the HIA office for W-Engine components, Boopons, and Master Tapes.
 *   **Investigation Points:** Leveling up your License Level grants Polychromes and upgrade materials. There is a weekly cap on these points, so it is recommended to do at least two full runs per week.
 
