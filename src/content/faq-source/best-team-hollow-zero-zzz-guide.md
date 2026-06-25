@@ -135,7 +135,7 @@ If you are a newer player or haven't pulled the limited S-Rank units, the **Cunn
 
 
 ### Unlocking Withering Garden
-The Withering Garden is the ultimate challenge in Hollow Zero. It unlocks at **Inter-Knot Level 45** after you complete the "Enchanting and Stunning, Withering Commission." Once unlocked, you can apply "Ether Activity" levels (up to Intensity 11) to increase the difficulty in exchange for higher rewards and bragging rights.
+The Withering Garden is the ultimate challenge in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison). It unlocks at **Inter-Knot Level 45** after you complete the "Enchanting and Stunning, Withering Commission." Once unlocked, you can apply "Ether Activity" levels (up to Intensity 11) to increase the difficulty in exchange for higher rewards and bragging rights.
 
 ### Hollow Zero Reward Structure
 Farming Hollow Zero is the primary way to earn **Z-Merits** and **Investigation Points**.

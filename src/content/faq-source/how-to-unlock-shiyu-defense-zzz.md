@@ -72,7 +72,7 @@ In addition to the level requirement, you must complete the Reputation Rank-Up t
 
 Shiyu Defense is physically located at Scott Outpost, a frontline military base situated on the edge of the Hollows. You can access this area by opening the world map and selecting the Scott Outpost icon. 
 
-Once you arrive, head toward the large, grey military tent in the center of the camp. Inside, you will find two primary NPCs: Ray, who handles Hollow Zero operations, and Roland, who manages the Shiyu Defense frontier. To officially "unlock" the mode, you must follow the quest marker to Roland. He will provide a brief explanation of how the Hollow Deep Dive (HDD) system has been configured to simulate high-intensity combat data. The console itself is a distinct terminal separate from the main Hollow Zero entrance, though they sit side-by-side.
+Once you arrive, head toward the large, grey military tent in the center of the camp. Inside, you will find two primary NPCs: Ray, who handles [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) operations, and Roland, who manages the Shiyu Defense frontier. To officially "unlock" the mode, you must follow the quest marker to Roland. He will provide a brief explanation of how the Hollow Deep Dive (HDD) system has been configured to simulate high-intensity combat data. The console itself is a distinct terminal separate from the main Hollow Zero entrance, though they sit side-by-side.
 
 ### Stable Nodes vs. Critical Nodes: What's the Difference?
 
