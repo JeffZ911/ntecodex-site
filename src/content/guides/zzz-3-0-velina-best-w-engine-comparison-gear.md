@@ -119,7 +119,7 @@ While Joyau Dore is powerful, you might not need to pull for it if you fall into
 
 *   **Existing R5 A-Rank Options:** If you already have an R5 Weeping Gemini, the marginal gain of pulling a single copy of Joyau Dore is less than 10%. This resource is better spent on pulling for Yuzuha, who provides a 20% team-wide efficiency boost.
 *   **Casual Overworld Play:** If you are mostly traversing New Eridu or exploring the districts of Hethereau in NTE, signature W-Engines are overkill for standard enemy mobs.
-*   **Limited Synergy:** If you do not plan to run a dedicated Anomaly team (e.g., using Velina with Promeia or Jane Doe), the AP-focused passives of these W-Engines lose significant value compared to standard ATK options.
+*   **Limited Synergy:** If you do not plan to run a dedicated Anomaly team (e.g., using Velina with Promeia or [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)), the AP-focused passives of these W-Engines lose significant value compared to standard ATK options.
 
 ## What we didn't include and why
 

@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-The recent release of the Zenless Zone Zero (ZZZ) 2.2 update has introduced the challenging Hollow Zero Intensive Mode, prompting players in the Neverness to Everness (NTE) community to seek out the equivalent high-stakes endgame content within the city of Hethereau. While ZZZ focuses on its roguelike dungeon crawl, Neverness to Everness offers a distinct urban supernatural experience where the "Intensive" experience is found within high-tier Anomaly Zones.
+The recent release of the Zenless Zone Zero (ZZZ) 2.2 update has introduced the challenging [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) Intensive Mode, prompting players in the Neverness to Everness (NTE) community to seek out the equivalent high-stakes endgame content within the city of Hethereau. While ZZZ focuses on its roguelike dungeon crawl, Neverness to Everness offers a distinct urban supernatural experience where the "Intensive" experience is found within high-tier Anomaly Zones.
 
 # ZZZ 2.2 Hollow Zero Intensive Mode FAQ: Neverness to Everness Guide
 

@@ -143,7 +143,7 @@ Farming [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-b
 *   **Investigation Points:** Leveling up your License Level grants Polychromes and upgrade materials. There is a weekly cap on these points, so it is recommended to do at least two full runs per week.
 
 ### Character Build Guides
-For maximum efficiency in Hollow Zero, ensure your main DPS is properly geared.
+For maximum efficiency in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison), ensure your main DPS is properly geared.
 *   **Ellen Joe:** Focus on the **"Polar Metal"** Drive Disc set and her signature W-Engine, **"Deep Sea Visitor."**
 *   **Zhu Yuan:** Requires high CRIT Rate and Ether DMG bonus. The **"Chaos Jazz"** or **"Chaotic Metal"** sets are her best-in-slot choices.
 *   **Nangong Yu:** Prioritize Impact and Anomaly Mastery to maximize her Daze conversion passive.

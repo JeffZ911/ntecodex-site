@@ -152,7 +152,7 @@ This is currently the strongest team for Burnice White. [Jane Doe](https://nteco
 - **Main DPS:** [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)
 - **Sub-DPS:** Burnice White
 - **Support/Stun:** Caesar King or Seth Lowell
-In this team, Jane Doe stays on the field most of the time. Burnice's Afterburn triggers Fire buildup while Jane builds Physical. When Burn is triggered while Assault is active (or vice versa), Disorder triggers for hundreds of thousands of damage. Caesar King is the preferred third slot for her massive shield and ATK buffs.
+In this team, [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) stays on the field most of the time. Burnice's Afterburn triggers Fire buildup while Jane builds Physical. When Burn is triggered while Assault is active (or vice versa), Disorder triggers for hundreds of thousands of damage. Caesar King is the preferred third slot for her massive shield and ATK buffs.
 
 ### Sons of Calydon Faction Synergy
 
