@@ -170,7 +170,7 @@ In this setup, Burnice ensures the enemy is constantly Burning, which allows Sol
 
 | Team Type | Agent 1 | Agent 2 | Agent 3 | Recommended Bangboo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Premium Disorder** | Jane Doe | Burnice White | Caesar King | Red Moccus |
+| **Premium Disorder** | [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) | Burnice White | Caesar King | Red Moccus |
 | **F2P Disorder** | Piper | Burnice White | Lucy | Red Moccus / Rocketboo |
 | **Mono-Fire** | Soldier 11 | Burnice White | Koleda | Rocketboo |
 

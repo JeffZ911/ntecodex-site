@@ -47,7 +47,7 @@ Synergy in Zenless Zone Zero is driven by "Additional Abilities." Every agent ha
 In the context of this guide, "Free-to-Play" characters include:
 *   **The Starter Trio:** Anby (Electric/Stun), Billy (Physical/Attack), and Nicole (Ether/Support).
 *   **Story Unlocks:** Ben Bigger (Fire/Defense) is obtained during Chapter 2 of the main story.
-*   **Event/Progression Rewards:** Soukaku (Ice/Support) is currently available for free via the "Shidian Kick" event or Hollow Zero participation, and Corin (Physical/Attack) was a pre-registration reward sent to all players' mailboxes.
+*   **Event/Progression Rewards:** Soukaku (Ice/Support) is currently available for free via the "Shidian Kick" event or [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) participation, and Corin (Physical/Attack) was a pre-registration reward sent to all players' mailboxes.
 *   **Accessible A-Ranks:** While technically obtained via the Signal Search (Gacha), A-rank agents like Anton, Piper, and Lucy have higher drop rates and are frequently featured on banners, making them highly accessible to the budget player.
 
 ## Direct Answer

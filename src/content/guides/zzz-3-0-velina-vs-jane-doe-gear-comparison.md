@@ -61,7 +61,7 @@ The Logitech G edition specifically includes a copper-infused cooling foam. This
 
 In the fast-paced combat of Neverness to Everness, swapping between Esper characters and activating Arcs requires high manual dexterity. The Razer Naga V2 Pro solves the "keyboard hand" fatigue by offloading complex inputs to the thumb. With three interchangeable side plates, you can switch from a standard 2-button layout for daily city driving to a 12-button grid for high-level Anomalous boss fights.
 
-The Focus Pro 30K Optical Sensor ensures that your frame-perfect dodges are registered with 99.8% resolution accuracy. For players managing the ZZZ 3.0 Velina vs Jane Doe comparison meta, the ability to map character-specific rotations to the HyperScroll Pro wheel is a massive advantage. You can adjust the scroll wheel tension to be either tactile for weapon cycling or free-spinning for rapid menu navigation through the Hesperia gear menus.
+The Focus Pro 30K Optical Sensor ensures that your frame-perfect dodges are registered with 99.8% resolution accuracy. For players managing the [ZZZ 3](https://ntecodex.com/guides/best-gear-zzz-3-0-anomaly-farming).0 Velina vs Jane Doe comparison meta, the ability to map character-specific rotations to the HyperScroll Pro wheel is a massive advantage. You can adjust the scroll wheel tension to be either tactile for weapon cycling or free-spinning for rapid menu navigation through the Hesperia gear menus.
 
 **Pros:**
 *   Interchangeable side plates (2, 6, and 12 buttons) for different genres

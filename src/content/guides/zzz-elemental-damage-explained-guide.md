@@ -75,7 +75,7 @@ Choosing the right W-Engine for an elemental build depends on whether you need f
 ### Top S-Rank W-Engines
 
 *   **Fusion Compiler (Grace's Signature):** This engine provides a massive boost to ATK and Penetration Ratio. Its passive increases Anomaly Proficiency by up to 3 times when using Special Attacks, making it the gold standard for Electric and Disorder builds.
-*   **Sharpened Stinger (Jane Doe's Signature):** Specifically designed for Physical Anomaly builds, it increases Physical DMG and Anomaly Buildup rate. It excels at triggering Assault rapidly while providing a flat damage buff to the user's kit.
+*   **Sharpened Stinger ([Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)'s Signature):** Specifically designed for Physical Anomaly builds, it increases Physical DMG and Anomaly Buildup rate. It excels at triggering Assault rapidly while providing a flat damage buff to the user's kit.
 *   **Flamemaker Shaker (Burnice's Signature):** This engine focuses on off-field Anomaly application, increasing Fire DMG and providing Anomaly Proficiency stacks when the user is not the active character.
 
 ### Best Budget and F2P Options

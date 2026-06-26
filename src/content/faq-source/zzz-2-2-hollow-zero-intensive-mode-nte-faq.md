@@ -36,7 +36,7 @@ While ZZZ 2.2 features [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-
 *Related: [Aurelia Nova vs Lacrimosa NTE: Best Gaming Gear for Neverness to Evern](/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) · [Best Ergonomic Gear for Players Grinding NTE v1.1 Street and Circuit R](/guides/best-gear-for-nte-v1-1-racing-mechanics) · [Best High-End Audio Gear for 10-Hour JRPG and Gacha Grinding Sessions](/guides/lacrimosa-vs-alice-nte-comparison-20260614)*
 
 
-As players reach the level cap in the early weeks following the April 2026 launch of Neverness to Everness, a common question has emerged: how does the ZZZ 2.2 Hollow Zero Intensive Mode compare to the endgame loops in NTE? Many players use the "Intensive Mode" terminology to describe the difficulty spike found in Anomaly Zones, which serve as the primary source for high-end gear.
+As players reach the level cap in the early weeks following the April 2026 launch of Neverness to Everness, a common question has emerged: how does the ZZZ 2.2 [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) Intensive Mode compare to the endgame loops in NTE? Many players use the "Intensive Mode" terminology to describe the difficulty spike found in Anomaly Zones, which serve as the primary source for high-end gear.
 
 ### Defining Intensive Mode in the NTE Meta
 
