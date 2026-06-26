@@ -158,7 +158,7 @@ In this team, [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-
 
 Burnice benefits greatly from being paired with her faction members.
 - **Burnice White + Piper + Lucy**
-This is an excellent F2P-friendly Disorder team. Piper acts as the on-field Physical Anomaly applicator (similar to a budget Jane Doe), while Lucy provides an ATK buff through her boars and EX Special. Lucy’s additional Fire application helps Burnice trigger Burn even faster.
+This is an excellent F2P-friendly Disorder team. Piper acts as the on-field Physical Anomaly applicator (similar to a budget [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)), while Lucy provides an ATK buff through her boars and EX Special. Lucy’s additional Fire application helps Burnice trigger Burn even faster.
 
 ### Mono-Fire and F2P Variations
 

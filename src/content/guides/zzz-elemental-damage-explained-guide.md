@@ -61,7 +61,7 @@ Building an elemental specialist requires balancing two specific stats found on 
 *   **Anomaly Mastery:** This stat determines the speed at which you fill the Anomaly Buildup meter. Higher Mastery means fewer hits are required to trigger an effect like Burn or Assault. This is essentially your "application speed."
 *   **Anomaly Proficiency:** This stat determines the final damage dealt by the Anomaly effect once it procures. Every point of Proficiency increases the base damage of effects like Burn, Shock, or Corruption.
 
-For primary Anomaly DPS characters like Grace or Jane Doe, high Proficiency is mandatory to ensure their procs hit hard. Mastery is often prioritized on Slot 6 of Disk Drives to ensure the application happens frequently enough to maintain high uptime.
+For primary Anomaly DPS characters like Grace or [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison), high Proficiency is mandatory to ensure their procs hit hard. Mastery is often prioritized on Slot 6 of Disk Drives to ensure the application happens frequently enough to maintain high uptime.
 
 [Infographic showing the 5 ZZZ elements and their corresponding Anomaly effects.]
 

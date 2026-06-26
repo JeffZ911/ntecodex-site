@@ -26,7 +26,7 @@ The recent release of the Zenless Zone Zero (ZZZ) 2.2 update has introduced the 
 
 # ZZZ 2.2 Hollow Zero Intensive Mode FAQ: Neverness to Everness Guide
 
-While ZZZ 2.2 features Hollow Zero Intensive Mode, Neverness to Everness (NTE) players tackle Anomaly Zones. Clear Tier 5+ "Intensive" tiers using the MC Zero to farm elite Cartridges and Modules in Hethereau.
+While ZZZ 2.2 features [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) Intensive Mode, Neverness to Everness (NTE) players tackle Anomaly Zones. Clear Tier 5+ "Intensive" tiers using the MC Zero to farm elite Cartridges and Modules in Hethereau.
 
 ## Question Restated
 
