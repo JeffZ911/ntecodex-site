@@ -123,7 +123,7 @@ Our selection criteria focused on "neutral posture" support—gear that keeps th
 ![What a long-session grinder actually needs](/img/best-ergonomic-gear-for-long-gacha-grinding-sessions/inline-2.webp)
 
 
-To understand why ergonomic gear is necessary, one must look at the mechanics of modern gacha titles. For instance, the zzz lighter morale stack mechanics explained in recent guides highlight a high-intensity gameplay loop. Lighter, an S-Rank Fire Stun Agent, relies on a Morale system where he accumulates points to enter a Morale Burst state. Once triggered, players must often hold or rapidly click to execute a flurry of punches, which can lead to Repetitive Strain Injury (RSI) if the wrist is not kept in a neutral position. Similarly, mastering Esper Cycles in Neverness to Everness with characters like Nanally or Lacrimosa requires precise, repetitive inputs over hours of gameplay.
+To understand why ergonomic gear is necessary, one must look at the mechanics of modern gacha titles. For instance, the zzz [lighter morale](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math) stack mechanics explained in recent guides highlight a high-intensity gameplay loop. Lighter, an S-Rank Fire Stun Agent, relies on a Morale system where he accumulates points to enter a [Morale Burst](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math) state. Once triggered, players must often hold or rapidly click to execute a flurry of punches, which can lead to Repetitive Strain Injury (RSI) if the wrist is not kept in a neutral position. Similarly, mastering Esper Cycles in Neverness to Everness with characters like Nanally or Lacrimosa requires precise, repetitive inputs over hours of gameplay.
 
 ### The Three Pillars of Gaming Ergonomics
 

@@ -186,7 +186,7 @@ To get the most out of Burnice, you must understand how to efficiently dump her 
 At the start of the battle, you should immediately switch to Burnice if she isn't your lead character.
 1. **Initial Burst:** Use her EX Special Attack: Intense Heat Stirring Method. If you hold the button, she will perform a "Double Shot," spraying fire from both flamethrowers. This consumes Energy rapidly and ensures your Heat bar is full.
 2. **Apply Scorched:** Ensure you land at least one hit while her Heat is above 50 to apply the Scorched status to all nearby enemies.
-3. **Quick Assist:** Burnice’s EX Special often triggers a Quick Assist. Use this to instantly swap to your Main DPS (like Jane Doe or Piper).
+3. **Quick Assist:** Burnice’s EX Special often triggers a Quick Assist. Use this to instantly swap to your Main DPS (like [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) or Piper).
 
 ### Off-Field Application Strategy
 

@@ -102,7 +102,7 @@ Disk Drives provide the necessary stat thresholds to make elemental builds viabl
 
 *   **4-Piece Chaos Jazz:** This is the premier set for Fire and Electric Anomaly characters. It provides Anomaly Proficiency and increases Fire/Electric DMG. Crucially, it boosts damage dealt while the character is off-field, making it perfect for "Quick Swap" Disorder teams.
 *   **4-Piece Freedom Blues:** The best utility set for elemental application. The 2-piece set increases Anomaly Proficiency, while the 4-piece set reduces the enemy's Anomaly Buildup RES for the wearer's element by 20% when hitting them with an EX Special Attack.
-*   **4-Piece Fanged Metal:** Essential for Physical Assault builds (like Jane Doe or Piper). It increases Physical DMG and provides a generic DMG buff against targets currently suffering from the Flinch (Physical) debuff.
+*   **4-Piece Fanged Metal:** Essential for Physical Assault builds (like [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) or Piper). It increases Physical DMG and provides a generic DMG buff against targets currently suffering from the Flinch (Physical) debuff.
 *   **2-Piece Swing Jazz:** Often used as a secondary set to provide 20% Energy Regen, allowing Agents to use their EX Special Attacks more frequently for faster buildup.
 
 ### Optimal Main Stats and Substats

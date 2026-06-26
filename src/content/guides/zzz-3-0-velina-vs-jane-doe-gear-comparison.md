@@ -72,7 +72,7 @@ The Focus Pro 30K Optical Sensor ensures that your frame-perfect dodges are regi
 *   Heavy 134g weight can cause wrist fatigue in fast-paced action combat
 *   Side plates can develop a slight vertical wobble after heavy use
 
-**Verdict:** With its 19+7 programmable buttons, the Naga V2 Pro is essential for players managing complex character swaps in ZZZ 3.0. The ability to customize scroll wheel tension via the Razer Synapse software allows for precise menu navigation that standard mice can't match.
+**Verdict:** With its 19+7 programmable buttons, the Naga V2 Pro is essential for players managing complex character swaps in [ZZZ 3](https://ntecodex.com/guides/best-gear-zzz-3-0-anomaly-farming).0. The ability to customize scroll wheel tension via the Razer Synapse software allows for precise menu navigation that standard mice can't match.
 
 ### LG 34GP83A-B 34" UltraGear Curved Ultrawide
 *   **ASIN:** B08L8KBVZ8

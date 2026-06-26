@@ -44,7 +44,7 @@ In the current meta, "Intensive Mode" is a colloquial term for Tier 5 and Tier 6
 
 ### NTE vs. ZZZ: Urban Gacha Endgame Comparison
 
-The comparison between ZZZ and NTE stems from their shared urban fantasy aesthetic, but the gameplay loops differ significantly. ZZZ 2.2’s Hollow Zero Intensive Mode emphasizes randomized buffs and resource management within a grid-based exploration system. In contrast, NTE’s high-tier Anomaly Zones are focused on open-arena combat against Oddity variants. While ZZZ rewards players with specialized Resonium, NTE focuses on Cartridges and Modules, which provide permanent stat boosts and set bonuses to characters.
+The comparison between ZZZ and NTE stems from their shared urban fantasy aesthetic, but the gameplay loops differ significantly. ZZZ 2.2’s [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) Intensive Mode emphasizes randomized buffs and resource management within a grid-based exploration system. In contrast, NTE’s high-tier Anomaly Zones are focused on open-arena combat against Oddity variants. While ZZZ rewards players with specialized Resonium, NTE focuses on Cartridges and Modules, which provide permanent stat boosts and set bonuses to characters.
 
 ## Direct Answer
 

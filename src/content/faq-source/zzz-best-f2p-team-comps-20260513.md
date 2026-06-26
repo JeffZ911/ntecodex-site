@@ -144,7 +144,7 @@ To maximize F2P team efficiency, you must follow a specific rotation:
 
 Zenless Zone Zero offers several ways to expand your roster without spending money.
 *   **Story Progression:** Completing Chapter 2, Intermission, grants you **Ben Bigger**, a Fire Defense agent who is excellent for survivability.
-*   **Hollow Zero:** By participating in the weekly Hollow Zero runs, you can earn "Z-Merits," which can be traded in the Logistics Shop for **Soukaku** Mindscape Cinemas or other rewards.
+*   **[Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison):** By participating in the weekly Hollow Zero runs, you can earn "Z-Merits," which can be traded in the Logistics Shop for **Soukaku** Mindscape Cinemas or other rewards.
 *   **Permanent Events:** The "Shidian Kick" event is a permanent addition that rewards players with Soukaku for completing specific combat trials.
 *   **Monthly Shop:** The "Signal Shop" allows you to spend "Residual Signal" (earned from any pulls) to buy two specific A-rank agents every month on a rotating schedule.
 
