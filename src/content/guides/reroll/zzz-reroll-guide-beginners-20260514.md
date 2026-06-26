@@ -36,7 +36,7 @@ Maximizing your early-game resources in Zenless Zone Zero starts with securing t
 
 # Zenless Zone Zero Reroll Guide: Best S-Rank Starters & Fast Method
 
-Zenless Zone Zero (ZZZ) offers a high-octane combat experience where team synergy and character roles define your success. For many players, the journey begins long before the first high-level Hollow exploration—it starts at the Signal Search screen. Rerolling is the practice of restarting your account multiple times to utilize initial free pulls and secure a top-tier character. While HoYoverse has made the process more time-consuming than in some other gacha titles, the long-term benefits of a strong start can significantly impact your progression through the Inter-Knot levels and endgame content like Hollow Zero.
+Zenless Zone Zero (ZZZ) offers a high-octane combat experience where team synergy and character roles define your success. For many players, the journey begins long before the first high-level Hollow exploration—it starts at the Signal Search screen. Rerolling is the practice of restarting your account multiple times to utilize initial free pulls and secure a top-tier character. While HoYoverse has made the process more time-consuming than in some other gacha titles, the long-term benefits of a strong start can significantly impact your progression through the Inter-Knot levels and endgame content like [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison).
 
 ## Why Reroll
 

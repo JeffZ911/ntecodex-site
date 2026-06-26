@@ -163,7 +163,7 @@ We also excluded high-button mice like the Razer Naga. While these are popular f
 ## Frequently Asked Questions
 
 ### How does the ZZZ Lighter morale stack affect wrist health?
-Lighter’s mechanics require players to manage Morale stacks that trigger a Morale Burst at 80+ points. During this burst, the player must hold or rapidly click the basic attack button to perform a flurry of punches. This high-frequency input can lead to wrist fatigue, making an [ergonomic vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html) essential for players who main this character.
+Lighter’s mechanics require players to manage Morale stacks that trigger a [Morale Burst](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math) at 80+ points. During this burst, the player must hold or rapidly click the basic attack button to perform a flurry of punches. This high-frequency input can lead to wrist fatigue, making an [ergonomic vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html) essential for players who main this character.
 
 ### Can a standing desk help with Neverness to Everness grinding?
 Yes, a standing desk like the FlexiSpot E7 Pro allows you to switch between sitting and standing, which prevents blood pooling in the legs during long Esper Cycle sessions. This movement helps maintain alertness and reduces the pressure on the lower back that typically accumulates after several hours in a static seated position.

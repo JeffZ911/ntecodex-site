@@ -204,7 +204,7 @@ Burnice’s Ultimate, **Glorious Inferno**, is a powerful tool for Heat manageme
 
 **Rotation Flowchart:**
 - **Step 1:** Burnice EX Special (Hold) -> Reach Max Heat.
-- **Step 2:** Trigger Quick Assist -> Switch to Jane Doe/Piper.
+- **Step 2:** Trigger Quick Assist -> Switch to [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)/Piper.
 - **Step 3:** Main DPS builds Anomaly -> Trigger Assault/Burn -> Trigger Disorder.
 - **Step 4:** Heat drops -> Swap Burnice in for Chain Attack or Ultimate -> Repeat.
 

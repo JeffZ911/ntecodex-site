@@ -146,7 +146,7 @@ The transition from the Daze phase to the Stun phase is marked by Chain Attacks.
 *   **Elite/Boss Enemies:** Allow for up to three Chain Attacks, ending with a powerful Bangboo follow-up.
 *   **Bangboo Synergy:** Certain Bangboos, like **Amillion** or **Sharkboo**, provide additional Daze or damage during these chain sequences. Choosing a Bangboo that matches your team's element can further increase the efficiency of your Stun window.
 
-By focusing on the Impact stat for your Stunners, you create a feedback loop: faster Daze leads to more frequent Chain Attacks, which generates more Energy, allowing for more EX Specials, which in turn leads to even faster subsequent Stuns. Mastery of this cycle is essential for tackling the highest levels of Hollow Zero and Shiyu Defense.
+By focusing on the Impact stat for your Stunners, you create a feedback loop: faster Daze leads to more frequent Chain Attacks, which generates more Energy, allowing for more EX Specials, which in turn leads to even faster subsequent Stuns. Mastery of this cycle is essential for tackling the highest levels of [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) and Shiyu Defense.
 
 ## Sources
 

@@ -140,7 +140,7 @@ Mono-element teams focus on a single element to take advantage of specific chara
 Disorder teams use two Anomaly Agents of different elements to trigger rapid reaction bursts.
 
 *   **The "Grace-Piper" Classic:** Grace (Electric Anomaly) + Piper (Physical Anomaly) + Rina or Lucy (Support). Grace applies Shock rapidly, then Piper swaps in to trigger Assault, which immediately procs Disorder for massive damage.
-*   **The Jane-Burnice Duo:** Jane Doe (Physical Anomaly) + Burnice (Fire Anomaly) + Caesar or Seth (Defense/Support). Burnice applies Fire off-field while Jane stays on-field to trigger Physical anomalies, creating a constant stream of Disorder procs.
+*   **The Jane-Burnice Duo:** [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) (Physical Anomaly) + Burnice (Fire Anomaly) + Caesar or Seth (Defense/Support). Burnice applies Fire off-field while Jane stays on-field to trigger Physical anomalies, creating a constant stream of Disorder procs.
 
 [Team composition UI screenshot showing a balanced Disorder team (Grace, Piper, Rina).]
 
