@@ -124,7 +124,7 @@ The chair uses cold-cure foam, which is intentionally firm. While some players f
 
 Sound design in Neverness to Everness is a mix of urban electronic beats and supernatural environmental cues. The SteelSeries Arctis Nova Pro Wireless uses an ESS Sabre Quad-DAC to deliver 24-bit high-fidelity audio, allowing you to hear the subtle audio cues of an impending Anomalous event.
 
-The most practical feature for gacha players is the hot-swappable battery system. You can charge one battery in the base station while using the other in the headset, effectively providing infinite wireless uptime. Additionally, the simultaneous 2.4GHz and Bluetooth connection allows you to listen to the game audio while staying in a Discord call on your phone—perfect for coordinating pulls during the Nanally banner or discussing the latest ZZZ 3.0 Velina vs Jane Doe comparison leaks.
+The most practical feature for gacha players is the hot-swappable battery system. You can charge one battery in the base station while using the other in the headset, effectively providing infinite wireless uptime. Additionally, the simultaneous 2.4GHz and Bluetooth connection allows you to listen to the game audio while staying in a Discord call on your phone—perfect for coordinating pulls during the Nanally banner or discussing the latest [ZZZ 3](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison).0 Velina vs Jane Doe comparison leaks.
 
 **Pros:**
 *   Hot-swappable battery system provides infinite wireless uptime

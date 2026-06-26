@@ -59,7 +59,7 @@ However, rerolling is not strictly necessary to enjoy the game. The starting tri
 
 ### Long-term Account Value
 
-The value of an S-Rank Agent increases as you reach the "Shiyu Defense" and "Hollow Zero" endgame modes. These modes often require two distinct teams. Having a foundational S-Rank like Von Lycaon or Alexandrina Sebastiane (Rina) ensures that your secondary team is as capable as your primary one. Furthermore, certain S-Ranks provide elemental shred or buffs that are "future-proof," meaning they will likely remain relevant even as newer characters are released.
+The value of an S-Rank Agent increases as you reach the "Shiyu Defense" and "[Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison)" endgame modes. These modes often require two distinct teams. Having a foundational S-Rank like Von Lycaon or Alexandrina Sebastiane (Rina) ensures that your secondary team is as capable as your primary one. Furthermore, certain S-Ranks provide elemental shred or buffs that are "future-proof," meaning they will likely remain relevant even as newer characters are released.
 
 | Stat (Level 1) | S-Rank Agent (Average) | A-Rank Agent (Average) | Difference |
 | :--- | :--- | :--- | :--- |

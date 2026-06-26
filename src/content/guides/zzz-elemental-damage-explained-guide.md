@@ -155,7 +155,7 @@ Effective elemental combat requires managing the "buildup" of two different mete
 
 1.  **Initiate with Support/Stun:** Use your Support character to apply buffs (like Soukaku’s flag or Rina’s puppets) and your Stun character to build the enemy's Daze meter.
 2.  **Apply Primary Anomaly:** Swap to your first Anomaly Agent (e.g., Grace). Use her EX Special Attack and basic strings until the Shock meter is nearly full or just triggered.
-3.  **The Swap:** Once the first Anomaly is active, immediately swap to your second Anomaly Agent (e.g., Jane Doe).
+3.  **The Swap:** Once the first Anomaly is active, immediately swap to your second Anomaly Agent (e.g., [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)).
 4.  **Trigger Disorder:** Use the second Agent's high-buildup moves (like Jane's "Salchow Jump") to trigger the second Anomaly. The moment the second icon appears, the Disorder damage will pop.
 
 ### Maximizing Disorder Windows

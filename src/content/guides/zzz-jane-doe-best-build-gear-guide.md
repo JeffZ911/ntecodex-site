@@ -30,7 +30,7 @@ Maintaining high-intensity performance with a Physical Anomaly character require
 
 # Best Gear for ZZZ Jane Doe Best Build Optimization During Long Grinds
 
-For frame-perfect Jane Doe dodges, the Razer Huntsman V3 Pro TKL is our top pick. Pair it with the LG 27GP850-B monitor for 180Hz fluid combat and the Secretlab TITAN Evo for long-session comfort.
+For frame-perfect [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) dodges, the Razer Huntsman V3 Pro TKL is our top pick. Pair it with the LG 27GP850-B monitor for 180Hz fluid combat and the Secretlab TITAN Evo for long-session comfort.
 
 Zenless Zone Zero players focusing on high-intensity Jane Doe gameplay and Physical Anomaly farming during 4+ hour sessions need equipment that minimizes input latency and physical fatigue. Jane Doe is an S-Rank Physical Anomaly agent belonging to the Criminal Investigation Special Response Team. Her gameplay revolves around entering the Passion State, a high-mobility mode that increases her Physical Anomaly Buildup and allows for devastating Assault procs. Because her kit relies on Perfect Dodges to maintain her Passion Stream meter, any delay between your fingers and the screen can lead to a significant drop in DPS.
 
