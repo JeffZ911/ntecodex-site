@@ -64,7 +64,7 @@ The <a href="https://www.amazon.com/s?k=Razer+Huntsman+V3+Pro+TKL&tag=jeffzen911
 *   The metallic ping sound on the spacebar is noticeable in quiet rooms during intense button-mashing sessions.
 
 **Verdict:**
-The 0.1mm actuation and Rapid Trigger technology are essential for Jane Doe's 'Passion State' combos, where mistimed inputs kill DPS. Its TKL form factor also provides extra desk space for the wide mouse swipes needed in ZZZ's 360-degree combat.
+The 0.1mm actuation and Rapid Trigger technology are essential for [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)'s 'Passion State' combos, where mistimed inputs kill DPS. Its TKL form factor also provides extra desk space for the wide mouse swipes needed in ZZZ's 360-degree combat.
 
 ---
 

@@ -105,7 +105,7 @@ You should prioritize a Stun build if:
 
 ### When to Choose an Anomaly Build
 You should prioritize an Anomaly build if:
-*   **You own Jane Doe or Burnice:** These characters are designed to carry teams without a traditional Attacker. Jane Doe, in particular, can "Crit" with her Assault procs, bridging the gap between Anomaly and Attack styles.
+*   **You own [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) or Burnice:** These characters are designed to carry teams without a traditional Attacker. Jane Doe, in particular, can "Crit" with her Assault procs, bridging the gap between Anomaly and Attack styles.
 *   **You are tackling high-level endgame content:** As enemy HP pools grow to millions, the percentage-based nature of certain anomalies and the massive scaling of Disorder often outperform traditional Crit-based builds.
 *   **You prefer a fast-paced, swap-heavy playstyle:** Anomaly teams require constant switching to manage multiple elemental gauges.
 
