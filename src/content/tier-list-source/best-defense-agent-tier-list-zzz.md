@@ -102,7 +102,7 @@ Pan Yinhu is the premier choice for players running Rupture-based teams. Introdu
 Pan Yinhu enables the Rupture archetype by significantly lowering enemy resistance to Physical and "Aftershock" triggers. When paired with high-frequency attackers like Yixuan, Pan Yinhu’s off-field utility allows for explosive damage windows that rival S-Tier compositions. However, he requires a specific team built around the Rupture mechanic to truly shine, which keeps him out of the universal S-Tier.
 
 ### Seth Lowell: The Anomaly Guardian
-Seth Lowell remains the undisputed king of Anomaly support. His primary value lies in the "Shield of Firm Resolve," which grants the protected ally a significant Anomaly Proficiency boost (up to 100 at high talent levels). This makes him the mandatory partner for Jane Doe or any Disorder-heavy team featuring the v2.7 unit Cissia.
+Seth Lowell remains the undisputed king of Anomaly support. His primary value lies in the "Shield of Firm Resolve," which grants the protected ally a significant Anomaly Proficiency boost (up to 100 at high talent levels). This makes him the mandatory partner for [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) or any Disorder-heavy team featuring the v2.7 unit Cissia.
 
 Seth is a "low-field-time" specialist. You typically swap him in for a Defensive Assist, hold his EX Special to generate Resolve, and then use his enhanced Basic Attack to trigger a Quick Assist for your main Anomaly DPS. While his personal damage is negligible, the multiplicative value he adds to Anomaly Buildup makes him indispensable for Electric-Anomaly hybrid builds.
 

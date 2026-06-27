@@ -86,7 +86,7 @@ To catch the red and yellow flashes that signal parry and dodge windows, you nee
 *   The tripod stand base has a very large footprint that requires a deep desk or a dedicated monitor arm.
 
 **Verdict:**
-With a [1ms GtG response time](https://www.lg.com/us/monitors/lg-27gp850-b-gaming-monitor) and 180Hz refresh rate, this monitor makes Jane Doe's rapid dash animations fluid. The Nano IPS color accuracy is specifically beneficial for ZZZ's vibrant, high-contrast urban aesthetic.
+With a [1ms GtG response time](https://www.lg.com/us/monitors/lg-27gp850-b-gaming-monitor) and 180Hz refresh rate, this monitor makes [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)'s rapid dash animations fluid. The Nano IPS color accuracy is specifically beneficial for ZZZ's vibrant, high-contrast urban aesthetic.
 
 ---
 
