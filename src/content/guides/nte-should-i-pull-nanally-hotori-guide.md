@@ -76,7 +76,7 @@ For those willing to invest, Nanally’s banner is high-value due to the launch 
 
 To help you visualize where these characters fit into the current NTE meta, here is a comparison of the top units currently available or announced for Version 1.0.
 
-| Character | Rarity | Faction | Element | Primary Role | Pull Priority |
+| Character | Rarity | Faction | Element | Primary Role | [Pull Priority](https://ntecodex.com/guides/lacrimosa-vs-chaos-nte-pull-priority-gear-guide) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Nanally** | S-Rank | Anima | Plasma | Main DPS | High |
 | **Hotori** | S-Rank | Cosmos | Solid | DPS/Buff/CC | Very High |

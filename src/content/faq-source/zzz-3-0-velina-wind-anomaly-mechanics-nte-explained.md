@@ -156,7 +156,7 @@ NTE does not have a "Wind" element, but the Gas attribute for weapons and the An
 ## Sources
 - Neverness to Everness Official — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS96nykacTATEX-6JmKznMfGeXdct3YXLCmU8mcGq0UGQSqaCVK7Wi9WN8dqbhYnYaS_t66YfDBeCOjhfLD5GUajXH7Ojc-hK2uVZA8wRSxAlplnzAicPdJceQ9AIEa2FY2Xa22I8=
 - NTE 1.1 Roadmap — https://www.youtube.com/watch?v=uNRA_BbIr_Y
-- Prydwen ZZZ Velina Guide
+- Prydwen [ZZZ Velina](https://ntecodex.com/guides/best-gear-high-intensity-gacha-combat) Guide
 - GosuGamers [ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0 News — https://gosugamers.net/zenless-zone-zero-reveals-new-s-ranks-velina-and-norma-from-version-3-0-s-roscaelifer-region/
 - All Things How NTE Anomaly Guide
 - GameWith NTE Arc List

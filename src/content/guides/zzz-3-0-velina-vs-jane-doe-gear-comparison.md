@@ -135,7 +135,7 @@ The most practical feature for gacha players is the hot-swappable battery system
 *   Internal ANC sensor nubs can rub against larger ears
 *   Sonar software suite is complex and requires a SteelSeries account
 
-**Verdict:** For players who need to stay connected to Discord while grinding ZZZ 3.0, the Nova Pro's dual-wireless stream is a game-changer. The ESS Sabre Quad-DAC provides the high-fidelity audio needed to appreciate the game's urban-electronic soundtrack.
+**Verdict:** For players who need to stay connected to Discord while grinding [ZZZ 3](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison).0, the Nova Pro's dual-wireless stream is a game-changer. The ESS Sabre Quad-DAC provides the high-fidelity audio needed to appreciate the game's urban-electronic soundtrack.
 
 ## How we picked these products
 

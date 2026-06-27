@@ -88,7 +88,7 @@ This W-Engine is tailored for the Sons of Calydon. It provides ATK% as an advanc
 The best craftable F2P option available at the Gadget Store. It rewards Burnice for her high Energy consumption. For every 10 Energy consumed, the user gains a stack of ATK% buff (up to 10 stacks). Since Burnice’s primary rotation involves dumping 40 to 80 Energy in a single EX Special sequence, she can reach max stacks almost instantly.
 
 **Weeping Gemini (A-Rank)**
-A solid choice for long-form content like Hollow Zero or Shiyu Defense. It provides Anomaly Proficiency that increases every time a team member triggers an Elemental Anomaly. This synergizes perfectly with Disorder teams where anomalies are being popped every few seconds.
+A solid choice for long-form content like [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) or Shiyu Defense. It provides Anomaly Proficiency that increases every time a team member triggers an Elemental Anomaly. This synergizes perfectly with Disorder teams where anomalies are being popped every few seconds.
 
 ### W-Engine Comparison Table
 

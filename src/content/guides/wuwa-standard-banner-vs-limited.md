@@ -144,7 +144,7 @@ Because collaboration characters are notoriously difficult to obtain after their
 ### Final Verdict: Where to Spend Your Tides
 The most efficient use of currency in Wuthering Waves remains the **Limited Character Banner**. The 50/50 system is manageable because pity carries over, and the high quality of recent resonators like Hiyuki has made powercreep a secondary concern compared to team synergy.
 
-**Pull Priority Checklist:**
+**[Pull Priority](https://ntecodex.com/guides/lacrimosa-vs-chaos-nte-pull-priority-gear-guide) Checklist:**
 1.  Complete Novice/Beginner Choice (Lustrous Tides only).
 2.  Pull for one Limited Main DPS (e.g., Hiyuki).
 3.  Target one Limited Support/Healer (e.g., Shorekeeper or Verina).

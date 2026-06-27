@@ -21,7 +21,7 @@ inline_image_sections:
   - "Recommendation"
 ---
 
-Determining whether to prioritize Daze-heavy Stun compositions or status-driven Anomaly builds is the most critical decision you will make when optimizing your Hollow Zero and Shiyu Defense teams. While traditional Attack-based teams rely on opening windows of vulnerability, Anomaly teams rewrite the rules of combat by turning elemental status effects into your primary source of damage.
+Determining whether to prioritize Daze-heavy Stun compositions or status-driven Anomaly builds is the most critical decision you will make when optimizing your [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison) and Shiyu Defense teams. While traditional Attack-based teams rely on opening windows of vulnerability, Anomaly teams rewrite the rules of combat by turning elemental status effects into your primary source of damage.
 
 # ZZZ Stun vs Anomaly Build Guide: Daze Mechanics vs. Attribute Reactions
 
@@ -54,7 +54,7 @@ The following table breaks down the fundamental differences between these two pl
 | Mechanic | Primary Stat | Core Goal | Best [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gaming-sessions) | Example Agents |
 | :--- | :--- | :--- | :--- | :--- |
 | **Stun** | Impact | Maximize Daze to trigger Chain Attacks | Shockstar Disco (4-pc) | Qingyi, Lycaon, Anby, Koleda |
-| **Anomaly** | Proficiency / Mastery | Trigger Attribute Effects & Disorder | Freedom Blues, Chaos Jazz | Jane Doe, Burnice, Grace, Piper |
+| **Anomaly** | Proficiency / Mastery | Trigger Attribute Effects & Disorder | Freedom Blues, Chaos Jazz | [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison), Burnice, Grace, Piper |
 | **Attack (Burst)** | ATK / Crit | High damage during Stun windows | Woodpecker Electro, Polar Metal | Ellen Joe, Zhu Yuan, Anton |
 | **Support** | Energy Regen | Buffing the team / Applying Daze | Swing Jazz | Nicole, Rina, Lucy, Caesar |
 | **Defense** | Impact / HP / DEF | Survival and Interruption | — | Ben, Seth, Caesar |
