@@ -157,7 +157,7 @@ The requirements for a gacha player are unique compared to a traditional FPS or 
 
 *   **Dynamic Lumbar Support:** Static pillows flatten over time. Integrated mechanical lumbar, like that found in the TITAN Evo or the Embody, is required for 6+ hour sessions to maintain the natural S-curve of the spine.
 *   **High-Polling Rate Peripherals:** To minimize input lag during frame-perfect dodges in Anomalous combat, mice must support at least 1000Hz polling. This ensures the game engine receives your inputs as close to real-time as possible.
-*   **Breathable Materials:** Heat is the enemy of focus. Mesh or cold-cure foam is essential to prevent thermal discomfort during summer grinding marathons. Leatherette may look premium, but without ventilation, it leads to sweating and skin irritation during the "ZZZ 3.0 Velina vs Jane Doe" hype cycles.
+*   **Breathable Materials:** Heat is the enemy of focus. Mesh or cold-cure foam is essential to prevent thermal discomfort during summer grinding marathons. Leatherette may look premium, but without ventilation, it leads to sweating and skin irritation during the "[ZZZ 3](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison).0 Velina vs Jane Doe" hype cycles.
 
 ## Comparison summary
 

@@ -56,7 +56,7 @@ Staying ahead in Zenless Zone Zero requires more than just high-level Agents; it
 ![Methodology](/img/zzz-tier-list-latest-patch-2-8/inline-1.webp)
 
 
-Our Patch 2.8 rankings are derived from extensive testing in the latest Shiyu Defense: Critical Nodes and the newly expanded Withered Domain (formerly Hollow Zero). We prioritize Agents who can navigate the aggressive AI of the New Eridan district and capitalize on the current elemental favor.
+Our Patch 2.8 rankings are derived from extensive testing in the latest Shiyu Defense: Critical Nodes and the newly expanded Withered Domain (formerly [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison)). We prioritize Agents who can navigate the aggressive AI of the New Eridan district and capitalize on the current elemental favor.
 
 The evaluation focuses on three primary metrics:
 1.  **Burst Window Efficiency:** How effectively an Agent can capitalize on a stunned enemy, particularly with the new Rupture mechanics.

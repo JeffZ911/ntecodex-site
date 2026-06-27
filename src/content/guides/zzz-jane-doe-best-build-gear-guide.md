@@ -47,7 +47,7 @@ Zenless Zone Zero players focusing on high-intensity [Jane Doe](https://ntecodex
 ---
 
 ### Razer Huntsman V3 Pro TKL Wireless Mechanical Keyboard
-The <a href="https://www.amazon.com/s?k=Razer+Huntsman+V3+Pro+TKL&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Razer Huntsman V3 Pro TKL</a> is designed for the highest level of competitive responsiveness, making it the ideal companion for Jane Doe’s fast-paced Salchow Jump and dash-heavy combos.
+The <a href="https://www.amazon.com/s?k=Razer+Huntsman+V3+Pro+TKL&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Razer Huntsman V3 Pro TKL</a> is designed for the highest level of competitive responsiveness, making it the ideal companion for [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)’s fast-paced Salchow Jump and dash-heavy combos.
 
 *   **ASIN:** B0CN13VC2W
 *   **Price:** $219.99

@@ -184,7 +184,7 @@ In the Patch 1.0.1 balance notes, several minor adjustments were made:
 *   **Lethal Rose Tech:** The community discovered a grouping technique for Jiuyuan, dubbed "Lethal Rose," which significantly improved AoE clear times for Nanally teams.
 *   **Nanally Banner:** The conclusion of Nanally's first limited banner, "The Ichi-daime," has solidified her status as a "must-have" for the current cycle, as no other Anima DPS currently matches her output.
 
-**Hotori Banner Pull Priority:**
+**Hotori Banner [Pull Priority](https://ntecodex.com/guides/lacrimosa-vs-chaos-nte-pull-priority-gear-guide):**
 *   **High Priority:** If you lack a strong Sub-DPS or use Chiz/Baicang.
 *   **Medium Priority:** If you already have a fully built Nanally/Jiuyuan squad.
 *   **Low Priority:** If you are waiting for the undisclosed banner.

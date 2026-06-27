@@ -88,7 +88,7 @@ The choice of [Drive Discs](https://ntecodex.com/guides/best-nvme-ssd-gacha-gami
 ### Team Synergy: Traditional Burst vs. Disorder Meta
 Traditional teams follow the **Stun -> Support -> Attack** rotation. You use your Stunner to build Daze, swap to your Support to apply buffs (like Nicole’s DEF shred or Rina’s PEN ratio), and then unleash your Attacker's Ultimate and EX Special Moves during the Stun window.
 
-The **Disorder Meta** functions differently. A typical Disorder team might feature two different Anomaly attributes (e.g., Jane Doe for Physical/Assault and Burnice for Fire/Burn). You apply Burn first, then quickly swap to Jane Doe to trigger Assault. The moment Assault triggers, it consumes the remaining Burn duration to deal **Disorder damage**, which is a massive instantaneous burst. This cycle can be repeated much faster than a Stun bar can be refilled.
+The **Disorder Meta** functions differently. A typical Disorder team might feature two different Anomaly attributes (e.g., [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) for Physical/Assault and Burnice for Fire/Burn). You apply Burn first, then quickly swap to Jane Doe to trigger Assault. The moment Assault triggers, it consumes the remaining Burn duration to deal **Disorder damage**, which is a massive instantaneous burst. This cycle can be repeated much faster than a Stun bar can be refilled.
 
 ## Recommendation
 
