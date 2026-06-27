@@ -137,7 +137,7 @@ Asaba Harumasa received substantial buffs in the 2.7 update, which have carried 
 
 *   **Ellen Joe:** *Deep Sea Visitor* (Signature) or *The Brimstone*.
 *   **Zhu Yuan:** *Riot Suppressor VI* (Signature) or *Starlight Engine*.
-*   **Jane Doe:** *Sharpened Stinger* (Signature) or *Rainforest Gourmet*.
+*   **[Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison):** *Sharpened Stinger* (Signature) or *Rainforest Gourmet*.
 *   **Asaba Harumasa:** *The Day the Cosmos Fell* or *Thunderbird*.
 
 ## B Tier

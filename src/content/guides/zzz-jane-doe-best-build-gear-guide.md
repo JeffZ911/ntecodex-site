@@ -91,7 +91,7 @@ With a [1ms GtG response time](https://www.lg.com/us/monitors/lg-27gp850-b-gamin
 ---
 
 ### Logitech G502 X PLUS Wireless
-Jane Doe’s kit requires constant cycling between her EX Special Attack and basic attacks to keep her Passion Stream active. The <a href="https://www.amazon.com/s?k=Logitech+G502+X+PLUS&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Logitech G502 X PLUS</a> puts all those controls at your fingertips.
+[Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)’s kit requires constant cycling between her EX Special Attack and basic attacks to keep her Passion Stream active. The <a href="https://www.amazon.com/s?k=Logitech+G502+X+PLUS&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">Logitech G502 X PLUS</a> puts all those controls at your fingertips.
 
 *   **ASIN:** B0B5L7DSQX
 *   **Price:** $159.99
