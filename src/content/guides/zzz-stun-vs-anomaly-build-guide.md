@@ -115,7 +115,7 @@ While you can run a Stunner and an Anomaly Agent together, it is often sub-optim
 #### Tier-Based Recommendations
 *   **Beginner:** Anby (Stun) + Nicole (Support) + Billy/Corin (Attack). Focus on learning the Daze timing.
 *   **Mid-game:** Koleda/Lycaon (Stun) + Support + S-Rank Attacker. Optimize your Impact stats on Slot 6.
-*   **Endgame:** Jane Doe + Burnice/Grace (Anomaly Disorder). Focus on high Anomaly Proficiency and Mastery to bypass Stun requirements entirely.
+*   **Endgame:** [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) + Burnice/Grace (Anomaly Disorder). Focus on high Anomaly Proficiency and Mastery to bypass Stun requirements entirely.
 
 ## Sources
 - Zenless Zone Zero Official Site — https://zenless.hoyoverse.com/

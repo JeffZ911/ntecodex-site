@@ -77,7 +77,7 @@ To catch the red and yellow flashes that signal parry and dodge windows, you nee
 *   **Best For:** Visual clarity and parry timing
 
 **Pros:**
-*   [180Hz overclocked](https://www.rtings.com/monitor/reviews/lg/27gp850-b-27gp83b-b) refresh rate reduces motion blur during Jane Doe’s rapid spinning animations.
+*   [180Hz overclocked](https://www.rtings.com/monitor/reviews/lg/27gp850-b-27gp83b-b) refresh rate reduces motion blur during [Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison)’s rapid spinning animations.
 *   Nano IPS panel covers [98% of the DCI-P3](https://www.lg.com/us/monitors/lg-27gp850-b-gaming-monitor) color gamut, making the neon streets of New Eriadu pop.
 *   Certified G-Sync compatible for tear-free gameplay even when frame rates fluctuate during heavy ultimate effects.
 
