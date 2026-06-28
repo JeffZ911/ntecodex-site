@@ -80,7 +80,7 @@ The transition from Natlan's "Nightsoul" mechanics to Snezhnaya's "Lunar" reacti
 ![S Tier](/img/best-genshin-impact-sub-dps-tier-list/inline-2.webp)
 
 
-Characters in the S Tier are universal powerhouses that define the current 6.4 and 6.5 meta. They possess unique mechanics that cannot be easily replaced and offer the highest damage-to-field-time ratio in the game.
+Characters in the S Tier are universal powerhouses that define the current 6.4 and 6.[5 meta](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts). They possess unique mechanics that cannot be easily replaced and offer the highest damage-to-field-time ratio in the game.
 
 ### Columbina: The Moon Maiden's Dominance
 Columbina has established herself as the premier Hydro sub-DPS and support hybrid. As a Hydro Catalyst user from the Nod-Krai region, she acts as the "Archon equivalent" for Lunar mechanics. Her Elemental Skill summons "Gravity Ripple," which provides off-field Hydro application while boosting the team's Lunar Reaction Damage by up to 50%. 

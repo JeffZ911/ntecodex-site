@@ -94,7 +94,7 @@ When comparing Nanally and Chiz at Awakening 0, Nanally wins in sustained DPS by
 
 ### Daffodill: The Shield Shredder
 
-Daffodill is the absolute best "Break Specialist." While her raw HP-depletion speed is lower than Nanally's, her ability to delete Stagger Bars is unparalleled. In the current Version 1.0.5 meta, boss shields have been buffed, making Daffodill an essential unit for any speed-clear attempt. Her Chaos-element attacks also prime enemies for the "Discord" reaction, which reduces enemy DEF by a significant margin.
+Daffodill is the absolute best "Break Specialist." While her raw HP-depletion speed is lower than Nanally's, her ability to delete Stagger Bars is unparalleled. In the current Version 1.0.[5 meta](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts), boss shields have been buffed, making Daffodill an essential unit for any speed-clear attempt. Her Chaos-element attacks also prime enemies for the "Discord" reaction, which reduces enemy DEF by a significant margin.
 
 ---
 

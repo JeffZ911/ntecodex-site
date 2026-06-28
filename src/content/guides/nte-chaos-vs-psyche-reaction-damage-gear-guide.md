@@ -41,7 +41,7 @@ Gacha and MMO players performing high-intensity theorycrafting and 6+ hour grind
 *   **Best For:** Visual Clarity of Status Effects
 *   **Pros:** Nano IPS panel provides 98% DCI-P3 color gamut coverage; 1ms GtG response time eliminates ghosting on damage numbers; 180Hz overclocked refresh rate ensures smooth attribute tracking.
 *   **Cons:** Contrast ratio is relatively low at 1000:1, making blacks look grey in dark rooms; The V-shaped stand has a deep footprint that consumes significant desk space.
-*   **Verdict:** With its 1ms GtG response time and Nano IPS color accuracy, the LG 27GP850-B is the best tool for players who need to distinguish between NTE Chaos and Psyche reaction icons in cluttered combat. The 1440p resolution provides the necessary pixel density to keep small damage text legible during high-speed rotations.
+*   **Verdict:** With its 1ms GtG response time and Nano IPS color accuracy, the LG 27GP850-B is the best tool for players who need to distinguish between [NTE Chaos](https://ntecodex.com/guides/nte-chaos-vs-lacrimosa-comparison-for-mmo-players) and Psyche reaction icons in cluttered combat. The 1440p resolution provides the necessary pixel density to keep small damage text legible during high-speed rotations.
 
 ### Razer Naga V2 Pro Wireless MMO Mouse
 *   **ASIN:** B0B6BR9N9F

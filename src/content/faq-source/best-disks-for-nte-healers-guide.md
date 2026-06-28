@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Optimizing your support units is the key to surviving the high-intensity anomalies of Hethereau as the meta shifts toward sustain-heavy endgame encounters.
+Optimizing your support units is the key to surviving the high-intensity anomalies of Hethereau as the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward sustain-heavy endgame encounters.
 
 # Best Disks for NTE Healers: Top Cartridge Sets and Build Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._

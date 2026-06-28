@@ -96,7 +96,7 @@ The strength of Fireflies and the Forest lies in its ease of maintenance. Becaus
 
 ### Deep Dive: Lost Radiance and Diabolos (Cosmos & Chaos)
 
-For characters that do not rely on Anima, the meta shifts toward defense and resistance penetration.
+For characters that do not rely on Anima, the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward defense and resistance penetration.
 
 **Lost Radiance** is designed for Cosmos Espers like Chiz, [Hotori](/characters/hotori-best-team-nte), and the main protagonist, Zero. The 25% DEF ignore is one of the strongest multipliers in NTE because it bypasses the natural damage reduction of high-level bosses. Since the buff lasts 20 seconds after an Ultimate, it covers the entire burst window of most Cosmos rotations.
 
