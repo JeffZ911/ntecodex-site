@@ -149,7 +149,7 @@ Mint is an Anima/Liquid unit that most players will use during the early hours o
 
 **Why Pure Healing Struggles in the Current Meta**
 
-The primary reason pure healers like Edgar and Mint struggle is the "Time-to-Kill" (TTK) requirement in endgame content. Most challenges in NTE are timed. A character who only heals helps you survive but does nothing to help you beat the clock. Until the meta shifts toward longer, war-of-attrition style boss fights, offensive supports will always reign supreme.
+The primary reason pure healers like Edgar and Mint struggle is the "Time-to-Kill" (TTK) requirement in endgame content. Most challenges in NTE are timed. A character who only heals helps you survive but does nothing to help you beat the clock. Until the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward longer, war-of-attrition style boss fights, offensive supports will always reign supreme.
 
 ## Recent Changes
 

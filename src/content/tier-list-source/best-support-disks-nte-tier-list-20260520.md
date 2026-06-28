@@ -139,7 +139,7 @@ C-Tier disks are generally considered "traps" in the current 1.0.1 meta. They fo
 
 ### Thea's Night Tavern: The Survival Trap
 
-Thea's Night Tavern is focused entirely on pure healing and HP recovery. In the early game, this set feels valuable because it keeps your team alive. However, as you progress into the endgame, the meta shifts heavily toward shields and crowd control. 
+Thea's Night Tavern is focused entirely on pure healing and HP recovery. In the early game, this set feels valuable because it keeps your team alive. However, as you progress into the endgame, the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) heavily toward shields and crowd control. 
 
 Characters like Adler provide shields that prevent damage entirely, which is infinitely better than healing damage after it has been taken. Furthermore, Sakiri's crowd control abilities often prevent enemies from attacking at all. This leaves Thea's Night Tavern in a difficult spot. Currently, Edgar is the only consistent user of this set, and since Edgar himself is struggling to find a place in the high-level meta, the set remains C-Tier.
 
