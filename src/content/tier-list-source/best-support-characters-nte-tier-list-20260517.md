@@ -65,7 +65,7 @@ The Esper Cycle is the heart of NTE's team building. By rotating through differe
 
 ### Esper Cycle Elemental Compatibility
 
-The following chart outlines how the six elements interact within the current version 1.0.5 meta:
+The following chart outlines how the six elements interact within the current version 1.0.[5 meta](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts):
 
 *   **Lakshana + Cosmos:** Triggers "Stain" (Slows enemies and increases critical damage taken).
 *   **Anima + Incantation:** Triggers "Blossom" (Continuous elemental damage over time).

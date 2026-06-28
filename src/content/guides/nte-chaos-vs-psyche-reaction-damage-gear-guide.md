@@ -50,7 +50,7 @@ Gacha and MMO players performing high-intensity theorycrafting and 6+ hour grind
 *   **Best For:** Complex Attribute Rotations
 *   **Pros:** Three swappable side plates (2, 6, and 12 buttons) for different game modes; HyperScroll Pro wheel allows for customized scroll tension for menu navigation; Focus Pro 30K Optical Sensor tracks accurately on almost any surface.
 *   **Cons:** At 134g, it is significantly heavier than modern 'superlight' mice; The high retail price makes it a steep investment for a single-genre peripheral.
-*   **Verdict:** The Razer Naga V2 Pro is essential for players managing the multi-key inputs required for NTE Chaos optimization. Its 12-button side plate allows for mapping every attribute trigger to a single thumb, while the 30,000 DPI sensor ensures pixel-perfect cursor placement during Psyche reaction windows.
+*   **Verdict:** The Razer Naga V2 Pro is essential for players managing the multi-key inputs required for [NTE Chaos](https://ntecodex.com/guides/nte-chaos-vs-lacrimosa-comparison-for-mmo-players) optimization. Its 12-button side plate allows for mapping every attribute trigger to a single thumb, while the 30,000 DPI sensor ensures pixel-perfect cursor placement during Psyche reaction windows.
 
 ### Secretlab TITAN Evo 2022 Regular
 *   **ASIN:** B0B5DPVR4M

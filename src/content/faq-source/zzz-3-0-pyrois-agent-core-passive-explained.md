@@ -149,7 +149,7 @@ Additional slots for Cartridges and Modules are unlocked as you increase a chara
 High-tier Modules are primarily found by completing challenges in the Training Room or by participating in high-level urban missions throughout Hethereau. Some rare Modules can also be obtained through limited-time events or by reaching high Tycoon Levels in the management sim.
 
 ### Is there a "best" elemental reaction for endgame content?
-While the meta shifts frequently, the **Scorch** reaction (Incantation + Chaos) is currently favored for its high burst damage against bosses. However, the **Blossom** reaction remains the most reliable for clearing waves of smaller enemies due to its automated turret fire.
+While the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) frequently, the **Scorch** reaction (Incantation + Chaos) is currently favored for its high burst damage against bosses. However, the **Blossom** reaction remains the most reliable for clearing waves of smaller enemies due to its automated turret fire.
 
 ### Can I use ZZZ 3.0 characters in Neverness to Everness?
 No, Zenless Zone Zero and Neverness to Everness are separate games developed by different studios (HoYoverse and Hotta Studio, respectively). While they share a similar urban aesthetic, their characters, stories, and mechanics are not interchangeable.

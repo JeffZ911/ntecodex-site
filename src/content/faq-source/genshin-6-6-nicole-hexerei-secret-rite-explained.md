@@ -49,7 +49,7 @@ The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a faction-based team pas
 *Related: [Best adjustable monitor arm for dual screen setups under $200 for long](/guides/best-dual-monitor-arm-under-200-mmo-gacha) · [Best adjustable monitor arm for desk ergonomics for 12-hour MMO marath](/guides/best-adjustable-monitor-arm-for-desk-ergonomics-2026) · [Best Adjustable Monitor Arms for Multi-Screen Gacha Setups and Long Fa](/guides/best-adjustable-monitor-arms-multi-screen-gacha)*
 
 
-As the meta shifts toward faction-specific synergies, players are eager to understand the mechanics behind the latest update. The introduction of the Hexenzirkel members as playable units has brought several questions to the forefront of the community:
+As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward faction-specific synergies, players are eager to understand the mechanics behind the latest update. The introduction of the Hexenzirkel members as playable units has brought several questions to the forefront of the community:
 
 *   What is the new Hexerei: [Secret Rite](https://ntecodex.com/faq) mechanic introduced in Genshin Impact 6.6?
 *   How does the character Nicole Reeyn utilize this [secret rite](https://ntecodex.com/faq) in her kit?

@@ -153,7 +153,7 @@ C-Tier characters are generally not recommended for endgame content unless you h
 
 ### Edgar: The Survival Insurance
 
-Edgar is a pure healer. While his healing output is the highest in the game, he provides zero offensive buffs. In the current Version 1.0.5 meta, players prefer hybrid healers like Jiuyuan (A1) or Sakiri, who can heal while also contributing to the team's total DPS. Using Edgar often results in failing to meet the "3-star" time requirements for Anomaly floors.
+Edgar is a pure healer. While his healing output is the highest in the game, he provides zero offensive buffs. In the current Version 1.0.[5 meta](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts), players prefer hybrid healers like Jiuyuan (A1) or Sakiri, who can heal while also contributing to the team's total DPS. Using Edgar often results in failing to meet the "3-star" time requirements for Anomaly floors.
 
 ### Aurelia: The Early Game Placeholder
 
