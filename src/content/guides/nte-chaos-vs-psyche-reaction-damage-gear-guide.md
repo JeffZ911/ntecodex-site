@@ -30,7 +30,7 @@ Maximizing attribute reactions in the urban sprawl of Hethereau requires more th
 
 # Best Gaming Gear for Optimizing NTE Chaos vs Psyche Reaction Damage in Long Sessions
 
-The LG 27GP850-B is our top pick for visual clarity of reaction damage, while the Razer Naga V2 Pro offers the best macro support for complex NTE Chaos rotations. For comfort, the Secretlab TITAN Evo 2022 is the gold standard.
+The LG 27GP850-B is our top pick for visual clarity of reaction damage, while the Razer Naga V2 Pro offers the best macro support for complex [NTE Chaos](https://ntecodex.com/guides/nte-chaos-vs-lacrimosa-comparison-for-mmo-players) rotations. For comfort, the Secretlab TITAN Evo 2022 is the gold standard.
 
 Gacha and MMO players performing high-intensity theorycrafting and 6+ hour grinding sessions focused on maximizing attribute reaction damage.
 

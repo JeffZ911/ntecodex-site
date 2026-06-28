@@ -108,7 +108,7 @@ With a [1ms GtG response time](https://www.lg.com/us/monitors/lg-27gp850-b-gamin
 *   RGB lighting significantly reduces battery life to roughly 37 hours when active, though it reaches [120 hours](https://www.logitechg.com/en-us/products/gaming-mice/g502-x-plus-wireless-lightforce.910-006160.html) with lighting off.
 
 **Verdict:**
-Jane Doe requires constant skill cycling; the G502 X Plus allows you to map her entire kit to the thumb buttons. The hybrid switches provide the tactile feedback of a mechanical click with the speed of an optical sensor, verified by [RTINGS](https://www.rtings.com/mouse/reviews/logitech/g502-x-plus) for low latency.
+[Jane Doe](https://ntecodex.com/guides/zzz-3-0-velina-vs-jane-doe-gear-comparison) requires constant skill cycling; the G502 X Plus allows you to map her entire kit to the thumb buttons. The hybrid switches provide the tactile feedback of a mechanical click with the speed of an optical sensor, verified by [RTINGS](https://www.rtings.com/mouse/reviews/logitech/g502-x-plus) for low latency.
 
 ---
 
