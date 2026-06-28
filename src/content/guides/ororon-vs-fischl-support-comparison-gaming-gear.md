@@ -26,7 +26,7 @@ inline_image_sections:
   - "What we didn't include and why"
 ---
 
-Selecting the right Electro support can define the efficiency of your Spiral Abyss clears, especially as the meta shifts toward complex elemental interactions.
+Selecting the right Electro support can define the efficiency of your Spiral Abyss clears, especially as the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward complex elemental interactions.
 
 # Ororon vs Fischl Support Comparison for Long-Session Genshin Impact Grinders
 

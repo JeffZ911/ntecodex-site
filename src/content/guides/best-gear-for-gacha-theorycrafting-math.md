@@ -135,7 +135,7 @@ Selecting the right hardware for a theorycrafting environment requires balancing
 
 *   **Ergonomic Data Analysis:** We analyzed ergonomic data from community resources and hardware review sites to identify gear that prevents Repetitive Strain Injury (RSI). For theorycrafters, RSI is a significant risk due to the thousands of mouse clicks required to move through spreadsheet cells and game menus.
 *   **Dual-Task Efficiency:** Selection was based on the "Dual-Task" requirement: the ability to display game clients and calculation spreadsheets simultaneously. This led us to prioritize monitor mounts that support multi-screen or ultrawide configurations.
-*   **Longevity and Durability:** We prioritized products with long-term warranties, such as the 15-year warranty on the FlexiSpot E7 Pro Plus, to ensure they survive multiple game meta shifts and hardware upgrades.
+*   **Longevity and Durability:** We prioritized products with long-term warranties, such as the 15-year warranty on the FlexiSpot E7 Pro Plus, to ensure they survive multiple game [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) and hardware upgrades.
 *   **Market Value Verification:** Pricing was cross-referenced with price-tracking tools to ensure recommendations represent current market value and aren't subject to temporary price spikes.
 
 ## What a theorycrafter actually needs
