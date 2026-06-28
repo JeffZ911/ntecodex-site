@@ -150,7 +150,7 @@ Edgar is the Cosmos healer many players start with. He is perfectly reliable for
 
 ### Skia: Low Priority Support
 
-Skia is a Lakshana Esper with pseudo-defensive utility that currently feels underpowered. Her mechanics don't synergize well with the fast-paced nature of the May 2026 meta. While she can provide some protection, it is rarely enough to justify taking up a slot that could be filled by a buffer like Haniel or a more robust shielder like Adler. Unless the meta shifts toward a style of combat that rewards her specific defensive niche, she remains a low-priority investment.
+Skia is a Lakshana Esper with pseudo-defensive utility that currently feels underpowered. Her mechanics don't synergize well with the fast-paced nature of the May 2026 meta. While she can provide some protection, it is rarely enough to justify taking up a slot that could be filled by a buffer like Haniel or a more robust shielder like Adler. Unless the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward a style of combat that rewards her specific defensive niche, she remains a low-priority investment.
 
 ## Recent Changes
 

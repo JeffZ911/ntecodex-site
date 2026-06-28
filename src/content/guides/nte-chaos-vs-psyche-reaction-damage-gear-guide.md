@@ -77,7 +77,7 @@ Gacha and MMO players performing high-intensity theorycrafting and 6+ hour grind
 *   **Best For:** Reducing Wrist Strain
 *   **Pros:** 57-degree vertical angle reduces muscular strain by 10%; 4000 DPI high-precision sensor reduces the hand movement required; Supports Logitech Flow for controlling multiple PCs during multi-boxing.
 *   **Cons:** The unique shape has a steep learning curve for those used to traditional mice; Not suitable for small hands, as the reach to the primary buttons is quite long.
-*   **Verdict:** If high-APM NTE Chaos rotations are causing wrist fatigue, the Logitech MX Vertical is a necessary ergonomic pivot. By placing the hand in a natural 'handshake' position, it allows for extended Psyche reaction testing without the repetitive strain associated with flat gaming mice.
+*   **Verdict:** If high-APM [NTE Chaos](https://ntecodex.com/guides/nte-chaos-vs-lacrimosa-comparison-for-mmo-players) rotations are causing wrist fatigue, the Logitech MX Vertical is a necessary ergonomic pivot. By placing the hand in a natural 'handshake' position, it allows for extended Psyche reaction testing without the repetitive strain associated with flat gaming mice.
 
 ## How we picked these products
 
