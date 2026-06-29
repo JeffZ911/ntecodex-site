@@ -38,7 +38,7 @@ Exploring the supernatural streets of Hethereau requires more than just high-spe
 
 # Velina Airgid Vortex Anomaly Guide: Neverness to Everness
 
-Velina Airgid and the Vortex mechanic are not currently featured as playable features in Neverness to Everness (NTE); instead, they are associated with the game Zenless Zone Zero. This guide details the actual Anomaly Commissions and supernatural exploration mechanics found within the city of Hethereau in Neverness to Everness.
+[Velina Airgid](https://ntecodex.com/faq) and the Vortex mechanic are not currently featured as playable features in Neverness to Everness (NTE); instead, they are associated with the game Zenless Zone Zero. This guide details the actual Anomaly Commissions and supernatural exploration mechanics found within the city of Hethereau in Neverness to Everness.
 
 ## Question Restated
 
@@ -48,9 +48,9 @@ Velina Airgid and the Vortex mechanic are not currently featured as playable fea
 As Neverness to Everness establishes its presence in the urban open-world genre, players often find themselves searching for specific characters and mechanics that may belong to other titles. The primary confusion stems from the crossover of terminology like "Anomaly," which serves as a core pillar in multiple modern RPGs. This guide addresses the following key concerns:
 
 *   Is Velina Airgid a playable character in Neverness to Everness (NTE)?
-*   What is the Vortex Anomaly in the context of Hethereau?
+*   What is the [Vortex Anomaly](https://ntecodex.com/faq) in the context of Hethereau?
 *   How do you complete Anomaly-related missions in NTE?
-*   Where can players find the Airgid Vortex weapon in the game?
+*   Where can players find the [Airgid Vortex](https://ntecodex.com/faq) weapon in the game?
 
 ### Common Player Confusion: NTE vs. ZZZ
 

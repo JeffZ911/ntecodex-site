@@ -174,7 +174,7 @@ Leaks regarding the upcoming Version 1.1 update suggest the introduction of a ne
 
 For now, focus your "Module Gacha" efforts on obtaining high-quality shapes for Lost Radiance and Street Boxer. Remember to use your Gold Coins wisely in the Rewind system; only use them on Legendary-tier Modules with at least two desirable substats (CRIT Rate, CRIT DMG, or Speed).
 
-**Timeline of Major Meta Shifts:**
+**Timeline of Major [Meta Shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts):**
 *   **April 29, 2026:** Global Launch; Lost Radiance identified as top-tier.
 *   **May 5, 2026:** First High Risk Commission reset; Devil's Blood: Curse rises in popularity for floor 10.
 *   **May 13, 2026:** Hotori Banner release; Cosmos synergy becomes the dominant meta.

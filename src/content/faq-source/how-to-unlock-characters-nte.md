@@ -121,7 +121,7 @@ When a limited banner ends, any progress made toward the 90-pull pity or the 70-
 
 Consult our NTE Tier List to see which characters are worth the investment of Fabricated Dice and which ones dominate the current meta. If you are just starting your account, check the NTE Reroll Guide for the fastest way to start with a top-tier S-rank character from your very first rolls.
 
-To maximize the potential of your new unlocks, learn about Esper Cycles and elemental synergies in our Team Building Guide, which explains how to rotate between Anima, Psyche, and Incantation characters for maximum damage. Finally, stay updated on the latest active codes to get free Annulith and Dice for your next pulls at the [Scarborough Fair](https://ntecodex.com/faq).
+To maximize the potential of your new unlocks, learn about Esper Cycles and elemental synergies in our Team Building Guide, which explains how to rotate between Anima, Psyche, and Incantation characters for maximum damage. Finally, stay updated on the latest active codes to [get free](https://ntecodex.com/faq) Annulith and Dice for your next pulls at the [Scarborough Fair](https://ntecodex.com/faq).
 
 ## Sources
 

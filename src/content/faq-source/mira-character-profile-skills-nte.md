@@ -148,7 +148,7 @@ Other notable Arcs available in the May 2026 meta include:
 
 *   **Neverness to Everness Tier List:** A comprehensive ranking of all S-Rank and A-Rank characters in Version 1.0.
 *   **NTE Banner Schedule:** Tracking the arrival of Lacrimosa and Chaos in Version 1.1.
-*   **How to Get Free S-Rank Selectors:** A guide to the 50-pull milestone on the Standard Board.
+*   **How to [Get Free](https://ntecodex.com/faq) S-Rank Selectors:** A guide to the 50-pull milestone on the Standard Board.
 *   **Best Team Compositions:** How to pair Nanally and Hotori for the Blossom reaction.
 *   **NTE Beginner's Guide:** Mastering the Esper Meter and the urban exploration mechanics.
 
