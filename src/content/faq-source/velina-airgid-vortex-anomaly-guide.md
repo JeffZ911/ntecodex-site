@@ -67,7 +67,7 @@ In the world of NTE, an Anomaly is not a character class but a supernatural mani
 ![Direct Answer](/img/velina-airgid-vortex-anomaly-guide/inline-2.webp)
 
 
-Velina Airgid is currently not featured as a character or entity within Neverness to Everness; she is an S-Rank Wind Anomaly Agent belonging to the [Roscaelifer External Strategy Department](https://zenless.hoyoverse.com/en-us/news/123456) in Zenless Zone Zero. Similarly, the "[Airgid Vortex](https://ntecodex.com/faq)" is not present as a weapon or mechanic in NTE as of the April 29, 2026, release.
+[Velina Airgid](https://ntecodex.com/faq) is currently not featured as a character or entity within Neverness to Everness; she is an S-Rank Wind Anomaly Agent belonging to the [Roscaelifer External Strategy Department](https://zenless.hoyoverse.com/en-us/news/123456) in Zenless Zone Zero. Similarly, the "[Airgid Vortex](https://ntecodex.com/faq)" is not present as a weapon or mechanic in NTE as of the April 29, 2026, release.
 
 In Neverness to Everness, "Anomalies" refer to the supernatural entities and environmental puzzles found throughout districts like New Herland and Illusion Town. Players must use the Anomagram—a specialized tracking tool—to locate these phenomena and resolve them to earn rewards such as Fons, Annuliths, and Beetle Coins.
 
