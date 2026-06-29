@@ -184,7 +184,7 @@ To keep your Espers competitive against high-level Anomalies, you must invest in
 
 *   Check out our NTE Tier List for the best character rankings in the current meta.
 *   Stay updated with the NTE Banner Schedule to plan your Annulith spending.
-*   Find the latest NTE Redeem Codes to get free Hunter Guides and Beetle Coins.
+*   Find the latest NTE Redeem Codes to [get free](https://ntecodex.com/faq) Hunter Guides and Beetle Coins.
 *   Explore our NTE Best Weapons Guide to find the perfect Arcs for your team.
 
 ## Sources

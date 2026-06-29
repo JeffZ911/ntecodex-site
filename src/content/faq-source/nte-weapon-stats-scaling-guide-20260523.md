@@ -166,7 +166,7 @@ Efficiency in NTE is determined by how you spend your **Character Pixels** (stam
 - BlueStacks: NTE Weapon Tier List 2026 — https://www.bluestacks.com/blog/game-guides/neverness-to-everness/nte-weapon-tier-list-en.html
 - Icy Veins: Day Off Arc Stats and Materials — https://www.icy-veins.com/nte/day-off-arc-guide/
 - Mobalytics: Neverness to Everness Arc Database — https://mobalytics.gg/nte/arcs-list/
-- GameRant: How to Get Free S-Class Arc Day Off
+- GameRant: How to [Get Free](https://ntecodex.com/faq) S-Class Arc Day Off
 - Sportskeeda: How to get Camellia Society for free in NTE — https://www.sportskeeda.com/esports/how-get-s-rank-arc-camellia-society-free-nte-neverness-everness
 - GameWith: Anomaly Zone Locations and Materials
 - Kaiden.gg: Beetle Coins Earning and Spending Guide

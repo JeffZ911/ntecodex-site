@@ -59,7 +59,7 @@ Velina is a character from Zenless Zone Zero (ZZZ), not Neverness to Everness (N
 As the gaming landscape evolves in mid-2026, players are increasingly looking for clarity on the crossover between the "Big Two" urban open-world RPGs. The primary confusion stems from the term "Anomaly," which serves as a core pillar for both games but represents entirely different systems.
 
 ### Is Velina in Neverness to Everness?
-No, Velina Airgid is an S-Rank Agent exclusive to Zenless Zone Zero Version 3.0. She is the head of the Roscaelifer External Strategy Department and serves as the game's first-ever Wind-attribute Anomaly specialist. While her design fits the "supernatural urban" aesthetic shared by Neverness to Everness, she does not appear in the NTE roster, which features characters like Nanally, Mint, and Iris.
+No, [Velina Airgid](https://ntecodex.com/faq) is an S-Rank Agent exclusive to Zenless Zone Zero Version 3.0. She is the head of the Roscaelifer External Strategy Department and serves as the game's first-ever Wind-attribute Anomaly specialist. While her design fits the "supernatural urban" aesthetic shared by Neverness to Everness, she does not appear in the NTE roster, which features characters like Nanally, Mint, and Iris.
 
 ### Defining "Anomaly" in the Context of NTE
 In Neverness to Everness, "Anomaly" is a noun rather than a combat mechanic. It refers to the paranormal phenomena investigated by the Bureau of Anomaly Control. Players take on the role of an unlicensed Anomaly Hunter operating out of the Eibon antique shop. While ZZZ players "build up Anomaly" to stun enemies, NTE players "hunt Anomalies" to progress the story and gear up their characters.
