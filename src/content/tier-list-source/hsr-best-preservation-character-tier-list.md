@@ -31,7 +31,7 @@ Survival in the higher levels of the Simulated Universe and Memory of Chaos requ
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._
 
 
-Selecting the right Preservation character can be the difference between a flawless victory and a total party wipe. As the meta shifts toward characters who provide both survivability and offensive utility, understanding the nuances of shields, damage redirection, and crowd control resistance is essential for any player looking to clear endgame content. This guide ranks every Preservation unit currently available in Honkai: Star Rail as of May 2024.
+Selecting the right Preservation character can be the difference between a flawless victory and a total party wipe. As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward characters who provide both survivability and offensive utility, understanding the nuances of shields, damage redirection, and crowd control resistance is essential for any player looking to clear endgame content. This guide ranks every Preservation unit currently available in Honkai: Star Rail as of May 2024.
 
 ## Methodology
 

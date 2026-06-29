@@ -33,7 +33,7 @@ inline_image_sections:
   - "Recent Changes"
 ---
 
-As the meta shifts toward the complex "Memosprite" summon mechanics of the Amphoreus arc, selecting the right support has never been more critical for clearing endgame content. This guide ranks the current roster to help you build the strongest possible teams for the May 2026 landscape.
+As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward the complex "Memosprite" summon mechanics of the Amphoreus arc, selecting the right support has never been more critical for clearing endgame content. This guide ranks the current roster to help you build the strongest possible teams for the May 2026 landscape.
 
 # HSR Best Harmony Characters Tier List: Top Supports (May 2026)
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._
