@@ -54,7 +54,7 @@ As Neverness to Everness establishes its presence in the urban open-world genre,
 
 ### Common Player Confusion: NTE vs. ZZZ
 
-The most frequent source of confusion for new Appraisers is the similarity between Neverness to Everness and Zenless Zone Zero (ZZZ). Both games feature urban environments, supernatural phenomena, and high-fidelity action combat. However, characters like Velina Airgid are exclusive to the roster of Zenless Zone Zero, where she serves as an S-Rank Wind Anomaly Agent in the External Strategy Department.
+The most frequent source of confusion for new Appraisers is the similarity between Neverness to Everness and Zenless Zone Zero (ZZZ). Both games feature urban environments, supernatural phenomena, and high-fidelity action combat. However, characters like [Velina Airgid](https://ntecodex.com/faq) are exclusive to the roster of Zenless Zone Zero, where she serves as an S-Rank Wind Anomaly Agent in the External Strategy Department.
 
 In Neverness to Everness, the term "Anomaly" refers to the supernatural entities and reality-warping events that players investigate as part of their daily routine at the Eibon antique shop. While both games use the word, the mechanics differ significantly.
 

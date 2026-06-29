@@ -212,7 +212,7 @@ Maintaining momentum is key. Use **Redirect Skills** to parry incoming attacks; 
 **How does the NTE gacha work?**
 The gacha system in Neverness to Everness, known as "Scarborough Fair," is one of the most player-friendly in the genre. There is **no 50/50 system**; if you pull an S-Rank character on a limited banner, it is guaranteed to be the featured character. Hard pity is at 90 pulls, but "Board Modification" at 70 pulls significantly increases your chances of an early drop to 19.59%.
 
-**Where can I get free S-Rank Arcs?**
+**Where can I [get free](https://ntecodex.com/faq) S-Rank Arcs?**
 Several S-Rank Arcs can be obtained by defeating world bosses. For example, the **Raging Flames** Arc is a reward for defeating the Headless Biker in the Bridge Crossings area. You can also obtain the **Day Off** Arc by completing the hidden "Eclipse" questline involving the Bureau of Anomaly Control.
 
 **Is there a reroll guide for NTE?**

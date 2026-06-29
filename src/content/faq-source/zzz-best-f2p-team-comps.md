@@ -136,7 +136,7 @@ Focus your limited resources on leveling your two main Attackers (Billy and Cori
 
 
 *   Zenless Zone Zero Character Tier List
-*   How to Get Free Master Tapes and Polychromes
+*   How to [Get Free](https://ntecodex.com/faq) Master Tapes and Polychromes
 *   Best W-Engines for Anby: F2P vs. Premium
 *   Shiyu Defense Floor 1-10 Strategy Guide
 *   ZZZ Attribute Weakness and Resistance Explained

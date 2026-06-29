@@ -38,7 +38,7 @@ With the launch of the [ZZZ 3](https://ntecodex.com/faq).0 update, players are f
 
 **Quick Answer:** The Joyau Dore is the undisputed best-in-slot W-Engine for Velina, offering a massive 70 Anomaly Proficiency boost and a team-wide buff. For players seeking budget alternatives, Rainforest Gourmet and Boisterous Echoes provide excellent stacking bonuses that synergize with her high-frequency cyclone attacks.
 
-As urban supernatural RPGs like Neverness to Everness continue to expand their rosters in 2026, Zenless Zone Zero has introduced its most complex Anomaly unit yet. Velina Airgid, the head of the External Strategy Department, specializes in dealing sustained Wind DMG and triggering the Vortex status effect. This comparison analyzes the top gear options to ensure you maximize her sub-DPS potential during marathon farming sessions.
+As urban supernatural RPGs like Neverness to Everness continue to expand their rosters in 2026, Zenless Zone Zero has introduced its most complex Anomaly unit yet. [Velina Airgid](https://ntecodex.com/faq), the head of the External Strategy Department, specializes in dealing sustained Wind DMG and triggering the Vortex status effect. This comparison analyzes the top gear options to ensure you maximize her sub-DPS potential during marathon farming sessions.
 
 ### Joyau Dore (S-Rank)
 *   **Best for:** Maximum Anomaly damage and team utility.

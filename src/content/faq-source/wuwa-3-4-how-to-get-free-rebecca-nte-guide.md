@@ -179,7 +179,7 @@ Neverness to Everness was released globally on April 29, 2026, for PC, Android, 
 ## Sources
 - Neverness to Everness - Wikipedia — https://en.wikipedia.org/wiki/Neverness_to_Everness
 - Neverness To Everness New & Upcoming Characters | Character List - LootBar
-- How to Claim Free Rebecca in [WuWa 3](https://ntecodex.com/faq).4 — Step-by-Step Walkthrough | GameMarket.gg — https://www.gamemarket.gg/news/how-to-claim-free-rebecca-in-wuwa-3-4/
+- How to Claim [Free Rebecca](https://ntecodex.com/faq) in [WuWa 3](https://ntecodex.com/faq).4 — Step-by-Step Walkthrough | GameMarket.gg — https://www.gamemarket.gg/news/how-to-claim-free-rebecca-in-wuwa-3-4/
 - Wuthering Waves 3.4 events and rewards - Sportskeeda — https://www.sportskeeda.com/esports/wuthering-waves-3-4-events-rewards
 - Neverness to Everness NTE 1.0 banners: All you need to know - Sportskeeda — https://www.sportskeeda.com/esports/neverness-to-everness-nte-1-0-banners-release-dates
 - All Launch Rewards And How To Get Them In NTE - TheGamer
