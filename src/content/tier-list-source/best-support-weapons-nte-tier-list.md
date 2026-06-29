@@ -25,7 +25,7 @@ inline_image_sections:
   - "Recent Changes"
 ---
 
-Building the right team in Neverness to Everness (NTE) requires more than just high-damage Espers; it demands a tactical selection of Arcs that amplify your squad's overall performance. As the meta shifts following the recent introduction of [Hotori](/characters/hotori-best-team-nte), understanding which support weapons provide the best off-field utility is essential for clearing high-level Anomalies.
+Building the right team in Neverness to Everness (NTE) requires more than just high-damage Espers; it demands a tactical selection of Arcs that amplify your squad's overall performance. As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) following the recent introduction of [Hotori](/characters/hotori-best-team-nte), understanding which support weapons provide the best off-field utility is essential for clearing high-level Anomalies.
 
 # Best Support Weapons for Neverness to Everness Characters: May 2026 Tier List
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-24._

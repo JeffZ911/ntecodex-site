@@ -129,7 +129,7 @@ The Secretlab TITAN Evo 2022 provides the most robust ergonomic support for play
 
 While high-end gear can enhance your performance in Neverness to Everness, it is not always a necessary investment.
 
-If you are currently using a 1440p IPS monitor with at least 144Hz, the jump to 165Hz or 180Hz for tracking NTE Chaos will be negligible. The human eye struggles to perceive the difference in fluidity at those increments, and your current panel likely already provides the color accuracy needed to distinguish between different Esper ability effects.
+If you are currently using a 1440p IPS monitor with at least 144Hz, the jump to 165Hz or 180Hz for tracking [NTE Chaos](https://ntecodex.com/guides/nte-chaos-vs-lacrimosa-comparison-for-mmo-players) will be negligible. The human eye struggles to perceive the difference in fluidity at those increments, and your current panel likely already provides the color accuracy needed to distinguish between different Esper ability effects.
 
 Don't buy a high-button-count MMO mouse if you primarily use a controller. Hotta Studio has designed NTE to be highly accessible across platforms, and the <a href="https://www.amazon.com/s?k=PlayStation+5+and+mobile+versions&tag=jeffzen911-20" rel="sponsored nofollow noopener" target="_blank">PlayStation 5 and mobile versions</a> offer optimized control schemes that don't benefit from the Naga’s 12-button side plate. If your current chair is comfortable and you don't experience lower back pain after 4 hours, a $500 "gaming" chair is an aesthetic upgrade rather than a functional one. Focus your budget on internal PC components instead if you are experiencing frame drops during intensive Anomaly battles.
 

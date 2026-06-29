@@ -109,7 +109,7 @@ Haniel’s signature Solid Arc provides Psyche DMG boosts and a unique off-field
 Ideal for Fadia and other HP-scaling bruisers, this Synthesis Arc increases Max HP and Mental DMG after casting an Ultimate. It provides the durability needed for close-quarters combat while ensuring that Fadia's damage remains competitive.
 
 ### Hethereau's Keeper: The Summoner Meta
-Notable for summoning "Officer Whisker" to assist in combat, this Solid Arc provides consistent off-field DPS. Recent meta shifts have shown that the summon’s damage scales surprisingly well with the player’s Base ATK, making it a top-tier choice for sustained combat encounters where the player needs extra distraction for enemies.
+Notable for summoning "Officer Whisker" to assist in combat, this Solid Arc provides consistent off-field DPS. Recent [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) have shown that the summon’s damage scales surprisingly well with the player’s Base ATK, making it a top-tier choice for sustained combat encounters where the player needs extra distraction for enemies.
 
 | A-Tier Arc | Type | Primary Source |
 | :--- | :--- | :--- |
