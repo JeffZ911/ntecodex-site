@@ -134,7 +134,7 @@ Choosing the right artifact set is crucial for maximizing a healer's contributio
 *   **Ocean-Hued Clam:** Best for Kokomi and Baizhu. It converts healing into physical damage bubbles that pop for up to 30,000 damage every 3 seconds.
 *   **Song of Days Past:** A newer set that provides a flat damage buff to the active character based on the amount healed. It is excellent for healers in teams with a single, high-damage carry (like Xianyun with Xiao).
 *   **Noblesse Oblige:** The standard for Bennett. It provides a 20% ATK buff to the entire party after using a Burst.
-*   **Viridescent Venerer:** Mandatory for Anemo healers like Jean and Xianyun to reduce enemy resistances.
+*   **Viridescent Venerer:** Mandatory for Anemo healers like Jean and Xianyun to reduce [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 *   **Deepwood Memories:** Often used on Baizhu if no one else on the team is wearing it, as it shreds Dendro resistance.
 
 ## Related

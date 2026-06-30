@@ -42,7 +42,7 @@ Cartridges, on the other hand, function as the "Gear Disks." These are equipped 
 
 ### Why DPS Optimization Matters
 
-The combat in NTE revolves around the "Esper Cycle," where triggering elemental reactions like Blossom, Scorch, and Hex is essential for shredding enemy resistances. If your DPS Disks are not optimized, you will find it increasingly difficult to trigger these reactions before the enemy’s "Stability Bar" recovers. In the current endgame meta, specifically within the high-level Urban Anomalies, raw ATK is no longer sufficient. High-tier builds now focus on DEF-ignore mechanics, Crit ratios, and Elemental DMG bonuses to bypass the scaling armor of boss-level entities.
+The combat in NTE revolves around the "Esper Cycle," where triggering elemental reactions like Blossom, Scorch, and Hex is essential for shredding [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide). If your DPS Disks are not optimized, you will find it increasingly difficult to trigger these reactions before the enemy’s "Stability Bar" recovers. In the current endgame meta, specifically within the high-level Urban Anomalies, raw ATK is no longer sufficient. High-tier builds now focus on DEF-ignore mechanics, Crit ratios, and Elemental DMG bonuses to bypass the scaling armor of boss-level entities.
 
 ## Direct Answer
 
