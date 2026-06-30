@@ -175,7 +175,7 @@ The Anomagram is typically accessed through the main map interface or a dedicate
 ## Sources
 
 - NTE Characters List & Database — https://www.ntegame.com/characters
-- Velina Airgid (Agents) | Zenless Zone Zero — https://gachabase.com/zenless-zone-zero/agents/velina-airgid/
+- [Velina Airgid](https://ntecodex.com/faq) (Agents) | Zenless Zone Zero — https://gachabase.com/zenless-zone-zero/agents/velina-airgid/
 - All Characters in Neverness to Everness — https://www.ldshop.com/article/all-characters-in-neverness-to-everness-rank-attribute-weapon
 - NTE New & Upcoming Characters
 - Nanally Complete Guide | Neverness to Everness — https://www.prydwen.gg/neverness-to-everness/characters/nanally

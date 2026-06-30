@@ -93,7 +93,7 @@ Even with the correct 4-piece set, your support will underperform if the modules
 
 To help you gear your roster, here are the best-in-slot recommendations for the current top-tier supports:
 
-*   **Sakiri:** Speedy Hedgehog. Her kit focuses on rapid-fire Ultimate usage to keep enemy resistances shredded. The Cycle Intensity from this set is vital.
+*   **Sakiri:** Speedy Hedgehog. Her kit focuses on rapid-fire Ultimate usage to keep [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) shredded. The Cycle Intensity from this set is vital.
 *   **Haniel:** Speedy Hedgehog. As a pure buffer, Haniel needs to stack as much team-wide ATK as possible.
 *   **Adler:** Kingdom's Guard. His role as a Physical Tank requires the DEF scaling provided by this set to keep his shields from breaking.
 *   **Edgar:** Thea's Night Tavern. As the premier healer, he needs the outgoing healing bonus to keep up with high-damage bosses.
