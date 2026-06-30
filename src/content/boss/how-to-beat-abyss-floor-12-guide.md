@@ -23,7 +23,7 @@ inline_image_sections:
   - "Loot"
 ---
 
-Clearing the Spiral Abyss Floor 12 remains the ultimate test of a traveler's roster strength and mechanical execution. Achieving a full 36-star clear requires more than just high-level characters; it demands a deep understanding of enemy resistances, shield-breaking mechanics, and precise rotation timing.
+Clearing the Spiral Abyss Floor 12 remains the ultimate test of a traveler's roster strength and mechanical execution. Achieving a full 36-star clear requires more than just high-level characters; it demands a deep understanding of [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide), shield-breaking mechanics, and precise rotation timing.
 
 # How to Beat Abyss Floor 12: Genshin Impact Strategy Guide
 

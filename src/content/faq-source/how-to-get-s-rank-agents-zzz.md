@@ -132,7 +132,7 @@ To get S-Rank Agents, you need Polychromes. Each pull costs 160 Polychromes. To 
 
 *   **Daily Errands:** Completing your daily tasks provides a steady 60 Polychromes per day.
 *   **[Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison):** This roguelike mode offers weekly rewards, including Polychromes and Boopons. Clearing the "License Level" rewards provides thousands of Polychromes over time.
-*   **Shiyu Defense:** This is the endgame "spiral" content. The "Stable Node" provides one-time rewards, while the "Disputed Node" or "Critical Node" resets periodically, providing a recurring source of currency for high-level players.
+*   **Shiyu Defense:** This is the endgame "spiral" content. The "Stable Node" provides one-time rewards, while the "[Disputed Node](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide)" or "Critical Node" resets periodically, providing a recurring source of currency for high-level players.
 *   **Trial Stages:** Every time a new Exclusive Channel launches, you can play a trial stage for the new S-Rank Agent to earn 20 Polychromes instantly.
 *   **Inter-Knot Leveling:** Every few levels, you will receive Master Tapes or Polychromes as a reward from the Proxy association.
 

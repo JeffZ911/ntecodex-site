@@ -161,7 +161,7 @@ The 1.1 update introduced Lacrimosa as a playable character and added new anomal
 ## Frequently Asked Questions
 
 ### Is Velina Airgid coming to Neverness to Everness?
-There is no official confirmation of Velina Airgid appearing in Neverness to Everness. She is a character specifically designed for Zenless Zone Zero by HoYoverse, whereas NTE is developed by Hotta Studio.
+There is no official confirmation of [Velina Airgid](https://ntecodex.com/faq) appearing in Neverness to Everness. She is a character specifically designed for Zenless Zone Zero by HoYoverse, whereas NTE is developed by Hotta Studio.
 
 ### How do I trigger the Vortex mechanic in NTE?
 The Vortex mechanic does not exist in Neverness to Everness. Players looking for similar battlefield control should use Anima-element characters like Nanally or explore environmental hazards that create wind-based displacement.

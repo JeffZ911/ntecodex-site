@@ -146,7 +146,7 @@ To fully utilize your 5-star disk sets, you must pair them with the correct weap
 ### Advanced NTE Combat Guides
 
 The effectiveness of sets like **Devil's Blood: Curse** depends entirely on your mastery of the **Esper Cycle**. This is the system of elemental reactions in NTE. For example:
-*   **Nova:** Triggered by combining Anima and undisclosed. It creates a localized explosion that shreds enemy resistances.
+*   **Nova:** Triggered by combining Anima and undisclosed. It creates a localized explosion that shreds [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 *   **Stain:** A reaction that applies a damage-over-time effect, which is then amplified by specific Cartridge bonuses.
 
 Knowing which reaction your team focuses on will dictate whether you should farm for raw damage sets like Lost Radiance or reaction-heavy sets like Devil's Blood.
