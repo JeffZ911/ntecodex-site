@@ -84,7 +84,7 @@ The "Vortex" mechanic is a specific elemental reaction found in other games, but
 | **Anomaly Definition** | Supernatural entities/events in the world | A character class/combat role |
 | **Primary Tool** | Anomagram | Bangboo / HDD |
 | **Vortex Mechanic** | Not present | Wind elemental reaction |
-| **Key Characters** | [Nanally](/characters/nanally-guide-nte), Lacrimosa, [Sakiri](/characters/sakiri-nte-free-5-star-guide) | Velina Airgid, Billy Kid, Ellen Joe |
+| **Key Characters** | [Nanally](/characters/nanally-guide-nte), Lacrimosa, [Sakiri](/characters/sakiri-nte-free-5-star-guide) | [Velina Airgid](https://ntecodex.com/faq), Billy Kid, Ellen Joe |
 | **Primary Rewards** | Fons, Annuliths, Carrota | Dennies, Polychromes |
 
 ## Detailed Explanation
