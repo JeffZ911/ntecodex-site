@@ -142,7 +142,7 @@ To trigger reactions reliably, you need "Enablers"—characters who can apply el
 *   **Hydro:** Xingqiu and Yelan are the gold standard for off-field Hydro application via their Elemental Bursts. Kokomi provides wide AoE Hydro with her jellyfish.
 *   **Dendro:** Nahida is the premier Dendro enabler, applying the element every time a reaction is triggered on a marked enemy. Dendro Traveler and Collei are accessible F2P alternatives.
 *   **Pyro:** Xiangling is almost unique in her ability to apply high-frequency Pyro off-field with her Pyronado. Bennett is often paired with her to provide an Attack buff and Pyro particles.
-*   **Anemo:** Kazuha and Sucrose are used to trigger Swirl, which reduces enemy resistances if they are wearing the Viridescent Venerer artifact set.
+*   **Anemo:** Kazuha and Sucrose are used to trigger Swirl, which reduces [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) if they are wearing the Viridescent Venerer artifact set.
 
 ### Understanding Elemental Resonance Bonuses
 

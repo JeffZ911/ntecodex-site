@@ -34,7 +34,7 @@ Finding the right balance between high-tier performance and resource management 
 
 When building a team in Neverness to Everness without spending money, players typically focus on three primary concerns:
 
-*   **What are the most effective free-to-play (F2P) team compositions in Neverness to Everness (NTE)?** Effective teams must leverage the "Esper Cycle" to trigger elemental reactions that bypass high enemy resistances.
+*   **What are the most effective free-to-play (F2P) team compositions in Neverness to Everness (NTE)?** Effective teams must leverage the "Esper Cycle" to trigger elemental reactions that bypass high [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 *   **Which free characters should you prioritize for early and mid-game progression?** Resource scarcity in the early game makes it vital to invest in "A-Rank" units that maintain viability in the endgame Esper Tower.
 *   **How do the free S-Class characters like Zero and Chiz fit into the meta?** Understanding how to maximize the utility of the protagonist (Zero) and the grindable S-Class unit (Chiz) is the difference between clearing content and hitting a progression wall.
 
