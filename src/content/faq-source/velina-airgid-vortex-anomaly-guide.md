@@ -73,7 +73,7 @@ In Neverness to Everness, "Anomalies" refer to the supernatural entities and env
 
 ### The Factual Status of Velina Airgid in NTE
 
-While some players have searched for Velina Airgid within the NTE character database, she is not part of the 16 confirmed launch characters. The wind-based gameplay some associate with her "Vortex" style is instead found in characters like Nanally, an Anima-element character who uses Fangs and Claws to deliver high-speed follow-up attacks.
+While some players have searched for [Velina Airgid](https://ntecodex.com/faq) within the NTE character database, she is not part of the 16 confirmed launch characters. The wind-based gameplay some associate with her "Vortex" style is instead found in characters like Nanally, an Anima-element character who uses Fangs and Claws to deliver high-speed follow-up attacks.
 
 ### Core Mechanics: Anomaly Commissions vs. Vortex Reactions
 
