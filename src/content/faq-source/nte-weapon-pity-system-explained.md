@@ -144,7 +144,7 @@ While Annulith is the primary source, savvy players can acquire Tri-Keys through
 | **Hunter Exchange Shop** | Exchange Warp Pieces | Weekly/Monthly Limits |
 | **Annulith Conversion** | 160 Annulith per Key | Unlimited |
 | **Story Progression** | Complete Main Chapters | One-time |
-| **Event Rewards** | Limited-time Challenges | Varies by Event |
+| **[Event Rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide)** | Limited-time Challenges | Varies by Event |
 
 ### Cosmetic Pity and Milestone Rewards
 NTE is unique in that it separates cosmetic items from the main character and weapon pity tracks. Limited banners often feature separate side-pity systems for high-end cosmetics:

@@ -39,7 +39,7 @@ To [unlock Hollow C41](https://ntecodex.com/faq) in Zenless Zone Zero, reach Int
 
 Players often find themselves searching for the specific requirements to access [Hollow C41](https://ntecodex.com/faq), especially during major seasonal events. As the gaming landscape evolves in 2026, many are also looking for the equivalent systems in the open-world supernatural RPG, Neverness to Everness (NTE). The core questions usually involve:
 
-*   What are the specific Inter-Knot requirements and story milestones for Hollow C41?
+*   What are the specific Inter-Knot requirements and story milestones for [Hollow C41](https://ntecodex.com/faq)?
 *   Is there a direct equivalent to Hollow C41 in the world of Hethereau?
 *   How do the progression systems of Zenless Zone Zero (ZZZ) and Neverness to Everness (NTE) compare?
 *   Which characters are best suited for clearing these high-difficulty zones?

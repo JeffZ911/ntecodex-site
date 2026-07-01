@@ -115,7 +115,7 @@ Baicang’s strength lies in his versatility. He can engage at close range with 
 
 While Sakiri is primarily a support, she earns a spot in the A-Tier of a DPS guide because her presence is mandatory for maximizing team damage. Her "Devour Whole" ability provides essential crowd control, pulling enemies into a central point for your main DPS to annihilate.
 
-Furthermore, Sakiri provides a massive ATK buff that scales with her Gas Arc's level. Without Sakiri, even an S-Tier Nanally will struggle to meet the strict time limits of the endgame "Anomaly Tiers." Her ability to shred enemy resistances makes her the "secret sauce" behind every record-breaking DPS run.
+Furthermore, Sakiri provides a massive ATK buff that scales with her Gas Arc's level. Without Sakiri, even an S-Tier Nanally will struggle to meet the strict time limits of the endgame "Anomaly Tiers." Her ability to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) makes her the "secret sauce" behind every record-breaking DPS run.
 
 ## B Tier
 

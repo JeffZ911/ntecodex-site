@@ -128,7 +128,7 @@ Unlocking A3 and A6 Resonance requires a significant investment in Mind Shards. 
 
 1.  **Gacha Duplicates:** Every time you pull a duplicate of a character you already own, you receive Mind Shards for that specific unit. S-Rank characters like Fadia require more luck (or Fons investment) to reach A6.
 2.  **City Tycoon System:** While you cannot directly buy Mind Shards for S-Rank characters here, progressing your businesses in City Tycoon provides the Fons (non-paid currency) needed to perform more pulls on limited banners like Lacrimosa's "Fading Reverie."
-3.  **Event Rewards:** Major updates like "Dreamwalk Corridor" often include character selectors or specific Shard rewards in the event shop. Check the Scarborough Fair in-game menu to see the current exchange rates.
+3.  **[Event Rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide):** Major updates like "Dreamwalk Corridor" often include character selectors or specific Shard rewards in the event shop. Check the Scarborough Fair in-game menu to see the current exchange rates.
 
 ## Related
 

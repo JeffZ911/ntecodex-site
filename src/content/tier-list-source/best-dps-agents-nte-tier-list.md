@@ -63,7 +63,7 @@ The Esper Cycle is the rhythmic switching between characters to maintain buffs a
 ![S Tier](/img/best-dps-agents-nte-tier-list/inline-2.webp)
 
 
-Agents in the S Tier are the gold standard for performance in Hethereau. They possess unique mechanics that allow them to bypass standard combat limitations, such as cooldowns or enemy resistances.
+Agents in the S Tier are the gold standard for performance in Hethereau. They possess unique mechanics that allow them to bypass standard combat limitations, such as cooldowns or [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 
 ### Nanally: The Ichi-Daime Queen
 [Nanally](/characters/nanally-guide-nte) remains the undisputed powerhouse of the launch meta. As a Plasma-element carry, her gameplay revolves around her "Underboss" summon. Unlike standard summons that act as stationary turrets, the Underboss mimics Nanally’s movements and triggers Plasma Arc follow-up attacks every time she uses a Skill. This effectively doubles her hit count, making her the fastest shield-breaker in the game. Her limited banner, "The Ichi-daime," set the bar for DPS expectations, and even after its conclusion, no other Plasma unit has come close to her sustained output.

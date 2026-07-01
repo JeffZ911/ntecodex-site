@@ -55,7 +55,7 @@ Because Gold Echoes offer significantly higher base stats and allow for five "Tu
 ![Direct Answer](/img/how-to-farm-echoes-wuwa/inline-2.webp)
 
 
-Echo farming in Wuthering Waves is primarily executed by defeating enemies in the overworld and absorbing their remains. To maximize efficiency, you must level up your Data Bank by capturing new types of Echoes and higher-rarity versions of existing ones; this increases both the Echo drop rate and the chance of receiving 5-star (Gold) rarity.
+Echo farming in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) is primarily executed by defeating enemies in the overworld and absorbing their remains. To maximize efficiency, you must level up your Data Bank by capturing new types of Echoes and higher-rarity versions of existing ones; this increases both the Echo drop rate and the chance of receiving 5-star (Gold) rarity.
 
 For targeted farming, Tacet Fields are the most reliable source for specific Echo sets and the necessary materials for leveling (Sealed Tubes) and unlocking sub-stats (Tuners). While overworld mobs respawn daily, bosses (4-cost Echoes) respawn every 2 minutes. For players who have exhausted their own world’s resources, Co-op mode allows you to join other players' worlds to continue farming, effectively bypassing daily respawn limits.
 

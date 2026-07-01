@@ -109,7 +109,7 @@ In Pure Fiction, the goal is wave clear. While Topaz is a Hunt (single-target) c
 
 ### F2P and Budget Team Alternatives
 If you do not have the limited 5-star supports, you can use the following:
-*   **March 7th (The Hunt):** Her "Master" mechanic allows her to launch follow-up attacks whenever her designated Master (Topaz) attacks. This creates a very fast-paced duo that is excellent for Breaking enemies.
+*   **[March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) (The Hunt):** Her "Master" mechanic allows her to launch follow-up attacks whenever her designated Master (Topaz) attacks. This creates a very fast-paced duo that is excellent for Breaking enemies.
 *   **Moze:** As a 4-star Lightning Hunt character, Moze "departs" the field and deals additional damage whenever an ally attacks his "Prey." This is highly synergistic with Topaz’s high hit-count.
 *   **Asta:** She provides a team-wide Speed buff and a Fire DMG buff, both of which Topaz utilizes perfectly.
 
