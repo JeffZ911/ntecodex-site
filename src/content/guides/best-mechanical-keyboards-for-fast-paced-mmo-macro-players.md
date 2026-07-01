@@ -42,7 +42,7 @@ The Razer Huntsman V3 Pro TKL is the top pick for speed thanks to its Rapid Trig
 
 The Razer Huntsman V3 Pro TKL is engineered specifically for players who prioritize raw response times above all else. In a game like Neverness to Everness, where executing a Resonance Skill at the exact frame an Anomaly appears can determine the flow of battle, the Gen-2 Analog Optical Switches offer a distinct advantage. These switches allow for an adjustable actuation range from 0.1mm to 4.0mm, meaning you can set your primary combat keys to trigger at the slightest touch while keeping utility keys deeper to avoid accidental presses.
 
-The standout feature for MMO players is the Rapid Trigger mode. Unlike traditional mechanical switches that must travel back past a fixed reset point before they can be pressed again, Rapid Trigger resets the key the instant you begin lifting your finger. This is vital for characters like Nanally, whose high-speed combat style during The Ichi-daime banner event rewards players who can rapidly cycle through ability chains without hardware-induced delay.
+The standout feature for MMO players is the Rapid Trigger mode. Unlike traditional mechanical switches that must travel back past a fixed reset point before they can be pressed again, Rapid Trigger resets the key the instant you begin lifting your finger. This is vital for characters like Nanally, whose high-speed combat style during The Ichi-daime banner [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) players who can rapidly cycle through ability chains without hardware-induced delay.
 
 **Pros:**
 *   Gen-2 Analog Optical Switches with [0.1mm reset point](https://www.razer.com/technology/razer-analog-optical-switch)

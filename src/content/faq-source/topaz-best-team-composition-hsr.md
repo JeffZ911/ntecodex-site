@@ -115,7 +115,7 @@ If you do not have the limited 5-star supports, you can use the following:
 
 ### Support and Sustain Alternatives: Ruan Mei, Huohuo, and Fu Xuan
 While Robin and Aventurine are the best-in-slot choices, other units perform admirably:
-*   **Ruan Mei:** Excellent for Break-focused FUA teams (Topaz + March 7th).
+*   **Ruan Mei:** Excellent for Break-focused FUA teams (Topaz + [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding)).
 *   **Huohuo:** Provides Energy Regeneration, which is vital if you are relying on Topaz’s Ultimate to keep Numby in the "Windfall" state.
 *   **Lingsha:** A newer sustain unit who features her own follow-up attacks, making her a direct upgrade over Gallagher in FUA-centric compositions.
 

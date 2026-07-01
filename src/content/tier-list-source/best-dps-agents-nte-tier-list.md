@@ -159,7 +159,7 @@ These characters are not "unplayable" for story content, but they will struggle 
 The NTE meta is in a state of rapid flux as players move past the launch window and into the first major content updates.
 
 ### Hotori's Impact on the Cosmos Meta
-The release of Hotori on May 13 has completely shifted how players view team building. Previously, the meta was dominated by Plasma and Physical damage. Hotori’s Cosmos element has introduced a new way to bypass enemy resistances, making her the new priority for players who missed out on Nanally. This has also increased the value of sub-DPS characters who can provide "Cosmos Resonance" [exact value pending official confirmation].
+The release of Hotori on May 13 has completely shifted how players view team building. Previously, the meta was dominated by Plasma and Physical damage. Hotori’s Cosmos element has introduced a new way to bypass [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide), making her the new priority for players who missed out on Nanally. This has also increased the value of sub-DPS characters who can provide "Cosmos Resonance" [exact value pending official confirmation].
 
 ### The Rise of Chiz in F2P Strategies
 As more players have reached the mid-game of the City Tycoon management system, the true potential of Chiz has been unlocked. Initially ranked as an A-tier "novelty" character, the community discovery of her Max-Awakening scaling has pushed her into S-tier. For F2P players, Chiz is now the primary focus of long-term resource investment.

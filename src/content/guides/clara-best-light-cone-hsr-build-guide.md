@@ -204,7 +204,7 @@ ATK boots are almost always better. High Speed causes Clara to "run out" of her 
 If you already have *On the Fall of an Aeon* at S5, the upgrade to *Something Irreplaceable* is marginal. It is generally better to save your 600 Undying Starlight for Star Rail Special Passes or Bronya's signature Light Cone. However, if you struggle with Clara dying in high-level content, the healing from her signature is very valuable.
 
 **Does Clara work with [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding)?**
-Yes, March 7th provides a shield that increases aggro. However, be careful: March 7th’s Ultimate has a high chance to Freeze enemies. Frozen enemies cannot attack, which means Clara cannot counter. In high-level play, Lynx is a superior partner.
+Yes, [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) provides a shield that increases aggro. However, be careful: March 7th’s Ultimate has a high chance to Freeze enemies. Frozen enemies cannot attack, which means Clara cannot counter. In high-level play, Lynx is a superior partner.
 
 **What is Clara's best Eidolon?**
 Her E1, "A Tall Figure's Back," is her most impactful. It prevents the "Mark of Counter" from being removed after Clara uses her Skill. This turns her Skill into a permanent high-damage AoE nuke, significantly increasing her DPS in multi-target scenarios like Pure Fiction.

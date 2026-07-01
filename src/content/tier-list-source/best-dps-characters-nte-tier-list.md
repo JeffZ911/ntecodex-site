@@ -162,7 +162,7 @@ Characters like Fadia and Edgar are pure healers. Fadia uses a "damage-sharing" 
 ![Recent Changes](/img/best-dps-characters-nte-tier-list/inline-6.webp)
 
 
-The Version 1.0.2 update brought several shifts to the meta that players should be aware of. The most significant change was the adjustment to enemy resistances in "Beyond the Rails." Enemies now have higher resistance to physical and Scorch damage but are more vulnerable to Cosmos and Anima types. This change pushed Nanally and Chiz even further ahead of the competition.
+The Version 1.0.2 update brought several shifts to the meta that players should be aware of. The most significant change was the adjustment to [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) in "Beyond the Rails." Enemies now have higher resistance to physical and Scorch damage but are more vulnerable to Cosmos and Anima types. This change pushed Nanally and Chiz even further ahead of the competition.
 
 ### The Rise of the Cosmos Meta
 

@@ -185,7 +185,7 @@ When a character's Esper Meter is full, their portrait will glow. Swapping at th
 You must increase your Hunter Level to the required milestone (e.g., Level 20 or 30) and then complete a specific **Appraisal Quest** found in the Exploration Guide. This quest usually involves a combat trial against an elite anomaly.
 
 **Where can I find more Pixels (Stamina)?**
-**Character Pixels** (for combat) and **City Stamina** (for tycoon activities) refresh over time. You can also restore them using **Analith** or **Pixel Potions** obtained from event rewards and the Hunter Exchange.
+**Character Pixels** (for combat) and **City Stamina** (for tycoon activities) refresh over time. You can also restore them using **Analith** or **Pixel Potions** obtained from [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) and the Hunter Exchange.
 
 **Is Chiz a good character to level?**
 Yes. **Chiz** is a top-tier S-rank Cosmos character that you can obtain for free by progressing through the City Tycoon system. She excels at dealing DEF-ignoring damage and is a staple in Cosmos-focused teams.
