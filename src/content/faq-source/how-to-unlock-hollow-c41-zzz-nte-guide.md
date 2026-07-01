@@ -27,7 +27,7 @@ Navigating the supernatural urban sprawl of Hethereau or the dangerous, shifting
 # How to Unlock Hollow C41 in ZZZ and NTE Anomaly Commissions
 
 ### Quick Answer
-To unlock Hollow C41 in Zenless Zone Zero, reach Inter-Knot Level 32 and complete the Main Story Chapter 3: The Midnight Pursuit. Afterward, you must finish the [Prepare for the Gold Rush](https://zenless.hoyoverse.com/en-us/news/125123) commission during the Camellia Golden Week event. In Neverness to Everness, similar high-stakes content is accessed by increasing your Hunter Level and investigating supernatural phenomena within the Miguel District.
+To [unlock Hollow C41](https://ntecodex.com/faq) in Zenless Zone Zero, reach Inter-Knot Level 32 and complete the Main Story Chapter 3: The Midnight Pursuit. Afterward, you must finish the [Prepare for the Gold Rush](https://zenless.hoyoverse.com/en-us/news/125123) commission during the Camellia Golden Week event. In Neverness to Everness, similar high-stakes content is accessed by increasing your Hunter Level and investigating supernatural phenomena within the Miguel District.
 
 ## Question Restated
 
@@ -37,7 +37,7 @@ To unlock Hollow C41 in Zenless Zone Zero, reach Inter-Knot Level 32 and complet
 *Related: [Best gaming gear for players grinding the Tactical Simulacrum event in](/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) · [Best Gaming Gear for Players Grinding ZZZ 1.0 vs 1.1 Polychrome Reward](/guides/zzz-1-0-vs-1-1-polychrome-rewards-gear-comparison-20260701) · [Best Ergonomic Gaming Gear for Long-Session Material Grinding](/guides/best-gear-for-long-session-material-grinding)*
 
 
-Players often find themselves searching for the specific requirements to access Hollow C41, especially during major seasonal events. As the gaming landscape evolves in 2026, many are also looking for the equivalent systems in the open-world supernatural RPG, Neverness to Everness (NTE). The core questions usually involve:
+Players often find themselves searching for the specific requirements to access [Hollow C41](https://ntecodex.com/faq), especially during major seasonal events. As the gaming landscape evolves in 2026, many are also looking for the equivalent systems in the open-world supernatural RPG, Neverness to Everness (NTE). The core questions usually involve:
 
 *   What are the specific Inter-Knot requirements and story milestones for Hollow C41?
 *   Is there a direct equivalent to Hollow C41 in the world of Hethereau?
@@ -129,4 +129,4 @@ Characters with high survivability and area-of-effect damage, such as Nanally, a
 - IGN NTE Announcement and Details
 - GameSpot ZZZ Leveling Guide — https://www.gamespot.com/articles/zenless-zone-zero-how-to-level-up-fast/1100-6524730/
 - Neverness to Everness Official Trailer — https://www.youtube.com/watch?v=5V_2v_6n6pE
-- ZZZ 1.1 Patch Notes — https://zenless.hoyoverse.com/en-us/news/125123
+- [ZZZ 1](https://ntecodex.com/guides/zzz-1-0-vs-1-1-polychrome-rewards-gear-comparison-20260701).1 Patch Notes — https://zenless.hoyoverse.com/en-us/news/125123

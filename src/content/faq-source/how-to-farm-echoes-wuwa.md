@@ -32,7 +32,7 @@ Maximizing your Resonator’s combat potential in [Wuthering Waves](https://ntec
 ![Question Restated](/img/how-to-farm-echoes-wuwa/inline-1.webp)
 
 
-Efficiently farming Echoes is the most consistent way to increase your Union Level and improve your character builds. Players often find themselves asking: what is the most efficient way to farm Echoes in Wuthering Waves? Because Echoes provide both primary stats and powerful active abilities, knowing where to find specific monsters and how to manipulate drop rates is essential for end-game progression.
+Efficiently farming Echoes is the most consistent way to increase your Union Level and improve your character builds. Players often find themselves asking: what is the most efficient way to farm Echoes in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide)? Because Echoes provide both primary stats and powerful active abilities, knowing where to find specific monsters and how to manipulate drop rates is essential for end-game progression.
 
 The farming process is not just about mindless killing; it involves navigating the Echo Gallery, understanding the respawn timers of Overlord and Calamity class bosses, and choosing between overworld exploration or Waveplate-heavy Tacet Fields. Players also need to know how to target specific Echo sets—such as the Moonlit Clouds for supports or Void Thunder for Electro DPS—and how to secure 3-cost Echoes, which are often the most difficult pieces to optimize due to their varied elemental damage main stats.
 

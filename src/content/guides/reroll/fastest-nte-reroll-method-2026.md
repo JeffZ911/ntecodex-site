@@ -98,7 +98,7 @@ Knowing when to stop is the hardest part of rerolling. In the current 2026 meta,
 
 NTE features a "Beginner's Choice" system where you can select a specific S-Rank after 50 pulls on the standard banner. 
 1.  **Hathor:** If you pulled Nanally, pick Hathor. Her defensive shields perfectly complement Nanally's aggressive playstyle.
-2.  **Jiuyuan:** If you pulled Sakiri, Jiuyuan is the better choice. Jiuyuan provides elemental shred that allows Sakiri’s Incantation damage to bypass enemy resistances.
+2.  **Jiuyuan:** If you pulled Sakiri, Jiuyuan is the better choice. Jiuyuan provides elemental shred that allows Sakiri’s Incantation damage to bypass [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 
 | Character | Rank | Element | Role | Key Mechanic |
 | :--- | :--- | :--- | :--- | :--- |

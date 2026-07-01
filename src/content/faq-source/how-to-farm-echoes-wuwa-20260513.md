@@ -105,7 +105,7 @@ The rarity of the resulting Echoes is based on your current Data Bank level. If 
 
 ### Co-op Farming Strategies for Infinite Echoes
 
-Echo drops are individual in Wuthering Waves. If you and a friend kill a monster in Co-op, you both get a roll for an Echo drop. Crucially, if you clear your world of all Elites, you can join a friend's world and farm theirs. 
+Echo drops are individual in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide). If you and a friend kill a monster in Co-op, you both get a roll for an Echo drop. Crucially, if you clear your world of all Elites, you can join a friend's world and farm theirs. 
 
 By rotating through a group of four players, you can effectively quadruple the number of Elites you kill in a single day. This is the fastest way to "min-max" sub-stats, as it provides a massive volume of Echoes to check for high Crit rolls.
 

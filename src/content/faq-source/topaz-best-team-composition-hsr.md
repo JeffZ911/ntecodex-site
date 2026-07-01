@@ -61,7 +61,7 @@ F2P players who missed the premium IPC units can still find great success pairin
 | **Memory of Chaos (MoC)** | Topaz + Dr. Ratio + Robin + Aventurine | Sub-DPS / Debuffer |
 | **Apocalyptic Shadow** | Topaz + Feixiao + Robin + Aventurine | Stack Generator |
 | **Pure Fiction** | Topaz + Jade + Robin + Huohuo/Lingsha | Single-Target Finisher |
-| **F2P / Budget** | Topaz + March 7th (Hunt) + Asta + Gallagher | Main DPS |
+| **F2P / Budget** | Topaz + [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) (Hunt) + Asta + Gallagher | Main DPS |
 | **Hypercarry** | Topaz + Robin + Ruan Mei + Aventurine | Main DPS |
 
 ## Detailed Explanation

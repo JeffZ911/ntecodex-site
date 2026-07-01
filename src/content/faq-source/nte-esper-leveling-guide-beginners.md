@@ -51,7 +51,7 @@ To level efficiently, you must manage your Character Pixels—the game's stamina
 | :--- | :--- | :--- |
 | Hunter's Manual (I-IV) | Increasing Esper Level (EXP) | Houdinii's Magic Stage |
 | Beetle Coins | Currency for leveling and upgrades | Quests, Daily Tasks, Shops |
-| Pixel Potions | Restoring 60 Character Pixels | Battle Pass, Event Rewards |
+| Pixel Potions | Restoring 60 Character Pixels | Battle Pass, [Event Rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) |
 | Breakthrough Materials | Unlocking level caps (20, 40, etc.) | Anomaly Hunts (Bosses) |
 | Ability Pigments | Upgrading Active/Passive Skills | Houdinii's Schemes |
 

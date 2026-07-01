@@ -135,7 +135,7 @@ Do not aim for characters that are provided through the main story or beginner l
 
 If you pull one of the S-ranks above, look for these A-rank characters in the same multi-pull to solidify your team:
 *   **Jiuyuan + [A-Rank Anima Support]:** Boosts Anima resonance for increased crit rate.
-*   **Daffodill + [A-Rank Chaos/Utility]:** Focuses on shredding enemy resistances.
+*   **Daffodill + [A-Rank Chaos/Utility]:** Focuses on shredding [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 *   **Sakiri + [A-Rank Status Inflictor]:** Maximizes the DoT ticks from Sakiri’s Incantation skills.
 
 ## Time Estimate

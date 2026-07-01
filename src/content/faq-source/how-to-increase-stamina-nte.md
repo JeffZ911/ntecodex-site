@@ -128,7 +128,7 @@ If you find yourself with excess City Stamina on Sunday night, the fastest way t
 
 When you run out of Character Pixels but still need to farm, you have two primary options: consumption items or premium currency.
 
-**De-noise Solution:** This is a rare consumable item that restores 60 Character Pixels. These are typically given out as event rewards, maintenance compensation, or as part of the monthly battle pass. It is highly recommended to save these for "Double Drop" events rather than using them for standard daily farming.
+**De-noise Solution:** This is a rare consumable item that restores 60 Character Pixels. These are typically given out as [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), maintenance compensation, or as part of the monthly battle pass. It is highly recommended to save these for "Double Drop" events rather than using them for standard daily farming.
 
 **Annulith Refreshes:** You can spend Annulith (premium currency) to refill 60 Character Pixels. However, the cost increases with each subsequent use per day.
 

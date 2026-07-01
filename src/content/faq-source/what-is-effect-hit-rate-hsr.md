@@ -32,7 +32,7 @@ Success in turn-based combat often hinges on a single debuff landing at the righ
 ![Question Restated](/img/what-is-effect-hit-rate-hsr/inline-1.webp)
 
 
-Effect Hit Rate (EHR) is a core combat stat in Honkai: Star Rail that determines the probability of a character successfully applying status effects to enemies. Whether it is Pela’s defense shred, Kafka’s Shock, or March 7th’s Freeze, EHR acts as the primary tool to overcome an enemy's natural defenses against debuffs.
+Effect Hit Rate (EHR) is a core combat stat in Honkai: Star Rail that determines the probability of a character successfully applying status effects to enemies. Whether it is Pela’s defense shred, Kafka’s Shock, or [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding)’s Freeze, EHR acts as the primary tool to overcome an enemy's natural defenses against debuffs.
 
 Players often ask "what is effect hit rate" when they notice their Nihility characters failing to land debuffs despite having a "100% base chance" listed in their skill descriptions. This discrepancy occurs because the base chance is only the starting point of a complex calculation. Without sufficient EHR, high-level bosses will consistently resist your team's most vital abilities.
 
