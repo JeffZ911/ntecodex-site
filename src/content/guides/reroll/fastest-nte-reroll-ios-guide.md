@@ -110,7 +110,7 @@ When rerolling, you are looking for characters that provide high utility or mass
 | :--- | :--- | :--- | :--- | :--- |
 | **S+** | **Nanally** | Anima | Main DPS | Limited unit with the fastest clear speeds in the game. |
 | **S+** | **Jiuyuan** | Anima | Main DPS | Massive AoE burst; essential for timed anomaly challenges. |
-| **S** | **Daffodill** | Chaos | Sub-DPS | Currently the only Chaos-element sub-DPS; ignores many enemy resistances. |
+| **S** | **Daffodill** | Chaos | Sub-DPS | Currently the only Chaos-element sub-DPS; ignores many [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide). |
 | **S** | **Hathor** | Lakshana | Support | Provides team-wide buffs that scale with her own stats. |
 | **S** | **Sakiri** | Incantation | Support | Enables DoT (Damage over Time) builds; highly future-proof. |
 | **A** | **Hotori** | [Information unavailable] | DPS | Strong single-target damage but lacks the AoE of Jiuyuan. |

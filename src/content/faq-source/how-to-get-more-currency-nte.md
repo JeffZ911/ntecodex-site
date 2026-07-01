@@ -53,7 +53,7 @@ Players can earn Annulith through several active and passive channels. Active me
 | Currency Name | Primary Use | How to Obtain |
 | :--- | :--- | :--- |
 | **Annulith** | Premium currency for all pulls | Missions, Exploration, Events, Dailies |
-| **Solid Dice** | Limited Character Banner pulls | Annulith conversion, Event rewards |
+| **Solid Dice** | Limited Character Banner pulls | Annulith conversion, [Event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) |
 | **Fabricated Dice** | Standard Character Banner pulls | Level rewards, Fair Exchange, Annulith |
 | **Tri-Keys** | Arc (Weapon) Banner pulls | Annulith conversion, Weekly challenges |
 | **Riftcrystal** | Paid currency (can convert to Annulith) | In-game shop (Real-money purchase) |

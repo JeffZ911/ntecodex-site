@@ -88,7 +88,7 @@ Arcs serve as the primary "weapons" for your Espers. Enhancing them requires **D
 
 Ascending an Arc to unlock higher level caps requires specialized materials from the **Bubble Can Factory**. This domain focuses on combat challenges that reward items like the undisclosed and various industrial components.
 
-Mixing (refining) an Arc requires duplicate copies of the same Arc or specialized "Universal Mixing Components" which are often limited to event rewards or high-level shop exchanges.
+Mixing (refining) an Arc requires duplicate copies of the same Arc or specialized "Universal Mixing Components" which are often limited to [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) or high-level shop exchanges.
 
 ### The Module Rewind System: Farming Carrota
 

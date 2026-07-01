@@ -52,7 +52,7 @@ In the Version 2.5+ meta, Topaz has also become the premier partner for **Feixia
 
 For multi-target scenarios like Pure Fiction, Topaz shifts to a support role for Erudition units such as **Jade, Himeko, or Herta**. By marking an elite enemy with Proof of Debt, Topaz helps these AOE specialists clear high-HP targets that would otherwise survive their area-of-effect sweeps.
 
-F2P players who missed the premium IPC units can still find great success pairing Topaz with **Moze** or **March 7th (The Hunt)**. These units are designed to synergize with frequent attacks and provide a budget-friendly way to engage with the FUA playstyle.
+F2P players who missed the premium IPC units can still find great success pairing Topaz with **Moze** or **[March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) (The Hunt)**. These units are designed to synergize with frequent attacks and provide a budget-friendly way to engage with the FUA playstyle.
 
 ### Topaz Best Team Compositions by Game Mode
 

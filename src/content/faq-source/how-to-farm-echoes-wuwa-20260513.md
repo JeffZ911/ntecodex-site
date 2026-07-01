@@ -74,7 +74,7 @@ To reach Level 21 quickly, focus on clearing the "Echo Collection" milestones an
 
 ### Target Farming with the Echo Gallery Tracker
 
-Efficiency in Wuthering Waves is about minimizing travel time. The Guidebook's "Echo Gallery" is your best friend. In this menu, you can select any monster you have previously encountered and click "Track." The game will place a golden waypoint on your map leading to the nearest spawn. 
+Efficiency in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) is about minimizing travel time. The Guidebook's "Echo Gallery" is your best friend. In this menu, you can select any monster you have previously encountered and click "Track." The game will place a golden waypoint on your map leading to the nearest spawn. 
 
 Once you kill that monster, the tracker immediately updates to the next one. This is particularly useful for Cost 3 Elites like the Cyan-Feathered Heron or the Stonewall Bracer, which have lower spawn densities than Cost 1 enemies. Note that once you have exhausted all spawns for a specific monster in your world, they will not respawn until the daily server reset.
 

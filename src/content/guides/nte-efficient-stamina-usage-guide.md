@@ -153,7 +153,7 @@ The most potent team in the 1.0 meta consists of:
 *   **Nanally (Main DPS):** The primary source of Anima damage and follow-up triggers.
 *   **Zero (Cosmos Support):** Essential for her ability to immediately fill the team's Esper Meter with her Skill, allowing for instant reaction setups.
 *   **Jiuyuan (Anima Sub-DPS):** Provides crowd control and increases the count of Vita Buds spawned during Blossom reactions.
-*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Flex Support):** Provides team-wide ATK buffs and can trigger "Hexed" reactions to shred enemy resistances.
+*   **[Sakiri](/characters/sakiri-nte-free-5-star-guide) (Flex Support):** Provides team-wide ATK buffs and can trigger "Hexed" reactions to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 
 | Character | Role | Element | Synergy Note |
 | :--- | :--- | :--- | :--- |

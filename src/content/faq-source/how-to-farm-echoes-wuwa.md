@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing your Resonator’s combat potential in Wuthering Waves requires a deep understanding of the Echo system, the game’s unique equipment mechanic that allows you to absorb the powers of defeated monsters. Unlike traditional gear systems, farming Echoes involves an active hunt across the overworld, strategic use of Waveplates in Tacet Fields, and careful management of your Data Bank level to ensure the highest rarity drops.
+Maximizing your Resonator’s combat potential in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) requires a deep understanding of the Echo system, the game’s unique equipment mechanic that allows you to absorb the powers of defeated monsters. Unlike traditional gear systems, farming Echoes involves an active hunt across the overworld, strategic use of Waveplates in Tacet Fields, and careful management of your Data Bank level to ensure the highest rarity drops.
 
 # How to Farm Echoes in Wuthering Waves: The Ultimate Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

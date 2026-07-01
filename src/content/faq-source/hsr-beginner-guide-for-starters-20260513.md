@@ -58,7 +58,7 @@ Key strategies for starters include:
 | Character | Element | Path | How to Obtain |
 | :--- | :--- | :--- | :--- |
 | Trailblazer | Physical/Fire/Imaginary | Destruction/Preservation/Harmony | Default Character |
-| March 7th | Ice | Preservation | Prologue |
+| [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) | Ice | Preservation | Prologue |
 | Dan Heng | Wind | Hunt | Prologue |
 | Asta | Fire | Harmony | First Warp Tutorial |
 | Serval | Lightning | Erudition | Pre-registration/Mail Reward |
