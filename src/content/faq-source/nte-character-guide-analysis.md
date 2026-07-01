@@ -104,7 +104,7 @@ The core of NTE’s combat is the Esper Cycle, a system of elemental reactions t
 
 *   **Blossom (Cosmos + Anima):** This reaction creates an AoE explosion that deals damage based on a percentage of the target's Max HP. It is the go-to reaction for clearing groups of high-health enemies.
 *   **Scorch (Incantation + Chaos):** Scorch applies a severe damage-over-time (DoT) effect that reduces enemy defense by [information unavailable] for a set duration.
-*   **Discord:** This is currently the most powerful reaction in the meta. While the exact elemental triggers for Discord are complex, it results in a massive burst of "True Damage" that ignores all enemy resistances.
+*   **Discord:** This is currently the most powerful reaction in the meta. While the exact elemental triggers for Discord are complex, it results in a massive burst of "True Damage" that ignores all [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 
 To maximize the Esper Cycle, players should follow a "Support -> Sub-DPS -> Main DPS" rotation. For example, starting with Sakiri to gather enemies (Incantation), switching to Hotori to apply secondary elements, and finishing with Nanally to trigger Blossom or Discord reactions.
 

@@ -92,7 +92,7 @@ Duo reactions occur when you swap between two compatible elements. Key reactions
 
 *   **Blossom (Cosmos + Anima):** Creates a localized field that pulls enemies toward the center while dealing rapid multi-hit Anima damage. This is excellent for clearing waves of smaller enemies.
 *   **Scorch (Incantation + Chaos):** Triggers a volatile explosion that applies a "Corrupted Burn" status. This deals high initial damage and continues to eat away at the enemy's Stability bar over time.
-*   **Stain (Psyche + Lakshana):** Weakens enemy resistances and creates a "Resonance Link" between nearby foes, causing damage dealt to one to be shared among all "Stained" targets.
+*   **Stain (Psyche + Lakshana):** Weakens [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) and creates a "Resonance Link" between nearby foes, causing damage dealt to one to be shared among all "Stained" targets.
 
 #### Trio Reactions
 Trio reactions are more complex and require a specific sequence of three characters. These are categorized into "Charged" and "Discord" reactions based on the positioning of the elements on the Esper Wheel.
