@@ -174,7 +174,7 @@ Official previews for Patch 1.1 have revealed a new character, Lacrimosa (Chaos)
 ### Balance Adjustments Recap
 A hotfix on May 21, 2026, addressed Nanally’s "Underboss" targeting logic. Previously, her follow-up attacks would sometimes target destructible objects instead of bosses. This fix has solidified her position at the top of the S-Tier by increasing her "Effective DPS" in cluttered boss arenas. Additionally, the discovery of Fadia’s Ultimate scaling with "Mental Damage" has opened up new experimental builds for Psyche teams, though these have not yet breached the S-Tier.
 
-**Meta Shift Summary (Patch 1.0 vs 1.1 Preview):**
+**Meta Shift Summary (Patch 1.[0 vs 1](https://ntecodex.com/guides/zzz-1-0-vs-1-1-polychrome-rewards-gear-comparison-20260701).1 Preview):**
 *   **Patch 1.0:** Dominance of Anima/Incantation (Nanally/Jiuyuan).
 *   **Patch 1.1 (Predicted):** Rise of Chaos/Psyche (Lacrimosa/Fadia) and Cosmos Quickswap (Hotori).
 

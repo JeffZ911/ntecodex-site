@@ -25,7 +25,7 @@ Choosing between the wandering samurai of Inazuma and the bio-alchemist of Monds
 
 # Kazuha vs. Sucrose: Which Anemo Support is Better in Genshin Impact?
 
-Deciding whether to pull for Kaedehara Kazuha or invest in your C6 Sucrose depends entirely on your specific team composition and your tolerance for complex rotations. While both characters utilize the powerful Viridescent Venerer artifact set to shred enemy resistances, they provide buffs through fundamentally different mechanics.
+Deciding whether to pull for Kaedehara Kazuha or invest in your C6 Sucrose depends entirely on your specific team composition and your tolerance for complex rotations. While both characters utilize the powerful Viridescent Venerer artifact set to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide), they provide buffs through fundamentally different mechanics.
 
 ## TL;DR Verdict
 

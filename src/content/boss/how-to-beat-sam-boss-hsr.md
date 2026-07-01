@@ -120,7 +120,7 @@ For players without limited 5-star sustains, a double-Preservation setup is ofte
 *   **Main DPS:** Serval (Lightning AoE and Break)
 *   **Sub-DPS:** Qingque (Quantum DMG, high SP consumption helps break Molten Energy stacks)
 *   **Sustain 1:** Trailblazer (Preservation) (Shields and Taunt)
-*   **Sustain 2:** March 7th or Lynx (March provides targeted shields; Lynx provides HP Max buffs that aren't technically heals)
+*   **Sustain 2:** [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) or Lynx (March provides targeted shields; Lynx provides HP Max buffs that aren't technically heals)
 
 In this F2P setup, Serval and Qingque focus on the Lightning and Quantum weaknesses. The Preservation Trailblazer should use their Skill every turn to maintain damage reduction for the team, which also helps remove Sam's Molten Energy stacks.
 

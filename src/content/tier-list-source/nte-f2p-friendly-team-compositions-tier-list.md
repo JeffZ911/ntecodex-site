@@ -180,7 +180,7 @@ Leaks for Version 1.1 suggest the introduction of Lacrimosa (Chaos) and Chaos (L
 
 Additionally, a recent system update has adjusted the Esper Meter generation from Parries. This change has made Adler even more valuable for F2P teams, as a single successful parry now grants significantly more energy than it did at launch. This allows for faster character swaps and more frequent reaction triggers.
 
-**Version 1.0 vs 1.1 Meta Shift Predictions**
+**Version 1.[0 vs 1](https://ntecodex.com/guides/zzz-1-0-vs-1-1-polychrome-rewards-gear-comparison-20260701).1 Meta Shift Predictions**
 
 | Feature | Version 1.0 (Current) | Version 1.1 (Predicted) |
 | :--- | :--- | :--- |

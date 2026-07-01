@@ -30,7 +30,7 @@ Master Diviner [Fu Xuan](/characters/fu-xuan-best-relic-build-hsr-20260513) is t
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-13._
 
 
-Fu Xuan is a 5-star Quantum character following the Path of Preservation. Unlike traditional shielders like Gepard or March 7th, Fu Xuan protects her team through damage mitigation and redirection. She is widely considered one of the most "comfy" units in the game, capable of solo-sustaining a team through the hardest content, including Memory of Chaos and Pure Fiction. This guide covers the optimal relic sets, light cones, and team compositions to maximize her potential as the head of the Divination Commission.
+Fu Xuan is a 5-star Quantum character following the Path of Preservation. Unlike traditional shielders like Gepard or [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding), Fu Xuan protects her team through damage mitigation and redirection. She is widely considered one of the most "comfy" units in the game, capable of solo-sustaining a team through the hardest content, including Memory of Chaos and Pure Fiction. This guide covers the optimal relic sets, light cones, and team compositions to maximize her potential as the head of the Divination Commission.
 
 ## Fu Xuan Overview
 
@@ -76,7 +76,7 @@ Fu Xuan’s Bonus Abilities are also vital. **Liuren Oracle** allows her to resi
 ![Fu Xuan Ascension and Trace Materials](/img/fu-xuan-best-relic-build-hsr-20260513-90aa/inline-3.webp)
 
 
-To reach Level 80 and max out her Traces, Fu Xuan requires materials found primarily on the Xianzhou Luofu. You will need to farm the Stagnant Shadow in Scalegorge Waterscape and the Crimson Calyx for Preservation materials.
+To reach Level 80 and max out her Traces, Fu Xuan requires materials found primarily on the Xianzhou Luofu. You will need to farm the Stagnant Shadow in Scalegorge Waterscape and the Crimson Calyx for [Preservation materials](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding).
 
 ### Ascension Materials
 

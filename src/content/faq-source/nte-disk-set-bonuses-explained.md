@@ -156,7 +156,7 @@ Similarly, the **"Youthful Fantasy"** Arc provides a massive boost to Critical D
 
 Set bonuses are the primary way to scale the damage of elemental reactions:
 *   **Nova (Ice + Fire):** Benefit most from the "Fireflies and the Forest" set due to the high Elemental Mastery requirements.
-*   **Stain (Shadow + Shadow):** Requires "Abyssal Echo" to shred enemy resistances.
+*   **Stain (Shadow + Shadow):** Requires "Abyssal Echo" to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide).
 *   **Remora (Water + Electric):** Scaling is dependent on character level and the 4-piece bonuses that increase reaction multipliers.
 *   **Scorch (Fire DoT):** High-frequency Fire applications benefit from sets that increase Attack Speed or provide flat damage bonuses to burning targets.
 
