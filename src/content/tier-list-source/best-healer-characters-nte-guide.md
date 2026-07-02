@@ -56,7 +56,7 @@ Currently, shielding and redirection are considered superior to pure healing. Th
 Every character in NTE utilizes an "Arc," which functions as their weapon and primary source of stat scaling. Healers typically scale off either Max HP or ATK. For a healer to reach S-Tier, they must have high compatibility with Arcs that provide Energy Regeneration, allowing them to keep their Ultimates active during every Esper Cycle.
 
 ### Evaluation Criteria
-*   **Role Compression:** Can the character buff the team or shred enemy resistances while healing?
+*   **Role Compression:** Can the character buff the team or shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) while healing?
 *   **Investment Efficiency:** How much "Resonance" (duplicates) or high-tier Cartridges do they need to be viable?
 *   **Esper Cycle Synergy:** How well do they trigger elemental reactions like Scorch (Incantation + Anima) or Nova (Cosmos + Psyche)?
 

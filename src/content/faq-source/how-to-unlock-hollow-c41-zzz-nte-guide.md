@@ -45,7 +45,7 @@ Players often find themselves searching for the specific requirements to access 
 *   Which characters are best suited for clearing these high-difficulty zones?
 
 ### The Confusion Between ZZZ Hollows and NTE Anomalies
-Because both games feature urban-fantasy settings with supernatural "zones" that players must investigate, it is easy to confuse the terminology. In Zenless Zone Zero, players enter "Hollows"—disaster zones filled with Ethereals—using a grid-based navigation system called the Hollow Deep Dive (HDD). In Neverness to Everness, the player takes on the role of an Appraiser who deals with "Anomalies" that manifest directly in the open world of Hethereau. While Hollow C41 is a specific, event-gated location in ZZZ, the Anomaly Commissions in NTE serve as the primary method for engaging with the game's supernatural combat and exploration loop.
+Because both games feature urban-fantasy settings with supernatural "zones" that players must investigate, it is easy to confuse the terminology. In Zenless Zone Zero, players enter "Hollows"—disaster zones filled with Ethereals—using a grid-based navigation system called the Hollow Deep Dive (HDD). In Neverness to Everness, the player takes on the role of an Appraiser who deals with "Anomalies" that manifest directly in the open world of Hethereau. While [Hollow C41](https://ntecodex.com/faq) is a specific, event-gated location in ZZZ, the Anomaly Commissions in NTE serve as the primary method for engaging with the game's supernatural combat and exploration loop.
 
 ## Direct Answer
 

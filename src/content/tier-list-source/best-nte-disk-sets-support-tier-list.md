@@ -122,7 +122,7 @@ This set is the premier choice for elemental reaction teams, particularly those 
 *   **2-Piece Bonus**: Increases Elemental Mastery by [information unavailable].
 *   **4-Piece Bonus**: Enhances reaction damage by 20% and reduces the enemy's Elemental Resistance by 10% for 10 seconds after a reaction is triggered.
 
-Fireflies and the Forest is the best choice for Giwan. Giwan’s ability to consistently apply elemental status off-field allows this set to shred enemy resistances, which is a rare and powerful debuff in NTE. In a Scorch-heavy team, the resistance shred provides a larger total DPS increase than a flat ATK buff from Speedy Hedgehog.
+Fireflies and the Forest is the best choice for Giwan. Giwan’s ability to consistently apply elemental status off-field allows this set to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide), which is a rare and powerful debuff in NTE. In a Scorch-heavy team, the resistance shred provides a larger total DPS increase than a flat ATK buff from Speedy Hedgehog.
 
 ### Team DPS Increase Comparison
 

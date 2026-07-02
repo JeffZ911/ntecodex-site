@@ -128,7 +128,7 @@ The Nihility Path relies on Damage over Time (DoT) and debuffs. It is currently 
 The Elation Path turns follow-up attacks into tactical nukes. With the "Aftertaste" mechanic, every follow-up attack triggers additional instances of damage of different types.
 
 *   **Premier Team:** Topaz & Numby, Dr. Ratio, Robin, and Aventurine.
-*   **F2P Alternative:** Herta, March 7th, Dr. Ratio, and Natasha.
+*   **F2P Alternative:** Herta, [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding), Dr. Ratio, and Natasha.
 
 ### Hypercarry Teams for The Hunt and Erudition
 

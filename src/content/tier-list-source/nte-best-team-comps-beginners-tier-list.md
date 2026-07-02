@@ -36,7 +36,7 @@ Success in Neverness to Everness (NTE) hinges on the "Esper Cycle," a sophistica
 ![Methodology](/img/nte-best-team-comps-beginners-tier-list/inline-1.webp)
 
 
-This tier list evaluates team compositions based on their effectiveness for players starting their journey after the April 29, 2026, global launch. We have prioritized teams that are accessible through the early-game economy, including the S-Class Selector, the "City Tycoon" event rewards, and the standard story progression roster.
+This tier list evaluates team compositions based on their effectiveness for players starting their journey after the April 29, 2026, global launch. We have prioritized teams that are accessible through the early-game economy, including the S-Class Selector, the "City Tycoon" [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), and the standard story progression roster.
 
 The primary criteria for these rankings include:
 

@@ -156,7 +156,7 @@ With an inventory limit of 2,000 Echoes, you will quickly find yourself overwhel
 ## Sources
 
 - [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Official Wiki — https://wuthering.wiki
-- Prydwen Institute Wuthering Waves Guide — https://www.prydwen.gg/wuthering-waves/
+- Prydwen Institute [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Guide — https://www.prydwen.gg/wuthering-waves/
 - Game8 [Wuthering Waves Echo](https://ntecodex.com/faq) Guide — https://game8.co/games/Wuthering-Waves/archives/454504
 - Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/en/
 - Reddit r/WutheringWaves Community Guides — https://www.reddit.com/r/WutheringWaves/

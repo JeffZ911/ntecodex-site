@@ -131,7 +131,7 @@ Rerolling in NTE is faster on PC than on mobile due to shorter loading screens a
 *   **Pulling & Mailbox Management:** 2 minutes
 *   **Total Average Time:** 17 minutes
 
-A typical reroll run provides approximately 30–40 Fabricated Dice and 20 Solid Dice, depending on the active event rewards in May 2026. This gives you a high statistical probability of hitting at least one S-Rank within four to five runs.
+A typical reroll run provides approximately 30–40 Fabricated Dice and 20 Solid Dice, depending on the active [event rewards](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) in May 2026. This gives you a high statistical probability of hitting at least one S-Rank within four to five runs.
 
 Be aware that NTE has a strict 7-day cooldown on account deletion. This is why the "Salting Method" mentioned earlier is mandatory for players who want to do more than one or two attempts. If you find yourself hitting a "Too many requests" error, switching your IP via a VPN or switching from Wi-Fi to cellular data usually resolves the issue.
 

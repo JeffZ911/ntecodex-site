@@ -142,5 +142,5 @@ As you increase your Union Level and progress through SOL-3 Phases, the world le
 - [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Official Site — https://wutheringwaves.kurogames.com/en/
 - Prydwen Institute [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Guide — https://www.prydwen.gg/wuthering-waves/
 - Game8 [Wuthering Waves Echo](https://ntecodex.com/faq) Guide — https://game8.co/games/Wuthering-Waves/archives/454522
-- Wuthering Waves Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Echo
+- [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Echo
 - Wuthering.wiki Database — https://wuthering.wiki/
