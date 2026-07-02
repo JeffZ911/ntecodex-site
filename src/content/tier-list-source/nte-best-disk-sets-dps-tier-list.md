@@ -81,7 +81,7 @@ This set is the premier choice for Cosmos-attribute DPS characters. Chiz and the
 
 While Lost Radiance focuses on raw penetration, Devil's Blood: Curse focuses on the "Nova" and "Stain" reactions. The 4-piece bonus increases the damage of elemental reactions by [information unavailable] and applies a "Cursed" mark on the enemy. When an Esper hits a Cursed enemy, they trigger an additional instance of damage based on their Elemental Mastery.
 
-This set is best-in-slot for high-frequency attackers who can apply elements rapidly. It is particularly effective in team compositions that rely on "Stain" to shred enemy resistances. For players who pulled on "The Ichi-daime" banner, this is a strong alternative for Nanally if you are running her in a reaction-heavy sub-DPS role.
+This set is best-in-slot for high-frequency attackers who can apply elements rapidly. It is particularly effective in team compositions that rely on "Stain" to shred [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide). For players who pulled on "The Ichi-daime" banner, this is a strong alternative for Nanally if you are running her in a reaction-heavy sub-DPS role.
 
 | Set Name | 4-Piece Bonus Effect | Best-in-Slot Characters |
 | :--- | :--- | :--- |

@@ -26,7 +26,7 @@ sources:
   - "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75Tl0MPHdL_WRXigHTzRqQtE-ZnpeA_eLUZ0a4peqPs2qTy9HOjKzRxgQx5oqd2bAm-iRbfoCdXk2-4v8yFWiBvUGGQF0Od0QzCMJO2t3CTUy56Kis3c8XWWWF-1QRDFFTGKI20Q="
 ---
 
-If you are transitioning from Wuthering Waves and wondering how to get more Astrites in Neverness to Everness, you have likely noticed that the premium currency goes by a different name in the neon-lit streets of Hethereau. While players often use the familiar term from other gacha titles, the official resource you need to hoard for your pulls is actually called Annulith.
+If you are transitioning from [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) and wondering how to get more Astrites in Neverness to Everness, you have likely noticed that the premium currency goes by a different name in the neon-lit streets of Hethereau. While players often use the familiar term from other gacha titles, the official resource you need to hoard for your pulls is actually called Annulith.
 
 # How to Get More Astrites in Neverness to Everness: A Complete Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

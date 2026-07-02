@@ -56,7 +56,7 @@ Because both games feature urban-fantasy settings with supernatural "zones" that
 
 In Neverness to Everness, the equivalent gameplay loop involves Anomaly Commissions. These are unlocked by progressing through the main storyline in Hethereau and increasing your Hunter Level. High-level anomalies often require players to visit specific landmarks, such as the major skyscraper in the central business district, to trigger the investigation.
 
-| Requirement Category | Zenless Zone Zero (Hollow C41) | Neverness to Everness (Anomalies) |
+| Requirement Category | Zenless Zone Zero ([Hollow C41](https://ntecodex.com/faq)) | Neverness to Everness (Anomalies) |
 | :--- | :--- | :--- |
 | **Minimum Player Level** | Inter-Knot Level 32 | Varies by Hunter Level |
 | **Story Milestone** | Chapter 3: The Midnight Pursuit | Completion of Miguel District intro |

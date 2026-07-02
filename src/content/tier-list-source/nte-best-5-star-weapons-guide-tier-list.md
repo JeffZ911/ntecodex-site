@@ -96,7 +96,7 @@ Hethereau's Keeper is a Solid-type Arc that specializes in boss-slaying through 
 A-Tier Arcs are exceptionally strong and can often compete with S-tier options if the Esper's kit aligns perfectly with the weapon's passive. They are reliable choices for endgame content.
 
 ### Blow up the Crowd: The Support King
-Blow up the Crowd is a Solid Arc that has become the gold standard for quick-swap supports like Haniel. It provides a significant off-field ATK buff to the active character whenever the wearer is swapped out. Furthermore, it scales "Psyche DMG," a niche but powerful stat that bypasses certain enemy resistances in high-level Anomalies.
+Blow up the Crowd is a Solid Arc that has become the gold standard for quick-swap supports like Haniel. It provides a significant off-field ATK buff to the active character whenever the wearer is swapped out. Furthermore, it scales "Psyche DMG," a niche but powerful stat that bypasses certain [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) in high-level Anomalies.
 
 ### Youthful Fantasy: Maximizing Break Damage
 With the rise of "Break" meta-teams, Youthful Fantasy has climbed from B-tier to A-tier. This Liquid-type Arc features the "Black Tome" summon, which automatically targets "Broken" enemies to deal massive Chaos DMG. If you are running a team designed to deplete enemy shields quickly, this weapon provides a higher damage output than many S-rank alternatives.

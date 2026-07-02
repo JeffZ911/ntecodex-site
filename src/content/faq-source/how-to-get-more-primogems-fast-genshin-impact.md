@@ -35,7 +35,7 @@ With a new character banner always on the horizon, every Traveler needs to know 
 
 # How to Get More Primogems Fast in Genshin Impact: The Ultimate Farming Guide
 
-Efficiency is the name of the game when it comes to gathering Primogems in Teyvat. Whether you are saving for a powerful Fatui Harbinger like Columbina or a versatile support from the newer regions, understanding the hierarchy of reward sources is essential. In 2026, the landscape of Primogem farming has evolved with the addition of the autonomous region of Nod-Krai and the expansion of endgame modes like the Imaginarium Theater. This guide breaks down the fastest methods to accumulate gems, from daily routines to high-yield exploration tactics.
+Efficiency is the name of the game when it comes to gathering Primogems in Teyvat. Whether you are saving for a powerful Fatui Harbinger like Columbina or a versatile support from the newer regions, understanding the hierarchy of reward sources is essential. In 2026, the landscape of Primogem farming has evolved with the addition of the autonomous region of Nod-Krai and the expansion of endgame modes like the [Imaginarium Theater](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide). This guide breaks down the fastest methods to accumulate gems, from daily routines to high-yield exploration tactics.
 
 ## Question Restated
 
@@ -93,7 +93,7 @@ This system allows you to "double-dip" rewards. If you are exploring the new isl
 
 Endgame content has expanded significantly. The **Spiral Abyss** still resets on the 16th of every month, offering 800 Primogems for a full 36-star clear of Floors 9 through 12. 
 
-The **Imaginarium Theater**, which resets on the 1st of every month, has become a primary income source. In the current **Lunar Mode** (also referred to as Visionary Mode in some updates), players can earn up to 1,000 Primogems per season. This mode requires a diverse roster of characters, as it often restricts you to specific elements—such as the recent Hydro, Cryo, and Geo rotation.
+The **Imaginarium Theater**, which resets on the 1st of every month, has become a primary income source. In the current **Lunar Mode** (also referred to as [Visionary Mode](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) in some updates), players can earn up to 1,000 Primogems per season. This mode requires a diverse roster of characters, as it often restricts you to specific elements—such as the recent Hydro, Cryo, and Geo rotation.
 
 ### Exploration Strategies: Using Compasses in Nod-Krai and Natlan
 

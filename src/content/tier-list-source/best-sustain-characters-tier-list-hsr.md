@@ -120,7 +120,7 @@ Natasha is the first healer every player receives. While she has a single-target
 
 ### Niche Uses for March 7th and Fire Trailblazer
 
-March 7th (Preservation) provides a very strong single-target shield, but she cannot protect the whole team effectively against AoE attacks. She is primarily used in "Freeze" compositions or with Clara in early-game setups. 
+[March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) (Preservation) provides a very strong single-target shield, but she cannot protect the whole team effectively against AoE attacks. She is primarily used in "Freeze" compositions or with Clara in early-game setups. 
 
 The Preservation Trailblazer provides very small shields that act more like a "buffer" to prevent minor chip damage. Their primary role is as a "Taunter" to draw single-target attacks away from squishy allies. While they are great for breaking Fire-weakness bars, they cannot solo-sustain a team in Memory of Chaos.
 

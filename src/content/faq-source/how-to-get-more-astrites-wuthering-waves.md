@@ -32,7 +32,7 @@ Maximizing your currency income is the most important part of building a powerfu
 ![Question Restated](/img/how-to-get-more-astrites-wuthering-waves/inline-1.webp)
 
 
-Players often ask what the most efficient ways to farm Astrites are in Wuthering Waves. Because the game features a pity system for its limited banners, understanding how to maximize your income is the difference between securing a 5-star character and missing out.
+Players often ask what the most efficient ways to farm Astrites are in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide). Because the game features a pity system for its limited banners, understanding how to maximize your income is the difference between securing a 5-star character and missing out.
 
 Free-to-play (F2P) players need to focus on both daily consistency and long-term exploration. While many sources provide a one-time influx of currency, such as the Main Quest and regional exploration, other modes offer recurring rewards that reset periodically. Identifying which modes reset—like the Tower of Adversity and the Depths of Illusive Realm—is the key to a sustainable Astrite income.
 
