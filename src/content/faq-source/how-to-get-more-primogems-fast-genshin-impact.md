@@ -93,7 +93,7 @@ This system allows you to "double-dip" rewards. If you are exploring the new isl
 
 Endgame content has expanded significantly. The **Spiral Abyss** still resets on the 16th of every month, offering 800 Primogems for a full 36-star clear of Floors 9 through 12. 
 
-The **Imaginarium Theater**, which resets on the 1st of every month, has become a primary income source. In the current **Lunar Mode** (also referred to as [Visionary Mode](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) in some updates), players can earn up to 1,000 Primogems per season. This mode requires a diverse roster of characters, as it often restricts you to specific elements—such as the recent Hydro, Cryo, and Geo rotation.
+The **[Imaginarium Theater](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide)**, which resets on the 1st of every month, has become a primary income source. In the current **Lunar Mode** (also referred to as [Visionary Mode](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) in some updates), players can earn up to 1,000 Primogems per season. This mode requires a diverse roster of characters, as it often restricts you to specific elements—such as the recent Hydro, Cryo, and Geo rotation.
 
 ### Exploration Strategies: Using Compasses in Nod-Krai and Natlan
 

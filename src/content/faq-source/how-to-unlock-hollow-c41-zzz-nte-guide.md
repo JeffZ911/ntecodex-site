@@ -86,7 +86,7 @@ Progression in NTE is less about a linear story and more about your standing wit
 *   **Endgame:** High-risk Anomaly Zones require a team of well-built Espers and high-rank Arcs (weapons).
 
 ### Comparing ZZZ Hollows and NTE Anomaly Zones
-The two systems offer different takes on urban supernatural investigation. ZZZ uses a stylized, retro-tech interface where the "Proxy" guides agents through the Hollow. The difficulty in Hollow C41 often comes from the environmental hazards and the "Pressure" mechanic, which penalizes players for staying in the Hollow too long.
+The two systems offer different takes on urban supernatural investigation. ZZZ uses a stylized, retro-tech interface where the "Proxy" guides agents through the Hollow. The difficulty in [Hollow C41](https://ntecodex.com/faq) often comes from the environmental hazards and the "Pressure" mechanic, which penalizes players for staying in the Hollow too long.
 
 Conversely, NTE offers a seamless transition from urban exploration to supernatural combat. When you enter an Anomaly Zone in Hethereau, the world around you may distort—cars might float, or the gravity might shift—but you remain in the same physical space. Characters like Nanally, who utilizes high-impact physical attacks, or Chaos (Lakshana), who features spatial manipulation abilities, are vital for clearing these zones efficiently.
 

@@ -112,7 +112,7 @@ The golden rule for most players is to **only spend Annulith on Solid Dice**. Be
 The summoning system, **[Scarborough Fair](https://ntecodex.com/faq)**, is a board game where you roll dice to move a piece called a **Chuppa** across tiles. 
 *   **Soft Pity:** At 70 pulls without an S-rank, the board undergoes a "Modification." The tiles change, and the S-rank rate jumps to approximately 19.59%.
 *   **Hard Pity:** You are guaranteed an S-rank character by your 90th pull.
-*   **No 50/50:** Unlike Wuthering Waves or Genshin Impact, if you pull an S-rank on a limited banner (such as Nanally's "The Ichi-daime" banner), it is **100% guaranteed** to be the featured character. There is no risk of losing to a standard pool unit.
+*   **No 50/50:** Unlike [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) or Genshin Impact, if you pull an S-rank on a limited banner (such as Nanally's "The Ichi-daime" banner), it is **100% guaranteed** to be the featured character. There is no risk of losing to a standard pool unit.
 
 ### Secondary Gacha Currencies: Warp and Lost Pieces
 

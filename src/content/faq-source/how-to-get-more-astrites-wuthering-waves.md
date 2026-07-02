@@ -140,7 +140,7 @@ Kuro Games frequently runs limited-time events. These can range from combat chal
 
 ### Redemption Codes and Mail Compensation
 
-Always keep an eye on your in-game mail. Wuthering Waves often provides "Compensation Astrites" following maintenance or bug fixes. Furthermore, promotional codes are frequently released during developer livestreams or social media campaigns. These codes typically grant 50 to 100 Astrites and expire quickly, so they should be redeemed as soon as they are discovered.
+Always keep an eye on your in-game mail. [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) often provides "Compensation Astrites" following maintenance or bug fixes. Furthermore, promotional codes are frequently released during developer livestreams or social media campaigns. These codes typically grant 50 to 100 Astrites and expire quickly, so they should be redeemed as soon as they are discovered.
 
 ### Paid Options: Lunite Subscription and Pioneer Podcast
 
