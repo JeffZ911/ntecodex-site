@@ -36,7 +36,7 @@ If you are transitioning from [Wuthering Waves](https://ntecodex.com/guides/tact
 
 As players migrate to Hotta Studio’s urban open-world RPG, several questions regarding the economy have surfaced. The most common inquiry involves the primary method for obtaining premium currency in Neverness to Everness (NTE) and how it compares to systems in games like [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide). Specifically, free-to-play players want to know how to accumulate enough resources to hit pity on limited banners without spending real money.
 
-Another point of confusion is the terminology: Are "Astrites" the official name for the currency in NTE, or is there another term? In Wuthering Waves, Astrites are the lifeblood of the [gacha system](https://ntecodex.com/faq), but in Neverness to Everness, the currency is officially named **Annulith** (sometimes referred to as Annulite). Understanding this distinction is vital for navigating the in-game menus and identifying the most efficient daily and weekly activities for currency farming.
+Another point of confusion is the terminology: Are "Astrites" the official name for the currency in NTE, or is there another term? In [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), Astrites are the lifeblood of the [gacha system](https://ntecodex.com/faq), but in Neverness to Everness, the currency is officially named **Annulith** (sometimes referred to as Annulite). Understanding this distinction is vital for navigating the in-game menus and identifying the most efficient daily and weekly activities for currency farming.
 
 ## Direct Answer
 

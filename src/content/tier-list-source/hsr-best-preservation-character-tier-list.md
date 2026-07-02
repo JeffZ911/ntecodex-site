@@ -72,7 +72,7 @@ Getting "frozen," "imprisoned," or "dominated" can lead to a quick defeat if you
 | Fu Xuan | Yes (Crit Rate) | Team-wide | No | Neutral |
 | Gepard | No | Self-only | Yes (Freeze) | Neutral/Negative |
 | Trailblazer (Fire) | No | No | Yes (Taunt) | Neutral |
-| March 7th | No | No | Yes (Freeze) | Negative |
+| [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) | No | No | Yes (Freeze) | Negative |
 
 ## S Tier
 

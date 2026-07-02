@@ -94,7 +94,7 @@ As you explore, you will find Sonance Caskets floating in hard-to-reach places. 
 
 ### Data Bank and Echo Collection
 
-Wuthering Waves features a unique system where you capture "Echoes" from defeated monsters. Every time you capture a new type of Echo or find a higher rarity version of an existing one, you gain Data Bank experience.
+[Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) features a unique system where you capture "Echoes" from defeated monsters. Every time you capture a new type of Echo or find a higher rarity version of an existing one, you gain Data Bank experience.
 
 Leveling up your Data Bank is one of the most lucrative one-time Astrite farms. Each level usually rewards 40 Astrites. Since there are 20 levels (and potentially more in future updates), this system provides a massive bank of currency as you fill out your Echo Gallery.
 

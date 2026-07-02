@@ -65,7 +65,7 @@ Additionally, always redeem active promo codes from version livestreams and part
 | Welkin Moon Daily Bonus | 0 | 2,700 |
 | Welkin Moon Initial Purchase | 0 | 300 (Genesis Crystals) |
 | Spiral Abyss (Floors 9-12) | 800 | 800 |
-| Imaginarium Theater | 1,000 | 1,000 |
+| [Imaginarium Theater](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) | 1,000 | 1,000 |
 | Paimon’s Bargains (5 Fates) | 800 (Value) | 800 (Value) |
 | HoYoLAB Check-in | 60 | 60 |
 | **Total Approximate Gems** | **4,460** | **7,460** |
