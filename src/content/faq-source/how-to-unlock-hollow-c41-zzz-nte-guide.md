@@ -52,7 +52,7 @@ Because both games feature urban-fantasy settings with supernatural "zones" that
 ![Direct Answer](/img/how-to-unlock-hollow-c41-zzz-nte-guide/inline-2.webp)
 
 
-Hollow C41 is a location exclusive to Zenless Zone Zero and is not a feature in Neverness to Everness. To access it, ZZZ players must be at least Inter-Knot Level 32 and have cleared the main narrative through Chapter 3. The specific mission, "Prepare for the Gold Rush," is the gateway to this area.
+[Hollow C41](https://ntecodex.com/faq) is a location exclusive to Zenless Zone Zero and is not a feature in Neverness to Everness. To access it, ZZZ players must be at least Inter-Knot Level 32 and have cleared the main narrative through Chapter 3. The specific mission, "Prepare for the Gold Rush," is the gateway to this area.
 
 In Neverness to Everness, the equivalent gameplay loop involves Anomaly Commissions. These are unlocked by progressing through the main storyline in Hethereau and increasing your Hunter Level. High-level anomalies often require players to visit specific landmarks, such as the major skyscraper in the central business district, to trigger the investigation.
 

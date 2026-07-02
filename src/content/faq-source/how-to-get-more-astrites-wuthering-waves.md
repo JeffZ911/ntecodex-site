@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing your currency income is the most important part of building a powerful team of Resonators in Wuthering Waves. This guide provides every reliable method to secure more Astrites, ensuring you never miss a limited-time banner.
+Maximizing your currency income is the most important part of building a powerful team of Resonators in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide). This guide provides every reliable method to secure more Astrites, ensuring you never miss a limited-time banner.
 
 # How to Get More Astrites in Wuthering Waves
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

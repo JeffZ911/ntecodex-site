@@ -172,7 +172,7 @@ Since her release on May 15, Hotori has pushed many B-tier DPS units into A-tier
 ### Version 1.1 Teasers: Lacrimosa and Chaos
 
 Official developer broadcasts have teased two upcoming characters for Version 1.1: Lacrimosa and Chaos. 
-*   **Lacrimosa:** Rumored to be a "Reverse Support" who debuffs enemy resistances rather than buffing ally stats.
+*   **Lacrimosa:** Rumored to be a "Reverse Support" who debuffs [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide) rather than buffing ally stats.
 *   **Chaos:** Expected to be the first S-rank Shielder, potentially challenging Adler's spot as the premier defensive unit.
 
 As the community shifts toward prioritizing "Break" stats for the Pink Paws Heist, expect characters like Daffodill to remain high in the rankings. The May 17 hotfix that improved Haniel's energy regeneration has also solidified her spot as the best "bang-for-your-buck" unit in the game, proving that you don't always need an S-rank to dominate the streets of Hesperia.

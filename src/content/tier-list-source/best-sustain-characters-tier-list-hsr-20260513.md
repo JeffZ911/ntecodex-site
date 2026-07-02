@@ -135,7 +135,7 @@ The debate between Lynx and Bailu has largely been settled in favor of Lynx for 
 | Gallagher | Healing (Reactive) | Single Target (Skill) | Break / Firefly |
 | Lynx | Healing (HoT) | Team-wide (Ult) | Blade / Clara |
 | Natasha | Healing (Direct) | Single Target (Skill) | Early Game |
-| March 7th | Shield (Single) | Single Target (Skill) | FUA (Early) |
+| [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) | Shield (Single) | Single Target (Skill) | FUA (Early) |
 
 ## C Tier
 

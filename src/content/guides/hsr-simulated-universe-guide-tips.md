@@ -139,7 +139,7 @@ The Hunt is ideal for single-target bosses, while Erudition (unlocked via Gold a
 
 ### F2P-Friendly SU Teams
 
-If you lack limited 5-star characters, the Preservation Path is your best friend. By using the Fire Trailblazer and March 7th together, you can stack massive shields that trigger "Quake" damage through Preservation Blessings, allowing your team to deal damage simply by being hit.
+If you lack limited 5-star characters, the Preservation Path is your best friend. By using the Fire Trailblazer and [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) together, you can stack massive shields that trigger "Quake" damage through Preservation Blessings, allowing your team to deal damage simply by being hit.
 
 ## Rotation
 
