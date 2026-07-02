@@ -64,7 +64,7 @@ Getting "frozen," "imprisoned," or "dominated" can lead to a quick defeat if you
 | Fu Xuan | 1474 | 606 | 100 | HP |
 | Gepard | 1397 | 654 | 92 | DEF |
 | Trailblazer (Fire) | 1241 | 606 | 95 | DEF |
-| March 7th | 1058 | 576 | 101 | DEF |
+| [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) | 1058 | 576 | 101 | DEF |
 
 | Character | Crit Buffs | CC Resistance | Debuff Application | SP Efficiency |
 | :--- | :--- | :--- | :--- | :--- |

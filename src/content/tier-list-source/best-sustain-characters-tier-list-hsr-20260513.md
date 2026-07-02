@@ -148,7 +148,7 @@ C-Tier characters are baseline units that are typically replaced as soon as a pl
 Characters like Natasha and [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) struggle in the 2026 meta because their kits are strictly "reactive." Natasha provides decent healing, but she offers no offensive buffs, no damage mitigation, and only a single-target cleanse on her Skill. March 7th’s single-target shield often results in the rest of the team being whittled down by the AoE-heavy attacks of modern bosses like the "Shadow of Oronyx."
 
 ### When to Replace Natasha and March 7th
-Players should look to replace Natasha as soon as they obtain Gallagher or Lynx. March 7th can still be useful in very niche "Remembrance Freeze" builds, but once a player obtains Aventurine or Fu Xuan, her role as a primary sustain becomes obsolete. The Fire Trailblazer, while useful for their Taunt mechanic, provides negligible shielding that cannot sustain a team through more than a few cycles of MoC 12.
+Players should look to replace Natasha as soon as they obtain Gallagher or Lynx. [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) can still be useful in very niche "Remembrance Freeze" builds, but once a player obtains Aventurine or Fu Xuan, her role as a primary sustain becomes obsolete. The Fire Trailblazer, while useful for their Taunt mechanic, provides negligible shielding that cannot sustain a team through more than a few cycles of MoC 12.
 
 ## Recent Changes
 
