@@ -90,7 +90,7 @@ To access these buffs, players must complete the "Witch's Homework" story quest 
 The Hexerei system is more than just a stat boost; it is a fundamental shift in how older characters interact with the current 6.6 meta. By tying mechanical upgrades to the "Witch's Homework" quest, HoYoverse has created a progression path that rewards lore investment.
 
 ### Nicole Reeyn: The First Playable Hexenzirkel Member
-Nicole Reeyn is a 5-star Pyro Catalyst support whose kit is designed around the concept of "The Observer." Her role is to provide ATK-scaling shields and coordinated off-field damage. Her Elemental Skill, Revelation Edict: Unmanifest Light, creates the Shield of Blazing Light, while her Burst, Revelation: Ladder of Divine Ascent, summons Arcane Projections that mimic the element of the active character. 
+[Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide) is a 5-star Pyro Catalyst support whose kit is designed around the concept of "The Observer." Her role is to provide ATK-scaling shields and coordinated off-field damage. Her Elemental Skill, Revelation Edict: Unmanifest Light, creates the Shield of Blazing Light, while her Burst, Revelation: Ladder of Divine Ascent, summons Arcane Projections that mimic the element of the active character. 
 
 In a team with other Hexerei members, Nicole's Methexis passive removes the standard 3-second delay required to upgrade her ATK buffs, allowing for immediate maximum damage output.
 
