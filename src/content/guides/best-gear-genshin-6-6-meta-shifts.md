@@ -150,7 +150,7 @@ To ensure these recommendations meet the needs of dedicated players, we employed
 ![What a long-session player actually needs](/img/best-gear-genshin-6-6-meta-shifts/inline-2.webp)
 
 
-The transition between major updates like Genshin 6.5 and 6.6 often involves a shift in how players interact with the game world. Here is what you should look for in your gear:
+The transition between major updates like [Genshin 6](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide).5 and 6.6 often involves a shift in how players interact with the game world. Here is what you should look for in your gear:
 
 1.  **Dynamic Lumbar Support:** Static pillows flatten over time; players need active systems like the [L-ADAPT lumbar](https://secretlab.co/products/titan-evo-2022-series) that adjust as they lean forward during boss fights or recline during cutscenes.
 2.  **Multi-Device Connectivity:** Modern players often swap between PC and mobile. Peripherals like the SteelSeries Arctis Nova 7 must support simultaneous audio to allow for seamless switching between platforms.

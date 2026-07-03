@@ -168,7 +168,7 @@ Aside from Chiz, players can obtain several other characters through gameplay:
 ## Frequently Asked Questions
 
 ### How do I get Pyrois in ZZZ for free?
-You can get the S-Rank Agent Pyrois for free by progressing through the [ZZZ 3](https://ntecodex.com/faq).0 main story. Specifically, you must complete the chapter titled "A Sleepwalker's Confession" in the Roscaelifer region. This character is a permanent story unlock and does not require Polychromes or banner pulls.
+You can get the S-Rank Agent Pyrois for free by progressing through the [ZZZ 3](https://ntecodex.com/faq).0 main story. Specifically, you must complete the chapter titled "A Sleepwalker's Confession" in the [Roscaelifer region](https://ntecodex.com/guides/how-to-unlock-zzz-roscaelifer-region-gear-guide). This character is a permanent story unlock and does not require Polychromes or banner pulls.
 
 ### Is the NTE S-Rank Selector permanent?
 The S-Class Selection promotion on the Standard Board in Neverness to Everness is a one-time bonus for new accounts. It activates after you have performed 50 pulls on the "Strange Encounters" board using Fabricated Dice. Once used, the selector option disappears from the banner interface.

@@ -57,7 +57,7 @@ As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shif
 *   How does this system compare to the Esper Resonance found in Neverness to Everness (NTE)?
 
 ### The Buzz Around Version 6.6
-Version 6.6, titled "Luna VII: Truth Amongst the Pages of Purana," has been hailed as a turning point for veteran players. By introducing the first playable Hexenzirkel member, Nicole Reeyn, HoYoverse has finally bridged years of cryptic lore with high-impact gameplay. The centerpiece of this update is the Hexerei system, a mechanic that rewards players for grouping characters tied to the legendary coven of witches.
+Version 6.6, titled "Luna VII: Truth Amongst the Pages of Purana," has been hailed as a turning point for veteran players. By introducing the first playable Hexenzirkel member, [Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide), HoYoverse has finally bridged years of cryptic lore with high-impact gameplay. The centerpiece of this update is the Hexerei system, a mechanic that rewards players for grouping characters tied to the legendary coven of witches.
 
 ### Why NTE Players Are Watching the Hexerei Update
 Since the global launch of Neverness to Everness (NTE) on April 29, 2026, the gacha community has been closely comparing its urban "Esper" synergies with Genshin's evolving systems. NTE’s [Scarborough Fair gacha](https://ntecodex.com/faq) and its attribute-based Esper Resonance have set a high bar for team-building depth. Genshin's response—the Hexerei: [Secret Rite](https://ntecodex.com/faq)—offers a lore-driven alternative that specifically targets long-time fans of the Mondstadt cast.
