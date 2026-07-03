@@ -69,7 +69,7 @@ Since the global launch of Neverness to Everness (NTE) on April 29, 2026, the ga
 
 The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a "Sabbat Resonance" mechanic that triggers when at least two Hexerei-tagged characters are placed in the same team. This system functions similarly to Elemental Resonance but provides much deeper kit reworks and scaling bonuses for the specific characters involved.
 
-Nicole Reeyn, the first playable Hexenzirkel member (codename "N"), serves as the core of this system. When her [Secret Rite](https://ntecodex.com/faq) is active, she provides a massive 150% ATK-based DMG boost to Arcane Projections—coordinated elemental attacks triggered during her Elemental Burst.
+[Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide), the first playable Hexenzirkel member (codename "N"), serves as the core of this system. When her [Secret Rite](https://ntecodex.com/faq) is active, she provides a massive 150% ATK-based DMG boost to Arcane Projections—coordinated elemental attacks triggered during her Elemental Burst.
 
 To access these buffs, players must complete the "Witch's Homework" story quest for each character. This questline takes players to a floating Hexenzirkel island located above the Falcon Coast in Mondstadt. Unlike NTE's Esper synergy, which is based on flexible attributes like Anima or Chaos, the [Secret Rite](https://ntecodex.com/faq) is strictly faction-locked to specific lore-related characters.
 
