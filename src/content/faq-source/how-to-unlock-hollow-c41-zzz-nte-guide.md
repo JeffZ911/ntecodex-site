@@ -108,7 +108,7 @@ As you progress through the supernatural challenges of 2026, staying updated on 
 For those looking to optimize their experience in Hethereau, understanding the current meta is essential. Players should look into the latest tier lists to see how characters like Sakira and Iris perform in high-level Anomaly Commissions. Additionally, mastering the primary endgame challenge mode, which features escalating difficulty levels and unique environmental modifiers, is the best way to earn S-Rank Arcs and rare upgrade materials.
 
 ### ZZZ Event Archives
-While Hollow C41 is a highlight of the Camellia Golden Week, Zenless Zone Zero frequently introduces new limited-time Hollows. Keeping an eye on the Inter-Knot Level requirements for future patches will ensure you are never locked out of content.
+While [Hollow C41](https://ntecodex.com/faq) is a highlight of the Camellia Golden Week, Zenless Zone Zero frequently introduces new limited-time Hollows. Keeping an eye on the Inter-Knot Level requirements for future patches will ensure you are never locked out of content.
 
 ## Frequently Asked Questions
 

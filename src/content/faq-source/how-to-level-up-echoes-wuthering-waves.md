@@ -36,7 +36,7 @@ inline_image_sections:
   - "Related"
 ---
 
-In Wuthering Waves, your combat efficiency is dictated more by the quality of your Echoes than almost any other equipment system. Mastering the nuances of how to level up Echoes and optimize their sub-stats is the difference between struggling against Hologram bosses and clearing the Tower of Adversity with ease.
+In [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), your combat efficiency is dictated more by the quality of your Echoes than almost any other equipment system. Mastering the nuances of how to level up Echoes and optimize their sub-stats is the difference between struggling against Hologram bosses and clearing the Tower of Adversity with ease.
 
 # How to Level Up Echoes in Wuthering Waves
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-13._

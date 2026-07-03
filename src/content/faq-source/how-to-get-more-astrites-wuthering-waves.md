@@ -147,7 +147,7 @@ Always keep an eye on your in-game mail. [Wuthering Waves](https://ntecodex.com/
 For players willing to spend a small amount of money, there are two high-efficiency options:
 
 1.  **Lunite Subscription:** This costs $4.99 USD and provides 300 Lunite (which can be converted 1:1 to Astrites) immediately, plus 90 Astrites every day for 30 days. This is the most cost-effective way to gain currency, totaling 3,000 Astrites per month.
-2.  **Pioneer Podcast:** This is the Wuthering Waves Battle Pass. The paid "Insider Channel" provides a mix of Astrites and Radiant Tides, along with a massive amount of character development resources.
+2.  **Pioneer Podcast:** This is the [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) Battle Pass. The paid "Insider Channel" provides a mix of Astrites and Radiant Tides, along with a massive amount of character development resources.
 
 ## Related
 

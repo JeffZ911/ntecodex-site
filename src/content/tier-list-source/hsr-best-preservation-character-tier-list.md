@@ -142,7 +142,7 @@ C-Tier characters are highly situational and are generally outperformed by the r
 
 [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) was the first Preservation character most players encountered. Her Skill provides a very strong single-target shield that also increases the target's aggro. This makes her the perfect partner for Clara, as she helps Clara get hit more often to trigger Svarog’s counters.
 
-However, March 7th struggles in the modern "AOE-heavy" meta. Because her shield is single-target, she must spend multiple turns and Skill Points to protect the entire team. In content like Pure Fiction, where enemies attack constantly, March 7th often cannot keep up with the incoming damage.
+However, [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) struggles in the modern "AOE-heavy" meta. Because her shield is single-target, she must spend multiple turns and Skill Points to protect the entire team. In content like Pure Fiction, where enemies attack constantly, March 7th often cannot keep up with the incoming damage.
 
 ### The Remembrance Path Strategy in Simulated Universe
 
