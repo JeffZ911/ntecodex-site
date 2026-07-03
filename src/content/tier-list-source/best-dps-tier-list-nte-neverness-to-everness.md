@@ -183,7 +183,7 @@ The Version 1.0.1 patch introduced several minor but impactful adjustments. The 
 | Cycle Rate | Adjusted base cooldowns for Psyche abilities | Slight buff to Fadia's consistency |
 
 ### Future Outlook and Power Creep
-Official teasers suggest that the next major update will introduce more Chaos and Lakshana characters. This is expected to balance the elemental wheel and potentially provide Daffodil and Hathor with the synergistic teammates they currently lack. Players are advised to keep an eye on "Break" efficiency, as future bosses in "Beyond the Rails" are rumored to have even more complex shield mechanics.
+Official teasers suggest that the next major update will introduce more Chaos and Lakshana characters. This is expected to balance the elemental wheel and potentially provide Daffodil and Hathor with the synergistic teammates they currently lack. Players are advised to keep an eye on "Break" efficiency, as future bosses in "Beyond the Rails" are rumored to have even more complex [shield mechanics](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide).
 
 ## Sources
 

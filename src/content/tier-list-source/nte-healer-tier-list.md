@@ -156,7 +156,7 @@ In the May 2026 meta, shielding is often seen as inferior to healing because shi
 
 ### Pseudo-Sustain and Self-Healers
 Several other characters possess minor self-healing passives but cannot sustain a whole team. For example:
-*   **Nanally:** Has minor self-sustain through her electromagnetic shield mechanics [exact values pending confirmation].
+*   **Nanally:** Has minor self-sustain through her electromagnetic [shield mechanics](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide) [exact values pending confirmation].
 *   **[Sakiri](/characters/sakiri-nte-free-5-star-guide):** Provides crowd control that prevents damage, but offers no direct HP recovery.
 
 ## Recent Changes

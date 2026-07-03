@@ -64,7 +64,7 @@ The most frequent hurdle is the "Tuner Bottleneck." While Sealed Tubes (EXP) can
 ![Direct Answer](/img/how-to-level-up-echoes-wuthering-waves/inline-2.webp)
 
 
-To level up Echoes in Wuthering Waves, you must navigate to the **Resonator** screen, select the **Echo** tab, and click on a specific Echo to open the **Upgrade** menu. You will then use **Sealed Tubes** to provide EXP and **Shell Credits** to pay for the enhancement.
+To level up Echoes in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), you must navigate to the **Resonator** screen, select the **Echo** tab, and click on a specific Echo to open the **Upgrade** menu. You will then use **Sealed Tubes** to provide EXP and **Shell Credits** to pay for the enhancement.
 
 The maximum level an Echo can reach is strictly determined by its rarity (Rank). As you increase your Data Bank level, you will unlock higher-rarity Echoes that can reach higher level caps and possess more sub-stat slots.
 

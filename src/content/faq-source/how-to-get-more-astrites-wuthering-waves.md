@@ -171,7 +171,7 @@ Knowing how many Astrites you need is essential for planning. [Wuthering Waves](
 | 80 Pulls | 12,800 Astrites | Guaranteed 5-star (Pity) |
 | 160 Pulls | 25,600 Astrites | Guaranteed Limited 5-star (Hard Pity/Guarantee) |
 
-Note that the weapon banner in Wuthering Waves is 100% guaranteed for the featured weapon at 80 pulls, unlike the character banner which has a 50/50 mechanic.
+Note that the weapon banner in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) is 100% guaranteed for the featured weapon at 80 pulls, unlike the character banner which has a 50/50 mechanic.
 
 ### Managing Your Pull Currency
 
