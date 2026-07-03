@@ -162,7 +162,7 @@ One controversial use of Astrites is "Waveplate Refreshes." You can spend Astrit
 
 ### Understanding the Pity System
 
-Knowing how many Astrites you need is essential for planning. Wuthering Waves features a "pity" system that guarantees a 5-star result after a certain number of pulls.
+Knowing how many Astrites you need is essential for planning. [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide) features a "pity" system that guarantees a 5-star result after a certain number of pulls.
 
 | Pull Count | Astrite Cost | Guarantee |
 | :--- | :--- | :--- |

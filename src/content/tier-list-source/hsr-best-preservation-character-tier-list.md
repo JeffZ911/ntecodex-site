@@ -146,7 +146,7 @@ However, [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-mate
 
 ### The Remembrance Path Strategy in Simulated Universe
 
-Despite her ranking in general content, March 7th is an S-Tier goddess within the Simulated Universe when using the Path of Remembrance. Her Ultimate has a high base chance to Freeze all enemies. When combined with Remembrance blessings that reduce enemy Freeze resistance and trigger "Dissociation" damage, March 7th can effectively "perm-freeze" bosses, preventing them from ever taking a turn. For this strategy, players should stack as much Effect Hit Rate as possible to ensure the Freeze lands consistently.
+Despite her ranking in general content, [March 7th](https://ntecodex.com/guides/best-gear-for-long-session-material-grinding) is an S-Tier goddess within the Simulated Universe when using the Path of Remembrance. Her Ultimate has a high base chance to Freeze all enemies. When combined with Remembrance blessings that reduce enemy Freeze resistance and trigger "Dissociation" damage, March 7th can effectively "perm-freeze" bosses, preventing them from ever taking a turn. For this strategy, players should stack as much Effect Hit Rate as possible to ensure the Freeze lands consistently.
 
 ## Recent Changes
 

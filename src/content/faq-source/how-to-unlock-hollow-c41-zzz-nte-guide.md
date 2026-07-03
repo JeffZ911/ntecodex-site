@@ -113,7 +113,7 @@ While [Hollow C41](https://ntecodex.com/faq) is a highlight of the Camellia Gold
 ## Frequently Asked Questions
 
 ### Can I still access Hollow C41 after the event ends?
-Typically, event-specific Hollows like Hollow C41 are only available for the duration of the associated event, such as Camellia Golden Week. However, some narrative elements or simplified versions of the map may be added to the permanent Hollow Deep Dive system in later updates. Check the official ZZZ news for any announcements regarding permanent archival.
+Typically, event-specific Hollows like [Hollow C41](https://ntecodex.com/faq) are only available for the duration of the associated event, such as Camellia Golden Week. However, some narrative elements or simplified versions of the map may be added to the permanent Hollow Deep Dive system in later updates. Check the official ZZZ news for any announcements regarding permanent archival.
 
 ### What is the fastest way to increase Hunter Level in NTE?
 The most efficient way to increase your Hunter Level is to consistently complete Anomaly Commissions and daily urban tasks throughout Hethereau. Engaging in world exploration and discovering hidden supernatural sites also provides significant experience. Prioritizing the main story missions in the Miguel District will unlock higher-tier commissions more quickly.

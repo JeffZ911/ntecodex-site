@@ -47,7 +47,7 @@ In [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewar
 ![Question Restated](/img/how-to-level-up-echoes-wuthering-waves/inline-1.webp)
 
 
-Echoes serve as the primary gear system for every Resonator in Wuthering Waves, providing essential stat boosts and unique active skills. However, unlike traditional RPG gear where you simply equip a higher-rarity item, Echoes require a multi-stage investment process to reach their full potential. Players often find themselves asking: how do you increase the level of Echoes efficiently?
+Echoes serve as the primary gear system for every Resonator in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide), providing essential stat boosts and unique active skills. However, unlike traditional RPG gear where you simply equip a higher-rarity item, Echoes require a multi-stage investment process to reach their full potential. Players often find themselves asking: how do you increase the level of Echoes efficiently?
 
 The process involves two distinct but interconnected systems: Leveling (which increases the Echo's base stats) and Tuning (which reveals hidden sub-stats). To level up an Echo, you must consume specific materials known as Sealed Tubes along with Shell Credits. Tuning, on the other hand, requires Tuner materials of the corresponding rarity.
 
