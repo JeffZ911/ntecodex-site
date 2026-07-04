@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Many players searching for the Zenless Zone Zero 3.0 Wind attribute are discovering that the most significant urban supernatural release of 2026 is actually Neverness to Everness.
+Many players searching for the Zenless Zone Zero 3.0 [Wind attribute](https://ntecodex.com/faq) are discovering that the most significant urban supernatural release of 2026 is actually Neverness to Everness.
 
 # ZZZ 3.0 How to Unlock Wind Attribute: Neverness to Everness Guide
 

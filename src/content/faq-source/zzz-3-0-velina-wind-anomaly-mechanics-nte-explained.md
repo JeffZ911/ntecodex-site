@@ -74,7 +74,7 @@ The fundamental difference between these systems lies in how "Wind" (or its equi
 | Feature | Zenless Zone Zero ([ZZZ 3](https://ntecodex.com/guides/best-gear-for-zzz-3-0-hexerei-secret-rite-rewards).0) | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
 | **Anomaly Definition** | A combat status/meter buildup. | A supernatural entity or mission. |
-| **Wind Equivalent** | Wind Attribute (e.g., Velina). | Gas Attribute Arcs. |
+| **Wind Equivalent** | [Wind Attribute](https://ntecodex.com/faq) (e.g., Velina). | Gas Attribute Arcs. |
 | **Combat Focus** | Elemental Buildup & Disorder. | Esper Cycles & Reactions. |
 | **Primary Resource** | Polychrome / Master Tapes. | Annulith / Tri-Keys. |
 | **Setting** | New Eridu (Hollows). | Hethereau (Open World City). |
