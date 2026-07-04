@@ -144,7 +144,7 @@ Following the Misty Tipsy Style banner, which featured Hotori, the community is 
 ### Genshin 6.6 Banner Priority
 The current banner schedule for Genshin Impact 6.6 includes:
 
-1.  **Phase 1**: Nicole Reeyn (Pyro Support) and Durin (Rerun).
+1.  **Phase 1**: [Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide) (Pyro Support) and Durin (Rerun).
 2.  **Phase 2**: Lohen (5-star Cryo DPS) and Mavuika (Rerun).
 
 For F2P players, Nicole is the highest priority due to her universal ATK buffs and shielding. Lohen serves as a powerful Cryo carry who benefits significantly from Nicole's off-field coordinated attacks.
