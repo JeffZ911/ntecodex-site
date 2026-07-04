@@ -38,7 +38,7 @@ In Neverness to Everness (NTE), the "Wind" attribute is known as Anima. You unlo
 
 As the gaming landscape evolves in July 2026, many players are looking for specific elemental unlocks within the latest urban open-world titles. A common query involves how to unlock the [Wind attribute](https://ntecodex.com/faq) in Zenless Zone Zero 3.0 or its equivalent in the newly released Neverness to Everness. Specifically, players want to know:
 
-*   How do you unlock the Wind attribute in Zenless Zone Zero 3.0 or its equivalent in Neverness to Everness?
+*   How do you unlock the [Wind attribute](https://ntecodex.com/faq) in Zenless Zone Zero 3.0 or its equivalent in Neverness to Everness?
 *   What are the requirements for accessing Wind-based powers and characters in NTE?
 *   Are there specific achievements or milestones tied to the Wind (Anima) element in the July 2026 update?
 
