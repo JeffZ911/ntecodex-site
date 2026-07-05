@@ -62,7 +62,7 @@ To identify the best gear for this specific gaming lifestyle, we employed a meth
 
 *   **Reward Cycle Analysis:** We analyzed community reward spreadsheets for ZZZ 1.0 and 1.1 to determine the average session length required for full F2P reward clearance. In 1.0, sessions often exceeded 6 hours due to story progression. In 1.1, the grind is shorter but requires more precise technical play in modes like Shiyu Defense.
 *   **Ergonomic Data Integration:** Selection was based on ergonomic data from RTINGS and user feedback from r/ergonomics regarding long-term spinal health. We looked for chairs that provide active lumbar support to mitigate the effects of static posture.
-*   **Efficiency and Multitasking:** We prioritized peripherals with high macro capability and multitasking features. For example, managing the Officer Mewmew tasks and tracking Polychrome income across different patches often requires having multiple windows or spreadsheets open.
+*   **Efficiency and Multitasking:** We prioritized peripherals with high macro capability and multitasking features. For example, managing the [Officer Mewmew](https://ntecodex.com/guides/best-gear-for-long-achievement-hunting-sessions) tasks and tracking Polychrome income across different patches often requires having multiple windows or spreadsheets open.
 
 ## What a long-session grinder actually needs
 
