@@ -36,7 +36,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Capturing and equipping the souls of defeated enemies is the core progression mechanic in Wuthering Waves. You cannot progress far without these "Echoes," so knowing exactly when and how the system becomes available is essential for every new Rover.
+Capturing and equipping the souls of defeated enemies is the core progression mechanic in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706). You cannot progress far without these "Echoes," so knowing exactly when and how the system becomes available is essential for every new Rover.
 
 # How to Unlock the Echo System in Wuthering Waves
 
