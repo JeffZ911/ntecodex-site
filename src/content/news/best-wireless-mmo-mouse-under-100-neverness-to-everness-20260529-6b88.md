@@ -120,7 +120,7 @@ Popular NTE content creators have demonstrated that the tomato-obsessed Lacrimos
 
 The *Neverness to Everness* Version 1.1 "Dreamwalk Corridor" update is scheduled to launch on June 3, 2026. This update will feature the Fading Reverie banner, introducing the S-Class character Lacrimosa, followed by the Forsaken Path banner for the Lakshana-element character Chaos on June 24.
 
-The Porsche collaboration event will run concurrently, offering the Porsche 918 Spyder and the "Perfect Partners" outfit through a dedicated collab banner. Additionally, the game will officially expand to Steam, Epic Games Store, and GeForce NOW on the same day, likely bringing a fresh wave of PC players seeking optimized peripheral setups.
+The Porsche collaboration event will run concurrently, offering the Porsche 918 Spyder and the "Perfect Partners" outfit through a dedicated collab banner. Additionally, the game will officially expand to Steam, [Epic Games](https://ntecodex.com/guides/nte-steam-vs-epic-games-gear-comparison) Store, and GeForce NOW on the same day, likely bringing a fresh wave of PC players seeking optimized peripheral setups.
 
 Looking further ahead, a massive expansion to Sunward Island will provide a rural contrast to Hethereau's neon streets, featuring new "City Tycoon" hobbies like the Fight Club. As the "Back to School" sales window approaches in late summer 2026, players can expect even deeper discounts on mid-range MMO mice, making it the perfect time to upgrade for the Anomaly Metro "Ghost Train" challenges.
 

@@ -33,7 +33,7 @@ Optimizing your combat performance in the supernatural metropolis of Hethereau r
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-06-27._
 
 
-High-intensity combat in Neverness to Everness (NTE) is built on a foundation of rapid character swapping, precise Critical Dodges, and the strategic management of elemental reactions. Whether you are pushing the limits of a Nanally carry or executing the complex, high-APM rotations required for a Camellya vs. Danjin DPS comparison in similar titles, your hardware often dictates your ceiling. When the difference between a successful Critical Riposte and a team wipe is measured in milliseconds, standard office peripherals simply won't suffice.
+High-intensity combat in Neverness to Everness (NTE) is built on a foundation of rapid character swapping, precise Critical Dodges, and the strategic management of elemental reactions. Whether you are pushing the limits of a Nanally carry or executing the complex, high-APM rotations required for a Camellya vs. Danjin [DPS comparison](https://ntecodex.com/guides/hsr-3-5-vs-3-4-dps-comparison-gear-guide) in similar titles, your hardware often dictates your ceiling. When the difference between a successful Critical Riposte and a team wipe is measured in milliseconds, standard office peripherals simply won't suffice.
 
 The following guide breaks down the essential gear needed to maintain peak performance during 4+ hour grinding sessions in the neon-lit streets of Helios City.
 

@@ -129,7 +129,7 @@ To keep up with the demand for Sealed Tubes and Tuners, you must engage with spe
 1. **Tacet Fields:** These are the primary source of Echo materials. For 60 Waveplates, you receive a bundle of Sealed Tubes, Tuners, and random Echoes from specific sets. This is the most efficient way to spend your stamina once your Resonators are ascended.
 2. **The Guidebook (Milestones):** Completing Guidebook tasks and Data Bank level rewards provides a significant initial influx of Premium materials.
 3. **Shops:** The Souvenir Shop in Jinzhou, the Item Exchange (using Oscillated Coral), and the Hazard Record store all sell Sealed Tubes and Tuners.
-4. **Events:** Wuthering Waves frequently runs limited-time events that offer "Echo Starter Kits" containing high-tier Sealed Tubes.
+4. **Events:** [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) frequently runs limited-time events that offer "Echo Starter Kits" containing high-tier Sealed Tubes.
 
 ### Resource Management: When to Stop Leveling Purple Echoes
 A common mistake is taking Purple (4-star) Echoes to level 20. While they are useful during the mid-game, the resources spent on them are better saved for Gold Echoes. As a rule of thumb, only level Purple Echoes to 10 or 15 to get through the main story and early Union Level challenges. Once you hit Data Bank level 15, pivot all resources to Gold Echoes.

@@ -55,7 +55,7 @@ Our selection criteria focused on "marathon durability"—products with warranti
 ![What a 3.0 progression grinder actually needs](/img/zzz-3-0-progression-gear-comparison/inline-2.webp)
 
 
-The shift in **zzz 3.0 vs 2.0 progression changes** isn't just about new characters like Velina or Norma; it’s about a fundamental change in how players interact with the game world. In 2.0, progression was largely linear, but 3.0 introduces complex systems like the Drive Disc smart discard function and the Singularity Leakage mechanic, which demand more time spent in menus and reactive combat.
+The shift in **[zzz 3](https://ntecodex.com/faq).0 vs 2.0 progression changes** isn't just about new characters like Velina or Norma; it’s about a fundamental change in how players interact with the game world. In 2.0, progression was largely linear, but 3.0 introduces complex systems like the Drive Disc smart discard function and the Singularity Leakage mechanic, which demand more time spent in menus and reactive combat.
 
 *   **Dynamic Lumbar Support:** As sessions stretch past 4 hours, static cushions fail. You need active support that moves with your spine, especially when tackling the Annihilation Simulacrum which prioritizes player skill over raw pulling power.
 *   **High-DPI UI Navigation:** Modern gacha progression involves thousands of menu clicks. In NTE, the City Tycoon system and character management for S-Rank units like Nanally or A-Rank characters like Mint require constant adjustments to the Arc System and Console System. A high-precision sensor reduces the physical distance your wrist must travel during these management phases.
