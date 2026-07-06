@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Sanhua remains one of the most efficient Sub-DPS units in Wuthering Waves due to her rapid Concerto generation and powerful Basic Attack DMG buffs. To maximize her utility, choosing the right Echo set is vital for balancing her personal Glacio damage with her role as a premier team support.
+Sanhua remains one of the most efficient Sub-DPS units in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) due to her rapid Concerto generation and powerful Basic Attack DMG buffs. To maximize her utility, choosing the right Echo set is vital for balancing her personal Glacio damage with her role as a premier team support.
 
 # Best Sanhua Echo Set in Wuthering Waves (WuWa) Guide
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._
