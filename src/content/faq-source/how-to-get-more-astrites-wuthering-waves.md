@@ -180,7 +180,7 @@ To manage your currency effectively, always keep a "reserve" of at least 12,800 
 ## Sources
 
 - [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) Official Site — https://wutheringwaves.kurogames.com/en/
-- Prydwen Institute Wuthering Waves — https://www.prydwen.gg/wuthering-waves/
+- Prydwen Institute [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) — https://www.prydwen.gg/wuthering-waves/
 - Wuthering Waves Wiki — https://wuthering.wiki/
 - Game8 Wuthering Waves Guide — https://game8.co/games/Wuthering-Waves
 - Eurogamer Wuthering Waves Currency Guide

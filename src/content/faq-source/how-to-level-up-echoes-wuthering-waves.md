@@ -174,7 +174,7 @@ By following these guidelines and managing your Sealed Tubes carefully, you will
 
 ## Sources
 - Eurogamer
-- Wuthering Waves Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Echo_Development_Material
+- [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) Wiki (Fandom) — https://wutheringwaves.fandom.com/wiki/Echo_Development_Material
 - Prydwen Institute
 - Game8 — https://game8.co/games/Wuthering-Waves/archives/454653
 - Sportskeeda — https://www.sportskeeda.com/esports/wuthering-waves-echo-upgrade-material-guide-sealed-tube-farming

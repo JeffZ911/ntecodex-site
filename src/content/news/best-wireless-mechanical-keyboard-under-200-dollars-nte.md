@@ -51,7 +51,7 @@ Simultaneously, Perfect World Games launched a high-profile collaboration with [
 | :--- | :--- |
 | **Update Name** | Dreamwalk Corridor |
 | **Release Date** | June 3, 2026 |
-| **New Platforms** | Steam, Epic Games Store, GeForce Now, PlayStation 5 |
+| **New Platforms** | Steam, [Epic Games](https://ntecodex.com/guides/nte-steam-vs-epic-games-gear-comparison) Store, GeForce Now, PlayStation 5 |
 | **New S-Rank Character** | Lacrimosa |
 | **New Element Type** | Chaos |
 | **Collaboration** | Porsche (918 Spyder) |

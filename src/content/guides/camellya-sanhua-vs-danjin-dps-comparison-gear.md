@@ -89,7 +89,7 @@ The current market offers a wide range of "gaming" gear, but for the specific ne
 
 While premium gear provides a competitive edge, it isn't always necessary for every player.
 
-*   **Incremental Refresh Rates:** If you already own a 144Hz IPS monitor, the jump to 180Hz is subtle. Unless you are performing professional-level frame-counting for a Camellya vs. Danjin DPS comparison, the $400 investment might be better spent elsewhere.
+*   **Incremental Refresh Rates:** If you already own a 144Hz IPS monitor, the jump to 180Hz is subtle. Unless you are performing professional-level frame-counting for a Camellya vs. Danjin [DPS comparison](https://ntecodex.com/guides/hsr-3-5-vs-3-4-dps-comparison-gear-guide), the $400 investment might be better spent elsewhere.
 *   **Sensor Saturation:** If your current mouse features a high-end sensor like the [Focus+](https://www.razer.com/gaming-mice/razer-naga-v2-pro) or Hero 25K, you likely won't notice a difference in tracking accuracy. The main reason to buy the Naga V2 Pro is the button layout, not the raw sensor specs.
 *   **Controller Players:** Neverness to Everness features full [cross-platform support](https://www.reddit.com/r/NevernessToEverness/comments/1f1v4m8/nte_neverness_to_everness_officially_releases_on/) including PlayStation 5. If you prefer playing with a DualSense or Xbox controller, a premium mechanical keyboard will offer zero benefits to your actual combat rotations.
 
