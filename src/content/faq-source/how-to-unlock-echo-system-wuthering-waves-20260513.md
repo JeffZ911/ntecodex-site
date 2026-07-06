@@ -82,7 +82,7 @@ To reach the unlock point, follow these steps:
 Once this interaction finishes, the Echo tab in your menu becomes accessible, and you can begin equipping these creatures to your Resonators.
 
 ### Mastering the Data Bank Leveling System
-Your Data Bank level is the most important number in Wuthering Waves regarding Echoes. It dictates the maximum rarity of Echoes you can find and your base drop rate. You increase this level by collecting unique Echoes and finding higher-rarity versions of Echoes you already own.
+Your Data Bank level is the most important number in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) regarding Echoes. It dictates the maximum rarity of Echoes you can find and your base drop rate. You increase this level by collecting unique Echoes and finding higher-rarity versions of Echoes you already own.
 
 | Data Bank Level | Max Rarity Unlock | Max Echo Cost | Notable Milestone |
 | :--- | :--- | :--- | :--- |
