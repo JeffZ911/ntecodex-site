@@ -48,7 +48,7 @@ The Secretlab TITAN Evo 2022 is the best overall choice for long-session comfort
 
 To select the best gear for the transition between ZZZ 2.0 and the 3.0 update, we analyzed ergonomic data from RTINGS and the r/ergonomics community to identify gear that prevents repetitive strain injuries (RSI) during high-APM (actions per minute) sessions. In version 3.0, the introduction of the Annihilation Simulacrum mode has shifted the focus from simple stat-checking to high-skill, long-duration combat encounters, making physical endurance a critical factor.
 
-Our selection criteria focused on "marathon durability"—products with warranties of at least 2 years (or 12 for premium picks like Herman Miller). We prioritized multi-functional gear that adapts to the changing UI demands of ZZZ version 2.0 vs 3.0. For instance, the transition to the floating city of Roscaelifer in ZZZ 3.0 introduced the Universal Terminal Access system, which requires more frequent and precise mouse movements than the previous 2.0 menu layouts.
+Our selection criteria focused on "marathon durability"—products with warranties of at least 2 years (or 12 for premium picks like Herman Miller). We prioritized multi-functional gear that adapts to the changing UI demands of ZZZ version 2.0 vs 3.0. For instance, the transition to the floating city of Roscaelifer in [ZZZ 3](https://ntecodex.com/faq).0 introduced the Universal Terminal Access system, which requires more frequent and precise mouse movements than the previous 2.0 menu layouts.
 
 ## What a 3.0 progression grinder actually needs
 
