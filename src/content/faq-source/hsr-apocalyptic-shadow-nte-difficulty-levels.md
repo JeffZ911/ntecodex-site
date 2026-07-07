@@ -123,7 +123,7 @@ Each Stop in Beyond the Rails offers 3 Platform Seals based on specific objectiv
 Mastering high-difficulty content in NTE requires more than just high levels; it requires team synergy. For Prime Circle Stage 10, the "Hypercarry" meta currently revolves around Nanally, whose Ichi-daime's Authority skill provides a massive crit damage boost.
 
 ### Endgame Team Building for High Difficulty
-To tackle the Level 90+ difficulty spike in the Uncharted Circle, players often pair Lacrimosa with Hotori. Hotori’s time-stop mechanics allow for safe damage windows against aggressive bosses like Mammon. F2P players can find success using Chiz, an S-Class character obtainable for free at City Tycoon Level 18. Chiz can even solo certain stages like the Terminal Station if given the Lone Hero Power-up.
+To tackle the Level 90+ difficulty spike in the Uncharted Circle, players often pair Lacrimosa with Hotori. Hotori’s time-stop mechanics allow for safe damage windows against aggressive bosses like Mammon. F2P players can find success using Chiz, an S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) obtainable for free at City Tycoon Level 18. Chiz can even solo certain stages like the Terminal Station if given the Lone Hero Power-up.
 
 ### Farming Rewards: Annulith and Beetle Coins
 Annulith is the lifeblood of the NTE gacha system, used to pull on limited banners like Misty Tipsy Style. Beyond the Rails provides the most consistent source of this currency. Additionally, the Beetle Coins earned from these clears are essential for purchasing Oracle Stones at the Witch's House, which increases your maximum stamina for more efficient farming.

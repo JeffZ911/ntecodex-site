@@ -114,7 +114,7 @@ To maximize a DPS build, fitting your Modules into the Console is a puzzle that 
 | Gear Piece | Recommended Main Stat | Priority Substats |
 | :--- | :--- | :--- |
 | **Cartridge** | Elemental DMG % (Anima/Cosmos/Chaos) | CRIT Rate, CRIT DMG, ATK%, Flat ATK |
-| **Modules** | Flat ATK / Flat HP (Fixed) | CRIT Rate, CRIT DMG, ATK%, Energy Regen |
+| **Modules** | Flat ATK / Flat HP (Fixed) | CRIT Rate, CRIT DMG, ATK%, [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) |
 
 ### When to Start Farming 5-Star Disks
 

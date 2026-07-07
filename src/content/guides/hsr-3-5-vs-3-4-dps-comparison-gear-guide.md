@@ -38,7 +38,7 @@ If you are spending hours comparing the massive powercreep shifts in recent patc
 
 The LG 27GP850-B is the top pick for its 1440p clarity when reading stat charts, while the Secretlab TITAN Evo 2022 provides the necessary lumbar support for multi-hour testing sessions.
 
-Deep-dive data analysis in modern gacha games requires more than just a sharp mind; it requires a physical setup that can handle the endurance of "spreadsheet gaming." Whether you are calculating the damage ceiling of the Nanally limited banner in the newly released Neverness to Everness (NTE) or debating the efficiency of the latest HSR 3.5 units compared to the 3.4 meta, your monitor, mouse, and chair are the tools of your trade. With the global launch of NTE on April 29, 2026, bringing complex systems like Arcs and Cartridges, the need for an analytical-grade setup has never been higher.
+Deep-dive data analysis in modern gacha games requires more than just a sharp mind; it requires a physical setup that can handle the endurance of "spreadsheet gaming." Whether you are calculating the damage ceiling of the Nanally limited banner in the newly released Neverness to Everness (NTE) or debating the efficiency of the latest [HSR 3](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).5 units compared to the 3.4 meta, your monitor, mouse, and chair are the tools of your trade. With the global launch of NTE on April 29, 2026, bringing complex systems like Arcs and Cartridges, the need for an analytical-grade setup has never been higher.
 
 ## How we picked these gear upgrades
 

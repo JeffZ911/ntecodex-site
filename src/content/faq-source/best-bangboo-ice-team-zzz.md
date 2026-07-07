@@ -54,7 +54,7 @@ The current gold standard for Ice teams consists of Ellen Joe (Attack), Von Lyca
 The definitive choice for an Ice team depends on whether you prioritize raw elemental damage or resource management.
 
 *   **Sharkboo (S-Rank)** is the definitive best choice for pure Ice DMG and Anomaly buildup. It is designed specifically to work with Ice Agents, providing a massive boost to Freeze application.
-*   **Butler (S-Rank)** is the superior choice for Victoria Housekeeping-focused teams (Ellen/Lycaon) that prioritize Energy Regen. It allows your Agents to use their EX Special Attacks more frequently, which is vital for maintaining Ellen’s Flash Freeze stacks.
+*   **Butler (S-Rank)** is the superior choice for Victoria Housekeeping-focused teams (Ellen/Lycaon) that prioritize [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707). It allows your Agents to use their EX Special Attacks more frequently, which is vital for maintaining Ellen’s Flash Freeze stacks.
 *   **Penguinboo (A-Rank)** is the best budget/F2P alternative for any Ice team. It provides respectable Ice DMG and Anomaly buildup without requiring the rare Bangboo Coupons needed for S-Ranks.
 
 **Quick Summary: Sharkboo vs. Butler vs. Penguinboo**

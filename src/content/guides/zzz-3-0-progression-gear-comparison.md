@@ -79,7 +79,7 @@ The LG Ultrawide monitor provides a significant efficiency boost over standard 1
 
 If you currently use an ergonomic office chair, such as a high-end Steelcase model, and feel no pain after 4 hours, a "gaming" chair is a side-grade rather than a true upgrade. The ergonomics of a dedicated office chair often surpass mid-range gaming seats in terms of long-term thoracic health.
 
-If you play primarily on a controller, the Razer Naga's macro buttons will provide zero benefit to your 3.0 progression speed. ZZZ 3.0's combat updates feel excellent on a gamepad, and the extra side buttons of an MMO mouse are redundant for that playstyle. 
+If you play primarily on a controller, the Razer Naga's macro buttons will provide zero benefit to your 3.0 progression speed. [ZZZ 3](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).0's combat updates feel excellent on a gamepad, and the extra side buttons of an MMO mouse are redundant for that playstyle. 
 
 Don't upgrade your monitor if your current GPU cannot maintain at least 60 FPS at 1440p. Version 3.0 of ZZZ added Ray Tracing and DLSS support, which significantly increases the hardware overhead. If your system is already struggling, the increased resolution of an ultrawide will only make the game feel sluggish, negating the benefits of the 160Hz refresh rate.
 

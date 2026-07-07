@@ -129,7 +129,7 @@ No, [Nova damage](https://ntecodex.com/faq) is a fixed Cognito burst that cannot
 You can refresh the Nova mark, but the detonation has a fixed 5-second internal timer. If you apply Chaos and Psyche again while a mark is already ticking, it will typically refresh the duration or queue a second burst depending on the specific Esper's Resonance Skill properties, but they will not detonate simultaneously.
 
 ### Which character should I build Cycle Intensity on in a Nova team?
-You should build Cycle Intensity on the character who is most likely to be the "trigger" (the one applying the second element). In a Daffodil and Haniel team, Haniel is usually the trigger, so stacking Cycle Intensity on her will ensure the Nova burst uses her higher stat for the damage calculation.
+You should build Cycle Intensity on the character who is most likely to be the "trigger" (the one applying the second element). In a Daffodil and Haniel team, Haniel is usually the trigger, so stacking Cycle Intensity on her will ensure the Nova burst uses her higher stat for the [damage calculation](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 ### Does Mental Damage bonus affect the Nova burst?
 No, even though Nova is classified as Mental damage, it is considered "[Reaction Damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide)" which follows a separate calculation path. Traditional [Mental DMG %](https://www.reddit.com/r/NevernessToEverness/comments/nova_scaling_explained/) bonuses from Arcs or Cartridges only affect the direct hits of your skills, not the resulting Nova explosion.

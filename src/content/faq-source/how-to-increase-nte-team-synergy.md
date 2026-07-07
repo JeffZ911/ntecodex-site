@@ -59,7 +59,7 @@ Advanced synergy involves chaining these elements to trigger **Trio Reactions**.
 
 | Reaction Name | Elements Required | Primary Combat Effect |
 | :--- | :--- | :--- |
-| **Remora** | Cosmos + Anima | Increases Break damage and slows enemy movement. |
+| **Remora** | Cosmos + Anima | Increases [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) and slows enemy movement. |
 | **Blossom** | Anima + Lakshana | High AOE damage and provides a team-wide heal-over-time. |
 | **Hexed** | Lakshana + Incantation | Reduces enemy Defense and Resistance for [information unavailable] seconds. |
 | **Scorch** | Incantation + Chaos | Applies a heavy Burn DOT (Damage Over Time) to single targets. |

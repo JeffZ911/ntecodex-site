@@ -40,7 +40,7 @@ Sanhua is a 4-star Glacio Resonator who excels at quick-swap rotations, making h
 
 ### Understanding Sanhua's Role in the Meta
 
-Sanhua occupies a unique niche in the Wuthering Waves meta. She is widely considered the fastest Concerto Energy generator in the game. By utilizing her Resonance Skill, Resonance Liberation, and Forte Circuit (detonating Ice Prisms and Thorns with a timed Heavy Attack), she can fill her Concerto bar in roughly 4 to 6 seconds. 
+Sanhua occupies a unique niche in the [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) meta. She is widely considered the fastest Concerto Energy generator in the game. By utilizing her Resonance Skill, Resonance Liberation, and Forte Circuit (detonating Ice Prisms and Thorns with a timed Heavy Attack), she can fill her Concerto bar in roughly 4 to 6 seconds. 
 
 Her Outro Skill, "Silavher," provides a 38% Basic Attack DMG Deepen buff to the next Resonator for 14 seconds. This makes her the indispensable partner for "Main Carry" characters who deal the bulk of their damage through Basic Attacks, such as Encore or Havoc Rover. Consequently, her Echo set must facilitate this high-speed rotation while ensuring she contributes meaningful damage during her brief field time.
 

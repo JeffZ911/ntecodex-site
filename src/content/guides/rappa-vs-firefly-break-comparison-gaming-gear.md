@@ -174,7 +174,7 @@ No-name "Budget" Ultrawides were also omitted. Many sub-$300 ultrawides use chea
 ## Frequently Asked Questions
 
 ### Which character is better for Breaking: Rappa or Firefly?
-In the current meta, Firefly excels at single-target and elite-boss Weakness Breaking due to her massive Break Effect scaling and Super Break damage. Rappa is often preferred for multi-wave content and Pure Fiction, as her Ninjutsu kit is designed for AoE Break efficiency.
+In the current meta, Firefly excels at single-target and elite-boss Weakness Breaking due to her massive Break Effect scaling and [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide). Rappa is often preferred for multi-wave content and Pure Fiction, as her Ninjutsu kit is designed for AoE Break efficiency.
 
 ### Does Neverness to Everness require a high-end PC?
 While the official system requirements suggest a mid-range GPU for 1080p, the urban density of Hesperia benefits greatly from high-VRAM cards and fast CPUs. To maintain a stable 60 FPS while driving through the city's neon-lit districts, an RTX 3070 or equivalent is recommended for the 2026 release.

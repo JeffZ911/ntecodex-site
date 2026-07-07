@@ -161,7 +161,7 @@ For example, the **Stellar Veil** Arc provides a significant boost to Psyche dam
 
 Every elite enemy and boss in Neverness to Everness has a white **Break Meter** located directly under their HP bar. This bar represents their stability. As long as this bar is active, the enemy takes reduced damage and is immune to most crowd-control effects.
 
-Reactions are the most effective way to deplete this bar. While **Discord** is the king of breaking stability, defensive play also contributes. A **Perfect Parry** not only fills your Esper Meter but also deals a massive chunk of "Break Damage" to the attacker. Once the Break Meter is fully depleted, the enemy enters a **Staggered** state. During this window, all elemental reactions deal significantly increased damage, making it the optimal time to unleash stored Ultimates and high-intensity Duo cycles.
+Reactions are the most effective way to deplete this bar. While **Discord** is the king of breaking stability, defensive play also contributes. A **Perfect Parry** not only fills your Esper Meter but also deals a massive chunk of "[Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" to the attacker. Once the Break Meter is fully depleted, the enemy enters a **Staggered** state. During this window, all elemental reactions deal significantly increased damage, making it the optimal time to unleash stored Ultimates and high-intensity Duo cycles.
 
 ## Sources
 
