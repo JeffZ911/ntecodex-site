@@ -81,7 +81,7 @@ The Chuppa moves between 1 and 6 spaces per roll. While the movement feels inter
 
 The pity system in NTE is divided into two distinct phases. From pull 1 to 69, you are operating on the base rates. On the Limited Board, the base S-class rate is approximately 1.87%, which is notably higher than the industry standard of 0.6% to 0.8%. 
 
-At the 70th pull, the **Board Modification** mechanic activates. This is NTE's version of soft pity. Unlike other games where the rate increases by a small percentage with every subsequent pull, NTE applies a massive, flat jump. The board layout literally changes, populating more "Journey Together" tiles and increasing the S-class drop rate to 19.59%. This means that roughly one in every five rolls after the 70th pull will result in an S-class character. If you are extremely unlucky and do not land on an S-class tile by the 89th roll, the 90th roll is mathematically forced to be the featured S-class character.
+At the 70th pull, the **Board Modification** mechanic activates. This is NTE's version of soft pity. Unlike other games where the rate increases by a small percentage with every subsequent pull, NTE applies a massive, flat jump. The board layout literally changes, populating more "Journey Together" tiles and increasing the S-class drop rate to 19.59%. This means that roughly one in every five rolls after the 70th pull will result in an S-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions). If you are extremely unlucky and do not land on an S-class tile by the 89th roll, the 90th roll is mathematically forced to be the featured S-class character.
 
 ### The "No 50/50" Rule: Why NTE is Different
 

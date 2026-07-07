@@ -124,7 +124,7 @@ The meta for healers and survival units has shifted rapidly since the April 29 l
 
 ### The Rise of Damage Redirection
 
-The May 2026 update adjusted the math behind damage calculation, slightly increasing the effectiveness of damage redirection and shielding over flat HP restoration. This change was intended to make combat feel more tactical, rewarding players for preventing damage rather than just healing through it. This patch is what propelled Fadia to the top of the S-Tier, as her redirection mechanic became the most consistent way to survive the increased aggression of "Beyond the Rails" bosses.
+The May 2026 update adjusted the math behind [damage calculation](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), slightly increasing the effectiveness of damage redirection and shielding over flat HP restoration. This change was intended to make combat feel more tactical, rewarding players for preventing damage rather than just healing through it. This patch is what propelled Fadia to the top of the S-Tier, as her redirection mechanic became the most consistent way to survive the increased aggression of "Beyond the Rails" bosses.
 
 Additionally, the discovery of Jiuyuan's A2 synergy has changed account progression for many players. Initially, players were rerolling for [Nanally](/characters/nanally-guide-nte) on "The Ichi-daime" banner for pure DPS, but the long-term value of Jiuyuan's A2 "Intel Turns Into Blades" has made her the preferred target for high-end accounts looking to optimize their sustain.
 

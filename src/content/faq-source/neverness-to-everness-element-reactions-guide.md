@@ -155,7 +155,7 @@ Beyond the basic mechanics of the Esper Wheel, high-level play involves integrat
 The type of Arc a character wields changes how they interact with their element. There are five primary Arc types:
 
 *   **Plasma:** High hit-rate, excellent for building Esper Meter quickly. Best for Psyche and Chaos characters.
-*   **Solid:** High impact, provides bonus Break damage. Synergizes well with the [Discord reaction](https://ntecodex.com/faq).
+*   **Solid:** High impact, provides bonus [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide). Synergizes well with the [Discord reaction](https://ntecodex.com/faq).
 *   **Gas:** Focuses on AoE and lingering field effects. Ideal for Anima and Cosmos characters.
 *   **Liquid:** Provides healing or lifesteal based on [reaction damage](https://ntecodex.com/guides/nte-chaos-vs-psyche-reaction-damage-gear-guide).
 *   **Synthesis:** A versatile type that can adapt its bonus based on the current Esper Cycle active on the field.

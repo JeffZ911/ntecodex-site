@@ -46,7 +46,7 @@ Understanding the combat mechanics of Neverness to Everness (NTE) requires a dee
 
 Neverness to Everness (NTE) utilizes a six-element system: **Cosmos, Anima, Incantation, Chaos, Psyche, and Lakshana.** Combat is built around the **Esper Cycle**, a mechanic where players fill an Esper Meter through active combat and then swap characters to trigger reactions.
 
-There are six primary Duo Reactions—Blossom, Hexed, Scorch, Nova, Stain, and Remora—which occur when swapping between two adjacent elements on the elemental wheel. Additionally, the game features two advanced Trio Reactions: **Charge** (for energy restoration) and **Discord** (for massive Break damage). To trigger these, you must rotate through three characters in a specific order.
+There are six primary Duo Reactions—Blossom, Hexed, Scorch, Nova, Stain, and Remora—which occur when swapping between two adjacent elements on the elemental wheel. Additionally, the game features two advanced Trio Reactions: **Charge** (for energy restoration) and **Discord** (for massive [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)). To trigger these, you must rotate through three characters in a specific order.
 
 | Element | Color Theme | Primary Identity |
 | :--- | :--- | :--- |

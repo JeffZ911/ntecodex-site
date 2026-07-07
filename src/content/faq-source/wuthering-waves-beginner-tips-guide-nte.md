@@ -60,7 +60,7 @@ Combat mastery revolves around the Esper Cycle, where you must chain elemental r
 The transition from the open-world exploration of [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) to the "supernatural urban" setting of NTE involves learning several unique systems. While Wuthering Waves focuses on Echo farming and parry-heavy combat, NTE emphasizes elemental synergy and economic scaling.
 
 ### 1. Progression: Main Story and Hunter Level
-In Neverness to Everness, your account progress is measured by your Hunter Level. Similar to the Union Level in Wuthering Waves, your Hunter Level gates your ability to ascend characters and access higher-tier Anomaly Hunts. 
+In Neverness to Everness, your account progress is measured by your Hunter Level. Similar to the Union Level in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706), your Hunter Level gates your ability to ascend characters and access higher-tier Anomaly Hunts. 
 
 The first 10 hours should be dedicated almost exclusively to the Episode Quests, specifically the "Prologue: A New Destination." Completing this arc unlocks the Eibon Antique Shop, which serves as your base of operations. By Hunter Level 10, you gain access to the Bureau of Anomaly Control (BAC) commissions. These are the primary source of character experience materials and "Fons," the game's main currency. Stalling the main story to explore Hethereau early is a common mistake that slows down your access to the Garage and Housing systems.
 

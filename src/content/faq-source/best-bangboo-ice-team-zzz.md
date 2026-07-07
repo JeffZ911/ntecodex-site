@@ -106,7 +106,7 @@ To understand the gap between these options, we can look at their performance me
 | :--- | :--- | :--- | :--- |
 | **Active Skill** | 580% Ice DMG | ~10 [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) | 350% Ice DMG |
 | **Chain Attack** | 1100% Ice DMG | 800% Physical DMG | 650% Ice DMG |
-| **Passive Bonus** | +100% Ice Anomaly | +20% Energy Regen | +80% Ice Anomaly |
+| **Passive Bonus** | +100% Ice Anomaly | +20% [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) | +80% Ice Anomaly |
 
 ### Understanding Ice Anomaly: Freeze and Shatter Mechanics
 In Zenless Zone Zero, the Ice element is unique because of its crowd-control capabilities. When you fill an enemy's Anomaly meter with Ice damage, they enter the **Freeze** state. This stops the enemy's action and prevents their Daze meter from recovering. 

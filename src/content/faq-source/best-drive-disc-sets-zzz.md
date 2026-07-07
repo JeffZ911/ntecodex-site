@@ -77,7 +77,7 @@ While Woodpecker Electro is a great generalist set, specific elemental sets ofte
 
 ### Support & Utility: Swing Jazz and Proto Punk
 
-Supports in Zenless Zone Zero are defined by their ability to fuel the team's Energy and enhance damage windows. **Swing Jazz** is the premier choice here. Its 2-piece bonus provides a 20% Energy Regen increase, which is vital for keeping EX Special Attacks available. The 4-piece bonus grants a 15% DMG buff to the entire squad for 12 seconds after the equipper launches a Chain Attack or Ultimate.
+Supports in Zenless Zone Zero are defined by their ability to fuel the team's Energy and enhance damage windows. **Swing Jazz** is the premier choice here. Its 2-piece bonus provides a 20% [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) increase, which is vital for keeping EX Special Attacks available. The 4-piece bonus grants a 15% DMG buff to the entire squad for 12 seconds after the equipper launches a Chain Attack or Ultimate.
 
 For more defensive-oriented supports or those who provide shields (like Caesar or Seth), **Proto Punk** has become a high-tier alternative. The 2-piece bonus increases Shield effect by 15%, while the 4-piece bonus grants the entire squad a 15% DMG increase for 10 seconds whenever any member triggers a Defensive Assist or Evasive Assist. This allows for high buff uptime without relying solely on Ultimates.
 

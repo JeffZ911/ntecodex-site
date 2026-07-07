@@ -160,7 +160,7 @@ The current recommended pull is Nanally from the "The Ichi-daime" limited banner
 Arcs and Cartridges are the primary gear systems used to customize character stats and abilities. Arcs come in different states like Solid, Liquid, and Gas, and choosing the right compatibility is essential for maximizing a character's damage output in the Reverse Domain.
 
 ### Is the LG 27GP850-B good for reading spreadsheets?
-Yes, the 1440p resolution on a 27-inch screen provides a high pixel density that makes small text in spreadsheets much sharper than a standard 1080p monitor. This is particularly helpful for players comparing HSR 3.5 vs 3.4 DPS charts side-by-side.
+Yes, the 1440p resolution on a 27-inch screen provides a high pixel density that makes small text in spreadsheets much sharper than a standard 1080p monitor. This is particularly helpful for players comparing [HSR 3](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).5 vs 3.4 DPS charts side-by-side.
 
 ## Sources
 
