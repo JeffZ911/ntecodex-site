@@ -69,7 +69,7 @@ The current Version 1.0 meta for Neverness to Everness prioritizes Arcs and Cart
 | [Name pending] | Crit DMG | Grants a DMG% bonus based on the distance traveled during combat. |
 | [Name pending] | Elemental DMG | Shreds enemy Resistance by a fixed percentage upon triggering an Esper Reaction. |
 | [Name pending] | ATK% | Increases ATK speed and reduces Esper Skill cooldowns on hit. |
-| [Name pending] | Energy Regen | Converts excess Energy into a flat DMG bonus for the Ultimate ability. |
+| [Name pending] | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) | Converts excess Energy into a flat DMG bonus for the Ultimate ability. |
 
 ### Must-Have Cartridge Sets for Damage
 

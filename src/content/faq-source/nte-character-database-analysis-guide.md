@@ -123,7 +123,7 @@ Archetypes (Solid, Liquid, Gas, Plasma, Synthesis) determine which Arcs (weapons
 The "Scarborough Fair" gacha system is a departure from traditional pull-based mechanics. Players spend Solid Dice (limited) or Fabricated Dice (standard) to move a piece across a board. Rewards are determined by the tile the piece lands on.
 
 Key features include:
-*   **90-Pull Pity:** You are guaranteed the featured S-Class character by the 90th roll.
+*   **90-Pull Pity:** You are guaranteed the featured S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) by the 90th roll.
 *   **No 50/50:** If you land on an S-Class character tile on a limited banner, it is guaranteed to be the featured unit.
 *   **Board Modification:** After 70 rolls without an S-Class, the board transforms, turning several tiles into S-Class character tiles, significantly increasing your chances of a "soft pity" win.
 *   **Pity Carry-over:** Progress toward the 90-pull guarantee carries over between limited banners (e.g., from Nanally to Hotori).

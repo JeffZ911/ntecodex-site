@@ -131,7 +131,7 @@ As shown, the passive scaling on a fully synced A-Rank weapon often compensates 
 | :--- | :--- | :--- | :--- | :--- |
 | **Day Off** | 570 | Break Int. | Increases Energy on Dodge | MC Zero |
 | **Raging Flames** | 555 | Pyro DMG | Stacks Burn on Hit | Nanally / Hathor |
-| **Contemplative Cat** | 510 | Energy Regen | Reduces Buff Cooldowns | Chiz |
+| **Contemplative Cat** | 510 | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) | Reduces Buff Cooldowns | Chiz |
 | **Youthful Fantasy** | 580 | Crit DMG | Boosts Skill DMG by [info unavailable] | Mint |
 | **Good Boy's Grand Adv.** | 565 | HP% | Converts HP to ATK | Adler |
 | **Swallowtail's Sting** | 540 | Pierce | Resets Skill on Kill | [Sakiri](/characters/sakiri-nte-free-5-star-guide) |

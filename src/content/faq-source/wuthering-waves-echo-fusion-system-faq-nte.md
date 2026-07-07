@@ -36,7 +36,7 @@ Neverness to Everness (NTE) does not use the [Wuthering Waves](https://ntecodex.
 *Related: [Aurelia Nova vs Lacrimosa NTE: Best Gaming Gear for Neverness to Evern](/guides/aurelia-nova-vs-lacrimosa-nte-comparison-20260614-225f) · [Best Ergonomic Gear for Players Grinding NTE v1.1 Street and Circuit R](/guides/best-gear-for-nte-v1-1-racing-mechanics) · [Best High-End Audio Gear for 10-Hour JRPG and Gacha Grinding Sessions](/guides/lacrimosa-vs-alice-nte-comparison-20260614)*
 
 
-When players search for a **wuthering [waves echo fusion](https://ntecodex.com/faq) [system faq](https://ntecodex.com/faq)** in the context of Neverness to Everness, they are typically looking for how to manage their "monsters" or gear sets. In *Wuthering Waves*, the Echo system allows players to capture defeated enemies and fuse them to improve stats or reroll attributes. Because NTE also features supernatural entities known as Anomalies, it is natural for new players to assume a similar fusion mechanic exists.
+When players search for a **wuthering [waves echo fusion](https://ntecodex.com/faq) [system faq](https://ntecodex.com/faq)** in the context of Neverness to Everness, they are typically looking for how to manage their "monsters" or gear sets. In *[Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706)*, the Echo system allows players to capture defeated enemies and fuse them to improve stats or reroll attributes. Because NTE also features supernatural entities known as Anomalies, it is natural for new players to assume a similar fusion mechanic exists.
 
 ### Understanding the Echo Fusion Query in NTE
 

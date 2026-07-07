@@ -66,7 +66,7 @@ The "Blossom" team is the gold standard for new players. Zero acts as the primar
 
 ### The Best F2P Boss-Killer Team
 
-Bosses in NTE often possess "Iron Skin" buffs that reduce incoming damage until their Break bar is depleted. The combination of **Adler** (Incantation) and **Daffodil** (Chaos) triggers the **Discord** reaction. Unlike Blossom, which focuses on damage over time, Discord applies a massive [information unavailable]% increase to Break damage for a short duration. By using Haniel’s Psyche-buffing Ultimate, players can cycle through Adler’s shields and Daffodil’s heavy strikes to stun bosses rapidly.
+Bosses in NTE often possess "Iron Skin" buffs that reduce incoming damage until their Break bar is depleted. The combination of **Adler** (Incantation) and **Daffodil** (Chaos) triggers the **Discord** reaction. Unlike Blossom, which focuses on damage over time, Discord applies a massive [information unavailable]% increase to [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) for a short duration. By using Haniel’s Psyche-buffing Ultimate, players can cycle through Adler’s shields and Daffodil’s heavy strikes to stun bosses rapidly.
 
 ## Detailed Explanation
 

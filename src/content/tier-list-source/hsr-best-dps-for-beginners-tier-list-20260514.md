@@ -66,7 +66,7 @@ We evaluate how well a DPS works with free or easily obtainable supports. While 
 | :--- | :--- | :--- | :--- |
 | **The Herta** | Erudition / Ice | Interpretation Stacks | Eternal Calculus |
 | **Phainon** | Destruction / Remembrance | Coreflame Transformation | — |
-| **Firefly** | Destruction / Fire | Super Break / Weakness Implant | On the Fall of an Aeon |
+| **Firefly** | Destruction / Fire | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / Weakness Implant | On the Fall of an Aeon |
 | **Acheron** | Nihility / Lightning | Slashed Dream Stacks | Boundless Choreo |
 | **Silver Wolf LV. 999** | Elation / Imaginary | Hidden MMR / Godmode | — |
 

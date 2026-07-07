@@ -61,7 +61,7 @@ The board contains tiles for Arcs (weapons), upgrade materials, and character sh
 | Pity Type | Pull Count | Guarantee |
 | :--- | :--- | :--- |
 | Soft Pity | 70 | Significant increase in S-Class drop rate |
-| Hard Pity | 90 | Guaranteed S-Class Character |
+| Hard Pity | 90 | Guaranteed S-[Class Character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) |
 | 50/50 Mechanic | N/A | None (Featured S-Class is 100% guaranteed at Hard Pity) |
 
 Because there is no 50/50 chance to lose the featured unit, players can plan their Solid Dice expenditure with 100% certainty. The "No 50/50" rule makes NTE one of the most player-friendly gacha systems currently on the market, as 90 pulls will always yield the specific character advertised on the limited banner.

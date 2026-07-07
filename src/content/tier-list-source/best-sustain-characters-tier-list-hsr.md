@@ -134,7 +134,7 @@ The introduction of the undisclosed Path and the "Memosprite" mechanic has chang
 
 ### The Break Meta Evolution
 
-Version 2.5 marked a turning point with the release of Lingsha. Before her, Gallagher was the only sustain unit that truly synergized with the "Super Break" mechanic. Lingsha’s release proved that sustain units could contribute 20-30% of the team's total damage in Break-centric teams while maintaining perfect survival.
+Version 2.5 marked a turning point with the release of Lingsha. Before her, Gallagher was the only sustain unit that truly synergized with the "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" mechanic. Lingsha’s release proved that sustain units could contribute 20-30% of the team's total damage in Break-centric teams while maintaining perfect survival.
 
 ### Timeline of Sustain Releases
 *   **v1.0 - v1.1:** Natasha, Bailu, Gepard, and Luocha (The "Pure Healing" Era).

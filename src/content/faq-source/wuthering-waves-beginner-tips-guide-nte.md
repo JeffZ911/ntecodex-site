@@ -93,7 +93,7 @@ City Tycoon is the management layer of NTE. It allows you to buy properties, man
 At Level 16, you unlock a passive that increases both the cost and the rewards of City Stamina activities by 100%. This is a massive time-saver for busy players, allowing you to burn through your weekly stamina in half the time while receiving double the Fons and upgrade materials. Do not spend your Fons on luxury car liveries or high-end furniture until you have reached this level and secured your primary combat team's Arcs.
 
 ### 4. Traversal: Vehicle Summoning and Customization
-While Wuthering Waves uses wall-running and grappling hooks, NTE relies on vehicles. However, not all vehicles are created equal. Early-game cars like the C2000 are restricted to paved roads; you cannot summon them if you are standing on grass or a sidewalk.
+While [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) uses wall-running and grappling hooks, NTE relies on vehicles. However, not all vehicles are created equal. Early-game cars like the C2000 are restricted to paved roads; you cannot summon them if you are standing on grass or a sidewalk.
 
 The **Novis ST-X 950 motorcycle** is the "meta" choice for beginners. Priced at 250,000 Fons at the Regalia Dealership in the New Herland district, it is the first vehicle you can acquire that supports off-road summoning. This allows you to cut across parks and alleys to reach objectives faster.
 

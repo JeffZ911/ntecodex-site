@@ -110,7 +110,7 @@ The highest level of elemental play involves the Triple Cycle, or Trio Reaction.
 **Trio Reaction (Triple Cycle) Mechanics**
 
 *   **The Top Trio (Charged):** Triggered by cycling through Lakshana, Cosmos, and Anima. Completing this cycle grants the "Charged" status to the entire team. Charged significantly increases the Cycle Rate (meter gain) for 15 seconds, allowing for much faster rotations.
-*   **The Bottom Trio (Discord):** Triggered by cycling through Incantation, Chaos, and Psyche. Completing this cycle triggers "Discord." This is a massive burst of Mental and Break damage that can instantly shatter the shields of elite enemies and bosses in Hethereau.
+*   **The Bottom Trio (Discord):** Triggered by cycling through Incantation, Chaos, and Psyche. Completing this cycle triggers "Discord." This is a massive burst of Mental and [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) that can instantly shatter the shields of elite enemies and bosses in Hethereau.
 
 ### Key Stats: Cycle Rate vs. Cycle Intensity
 
