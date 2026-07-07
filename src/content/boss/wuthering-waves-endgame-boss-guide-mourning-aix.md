@@ -153,7 +153,7 @@ Shorekeeper has become a cornerstone of endgame boss guides because her kit spec
 | Role | Recommended Echo Set | Primary Stat Priority |
 | :--- | :--- | :--- |
 | Main DPS | Sun-sinking Eclipse (Havoc) or Freezing Frost (Glacio) | Crit Rate / Crit DMG |
-| Sub-DPS | Moonlit Clouds | Energy Regen / ATK% |
+| Sub-DPS | Moonlit Clouds | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) / ATK% |
 | Support | Rejuvenating Glow | HP% / Healing Bonus |
 
 ## Loot

@@ -63,7 +63,7 @@ This guide provides a comprehensive breakdown of these systems to ensure your ar
 ![Direct Answer](/img/neverness-to-everness-weapon-guide/inline-2.webp)
 
 
-Weapons in Neverness to Everness are officially known as **Arcs**. These are equippable disks categorized into five distinct types: **Plasma, Solid, Gas, Liquid, and Synthesis**. Each Esper is compatible with only one of these types, meaning you must match the Arc type to the character's class to equip it. Arcs provide three layers of power: a base ATK stat that scales with level, a secondary substat (such as CRIT Rate, ATK%, or Break Intensity), and a unique passive known as an **Arc Skill**.
+Weapons in Neverness to Everness are officially known as **Arcs**. These are equippable disks categorized into five distinct types: **Plasma, Solid, Gas, Liquid, and Synthesis**. Each Esper is compatible with only one of these types, meaning you must match the Arc type to the character'[s class](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) to equip it. Arcs provide three layers of power: a base ATK stat that scales with level, a secondary substat (such as CRIT Rate, ATK%, or Break Intensity), and a unique passive known as an **Arc Skill**.
 
 The primary method for obtaining high-tier weapons is through the **Arc Research Program** (the weapon gacha), which utilizes a currency called **Tri-Keys**. This system features a generous pity mechanic: an S-Rank Arc is guaranteed within **60 pulls**, and the featured limited-time signature weapon is guaranteed by the **80th pull**.
 

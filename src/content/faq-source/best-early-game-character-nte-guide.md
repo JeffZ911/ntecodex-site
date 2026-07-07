@@ -149,7 +149,7 @@ Character synergy often outweighs individual power. For example, a team of Nanal
 
 ### Further Reading for NTE Beginners
 
-If you are looking to optimize your account beyond character selection, understanding the weapon system is the next step. Arcs (the game's weapons) provide the massive stat boosts needed for late-game content. Players should focus on obtaining Arcs that complement their character's primary element; for instance, Nanally benefits immensely from Arcs that increase Scorch damage or Underboss attack speed.
+If you are looking to optimize your account beyond [character selection](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions), understanding the weapon system is the next step. Arcs (the game's weapons) provide the massive stat boosts needed for late-game content. Players should focus on obtaining Arcs that complement their character's primary element; for instance, Nanally benefits immensely from Arcs that increase Scorch damage or Underboss attack speed.
 
 For those who are unhappy with their initial pulls, a reroll guide can help you secure Nanally or Sakiri within the first 30 minutes of gameplay. This usually involves playing until the first 10-pull is unlocked and resetting the account if an S-Rank is not obtained.
 

@@ -55,7 +55,7 @@ A high-synergy team typically balances four specific roles:
 *   **Buffer/Support:** A character dedicated to filling the Cycle Meter or enhancing team stats.
 *   **Sustainer:** A healer or shielder who ensures the team survives high-intensity anomaly encounters.
 
-Advanced synergy involves chaining these elements to trigger **Trio Reactions**. Chaining three specific elements from the "Upper Trio" (Cosmos, Anima, Lakshana) triggers **Charge**, which boosts attack speed and energy gain. Chaining the "Lower Trio" (Incantation, Chaos, Psyche) triggers **Discord**, which deals massive AOE damage and increases the target's vulnerability to Break damage.
+Advanced synergy involves chaining these elements to trigger **Trio Reactions**. Chaining three specific elements from the "Upper Trio" (Cosmos, Anima, Lakshana) triggers **Charge**, which boosts attack speed and energy gain. Chaining the "Lower Trio" (Incantation, Chaos, Psyche) triggers **Discord**, which deals massive AOE damage and increases the target's vulnerability to [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 | Reaction Name | Elements Required | Primary Combat Effect |
 | :--- | :--- | :--- |

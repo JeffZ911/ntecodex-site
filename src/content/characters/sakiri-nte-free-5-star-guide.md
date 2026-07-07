@@ -159,7 +159,7 @@ Choosing Sakiri from your selector is a decision based on long-term account heal
 ### Why Sakiri is the "Must-Pick"
 Sakiri's long-term value as a buffer makes her the most efficient pick for F2P players. In gacha games, DPS units are frequently power-crept, but universal supports with unique mechanics (like devouring enemies and pinning bosses) often remain top-tier for years. 
 
-To maximize your roster, you should wait to use your selector until after you have exhausted your initial 169 free standard pulls. If you happen to pull Sakiri naturally, you can use the selector to obtain her first awakening (which further boosts her energy regen) or pick up Daffodil to complete your Scorch team. Additionally, you can eventually obtain a second free S-class selector through the **City Tycoon management mode** by reaching Tycoon Level 30, allowing you to fill any remaining gaps in your elemental coverage.
+To maximize your roster, you should wait to use your selector until after you have exhausted your initial 169 free standard pulls. If you happen to pull Sakiri naturally, you can use the selector to obtain her first awakening (which further boosts her [energy regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707)) or pick up Daffodil to complete your Scorch team. Additionally, you can eventually obtain a second free S-class selector through the **City Tycoon management mode** by reaching Tycoon Level 30, allowing you to fill any remaining gaps in your elemental coverage.
 
 If you find yourself struggling with the early-game difficulty, check out our guide on how to reroll in Neverness to Everness to ensure you start with both Sakiri and a top-tier DPS like Nanally.
 

@@ -116,7 +116,7 @@ Raw stats are only half the battle. To truly maximize team damage, you must mast
 
 By using characters with high **Break Intensity**, you can deplete this meter. Once it reaches zero, the enemy enters a "Broken" state. In this state, the enemy is staggered and takes significantly increased damage—often a multiplier of 1.5x or 2.0x. This is your "burst window." You should save your Ultimates and high-cooldown skills for the moment an enemy breaks.
 
-Additionally, mastering the Parry mechanic is essential for maintaining DPS. A successful parry not only prevents damage to your character but also deals a large amount of "Break Damage" to the enemy. This allows you to reach the Broken state faster, increasing your overall damage uptime throughout the fight.
+Additionally, mastering the Parry mechanic is essential for maintaining DPS. A successful parry not only prevents damage to your character but also deals a large amount of "[Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" to the enemy. This allows you to reach the Broken state faster, increasing your overall damage uptime throughout the fight.
 
 ## Related
 

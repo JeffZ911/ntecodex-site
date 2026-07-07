@@ -26,7 +26,7 @@ Understanding the nuances of combat in Hethereau is essential for overcoming the
 
 # Neverness to Everness Break Damage & Fireflies Cartridge FAQ
 
-Firefly and Super Break are not official NTE mechanics; however, NTE features a 'Fireflies and the Forest' Cartridge set and a Break Gauge system driven by the Break Intensity stat to incapacitate foes.
+Firefly and [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) are not official NTE mechanics; however, NTE features a 'Fireflies and the Forest' Cartridge set and a Break Gauge system driven by the Break Intensity stat to incapacitate foes.
 
 ## Question Restated
 
@@ -63,7 +63,7 @@ The Fireflies and the Forest Cartridge set is designed to complement this system
 | :--- | :--- | :--- |
 | **Primary Mechanic** | Break Gauge (White Bar) | Toughness Bar |
 | **Scaling Stat** | Break Intensity | Break Effect |
-| **Unique Interaction** | Discord Reaction | Super Break Damage |
+| **Unique Interaction** | Discord Reaction | [Super Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) |
 | **Equipment Type** | Cartridge Sets | Relics / Planar Ornaments |
 | **"Firefly" Context** | Fireflies and the Forest Gear | Playable Character |
 

@@ -65,7 +65,7 @@ Since Kaito is a community figure rather than an in-game Esper, there are no "be
 
 ### Is Kaito a Playable Character?
 
-No, Kaito does not appear in the character selection screen or any current gacha banners. He is an external figure who has gained notoriety for accurately predicting banner schedules and character kits before their official reveal by Hotta Studio. Many players mistake him for a character because his name is often watermarked over gameplay videos of unreleased content. If you are looking to spend your Annulith on a powerful character, you should look toward the current featured banners like "The Ichi-daime" for Nanally, rather than waiting for a Kaito banner.
+No, Kaito does not appear in the [character selection](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) screen or any current gacha banners. He is an external figure who has gained notoriety for accurately predicting banner schedules and character kits before their official reveal by Hotta Studio. Many players mistake him for a character because his name is often watermarked over gameplay videos of unreleased content. If you are looking to spend your Annulith on a powerful character, you should look toward the current featured banners like "The Ichi-daime" for Nanally, rather than waiting for a Kaito banner.
 
 ### What Are Disks in Neverness to Everness?
 

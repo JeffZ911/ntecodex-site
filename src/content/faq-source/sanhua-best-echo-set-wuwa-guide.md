@@ -34,7 +34,7 @@ Sanhua remains one of the most efficient Sub-DPS units in [Wuthering Waves](http
 
 Sanhua is a 4-star Glacio Resonator who excels at quick-swap rotations, making her a staple in teams that rely on Basic Attack damage. Because she spends very little time on the field, players often struggle to decide whether to build her for maximum personal burst damage or to lean into her supportive capabilities. Choosing the best Echo set for Sanhua requires answering a few specific questions:
 
-*   **What is the best Echo set for Sanhua in Wuthering Waves?** Depending on your team composition, you will generally choose between a set that boosts her own Glacio damage or one that provides massive buffs to the next character in the rotation.
+*   **What is the best Echo set for Sanhua in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706)?** Depending on your team composition, you will generally choose between a set that boosts her own Glacio damage or one that provides massive buffs to the next character in the rotation.
 *   **How do different Echo sets impact Sanhua's role as a Sub-DPS or Support?** Certain sets prioritize Energy Regeneration and team-wide ATK buffs, while others focus on stacking Glacio DMG bonuses through her unique "detonation" mechanic.
 *   **Which specific Echoes should you prioritize for her Glacio kit?** The choice of the "Main" (4-cost) Echo significantly alters her playstyle, providing either a powerful transformative attack or a strategic damage buff for her allies.
 

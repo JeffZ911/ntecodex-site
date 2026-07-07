@@ -99,7 +99,7 @@ As the central character of the Hethereau story, Zero is a versatile Solid-type 
 
 ### Mint (A-Class Anima): Maximizing AOE with Liquid Arcs
 
-Mint is the first A-Class character most players will maximize. As a Liquid-type, she relies on high energy uptime to keep her "Minty Fresh" AOE field active.
+Mint is the first A-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) most players will maximize. As a Liquid-type, she relies on high energy uptime to keep her "Minty Fresh" AOE field active.
 
 *   **Fluff of Fleetness (S-Rank):** Although an S-rank, this is highly recommended for Mint if you pull it from the permanent banner. It provides a massive 25% ATK stack that builds up every 3 seconds while Mint is the active character on the field.
 *   **Mind Royale (A-Rank):** This is the best F2P-accessible Liquid Arc for Mint. It focuses on Energy Regeneration. When Mint triggers an Anima reaction, Mind Royale restores [exact value pending official confirmation] energy, allowing her to use her Ultimate more frequently.

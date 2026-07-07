@@ -144,7 +144,7 @@ Understanding how your support's disks interact with Esper Cycles is key to mast
 
 ### Farming and Progression Tips
 
-New players should focus on the **City Tycoon** progression system. By managing your urban businesses and increasing your "Influence" in the city, you unlock free support units and high-level upgrade materials. Specifically, reaching Level 15 in City Tycoon grants a selection box containing one S-Rank Cartridge of your choice—use this to grab a Type IV Speedy Hedgehog Module early.
+New players should focus on the **City Tycoon** progression system. By managing your urban businesses and increasing your "Influence" in the city, you unlock free support units and high-level upgrade materials. Specifically, reaching Level 15 in City Tycoon grants a [selection box](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) containing one S-Rank Cartridge of your choice—use this to grab a Type IV Speedy Hedgehog Module early.
 
 The **Naked Ghost Tour** quest is another essential task. It is a hidden exploration quest located in the [information unavailable] district. Completing it is the only way to obtain the **Day Off** Arc Disk without spending premium currency on banners.
 

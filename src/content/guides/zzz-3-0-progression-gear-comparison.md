@@ -68,7 +68,7 @@ The shift in **[zzz 3](https://ntecodex.com/faq).0 vs 2.0 progression changes** 
 
 The Secretlab TITAN Evo offers the best price-to-performance ratio for most players, providing premium features like magnetic pillows at a mid-range price. This is particularly useful for players who spend their time alternating between the high-speed racing and customizable car tuning in NTE's Hethereau and the intense combat of ZZZ.
 
-For those with existing back pain, the Herman Miller Embody is the only choice that actively improves posture rather than just providing a soft place to sit. Its ability to distribute weight is vital when grinding for the new Pyrois agent in ZZZ 3.0, a process that involves completing the lengthy "Treating Symptoms" main mission.
+For those with existing back pain, the Herman Miller Embody is the only choice that actively improves posture rather than just providing a soft place to sit. Its ability to distribute weight is vital when grinding for the new Pyrois agent in [ZZZ 3](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).0, a process that involves completing the lengthy "Treating Symptoms" main mission.
 
 The LG Ultrawide monitor provides a significant efficiency boost over standard 16:9 displays. By offering 30% more screen real estate, it allows players to keep the NTE character tier list or ZZZ drive disc hit count trackers open alongside the game, reducing the need for constant Alt-Tabbing.
 

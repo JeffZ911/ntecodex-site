@@ -65,7 +65,7 @@ Triggering an Anomaly in Zenless Zone Zero requires dealing consistent Attribute
 Once the gauge is completely filled, the corresponding Attribute Anomaly triggers. This results in an immediate burst of damage and applies a unique status effect, such as Burn or Shock, which persists for a set duration.
 
 Key rules for triggering Anomalies include:
-*   **Gauge Ownership:** While any character can contribute to the buildup, the character who lands the hit that fills the final 1% of the gauge is considered the "trigger owner." However, the final damage calculation is weighted based on the stats of every character who contributed to that specific gauge.
+*   **Gauge Ownership:** While any character can contribute to the buildup, the character who lands the hit that fills the final 1% of the gauge is considered the "trigger owner." However, the final [damage calculation](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) is weighted based on the stats of every character who contributed to that specific gauge.
 *   **Role Specialization:** While all Agents can build Anomaly, specialized "Anomaly" class Agents like Grace Howard, [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison), and Burnice White possess significantly higher Anomaly Mastery, allowing them to fill the gauge much faster than Attack or Stun roles.
 *   **Internal Cooldowns:** Most Anomalies have a short internal cooldown (typically 3 seconds) before the same attribute can be triggered again on the same target.
 
