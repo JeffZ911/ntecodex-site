@@ -173,7 +173,7 @@ The 3.0 update, titled A Sleepwalker's Confession, introduced the floating city 
 Progression in NTE revolves around the Leveling System, Arc System, and Console System. Players must manage Esper Cycles to maximize damage and engage with the City Tycoon mechanic to earn Fons, the game's primary currency for upgrades and property management.
 
 ### Is an ultrawide monitor better for ZZZ or NTE?
-Yes, both games benefit from the 21:9 aspect ratio. In ZZZ 3.0, the Universal Terminal Access provides a broader view of the environment, while in NTE, the extra screen space is invaluable for navigating the sprawling metropolis of Hethereau and keeping track of Anomaly hunting objectives.
+Yes, both games benefit from the 21:9 aspect ratio. In [ZZZ 3](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).0, the Universal Terminal Access provides a broader view of the environment, while in NTE, the extra screen space is invaluable for navigating the sprawling metropolis of Hethereau and keeping track of Anomaly hunting objectives.
 
 ## Sources
 - NTE: Neverness to Everness | Official Launch: April 29 — https://www.reddit.com/r/NevernessToEverness/comments/1b0u5vz/nte_neverness_to_everness_officially_releases_on/

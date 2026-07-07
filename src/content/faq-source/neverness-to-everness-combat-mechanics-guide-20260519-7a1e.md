@@ -121,7 +121,7 @@ When the gauge reaches zero, the enemy enters the **Broken** state. During this 
 
 **Break Gauge Damage Multipliers:**
 
-| Attack Type | Break Damage Effectiveness |
+| Attack Type | [Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) Effectiveness |
 | :--- | :--- |
 | Normal Attack | Low |
 | Charged Attack | Moderate |

@@ -46,7 +46,7 @@ Her Outro Skill, "Silavher," provides a 38% Basic Attack DMG Deepen buff to the 
 
 ### Why Echo Selection Matters for Sanhua
 
-In Wuthering Waves, Echoes provide both raw stats and powerful set bonuses. For Sanhua, the right Echoes ensure she has enough Energy Regeneration to use her Resonance Liberation every rotation. Without proper Energy management, her rotation slows down, leading to a loss in team-wide DPS. Furthermore, her Echo choice determines if she is merely a "buff bot" or a legitimate secondary damage threat who can clear waves of smaller enemies with her Glacio explosions.
+In [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706), Echoes provide both raw stats and powerful set bonuses. For Sanhua, the right Echoes ensure she has enough Energy Regeneration to use her Resonance Liberation every rotation. Without proper Energy management, her rotation slows down, leading to a loss in team-wide DPS. Furthermore, her Echo choice determines if she is merely a "buff bot" or a legitimate secondary damage threat who can clear waves of smaller enemies with her Glacio explosions.
 
 ## Direct Answer
 

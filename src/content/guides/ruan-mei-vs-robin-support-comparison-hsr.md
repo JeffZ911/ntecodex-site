@@ -43,7 +43,7 @@ If you are looking for a quick answer, the choice usually comes down to whether 
 
 | Category | Ruan Mei | Robin |
 | :--- | :--- | :--- |
-| **Best Team Archetype** | Break / Super Break / DoT | Follow-Up Attack (FUA) / Hypercarry |
+| **Best Team Archetype** | Break / [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / DoT | Follow-Up Attack (FUA) / Hypercarry |
 | **Primary Buff Mechanic** | Weakness Break Efficiency & RES PEN | 100% Action Advance & ATK Buff |
 | **Skill Point Economy** | Highly Positive (+1 SP every 3 turns) | Neutral to Tight (Cannot act during Ult) |
 | **Endgame Performance** | Consistent across all modes | Top-tier for 0-cycle MoC and Pure Fiction |

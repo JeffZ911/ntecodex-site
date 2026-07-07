@@ -58,7 +58,7 @@ Neverness to Everness (NTE) features a hard pity of 90 pulls for S-class charact
 
 A soft pity mechanic known as **Board Modification** triggers at 70 pulls, which immediately increases the S-class drop rate from a base of 0.99% (or 1.87% depending on the board) to 19.59%. For weapons—known in NTE as Arcs—the hard pity is set at 80 pulls, with a soft pity threshold occurring at 60 pulls. Pity progress is permanent and carries over between banners of the same type (Limited to Limited, and Standard to Standard).
 
-| Mechanic | S-Class Character (Limited) | S-Class Arc (Weapon) | Standard Board |
+| Mechanic | S-[Class Character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) (Limited) | S-Class Arc (Weapon) | Standard Board |
 | :--- | :--- | :--- | :--- |
 | **Hard Pity** | 90 Pulls | 80 Pulls | 90 Pulls |
 | **Soft Pity** | 70 Pulls (Board Mod) | 60 Pulls | 70 Pulls (Board Mod) |

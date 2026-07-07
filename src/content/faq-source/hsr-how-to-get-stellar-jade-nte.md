@@ -89,7 +89,7 @@ As you complete missions, you increase your Hunter Level. This progression syste
 *   **Hunter Level 25:** undisclosed
 *   **Hunter Level 40:** 10 Solid Dice
 
-Another major pillar of progression is the City Tycoon system. This business management simulator allows you to run various shops and enterprises within Hethereau. Progressing through the City Tycoon levels not only generates a massive amount of Fons but also rewards players with Annulite at specific growth intervals. Furthermore, reaching high tiers in the management sim is the only way to unlock the S-Class character Chiz for free.
+Another major pillar of progression is the City Tycoon system. This business management simulator allows you to run various shops and enterprises within Hethereau. Progressing through the City Tycoon levels not only generates a massive amount of Fons but also rewards players with Annulite at specific growth intervals. Furthermore, reaching high tiers in the management sim is the only way to unlock the S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) Chiz for free.
 
 ### Limited-Time Events and Launch Bonuses
 

@@ -47,7 +47,7 @@ The best Drive Disc set depends entirely on a character's role and elemental att
 | :--- | :--- | :--- | :--- |
 | **Attacker (General)** | Woodpecker Electro | Hormone Punk / [Elemental Set] | Crit Rate & ATK% |
 | **Stunner** | Shockstar Disco | Swing Jazz | Impact & Daze |
-| **Support** | Swing Jazz | Proto Punk / Hormone Punk | Energy Regen & Team Buffs |
+| **Support** | Swing Jazz | Proto Punk / Hormone Punk | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) & Team Buffs |
 | **Anomaly** | Freedom Blues / Chaos Jazz | Freedom Blues | Anomaly Proficiency & Mastery |
 | **Defense** | Soul Rock / Proto Punk | Soul Rock | DEF% & Damage Reduction |
 | **Hybrid/Burst** | Branch & Blade Song | Astral Voice / Hormone Punk | EX Special & Basic DMG |

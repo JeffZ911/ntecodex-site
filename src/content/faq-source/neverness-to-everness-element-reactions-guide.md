@@ -44,7 +44,7 @@ Elemental reactions in Neverness to Everness are referred to as Esper Cycles. Th
 The fundamental rule of the Esper Cycle is adjacency. Reactions only occur between elements that are positioned next to each other on the hexagonal Esper Wheel. These reactions are categorized into two tiers:
 
 *   **Duo Reactions:** Triggered by swapping between two adjacent elements. These provide tactical status effects, such as Remora, which significantly slows enemy movement, or Blossom, which summons Lebenstamm (AoE Turrets) to the battlefield.
-*   **Trio Reactions:** Triggered by completing a sequence of three elements within the same Trio group (Top or Bottom). Reactions like Charge provide massive energy restoration, while Discord deals immense Break damage to deplete enemy shields.
+*   **Trio Reactions:** Triggered by completing a sequence of three elements within the same Trio group (Top or Bottom). Reactions like Charge provide massive energy restoration, while Discord deals immense [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) to deplete enemy shields.
 
 | Esper Type | Color Theme | Primary Role/Theme |
 | :--- | :--- | :--- |
