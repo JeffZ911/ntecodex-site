@@ -26,7 +26,7 @@ As the urban open-world RPG landscape expands, many players transitioning from K
 
 # Wuthering Waves Echo Fusion System FAQ: Neverness to Everness Anomaly & Gear Guide
 
-Neverness to Everness (NTE) does not use the Wuthering Waves [Echo Fusion system](https://ntecodex.com/faq). Instead, players upgrade Arcs (weapons) and collect Equipment (Cartridges) through Anomaly Commissions and the City Tycoon system. Progression in Hethereau focuses on urban management and tactical gear refinement rather than capturing and fusing monster souls.
+Neverness to Everness (NTE) does not use the [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) [Echo Fusion system](https://ntecodex.com/faq). Instead, players upgrade Arcs (weapons) and collect Equipment (Cartridges) through Anomaly Commissions and the City Tycoon system. Progression in Hethereau focuses on urban management and tactical gear refinement rather than capturing and fusing monster souls.
 
 ## Question Restated
 

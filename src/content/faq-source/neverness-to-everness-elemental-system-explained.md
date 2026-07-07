@@ -48,7 +48,7 @@ The elemental system in Neverness to Everness is known as the "Esper Cycle." It 
 
 Unlike traditional RPG systems based on fixed elemental weaknesses (such as Water beating Fire), NTE uses an "Adjacency Rule." In this system, reactions only occur between neighboring elements on a hexagonal Esper Wheel. You cannot trigger a reaction between two elements that are on opposite sides of the wheel; you must follow the circular path to create "Cycles."
 
-Combat revolves around filling a character's Esper Meter. Once this meter is full, swapping that character onto the field triggers a powerful Esper Ability. If the incoming character's element is adjacent to the previous character's element on the Esper Wheel, a Duo Reaction occurs. If three adjacent elements are used in a specific sequence, a Trio Reaction is triggered. These reactions provide massive buffs, crowd control, or burst damage, such as "Blossom" (which creates autonomous turrets) or "Discord" (which deals massive Break damage to enemy shields).
+Combat revolves around filling a character's Esper Meter. Once this meter is full, swapping that character onto the field triggers a powerful Esper Ability. If the incoming character's element is adjacent to the previous character's element on the Esper Wheel, a Duo Reaction occurs. If three adjacent elements are used in a specific sequence, a Trio Reaction is triggered. These reactions provide massive buffs, crowd control, or burst damage, such as "Blossom" (which creates autonomous turrets) or "Discord" (which deals massive [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) to enemy shields).
 
 ### The Six Esper Elements
 

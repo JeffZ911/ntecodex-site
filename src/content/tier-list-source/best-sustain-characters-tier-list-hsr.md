@@ -87,7 +87,7 @@ Gallagher is the premier F2P option for Acheron teams because he can apply two d
 
 ### Gallagher vs. Lingsha Comparison
 *   **Healing:** Lingsha provides significantly more AoE healing through Fuyuan, whereas Gallagher is more single-target focused.
-*   **Toughness Damage:** Lingsha deals superior AoE toughness damage. Gallagher excels at "Super Break" damage in single-target scenarios due to his enhanced basic attack.
+*   **Toughness Damage:** Lingsha deals superior AoE toughness damage. Gallagher excels at "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" damage in single-target scenarios due to his enhanced basic attack.
 *   **Cleanse:** Lingsha offers consistent team-wide cleanse; Gallagher only cleanses a single target via his Skill (at E2+).
 
 ## B Tier

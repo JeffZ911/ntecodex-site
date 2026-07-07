@@ -65,7 +65,7 @@ In Neverness to Everness, your account progress is measured by your Hunter Level
 The first 10 hours should be dedicated almost exclusively to the Episode Quests, specifically the "Prologue: A New Destination." Completing this arc unlocks the Eibon Antique Shop, which serves as your base of operations. By Hunter Level 10, you gain access to the Bureau of Anomaly Control (BAC) commissions. These are the primary source of character experience materials and "Fons," the game's main currency. Stalling the main story to explore Hethereau early is a common mistake that slows down your access to the Garage and Housing systems.
 
 ### 2. Combat Mastery: The Esper Cycle and Reactions
-Combat in NTE is built on the Esper Cycle, a system of six elements that interact in "Duo" and "Trio" combinations. Unlike Wuthering Waves, where elements primarily provide damage type variety and Intro/Outro buffs, NTE elements create tangible field effects that can freeze time or generate massive energy.
+Combat in NTE is built on the Esper Cycle, a system of six elements that interact in "Duo" and "Trio" combinations. Unlike [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706), where elements primarily provide damage type variety and Intro/Outro buffs, NTE elements create tangible field effects that can freeze time or generate massive energy.
 
 The six elements are categorized into a wheel:
 *   **Lakshana (Gold):** Focused on Order and slowing enemies.

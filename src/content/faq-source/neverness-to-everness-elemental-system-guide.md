@@ -108,7 +108,7 @@ Duo Reactions occur when you swap from a character with a full Esper Meter to a 
 For players who have mastered the basic swap, the Triple Cycle offers even greater rewards. These are triggered by swapping through three adjacent elements in rapid succession (e.g., Lakshana → Cosmos → Anima).
 
 1.  **Charge (The Top Trio):** Triggered by cycling through **Lakshana, Cosmos, and Anima**. This reaction focuses on energy economy. Completing this cycle provides a massive boost to the entire team's Ultimate energy, allowing you to chain powerful bursts of damage.
-2.  **Discord (The Bottom Trio):** Triggered by cycling through **Incantation, Chaos, and Psyche**. This reaction is designed for breaking through enemy defenses. It deals massive Stagger and Break damage, often instantly grounding bosses and Elite Anomalies.
+2.  **Discord (The Bottom Trio):** Triggered by cycling through **Incantation, Chaos, and Psyche**. This reaction is designed for breaking through enemy defenses. It deals massive Stagger and [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), often instantly grounding bosses and Elite Anomalies.
 
 ### Strategic Team Composition for Maximum Reactions
 

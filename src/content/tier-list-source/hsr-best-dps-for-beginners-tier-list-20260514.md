@@ -90,7 +90,7 @@ This "solo" mechanic is actually a benefit for beginners. Because Phainon's tran
 ### Firefly: Why Super Break is Still King
 Despite being released in the Version 2.x cycle, Firefly remains a top recommendation for beginners due to her synergy with the Harmony Trailblazer. Her ability to implant Fire Weakness onto any enemy removes the need for a new player to pull for every element. 
 
-Firefly’s performance has only improved with the introduction of Fugue (the 5-star version of Tingyun). Fugue allows Firefly to trigger Super Break damage more frequently and reduces enemy Toughness regardless of weakness type. This "Break Meta" is the most resource-efficient way to play HSR, as it focuses on Break Effect stats rather than the difficult-to-farm Crit Rate/DMG balance.
+Firefly’s performance has only improved with the introduction of Fugue (the 5-star version of Tingyun). Fugue allows Firefly to trigger [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) more frequently and reduces enemy Toughness regardless of weakness type. This "Break Meta" is the most resource-efficient way to play HSR, as it focuses on Break Effect stats rather than the difficult-to-farm Crit Rate/DMG balance.
 
 **Recommended F2P Team for Firefly:**
 *   **Main DPS:** Firefly

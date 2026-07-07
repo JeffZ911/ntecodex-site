@@ -153,7 +153,7 @@ Yes. Butler is highly versatile because his primary requirement is the Victoria 
 To complement your Bangboo choice, equip your Ice team with the following Disk Drives:
 *   **Polar Metal (4-Piece):** Increases Ice DMG and provides a massive damage boost to Basic Attacks and Dash Attacks after triggering Freeze or Shatter. This is the best set for Ellen Joe.
 *   **Woodpecker Electro (2-Piece):** Provides extra Crit Rate to help Ellen trigger her passive more reliably.
-*   **Swing Jazz (4-Piece):** Excellent for Soukaku to provide team-wide Energy Regen and DMG buffs during Chain Attacks.
+*   **Swing Jazz (4-Piece):** Excellent for Soukaku to provide team-wide [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) and DMG buffs during Chain Attacks.
 
 By aligning your Bangboo selection with your team's elemental strengths and faction synergies, you can turn a standard Ice squad into a powerhouse capable of freezing the most dangerous Ethereals in the game. Whether you opt for the aggressive Anomaly buildup of Sharkboo or the tactical Energy restoration of Butler, understanding these mechanics is the key to mastering Zenless Zone Zero.
 

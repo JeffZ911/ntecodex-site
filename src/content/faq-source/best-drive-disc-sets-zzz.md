@@ -107,7 +107,7 @@ Each Drive Disc slot has a specific pool of potential main stats. Farming for th
 *   **Slot 3:** DEF (Fixed)
 *   **Slot 4:** Crit Rate, Crit DMG, Anomaly Proficiency, ATK%, HP%, or DEF%. For most Attackers, Crit Rate or Crit DMG is mandatory. Anomaly characters require Anomaly Proficiency here.
 *   **Slot 5:** Elemental DMG Bonus (Physical, Fire, Ice, etc.), PEN Ratio, ATK%, HP%, or DEF%. Elemental DMG is almost always the best choice for damage dealers. PEN Ratio becomes more valuable in the extreme late-game (Shiyu Defense Floor 17+).
-*   **Slot 6:** Impact, Anomaly Mastery, Energy Regen, ATK%, HP%, or DEF%. Stunners MUST have Impact here. Anomaly characters need Anomaly Mastery to trigger procs faster, and Supports need Energy Regen.
+*   **Slot 6:** Impact, Anomaly Mastery, [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707), ATK%, HP%, or DEF%. Stunners MUST have Impact here. Anomaly characters need Anomaly Mastery to trigger procs faster, and Supports need Energy Regen.
 
 **Substat Priority:**
 For most damage dealers, the substat priority follows a strict hierarchy:
