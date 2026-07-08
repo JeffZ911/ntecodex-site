@@ -106,7 +106,7 @@ In Pure Fiction, Jade is a monster. Her Ultimate deals massive Quantum damage to
 
 ### Rappa: Breaking the Imaginary Barrier
 
-Rappa is a specialized Erudition unit that focuses on the Super Break mechanic. Unlike traditional Erudition units that rely on raw Crit stats, Rappa thrives in teams that prioritize Break Effect. Her kit allows her to deal significant Imaginary damage to multiple targets while simultaneously reducing their Toughness bars at an accelerated rate.
+Rappa is a specialized Erudition unit that focuses on the [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) mechanic. Unlike traditional Erudition units that rely on raw Crit stats, Rappa thrives in teams that prioritize Break Effect. Her kit allows her to deal significant Imaginary damage to multiple targets while simultaneously reducing their Toughness bars at an accelerated rate.
 
 Rappa’s strength lies in her ability to handle Imaginary-weak waves in Pure Fiction while remaining a viable threat in the Memory of Chaos. Because [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) scales with character level and Break Effect rather than traditional ATK/Crit, she is relatively easy to build. However, her reliance on the "Seal" and "Ninjutsu" mechanics means she requires specific teammates like the Harmony Trailblazer or Ruan Mei to reach her full potential.
 

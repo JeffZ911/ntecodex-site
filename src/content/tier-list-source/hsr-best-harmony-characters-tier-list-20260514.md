@@ -62,7 +62,7 @@ This tier list evaluates Harmony characters based on their performance across th
 | **Sunday** | DMG / CRIT / Energy | 100% Action Advance | High (Targeted) | Memosprite / Hypercarry |
 | **Robin** | ATK / DMG / CRIT | Team-wide Action Advance | Moderate (Passive) | Follow-up Attack (FUA) |
 | **Tribbie** | RES PEN / Additional DMG | None | Low | HP-Scaling / AoE |
-| **Ruan Mei** | Break Efficiency / RES PEN | SPD Buff | Low | Super Break / Dual DPS |
+| **Ruan Mei** | Break Efficiency / RES PEN | SPD Buff | Low | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / Dual DPS |
 | **Sparkle** | CRIT DMG / SP Regen | 50% Action Advance | Low | SP-Hungry Hypercarry |
 | **Fugue** | Break / DEF Shred | Action Advance (Self) | Low | Super Break / Nihility |
 

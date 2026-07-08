@@ -42,7 +42,7 @@ The scope of Break mechanics in this game is centered on the depletion of an ene
 
 ### Are Firefly and Super Break in Neverness to Everness?
 
-As of the current version released in April 2026, neither a character named Firefly nor a mechanic called "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" exists within the official Neverness to Everness framework. These terms are exclusive to other properties. However, players often use these terms colloquially to describe the "Break Damage" and "Break Gauge" systems that are fundamental to NTE's combat loop. In Hethereau, the goal is to deplete the enemy's white bar to trigger a stagger state, which is functionally similar but mechanically distinct from the systems found in other games.
+As of the current version released in April 2026, neither a character named Firefly nor a mechanic called "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" exists within the official Neverness to Everness framework. These terms are exclusive to other properties. However, players often use these terms colloquially to describe the "[Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" and "Break Gauge" systems that are fundamental to NTE's combat loop. In Hethereau, the goal is to deplete the enemy's white bar to trigger a stagger state, which is functionally similar but mechanically distinct from the systems found in other games.
 
 ### What is the 'Fireflies' reference in NTE?
 

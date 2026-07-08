@@ -111,7 +111,7 @@ The "Tetris" aspect comes from the fact that certain Cartridges and Arcs grant b
 
 When farming Cartridges using your **Character Pixels** (the game's stamina equivalent), you should look for specific main stat distributions:
 1.  **Disk 1 & 2:** Fixed flat ATK and HP (Focus on substats here).
-2.  **Disk 3:** ATK% or Energy Regen.
+2.  **Disk 3:** ATK% or [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).
 3.  **Disk 4:** Elemental DMG Bonus (Anima, Cosmos, etc.).
 4.  **Disk 5:** Crit Rate or Crit DMG (Aim for a 1:2 ratio).
 

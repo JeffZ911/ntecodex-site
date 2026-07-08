@@ -110,7 +110,7 @@ Unlike B-rank Arcs which cap out lower, A-rank Arcs share a consistent scaling p
 
 ### How to Obtain and Refine 4-Star Arcs
 
-Acquiring these disks requires a mix of gacha participation and urban exploration.
+Acquiring these disks requires a mix of gacha participation and [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison).
 
 1.  **Arc Research Program:** This is the dedicated weapon banner. It uses a currency called **Tri-Keys**. A-rank Arcs have a high drop rate here, and you are guaranteed an S-rank Arc every 60 pulls (with a featured "UP" Arc guaranteed every 8 pulls in specific limited programs).
 2.  **Arc Shop (The Mall):** You can exchange **U-00NE** (a currency obtained from clearing Anomaly content) for specific A-rank Arcs. This is the most reliable way to get "The Forgotten" or "The Good, The Bad, The Bitter" without relying on luck.

@@ -19,7 +19,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Hesperia is a dense, vertical urban environment where supernatural anomalies hide behind every neon sign and alleyway. Mastering the movement systems and exploration mechanics is essential for any player looking to maximize their efficiency in Neverness to Everness.
+Hesperia is a dense, vertical urban environment where supernatural anomalies hide behind every neon sign and alleyway. Mastering the movement systems and [exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) is essential for any player looking to maximize their efficiency in Neverness to Everness.
 
 # Neverness to Everness Exploration Tips: How to Master the Urban Open World
 

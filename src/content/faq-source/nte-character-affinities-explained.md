@@ -106,7 +106,7 @@ When you successfully perform an adjacent swap with a full Esper Meter, you trig
 1.  **Blossom (Cosmos + Anima):** Creates a stationary floral turret that fires homing bolts of energy at nearby enemies for 8 seconds.
 2.  **Remora (Anima + Incantation):** Attaches "parasitic" energy to the target, dealing [Information unavailable] damage every time the target is hit by a Basic Attack.
 3.  **Hexed (Incantation + Chaos):** Reduces the target's elemental resistance by a fixed percentage and increases the crit rate of the incoming character for a short duration.
-4.  **Scorch (Chaos + Psyche):** Triggers a massive thermal explosion that deals heavy Break damage, ideal for depleting Anomaly shields.
+4.  **Scorch (Chaos + Psyche):** Triggers a massive thermal explosion that deals heavy [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), ideal for depleting Anomaly shields.
 5.  **Nova (Psyche + Lakshana):** Emits a chilling wave that freezes non-boss enemies in place and applies a "Slow" debuff to Elite targets.
 6.  **Stain (Lakshana + Cosmos):** Marks the ground with a purifying zone. Enemies inside the zone take increased damage from all sources, while allies receive minor healing over time.
 

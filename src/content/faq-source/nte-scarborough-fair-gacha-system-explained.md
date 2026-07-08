@@ -121,7 +121,7 @@ When you pull duplicate characters or items, you receive cashback in the form of
 ![Related](/img/nte-scarborough-fair-gacha-system-explained/inline-4.webp)
 
 
-The gacha system is closely tied to the game's release cycle and exploration mechanics. Knowing which banners are active and how to fund your pulls is the key to long-term success.
+The gacha system is closely tied to the game's release cycle and [exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison). Knowing which banners are active and how to fund your pulls is the key to long-term success.
 
 ### Pity Carryover Rules
 

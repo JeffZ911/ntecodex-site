@@ -125,7 +125,7 @@ The "Scarborough Fair" gacha system is a departure from traditional pull-based m
 Key features include:
 *   **90-Pull Pity:** You are guaranteed the featured S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) by the 90th roll.
 *   **No 50/50:** If you land on an S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) tile on a limited banner, it is guaranteed to be the featured unit.
-*   **Board Modification:** After 70 rolls without an S-Class, the board transforms, turning several tiles into S-Class character tiles, significantly increasing your chances of a "soft pity" win.
+*   **Board Modification:** After 70 rolls without an S-Class, the board transforms, turning several tiles into S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) tiles, significantly increasing your chances of a "soft pity" win.
 *   **Pity Carry-over:** Progress toward the 90-pull guarantee carries over between limited banners (e.g., from Nanally to Hotori).
 
 ### Combat Systems: Esper Cycles and Critical Ripostes

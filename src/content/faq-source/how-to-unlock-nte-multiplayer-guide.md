@@ -46,7 +46,7 @@ The co-op menu does not appear in your interface until you have reached a specif
 
 ## Direct Answer
 
-To unlock multiplayer in NTE, you must reach **Hunter Level 8**. This is your primary account level that tracks your overall progression and combat experience. In addition to the level requirement, you must also complete the main story chapter titled **"Prologue II: Good Business, Better Treasure"**. This chapter serves as the final part of the game's introductory sequence, where you are introduced to the core business management and urban exploration mechanics.
+To unlock multiplayer in NTE, you must reach **Hunter Level 8**. This is your primary account level that tracks your overall progression and combat experience. In addition to the level requirement, you must also complete the main story chapter titled **"Prologue II: Good Business, Better Treasure"**. This chapter serves as the final part of the game's introductory sequence, where you are introduced to the core business management and [urban exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison).
 
 Once these conditions are met, the Multiplayer app will automatically appear on the second page of your in-game phone. You can access this by hitting the "ESC" key on PC or tapping the phone icon on mobile devices, then swiping to the right.
 

@@ -57,7 +57,7 @@ Neverness to Everness, released on April 29, 2026, does not feature an "[Echo Fu
 
 Instead of capturing and fusing monsters, players hunt Anomalies to obtain materials required for character and gear ascension. The character duplicate system is also distinct; NTE utilizes an **Awakening** system that provides a more flexible path for upgrading Espers compared to the rigid resonance chains found in other titles.
 
-| Feature | Wuthering Waves | Neverness to Everness |
+| Feature | [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) | Neverness to Everness |
 | :--- | :--- | :--- |
 | **Primary Gear** | Echoes (Captured Monsters) | Arcs (Weapons) & Cartridges |
 | **Upgrade Mechanic** | [Echo Fusion](https://ntecodex.com/faq) / Tuning | Arc Refinement & Leveling |

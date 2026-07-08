@@ -118,7 +118,7 @@ This stamina is dedicated to the City Tycoon and life-sim elements. It is used f
 
 ### Free S-Class Characters and the Starter Selector
 
-NTE is quite generous with its initial character roster. Aside from the aforementioned Chiz at Tycoon Level 18, players are given a "Starter Selector" after completing the first chapter of the main story. This selector allows you to choose one S-Class character from the standard pool.
+NTE is quite generous with its initial character roster. Aside from the aforementioned Chiz at Tycoon Level 18, players are given a "Starter Selector" after completing the first chapter of the main story. This selector allows you to choose one S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) from the standard pool.
 
 While the "best" choice depends on your playstyle, most veteran players recommend selecting a character that complements the Esper type of your first 5-star pull from the Scarborough Fair. If you pulled Nanally (Lakshana), look for a character that can trigger a high-damage reaction with her element. 
 
