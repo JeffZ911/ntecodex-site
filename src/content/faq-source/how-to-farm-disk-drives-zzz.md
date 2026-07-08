@@ -132,7 +132,7 @@ Knowing which sets to farm is essential for team building. Here are the most pro
 
 *   **Woodpecker Electro:** 2-Piece: CRIT Rate +8%. 4-Piece: Triggering a CRIT hit with a Basic Attack, Dodge Counter, or EX Special Attack grants an ATK buff. This is the "gold standard" for Attack Agents.
 *   **Shockstar Disco:** 2-Piece: Impact +6%. 4-Piece: Increases Daze inflicted by Basic Attacks and Dash Attacks. Essential for Stun Agents like Anby or Lycaon.
-*   **Swing Jazz:** 2-Piece: Energy Regen +20%. 4-Piece: Increases the DMG of all team members after the wearer uses a Chain Attack or Ultimate. The best set for Support Agents.
+*   **Swing Jazz:** 2-Piece: [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) +20%. 4-Piece: Increases the DMG of all team members after the wearer uses a Chain Attack or Ultimate. The best set for Support Agents.
 *   **Freedom Blues:** 2-Piece: Anomaly Proficiency +30. 4-Piece: Reduces the enemy's Anomaly Resistance when the wearer hits them with an EX Special Attack. Best for Anomaly Agents like Grace.
 
 ### Managing Resources: Plating Agents and Dennies

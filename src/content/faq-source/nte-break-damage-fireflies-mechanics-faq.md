@@ -133,7 +133,7 @@ Outside of combat, the game transitions into an urban life simulator. A signific
 
 ### Cartridge Farming Locations
 
-To optimize your Break Damage, you will need to farm the Fireflies and the Forest set. These Cartridges are primarily found in the "Stain Vulnerability Zones" located in the industrial districts of Hethereau. These zones are high-threat areas where Anomalies are more frequent. Clearing these challenges rewards you with Cartridge Modules of varying rarities. It is recommended to farm these in co-op mode if your Break Intensity is not yet high enough to solo the elite enemies found within.
+To optimize your [Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), you will need to farm the Fireflies and the Forest set. These Cartridges are primarily found in the "Stain Vulnerability Zones" located in the industrial districts of Hethereau. These zones are high-threat areas where Anomalies are more frequent. Clearing these challenges rewards you with Cartridge Modules of varying rarities. It is recommended to farm these in co-op mode if your Break Intensity is not yet high enough to solo the elite enemies found within.
 
 ## Frequently Asked Questions
 

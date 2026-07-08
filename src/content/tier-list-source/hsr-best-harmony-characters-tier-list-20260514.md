@@ -106,7 +106,7 @@ Sparkle (Quantum) is still the go-to support for SP-hungry characters like Dan H
 The Harmony Trailblazer (Imaginary) remains a mandatory unit for any [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) composition. Their "Backup Dancer" buff is the only way for many characters to access [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 **Super [Break Damage Calculation](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) Example:**
-To understand the Trailblazer's value, consider this simplified formula for Super Break DMG:
+To understand the Trailblazer's value, consider this simplified formula for [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) DMG:
 `Level Multiplier * (Toughness DMG of Attack / 30) * (1 + Break Effect) * (1 + Super Break Multiplier)`
 With the Trailblazer’s Ultimate active, a character with 300% Break Effect can easily hit for 100,000+ damage on a broken target, regardless of their personal ATK or CRIT stats.
 

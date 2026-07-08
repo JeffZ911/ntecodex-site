@@ -94,7 +94,7 @@ Beyond the Rails is the premier endgame mode located within the Anomaly Metro fr
 *   **Platform Seals:** Each stop has three objectives (usually clear-time targets). Earning these seals unlocks tiers of Annulith and Train Logs.
 *   **Two-Team Requirement:** Starting from the 6th stop, the mode introduces "Inbound" and "Outbound" routes. This forces you to field two separate teams with no overlapping characters, making roster depth essential.
 
-Clearing the 10th floor of the permanent Rail content grants a free copy of the A-class character **Haniel**, a Psyche-element support vital for many endgame team compositions.
+Clearing the 10th floor of the permanent Rail content grants a free copy of the A-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) **Haniel**, a Psyche-element support vital for many endgame team compositions.
 
 ### The Rabbit Hole: Mastering Cartridges and Modules
 

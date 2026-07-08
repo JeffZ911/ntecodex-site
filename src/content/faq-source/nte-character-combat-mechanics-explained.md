@@ -130,7 +130,7 @@ NTE rewards aggressive defense. Players must choose between parrying and dodging
 A balanced team usually consists of characters filling three primary roles:
 1.  **Damage (DPS):** Characters with high scaling on their normal attacks and Ultimates. They stay on the field longest during a "Break" window.
 2.  **Buff (Support):** Characters whose Esper Abilities provide team-wide damage boosts or elemental shredding.
-3.  **Survival (Tank/Healer):** Characters who provide shields or healing. In NTE, even survival characters are expected to contribute to the Esper Cycle and Break damage.
+3.  **Survival (Tank/Healer):** Characters who provide shields or healing. In NTE, even survival characters are expected to contribute to the Esper Cycle and [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 The meta rotation typically involves starting with your Support to apply an element, swapping to your Tank/Utility for a parry to fill the meter, and then cycling into your DPS to trigger a Trio reaction during the enemy's Break state.
 

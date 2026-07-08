@@ -55,7 +55,7 @@ The Neverness to Everness pity system is one of the most player-friendly in the 
 **Key Pity Thresholds:**
 *   **Hard Pity:** You are guaranteed to land on a "Journey Together" tile (S-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions)) at exactly 90 pulls.
 *   **Soft Pity (Board Modification):** Starting at roll 70, the board undergoes "Board Modification," where S-class tiles are added or expanded, significantly increasing your odds.
-*   **A-Class Pity:** You are guaranteed an A-class character or Arc (weapon) every 10 pulls.
+*   **A-Class Pity:** You are guaranteed an A-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) or Arc (weapon) every 10 pulls.
 *   **Carryover:** If you do not reach pity on a limited banner, your progress carries over to the next limited character banner.
 
 ### Summary Table: NTE Pity Thresholds

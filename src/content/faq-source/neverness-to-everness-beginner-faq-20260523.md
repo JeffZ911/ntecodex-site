@@ -113,7 +113,7 @@ For those focusing on the Standard banner, [Nanally](/characters/nanally-guide-n
 
 ### Upcoming Version 1.1 Characters
 
-Hotta Studio has already begun drip marketing for the Version 1.1 update, expected in mid-June 2026. The confirmed characters are Lacrimosa and Chaos. Lacrimosa is rumored to be a specialized healer who interacts with the "Cycle Reaction" system in a new way, while Chaos appears to be a high-mobility DPS designed for urban exploration and fast-paced combat.
+Hotta Studio has already begun drip marketing for the Version 1.1 update, expected in mid-June 2026. The confirmed characters are Lacrimosa and Chaos. Lacrimosa is rumored to be a specialized healer who interacts with the "Cycle Reaction" system in a new way, while Chaos appears to be a high-mobility DPS designed for [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) and fast-paced combat.
 
 ### Endgame: Beyond the Rails
 

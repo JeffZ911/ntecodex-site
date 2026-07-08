@@ -122,7 +122,7 @@ She is also incredibly SP-efficient. Her "Benediction" buff lasts for three of t
 
 ### Harmony Trailblazer: The Super Break Enabler
 
-The Harmony Trailblazer (Imaginary) is the first free unit to reach S-tier status through pure mechanical innovation. Their Ultimate, "Auld Lang Syne," grants the "Backup Dancer" buff to all allies. This buff enables the "Super Break" mechanic, which allows allies to deal massive instances of damage to enemies that are already Weakness Broken.
+The Harmony Trailblazer (Imaginary) is the first free unit to reach S-tier status through pure mechanical innovation. Their Ultimate, "Auld Lang Syne," grants the "Backup Dancer" buff to all allies. This buff enables the "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" mechanic, which allows allies to deal massive instances of damage to enemies that are already Weakness Broken.
 
 [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) scales primarily with Break Effect and the Toughness-reducing power of an attack. This has completely revitalized characters who were previously considered "niche," such as Xueyi and Luka, and made Break Effect a top-tier stat for any team featuring the Trailblazer.
 
