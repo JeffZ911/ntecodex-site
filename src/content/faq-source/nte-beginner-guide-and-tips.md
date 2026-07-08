@@ -92,7 +92,7 @@ Beginners should prioritize investing in cafes and small retail shops early. The
 *   **Level 1-5:** Basic Fons generation and unlock "Rampage Players" shop access.
 *   **Level 6-10:** Unlock the "Mistral" starter vehicle and initial customization parts.
 *   **Level 11-15:** Access to mid-tier business investments and character duplicate materials (Mind-Links).
-*   **Level 18:** **S-Class Character Unlock: Chiz.** This is the most important milestone for F2P players.
+*   **Level 18:** **S-[Class Character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) Unlock: Chiz.** This is the most important milestone for F2P players.
 *   **Level 20:** Unlock high-tier vehicle performance mods and the "Hethereau Executive" title.
 
 ### Vehicle Mechanics: Customization, Summoning, and Maintenance

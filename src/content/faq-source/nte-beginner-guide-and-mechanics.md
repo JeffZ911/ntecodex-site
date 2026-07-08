@@ -68,7 +68,7 @@ As you deal damage or perform **Critical Ripostes** (perfect dodges or parries a
 | [Information unavailable] | Lakshana + Chaos | — |
 | [Information unavailable] | Anima + Psyche | — |
 
-The **Break System** is the second pillar of combat. Elite enemies and bosses have a white bar beneath their health. Once depleted, the enemy enters a "Fractured" state, taking significantly increased damage and becoming immobilized. To shred this bar quickly, focus on "Critical Ripostes." When an enemy flashes red, timing your dodge perfectly will trigger a slow-motion window where your next few hits deal massive Break damage.
+The **Break System** is the second pillar of combat. Elite enemies and bosses have a white bar beneath their health. Once depleted, the enemy enters a "Fractured" state, taking significantly increased damage and becoming immobilized. To shred this bar quickly, focus on "Critical Ripostes." When an enemy flashes red, timing your dodge perfectly will trigger a slow-motion window where your next few hits deal massive [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 ### The Tycoon System: Making Fons and Managing Businesses
 

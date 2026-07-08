@@ -121,7 +121,7 @@ A major advantage for F2P players is the **lack of a 50/50 mechanic**. On a limi
 
 
 ### NTE vs Wuthering Waves: Key Differences for New Players
-Players coming from Wuthering Waves will notice that NTE is less about "farming the world" for Echoes and more about "managing the city" for Fons. In Wuthering Waves, your power growth is tied to the Data Bank and defeating Tacet Discords. In NTE, while you still hunt Anomalies, your power is heavily influenced by the Arcs (weapons) and Cartridges (gear) you purchase or craft through the City Tycoon system.
+Players coming from [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706) will notice that NTE is less about "farming the world" for Echoes and more about "managing the city" for Fons. In Wuthering Waves, your power growth is tied to the Data Bank and defeating Tacet Discords. In NTE, while you still hunt Anomalies, your power is heavily influenced by the Arcs (weapons) and Cartridges (gear) you purchase or craft through the City Tycoon system.
 
 The gacha predictability is also a significant departure. Wuthering Waves players are used to the 80-pull pity with a 50/50 chance. NTE’s 90-pull guarantee with no 50/50 makes it much easier to plan your pulls months in advance. However, NTE requires more currency management, as you must balance spending Annulith on pulls versus saving Fons for city-based upgrades.
 

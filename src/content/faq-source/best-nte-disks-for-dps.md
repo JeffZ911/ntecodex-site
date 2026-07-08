@@ -102,7 +102,7 @@ For elemental specialists, the **Fireflies and the Forest** set is the high-ceil
 
 The "Console" is where your Disks are actually powered up. It uses a grid-based system where you must fit "Modules" of various shapes (Type II, III, and IV). 
 *   **Type II Modules:** Generally provide offensive stats like Crit Rate and ATK.
-*   **Type III Modules:** Focus on utility, such as Cooldown Reduction and Energy Regen.
+*   **Type III Modules:** Focus on utility, such as Cooldown Reduction and [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).
 *   **Type IV Modules:** These are the rarest and provide massive boosts to Elemental DMG and Armor Penetration.
 
 The "Tetris" aspect comes from the fact that certain Cartridges and Arcs grant bonus stats if you fill specific patterns in the Console. For instance, Nanally gains a 6% Crit Rate bonus for every Type II module placed in a vertical column. If your Module layout is messy, you lose out on these "Resonance" bonuses, which can account for up to 20% of your total damage output. Using **Carrota Coins** to "Rewind" or reshuffle Module shapes is a necessary part of the endgame grind to ensure a perfect fit.

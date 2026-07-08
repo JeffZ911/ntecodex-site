@@ -57,7 +57,7 @@ The following table provides a quick reference for the optimal weapon pairings f
 | Character | Element / Type | Best S-Rank Arc (BiS) | Best A-Rank Arc (F2P) | Primary Substat Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **Zero** | Cosmos / Solid | Hethereau's Keeper | First Step to Success | ATK% / Crit Damage |
-| **Mint** | Anima / Liquid | Fluff of Fleetness | Mind Royale | Energy Regen / ATK% |
+| **Mint** | Anima / Liquid | Fluff of Fleetness | Mind Royale | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) / ATK% |
 | **Chiz** | Cosmos / Gas | Good Boy's Grand Adventure | Contemplative Cat | ATK% / Support Buffs |
 | **Haniel** | Psyche / Gas | Good Boy's Grand Adventure | — | Energy Regen / ATK |
 | **Adler** | Incantation / Solid | Day Off | Hethereau's Keeper | DEF% / HP |

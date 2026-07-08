@@ -52,7 +52,7 @@ This tier list evaluates Harmony characters based on their performance across th
 *   **Buff Efficiency:** The raw value provided through ATK%, CRIT Rate/DMG, and All-Type RES PEN.
 *   **Action Economy:** The ability to manipulate the Action Order via Action Advance or SPD buffs.
 *   **Skill Point (SP) Economy:** Whether the character generates surplus SP or consumes it to provide high-value buffs.
-*   **Synergy with Modern Archetypes:** Specifically, how well a character supports "Memosprite" summons and the "Super Break" meta.
+*   **Synergy with Modern Archetypes:** Specifically, how well a character supports "Memosprite" summons and the "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" meta.
 *   **Baseline Investment:** We measure 5-star characters at E0S1 (Eidolon 0 with their Signature Light Cone) and 4-star characters at E6.
 
 ### Harmony Buff Type Comparison

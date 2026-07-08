@@ -44,7 +44,7 @@ The query stems from the shared "monster-collecting" DNA of modern gacha RPGs. I
 
 ### Key Differences Between NTE and Wuthering Waves Mechanics
 
-The primary difference lies in the source of power. In *Wuthering Waves*, your Echoes provide active skills and set bonuses. In Neverness to Everness, your active skills are inherent to the character and their equipped Arc. While you still hunt monsters, the rewards are tangible items like Annulith and Fons, which are used to strengthen the characters directly or fuel the city's economy.
+The primary difference lies in the source of power. In *[Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-2-6-vs-2-5-meta-gear-guide-20260706)*, your Echoes provide active skills and set bonuses. In Neverness to Everness, your active skills are inherent to the character and their equipped Arc. While you still hunt monsters, the rewards are tangible items like Annulith and Fons, which are used to strengthen the characters directly or fuel the city's economy.
 
 [Infographic comparing the Wuthering [Waves Echo](https://ntecodex.com/faq) system to the Neverness to Everness Arc and Anomaly system. Aspect Ratio: 16:9]
 

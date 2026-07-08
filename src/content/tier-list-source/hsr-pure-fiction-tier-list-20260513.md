@@ -159,7 +159,7 @@ B Tier characters are situational. They can perform well if the elemental weakne
 
 ### Situational and Niche Picks
 
-**Firefly** is a monster in Memory of Chaos and Apocalyptic Shadow, but in Pure Fiction, her massive Super Break damage is often "overkill" on small mobs. Because she relies on her Enhanced State, she can sometimes waste powerful attacks on a single 10% HP enemy, leading to inefficient point accumulation.
+**Firefly** is a monster in Memory of Chaos and Apocalyptic Shadow, but in Pure Fiction, her massive [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) is often "overkill" on small mobs. Because she relies on her Enhanced State, she can sometimes waste powerful attacks on a single 10% HP enemy, leading to inefficient point accumulation.
 
 **Seele** is the only Hunt character that remains somewhat viable due to her "Resurgence" mechanic. If she can one-shot a mob with her Basic ATK, she gets another turn. However, in Stage 4, the mobs have just enough HP to make these resets difficult to maintain without high-tier buffers like Sparkle.
 

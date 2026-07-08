@@ -59,7 +59,7 @@ undisclosed
 | [Information Unavailable] | Ice | 5-Star | Main DPS / FUA |
 | [Information Unavailable] | Wind | 5-Star | Main DPS / Utility |
 | Jade | Quantum | 5-Star | Sub-DPS / FUA Enabler |
-| Rappa | Imaginary | 5-Star | Super Break DPS |
+| Rappa | Imaginary | 5-Star | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) DPS |
 | Herta | Ice | 4-Star | Pure Fiction Specialist |
 | Himeko | Fire | 5-Star | Break / FUA DPS |
 | Argenti | Physical | 5-Star | Burst AoE DPS |

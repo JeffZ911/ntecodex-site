@@ -105,7 +105,7 @@ The **Esper Cycle** is the elemental reaction system that dictates the flow of c
 When you swap characters in a specific sequence, you trigger powerful reactions:
 *   **Blossom:** Triggered by swapping from a **Cosmos** character to an **Anima** character. This reaction creates an area-of-effect (AoE) explosion that restores a portion of the team's Ultimate energy.
 *   **Trio-Esper Reactions:** In the endgame, you can trigger advanced reactions like **Charge** and **Discord**.
-    *   **Charge** occurs when three different elements are cycled through within a undisclosed second window, significantly boosting the active character's break damage.
+    *   **Charge** occurs when three different elements are cycled through within a undisclosed second window, significantly boosting the active character's [break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
     *   **Discord** is triggered by undisclosed, resulting in a massive reduction in enemy elemental resistance.
 
 Effective support play involves constantly rotating your characters to ensure these reactions are always active. A common rotation involves using Sakiri (Anima) to gather enemies, swapping to a Cosmos unit to trigger Blossom for energy, and finally bringing in your Main DPS to finish the fight.
