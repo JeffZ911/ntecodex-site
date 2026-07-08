@@ -121,7 +121,7 @@ Our criteria focused on specific physiological benefits, such as the reduction o
 ![What long-session explorers actually need](/img/chasca-vs-wanderer-flight-mechanics-comparison/inline-2.webp)
 
 
-To understand why ergonomic gear is vital, one must look at the specific mechanical demands of top-tier exploration characters. A Chasca vs Wanderer flight mechanics comparison reveals two distinct styles of physical input.
+To understand why ergonomic gear is vital, one must look at the specific mechanical demands of top-tier exploration characters. A Chasca vs Wanderer flight [mechanics comparison](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) reveals two distinct styles of physical input.
 
 Wanderer utilizes the Hanega: Song of the Wind skill to enter the Windfavored state. This mechanic relies on Kuugoryoku Points, a secondary stamina bar that players must monitor while holding directional inputs. The physical demand here is verticality; players often hold the spacebar to ascend, which can lead to thumb strain over several hours.
 

@@ -78,7 +78,7 @@ Routine Cleanup is accessed via the Compendium or by physically traveling to Sco
 Each stage drops two specific sets. For example:
 *   **Monster and Stranger:** Drops *Woodpecker Electro* (CRIT) and *Hormone Punk* (ATK).
 *   **Hunter and Hound:** Drops *Soul Rock* (DEF) and *Shockstar Disco* (Impact).
-*   **The Iron-Hearted:** Drops *Swing Jazz* (Energy Regen) and *Blues and Jazz* (Anomaly).
+*   **The Iron-Hearted:** Drops *Swing Jazz* ([Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707)) and *Blues and Jazz* (Anomaly).
 
 To maximize efficiency, you should use the Coffee Shop buff. Once per day, drinking a specific coffee at Tin Master’s shop on Sixth Street will grant you a bonus to Disk Drive drops for a specific set. Always check your coffee options before spending Battery Charge at Scott Outpost.
 

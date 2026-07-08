@@ -64,7 +64,7 @@ This tier list evaluates Harmony characters based on their performance across th
 | **Tribbie** | RES PEN / Additional DMG | None | Low | HP-Scaling / AoE |
 | **Ruan Mei** | Break Efficiency / RES PEN | SPD Buff | Low | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / Dual DPS |
 | **Sparkle** | CRIT DMG / SP Regen | 50% Action Advance | Low | SP-Hungry Hypercarry |
-| **Fugue** | Break / DEF Shred | Action Advance (Self) | Low | Super Break / Nihility |
+| **Fugue** | Break / DEF Shred | Action Advance (Self) | Low | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / Nihility |
 
 ## S Tier
 

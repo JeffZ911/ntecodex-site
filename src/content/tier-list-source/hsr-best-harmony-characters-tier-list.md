@@ -44,7 +44,7 @@ The following criteria are used to determine rankings:
 
 *   **Buffing Efficiency:** The raw value of ATK%, DMG% Boost, Crit Rate, Crit DMG, and Speed buffs. We look at how these stats scale and their uptime during a typical battle.
 *   **Skill Point (SP) Economy:** How many Skill Points a character consumes versus how many they generate. Characters who can provide massive buffs while remaining SP-positive are rated higher.
-*   **Versatility:** A character's ability to fit into multiple team archetypes, such as Hypercarry, DoT (Damage over Time), Follow-up, or the emerging Super Break meta.
+*   **Versatility:** A character's ability to fit into multiple team archetypes, such as Hypercarry, DoT (Damage over Time), Follow-up, or the emerging [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) meta.
 *   **Unique Utility:** Rare mechanics that cannot be easily replicated, such as Action Advance, Weakness Break Efficiency, and team-wide Energy Regeneration.
 
 ### Harmony Buff Comparison Table

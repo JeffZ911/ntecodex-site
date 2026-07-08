@@ -96,7 +96,7 @@ Elemental reactions in NTE are categorized by the number of elements involved in
 
 **Trio Reactions (Three Elements):**
 Trio reactions occur when a third element is introduced to an existing Duo state.
-*   **Charge:** Provides a massive burst of energy and increases the Break damage of the next several attacks.
+*   **Charge:** Provides a massive burst of energy and increases the [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) of the next several attacks.
 *   **Discord:** Creates a localized supernatural anomaly that pulls enemies in and deals continuous elemental damage.
 
 ### The Break Meter: Staggering and Shredding Stability

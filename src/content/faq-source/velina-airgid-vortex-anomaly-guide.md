@@ -38,7 +38,7 @@ Exploring the supernatural streets of Hethereau requires more than just high-spe
 
 # Velina Airgid Vortex Anomaly Guide: Neverness to Everness
 
-[Velina Airgid](https://ntecodex.com/faq) and the Vortex mechanic are not currently featured as playable features in Neverness to Everness (NTE); instead, they are associated with the game Zenless Zone Zero. This guide details the actual Anomaly Commissions and supernatural exploration mechanics found within the city of Hethereau in Neverness to Everness.
+[Velina Airgid](https://ntecodex.com/faq) and the Vortex mechanic are not currently featured as playable features in Neverness to Everness (NTE); instead, they are associated with the game Zenless Zone Zero. This guide details the actual Anomaly Commissions and supernatural [exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) found within the city of Hethereau in Neverness to Everness.
 
 ## Question Restated
 

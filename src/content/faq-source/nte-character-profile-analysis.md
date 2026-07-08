@@ -103,7 +103,7 @@ Equally important is the **Arc Type**, which functions as the character's weapon
 
 ### Nanally: The Anima Powerhouse and 1.0 Meta Queen
 
-Nanally is the first limited S-Class character (featured on "The Ichi-daime" banner) and currently holds the title of the game's strongest Main DPS. Her profile is defined by her Anima Attribute and Plasma Arc compatibility.
+Nanally is the first limited S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) (featured on "The Ichi-daime" banner) and currently holds the title of the game's strongest Main DPS. Her profile is defined by her Anima Attribute and Plasma Arc compatibility.
 
 *   **Core Mechanic:** Her Skill, "Ichi-daime’s Authority," allows her to ignore gravity and walk on walls or ceilings for 12 seconds. In this state, she gains a 30% Crit DMG buff.
 *   **Ultimate:** "Colucci Ultimate Technique" summons an **Underboss**. This summon coordinates its strikes with Nanally’s basic attacks, effectively doubling her hit count and dealing massive follow-up damage.

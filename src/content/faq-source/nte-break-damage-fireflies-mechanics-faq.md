@@ -55,7 +55,7 @@ The primary reference to "Fireflies" in this game is the Fireflies and the Fores
 
 In Neverness to Everness, the combat system revolves around the Break Gauge, a visible white bar located directly beneath an enemy's red health bar. When this gauge is fully depleted through consistent attacks and elemental reactions, the enemy enters a "Break" state. During this window, the enemy is completely incapacitated, and all incoming damage is significantly amplified.
 
-The efficiency of this process is determined by the Break Intensity stat. High Break Intensity allows a character to remove larger chunks of the Break Gauge with every hit. Once the gauge reaches zero, the character who dealt the final blow triggers "Break Damage," a burst of damage that scales with their stats.
+The efficiency of this process is determined by the Break Intensity stat. High Break Intensity allows a character to remove larger chunks of the Break Gauge with every hit. Once the gauge reaches zero, the character who dealt the final blow triggers "[Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)," a burst of damage that scales with their stats.
 
 The Fireflies and the Forest Cartridge set is designed to complement this system. Unlike the character-specific mechanics found in other games, this set provides universal bonuses to Break Intensity and damage against staggered enemies.
 

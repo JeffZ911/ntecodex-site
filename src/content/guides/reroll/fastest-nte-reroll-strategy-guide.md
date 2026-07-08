@@ -46,7 +46,7 @@ Furthermore, the "Strange Encounters" standard banner provides a guaranteed S-Ra
 The S-Rank selector is a one-time bonus for new players. If you reroll and land a top-tier DPS like Jiuyuan or a crowd-control specialist like [Sakiri](/characters/sakiri-nte-free-5-star-guide) within your first few free pulls, you can use the selector later to grab a specialized unit like Daffodil for boss-breaking. This "Double S-Rank" start is the gold standard for F2P (Free to Play) efficiency.
 
 ### Limited vs. Standard: Which Banner to Target?
-For most players, the limited banner should be the priority. Limited characters often possess unique exploration mechanics—such as Hotori’s time-stop—that are not available in the standard pool. Standard characters are always available and may eventually be pulled through "off-rate" luck or the selector, whereas limited banners may not return for several months.
+For most players, the limited banner should be the priority. Limited characters often possess unique [exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison)—such as Hotori’s time-stop—that are not available in the standard pool. Standard characters are always available and may eventually be pulled through "off-rate" luck or the selector, whereas limited banners may not return for several months.
 
 ### Impact on Open-World Exploration
 High-tier Espers do more than just hit hard; they change how you interact with Hethereau. Characters with high mobility or specific elemental attributes (like Cosmos or Solid) can solve urban puzzles faster and reach hidden caches that A-Rank units might struggle with.

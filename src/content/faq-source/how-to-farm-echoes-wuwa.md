@@ -127,7 +127,7 @@ If you have cleared your map of specific 3-cost enemies (like the Cyan-Feathered
 Once you have farmed a Gold Echo with the correct main stat (e.g., Aero Damage on a 3-cost Echo for Jiyan), you must level it using Sealed Tubes. 
 *   **Sealed Tubes:** These come in various tiers (Basic, Medium, Advanced, Premium) and provide Echo EXP.
 *   **Tuning:** Every 5 levels, you can use "Tuners" to reveal a sub-stat. 
-*   **Priority Sub-stats:** Most DPS characters look for Crit Rate, Crit Damage, ATK%, and Energy Regen. 
+*   **Priority Sub-stats:** Most DPS characters look for Crit Rate, Crit Damage, ATK%, and [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707). 
 *   **Important:** Do not waste Gold Tuners on Purple Echoes. Gold Tuners are a finite resource and should be saved exclusively for 5-star Echoes with the correct main stats.
 
 ### Best Echo Sets for Every Role

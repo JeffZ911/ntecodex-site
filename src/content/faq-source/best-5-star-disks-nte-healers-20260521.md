@@ -37,7 +37,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Selecting the correct equipment for your sustain units is the difference between a smooth urban exploration and a frustrating wipe in high-level Anomaly Hunts.
+Selecting the correct equipment for your sustain units is the difference between a smooth [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) and a frustrating wipe in high-level Anomaly Hunts.
 
 # Best 5-Star Disks for Healers in Neverness to Everness (NTE)
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-21._

@@ -35,7 +35,7 @@ Mastering the Scarborough Fair board is the most effective way to optimize your 
 Understanding the gacha system in Neverness to Everness is vital for both Free-to-Play (F2P) players and spenders looking to maximize their Annulith. Because NTE utilizes a board-game style interface rather than a traditional "pulling" animation, many new players find the mechanics confusing. This guide addresses the most frequent questions regarding character acquisition:
 
 *   **What is the pity system in Neverness to Everness (NTE)?** It is a cumulative counter that guarantees high-rarity rewards after a set number of attempts.
-*   **How many pulls are required to guarantee an S-class character?** The hard pity is set at 90 rolls, though most players will see results much sooner.
+*   **How many pulls are required to guarantee an S-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions)?** The hard pity is set at 90 rolls, though most players will see results much sooner.
 *   **Does NTE have a 50/50 mechanic like other gacha games?** No. NTE has removed the 50/50 system on limited banners, meaning the first S-class you land on is guaranteed to be the featured character.
 *   **How do the dice and board mechanics affect character acquisition?** Instead of a simple list, you roll dice to move a mascot (Chuppa) across reward tiles, with specific mechanics altering the board as you approach pity.
 

@@ -91,7 +91,7 @@ Email salting works because of how mail servers handle the "+" symbol. By adding
 
 ### Unlocking the Gacha: Episode 0 Walkthrough
 
-The tutorial, "Episode 0: Unforeseen Yet Foretold," serves as an introduction to both combat and the urban exploration mechanics. You will play as the protagonist and meet Chiz early on. To speed this up, use the "Sprint" mechanic constantly and skip dialogue where the game permits. You cannot skip the major cinematic sequences, but you can fast-forward through the standard NPC interactions. The gacha menu, "The Fair," only becomes available after you have completed the initial investigation at the Eibon Antique Shop. Do not stop before this point, or you will not have access to your pre-registration pulls.
+The tutorial, "Episode 0: Unforeseen Yet Foretold," serves as an introduction to both combat and the [urban exploration mechanics](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison). You will play as the protagonist and meet Chiz early on. To speed this up, use the "Sprint" mechanic constantly and skip dialogue where the game permits. You cannot skip the major cinematic sequences, but you can fast-forward through the standard NPC interactions. The gacha menu, "The Fair," only becomes available after you have completed the initial investigation at the Eibon Antique Shop. Do not stop before this point, or you will not have access to your pre-registration pulls.
 
 ## Best Starters
 
