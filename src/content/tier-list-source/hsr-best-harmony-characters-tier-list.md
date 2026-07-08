@@ -56,7 +56,7 @@ The following criteria are used to determine rankings:
 | **Sparkle** | Crit DMG, DMG%, ATK% | SP Limit Increase / Action Advance | SP-Hungry Hypercarry |
 | **Bronya** | DMG%, Crit DMG, ATK% | 100% Action Advance / Cleanse | Hypercarry |
 | **Tingyun** | ATK%, DMG% | Energy Regeneration | Universal Hypercarry |
-| **Harmony TB** | Break Effect | Super Break DMG Mechanic | Break / Super Break |
+| **Harmony TB** | Break Effect | [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) DMG Mechanic | Break / Super Break |
 | **Asta** | SPD, ATK% | Team-wide SPD Boost | Pure Fiction / Fire Weakness |
 | **Hanya** | ATK%, SPD | SP Recovery (Burden) | Single-target / SP-Heavy |
 | **Yukong** | ATK%, Crit Rate, Crit DMG | Massive Stat Spikes | Nuke / Speed-tuned teams |

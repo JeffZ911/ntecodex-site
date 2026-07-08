@@ -93,7 +93,7 @@ As you increase your Inter-Knot Level, you can complete "Store Level-Up" mission
 | Level 4 | IKL 40 | Advanced Tuning (Guaranteed S-Rank every 5 tunings), Partition Selection |
 | Level 5 | IKL 45-50 | Advanced Tuning (Higher S-Rank rates), Main Stat Orientation |
 
-Once you reach Level 4, you can use "Partition Selection." This allows you to spend more Master Copies to ensure the disk you create fits into a specific slot (1 through 6). At Level 5, you can use a **Tuning Calibrator** to choose the exact main stat for a Slot 4, 5, or 6 disk. Because Tuning Calibrators are extremely rare (usually obtained through the Battle Pass or high-level [Hollow Zero](https://ntecodex.com/faq) rewards), they should be saved for rare stats like Elemental DMG Bonus or Energy Regen.
+Once you reach Level 4, you can use "Partition Selection." This allows you to spend more Master Copies to ensure the disk you create fits into a specific slot (1 through 6). At Level 5, you can use a **Tuning Calibrator** to choose the exact main stat for a Slot 4, 5, or 6 disk. Because Tuning Calibrators are extremely rare (usually obtained through the Battle Pass or high-level [Hollow Zero](https://ntecodex.com/faq) rewards), they should be saved for rare stats like Elemental DMG Bonus or [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707).
 
 ### Understanding Disk Drive Partitions and Stats
 

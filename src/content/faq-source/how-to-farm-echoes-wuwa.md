@@ -143,7 +143,7 @@ Choosing the right 5-piece set bonus is critical for character performance.
 | **Sun-sinking Eclipse** | Havoc DMG +10% | Havoc DMG +30% after Basic/Heavy Attack | Havoc DPS (Rover-Havoc, Danjin) |
 | **Celestial Light** | Spectro DMG +10% | Spectro DMG +30% after Intro Skill | Spectro DPS (Rover-Spectro, Jinhsi) |
 | **Rejuvenating Glow** | Healing Bonus +10% | ATK +15% for all allies after healing | Healers (Verina, Baizhi) |
-| **Moonlit Clouds** | Energy Regen +10% | ATK +22.5% for next Resonator after Outro | Sub-DPS/Supports (Mortefi, Sanhua) |
+| **Moonlit Clouds** | [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707) +10% | ATK +22.5% for next Resonator after Outro | Sub-DPS/Supports (Mortefi, Sanhua) |
 | **Lingering Tunes** | ATK +10% | ATK increases over time while on field | Long-duration DPS |
 
 ### Managing Your Echo Inventory

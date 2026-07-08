@@ -122,7 +122,7 @@ For Cartridges, the "Crimson: Twin Butterflies" set is the current meta for Baic
 
 While the gacha is the fastest way to get Arcs, NTE provides several avenues for F2P players to earn high-tier gear. Anomaly Commissions are repeatable endgame challenges that drop "Arc Shards." These shards can be traded at the Research Program kiosk for specific S-Rank disks.
 
-Additionally, completing the "Urban Exploration" log for each district in Hesperia rewards you with Tri-Keys and Fons (the primary currency). Reaching 100% exploration in the Central District specifically unlocks a questline that rewards the "Day Off" S-Rank disk, making exploration mandatory for any serious F2P player.
+Additionally, completing the "[Urban Exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison)" log for each district in Hesperia rewards you with Tri-Keys and Fons (the primary currency). Reaching 100% exploration in the Central District specifically unlocks a questline that rewards the "Day Off" S-Rank disk, making exploration mandatory for any serious F2P player.
 
 ## Related
 

@@ -90,7 +90,7 @@ Robin remains the cornerstone of the Follow-up Attack (FUA) meta. Her Ultimate, 
 Tribbie (Quantum) arrived in Version 3.1 as a hybrid support/offensive unit. She scales primarily with Max HP, making her naturally tanky. Her Skill, "Where’d the Gifts Go," grants "Numinosity," which provides a flat 12% to 24% All-Type RES PEN to the entire team. Her Ultimate creates a "Zone" that amplifies damage received by enemies and allows Tribbie to launch follow-up attacks whenever allies use their Ultimates. She is the best-in-slot support for HP-scaling teams and Quantum-centric compositions.
 
 ### Ruan Mei & Fugue: The Break Duo
-Ruan Mei continues to be the most universal support in the game due to her 50% Weakness Break Efficiency buff. However, she now shares the spotlight with Fugue (Fire), the 5-star evolution of Tingyun. Fugue introduces the "Exo-Toughness" (Cloudflame Luster) mechanic, which adds a second break bar to enemies. This allows Break-effect teams to trigger "Super Break" twice as often, effectively doubling the damage output of characters like Firefly and Boothill.
+Ruan Mei continues to be the most universal support in the game due to her 50% Weakness Break Efficiency buff. However, she now shares the spotlight with Fugue (Fire), the 5-star evolution of Tingyun. Fugue introduces the "Exo-Toughness" (Cloudflame Luster) mechanic, which adds a second break bar to enemies. This allows Break-effect teams to trigger "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" twice as often, effectively doubling the damage output of characters like Firefly and Boothill.
 
 ## A Tier
 

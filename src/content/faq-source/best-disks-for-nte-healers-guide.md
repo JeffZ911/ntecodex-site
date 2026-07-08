@@ -163,7 +163,7 @@ Choosing the right Cartridges is only half the battle. To truly optimize your he
 The weapon system in NTE uses Arcs, which provide both base stats and unique passive effects.
 *   **Call of the Twisted City (5-Star):** The best-in-slot Arc for most healers. It provides a massive boost to Charge Efficiency and grants a small amount of energy to the entire team whenever the wearer uses a skill.
 *   **Mind Royale (5-Star):** Ideal for HP-scaling healers like Edgar and Fadia. It increases Max HP and converts a portion of that HP into a Healing Bonus.
-*   **Your Happiness is Priceless (4-Star):** The best F2P option. It provides a generic healing boost and is easily obtainable through the Urban Exploration rewards.
+*   **Your Happiness is Priceless (4-Star):** The best F2P option. It provides a generic healing boost and is easily obtainable through the [Urban Exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) rewards.
 
 ### Top 3 Arcs for Healers Comparison
 

@@ -84,7 +84,7 @@ Combat usually flows in two phases: the "Neutral Phase," where you focus on shre
 
 It is a common mistake to confuse Break Intensity with the actual damage dealt when an enemy breaks. 
 *   **Break Intensity**: This is a utility stat. It increases the "weight" of your attacks against the white bar. Characters with high attack frequency or heavy-hitting skills typically benefit most from high intensity.
-*   **Break Damage**: This is the actual health reduction that occurs the moment the gauge hits zero. This value is influenced by the character's primary offensive stats and any specific Break Damage multipliers provided by their kit or equipment.
+*   **[Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)**: This is the actual health reduction that occurs the moment the gauge hits zero. This value is influenced by the character's primary offensive stats and any specific Break Damage multipliers provided by their kit or equipment.
 
 ### The Role of 'Fireflies and the Forest' Cartridges
 

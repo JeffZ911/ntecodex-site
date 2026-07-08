@@ -127,7 +127,7 @@ As an Incantation-type character wielding a Gas Arc, Sakiri is the backbone of m
 
 ### Chiz: The High-Investment Prodigy from Pink Paws Bank
 
-Chiz is a unique Cosmos S-Class character who can be obtained for free by reaching City Tycoon Level 10. Unlike other characters, her damage is tied to the "Grain" system and your current Fons (in-game currency).
+Chiz is a unique Cosmos S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) who can be obtained for free by reaching City Tycoon Level 10. Unlike other characters, her damage is tied to the "Grain" system and your current Fons (in-game currency).
 
 *   **Scaling:** As you progress through the Pink Paws Bank heist missions and increase your wealth, Chiz’s damage multipliers increase.
 *   **Quick-Swap Potential:** At higher Awakening levels (A3+), Chiz becomes a potent quick-swap DPS who can adapt to almost any team structure. She is the gold standard for free-to-play investment.

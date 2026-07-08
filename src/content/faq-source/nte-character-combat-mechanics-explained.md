@@ -110,7 +110,7 @@ During a Break:
 
 ### Break Meter Efficiency Table
 
-| Action Type | Break Damage Value | Strategic Use |
+| Action Type | [Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) Value | Strategic Use |
 | :--- | :--- | :--- |
 | **Normal Attack String** | Low | Consistent pressure during cooldowns. |
 | **Esper Ability** | Medium-High | Primary method for shredding the bar during rotations. |
