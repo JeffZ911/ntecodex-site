@@ -94,7 +94,7 @@ Arcs are the weapons of NTE, and they come in five distinct types based on their
 | Arc Type | Primary Role | Common Stat Focus |
 | :--- | :--- | :--- |
 | Solid | Melee DPS / Tanks | DEF, Physical DMG, Break Intensity |
-| Plasma | Ranged DPS / Speed | CRIT Rate, Energy Regen, ASPD |
+| Plasma | Ranged DPS / Speed | CRIT Rate, [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707), ASPD |
 | Gas | Support / Crowd Control | Cycle Intensity, Skill Cooldown |
 | Liquid | Healers / Elemental Enablers | HP, Elemental Mastery, Healing Bonus |
 | Synthesis | Hybrid / Specialized | — |

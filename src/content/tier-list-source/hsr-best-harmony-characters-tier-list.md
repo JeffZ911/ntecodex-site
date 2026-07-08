@@ -83,7 +83,7 @@ The following criteria are used to determine rankings:
 
 ### Meta Relevance in Version 2.2
 
-Version 2.2 marks a turning point for the Harmony Path. The introduction of Robin has solidified the "Premium Follow-up" team, while the Harmony Trailblazer has single-handedly created a new "Super Break" archetype. This has moved the meta away from purely stacking Crit stats and toward a more diverse range of builds focusing on Break Effect and high-frequency attacks.
+Version 2.2 marks a turning point for the Harmony Path. The introduction of Robin has solidified the "Premium Follow-up" team, while the Harmony Trailblazer has single-handedly created a new "[Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide)" archetype. This has moved the meta away from purely stacking Crit stats and toward a more diverse range of builds focusing on Break Effect and high-frequency attacks.
 
 ## S Tier
 

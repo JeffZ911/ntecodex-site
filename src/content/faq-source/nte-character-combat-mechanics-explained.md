@@ -122,7 +122,7 @@ During a Break:
 
 NTE rewards aggressive defense. Players must choose between parrying and dodging based on the visual cues provided by the enemy.
 
-*   **Parrying:** When an enemy prepares a heavy attack, a red circle often appears. Pressing the block/skill button at the precise moment of impact triggers a parry. This negates damage, deals massive Break damage, and often instantly readies the next Esper Cycle.
+*   **Parrying:** When an enemy prepares a heavy attack, a red circle often appears. Pressing the block/skill button at the precise moment of impact triggers a parry. This negates damage, deals massive [Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), and often instantly readies the next Esper Cycle.
 *   **Perfect Dodges (Critical Dodge):** If you dodge just before an attack lands, time slows down briefly (a "Critical Dodge"). This grants invincibility frames and allows you to press the attack button for a "Critical Riposte," a fast counter-attack that builds significant meter.
 
 ### Character Roles and Team Composition Strategy

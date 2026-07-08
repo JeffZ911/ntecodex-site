@@ -53,7 +53,7 @@ A primary concern for the NTE community is the perceived randomness of a board-g
 The Neverness to Everness pity system is one of the most player-friendly in the current gacha market due to the total removal of the 50/50 mechanic on limited banners. If you hit an S-class reward on a limited board, it is 100% guaranteed to be the featured character (such as [Nanally](/characters/nanally-guide-nte) on "The Ichi-daime" banner).
 
 **Key Pity Thresholds:**
-*   **Hard Pity:** You are guaranteed to land on a "Journey Together" tile (S-class character) at exactly 90 pulls.
+*   **Hard Pity:** You are guaranteed to land on a "Journey Together" tile (S-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions)) at exactly 90 pulls.
 *   **Soft Pity (Board Modification):** Starting at roll 70, the board undergoes "Board Modification," where S-class tiles are added or expanded, significantly increasing your odds.
 *   **A-Class Pity:** You are guaranteed an A-class character or Arc (weapon) every 10 pulls.
 *   **Carryover:** If you do not reach pity on a limited banner, your progress carries over to the next limited character banner.

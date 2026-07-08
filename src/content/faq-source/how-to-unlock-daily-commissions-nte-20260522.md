@@ -157,7 +157,7 @@ The Circle Bounty is the Neverness to Everness version of a Battle Pass. Both yo
 
 ### City Energy and Urban Hobbies
 
-Separate from Character Pixels, "City Energy" is used for non-combat hobbies like car tuning, arcade games, and urban exploration challenges. City Energy refreshes daily, and using it often contributes to your Participation Points. If you are close to the 100-point milestone but out of Character Pixels, participating in a hobby is the best way to bridge the gap.
+Separate from Character Pixels, "City Energy" is used for non-combat hobbies like car tuning, arcade games, and [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) challenges. City Energy refreshes daily, and using it often contributes to your Participation Points. If you are close to the 100-point milestone but out of Character Pixels, participating in a hobby is the best way to bridge the gap.
 
 ### Ebisu’s Auction House: Weekly Rare Items
 

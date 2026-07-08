@@ -122,7 +122,7 @@ Mint, known as the "Whirlwind Sweetheart" of the CSU-2 unit, is an A-Class Anima
 
 Jiuyuan is the primary choice for players who prefer a sustained damage-over-time playstyle. Her "Lethal Rose Pact" applies a debuff to enemies that deals Anima damage every 1.5 seconds for a duration of 25 seconds. This makes her an excellent partner for Nanally in a Blossom-focused team.
 
-Chiz uses a kendama as her primary weapon and specializes in high-frequency Cosmos damage. As an S-Class character obtainable via the City Tycoon mode, she is a high-priority target for players who want a reliable AOE damage dealer without relying solely on gacha banners.
+Chiz uses a kendama as her primary weapon and specializes in high-frequency Cosmos damage. As an S-[Class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) obtainable via the City Tycoon mode, she is a high-priority target for players who want a reliable AOE damage dealer without relying solely on gacha banners.
 
 ### The Esper Cycle: How Skills Trigger Reactions
 

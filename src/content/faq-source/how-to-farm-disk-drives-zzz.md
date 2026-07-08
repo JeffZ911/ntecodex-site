@@ -106,7 +106,7 @@ Disk Drives are divided into six slots, known as Partitions. Each Partition has 
 | **Slot 3** | DEF (Flat) | None |
 | **Slot 4** | None | ATK%, DEF%, HP%, CRIT Rate, CRIT DMG, Anomaly Proficiency |
 | **Slot 5** | None | ATK%, DEF%, HP%, PEN Ratio, Elemental DMG Bonus (Fire, Ice, etc.) |
-| **Slot 6** | None | ATK%, DEF%, HP%, Impact, Energy Regen, Anomaly Mastery |
+| **Slot 6** | None | ATK%, DEF%, HP%, Impact, [Energy Regen](https://ntecodex.com/guides/best-gear-for-gacha-theorycrafting-math-20260707), Anomaly Mastery |
 
 Slots 1, 2, and 3 are the easiest to farm because their main stats never change. Your farming focus should always be on Slots 4, 5, and 6, as these provide the most impactful combat modifiers.
 

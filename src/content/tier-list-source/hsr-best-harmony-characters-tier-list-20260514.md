@@ -103,7 +103,7 @@ A-tier characters are exceptionally strong but may have specific limitations or 
 Sparkle (Quantum) is still the go-to support for SP-hungry characters like Dan Heng • Imbibitor Lunae. Her ability to increase the team's total SP cap to 7 and recover 4 SP with her Ultimate is unmatched. While Sunday has taken over the 100% advance niche, Sparkle’s 50% Action Advance is often preferred for "hyperspeed" setups where the DPS needs to act three or more times in a single cycle.
 
 ### Harmony Trailblazer: The Super Break Engine
-The Harmony Trailblazer (Imaginary) remains a mandatory unit for any Super Break composition. Their "Backup Dancer" buff is the only way for many characters to access [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
+The Harmony Trailblazer (Imaginary) remains a mandatory unit for any [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) composition. Their "Backup Dancer" buff is the only way for many characters to access [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide).
 
 **Super [Break Damage Calculation](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) Example:**
 To understand the Trailblazer's value, consider this simplified formula for Super Break DMG:
