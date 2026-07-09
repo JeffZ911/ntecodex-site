@@ -47,7 +47,7 @@ Support utility in NTE generally falls into three categories:
 
 ### The Role of A-Rank Cartridges in the Early-to-Mid Game
 
-While S-Rank Cartridges like Lost Radiance offer the highest ceiling for performance, they are difficult to farm with optimal substats before reaching higher Hunter Levels. A-Rank (4-star) disks are the "sweet spot" for progression. They require fewer resources to upgrade and are significantly easier to obtain through Character Pixels and open-world exploration in Hethereau. 
+While S-Rank Cartridges like Lost Radiance offer the highest ceiling for performance, they are difficult to farm with optimal substats before reaching higher Hunter Levels. A-Rank (4-star) disks are the "sweet spot" for progression. They require fewer resources to upgrade and are significantly easier to obtain through Character Pixels and open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) in Hethereau. 
 
 For a support Esper, the raw stats of a 5-star disk are often less important than the set bonus of a 4-star disk. A support's primary job is to trigger a 4-piece set effect and then leave the field. Therefore, investing in a well-rolled 4-star Speedy Hedgehog set is often more beneficial for team DPS than using a mismatched or poorly rolled 5-star set.
 
@@ -122,7 +122,7 @@ Farming 4-star disks is a straightforward process once you reach **Hunter Level 
 To farm efficiently:
 *   **Targeted Farming:** Each Character Pixel domain features two specific Cartridge sets. Check the "Rewards" tab before spending your Stamina to ensure you are farming for Speedy Hedgehog or Shadow Creed.
 *   **The Recycling System:** You can dismantle unwanted 4-star disks to receive "Cartridge Dust." This dust can be used at the Gear Console in the main hub to craft specific pieces of a set. This is the best way to hunt for a "Circle" disk with a Charge Efficiency main stat.
-*   **Open World Exploration:** High-level chests and "Anomalous Encounters" in the Hethereau city districts often drop A-Rank disks. While the sets are random, this is a "stamina-free" way to build up your inventory.
+*   **[Open World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison):** High-level chests and "Anomalous Encounters" in the Hethereau city districts often drop A-Rank disks. While the sets are random, this is a "stamina-free" way to build up your inventory.
 
 ## Related
 

@@ -96,7 +96,7 @@ Efficiently leveling your characters requires knowing where to spend your Charac
 *   **Houdinii's Magic Stage:** This is the primary source for Hunter Guides. These challenges consist of waves of enemies that must be defeated within a time limit. Higher difficulty stages yield more Elite Hunter Guides.
 *   **Anomaly Hunts:** These are the boss arenas. You should only farm these when you are approaching a level cap (e.g., your character is level 39 and needs to hit level 40).
 *   **Anomaly Pilgrimage:** These nodes provide Beetle Coins. While you get Beetle Coins from almost every activity in the game, the Pilgrimage is the fastest way to replenish your reserves if you are aggressively leveling multiple characters.
-*   **Open World Exploration:** Common Ascension materials (like Anomaly fragments) do not cost Character Pixels to collect. You can obtain these simply by defeating enemies in the streets or completing random urban events.
+*   **[Open World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison):** Common Ascension materials (like Anomaly fragments) do not cost Character Pixels to collect. You can obtain these simply by defeating enemies in the streets or completing random urban events.
 
 ### Resource Management: Prioritizing Your Main Carry
 

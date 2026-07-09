@@ -165,7 +165,7 @@ Avoid picking **Daffodil** or **Hathor** as your first selector unless you happe
 Optimizing your F2P account is about more than just combat. To keep your resource flow steady, ensure you are engaging with all aspects of Hethereau:
 
 *   **NTE Tier List:** Check out our full Neverness to Everness Character Tier List for meta rankings to see how your F2P units stack up against limited characters like [Nanally](/characters/nanally-guide-nte).
-*   **City Tycoon Guide:** Learn how to optimize your urban exploration and property management with our Hethereau City Guide to [unlock Chiz](https://ntecodex.com/faq) faster.
+*   **City Tycoon Guide:** Learn how to optimize your [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) and property management with our Hethereau City Guide to [unlock Chiz](https://ntecodex.com/faq) faster.
 *   **Beginner's Guide to Urban Anomalies:** Need more pulls? See our guide on How to Get Fabricated Dice and Fons for Free by completing world exploration and anomaly hunts.
 
 ## Sources

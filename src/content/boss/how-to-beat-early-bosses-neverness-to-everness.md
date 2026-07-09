@@ -36,7 +36,7 @@ Mastering the urban anomalies of Hethereau requires more than just high-level ge
 
 The progression in Neverness to Everness (NTE) scales sharply once players reach the Ebisu District. While the initial tutorial encounters serve to introduce the basic controls, the difficulty shifts significantly once the "Break Gauge" becomes a factor in boss survivability. The Break Gauge is a secondary health bar that, when depleted through specific elemental attacks or parries, leaves the boss in a "Stunned" state, allowing your team to deal massive damage without retaliation.
 
-A critical milestone for any player is reaching Hunter Level 14. This level unlocks the ability to challenge major anomalies in the open world and progress through the main story episodes where the first "true" bosses reside. Below is the data for the primary early-game encounters you will face.
+A critical milestone for any player is reaching Hunter Level 14. This level unlocks the ability to challenge major anomalies in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and progress through the main story episodes where the first "true" bosses reside. Below is the data for the primary early-game encounters you will face.
 
 | Boss Name | Recommended Level | Element | Weakness | Location |
 | :--- | :--- | :--- | :--- | :--- |

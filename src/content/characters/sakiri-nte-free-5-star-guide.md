@@ -58,7 +58,7 @@ Players can obtain Sakiri for free through two primary methods:
 1.  **The Standard Board Selector:** After performing 50 pulls on the "Strange Encounters" standard banner (which only costs 40 pulls due to the 20% beginner discount), you can choose one of the six standard S-class characters.
 2.  **Launch Gift Box:** As part of the May 3rd launch celebration, a special gift box containing an S-class selector was distributed to all players who reached Hunter Level 10.
 
-Sakiri’s kit revolves around her autonomous demon-hammer, Kiroumaru. This weapon isn't just for swinging; it acts as a gravity-manipulating entity that can swallow smaller enemies whole, remove environmental barriers, and pin elite bosses to the ground with "Gravity Slurry." Whether you are clearing waves of mobs in the open world or trying to survive a high-difficulty Anomaly, Sakiri provides the breathing room necessary for your team to execute their rotations.
+Sakiri’s kit revolves around her autonomous demon-hammer, Kiroumaru. This weapon isn't just for swinging; it acts as a gravity-manipulating entity that can swallow smaller enemies whole, remove environmental barriers, and pin elite bosses to the ground with "Gravity Slurry." Whether you are clearing waves of mobs in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) or trying to survive a high-difficulty Anomaly, Sakiri provides the breathing room necessary for your team to execute their rotations.
 
 ## Skills
 
