@@ -128,7 +128,7 @@ Break Intensity is a separate calculation. While Cycle Intensity helps you use a
 Farming gear in NTE requires managing two different resources: **Character Pixels** and **Carrota Coins**.
 
 1.  **Cartridges (Rabbit Hole):** You farm Cartridges in Anomaly Zones, specifically the "Rabbit Hole" instances located in the New Herland District. Entering these costs Character Pixels (the game's stamina system). Higher [difficulty levels](https://ntecodex.com/faq) guarantee 5-star (Gold) Cartridges.
-2.  **Modules (Rewind Gacha):** Unlike Cartridges, Modules are primarily obtained through the "Rewind" system. You spend Carrota Coins—earned through daily missions, world exploration, and side quests—to pull for Modules. 
+2.  **Modules (Rewind Gacha):** Unlike Cartridges, Modules are primarily obtained through the "Rewind" system. You spend Carrota Coins—earned through daily missions, [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), and side quests—to pull for Modules. 
 3.  **Sub-stat Visibility:** One of the most player-friendly features of NTE is that you can see all four sub-stats on a Module or Cartridge before you spend resources to level it. This allows you to "trash" gear that doesn't have Cycle Intensity or HP/DEF rolls immediately, saving your upgrade materials for perfect pieces.
 
 ## Related

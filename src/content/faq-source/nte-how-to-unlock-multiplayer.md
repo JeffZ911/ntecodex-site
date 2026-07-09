@@ -91,7 +91,7 @@ While basic world exploration is available at Hunter Level 8, Hethereau offers s
 
 | Activity Name | Hunter Level Required | Tycoon Level Required |
 | :--- | :--- | :--- |
-| **Open World Exploration** | 8 | 1 |
+| **[Open World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison)** | 8 | 1 |
 | **Anomaly Containment (Bosses)** | 10 | 1 |
 | **Standard Street Racing** | 12 | 3 |
 | **Mahjong Parlors** | 15 | 2 |

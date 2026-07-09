@@ -104,7 +104,7 @@ One of the most critical mechanics in NTE is the Arc Type restriction. Character
 This restriction means that even if you have a Max-Mixed "Oraora!", you can only use it if you have a Plasma-type DPS on your team. This makes it vital to keep at least one high-quality 3-star Disk for every Arc Type. For example:
 *   **Gas Type:** Look for **Be Happy**, which restores 12% to 20% HP upon defeating an enemy, making it great for mob clearing.
 *   **Liquid Type:** **Shiny Days** is your go-to for breaking enemy stagger bars.
-*   **Solid Type:** **Time Bandit** is excellent for utility, as it summons the companion "Picky" to help unlock objects in the open world while boosting Break Intensity.
+*   **Solid Type:** **Time Bandit** is excellent for utility, as it summons the companion "Picky" to help unlock objects in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) while boosting Break Intensity.
 
 ### How to Maximize 3-Star Arcs via Mixing
 

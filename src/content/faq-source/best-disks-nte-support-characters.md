@@ -45,7 +45,7 @@ The support meta currently revolves around the "Esper Cycle" system, where suppo
 
 The best universal gear "disk" for support characters in NTE is the **Speedy Hedgehog** Cartridge set. This set is considered mandatory for most high-tier builds because it provides a 12% boost to Charge Efficiency and a 15% ATK buff to all party members for [information unavailable] seconds after the wearer uses their Ultimate.
 
-For weapon "disks," **Blow up the Crowd** stands as the premier S-Rank choice for buffers like Haniel. It offers high Base ATK and a passive that increases the team's Critical Damage when the equipper triggers an Esper Cycle. For players looking for a free-to-play alternative, **Day Off** is a powerful S-Rank Arc Disk obtainable through world exploration that provides substantial energy restoration.
+For weapon "disks," **Blow up the Crowd** stands as the premier S-Rank choice for buffers like Haniel. It offers high Base ATK and a passive that increases the team's Critical Damage when the equipper triggers an Esper Cycle. For players looking for a free-to-play alternative, **Day Off** is a powerful S-Rank Arc Disk obtainable through [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) that provides substantial energy restoration.
 
 Sustain-focused supports who prioritize keeping the team alive require more specialized configurations. **Adler** excels with the **Kingdom's Guard** set to maximize his shield strength, while **Fadia** benefits most from **Tiny Big Adventure**, which scales her healing based on her maximum HP.
 

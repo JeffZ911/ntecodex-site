@@ -161,7 +161,7 @@ Jing Yuan, in particular, appreciates Fu Xuan’s CC resist. If Jing Yuan is CC'
 Because Fu Xuan provides team-wide buffs rather than single-target ones, she is an excellent choice for teams running two damage dealers.
 *   **DPS 1:** Blade
 *   **DPS 2:** Jingliu
-*   **Support:** Pela or Ruan Mei
+*   **Support:** Pela or [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide)
 *   **Sustain:** Fu Xuan
 
 Blade benefits from the Max HP increase Fu Xuan provides, as his damage scales with his own HP. While Fu Xuan prevents some of the damage Blade wants to take to build his stacks, the overall stability and CRIT buffs she provides often outweigh this slight anti-synergy.

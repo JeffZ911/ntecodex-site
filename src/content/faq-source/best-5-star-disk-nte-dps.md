@@ -87,7 +87,7 @@ This is the signature weapon for Nanally, featured on "The Ichi-daime" limited b
 Designed for sustained damage dealers like Mint, this Arc focuses on the **Motor Candy** passive. While the wearer is the active character, they gain a 5% ATK boost every second, stacking up to five times for a total of 25% extra ATK. The drawback is that the effect resets immediately upon switching characters, making it ideal for "hyper-carry" rotations where your main DPS stays on the field for extended periods.
 
 **3. Day Off (Solid Type)**
-While technically a "Solid" type Arc, Day Off is highly versatile. It provides a massive 30% ATK boost at base level. Its unique "Eclipse" effect creates a 40-second zone during which every enemy defeated restores 6 Ultimate Energy. This makes it incredible for wave-clearing in the open world and ensures that Zero can maintain high Ultimate uptime.
+While technically a "Solid" type Arc, Day Off is highly versatile. It provides a massive 30% ATK boost at base level. Its unique "Eclipse" effect creates a 40-second zone during which every enemy defeated restores 6 Ultimate Energy. This makes it incredible for wave-clearing in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and ensures that Zero can maintain high Ultimate uptime.
 
 ### Best 5-Star Cartridge Sets for Damage
 

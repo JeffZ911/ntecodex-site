@@ -109,7 +109,7 @@ These compositions utilize high-rarity units that specifically bypass Sam's defe
 | :--- | :--- | :--- | :--- |
 | **Main DPS** | Acheron | Dan Heng • Imbibitor Lunae | Seele |
 | **Sub-DPS/Support** | Silver Wolf | Welt | Sparkle |
-| **Support** | Ruan Mei | Robin | Pela |
+| **Support** | [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) | Robin | Pela |
 | **Sustain** | Aventurine | Gepard | Fu Xuan |
 
 **Aventurine** is the absolute MVP for this fight. His shields refresh automatically and are not impacted by the healing debuff. Furthermore, his follow-up attacks contribute to Toughness reduction if Sam has an Imaginary weakness. **Acheron** is also top-tier because her Ultimate ignores Weakness types, allowing her to deplete Sam's Toughness bar even if Silver Wolf hasn't applied a Lightning weakness yet.

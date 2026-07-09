@@ -154,7 +154,7 @@ The upcoming arrival of Lacrimosa is highly anticipated because she is expected 
 For those just starting their journey on April 29 or early May, the most reliable team consists of:
 1.  **Nanally (Main DPS):** Focus on her heavy attack combos.
 2.  **Zero (Support/Sub-DPS):** Use Zero to setup elemental reactions.
-3.  **Haniel (Healer):** Essential for maintaining health during high-level urban exploration.
+3.  **Haniel (Healer):** Essential for maintaining health during high-level [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison).
 4.  **Hotori (Sub-DPS):** Provides the Anima resonance bonus to Nanally.
 
 To speed up your progress, ensure you are completing the daily "Hethereau Dispatch" missions to farm Fons and upgrade Hunter Levels. Increasing your Hunter Level is the only way to unlock higher-tier Cartridges and Arcs for your characters.

@@ -122,7 +122,7 @@ Multiplayer in NTE is quite flexible, but there are certain restrictions to keep
 
 | Feature | Available in Multiplayer? |
 | :--- | :--- |
-| Open World Exploration | Yes |
+| [Open World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) | Yes |
 | Main Story Quests | No |
 | Street Racing | Yes |
 | Pink Paws Heists | Yes |

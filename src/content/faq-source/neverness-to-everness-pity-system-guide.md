@@ -153,7 +153,7 @@ The Warp Exchange is a reliable way to obtain standard S-Rank characters without
 If you are looking to spend your guaranteed pity wisely, characters like Nanally offer immense value due to their high mobility and burst damage in urban combat scenarios. Keeping an eye on the current meta is essential before committing 90 pulls.
 
 ### How to Get More Free Pulls
-Annulith can be farmed consistently through urban exploration, finding hidden anomalies in Hethereau, and completing side quests. Participating in the City Tycoon management mini-game also provides a steady stream of Fabricated Dice for the standard pool.
+Annulith can be farmed consistently through [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison), finding hidden anomalies in Hethereau, and completing side quests. Participating in the City Tycoon management mini-game also provides a steady stream of Fabricated Dice for the standard pool.
 
 ### NTE Reroll Guide
 Because the 50-pull selector is available early on, rerolling in Neverness to Everness is a viable strategy for hardcore players. Aiming for a top-tier DPS from your initial free Fabricated Dice allows you to save your Solid Dice and pity for future limited power-creep characters.
