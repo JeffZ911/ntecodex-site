@@ -54,7 +54,7 @@ Before starting your farm, you must know what you are digging for:
 ![Direct Answer](/img/how-to-farm-nte-currency-guide/inline-2.webp)
 
 
-The primary way to farm premium currency (Annulith) is through Daily Participation Tasks, Spinoff side quests, and world exploration (Anomalies). Fons, the lifestyle currency, is best farmed via the Cafe by Origen management system and the bi-weekly Pink Paws Heist. Beetle Coins for character upgrades are obtained through Circle Bounty dailies and spending City Stamina on activities like racing or fishing.
+The primary way to farm premium currency (Annulith) is through Daily Participation Tasks, Spinoff side quests, and [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) (Anomalies). Fons, the lifestyle currency, is best farmed via the Cafe by Origen management system and the bi-weekly Pink Paws Heist. Beetle Coins for character upgrades are obtained through Circle Bounty dailies and spending City Stamina on activities like racing or fishing.
 
 ### Quick Reference for NTE Currency Sources
 

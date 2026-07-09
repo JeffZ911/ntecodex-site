@@ -135,7 +135,7 @@ In the "Boss Executioner" team, Nanally serves as the primary damage dealer. By 
 
 
 *   **NTE Character Tier List:** Discover which Espers currently dominate the 1.0 meta and which ones offer the best resonance scaling.
-*   **NTE Beginner Guide:** If you are just arriving in Hethereau, learn the basics of movement, urban exploration, and early-game combat.
+*   **NTE Beginner Guide:** If you are just arriving in Hethereau, learn the basics of movement, [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison), and early-game combat.
 *   **Best Weapons in NTE:** A guide to matching signature weapons (Arcs) with specific elemental resonance buffs to maximize your Cycle Rate.
 *   **Beyond the Rails Guide:** Strategies for using advanced Triple Cycle reactions to clear the highest difficulty floors of the endgame tower.
 

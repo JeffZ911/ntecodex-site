@@ -97,7 +97,7 @@ Furthermore, Nanally’s ultimate ability covers a wide radius, making it one of
 
 Sakiri’s value lies in the "Kiroumaru" summon. Kiroumaru acts as a semi-permanent turret and CC bot. When Sakiri uses her Skill, Kiroumaru lunges at the target and creates a vacuum effect. This grouping is vital because many other characters, such as Haniel or Chiz, have powerful but narrow AoE attacks. By using Sakiri to "center" the battlefield, you ensure that every subsequent ability hits the maximum number of targets.
 
-In the open world, Sakiri’s Nova-aligned attacks can also trigger freeze-like effects when interacting with certain environmental hazards, providing an extra layer of safety for players who are still mastering the dodge timing.
+In the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), Sakiri’s Nova-aligned attacks can also trigger freeze-like effects when interacting with certain environmental hazards, providing an extra layer of safety for players who are still mastering the dodge timing.
 
 ### Maximizing Free Units: Esper Zero and Chiz
 

@@ -35,7 +35,7 @@ Effective management of your resources in Hethereau is the difference between st
 Understanding the economy of Neverness to Everness (NTE) is essential for both combat progression and the urban simulation aspects of the game. Players frequently ask:
 
 *   **What are the primary currencies in Neverness to Everness (NTE)?** The game operates on a multi-currency system, primarily split between Annulith (premium/gacha), Beetle Coins (character growth), and Fons (urban/lifestyle).
-*   **How can players efficiently farm Annulith for gacha pulls?** Farming involves a combination of one-time story rewards, world exploration in Hethereau, and repeatable weekly challenges like Anomaly Hunts.
+*   **How can players efficiently farm Annulith for gacha pulls?** Farming involves a combination of one-time story rewards, [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) in Hethereau, and repeatable weekly challenges like Anomaly Hunts.
 *   **What is the best way to earn Fons for city-building and Beetle Coins for character upgrades?** Fons is best accumulated through passive business management and high-yield weekly events, while Beetle Coins are tied to daily combat commissions.
 *   **Are there daily or weekly limits on currency farming?** Yes, NTE utilizes a dual-stamina system—Esper Pixels and City Stamina—that governs how much of each currency can be actively farmed within a specific timeframe.
 

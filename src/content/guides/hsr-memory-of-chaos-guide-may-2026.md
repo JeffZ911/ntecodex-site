@@ -132,7 +132,7 @@ The Version 4.1 meta is dominated by two archetypes: The Ashveil Follow-Up Core 
 | :--- | :--- | :--- |
 | **Ashveil FUA Core** | Ashveil, Sunday, Tribbie, Aventurine | Node 1 (Zandar) |
 | **Mydei Hypercarry** | Mydei, Robin, Cyrene, Hyacine | Node 2 (Pollux) |
-| **Castorice Quantum Break** | Castorice, Remembrance TB, Ruan Mei, Gallagher | Node 1 (Zandar) |
+| **Castorice Quantum Break** | Castorice, Remembrance TB, [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide), Gallagher | Node 1 (Zandar) |
 | **Budget F2P** | Dan Heng • Permansor Terrae, Asta, Yukong, Lynx | Node 2 (Pollux) |
 
 ### The Ashveil FUA Core

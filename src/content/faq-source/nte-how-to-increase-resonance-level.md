@@ -97,7 +97,7 @@ When you enter the Awakening menu, you will see a hexagonal grid or a linear pat
 
 To activate a node, you need:
 1.  **Mind Shards:** 1 per node for most characters.
-2.  **Analith:** A common upgrade essence found in urban exploration and combat challenges.
+2.  **Analith:** A common upgrade essence found in [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) and combat challenges.
 3.  **Fons:** A specialized currency used for high-level character modifications.
 
 While you must eventually activate all six nodes to reach R2, the path between A1 and A3 sometimes allows for slight prioritization of stats (e.g., choosing between an ATK-focused node or a Crit-focused node first). However, the R1 milestone remains locked until the third node is fully energized.

@@ -135,7 +135,7 @@ The Elation Path turns follow-up attacks into tactical nukes. With the "Aftertas
 The Hunt is ideal for single-target bosses, while Erudition (unlocked via Gold and Gears) is built for Ultimate-heavy AoE damage.
 
 *   **Hunt Team:** Seele, Bronya, Tingyun, and Fu Xuan.
-*   **Erudition Team:** Argenti, Jade, Ruan Mei, and Huohuo.
+*   **Erudition Team:** Argenti, Jade, [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide), and Huohuo.
 
 ### F2P-Friendly SU Teams
 

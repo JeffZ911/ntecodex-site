@@ -142,7 +142,7 @@ Cosmos characters thrive on "Stability Damage," which allows them to break enemy
 
 For players who haven't pulled S-rank Arcs from the gacha, there are several powerful alternatives:
 *   **OraOra!:** This Arc can be purchased from the Hethereau Reputation Shop. It provides a solid ATK boost and is easy to Max Refine (R5).
-*   **Song of the Whale:** A defensive/offensive hybrid Arc that is excellent for newer players struggling with survivability in the open world.
+*   **Song of the Whale:** A defensive/offensive hybrid Arc that is excellent for newer players struggling with survivability in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 *   **Cartridge Farming:** Stick to the **Standard Resonance** sets available in early-game domains until you can comfortably clear the level 60 Cartridge trials.
 
 ### Support Disks that Buff Your DPS
