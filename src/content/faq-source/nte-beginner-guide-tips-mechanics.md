@@ -60,7 +60,7 @@ The gacha system, "Scarborough Fair," uses a board-game mechanic with Solid and 
 To ensure a smooth start in Hethereau, follow this checklist during your first session:
 
 1.  **Prologue Completion:** Finish the "Anomaly Outbreak" prologue to unlock your first three characters: [Nanally](/characters/nanally-guide-nte), Hotori, and the Protagonist.
-2.  **City Tycoon Rank 2:** Focus on side-jobs and the "Urban Exploration" tutorial until you hit Rank 2. This unlocks the Garage and the Key Fob system.
+2.  **City Tycoon Rank 2:** Focus on side-jobs and the "[Urban Exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison)" tutorial until you hit Rank 2. This unlocks the Garage and the Key Fob system.
 3.  **The First Roll:** Use your initial Fabricated Dice on the "Standard Research" board. Do not use Beetle Coins for this; save them for Solid Dice.
 4.  **Vehicle Link:** Head to the nearest Rampage Players shop to link your Key Fob to your starter car. This allows you to summon it anywhere on the road.
 5.  **Daily Commissions:** Unlock the "Hethereau Daily Bulletin" to start earning Beetle Coins and Fons (the lifestyle currency) immediately.

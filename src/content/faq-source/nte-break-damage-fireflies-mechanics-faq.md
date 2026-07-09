@@ -117,7 +117,7 @@ When an enemy is under the influence of these states, the resulting Discord reac
 ![Related](/img/nte-break-damage-fireflies-mechanics-faq/inline-4.webp)
 
 
-Beyond the technicalities of [Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), success in Neverness to Everness requires a holistic understanding of the city's systems, from character builds to urban exploration.
+Beyond the technicalities of [Break Damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide), success in Neverness to Everness requires a holistic understanding of the city's systems, from character builds to [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison).
 
 ### Esper Cycle Elemental Synergies
 

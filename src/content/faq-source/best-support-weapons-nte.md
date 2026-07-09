@@ -140,7 +140,7 @@ Weapon choice is only half the battle; you must pair these Arcs with the right E
 While the Fair is the primary way to get Arcs, many S-Rank weapons are farmable:
 1.  **Anomaly Commissions:** High-level commissions often drop specific S-Rank Arcs as first-time clear rewards.
 2.  **Field Bosses:** Defeating the **Never-Ending Arachne** boss in the Ebisu Auction House is a guaranteed way to obtain the **Eternal Waltz** Arc for free.
-3.  **City Tycoon Progression:** Completing world exploration milestones and business management tasks in Hethereau rewards players with Miracle Boxes and high-tier Arcs.
+3.  **City Tycoon Progression:** Completing [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) milestones and business management tasks in Hethereau rewards players with Miracle Boxes and high-tier Arcs.
 
 ### Weapon and Cartridge Synergy Guide
 To truly optimize a support, you must match your Arc with the correct Cartridges and Modules. For HP-scaling supports like Fadia, the **Tiny Big Adventure** 4-piece set is mandatory, as it provides a stacking HP% buff when taking damage. If you are using an energy-focused weapon like **Good Boy's Grand Adventure**, look for Cartridges that provide "Ultimate Energy Recovery" or "Cycle Intensity" to ensure your support can keep their weapon passives active 100% of the time.

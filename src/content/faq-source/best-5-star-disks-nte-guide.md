@@ -102,7 +102,7 @@ Acquiring these powerful Arcs requires a mix of luck and resource management.
 
 1.  **The Fair (Gacha):** Most 5-star disks are obtained through the Arc banners in "The Fair." Players use specialized currency to pull for these items. It is generally recommended to save your pulls for "The Ichi-daime" or similar limited-time banners that feature high-tier Arcs like Raging Flames.
 2.  **The Arc Shop and Tri-Keys:** This is the primary "pity" mechanic for Arcs. Whenever you pull on an Arc banner, you accumulate Tri-Keys. These Tri-Keys can be spent in the Arc Shop to directly purchase specific 5-star disks. This is the most reliable way for F2P (Free-to-Play) players to guarantee a meta-defining Arc like Good Boy's Grand Adventure.
-3.  **Wanted Level Bosses:** As mentioned with Hethereau's Keeper, certain Arcs are tied to world activities. Engaging with high-level supernatural threats in the open world can reward you with Arcs that are otherwise unavailable in the gacha.
+3.  **Wanted Level Bosses:** As mentioned with Hethereau's Keeper, certain Arcs are tied to world activities. Engaging with high-level supernatural threats in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) can reward you with Arcs that are otherwise unavailable in the gacha.
 
 ### Optimizing Disk Stats and Substats
 
