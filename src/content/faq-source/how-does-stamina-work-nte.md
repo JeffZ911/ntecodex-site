@@ -44,7 +44,7 @@ Mastering the various energy systems in Hethereau is the first step to becoming 
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-14._
 
 
-In Neverness to Everness, stamina is not a single resource but a trio of independent systems that govern your combat growth, economic power, and world exploration. Unlike traditional gacha games that gate all content behind one "Energy" bar, NTE splits these into Character Pixels, City Stamina, and Exploration Stamina. Understanding the nuances of each is vital for optimizing your daily and weekly routines in Hethereau.
+In Neverness to Everness, stamina is not a single resource but a trio of independent systems that govern your combat growth, economic power, and [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison). Unlike traditional gacha games that gate all content behind one "Energy" bar, NTE splits these into Character Pixels, City Stamina, and Exploration Stamina. Understanding the nuances of each is vital for optimizing your daily and weekly routines in Hethereau.
 
 ## Question Restated
 

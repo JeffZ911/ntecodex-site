@@ -40,7 +40,7 @@ Determining which characters remain viable from the early game into the mid-game
 
 ### What defines a 'Best' Early Game Character?
 
-In the context of NTE Version 1.0, a top-tier early game character typically possesses three traits: high area-of-effect (AoE) capabilities, self-sufficiency, and synergy with the Esper Cycle system. Because players spend a significant amount of time traversing the open world and completing street-level skirmishes, characters with "Summon" mechanics—like those who can call upon autonomous entities to fight alongside them—are highly valued. These summons allow for passive damage output while the player focuses on dodging or cycling through elemental reactions.
+In the context of NTE Version 1.0, a top-tier early game character typically possesses three traits: high area-of-effect (AoE) capabilities, self-sufficiency, and synergy with the Esper Cycle system. Because players spend a significant amount of time traversing the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and completing street-level skirmishes, characters with "Summon" mechanics—like those who can call upon autonomous entities to fight alongside them—are highly valued. These summons allow for passive damage output while the player focuses on dodging or cycling through elemental reactions.
 
 ### The Importance of the NTE Launch Meta (Version 1.0)
 

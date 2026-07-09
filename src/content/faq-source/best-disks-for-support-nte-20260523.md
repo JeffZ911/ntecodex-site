@@ -75,7 +75,7 @@ While often viewed as a Sub-DPS set, Shadow Creed is the premier choice for "Ski
 ### Niche & Survival Support Sets
 
 **Kingdom’s Guard**
-Characters like Adler rely heavily on DEF scaling to provide shields. Kingdom’s Guard is currently the only set that offers both a flat DEF increase and a team-wide Damage Reduction (DR) buff. This is vital for players who struggle with the aggressive attack patterns of Boss-class Anomalies in the open world.
+Characters like Adler rely heavily on DEF scaling to provide shields. Kingdom’s Guard is currently the only set that offers both a flat DEF increase and a team-wide Damage Reduction (DR) buff. This is vital for players who struggle with the aggressive attack patterns of Boss-class Anomalies in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 
 **Thea’s Night Tavern**
 Fadia remains the most popular healer in the game, and Thea’s Night Tavern is her signature set. The energy restoration mechanic (2 energy per second) is often overlooked but allows for "infinite looping" of Ultimates in well-constructed teams.

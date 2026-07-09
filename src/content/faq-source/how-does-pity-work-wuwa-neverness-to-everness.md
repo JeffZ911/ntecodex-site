@@ -125,7 +125,7 @@ Expert players generally recommend using your free pulls first to see which S-cl
 
 ### How to Farm Pull Currency in Hethereau
 
-Acquiring Annulith and Dice is primarily done through open-world exploration and completing Anomaly commissions. Hethereau is a dense urban environment where "Urban Anomalies" serve as the primary source of renewable currency. Completing these combat challenges and solving environmental puzzles will reward you with Annulith.
+Acquiring Annulith and Dice is primarily done through open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and completing Anomaly commissions. Hethereau is a dense urban environment where "Urban Anomalies" serve as the primary source of renewable currency. Completing these combat challenges and solving environmental puzzles will reward you with Annulith.
 
 Additionally, the **Fair Exchange** shop allows you to trade Warp Pieces (obtained from pulling S/A-class duplicates) and Lost Pieces (obtained from B-class duplicates) for Solid Dice and Tri-Keys. Always prioritize the monthly discounted Dice in the shop to maximize your pull count.
 

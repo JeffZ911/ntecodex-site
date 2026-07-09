@@ -146,7 +146,7 @@ For most support characters, the "Golden Ratio" involves reaching at least 134 S
 As a general rule, Support characters (Harmony, Abundance, and some Nihility) almost always prefer an ERR Link Rope over ATK%, HP%, or DEF%. Their primary value comes from their Ultimates.
 
 *   **Tingyun:** Requires an ERR rope and often "Meshing Cogs" to maintain a consistent 3-turn rotation to battery the main DPS.
-*   **Ruan Mei:** Needs an ERR rope to ensure her high-cost Ultimate (140) is available frequently to maintain her Resistance Penetration (RES PEN) field.
+*   **[Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide):** Needs an ERR rope to ensure her high-cost Ultimate (140) is available frequently to maintain her Resistance Penetration (RES PEN) field.
 *   **Huohuo:** As a healer who also provides energy to the team, her Ultimate uptime is paramount.
 *   **Robin:** Due to her 160 energy cost, every percentage of ERR is vital to ensure she can re-enter her "Concerto" state.
 *   **Pela/Silver Wolf:** These Nihility supports need their Ultimates to apply Defense Shred. An ERR rope allows them to maintain 100% uptime on these debuffs.

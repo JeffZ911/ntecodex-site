@@ -125,7 +125,7 @@ Failing to complete the Appraisal Test will cap your Hunter Rank experience, so 
 
 ### Bond and Affection: Using Gifts for Stat Bonuses
 
-Beyond combat and gear, the relationship between the player and their Espers provides incremental stat bonuses. By giving specific gifts—found in convenience stores or through urban exploration—you increase an Esper's Bond level. Higher Bond levels unlock "Affection Bonuses," which can include small percentages of extra Health or specialized "Urban Traits" that make exploration (like driving or parkour) more efficient.
+Beyond combat and gear, the relationship between the player and their Espers provides incremental stat bonuses. By giving specific gifts—found in convenience stores or through [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison)—you increase an Esper's Bond level. Higher Bond levels unlock "Affection Bonuses," which can include small percentages of extra Health or specialized "Urban Traits" that make exploration (like driving or parkour) more efficient.
 
 ## Related Progression Systems
 
