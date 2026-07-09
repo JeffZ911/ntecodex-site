@@ -34,7 +34,7 @@ Exploring the neon-soaked streets of Hethereau is a highlight of the experience,
 
 Players arriving in the bustling metropolis of Hethereau often ask how soon they can team up with friends. The multiplayer functionality in Neverness to Everness (NTE) is not available from the very beginning of the game, which leads to several common questions regarding its accessibility.
 
-The most frequent inquiries involve the specific level requirement to unlock multiplayer and which story missions serve as the gatekeeper for co-op play. Because the game features a dense tutorial phase that introduces combat, urban exploration, and the Tycoon system, many players find themselves wondering why the social menus remain locked during their first few hours of play.
+The most frequent inquiries involve the specific level requirement to unlock multiplayer and which story missions serve as the gatekeeper for co-op play. Because the game features a dense tutorial phase that introduces combat, [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison), and the Tycoon system, many players find themselves wondering why the social menus remain locked during their first few hours of play.
 
 Another point of confusion is the location of the multiplayer menu itself. The in-game smartphone interface is packed with various apps, and the co-op settings are not on the primary screen. Furthermore, players often ask if there are different requirements for specific side activities. While basic exploration and combat co-op unlock early, more specialized modes like competitive street racing or high-stakes mahjong games have their own progression milestones tied to the Tycoon Level system.
 

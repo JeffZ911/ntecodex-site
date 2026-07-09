@@ -175,7 +175,7 @@ Huohuo shines in compositions where her ATK buffs and Energy restoration are ful
 ### The DoT Core: Kafka & Black Swan
 
 Huohuo is the undisputed best sustain for Damage over Time (DoT) teams. DoT damage scales heavily off ATK, and characters like Kafka and Black Swan rely on their Ultimates to apply or detonate DoT stacks. Huohuo provides the ATK they crave and the Energy they need to maintain their rotation.
-*   **Premium DoT Team:** Kafka, Black Swan, Ruan Mei, Huohuo.
+*   **Premium DoT Team:** Kafka, Black Swan, [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide), Huohuo.
 *   **Alternative DoT:** Kafka, Sampo/Guinaifen, Asta, Huohuo.
 
 ### The Ultimate Battery: Argenti & Yunli

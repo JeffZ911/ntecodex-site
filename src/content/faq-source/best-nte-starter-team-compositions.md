@@ -32,7 +32,7 @@ Building a balanced team in Neverness to Everness (NTE) is the difference betwee
 ![Question Restated](/img/best-nte-starter-team-compositions/inline-1.webp)
 
 
-What are the most effective team builds for new players in Neverness to Everness (NTE)? Early-game progression relies heavily on understanding which free characters to prioritize and how their elemental synergies, known as the Esper Cycle, dictate combat efficiency. To master the Hethereau open world, players must find a balance between raw damage, survivability, and crowd control.
+What are the most effective team builds for new players in Neverness to Everness (NTE)? Early-game progression relies heavily on understanding which free characters to prioritize and how their elemental synergies, known as the Esper Cycle, dictate combat efficiency. To master the Hethereau [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), players must find a balance between raw damage, survivability, and crowd control.
 
 The elemental system in NTE is not just about damage types; it is about how these elements interact when characters are swapped mid-combat. Below is a breakdown of the six Esper Elements and how they form Duo and Trio reactions.
 

@@ -180,7 +180,7 @@ The **Abundance** is the safest Path for beginners. It provides constant healing
 The Path of Propagation is unlocked by completing all chapters of the **Swarm Disaster** DLC. The Path of Erudition is unlocked by progressing through the **Gold and Gears** DLC. These are permanent expansions to the Simulated Universe.
 
 **Should I choose Combat or Occurrence domains?**
-Early in a run, choose **Combat** domains to guarantee Blessings and build your Resonance. In the middle of a run, **Occurrence** domains are better as they offer a chance at powerful Curios or rare events (like the Ruan Mei event which grants all Blessings of a Path). Use **Gush undisclosed** or similar mechanics in DLCs to skip unnecessary fights if your build is already strong.
+Early in a run, choose **Combat** domains to guarantee Blessings and build your Resonance. In the middle of a run, **Occurrence** domains are better as they offer a chance at powerful Curios or rare events (like the [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) event which grants all Blessings of a Path). Use **Gush undisclosed** or similar mechanics in DLCs to skip unnecessary fights if your build is already strong.
 
 ## Sources
 

@@ -163,7 +163,7 @@ Looking for the best characters to spend your Annulith on? Check our NTE charact
 Want to optimize your gear for the Prime Circle? See our guide on the best Arcs in NTE to find the perfect weapon for your favorite characters. Finally, if you want to turn your shop into a financial empire, check out our deep-dive on NTE Cafe management strategy for the best recipe combinations and staff layouts.
 
 ### NTE Character Tier List
-Choosing the right characters to invest in will save you thousands of Beetle Coins in the long run. Focus on S-tier units that excel in both Beyond the Rails and open-world exploration.
+Choosing the right characters to invest in will save you thousands of Beetle Coins in the long run. Focus on S-tier units that excel in both Beyond the Rails and open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 
 ### NTE Beginner Guide
 The early hours of the game provide a massive influx of Annulith. Our beginner guide shows you how to navigate the first ten Tycoon levels efficiently to unlock the Pink Paws Heist as quickly as possible.

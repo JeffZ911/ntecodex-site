@@ -103,7 +103,7 @@ For Psyche-based teams, **"Blow up the Crowd"** is the cornerstone. Its "Beat Ki
 Not every player will have a full roster of S-Rank Arcs. Fortunately, several A-Rank and B-Rank options provide competitive utility:
 
 *   **Umbrella (A-Rank, Synthesis):** This is the premier defensive support Arc. It grants a 10% HP boost and strengthens shields by up to 18% while the wearer’s HP is above 50%. It is the best-in-slot for Adler when building him as a pure tank/shielder.
-*   **Time Bandit (A-Rank, Solid):** This Arc is excellent for "Breaker" supports. After using a Redirect Skill, it spikes Break Intensity by 90 for 10 seconds. It also summons a companion named "Picky" who can unlock nearby objects in the open world, combining combat utility with exploration ease.
+*   **Time Bandit (A-Rank, Solid):** This Arc is excellent for "Breaker" supports. After using a Redirect Skill, it spikes Break Intensity by 90 for 10 seconds. It also summons a companion named "Picky" who can unlock nearby objects in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), combining combat utility with exploration ease.
 *   **The Great Thief (A-Rank, Synthesis):** This weapon is niche but powerful for mono-type teams. It increases Break Intensity by 70 for all characters of the same Esper Type as the wearer, provided there are at least three characters of that type in the party.
 *   **Be Happy (B-Rank, Gas):** A simple but effective early-game tool. Its "Huggy Vines" effect restores 12% of the wearer's HP upon defeating an enemy. While it doesn't offer team buffs, it keeps your support alive during difficult boss transitions.
 

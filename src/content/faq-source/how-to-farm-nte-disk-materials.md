@@ -72,7 +72,7 @@ For maximum efficiency, players should avoid heavy farming of Cartridges until r
 ![Detailed Explanation](/img/how-to-farm-nte-disk-materials/inline-3.webp)
 
 
-Farming in NTE is a structured process that moves from open-world exploration to high-intensity domain clears. Understanding the loop between gathering stamina and spending it in the right districts is essential for progression.
+Farming in NTE is a structured process that moves from open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) to high-intensity domain clears. Understanding the loop between gathering stamina and spending it in the right districts is essential for progression.
 
 ### Farming Cartridges in the Rabbit Hole
 The Rabbit Hole is the most important destination for any player looking to improve their combat power. These domains are physical locations in the world that you can fast-travel to once unlocked. 
