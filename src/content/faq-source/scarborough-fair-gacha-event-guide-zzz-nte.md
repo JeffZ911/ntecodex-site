@@ -105,7 +105,7 @@ For those pulling for Lacrimosa, obtaining her signature Arc, the Nocturne Speci
 To maximize your rolls in the Scarborough Fair, you must consistently farm Annulith. The most reliable sources include:
 *   **Daily Commissions:** Completing tasks around Hethereau City provides a steady stream of currency.
 *   **Anomaly Commissions:** These high-difficulty combat challenges offer large one-time rewards of Annulith upon first completion.
-*   **Urban Exploration:** Opening chests and solving environmental puzzles in the various districts of Hethereau City can yield small amounts of premium currency that add up over time.
+*   **[Urban Exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison):** Opening chests and solving environmental puzzles in the various districts of Hethereau City can yield small amounts of premium currency that add up over time.
 
 | Banner Type | Pity (Soft/Hard) | Guarantee | Currency |
 | :--- | :--- | :--- | :--- |

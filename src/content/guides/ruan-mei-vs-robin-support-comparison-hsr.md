@@ -25,7 +25,7 @@ Choosing between the two most powerful Harmony units in Honkai: Star Rail can de
 
 # Ruan Mei vs. Robin: The Ultimate Harmony Support Comparison
 
-The Harmony Path contains the most influential characters in Honkai: Star Rail, but Ruan Mei and Robin stand at the absolute peak of the meta. While both offer massive team-wide buffs, they serve fundamentally different archetypes. Ruan Mei is the cornerstone of Break-based strategies and generalist comfort, while Robin is the high-octane engine for Follow-Up Attack (FUA) teams and competitive turn-manipulation. Deciding which one to prioritize depends heavily on your current roster of Damage Dealers (DPS) and your preferred playstyle.
+The Harmony Path contains the most influential characters in Honkai: Star Rail, but [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) and Robin stand at the absolute peak of the meta. While both offer massive team-wide buffs, they serve fundamentally different archetypes. Ruan Mei is the cornerstone of Break-based strategies and generalist comfort, while Robin is the high-octane engine for Follow-Up Attack (FUA) teams and competitive turn-manipulation. Deciding which one to prioritize depends heavily on your current roster of Damage Dealers (DPS) and your preferred playstyle.
 
 ## TL;DR Verdict
 

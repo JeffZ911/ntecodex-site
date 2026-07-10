@@ -149,7 +149,7 @@ Flicker-free backlighting and low blue light modes are critical. During long ses
 ![Comparison summary](/img/lighter-vs-koleda-stun-comparison-gear/inline-3.webp)
 
 
-When conducting a lighter vs koleda stun comparison, the hardware's ability to render frame-perfect transitions is more impactful than the character's base stats. While Lighter and Koleda are known for their high stun values in Zenless Zone Zero, executing their optimal combos requires a monitor that doesn't drop frames during character swaps.
+When conducting a [lighter vs koleda](https://ntecodex.com/guides/zzz-lighter-vs-koleda-daze-comparison-monitors) stun comparison, the hardware's ability to render frame-perfect transitions is more impactful than the character's base stats. While Lighter and Koleda are known for their high stun values in Zenless Zone Zero, executing their optimal combos requires a monitor that doesn't drop frames during character swaps.
 
 | Feature | LG 27GP850-B | ASUS PG27AQDM | Alienware AW2725DF |
 | :--- | :--- | :--- | :--- |

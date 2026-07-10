@@ -154,7 +154,7 @@ Pela's flexibility allows her to fit into almost any team, but she has specific 
 | Team Type | Character 1 (DPS) | Character 2 (Support) | Character 3 (Support/Sustain) | Synergy Reason |
 | :--- | :--- | :--- | :--- | :--- |
 | **Acheron Hyper** | Acheron | Pela | Silver Wolf / Guinaifen | Pela provides fast debuffs to build Acheron's Ultimate stacks. |
-| **Jingliu Ice** | Jingliu | Pela (E4) | Bronya / Ruan Mei | Pela's E4 shreds Ice RES, directly buffing Jingliu's massive DMG. |
+| **Jingliu Ice** | Jingliu | Pela (E4) | Bronya / [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) | Pela's E4 shreds Ice RES, directly buffing Jingliu's massive DMG. |
 | **Dr. Ratio FUA** | Dr. Ratio | Pela | Robin / Sparkle | Pela with "Resolution" LC provides two debuffs for Ratio's follow-up. |
 | **F2P General** | Dan Heng | Pela | Asta | Natasha / Lynx | High SP generation allows Dan Heng and Asta to use skills freely. |
 

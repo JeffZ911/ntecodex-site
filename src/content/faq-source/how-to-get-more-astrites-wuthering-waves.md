@@ -45,7 +45,7 @@ This guide covers every available avenue for gathering Astrites, from the initia
 
 Astrites serve as the primary premium currency in [Wuthering Waves](https://ntecodex.com/guides/tactical-simulacrum-event-rewards-wuthering-waves-gear-guide). You use them to purchase Tides, which are the items required to perform "Convenes" (pulls) on the game's various banners. The standard conversion rate is 160 Astrites for one Tide.
 
-To get more Astrites, you must combine daily activities with world exploration and high-level combat challenges. The most consistent source is the Guidebook’s Daily Activity rewards, which grant 60 Astrites every 24 hours. For large, one-time gains, you should prioritize completing the Main Quest, leveling up your Data Bank, and hunting for Supply Chests across the map.
+To get more Astrites, you must combine daily activities with [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and high-level combat challenges. The most consistent source is the Guidebook’s Daily Activity rewards, which grant 60 Astrites every 24 hours. For large, one-time gains, you should prioritize completing the Main Quest, leveling up your Data Bank, and hunting for Supply Chests across the map.
 
 The following table summarizes the primary Astrite sources available in the game:
 

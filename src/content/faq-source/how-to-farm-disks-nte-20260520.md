@@ -47,7 +47,7 @@ Farming Disks is not just about increasing your raw damage; it is about synergy.
 ![Direct Answer](/img/how-to-farm-disks-nte-20260520/inline-2.webp)
 
 
-Disks (officially called Arcs) are primarily farmed through the Arc Research Program using Tri-Keys. While this is a gacha-based system, free-to-play players can farm Disks by completing specific world missions, such as the "Eclipse" mission, and exploring the open world of Hethereau to collect Oracle Stones. The most consistent way to "farm" them over the long term is by earning Annulith through daily commissions, achievements, and Tycoon level rewards, then converting that Annulith into Tri-Keys. Additionally, the Arc Shop allows you to purchase specific S-Rank Disks directly using 25 Tri-Keys each, providing a reliable path to high-tier gear without relying solely on luck.
+Disks (officially called Arcs) are primarily farmed through the Arc Research Program using Tri-Keys. While this is a gacha-based system, free-to-play players can farm Disks by completing specific world missions, such as the "Eclipse" mission, and exploring the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) of Hethereau to collect Oracle Stones. The most consistent way to "farm" them over the long term is by earning Annulith through daily commissions, achievements, and Tycoon level rewards, then converting that Annulith into Tri-Keys. Additionally, the Arc Shop allows you to purchase specific S-Rank Disks directly using 25 Tri-Keys each, providing a reliable path to high-tier gear without relying solely on luck.
 
 ### Quick Summary of Farming Methods
 

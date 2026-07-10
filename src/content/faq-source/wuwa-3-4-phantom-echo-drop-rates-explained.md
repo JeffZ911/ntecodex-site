@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Finding the perfect Phantom Echo in Wuthering Waves version 3.4 requires a mix of patience and precise timing, much like the high-stakes urban exploration found in Neverness to Everness. As players transition between these two massive open-world titles, understanding the nuances of gear drop rates and rarity thresholds is essential for maximizing character power.
+Finding the perfect Phantom Echo in Wuthering Waves version 3.4 requires a mix of patience and precise timing, much like the high-stakes [urban exploration](https://ntecodex.com/guides/nte-vs-zzz-urban-exploration-gear-comparison) found in Neverness to Everness. As players transition between these two massive open-world titles, understanding the nuances of gear drop rates and rarity thresholds is essential for maximizing character power.
 
 # WuWa 3.4 Phantom Echo Drop Rates Explained: NTE Comparison Guide
 

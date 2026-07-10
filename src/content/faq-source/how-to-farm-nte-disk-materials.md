@@ -101,7 +101,7 @@ Arcs (weapons) require a different set of materials for ascension. To push an Ar
 
 ### Efficiency Tips: When to Start the Gold Gear Grind
 Efficiency is key in NTE because Character Pixels are a limited resource.
-*   **Hunter Level 1-20:** Focus on story missions and world exploration. Use whatever B-Rank (Blue) or A-Rank (Purple) gear you find naturally.
+*   **Hunter Level 1-20:** Focus on story missions and [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison). Use whatever B-Rank (Blue) or A-Rank (Purple) gear you find naturally.
 *   **Hunter Level 20-30:** Start doing daily Rabbit Hole runs to keep your main team geared, but do not use "Pixel Refills" (stamina potions) yet.
 *   **Hunter Level 30+:** This is when S-Rank (Gold) gear becomes a common drop. This is the optimal time to spend your saved Pixel Refills to farm for specific Cartridge sets with ideal sub-stats.
 
