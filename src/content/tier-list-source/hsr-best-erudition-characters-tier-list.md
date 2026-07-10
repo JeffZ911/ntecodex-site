@@ -43,7 +43,7 @@ This tier list is designed to provide a realistic look at character power for th
 *   **Primary Focus on Pure Fiction (PF):** Erudition characters are fundamentally designed for Area of Effect (AoE) damage. Their ability to clear multiple waves of enemies quickly is the primary metric for their ranking.
 *   **Secondary Focus on Memory of Chaos (MoC) and Apocalyptic Shadow (AS):** While Erudition units naturally excel in PF, their viability against high-HP bosses in MoC and AS is a significant factor in distinguishing S-tier units from A-tier units.
 *   **Investment Baseline:** 5-star characters are evaluated at E0 (Eidolon 0) with their Signature Light Cone (S1) or the best available F2P alternative. 4-star characters are evaluated at E6 to reflect their maximum potential as accessible units.
-*   **Synergy with Modern Supports:** Rankings consider how well these units pair with top-tier Harmony and Nihility supports, including Robin, Sunday, and Ruan Mei.
+*   **Synergy with Modern Supports:** Rankings consider how well these units pair with top-tier Harmony and Nihility supports, including Robin, Sunday, and [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide).
 *   **Mechanical Adaptability:** Characters are assessed on how effectively they utilize modern gameplay mechanics, such as follow-up attack (FUA) frequency and Break Efficiency.
 
 ### Pure Fiction vs. Memory of Chaos Weighting

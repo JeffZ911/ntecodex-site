@@ -72,7 +72,7 @@ There are five reward milestones at 20, 40, 60, 80, and 100 points. Reaching the
 
 ### World Exploration: Chests, Puzzles, and Blobflies
 
-The open world of Solaris-3 is filled with hidden treasures. Supply Chests are the most numerous source of one-time Astrites. They are categorized into four rarities, each providing a different amount of currency.
+The [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) of Solaris-3 is filled with hidden treasures. Supply Chests are the most numerous source of one-time Astrites. They are categorized into four rarities, each providing a different amount of currency.
 
 | Chest Type | Astrite Reward |
 | :--- | :--- |

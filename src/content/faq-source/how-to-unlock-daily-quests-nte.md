@@ -44,7 +44,7 @@ Daily quests, referred to in-game primarily through the Participation Tasks syst
 
 ### Common Confusion for New Players
 
-A frequent point of friction occurs during the transition between the initial tutorial and the open-world exploration phase. Because NTE blends traditional RPG questing with city management and "City Tycoon" mechanics, players might expect dailies to unlock as soon as they reach the first safe zone. However, the game locks these features behind a narrative gate to ensure players understand the core combat and movement mechanics before introducing the daily grind. This leads many to believe they have missed a side quest or failed to interact with a specific NPC in the Hesperia Business District.
+A frequent point of friction occurs during the transition between the initial tutorial and the open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) phase. Because NTE blends traditional RPG questing with city management and "City Tycoon" mechanics, players might expect dailies to unlock as soon as they reach the first safe zone. However, the game locks these features behind a narrative gate to ensure players understand the core combat and movement mechanics before introducing the daily grind. This leads many to believe they have missed a side quest or failed to interact with a specific NPC in the Hesperia Business District.
 
 [Screenshot of the NTE Exploration Guide menu highlighting the Participation Tasks tab.]
 

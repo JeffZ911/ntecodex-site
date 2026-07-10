@@ -129,7 +129,7 @@ Annulith is the currency you will likely guard most closely. While Fons can be f
 1.  **Exploration Stars:** Each district in Hethereau has a completion percentage. Finding all Oracle Stones, tracking down hidden Ravens, and interacting with every Phone Booth triggers star rewards. Each milestone typically grants 60 to 100 Annulith.
 2.  **Hunter Level Milestones:** As you increase your combat Hunter Level, check the rewards menu. High-tier milestones often bypass Annulith and give you **Solid Dice** directly.
 3.  **Riftcrystals:** This is the "paid-only" currency. Riftcrystals convert to Annulith at a 1:1 ratio.
-4.  **Tri-Keys:** These are rare items used to unlock special "Anomaly Chests" found in the open world, which contain small amounts of Annulith and rare upgrade materials.
+4.  **Tri-Keys:** These are rare items used to unlock special "Anomaly Chests" found in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), which contain small amounts of Annulith and rare upgrade materials.
 
 ### Exploration and Achievement Hunting
 
