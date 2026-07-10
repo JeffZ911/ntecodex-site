@@ -162,7 +162,7 @@ Pela's flexibility allows her to fit into almost any team, but she has specific 
 
 **Acheron Teams:** Pela is arguably Acheron’s best 4-star teammate. Acheron requires Nihility teammates to apply debuffs to charge her Ultimate. Pela can apply a debuff with her Ultimate, her Skill (at E4), and even her Basic ATK if she is wearing the "Resolution Shines As Pearls of Sweat" Light Cone. This makes her an incredibly efficient battery for Acheron.
 
-**Jingliu Teams:** Jingliu is a powerhouse, and Pela is her perfect partner. At Eidolon 4, Pela’s Skill reduces enemy Ice RES by 12%. When combined with the universal DEF shred from Pela’s Ultimate, Jingliu’s damage reaches ceiling-shattering levels. Since Jingliu is relatively SP-efficient, this duo allows for a very flexible third slot, usually a Harmony unit like Bronya or Ruan Mei.
+**Jingliu Teams:** Jingliu is a powerhouse, and Pela is her perfect partner. At Eidolon 4, Pela’s Skill reduces enemy Ice RES by 12%. When combined with the universal DEF shred from Pela’s Ultimate, Jingliu’s damage reaches ceiling-shattering levels. Since Jingliu is relatively SP-efficient, this duo allows for a very flexible third slot, usually a Harmony unit like Bronya or [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide).
 
 ### Free-to-Play Friendly Teams
 

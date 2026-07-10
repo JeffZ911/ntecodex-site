@@ -92,7 +92,7 @@ Smart players use a strategy called "priming." If you are looking for a specific
 
 A common mistake is spending all Waveplates on Tacet Fields too early. While Tacet Fields provide Echoes, their primary value lies in Sealed Tubes (EXP) and Tuners. 
 
-*   **Open World Farming:** Costs 0 Waveplates. Use this to find the correct "Main Stat" (e.g., Crit Rate on a 4-cost or Elemental DMG on a 3-cost).
+*   **[Open World](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) Farming:** Costs 0 Waveplates. Use this to find the correct "Main Stat" (e.g., Crit Rate on a 4-cost or Elemental DMG on a 3-cost).
 *   **Tacet Fields:** Costs 60 Waveplates. Use this only when you have found a good Echo and need the materials to level and tune it.
 
 It is generally recommended to avoid heavy Tacet Field farming until you reach Union Level 40, where the rewards scale significantly. Before UL 40, your Waveplates are better spent on Resonator and Weapon ascension materials.

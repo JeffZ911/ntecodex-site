@@ -30,7 +30,7 @@ Determining whether to prioritize Daze-heavy Stun compositions or status-driven 
 ![TL;DR Verdict](/img/zzz-stun-vs-anomaly-build-guide/inline-1.webp)
 
 
-Choosing between a Stun build and an Anomaly build depends entirely on your roster's "engine." Stun builds are the reliable backbone of traditional burst damage, while Anomaly builds offer a high-investment, high-reward alternative that scales exceptionally well against late-game bosses with massive HP pools.
+Choosing between a Stun build and an [Anomaly build](https://ntecodex.com/guides/zzz-yanagi-vs-grace-anomaly-build-comparison-gear) depends entirely on your roster's "engine." Stun builds are the reliable backbone of traditional burst damage, while Anomaly builds offer a high-investment, high-reward alternative that scales exceptionally well against late-game bosses with massive HP pools.
 
 *   **Stun builds** focus on the 'Daze' bar to create high-damage windows for Attack Agents via Chain Attacks.
 *   **Anomaly builds** focus on 'Attribute Buildup' to trigger status effects and 'Disorder' for massive sustained damage.

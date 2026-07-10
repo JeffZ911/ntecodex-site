@@ -99,7 +99,7 @@ Tracking the colorful, high-speed effects of Esper abilities requires a display 
 *   HDR 400 certification is basic and offers minimal improvement over standard dynamic range.
 
 **Verdict:**
-The 180Hz overclocked refresh rate and Nano IPS panel ensure that fast-moving combat remains blur-free, which is essential for tracking status effect gauges and anomaly build-up. While the contrast is lower than VA alternatives, the motion clarity is top-tier for its price bracket.
+The 180Hz overclocked refresh rate and Nano IPS panel ensure that fast-moving combat remains blur-free, which is essential for tracking status effect gauges and [anomaly build](https://ntecodex.com/guides/zzz-yanagi-vs-grace-anomaly-build-comparison-gear)-up. While the contrast is lower than VA alternatives, the motion clarity is top-tier for its price bracket.
 
 ---
 

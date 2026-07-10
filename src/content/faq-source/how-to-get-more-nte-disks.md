@@ -62,7 +62,7 @@ Neverness to Everness features a generous but structured economy. Because the ga
 ![Direct Answer](/img/how-to-get-more-nte-disks/inline-2.webp)
 
 
-The fastest way to get more NTE Disks and Dice is by maximizing your Daily Participation Tasks and claiming all available Login Rewards during version updates. For a consistent long-term supply, you must focus on World Exploration—specifically finding Oracle Stones and completing Anomaly Commissions across the districts of Hethereau.
+The fastest way to get more NTE Disks and Dice is by maximizing your Daily Participation Tasks and claiming all available Login Rewards during version updates. For a consistent long-term supply, you must focus on [World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison)—specifically finding Oracle Stones and completing Anomaly Commissions across the districts of Hethereau.
 
 If you are looking for immediate bursts of currency, prioritize these five activities:
 1.  **Daily Participation:** Complete tasks to reach 100 points every day for a guaranteed Annulith income.

@@ -100,7 +100,7 @@ If you are looking for a guaranteed S-Rank Disk without spending currency, you m
 4.  **Claim Your Reward:** Upon completion, Eclixse will grant you the S-Rank Disk "Disclipse." This Arc is particularly strong for Shadow-element Espers and provides a significant boost to burst damage.
 
 ### World Exploration and Oracle Stones
-Exploration is a viable, albeit finite, way to farm Disks. Scattered throughout the various districts of Hethereau are Oracle Stones. These floating geometric objects act as the primary collectible in the open world. 
+Exploration is a viable, albeit finite, way to farm Disks. Scattered throughout the various districts of Hethereau are Oracle Stones. These floating geometric objects act as the primary collectible in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison). 
 
 When you interact with an Oracle Stone, you receive a small amount of Annulith. More importantly, high-tier chests guarded by elite "Urban Horrors" often contain purple-rarity A-Rank Disks. While you won't find S-Rank items in common chests, the A-Rank Arcs found during exploration are essential for gearing your secondary team members during the early-to-mid game.
 

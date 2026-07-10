@@ -108,7 +108,7 @@ Using the **Treasure Compass** for these specific regions is mandatory for fast 
 
 ### Limited-Time Events and Flagship Patch Content
 
-Every version update (roughly every 6 weeks) introduces a flagship event that rewards approximately 960 to 1,000 Primogems. Smaller side events, such as the **Stygian Onslaught**, typically offer 420 Primogems. In 2026, HoYoverse has maintained a schedule of roughly 3–4 events per patch, totaling between 1,200 and 1,800 Primogems. These are time-sensitive, so they should always take priority over permanent world exploration.
+Every version update (roughly every 6 weeks) introduces a flagship event that rewards approximately 960 to 1,000 Primogems. Smaller side events, such as the **Stygian Onslaught**, typically offer 420 Primogems. In 2026, HoYoverse has maintained a schedule of roughly 3–4 events per patch, totaling between 1,200 and 1,800 Primogems. These are time-sensitive, so they should always take priority over permanent [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 
 ### Narrative Rewards: Archon Quests and Story Keys
 
