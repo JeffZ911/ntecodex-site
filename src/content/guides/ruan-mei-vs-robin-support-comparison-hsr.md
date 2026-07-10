@@ -56,7 +56,7 @@ If you are looking for a quick answer, the choice usually comes down to whether 
 
 To understand how these two titans differ, we must look at their specific kit numbers and how they scale. [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) focuses on the enemy's Toughness bar, while Robin focuses on her allies' Action Value.
 
-| Feature | Ruan Mei | Robin |
+| Feature | [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) | Robin |
 | :--- | :--- | :--- |
 | **Element** | Ice | Physical |
 | **Path** | Harmony | Harmony |

@@ -116,7 +116,7 @@ Story content is a major driver of Astrite income. Main Quests (Yellow) provide 
 
 ### Tactical Holograms and First-Time Boss Clears
 
-Tactical Holograms are high-difficulty boss encounters found in the open world. Each boss has multiple difficulty tiers (I through VI). Clearing a tier for the first time rewards you with Astrites and high-tier Echoes. These are permanent additions to the world and do not reset, but they serve as a challenging way to "burst" farm currency when you are close to a pity milestone.
+Tactical Holograms are high-difficulty boss encounters found in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison). Each boss has multiple difficulty tiers (I through VI). Clearing a tier for the first time rewards you with Astrites and high-tier Echoes. These are permanent additions to the world and do not reset, but they serve as a challenging way to "burst" farm currency when you are close to a pity milestone.
 
 ### Pioneer Association Exploration Progress
 

@@ -113,7 +113,7 @@ Once you are in a squad, the game opens up several activities. It is important t
 
 ### The 'Pink Paws' Heist System
 
-The "Pink Paws" Heist mode is a dedicated cooperative activity that becomes a primary focus once players reach the mid-game. Unlike standard open-world exploration, these are instanced missions that require coordination.
+The "Pink Paws" Heist mode is a dedicated cooperative activity that becomes a primary focus once players reach the mid-game. Unlike standard open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), these are instanced missions that require coordination.
 
 *   **Role Selection:** Players can choose specific roles within the heist, such as the Driver, the Tech Specialist, or the Frontline Esper.
 *   **Preparation:** undisclosed.

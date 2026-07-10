@@ -105,7 +105,7 @@ Multiplayer supports up to 4 players in a single world instance. While the main 
 
 | Activity | Multiplayer Support | Unlock Requirement |
 | :--- | :--- | :--- |
-| **World Exploration** | Yes (4 Players) | Hunter Level 8 |
+| **[World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison)** | Yes (4 Players) | Hunter Level 8 |
 | **Anomaly Raids** | Yes (4 Players) | Hunter Level 8 |
 | **Street Racing** | Yes (4 Players) | Hunter Level 17 & Tycoon Level 2 |
 | **Mahjong** | Yes (4 Players) | Hunter Level 11 |

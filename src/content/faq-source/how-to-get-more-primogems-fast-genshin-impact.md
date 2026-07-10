@@ -83,7 +83,7 @@ To farm Primogems effectively, you must distinguish between renewable (recurring
 
 Daily Commissions remain the most consistent source of Primogems, providing 60 gems every 24 hours. However, the 2026 meta for dailies revolves around the **Adventure Encounters** system. Instead of performing repetitive combat or delivery tasks, you can earn "Encounter Points" by:
 *   Completing World Quests or Archon Quests.
-*   Opening chests in the open world.
+*   Opening chests in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 *   Collecting regional specialties or Oculi.
 *   Participating in limited-time events.
 
