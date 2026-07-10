@@ -41,7 +41,7 @@ If you are looking for a quick answer, the choice usually comes down to whether 
 
 ### Quick Comparison: At a Glance
 
-| Category | Ruan Mei | Robin |
+| Category | [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) | Robin |
 | :--- | :--- | :--- |
 | **Best Team Archetype** | Break / [Super Break](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide) / DoT | Follow-Up Attack (FUA) / Hypercarry |
 | **Primary Buff Mechanic** | Weakness Break Efficiency & RES PEN | 100% Action Advance & ATK Buff |

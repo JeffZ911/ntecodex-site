@@ -88,7 +88,7 @@ The Participation system is NTE’s version of daily commissions. By completing 
 *   **80 Points:** Large Hunter EXP reward + Annuliths (premium currency).
 *   **100 Points:** Maximum Hunter EXP reward + Rare upgrade materials.
 
-Aiming for 100 points every day is non-negotiable for fast leveling. These tasks usually take less than 15 minutes to complete and provide a consistent stream of XP that outpaces random world exploration.
+Aiming for 100 points every day is non-negotiable for fast leveling. These tasks usually take less than 15 minutes to complete and provide a consistent stream of XP that outpaces random [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 
 ### Efficient Character Pixels Management
 

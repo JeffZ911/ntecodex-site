@@ -146,7 +146,7 @@ Following the launch phase, the Version 1.0 schedule includes several highly ant
 If you are strictly F2P, your strongest early-game team in Neverness to Everness will likely consist of:
 *   **Zero (Main DPS):** Your reliable Cosmos damage dealer.
 *   **Chiz (Sub-DPS/Utility):** Earned from Tycoon Level 18, she provides excellent synergy with Zero.
-*   **Mint (AOE Support):** Great for clearing mobs in the open world.
+*   **Mint (AOE Support):** Great for clearing mobs in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 *   **Sakiri (Flexible Slot):** Obtained from your 50-pull selector, she elevates the team's total damage output.
 
 To maintain this roster, ensure you are farming Fabricated and Solid Dice daily by completing urban missions and using the **Hunter Exchange** to convert excess Fons into Annulith.

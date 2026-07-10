@@ -44,7 +44,7 @@ Daily Commissions in NTE serve as the primary source of Hunter EXP and Annulith 
 2.  **Participation Tasks:** A broader checklist of activities—ranging from driving your vehicle to managing your business—that contribute to a daily "Participation" score.
 
 ### Why can't I see my Daily Quests yet?
-If the "Exploration Guide" icon (located in the top-right of your HUD) only shows basic tutorials or world exploration percentages, you are still in the early tutorial phase of the Prologue. The daily system is locked behind the introduction of the Eibon Antique Shop, which serves as your operational base. You must progress the main narrative until the game formally introduces the concept of professional "Anomaly Hunting" for hire.
+If the "Exploration Guide" icon (located in the top-right of your HUD) only shows basic tutorials or [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) percentages, you are still in the early tutorial phase of the Prologue. The daily system is locked behind the introduction of the Eibon Antique Shop, which serves as your operational base. You must progress the main narrative until the game formally introduces the concept of professional "Anomaly Hunting" for hire.
 
 ## Direct Answer
 

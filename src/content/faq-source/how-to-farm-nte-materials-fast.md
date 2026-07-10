@@ -77,7 +77,7 @@ Once Mr. Yugardi reaches Level 3, the Auto-Sweep function for Anomaly Zones is u
 
 ### Best Exploration Characters for Fast World Farming
 
-While domains provide the bulk of materials, character ascension requires specific "Mob Drops" found in the open world of Hethereau. To farm these fast, you need a team optimized for traversal:
+While domains provide the bulk of materials, character ascension requires specific "Mob Drops" found in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) of Hethereau. To farm these fast, you need a team optimized for traversal:
 *   **Nanally:** Her anti-gravity skill allows her to run directly up the sides of skyscrapers in the Bridge Crossings district, bypassing complex elevator puzzles or slow climbing.
 *   **Hathor:** Essential for crossing the gaps between the floating blocks in the Anomaly-affected zones. Her gliding efficiency reduces Exploration Stamina consumption by [information unavailable as of 2026-05-22].
 *   **Sakura:** Her [dash speed](https://ntecodex.com/guides/nte-vs-zzz-character-dash-speed-gear-guide) is currently the highest in the game for ground-level traversal, making her ideal for chasing down fleeing "Glitch Mobs."
