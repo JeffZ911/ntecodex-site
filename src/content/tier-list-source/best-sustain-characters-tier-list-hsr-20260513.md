@@ -128,7 +128,7 @@ Gepard still provides the strongest team-wide shields in the game via his Ultima
 ### Lynx vs. Bailu: Cleanse vs. Raw Healing
 The debate between Lynx and Bailu has largely been settled in favor of Lynx for endgame content. While Bailu provides higher raw healing and a unique "Invigoration" revive mechanic, her lack of a cleanse makes her a liability in the debuff-heavy 4.x era. Lynx, despite lower healing numbers, offers a team-wide cleanse on her Ultimate and increases the Max HP of Destruction or Preservation allies, giving her much-needed utility in modern compositions.
 
-**4-Star Sustain Performance Comparison**
+**4-Star Sustain [Performance Comparison](https://ntecodex.com/guides/nte-mobile-vs-pc-performance-comparison)**
 
 | Character | Healing/Shield Type | Cleanse Ability | Best Synergy |
 | :--- | :--- | :--- | :--- |

@@ -94,7 +94,7 @@ Because Modules must fit into a limited grid on your character's Console, farmin
 ### Where to Get Manhole and Beetle Coins for Upgrades
 Even the best S-Rank Cartridge is useless if you cannot level it up. 
 *   **Manhole Farming:** While you get Manhole from every Rabbit Hole run, the most efficient way to get large quantities is by dismantling unwanted Cartridges. NTE features a generous dismantling strategy: you receive a significant portion of the XP invested back when recycling gear, allowing you to transition from early-game B-Rank gear to late-game S-Rank gear without losing all your progress.
-*   **Beetle Coins:** These are earned from almost every activity in Hethereau. However, if you run low, the "Anomaly Sweep" missions in the open world provide the highest Beetle Coin-to-time ratio.
+*   **Beetle Coins:** These are earned from almost every activity in Hethereau. However, if you run low, the "Anomaly Sweep" missions in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) provide the highest Beetle Coin-to-time ratio.
 
 ### Arc Disk Materials: Farming Pigments and Ascension Items
 Arcs (weapons) require a different set of materials for ascension. To push an Arc past level 20, 40, or 60, you will need Pigments. These are typically found in Boss Challenges located in the more dangerous outskirts of the city. Each Arc type (e.g., those used by Nanami or Nadal) requires a specific color or type of Pigment, so players should check the "Ascension" tab in the Arc menu to see which boss currently holds the necessary drops.

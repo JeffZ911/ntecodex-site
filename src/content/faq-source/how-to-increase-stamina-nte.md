@@ -112,7 +112,7 @@ Reaching Level 23 is a major goal for most players, as a 700-point weekly cap al
 
 ### Character-Specific Traversal Perks
 
-While the blue movement bar length is static, the "cost" of movement is variable based on your active character. This is where the gacha elements of NTE intersect with open-world exploration.
+While the blue movement bar length is static, the "cost" of movement is variable based on your active character. This is where the gacha elements of NTE intersect with open-[world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison).
 
 *   **Nanally:** Her "Urban Vanguard" trait allows her to run horizontally along buildings. During this animation, the stamina consumption is significantly lower than traditional vertical climbing. If you are struggling with tall skyscrapers, Nanally is the optimal choice.
 *   **Skia:** Skia can enter a shadow state to move across vertical surfaces. While this still consumes stamina, the speed at which she moves means she covers more distance per stamina point than any other character.

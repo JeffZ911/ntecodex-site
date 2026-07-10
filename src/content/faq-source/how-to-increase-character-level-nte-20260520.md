@@ -93,7 +93,7 @@ Common materials include:
 ### Breakthrough Materials and Farming Locations
 | Material Type | Primary Farming Location | Associated Boss/Activity |
 | :--- | :--- | :--- |
-| Lost Pieces | World Exploration | Hesperia City Districts |
+| Lost Pieces | [World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) | Hesperia City Districts |
 | Anomaly Cores | Anomaly Hunts | — |
 | Elemental Shards | Anomaly Pilgrimages | — |
 

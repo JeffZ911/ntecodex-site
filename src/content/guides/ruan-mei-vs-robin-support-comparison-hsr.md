@@ -36,7 +36,7 @@ If you are looking for a quick answer, the choice usually comes down to whether 
 
 *   **[Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide)** is the undisputed queen of Break-oriented teams (Firefly, Boothill) and remains the most versatile generalist support due to her Weakness Break Efficiency and RES PEN buffs.
 *   **Robin** is the premier support for Follow-Up Attack (FUA) teams (Topaz, Dr. Ratio, Aventurine) and is superior for zero-cycle clears in Memory of Chaos due to her team-wide 100% Action Advance.
-*   **Pull Ruan Mei if** you prioritize comfort, Skill Point (SP) efficiency, and Break-meta dominance.
+*   **Pull [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) if** you prioritize comfort, Skill Point (SP) efficiency, and Break-meta dominance.
 *   **Pull Robin if** you want the highest damage ceiling for FUA compositions and the ability to manipulate turn order aggressively.
 
 ### Quick Comparison: At a Glance
