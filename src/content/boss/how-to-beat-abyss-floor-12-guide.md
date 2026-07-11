@@ -32,7 +32,7 @@ Clearing the Spiral Abyss Floor 12 remains the ultimate test of a traveler's ros
 ![Boss Stats](/img/how-to-beat-abyss-floor-12-guide/inline-1.webp)
 
 
-Floor 12 represents the peak of Genshin Impact’s difficulty curve, primarily due to the level scaling of the enemies. In this floor, enemies range from Level 95 in the first chamber to Level 100 in the final chamber. This level gap is significant because damage calculations in the game include a level defense multiplier. If your active character is Level 90, attacking a Level 100 enemy results in an automatic damage reduction of approximately 50% before elemental resistances are even calculated.
+Floor 12 represents the peak of [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear)’s difficulty curve, primarily due to the level scaling of the enemies. In this floor, enemies range from Level 95 in the first chamber to Level 100 in the final chamber. This level gap is significant because damage calculations in the game include a level defense multiplier. If your active character is Level 90, attacking a Level 100 enemy results in an automatic damage reduction of approximately 50% before elemental resistances are even calculated.
 
 ### Level 100 Scaling and Defense Mechanics
 

@@ -72,7 +72,7 @@ To understand how these two titans differ, we must look at their specific kit nu
 ![Detailed Comparison](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-3.webp)
 
 
-The choice between Ruan Mei and Robin isn't just about who provides a bigger number; it is about how they interact with the game's core mechanics.
+The choice between [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) and Robin isn't just about who provides a bigger number; it is about how they interact with the game's core mechanics.
 
 ### Core Mechanics: Break Efficiency vs. Action Advance
 

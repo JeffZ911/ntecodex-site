@@ -125,7 +125,7 @@ The main drawback of 4-star Herta is her performance against bosses. In the Memo
 
 ### Himeko: Fire Break Synergy
 
-Himeko has enjoyed a long tenure in the meta thanks to the frequent Fire-weakness stages in Pure Fiction. Her follow-up attack triggers whenever three enemies have their weaknesses broken. In a meta that favors Break Efficiency, Himeko pairs exceptionally well with Ruan Mei or any character capable of rapid Toughness depletion.
+Himeko has enjoyed a long tenure in the meta thanks to the frequent Fire-weakness stages in Pure Fiction. Her follow-up attack triggers whenever three enemies have their weaknesses broken. In a meta that favors Break Efficiency, Himeko pairs exceptionally well with [Ruan Mei](https://ntecodex.com/guides/hsr-memories-of-the-past-vs-signature-ruan-mei-gear-guide) or any character capable of rapid Toughness depletion.
 
 While Himeko is excellent in PF, she suffers from the same issues as Herta in boss-heavy content. If you cannot break enemy weaknesses quickly, her damage output drops significantly. However, for Fire-weak content, the Himeko + Herta "dual follow-up" team remains one of the most cost-effective ways to secure a max score.
 

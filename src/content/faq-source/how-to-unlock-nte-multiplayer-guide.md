@@ -93,7 +93,7 @@ The player who sends the invitation or whose world is being joined acts as the "
 
 Multiplayer in NTE is more than just fighting enemies. The urban setting allows for a variety of lifestyle activities:
 
-*   **Open-World Exploration:** You can drive through the streets together. NTE features a "Vehicle Sharing" mechanic where a passenger can ride in the host's car, or players can bring their own customized vehicles into the host's instance.
+*   **Open-[World Exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison):** You can drive through the streets together. NTE features a "Vehicle Sharing" mechanic where a passenger can ride in the host's car, or players can bring their own customized vehicles into the host's instance.
 *   **Anomaly Combat:** High-level Anomalies found in the city outskirts or within "Distortion Zones" are significantly easier to manage with a full party of four.
 *   **Lifestyle Minigames:** Several social activities are available in the city's entertainment districts.
 

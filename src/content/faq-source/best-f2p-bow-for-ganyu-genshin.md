@@ -21,7 +21,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Ganyu remains one of the most powerful Cryo DPS characters in Genshin Impact, capable of clearing endgame content like the Spiral Abyss with her devastating Frostflake Arrows. While premium five-star weapons like Amos' Bow or The First Great Magic offer the highest damage ceilings, Ganyu is remarkably friendly to players who do not wish to spend Primogems on the weapon banner.
+Ganyu remains one of the most powerful Cryo DPS characters in [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear), capable of clearing endgame content like the Spiral Abyss with her devastating Frostflake Arrows. While premium five-star weapons like Amos' Bow or The First Great Magic offer the highest damage ceilings, Ganyu is remarkably friendly to players who do not wish to spend Primogems on the weapon banner.
 
 # What Is the Best F2P Bow for Ganyu in Genshin Impact?
 

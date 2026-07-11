@@ -117,7 +117,7 @@ Furthermore, defensive play is rewarded with energy. A successful **Parry** does
 
 ### Exploration Stamina and Movement Recovery
 
-Exploration stamina governs your ability to sprint, climb, and dodge in the open world of Hethereau. While this does not use the same pool as Character Pixels or City Stamina, managing it is vital for efficient world navigation.
+Exploration stamina governs your ability to sprint, climb, and dodge in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) of Hethereau. While this does not use the same pool as Character Pixels or City Stamina, managing it is vital for efficient world navigation.
 
 Different characters have unique interactions with exploration stamina. For example:
 *   **[Nanally](/characters/nanally-guide-nte):** Known for her superior wall-climbing mechanics, she consumes less stamina while ascending vertical surfaces, making her ideal for reaching high-altitude Anomalies.

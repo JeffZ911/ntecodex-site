@@ -41,7 +41,7 @@ What is the process for leveling up Espers (characters) in Neverness to Everness
 
 To increase a character's level in NTE, you must use Hunter Guide EXP materials and Beetle Coins in the character menu. Unlike traditional RPGs where characters gain significant experience from combat, the vast majority of your Esper's growth comes from consuming these specific items.
 
-Characters hit level caps every 10–20 levels, requiring "Ascension" (also known as Breakthrough) to continue progressing. This process consumes specific Anomaly drops found in the open world and rare materials obtained from defeating bosses in Anomaly Hunts. Furthermore, your maximum character level is strictly gated by your Appraisal Level. This means even if you have enough materials, you cannot raise an Esper to level 80 until you have reached the required Hunter Rank and completed the associated World Elevation Quest to raise your Appraisal Level.
+Characters hit level caps every 10–20 levels, requiring "Ascension" (also known as Breakthrough) to continue progressing. This process consumes specific Anomaly drops found in the [open world](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison) and rare materials obtained from defeating bosses in Anomaly Hunts. Furthermore, your maximum character level is strictly gated by your Appraisal Level. This means even if you have enough materials, you cannot raise an Esper to level 80 until you have reached the required Hunter Rank and completed the associated World Elevation Quest to raise your Appraisal Level.
 
 ## Detailed Explanation
 

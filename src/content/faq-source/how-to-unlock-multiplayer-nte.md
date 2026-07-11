@@ -55,7 +55,7 @@ To unlock multiplayer in Neverness to Everness, you must reach Hunter Level 8 an
 
 This process typically takes between 25 to 35 minutes of active gameplay focusing on the main narrative. If you ignore side distractions and focus entirely on the yellow "Main" quest markers, you can reach this milestone very quickly. Once these conditions are met, the "Multiplayer" app will automatically appear on the second page of your in-game phone menu.
 
-Multiplayer supports up to 4 players in a single session for world exploration, racing, and specific combat challenges. Below is a quick reference for the unlock requirements:
+Multiplayer supports up to 4 players in a single session for [world exploration](https://ntecodex.com/guides/nte-vs-zzz-open-world-exploration-gear-comparison), racing, and specific combat challenges. Below is a quick reference for the unlock requirements:
 
 | Requirement Category | Detail |
 | :--- | :--- |
