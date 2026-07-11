@@ -85,7 +85,7 @@ To clarify, Rebecca is a limited 5-star Resonator available exclusively in Wuthe
 
 To get Rebecca for free in WuWa, you must reach Union Level 10 and participate in the collaboration login event between June 8 and July 9, 2026. This promotion is part of the "Gifts of Dreamchasers" campaign, which celebrates the crossover between the world of Solaris-3 and Night City.
 
-In Neverness to Everness, the primary free character provided to all players is the A-rank Esper Haniel. She is distributed via the in-game mail system to all accounts created during the launch window. Additionally, the game provides several other guaranteed characters through story progression and the City Tycoon management system.
+In Neverness to Everness, the primary [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) provided to all players is the A-rank Esper Haniel. She is distributed via the in-game mail system to all accounts created during the launch window. Additionally, the game provides several other guaranteed characters through story progression and the City Tycoon management system.
 
 | Feature | Wuthering Waves (WuWa) 3.4 | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |

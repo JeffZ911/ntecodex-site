@@ -169,6 +169,6 @@ Furthermore, the rise of Acheron has fundamentally changed how players value Pre
 
 - Prydwen Institute — https://www.prydwen.gg/star-rail/tier-list
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Preservation
-- Game8 Honkai Star Rail Guide — https://game8.co/games/Honkai-Star-Rail/archives/405905
+- Game8 [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Guide — https://game8.co/games/Honkai-Star-Rail/archives/405905
 - Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/character/
 - HoYoLAB Community Guides — https://www.hoyolab.com/creatorCenter/684

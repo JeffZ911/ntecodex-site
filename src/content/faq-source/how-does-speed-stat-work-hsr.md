@@ -25,7 +25,7 @@ Success in the turn-based combat of the Astral Express requires more than just h
 
 # How Does Speed Work in Honkai: Star Rail? A Complete SPD & Action Value Guide
 
-The Speed (SPD) stat in Honkai: Star Rail is often the deciding factor between a narrow victory and a frustrating defeat in high-level content like the Memory of Chaos. Unlike traditional RPGs where speed might only determine who goes first at the start of a fight, SPD in this game dictates how many times your characters can act within a fixed window of time. This guide breaks down the underlying mathematics of the Action Bar and explains how to optimize your team's turn frequency.
+The Speed (SPD) stat in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) is often the deciding factor between a narrow victory and a frustrating defeat in high-level content like the Memory of Chaos. Unlike traditional RPGs where speed might only determine who goes first at the start of a fight, SPD in this game dictates how many times your characters can act within a fixed window of time. This guide breaks down the underlying mathematics of the Action Bar and explains how to optimize your team's turn frequency.
 
 ## Question Restated
 

@@ -166,7 +166,7 @@ Because Fu Xuan provides team-wide buffs rather than single-target ones, she is 
 
 Blade benefits from the Max HP increase Fu Xuan provides, as his damage scales with his own HP. While Fu Xuan prevents some of the damage Blade wants to take to build his stacks, the overall stability and CRIT buffs she provides often outweigh this slight anti-synergy.
 
-Fu Xuan remains one of the most impactful pulls a player can make in Honkai: Star Rail. By investing in her HP and Speed, you ensure that your team can weather any storm the Stellaron Hunters or the Antimatter Legion throw your way.
+Fu Xuan remains one of the most impactful pulls a player can make in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear). By investing in her HP and Speed, you ensure that your team can weather any storm the Stellaron Hunters or the Antimatter Legion throw your way.
 
 ## Sources
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Fu_Xuan

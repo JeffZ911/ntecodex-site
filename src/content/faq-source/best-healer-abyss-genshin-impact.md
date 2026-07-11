@@ -181,7 +181,7 @@ Ultimately, the "best" healer is the one that fits your specific team's needs. I
 
 ## Sources
 
-- Genshin Impact Fandom — https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki
+- [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Fandom — https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki
 - Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact
 - KeqingMains (KQM) Theorycrafting — https://keqingmains.com/
 - Prydwen Institute

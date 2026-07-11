@@ -144,7 +144,7 @@ Once the "Frozen Snow Ritual" is active, the clock is literally on your side.
 ![FAQ](/img/neva-best-build-nte-guide/inline-6.webp)
 
 
-**Is Neva a free character?**
+**Is Neva a [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711)?**
 No, Neva (Hotori) is a limited S-Rank character. She was featured on the "Echoes in the Vessel" debut banner. Players must use their premium currency to pull for her, and she is not currently available in the standard recruitment pool.
 
 **What is Neva's official name?**
