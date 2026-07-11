@@ -78,7 +78,7 @@ Neverness to Everness is as much a life simulator as it is an action RPG. Your C
 
 Early in the game, you should aim to buy the Wiener Apartment. While it requires a significant upfront investment of Fons, owning properties provides essential long-term buffs, such as increased stamina regeneration or bonus rewards from daily activities. Managing your businesses and properties is the only way to ensure a steady flow of Fons, which becomes a major bottleneck once you begin upgrading high-level Arcs (weapons).
 
-| Free Character | Acquisition Method |
+| [Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) | Acquisition Method |
 | :--- | :--- |
 | Haniel | Starting Character |
 | Aurelia | Complete Chapter 1 Story |

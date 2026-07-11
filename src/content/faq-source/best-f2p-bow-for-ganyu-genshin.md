@@ -163,7 +163,7 @@ While F2P bows are excellent, you may eventually pull a 5-star weapon.
 If you obtain any of these three, they should generally replace your craftable F2P bow immediately. However, until that day comes, an R5 Prototype Crescent or Hamayumi will serve you exceptionally well in all of [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear)'s challenges.
 
 ## Sources
-- Ganyu | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Ganyu
+- Ganyu | [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear) Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Ganyu
 - Prototype Crescent | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Prototype_Crescent
 - Hamayumi | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Hamayumi
 - Song of Stillness | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Song_of_Stillness

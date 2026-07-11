@@ -86,7 +86,7 @@ The Esper Cycle consists of six elements: **Cosmos, Anima, Incantation, Chaos, P
 *   **Resonance (Psyche + Lakshana):** Boosts the entire team's Energy Regeneration Rate.
 *   **Void (Lakshana + Cosmos):** Slows enemy movement and attack speed.
 
-For F2P players, focusing on **Blossom** and **Discord** is the most efficient path because the free character roster is heavily weighted toward these elements.
+For F2P players, focusing on **Blossom** and **Discord** is the most efficient path because the [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) roster is heavily weighted toward these elements.
 
 ### Top 3 F2P Team Archetypes
 
