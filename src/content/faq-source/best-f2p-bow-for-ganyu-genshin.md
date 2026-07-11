@@ -160,7 +160,7 @@ While F2P bows are excellent, you may eventually pull a 5-star weapon.
 *   **Aqua Simulacra:** Provides massive Crit DMG. It is better than Blackcliff Warbow in every scenario but requires you to be closer to enemies.
 *   **The First Great Magic:** A newer 5-star that rivals Amos' Bow, providing high ATK and Charged Attack DMG buffs.
 
-If you obtain any of these three, they should generally replace your craftable F2P bow immediately. However, until that day comes, an R5 Prototype Crescent or Hamayumi will serve you exceptionally well in all of Genshin Impact's challenges.
+If you obtain any of these three, they should generally replace your craftable F2P bow immediately. However, until that day comes, an R5 Prototype Crescent or Hamayumi will serve you exceptionally well in all of [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear)'s challenges.
 
 ## Sources
 - Ganyu | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Ganyu

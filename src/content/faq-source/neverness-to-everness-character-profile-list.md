@@ -137,7 +137,7 @@ Acquiring new character profiles in NTE uses the "Scarborough Fair" system, whic
 
 1.  **The Dice Board:** Instead of a standard "pull" animation, you roll dice to move a piece (a "Chuppa") across a board. You receive the reward of whatever tile you land on.
 2.  **Pity System:** There is no 50/50 mechanic in NTE. You are guaranteed the limited S-Rank character within 90 rolls. At 70 rolls, the "Board Modification" triggers, turning multiple tiles into S-Rank character tiles to ensure you hit the pity.
-3.  **Free Character Unlocks:**
+3.  **[Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) Unlocks:**
     *   **Zero:** Available from the start of the game.
     *   **Mint & Adler:** Unlocked through Chapter 1 of the Main Story.
     *   **Chiz:** Unlocked for free by reaching Level 18 in the City Tycoon management mode. You can fully awaken her by reaching Level 45.

@@ -125,7 +125,7 @@ To maximize your account's power, you should keep an eye out for the following w
 
 *   **Oracle Stones:** These are glowing blue crystals hidden in alleys and on rooftops. Collecting them allows you to upgrade your maximum stamina and dash distance.
 *   **Anomaly Furniture:** Occasionally, you will encounter "glitched" objects in the world. Defeating the anomaly attached to them allows you to collect the furniture for your apartment. Placing these items provides permanent, minor stat buffs to your entire roster.
-*   **Free Character Roster:** Ensure you have unlocked all currently available free units to fill out your teams for Beyond the Rails.
+*   **[Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) Roster:** Ensure you have unlocked all currently available free units to fill out your teams for Beyond the Rails.
 
 | Character | Unlock Method | Role |
 | :--- | :--- | :--- |

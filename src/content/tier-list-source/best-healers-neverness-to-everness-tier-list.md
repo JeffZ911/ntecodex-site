@@ -48,7 +48,7 @@ In the current Hethereau meta, shielding is often viewed as superior to raw heal
 
 Role compression refers to a character's ability to fulfill multiple team slots simultaneously. If a healer can also act as a secondary DPS or a primary buffer, they free up a slot for another specialized damage dealer. Jiuyuan is the gold standard for this, as her kit allows her to maintain competitive damage numbers while her "Rose Pact" mechanics keep the team healthy.
 
-Out-of-combat healing also plays a role in general exploration. While ReroRero Phone Booths and food items can restore HP between encounters, they are unavailable during the multi-wave battles of Anomaly Hunts or the restricted floors of "Beyond the Rails." In these scenarios, your character choice is your only lifeline.
+Out-of-combat healing also plays a role in general exploration. While ReroRero Phone Booths and food items can restore HP between encounters, they are unavailable during the multi-wave battles of Anomaly Hunts or the restricted floors of "Beyond the Rails." In these scenarios, your [character choice](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) is your only lifeline.
 
 | Character | Rarity | Element | Primary Mechanic | Tier |
 | :--- | :--- | :--- | :--- | :--- |
