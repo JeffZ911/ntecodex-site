@@ -170,7 +170,7 @@ Maximizing your clear efficiency often depends on having the **best artifacts fo
 
 - [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear) Official Site — https://genshin.hoyoverse.com/en/news
 - [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear) Wiki (Fandom) — https://genshin-impact.fandom.com/wiki/Spiral_Abyss/Floor_12
-- Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact/archives/304724
+- Game8 [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Guide — https://game8.co/games/Genshin-Impact/archives/304724
 - Prydwen Institute Genshin Hub
 - KeqingMains (KQM) Theorycrafting Library — https://keqingmains.com/
 - Sportskeeda Gaming — https://www.sportskeeda.com/esports/genshin-impact-spiral-abyss-floor-12-guide-v4-6-enemies-tips-teams

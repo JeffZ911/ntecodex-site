@@ -141,6 +141,6 @@ Ultimately, Jing Yuan requires more "babysitting" (SPD tuning and CC protection)
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki
 - Prydwen Institute - Jing Yuan Character Guide — https://www.prydwen.gg/star-rail/characters/jing-yuan
 - Prydwen Institute - Argenti Character Guide — https://www.prydwen.gg/star-rail/characters/argenti
-- Game8 Honkai Star Rail Database — https://game8.co/games/Honkai-Star-Rail
+- Game8 [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Database — https://game8.co/games/Honkai-Star-Rail
 - KeqingMains (KQM) Jing Yuan Guide
 - KeqingMains (KQM) Argenti Guide

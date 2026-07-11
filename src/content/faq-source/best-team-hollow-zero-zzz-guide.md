@@ -63,7 +63,7 @@ The current meta for [Hollow Zero](https://ntecodex.com/faq) favors teams that c
 | **Ice Mono (Classic)** | Ellen Joe | Von Lycaon | Soukaku | Sharkboo |
 | **Ether Burst** | Zhu Yuan | Nangong Yu | Nicole Demara | Resonaboo |
 | **Anomaly Disorder** | [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) | Burnice White | Caesar King | Officer Cui |
-| **Elite 2026 Meta** | Ye Shunguang | Dialyn | Astra Yao | Gulliver |
+| **Elite 2026 Meta** | [Ye Shunguang](https://ntecodex.com/guides/velina-airgid-vs-ye-shunguang-comparison-gear) | Dialyn | Astra Yao | Gulliver |
 
 ### The Gold Standard: Ice Hypercarry
 The team of **Ellen Joe, Von Lycaon, and Soukaku** remains the overall best choice for [Hollow Zero](https://ntecodex.com/faq). This is primarily due to its perfect synergy with the **Freeze Resonia** path. Lycaon provides massive Daze buildup while shredding Ice RES, Soukaku offers a significant ATK buff that can be transferred to Ellen, and Ellen herself deals explosive burst damage. When combined with the "Ice Maker" and "Freezing Gloves" Resonia, this team can keep even the most aggressive bosses permanently frozen, effectively ignoring many high-intensity mechanics.

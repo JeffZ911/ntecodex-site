@@ -23,7 +23,7 @@ inline_image_sections:
   - "Loot"
 ---
 
-Facing the Stellaron Hunter: Sam is a trial of fire that tests your team's Skill Point management and survival under extreme healing pressure. As one of the most mechanically demanding encounters in Honkai: Star Rail, understanding the "Secondary Combustion" state is the difference between a quick victory and a total party wipe.
+Facing the Stellaron Hunter: Sam is a trial of fire that tests your team's Skill Point management and survival under extreme healing pressure. As one of the most mechanically demanding encounters in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear), understanding the "Secondary Combustion" state is the difference between a quick victory and a total party wipe.
 
 # How to Beat Sam in Honkai: Star Rail: The Ultimate Boss Guide
 

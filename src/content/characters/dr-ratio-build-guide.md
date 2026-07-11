@@ -172,9 +172,9 @@ While Dr. Ratio is exceptionally strong at E0, his Eidolons provide significant 
 For most players, E0 is perfectly sufficient. If you are looking for a stopping point for investment, E1 offers the best value for your Stellar Jades by easing relic requirements.
 
 ## Sources
-*   Dr. Ratio - Honkai: Star Rail Wiki — https://honkai-star-rail.fandom.com/wiki/Dr._Ratio
+*   Dr. Ratio - Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Wiki — https://honkai-star-rail.fandom.com/wiki/Dr._Ratio
 *   Dr. Ratio Build, Teams, and Materials — https://www.prydwen.gg/star-rail/characters/dr-ratio
 *   Dr. Ratio Best Build & Team Guide — https://game8.co/games/Honkai-Star-Rail/main/300
-*   Honkai Star Rail Dr. Ratio Guide
+*   [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Dr. Ratio Guide
 *   Dr. Ratio Materials and Traces
 *   Best Teams for Dr. Ratio HSR
