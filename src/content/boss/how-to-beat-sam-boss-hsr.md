@@ -155,7 +155,7 @@ In the Simulated Universe (specifically World 9 or [Divergent Universe](https://
 By focusing on shielding over healing and aggressively spending Skill Points during the Secondary Combustion phase, you can turn Sam's own mechanics against him and secure a victory.
 
 ## Sources
-- Honkai: Star Rail Fandom — https://honkai-star-rail.fandom.com/wiki/Stellaron_Hunter:_Sam
+- Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Fandom — https://honkai-star-rail.fandom.com/wiki/Stellaron_Hunter:_Sam
 - Prydwen Institute — https://www.prydwen.gg/star-rail/guides/
 - Game8 Boss Guide — https://game8.co/games/Honkai-Star-Rail/archives/443313
 - Honey Hunter World — https://hsr.honeyhunterworld.com/sam-monster/

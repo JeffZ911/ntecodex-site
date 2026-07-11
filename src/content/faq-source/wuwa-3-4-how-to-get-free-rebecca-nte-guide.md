@@ -66,7 +66,7 @@ As players explore the neon-lit streets of the 2026 gaming landscape, a common p
 
 *   How do players obtain the character Rebecca for free in the version 3.4 update?
 *   Is Rebecca a playable character in Neverness to Everness (NTE)?
-*   What are the current free character offerings in Neverness to Everness following its April 29, 2026, release?
+*   What are the current [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) offerings in Neverness to Everness following its April 29, 2026, release?
 
 ### The Confusion Between WuWa and NTE
 

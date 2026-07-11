@@ -54,7 +54,7 @@ She is a dedicated ATK buffer whose utility scales directly with her own base AT
 
 Her primary role is to enable high-damage carries like [Nanally](/characters/nanally-guide-nte). While Haniel herself is a Psyche-element character, she is the cornerstone of the popular "Blossom" team architecture. By providing consistent team-wide buffs, she ensures that the elemental reactions triggered by her teammates reach their maximum damage potential.
 
-Haniel is highly accessible, being a free character obtained through the gacha unlock and pre-registration rewards. This accessibility, combined with her low-investment requirements, makes her a staple for both new players and veteran "sweaty" optimizers looking to push the 1.0 meta.
+Haniel is highly accessible, being a [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) obtained through the gacha unlock and pre-registration rewards. This accessibility, combined with her low-investment requirements, makes her a staple for both new players and veteran "sweaty" optimizers looking to push the 1.0 meta.
 
 ### Role in the 1.0 Meta
 In the launch version of Neverness to Everness, the meta is heavily defined by "Follow-up" damage and elemental reactions like Blossom. Haniel fits into this ecosystem as the ultimate "stat stick" support. She doesn't need to be on the field for long; her kit is designed to deploy a buff and immediately swap out, allowing your main DPS to enjoy increased damage windows. Her presence is almost mandatory in any team looking to maximize the "Esper Cycle" damage.

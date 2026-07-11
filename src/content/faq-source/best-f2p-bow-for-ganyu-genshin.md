@@ -165,7 +165,7 @@ If you obtain any of these three, they should generally replace your craftable F
 ## Sources
 - Ganyu | [Genshin Impact](https://ntecodex.com/guides/nte-vs-genshin-impact-graphics-comparison-gear) Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Ganyu
 - Prototype Crescent | [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Prototype_Crescent
-- Hamayumi | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Hamayumi
+- Hamayumi | [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Hamayumi
 - Song of Stillness | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Song_of_Stillness
 - Blackcliff Warbow | Genshin Impact Wiki | Fandom — https://genshin-impact.fandom.com/wiki/Blackcliff_Warbow
 - Ganyu Build Guide | Game8 — https://game8.co/games/Genshin-Impact/archives/312213

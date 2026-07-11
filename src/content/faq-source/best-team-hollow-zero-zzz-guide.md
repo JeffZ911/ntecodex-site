@@ -108,7 +108,7 @@ Resonia are the "roguelike" power-ups found in [Hollow Zero](https://ntecodex.co
 *   **Duel (Stun-Focused Teams):** Increases Daze buildup and provides a massive DMG boost to stunned enemies. Essential for teams using Lycaon, Nangong Yu, or Dialyn.
 *   **Shield (Defense Teams):** Provides shields upon using EX Special Attacks or Chain Attacks. This is the "safe" path for high-intensity runs where one hit can take 50% of your HP.
 *   **Rupture (New 2026 Meta):** Amplifies damage against enemies with broken "Rupture Gauges." This path is specifically designed for the **Angels of Delusion** faction and characters like **Lucia Elowen**.
-*   **Critical (All-Purpose):** Increases CRIT Rate and CRIT DMG. A solid secondary path for any team, especially those using **Ye Shunguang** or **Billy Kid**.
+*   **Critical (All-Purpose):** Increases CRIT Rate and CRIT DMG. A solid secondary path for any team, especially those using **[Ye Shunguang](https://ntecodex.com/guides/velina-airgid-vs-ye-shunguang-comparison-gear)** or **Billy Kid**.
 
 ### Managing Pressure and Corruption
 To keep your Pressure low, prioritize "Safe" tiles and avoid "Purple" or "Red" paths unless they lead to a high-value Resonia. If your Pressure hits 100, you will gain a Corruption. 

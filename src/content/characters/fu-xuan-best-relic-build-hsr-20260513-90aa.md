@@ -24,7 +24,7 @@ inline_image_sections:
   - "Top Fu Xuan Team Compositions"
 ---
 
-Master Diviner [Fu Xuan](/characters/fu-xuan-best-relic-build-hsr-20260513) is the ultimate defensive backbone for any team, offering unparalleled damage reduction and critical buffs that redefine the Preservation path in Honkai: Star Rail.
+Master Diviner [Fu Xuan](/characters/fu-xuan-best-relic-build-hsr-20260513) is the ultimate defensive backbone for any team, offering unparalleled damage reduction and critical buffs that redefine the Preservation path in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear).
 
 # Fu Xuan Best Relic Build HSR: Full Guide, Skills, and Materials
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-05-13._

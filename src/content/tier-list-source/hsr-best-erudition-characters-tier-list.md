@@ -186,7 +186,7 @@ The Erudition Path is currently in its strongest state since the game's launch. 
 
 - Prydwen Institute — https://www.prydwen.gg/star-rail/tier-list
 - Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki
-- Game8 Honkai Star Rail Guide — https://game8.co/games/Honkai-Star-Rail
+- Game8 [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Guide — https://game8.co/games/Honkai-Star-Rail
 - Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/home
 - Reddit r/HonkaiStarRail — https://www.reddit.com/r/HonkaiStarRail/
 - PCGamesN HSR Guide — https://www.pcgamesn.com/honkai-star-rail/tier-list

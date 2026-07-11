@@ -30,7 +30,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Choosing the right weapon for Bennett is the single most important decision for maximizing your team's damage potential in Genshin Impact. As of May 2026, despite the arrival of new regions and mechanics, the quest for the perfect free-to-play (F2P) sword remains a priority for every traveler.
+Choosing the right weapon for Bennett is the single most important decision for maximizing your team's damage potential in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear). As of May 2026, despite the arrival of new regions and mechanics, the quest for the perfect free-to-play (F2P) sword remains a priority for every traveler.
 
 # What Is the Best F2P Sword for Bennett in Genshin Impact?
 
