@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-As players transition from the turn-based combat of Honkai: Star Rail to the urban open-world of Hethereau, identifying the core progression loops is essential for character power. Understanding how to farm gear efficiently in the new environment requires a clear look at the systems that replace familiar mechanics like the [Cavern of Corrosion](https://ntecodex.com/faq).
+As players transition from the turn-based combat of Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) to the urban open-world of Hethereau, identifying the core progression loops is essential for character power. Understanding how to farm gear efficiently in the new environment requires a clear look at the systems that replace familiar mechanics like the [Cavern of Corrosion](https://ntecodex.com/faq).
 
 # HSR 4.3 Cavern of Corrosion Explained: Farming Gear in Neverness to Everness
 

@@ -49,7 +49,7 @@ Maximizing your Resonator's potential in [Wuthering Waves](https://ntecodex.com/
 
 The weapon banner system in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) (often called the Weapon Convene) can be confusing for players transitioning from other gacha titles. The most common questions include:
 
-*   How does the weapon banner system work in Wuthering Waves?
+*   How does the weapon banner system work in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard)?
 *   What are the pity rates and guarantees for 5-star weapons?
 *   How do limited and standard weapon banners differ in WuWa?
 *   Does pity carry over between different banners?

@@ -51,7 +51,7 @@ The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a faction-based team pas
 
 As the [meta shifts](https://ntecodex.com/guides/best-gear-genshin-6-6-meta-shifts) toward faction-specific synergies, players are eager to understand the mechanics behind the latest update. The introduction of the Hexenzirkel members as playable units has brought several questions to the forefront of the community:
 
-*   What is the new Hexerei: [Secret Rite](https://ntecodex.com/faq) mechanic introduced in Genshin Impact 6.6?
+*   What is the new Hexerei: [Secret Rite](https://ntecodex.com/faq) mechanic introduced in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 6.6?
 *   How does the character [Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide) utilize this [secret rite](https://ntecodex.com/faq) in her kit?
 *   What are the requirements to unlock the [Secret Rite](https://ntecodex.com/faq) for Hexenzirkel members?
 *   How does this system compare to the Esper Resonance found in Neverness to Everness (NTE)?

@@ -116,7 +116,7 @@ For those on a strict budget who are saving their funds for the next limited ban
 *   25-inch width leaves less than 6 inches of horizontal space for mouse movement.
 *   Single-handle lift can feel uneven if your monitor is not perfectly centered.
 
-**Verdict:** This is the "minimalist" choice. It works best for players who use a controller rather than a mouse and keyboard, as the limited desk real estate can be frustrating during competitive play.
+**Verdict:** This is the "minimalist" choice. It works best for players who use a controller rather than a [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard), as the limited desk real estate can be frustrating during competitive play.
 
 ### Ergotron WorkFit-Z Mini
 *   **Price:** $285

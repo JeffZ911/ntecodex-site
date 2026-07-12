@@ -52,7 +52,7 @@ The arrival of the urban open-world RPG Neverness to Everness (NTE) has sparked 
 
 # WuWa 3.4: How to Get Free Rebecca (Neverness to Everness Guide)
 
-**Quick Answer:** Rebecca is a free 5-star character available in Wuthering Waves (WuWa) during the Version 3.4 Cyberpunk: Edgerunners collaboration. She is not a playable character in Neverness to Everness (NTE). In NTE, the primary [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) reward is the A-rank Esper Haniel, which players can claim via their in-game mailbox as a pre-registration milestone bonus.
+**Quick Answer:** Rebecca is a free 5-star character available in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) (WuWa) during the Version 3.4 Cyberpunk: Edgerunners collaboration. She is not a playable character in Neverness to Everness (NTE). In NTE, the primary [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) reward is the A-rank Esper Haniel, which players can claim via their in-game mailbox as a pre-registration milestone bonus.
 
 ## Question Restated
 

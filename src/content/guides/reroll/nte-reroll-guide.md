@@ -119,7 +119,7 @@ Hathor is the best target if you are pulling on the standard banner. She excels 
 Sakiri is a top-tier buffer who provides team-wide ATK boosts. While she doesn't deal the same raw damage as Nanally, she makes every other character on your team significantly better. Her crowd control abilities can group enemies together, setting up perfect combos for your sub-DPS units.
 
 **Jiuyuan (S-Rank, Anima DPS/Control)**
-Jiuyuan focuses on controlling the battlefield. She can create Anima vortexes that pull enemies in. She has excellent synergy with the free character Mint, as they share the Anima element, triggering the "Resonant Wind" buff which increases movement speed and skill cooldown reduction.
+Jiuyuan focuses on controlling the battlefield. She can create Anima vortexes that pull enemies in. She has excellent synergy with the [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) Mint, as they share the Anima element, triggering the "Resonant Wind" buff which increases movement speed and skill cooldown reduction.
 
 ### Characters to Avoid (Free Units)
 

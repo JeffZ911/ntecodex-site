@@ -164,7 +164,7 @@ Yes, Neverness to Everness supports full cross-save functionality, allowing you 
 To enable Ray-Traced Reflections in Hesperia, you generally need a GPU that supports hardware-level ray tracing, such as an NVIDIA RTX 20-series or higher. Using DLSS 3 can significantly help maintain a stable frame rate when these intensive lighting effects are active.
 
 ### Is a controller or a mouse and keyboard better for NTE combat?
-This largely depends on your playstyle, but many players prefer a mouse and keyboard on PC to map the numerous skills of characters like Nanally. A multi-button mouse allows for quick access to menus and car customization options that might feel slower when using a traditional controller or touch screen gestures.
+This largely depends on your playstyle, but many players prefer a [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) on PC to map the numerous skills of characters like Nanally. A multi-button mouse allows for quick access to menus and car customization options that might feel slower when using a traditional controller or touch screen gestures.
 
 ### Does the mobile version of NTE include the same map as the PC version?
 The map of Hesperia is identical across both platforms, featuring the same urban districts and supernatural anomaly locations. However, the mobile version uses reduced draw distances and simplified geometry to ensure the game runs smoothly on portable hardware.

@@ -30,7 +30,7 @@ Mastering the nuances of Elemental Mastery is the difference between a character
 ![Question Restated](/img/how-does-elemental-mastery-work-genshin/inline-1.webp)
 
 
-Elemental Mastery (EM) is a primary attribute in Genshin Impact that determines the potency of elemental reactions triggered by a character. Unlike Attack (ATK), which increases the raw damage of physical and elemental strikes, or Elemental DMG Bonus, which provides a flat percentage increase to a specific element's output, Elemental Mastery only functions when two or more elements interact.
+Elemental Mastery (EM) is a primary attribute in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) that determines the potency of elemental reactions triggered by a character. Unlike Attack (ATK), which increases the raw damage of physical and elemental strikes, or Elemental DMG Bonus, which provides a flat percentage increase to a specific element's output, Elemental Mastery only functions when two or more elements interact.
 
 In the hierarchy of combat statistics, EM occupies a unique niche. While nearly every character benefits from ATK and Crit stats, Elemental Mastery is highly specialized. It becomes a priority stat in scenarios where your team composition relies on high-frequency elemental interactions, such as Dendro-based "Bloom" teams, Swirl-focused "Taser" teams, or high-damage "Vaporize" setups. Understanding when to stack EM versus when to focus on raw power is essential for optimizing high-level builds.
 

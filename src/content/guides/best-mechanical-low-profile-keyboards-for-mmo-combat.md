@@ -56,7 +56,7 @@ If your primary concern is raw input speed, the Razer DeathStalker V2 Pro TKL is
 
 The DeathStalker V2 Pro also addresses several of the G915's aging design choices. It features a modern USB-C charging port and laser-etched keycaps with an ultra-durable coating. While still not PBT, the coating is significantly more resistant to wear and oils than standard ABS. The compact TKL form factor is ideal for MMO players who need extra desk space for wide mouse sweeps when managing the camera during Anomaly investigations.
 
-The main trade-off here is battery life and software. When the Chroma RGB lighting is set to maximum brightness, the battery life drops to roughly 26 hours, requiring more frequent charging sessions than the Logitech. Additionally, the Razer Synapse software is known for being resource-heavy, which can be a nuisance if you are trying to maximize PC performance for high-end urban rendering in Hethereau.
+The main trade-off here is battery life and software. When the Chroma RGB lighting is set to maximum brightness, the battery life drops to roughly 26 hours, requiring more frequent charging sessions than the Logitech. Additionally, the Razer Synapse software is known for being resource-heavy, which can be a nuisance if you are trying to maximize [PC performance](https://ntecodex.com/guides/nte-mobile-vs-pc-performance-comparison) for high-end urban rendering in Hethereau.
 
 *   **ASIN:** B09X69Y6Z7
 *   **Price:** $189.99
