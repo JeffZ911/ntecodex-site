@@ -181,7 +181,7 @@ A 1TB SSD is currently sufficient for three to four major gacha titles, but it m
 - SanDisk Extreme microSDXC Data — https://www.westerndigital.com/products/memory-cards/sandisk-extreme-uhs-i-microsd
 - RTINGS LG 27GP850-B Review — https://www.rtings.com/monitor/reviews/lg/27gp850-b-27gp83b-b
 - Backblaze Drive Stats 2023 — https://www.backblaze.com/blog/backblaze-drive-stats-for-2023/
-- Genshin Impact System Requirements — https://genshin.hoyoverse.com/en/news/detail/123565
+- Genshin Impact [System Requirements](https://ntecodex.com/guides/nte-vs-zzz-system-requirements-comparison) — https://genshin.hoyoverse.com/en/news/detail/123565
 - Wuthering Waves PC Requirements — https://wutheringwaves.kurogames.com/en/main/news/detail/823
 - Neverness to Everness Announcement
 - SD Association Application Performance Class — https://www.sdcard.org/developers/sd-standard-overview/application-performance-class/

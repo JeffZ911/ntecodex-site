@@ -59,7 +59,7 @@ For F2P players, rerolling is almost mandatory for a competitive start. It bridg
 | Premium Currency | Annulith | 1,600+ | Converting to Dice |
 | Limited Pulls | Fabricated Dice | 10-20 | Limited Banners |
 | Standard Pulls | Solid Dice | 40-50 | Standard Board |
-| Free Character | Haniel | 1 | A-Class Support |
+| [Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) | Haniel | 1 | A-Class Support |
 | Free Character | Chiz | 1 | S-Class DPS |
 
 ## How to Reroll

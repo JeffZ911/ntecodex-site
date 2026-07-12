@@ -35,7 +35,7 @@ The Speed (SPD) stat in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-
 Players frequently encounter several points of confusion regarding the SPD stat and how it translates to gameplay performance.
 
 ### The Mystery of the SPD Stat
-What exactly does the Speed (SPD) stat do in Honkai: Star Rail? On the surface, it appears to be a simple priority system, but players often notice that characters with high SPD eventually "lap" slower allies or enemies, taking two turns before others take one. Understanding the mechanics behind this behavior is essential for clearing endgame content within the required cycle limits.
+What exactly does the Speed (SPD) stat do in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear)? On the surface, it appears to be a simple priority system, but players often notice that characters with high SPD eventually "lap" slower allies or enemies, taking two turns before others take one. Understanding the mechanics behind this behavior is essential for clearing endgame content within the required cycle limits.
 
 ### Common Player Confusion: SPD vs. Turn Order
 Why are specific numbers like 134 or 161 considered "breakpoints" for endgame content? Many players build their characters to reach 134 SPD because they are told it is the "golden standard," yet they may not understand why that specific integer is significant. Furthermore, there is often confusion regarding how SPD interacts with the Action Value (AV) numbers seen on the turn order bar. Does having more SPD always mean you go first in every wave, or are there other factors, like "Action Advance" or "Base SPD," that override your total stats?

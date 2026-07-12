@@ -36,7 +36,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Maximizing your Resonator's potential in Wuthering Waves requires more than just leveling up; you need the right tools for the job. Understanding the weapon banner system is essential for any player looking to optimize their account without wasting precious resources.
+Maximizing your Resonator's potential in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) requires more than just leveling up; you need the right tools for the job. Understanding the weapon banner system is essential for any player looking to optimize their account without wasting precious resources.
 
 # Wuthering Waves Weapon Banner Explained: How Pity and Guarantees Work
 > ⚠️ **Notice:** Auto-generated content. May contain approximations or minor inaccuracies in supporting details. Help us improve via the comment section below. _Last reviewed: 2026-05-16._

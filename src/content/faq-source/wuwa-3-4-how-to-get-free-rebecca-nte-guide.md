@@ -89,7 +89,7 @@ In Neverness to Everness, the primary [free character](https://ntecodex.com/guid
 
 | Feature | Wuthering Waves (WuWa) 3.4 | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
-| **Free Character** | Rebecca (5-star Resonator) | Haniel (A-rank Esper) |
+| **[Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711)** | Rebecca (5-star Resonator) | Haniel (A-rank Esper) |
 | **Claim Method** | Login Event / Union Level 10 | In-game Mailbox (Pre-reg Reward) |
 | **Event Dates** | June 8 – July 9, 2026 | Available from April 29, 2026 |
 | **Character Role** | Havoc Pistol / Burst Support | Psyche / ATK Buffer |

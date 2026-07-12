@@ -84,7 +84,7 @@ What sets the Uplift V2 apart is its massive accessory ecosystem. You can attach
 
 For the dedicated streamer or the player who demands a clean aesthetic while leveling up Sakiri, the Secretlab MAGNUS Pro is the ultimate solution for cable clutter. Its standout feature is the [integrated power column](https://secretlab.co/products/magnus-pro), which allows you to plug the desk into the wall and then plug all your peripherals into a hidden power strip inside the desk. This eliminates the "waterfall" of wires that usually hangs from a standing desk, which can be a major distraction during intense NTE boss fights.
 
-The MAGNUS Pro also features a fully magnetic ecosystem. You can use magnetic cable anchors and sheaths to organize your mouse and keyboard wires with surgical precision. However, it is important to note that the [weight capacity is 220lb](https://secretlab.co/products/magnus-pro), which is lower than the FlexiSpot or Uplift. If you have a massive, water-cooled PC sitting on the desk surface, you may be pushing the limits of the motors.
+The MAGNUS Pro also features a fully magnetic ecosystem. You can use magnetic cable anchors and sheaths to organize your [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) wires with surgical precision. However, it is important to note that the [weight capacity is 220lb](https://secretlab.co/products/magnus-pro), which is lower than the FlexiSpot or Uplift. If you have a massive, water-cooled PC sitting on the desk surface, you may be pushing the limits of the motors.
 
 **Pros:**
 *   Integrated power column eliminates dangling wires.

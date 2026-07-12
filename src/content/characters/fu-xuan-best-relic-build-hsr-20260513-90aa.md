@@ -169,7 +169,7 @@ Blade benefits from the Max HP increase Fu Xuan provides, as his damage scales w
 Fu Xuan remains one of the most impactful pulls a player can make in Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear). By investing in her HP and Speed, you ensure that your team can weather any storm the Stellaron Hunters or the Antimatter Legion throw your way.
 
 ## Sources
-- Honkai: Star Rail Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Fu_Xuan
+- Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Fu_Xuan
 - Prydwen Institute Fu Xuan Guide — https://www.prydwen.gg/star-rail/characters/fu-xuan
 - Game8 Fu Xuan Build & Best Team — https://game8.co/games/Honkai-Star-Rail/archives/412111
 - Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/character?worldIndex=2&charIndex=7

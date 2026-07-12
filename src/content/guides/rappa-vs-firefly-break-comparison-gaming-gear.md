@@ -177,7 +177,7 @@ No-name "Budget" Ultrawides were also omitted. Many sub-$300 ultrawides use chea
 In the current meta, Firefly excels at single-target and elite-boss Weakness Breaking due to her massive Break Effect scaling and [Super Break damage](https://ntecodex.com/guides/hsr-3-0-super-break-damage-calculation-gear-guide). Rappa is often preferred for multi-wave content and Pure Fiction, as her Ninjutsu kit is designed for AoE Break efficiency.
 
 ### Does Neverness to Everness require a high-end PC?
-While the official system requirements suggest a mid-range GPU for 1080p, the urban density of Hesperia benefits greatly from high-VRAM cards and fast CPUs. To maintain a stable 60 FPS while driving through the city's neon-lit districts, an RTX 3070 or equivalent is recommended for the 2026 release.
+While the official [system requirements](https://ntecodex.com/guides/nte-vs-zzz-system-requirements-comparison) suggest a mid-range GPU for 1080p, the urban density of Hesperia benefits greatly from high-VRAM cards and fast CPUs. To maintain a stable 60 FPS while driving through the city's neon-lit districts, an RTX 3070 or equivalent is recommended for the 2026 release.
 
 ### How do I reduce eye strain during 8-hour farming sessions?
 Using a light bar like the BenQ ScreenBar Halo provides bias lighting that reduces the contrast between your bright screen and a dark room. Additionally, following the 20-20-20 rule—looking at something 20 feet away for 20 seconds every 20 minutes—is the most effective non-hardware solution.

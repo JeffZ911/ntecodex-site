@@ -129,7 +129,7 @@ If you are looking to master the systems of Hethereau, consider checking out our
 
 ### Commonly Asked Questions about NTE Progression
 
-Many players wonder if there is a way to "reroll" the substats on their Cartridges, similar to tuning Echoes in *Wuthering Waves*. Currently, the process for optimizing Cartridges involves farming new drops from higher-level Anomaly Commissions rather than using a specific calibration fluid. Official details on a dedicated "reroll" mechanic have not been published by Hotta Studio as of the current patch.
+Many players wonder if there is a way to "reroll" the substats on their Cartridges, similar to tuning Echoes in *[Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard)*. Currently, the process for optimizing Cartridges involves farming new drops from higher-level Anomaly Commissions rather than using a specific calibration fluid. Official details on a dedicated "reroll" mechanic have not been published by Hotta Studio as of the current patch.
 
 Another frequent question concerns the "Monster Book" or collection rewards. While the game tracks your encounters with various Anomalies through the Bureau's records, these are primarily for lore and one-time milestone rewards rather than a repeatable [fusion system](https://ntecodex.com/faq).
 
