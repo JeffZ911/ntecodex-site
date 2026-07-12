@@ -82,7 +82,7 @@ Mastering Jiuyuan requires precise rotation management; you must balance your bu
 
 ### Chiz: Why the Free S-Class is Essential
 
-Chiz is a rarity in modern gacha games: a free character who genuinely competes with premium limited units. As a Solid-type carry, Chiz utilizes a "Fons" stacking mechanic. Every time she lands a hit, she gains a stack of Fons, which increases her Physical and Solid damage.
+Chiz is a rarity in modern gacha games: a [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) who genuinely competes with premium limited units. As a Solid-type carry, Chiz utilizes a "Fons" stacking mechanic. Every time she lands a hit, she gains a stack of Fons, which increases her Physical and Solid damage.
 
 At maximum stacks, Chiz’s heavy attack transforms into a massive AoE slam that can clear entire waves of mobs in seconds. Because players receive multiple copies of Chiz through the main story and early-game milestones, her "Awakening" levels are much easier to max out than other S-Class units, giving her a significant statistical advantage for F2P players.
 

@@ -26,7 +26,7 @@ As players transition from the turn-based combat of Honkai: [Star Rail](https://
 
 # HSR 4.3 Cavern of Corrosion Explained: Farming Gear in Neverness to Everness
 
-The Neverness to Everness (NTE) equivalent to the Honkai: Star Rail (HSR) [Cavern of Corrosion](https://ntecodex.com/faq) is the Rabbit Hole domain, which is the primary source for Cartridges. While HSR players farm Relics, NTE players utilize the Console System, which combines these Cartridges with Tetris-like Modules obtained through the Rewind System using Carrota Coins.
+The Neverness to Everness (NTE) equivalent to the Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) (HSR) [Cavern of Corrosion](https://ntecodex.com/faq) is the Rabbit Hole domain, which is the primary source for Cartridges. While HSR players farm Relics, NTE players utilize the Console System, which combines these Cartridges with Tetris-like Modules obtained through the Rewind System using Carrota Coins.
 
 ## Question Restated
 

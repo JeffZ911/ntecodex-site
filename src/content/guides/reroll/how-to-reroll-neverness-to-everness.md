@@ -148,7 +148,7 @@ A standard run from account creation to the Eibon Antique Shop takes roughly 17 
 
 ### PC vs. Mobile Reroll Efficiency
 
-If you have access to a PC, it is highly recommended to perform your rerolls there. PC loading times are significantly faster, and the precision of a mouse and keyboard makes the initial combat sequences quicker. Some players utilize multi-instance managers on PC to run three or four accounts simultaneously, though this requires a robust system and may be subject to future developer restrictions.
+If you have access to a PC, it is highly recommended to perform your rerolls there. PC loading times are significantly faster, and the precision of a [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) makes the initial combat sequences quicker. Some players utilize multi-instance managers on PC to run three or four accounts simultaneously, though this requires a robust system and may be subject to future developer restrictions.
 
 The "Hunter Level 15" trap is something to avoid. Some guides suggest playing until Hunter Level 15 to get more dice. However, the time required to reach Level 15 (roughly 2 hours) is better spent performing six or seven 15-minute reroll cycles. Efficiency is about the number of Hero Chests you can open per hour, not the total number of pulls on a single mediocre account.
 

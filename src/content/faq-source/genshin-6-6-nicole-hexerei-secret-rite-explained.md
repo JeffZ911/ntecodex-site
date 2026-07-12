@@ -142,7 +142,7 @@ As the 6.6 patch progresses, players should keep an eye on upcoming banners and 
 Following the Misty Tipsy Style banner, which featured Hotori, the community is looking toward Version 1.1. The arrival of Lacrimosa is expected to introduce a Chaos-attribute DoT playstyle. While Hotori focuses on time-stop mechanics and combo recording, Lacrimosa will likely pair best with Daffodill to maximize Discord + Break synergy.
 
 ### Genshin 6.6 Banner Priority
-The current banner schedule for Genshin Impact 6.6 includes:
+The current banner schedule for [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 6.6 includes:
 
 1.  **Phase 1**: [Nicole Reeyn](https://ntecodex.com/guides/genshin-6-6-nicole-reeyn-shield-mechanics-gear-guide) (Pyro Support) and Durin (Rerun).
 2.  **Phase 2**: Lohen (5-star Cryo DPS) and Mavuika (Rerun).

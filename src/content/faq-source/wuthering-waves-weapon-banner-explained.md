@@ -61,7 +61,7 @@ Navigating these systems is the difference between securing a powerful signature
 ![Direct Answer](/img/wuthering-waves-weapon-banner-explained/inline-2.webp)
 
 
-The Wuthering Waves weapon banner system is widely considered one of the most player-friendly in the gacha genre due to its lack of a "50/50" mechanic.
+The [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) weapon banner system is widely considered one of the most player-friendly in the gacha genre due to its lack of a "50/50" mechanic.
 
 *   **100% Guarantee:** On limited weapon banners (Weapon Event Convene), the featured 5-star weapon is guaranteed. If you pull a 5-star weapon, it is 100% certain to be the rate-up weapon.
 *   **80-Pull Pity:** The "hard pity" for a 5-star weapon is 80 pulls. This means if you have not received a 5-star weapon in 79 pulls, the 80th pull is guaranteed to be a 5-star.

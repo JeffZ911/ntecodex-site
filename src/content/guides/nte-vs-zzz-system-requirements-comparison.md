@@ -195,7 +195,7 @@ Yes, Zenless Zone Zero supports 120 FPS on PC, provided your hardware can mainta
 As of mid-2026, you should set aside approximately 160 GB of space to house both titles comfortably. ZZZ requires about 57 GB, while NTE’s massive open world and high-resolution textures push its installation size closer to 100 GB. Using an NVMe SSD is highly recommended to minimize loading times between urban districts.
 
 ### Is a controller better than a mouse and keyboard for these games?
-This depends on your playstyle. ZZZ feels very natural on a controller due to its action-heavy, combo-based combat. However, NTE’s open-world exploration and menu-heavy systems often benefit from the precision and hotkey availability of a mouse and keyboard setup.
+This depends on your playstyle. ZZZ feels very natural on a controller due to its action-heavy, combo-based combat. However, NTE’s open-world exploration and menu-heavy systems often benefit from the precision and hotkey availability of a [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) setup.
 
 ## Sources
 - LG UltraGear 27GP850-B Official Specs — https://www.lg.com/us/monitors/lg-27gp850-b-gaming-monitor
