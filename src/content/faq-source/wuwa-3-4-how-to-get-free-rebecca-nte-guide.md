@@ -81,7 +81,7 @@ In reality, Rebecca is a guest character from the *Cyberpunk: Edgerunners* anime
 ![Direct Answer](/img/wuwa-3-4-how-to-get-free-rebecca-nte-guide/inline-2.webp)
 
 
-To clarify, Rebecca is a limited 5-star Resonator available exclusively in Wuthering Waves (WuWa) Version 3.4. She is not a character in Neverness to Everness (NTE).
+To clarify, Rebecca is a limited 5-star Resonator available exclusively in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) (WuWa) Version 3.4. She is not a character in Neverness to Everness (NTE).
 
 To get Rebecca for free in WuWa, you must reach Union Level 10 and participate in the collaboration login event between June 8 and July 9, 2026. This promotion is part of the "Gifts of Dreamchasers" campaign, which celebrates the crossover between the world of Solaris-3 and Night City.
 

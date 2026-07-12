@@ -78,7 +78,7 @@ The weapon system in [Wuthering Waves](https://ntecodex.com/guides/wuthering-wav
 
 ### The 100% Guarantee Rule: Why There is No 50/50
 
-In many other gacha games, pulling a 5-star item on a limited banner only gives you a 50% or 75% chance of getting the featured item. Wuthering Waves removes this variable for weapons. When the golden light appears on a Weapon Event Convene, you do not need to hold your breath—it will always be the signature weapon of the featured Resonator.
+In many other gacha games, pulling a 5-star item on a limited banner only gives you a 50% or 75% chance of getting the featured item. [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) removes this variable for weapons. When the golden light appears on a Weapon Event Convene, you do not need to hold your breath—it will always be the signature weapon of the featured Resonator.
 
 This transparency makes planning much easier. To guarantee a signature weapon, you only ever need a maximum of 80 Forging Tides. This is a stark contrast to the Character Event Convene, which still utilizes a 50/50 system where you might receive a standard 5-star character instead of the limited one.
 

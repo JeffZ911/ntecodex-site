@@ -44,7 +44,7 @@ The core of the inquiry focuses on:
 *   Where can players find these domains in the Hethereau districts?
 *   What are the specific costs in terms of Character Pixels and what reward tiers can be expected at different levels?
 
-In Honkai: Star Rail, the [Cavern of Corrosion](https://ntecodex.com/faq) provides Relics with fixed slots (Head, Hands, Body, Feet). In NTE, the system is more fluid, requiring players to manage both the base gear and the spatial arrangement of sub-components. This guide breaks down these differences to ensure your Espers are ready for high-level content.
+In Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear), the [Cavern of Corrosion](https://ntecodex.com/faq) provides Relics with fixed slots (Head, Hands, Body, Feet). In NTE, the system is more fluid, requiring players to manage both the base gear and the spatial arrangement of sub-components. This guide breaks down these differences to ensure your Espers are ready for high-level content.
 
 ## Direct Answer
 

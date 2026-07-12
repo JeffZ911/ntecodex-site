@@ -36,7 +36,7 @@ This system guarantees specific outcomes after a certain number of attempts. If 
 
 ### The Basics of Genshin's Gacha System
 
-Genshin Impact uses a "Wishes" system where players spend currency—either Intertwined Fates for limited banners or Acquaint Fates for the standard banner—to receive a random assortment of weapons and characters. Most pulls result in 3-star weapons, which serve as "filler." The real goal for most players is the 4-star and 5-star rewards.
+[Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) uses a "Wishes" system where players spend currency—either Intertwined Fates for limited banners or Acquaint Fates for the standard banner—to receive a random assortment of weapons and characters. Most pulls result in 3-star weapons, which serve as "filler." The real goal for most players is the 4-star and 5-star rewards.
 
 The pity system tracks every pull you make on each specific banner type. Every time you fail to pull a high-rarity item, your "pity count" increases. Once you hit a specific threshold, your odds of success skyrocket until a high-rarity item is guaranteed.
 

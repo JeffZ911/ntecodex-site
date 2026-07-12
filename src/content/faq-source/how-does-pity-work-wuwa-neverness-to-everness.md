@@ -85,7 +85,7 @@ At the 70th pull, the **Board Modification** mechanic activates. This is NTE's v
 
 ### The "No 50/50" Rule: Why NTE is Different
 
-The most significant advantage NTE has over competitors like [Wuthering Waves](https://ntecodex.com/faq) or Genshin Impact is the elimination of the 50/50 system on Limited Boards. In WuWa, hitting an S-class (5-star) character only gives you a 50% chance of getting the featured unit. If you "lose" the 50/50, you receive a standard pool character instead.
+The most significant advantage NTE has over competitors like [Wuthering Waves](https://ntecodex.com/faq) or [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) is the elimination of the 50/50 system on Limited Boards. In WuWa, hitting an S-class (5-star) character only gives you a 50% chance of getting the featured unit. If you "lose" the 50/50, you receive a standard pool character instead.
 
 In Neverness to Everness, there is no such risk. Every S-[class character](https://ntecodex.com/guides/best-gear-for-long-gacha-sessions) obtained from a Limited Board (such as Nanally’s "The Ichi-daime" banner) is guaranteed to be the featured character. This removes the "double pity" requirement (160+ pulls) often needed in other games to guarantee a specific unit. While the hard pity is 90 instead of 80, the lack of a 50/50 makes the average cost of acquiring a specific character significantly lower in NTE.
 

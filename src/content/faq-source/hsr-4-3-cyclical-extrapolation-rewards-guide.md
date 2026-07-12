@@ -35,7 +35,7 @@ inline_image_sections:
   - "Related"
 ---
 
-As the gacha landscape shifts in 2026, players are balancing their weekly routines between the established systems of Honkai: Star Rail and the fresh, urban open-world mechanics of Neverness to Everness.
+As the gacha landscape shifts in 2026, players are balancing their weekly routines between the established systems of Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) and the fresh, urban open-world mechanics of Neverness to Everness.
 
 # HSR 4.3 Cyclical Extrapolation Rewards Guide: Comparison with Neverness to Everness
 
