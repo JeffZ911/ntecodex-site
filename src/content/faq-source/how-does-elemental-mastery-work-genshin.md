@@ -160,7 +160,7 @@ Regarding specific Natlan-specific mechanics like "Lunar" reactions: undisclosed
 ## Sources
 
 - [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Wiki — https://genshin-impact.fandom.com/wiki/Elemental_Mastery
-- Game8 Genshin Impact Guide — https://game8.co/games/Genshin-Impact/archives/297488
+- Game8 [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Guide — https://game8.co/games/Genshin-Impact/archives/297488
 - Paimon.moe Database — https://paimon.moe
 - HoYoLAB Official Community — https://www.hoyolab.com/article/563454
 - KeqingMains Theorycrafting Library

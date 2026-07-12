@@ -30,7 +30,7 @@ Navigating the gacha mechanics of Teyvat requires more than just luck; it requir
 ![Question Restated](/img/how-does-pity-system-work-genshin/inline-1.webp)
 
 
-The "pity system" is a foundational mechanic in Genshin Impact designed to ensure that players eventually receive high-rarity items, even if they have poor luck. Without this system, a player could theoretically spend thousands of Primogems and never see a 5-star character. For Free-to-Play (F2P) players and low spenders, the pity system is the only reliable way to plan for future character releases and manage a limited budget of Intertwined Fates.
+The "pity system" is a foundational mechanic in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) designed to ensure that players eventually receive high-rarity items, even if they have poor luck. Without this system, a player could theoretically spend thousands of Primogems and never see a 5-star character. For Free-to-Play (F2P) players and low spenders, the pity system is the only reliable way to plan for future character releases and manage a limited budget of Intertwined Fates.
 
 This system guarantees specific outcomes after a certain number of attempts. If you have not pulled a 5-star item within a set number of "Wishes," the game's internal logic forces one to appear. Similarly, it guarantees 4-star items at regular intervals. However, the system is not identical across all banners, and recent updates, specifically Version 5.0, have introduced significant changes to how these guarantees function.
 

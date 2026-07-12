@@ -206,7 +206,7 @@ The **LG UltraGear** offers the best price-to-performance ratio for 1440p gaming
 Not every player needs to rush out and buy a full suite of new hardware. If your current setup meets certain thresholds, the gains from upgrading may be minimal.
 
 *   **Existing 144Hz IPS Monitors:** If you already own a 144Hz IPS monitor, the jump to 165Hz or 180Hz is marginal for ZZZ gameplay. While the LG 27GP850-B is excellent, it won't fundamentally change your Jane Doe performance if you are already above the 120Hz mark.
-*   **Controller Players:** If you play ZZZ exclusively with a controller, the high-end mouse and keyboard recommendations will not impact your Jane Doe performance. Instead, focus your budget on a controller with hall-effect sensors to prevent stick drift during intense combat.
+*   **Controller Players:** If you play ZZZ exclusively with a controller, the high-end [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) recommendations will not impact your Jane Doe performance. Instead, focus your budget on a controller with hall-effect sensors to prevent stick drift during intense combat.
 *   **Ergonomic Basics:** Don't buy a $500 ergonomic chair if your current setup already allows your feet to rest flat on the floor and your monitor is at eye level. Proper desk ergonomics often matter more than the brand of the chair you sit in.
 
 ## What we didn't include and why

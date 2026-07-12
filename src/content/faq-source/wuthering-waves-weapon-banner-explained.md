@@ -74,7 +74,7 @@ The [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-
 ![Detailed Explanation](/img/wuthering-waves-weapon-banner-explained/inline-3.webp)
 
 
-The weapon system in Wuthering Waves is designed to ensure that if you commit your resources to a specific banner, you receive exactly what you are pulling for. This eliminates the frustration of "losing" a high-rarity pull to an off-banner item.
+The weapon system in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) is designed to ensure that if you commit your resources to a specific banner, you receive exactly what you are pulling for. This eliminates the frustration of "losing" a high-rarity pull to an off-banner item.
 
 ### The 100% Guarantee Rule: Why There is No 50/50
 

@@ -155,4 +155,4 @@ Mastering SPD is the difference between playing the game and controlling it. By 
 - Game8 Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Wiki — https://game8.co/games/Honkai-Star-Rail/archives/411835
 - KeqingMains HSR
 - HoYoLAB Official Community — https://www.hoyolab.com/article/18063162
-- Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/
+- Official Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Website — https://hsr.hoyoverse.com/en-us/

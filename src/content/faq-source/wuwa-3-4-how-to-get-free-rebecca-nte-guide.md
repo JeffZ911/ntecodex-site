@@ -74,7 +74,7 @@ The confusion stems from the close proximity of two major events: the global lau
 
 ### Rebecca's Availability in 2026
 
-In reality, Rebecca is a guest character from the *Cyberpunk: Edgerunners* anime, appearing exclusively in Wuthering Waves as a Havoc-element Pistol Resonator. While she is indeed free for a limited time in that game, she does not exist within the world of Hethereau, the setting of Neverness to Everness. NTE players have their own set of free characters to collect, including the powerful support unit Haniel and the protagonist, Zero.
+In reality, Rebecca is a guest character from the *Cyberpunk: Edgerunners* anime, appearing exclusively in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) as a Havoc-element Pistol Resonator. While she is indeed free for a limited time in that game, she does not exist within the world of Hethereau, the setting of Neverness to Everness. NTE players have their own set of free characters to collect, including the powerful support unit Haniel and the protagonist, Zero.
 
 ## Direct Answer
 

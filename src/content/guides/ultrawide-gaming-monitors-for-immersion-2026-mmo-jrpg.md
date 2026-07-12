@@ -113,7 +113,7 @@ The [2,048 local dimming zones](https://www.rtings.com/monitor/reviews/samsung/o
 ### Gigabyte M34WQ 34\" 144Hz Ultrawide KVM Gaming Monitor
 The M34WQ is the best value entry into ultrawide gaming, offering a 144Hz refresh rate and [400 nits of brightness](https://www.rtings.com/monitor/reviews/gigabyte/m34wq). While the lack of a curve makes the edges feel distant, its [high pixel density](https://www.rtings.com/monitor/reviews/gigabyte/m34wq) and built-in productivity features make it ideal for players who balance gaming with work.
 
-The inclusion of a [KVM switch](https://www.rtings.com/monitor/reviews/gigabyte/m34wq) allows you to control two computers with a single mouse and keyboard. This is a massive quality-of-life feature for players who might have a work laptop and a gaming PC at the same desk. You can grind for materials in an MMO during a lunch break and switch back to your professional setup with the press of a button.
+The inclusion of a [KVM switch](https://www.rtings.com/monitor/reviews/gigabyte/m34wq) allows you to control two computers with a single [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard). This is a massive quality-of-life feature for players who might have a work laptop and a gaming PC at the same desk. You can grind for materials in an MMO during a lunch break and switch back to your professional setup with the press of a button.
 
 *   **Best for:** Budget-Conscious MMO Players
 *   **Pros:** Flat IPS panel avoids the distortion of curved screens; Built-in KVM switch for easy swapping between PC and laptop; Excellent color out-of-the-box for the price point.

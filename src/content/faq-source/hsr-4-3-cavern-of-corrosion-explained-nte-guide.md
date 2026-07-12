@@ -39,7 +39,7 @@ The Neverness to Everness (NTE) equivalent to the Honkai: [Star Rail](https://nt
 When looking for the [HSR 4](https://ntecodex.com/faq).[3 Cavern](https://ntecodex.com/faq) of Corrosion equivalent in Neverness to Everness, several key questions arise regarding the transition between these two systems. Players often want to know exactly where the gear farming domains are located within the sprawling city of Hethereau and how the stamina costs compare to the Trailblaze Power they are used to spending.
 
 The core of the inquiry focuses on:
-*   What is the specific equivalent of the Honkai: Star Rail 4.[3 Cavern](https://ntecodex.com/faq) of Corrosion in Neverness to Everness?
+*   What is the specific equivalent of the Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 4.[3 Cavern](https://ntecodex.com/faq) of Corrosion in Neverness to Everness?
 *   How do players farm endgame gear, specifically the Cartridges and Modules that make up the Console System?
 *   Where can players find these domains in the Hethereau districts?
 *   What are the specific costs in terms of Character Pixels and what reward tiers can be expected at different levels?
