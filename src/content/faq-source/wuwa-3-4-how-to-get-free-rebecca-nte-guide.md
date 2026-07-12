@@ -168,7 +168,7 @@ For those looking to optimize their start, many players recommend rerolling for 
 No, Rebecca is a collaboration character exclusive to Wuthering Waves Version 3.4. She does not appear in the Neverness to Everness character roster.
 
 ### Who is the best free character in Neverness to Everness?
-Chiz is widely considered the best free character in NTE because she is an S-rank DPS that can be fully maxed out through the City Tycoon management system without spending gacha currency. Haniel is also highly valued as a top-tier A-rank support.
+Chiz is widely considered the best [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) in NTE because she is an S-rank DPS that can be fully maxed out through the City Tycoon management system without spending gacha currency. Haniel is also highly valued as a top-tier A-rank support.
 
 ### How do I claim the pre-registration rewards in NTE?
 You can claim your pre-registration rewards, including Haniel and various dice, by checking your in-game mailbox. This feature typically unlocks after you reach the Eibon Antique Shop in the main story.

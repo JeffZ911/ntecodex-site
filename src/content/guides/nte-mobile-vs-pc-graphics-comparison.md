@@ -84,7 +84,7 @@ Players running Neverness to Everness (NTE) for 4+ hours daily face a significan
 *   **Cons:**
     *   Open-back design leaks sound, making them unsuitable for use in public spaces or shared rooms.
     *   The 120-ohm impedance may require a dedicated dongle or amp to reach full volume on some mobile devices.
-*   **Verdict:** While NTE mobile audio is often compressed, the HD 560S reveals the full dynamic range of the PC version's orchestral score. Its neutral frequency response ensures that environmental cues are never drowned out by artificial bass boost.
+*   **Verdict:** While [NTE mobile](https://ntecodex.com/guides/nte-mobile-vs-pc-performance-comparison) audio is often compressed, the HD 560S reveals the full dynamic range of the PC version's orchestral score. Its neutral frequency response ensures that environmental cues are never drowned out by artificial bass boost.
 
 ### Razer Naga V2 Pro Wireless MMO Mouse
 *   **Price:** $179

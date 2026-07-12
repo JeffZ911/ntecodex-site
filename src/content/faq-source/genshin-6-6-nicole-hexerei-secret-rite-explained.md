@@ -39,7 +39,7 @@ With the arrival of Version 6.6, the long-awaited debut of the Hexenzirkel has f
 
 # Genshin 6.6 Nicole Hexerei Secret Rite Explained (NTE Guide)
 
-The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a faction-based team passive in Genshin Impact 6.6 that activates when two or more Hexerei characters are in a party, granting unique buffs like Nicole's 150% Arcane Projection DMG boost.
+The Hexerei: [Secret Rite](https://ntecodex.com/faq) is a faction-based team passive in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 6.6 that activates when two or more Hexerei characters are in a party, granting unique buffs like Nicole's 150% Arcane Projection DMG boost.
 
 ## Question Restated
 

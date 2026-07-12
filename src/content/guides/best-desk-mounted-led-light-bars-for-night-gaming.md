@@ -164,7 +164,7 @@ Our selection process focused on the specific needs of long-session gamers who r
 While a standard lamp might seem sufficient, gaming in a dark room creates unique physiological challenges.
 
 ### Asymmetric Light Path
-Standard desk lamps cast light in a 360-degree or wide cone pattern. When placed near a monitor, this light hits the screen and reflects directly into your eyes. This not only causes eye strain but also reduces the effective contrast ratio of your monitor. An asymmetric light bar ensures that the "cutoff" line of the light is right at the top of your bezel, illuminating your mouse and keyboard while keeping the screen dark.
+Standard desk lamps cast light in a 360-degree or wide cone pattern. When placed near a monitor, this light hits the screen and reflects directly into your eyes. This not only causes eye strain but also reduces the effective contrast ratio of your monitor. An asymmetric light bar ensures that the "cutoff" line of the light is right at the top of your bezel, illuminating your [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) while keeping the screen dark.
 
 ### Bias Lighting
 The human eye struggles when looking at a bright light source (the monitor) surrounded by total darkness. This causes the iris to constantly adjust, leading to "computer vision syndrome." A light bar with a rear-facing LED, such as the BenQ Halo, provides "bias lighting." This illuminates the wall behind the monitor, reducing the harsh contrast and making the screen appear more comfortable to the eyes.

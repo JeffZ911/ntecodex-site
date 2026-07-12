@@ -58,7 +58,7 @@ When you're farming for hours, your posture is never static. You might lean forw
 Heat buildup is the enemy of the marathon gamer. High-density foam or mesh is essential to prevent sweating and discomfort during 8-hour 'daily' marathons. Many premium chairs now utilize [copper-infused cooling foam](https://store.hermanmiller.com/gaming-chairs/embody-gaming-chair/2517590.html) or multi-layered mesh to dissipate body heat, ensuring you stay focused on the gameplay rather than your temperature.
 
 **Adjustable Armrests**
-To prevent carpal tunnel and shoulder strain, armrests must align with desk height to keep elbows at a 90-degree angle. This is especially critical for multi-platform players who might switch between a mouse and keyboard for combat and a handheld device or controller for story segments. Armrests with 360-degree rotation allow for support even when holding a mobile device close to the chest.
+To prevent carpal tunnel and shoulder strain, armrests must align with desk height to keep elbows at a 90-degree angle. This is especially critical for multi-platform players who might switch between a [mouse and keyboard](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) for combat and a handheld device or controller for story segments. Armrests with 360-degree rotation allow for support even when holding a mobile device close to the chest.
 
 ## Herman Miller Embody Gaming Chair (Logitech G Edition)
 *   **Price:** $1695

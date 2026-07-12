@@ -135,7 +135,7 @@ Another frequent question concerns the "Monster Book" or collection rewards. Whi
 
 ### NTE vs. Wuthering Waves: Which System is More F2P Friendly?
 
-The F2P friendliness of NTE's gear system is often debated. Because Arcs are tied to the gacha, getting a character's "signature" weapon can be more difficult than farming a high-tier Echo in *Wuthering Waves*. However, the **Awakening** system in NTE allows players to use generic materials to upgrade character power over time, which can be more forgiving than needing multiple pulls of the same character to unlock their full potential.
+The F2P friendliness of NTE's gear system is often debated. Because Arcs are tied to the gacha, getting a character's "signature" weapon can be more difficult than farming a high-tier Echo in *[Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard)*. However, the **Awakening** system in NTE allows players to use generic materials to upgrade character power over time, which can be more forgiving than needing multiple pulls of the same character to unlock their full potential.
 
 Additionally, the City Tycoon system allows dedicated F2P players to "buy" their way into high-level gear by managing their urban resources effectively, providing a path to power that doesn't rely solely on combat or gacha luck.
 

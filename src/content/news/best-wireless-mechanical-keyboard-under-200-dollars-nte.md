@@ -147,7 +147,7 @@ The success of the [Porsche collab](https://www.reddit.com/r/NevernessToEverness
 - Neverness to Everness Dreamwalk Corridor Expansion — Games Press
 - How to Mute Taygedo in NTE — Pocket Tactics
 - [Taygedo Mute Toggle Discussion — Reddit](https://www.reddit.com/r/NevernessToEverness/comments/1czv4n5/you_can_mute_taygedo_from_next_patch/)
-- NTE System Requirements Chart — NTEGame.com
+- NTE [System Requirements](https://ntecodex.com/guides/nte-vs-zzz-system-requirements-comparison) Chart — NTEGame.com
 - NTE PC and Mobile Specs — Icy Veins
 - Underground Circuit Gameplay & Rewards — YouTube
 - How to Win Races in NTE — GameRant

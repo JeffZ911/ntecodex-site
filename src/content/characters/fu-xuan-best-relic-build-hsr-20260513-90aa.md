@@ -172,5 +172,5 @@ Fu Xuan remains one of the most impactful pulls a player can make in Honkai: [St
 - Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Fandom Wiki — https://honkai-star-rail.fandom.com/wiki/Fu_Xuan
 - Prydwen Institute Fu Xuan Guide — https://www.prydwen.gg/star-rail/characters/fu-xuan
 - Game8 Fu Xuan Build & Best Team — https://game8.co/games/Honkai-Star-Rail/archives/412111
-- Official Honkai: Star Rail Website — https://hsr.hoyoverse.com/en-us/character?worldIndex=2&charIndex=7
+- Official Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Website — https://hsr.hoyoverse.com/en-us/character?worldIndex=2&charIndex=7
 - Guinaifen's Master Diviner Analysis (Reddit) — https://www.reddit.com/r/HonkaiStarRail/comments/16m8m8e/fu_xuan_guide_and_build_summary/

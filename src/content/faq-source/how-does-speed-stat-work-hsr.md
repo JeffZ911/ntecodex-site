@@ -45,7 +45,7 @@ Why are specific numbers like 134 or 161 considered "breakpoints" for endgame co
 ![Direct Answer](/img/how-does-speed-stat-work-hsr/inline-2.webp)
 
 
-In Honkai: Star Rail, SPD determines how frequently a character takes a turn by reducing their Action Value (AV). While SPD is the stat you see on your character sheet, AV is the actual measurement of "time" used by the game's engine to determine the turn order.
+In Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear), SPD determines how frequently a character takes a turn by reducing their Action Value (AV). While SPD is the stat you see on your character sheet, AV is the actual measurement of "time" used by the game's engine to determine the turn order.
 
 > **The Core Formula:**
 > **Action Value (AV) = 10,000 / SPD**

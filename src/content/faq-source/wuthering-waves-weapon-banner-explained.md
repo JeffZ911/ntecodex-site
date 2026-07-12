@@ -47,7 +47,7 @@ Maximizing your Resonator's potential in [Wuthering Waves](https://ntecodex.com/
 ![Question Restated](/img/wuthering-waves-weapon-banner-explained/inline-1.webp)
 
 
-The weapon banner system in Wuthering Waves (often called the Weapon Convene) can be confusing for players transitioning from other gacha titles. The most common questions include:
+The weapon banner system in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) (often called the Weapon Convene) can be confusing for players transitioning from other gacha titles. The most common questions include:
 
 *   How does the weapon banner system work in Wuthering Waves?
 *   What are the pity rates and guarantees for 5-star weapons?
