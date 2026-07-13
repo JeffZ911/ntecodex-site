@@ -118,7 +118,7 @@ Both [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20
 
 ### Who Should You Pull First?
 
-**Prioritize Ruan Mei if:**
+**Prioritize [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) if:**
 1.  You plan to use Firefly or Boothill. Ruan Mei is not optional for these teams; she is the engine.
 2.  You want a support that fits into every single team composition without thinking.
 3.  You struggle with Skill Point management.

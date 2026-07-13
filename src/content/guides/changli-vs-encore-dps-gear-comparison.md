@@ -161,7 +161,7 @@ The SteelSeries Arctis Nova Pro Wireless is the top choice for players who need 
 ![When to skip the upgrade](/img/changli-vs-encore-dps-gear-comparison/inline-4.webp)
 
 
-While top-tier gear improves the Changli vs Encore DPS comparison results, it is not always a necessary investment.
+While top-tier gear improves the Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison) results, it is not always a necessary investment.
 
 *   **Monitor Caps:** If you are currently using a 144Hz IPS monitor, the jump to 360Hz is noticeable but won't fundamentally change your DPS output if your frame rate is capped by your CPU. High-APM games like *Neverness to Everness* are often CPU-intensive; ensure your processor can push 300+ FPS before buying a 360Hz display.
 *   **Switch Preference:** Avoid upgrading your keyboard if you do not use "Rapid Trigger" features. Standard mechanical switches are sufficient for casual play. If you do not actively practice animation canceling with Changli, the analog switches of the Huntsman V3 Pro may feel overly sensitive.

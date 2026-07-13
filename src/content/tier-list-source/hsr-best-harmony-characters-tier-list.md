@@ -51,7 +51,7 @@ The following criteria are used to determine rankings:
 
 | Character | Primary Buff Types | Unique Utility | Best Team Archetype |
 | :--- | :--- | :--- | :--- |
-| **Ruan Mei** | DMG%, RES PEN, SPD, Break Effect | Weakness Break Efficiency | Universal / Break / DoT |
+| **[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713)** | DMG%, RES PEN, SPD, Break Effect | Weakness Break Efficiency | Universal / Break / DoT |
 | **Robin** | ATK%, DMG%, Crit DMG (FUA) | Team-wide Action Advance | Follow-up / Dual DPS |
 | **Sparkle** | Crit DMG, DMG%, ATK% | SP Limit Increase / Action Advance | SP-Hungry Hypercarry |
 | **Bronya** | DMG%, Crit DMG, ATK% | 100% Action Advance / Cleanse | Hypercarry |

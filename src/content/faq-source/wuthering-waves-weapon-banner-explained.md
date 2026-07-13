@@ -174,7 +174,7 @@ As of May 16, 2026, the current version 3.3 update has introduced new ways to ea
 - [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Official Site — https://wutheringwaves.kurogames.com/
 - Prydwen [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Guide — https://www.prydwen.gg/wuthering-waves/
 - Game8 [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Banner Guide — https://game8.co/games/Wuthering-Waves/archives/454158
-- PC Gamer Wuthering Waves Banner Schedule — https://www.pcgamer.com/games/rpg/wuthering-waves-banner-next-current/
+- PC Gamer [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Banner Schedule — https://www.pcgamer.com/games/rpg/wuthering-waves-banner-next-current/
 - Mobalytics WuWa Gacha System Explained
 - Rock Paper Shotgun WuWa Pity System — https://www.rockpapershotgun.com/wuthering-waves-pity-system
 - Beebom Wuthering Waves Banners

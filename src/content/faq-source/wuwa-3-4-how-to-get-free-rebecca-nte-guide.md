@@ -165,7 +165,7 @@ For those looking to optimize their start, many players recommend rerolling for 
 ## Frequently Asked Questions
 
 ### Can I get Rebecca in Neverness to Everness?
-No, Rebecca is a collaboration character exclusive to Wuthering Waves Version 3.4. She does not appear in the Neverness to Everness character roster.
+No, Rebecca is a collaboration character exclusive to [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Version 3.4. She does not appear in the Neverness to Everness character roster.
 
 ### Who is the best free character in Neverness to Everness?
 Chiz is widely considered the best [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) in NTE because she is an S-rank DPS that can be fully maxed out through the City Tycoon management system without spending gacha currency. Haniel is also highly valued as a top-tier A-rank support.

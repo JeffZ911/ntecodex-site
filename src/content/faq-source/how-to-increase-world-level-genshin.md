@@ -176,7 +176,7 @@ It is not mandatory for completing the story or events, but it is highly recomme
 
 ## Sources
 
-- Official Genshin Impact Version 5.0 Update Details — https://www.hoyolab.com/article/32515020
+- Official [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions) Version 5.0 Update Details — https://www.hoyolab.com/article/32515020
 - Genshin Impact Wiki: World Level — https://genshin-impact.fandom.com/wiki/World_Level
 - Game8: How to Increase World Level and Ascension Quests — https://game8.co/games/Genshin-Impact/archives/301552
 - Eurogamer: Genshin Impact Adventure Rank and World Level guide
