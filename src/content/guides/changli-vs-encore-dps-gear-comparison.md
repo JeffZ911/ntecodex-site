@@ -124,7 +124,7 @@ To provide a comprehensive Changli vs Encore [DPS comparison](https://ntecodex.c
 ![What a high-DPS player actually needs](/img/changli-vs-encore-dps-gear-comparison/inline-2.webp)
 
 
-When performing a Changli vs Encore DPS comparison, the technical ceiling of your hardware often dictates your actual output. High-tier characters require more than just the right build; they require an environment that supports high-APM execution.
+When performing a Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison), the technical ceiling of your hardware often dictates your actual output. High-tier characters require more than just the right build; they require an environment that supports high-APM execution.
 
 ### Rapid Trigger Functionality
 Standard mechanical switches have a fixed reset point; a key must travel back up past a certain threshold before it can be pressed again. Rapid Trigger, found on the Razer Huntsman V3 Pro, allows for faster repeated inputs because the key resets the moment you start lifting your finger. This is critical for dodging and animation cancels, especially for Changli's Flaming Sacrifice combo, which requires precise timing to maximize the damage of her Ultimate ability.

@@ -166,7 +166,7 @@ Genesis Crystals are the paid currency that can be converted 1:1 into Primogems.
 ## Sources
 
 - BitTopup
-- Genshin Impact Wiki — https://genshin-impact.fandom.com/wiki/Primogem
+- [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions) Wiki — https://genshin-impact.fandom.com/wiki/Primogem
 - Sportskeeda — https://www.sportskeeda.com/esports/genshin-impact-imaginarium-theater-april-2026-enemies-buffs-best-characters
 - TopUpLive
 - GameRant

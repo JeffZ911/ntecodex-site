@@ -46,7 +46,7 @@ The progression follows a strict pattern: some increases happen automatically up
 ![Detailed Explanation](/img/how-to-increase-world-level-genshin/inline-3.webp)
 
 
-The World Level system serves as the primary scaling mechanism in Genshin Impact. It ensures that as your characters grow stronger, the enemies in the open world remain challenging and, more importantly, provide better rewards. Without this system, high-level players would find overworld combat trivial and would struggle to find the rare materials needed for late-game character upgrades.
+The World Level system serves as the primary scaling mechanism in [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions). It ensures that as your characters grow stronger, the enemies in the open world remain challenging and, more importantly, provide better rewards. Without this system, high-level players would find overworld combat trivial and would struggle to find the rare materials needed for late-game character upgrades.
 
 ### Understanding the Relationship Between AR and World Level
 
