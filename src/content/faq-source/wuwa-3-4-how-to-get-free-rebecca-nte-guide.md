@@ -134,7 +134,7 @@ Beyond individual characters, the launch of Neverness to Everness on April 29, 2
 
 While [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) is set in the post-apocalyptic world of Solaris-3, Neverness to Everness takes place in the bustling metropolis of Hethereau. In NTE, you play as an [Appraiser](https://en.wikipedia.org/wiki/Neverness_to_Everness), an "unlicensed" Anomaly Hunter working out of the Eibon Antique Shop.
 
-Hethereau is characterized by its supernatural anomalies—strange phenomena that range from glowing umbrellas to blue flames in the streets. Players use [Esper Abilities](https://en.wikipedia.org/wiki/Neverness_to_Everness) to solve these urban mysteries. The game also features a deep car customization system, allowing you to drive through the city and participate in racing activities, a feature that distinguishes it from the more traditional movement mechanics in Wuthering Waves.
+Hethereau is characterized by its supernatural anomalies—strange phenomena that range from glowing umbrellas to blue flames in the streets. Players use [Esper Abilities](https://en.wikipedia.org/wiki/Neverness_to_Everness) to solve these urban mysteries. The game also features a deep car customization system, allowing you to drive through the city and participate in racing activities, a feature that distinguishes it from the more traditional movement mechanics in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard).
 
 | Attribute | Synergy Effect | Recommended Characters |
 | :--- | :--- | :--- |

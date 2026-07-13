@@ -30,7 +30,7 @@ Mastering elemental reactions is the foundation of high-level combat in Teyvat, 
 ![Question Restated](/img/how-to-trigger-elemental-reactions-genshin-impact/inline-1.webp)
 
 
-To master combat in Genshin Impact, players must understand the specific mechanics behind elemental interactions. This involves knowing how to combine the seven elements—Pyro, Hydro, Anemo, Electro, Dendro, Cryo, and Geo—to produce secondary effects that enhance damage or provide utility. Many players ask: what are the specific steps to trigger an elemental reaction? How do different elements like Pyro, Hydro, and Dendro interact with each other in complex chains? Furthermore, does the sequence of applying elements change the outcome or damage of the reaction?
+To master combat in [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions), players must understand the specific mechanics behind elemental interactions. This involves knowing how to combine the seven elements—Pyro, Hydro, Anemo, Electro, Dendro, Cryo, and Geo—to produce secondary effects that enhance damage or provide utility. Many players ask: what are the specific steps to trigger an elemental reaction? How do different elements like Pyro, Hydro, and Dendro interact with each other in complex chains? Furthermore, does the sequence of applying elements change the outcome or damage of the reaction?
 
 ### Understanding the Core Combat Loop
 

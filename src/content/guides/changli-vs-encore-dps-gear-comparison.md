@@ -133,7 +133,7 @@ Standard mechanical switches have a fixed reset point; a key must travel back up
 High-APM play increases the risk of repetitive strain. A chair with internal lumbar support, like the Secretlab TITAN Evo, and a mouse with a natural grip are non-negotiable for long-term health. When grinding for Arcs in *Neverness to Everness* or Echoes in other titles, poor posture leads to fatigue, which directly reduces your reaction time and DPS accuracy after the first two hours of play.
 
 ### High Refresh Rate Clarity
-When comparing fast-moving characters, a 240Hz+ or OLED display reduces the "smearing" of visual effects. This makes it significantly easier to time parries and counters. In a Changli vs Encore DPS comparison, visual clarity is vital because Changli’s animations are fast and flashy, potentially obscuring enemy telegraphs on lower-quality monitors. The [Alienware AW2725DF](https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df) provides the near-instant response time needed to see through the "Fusion" visual effects and react to enemy AI.
+When comparing fast-moving characters, a 240Hz+ or OLED display reduces the "smearing" of visual effects. This makes it significantly easier to time parries and counters. In a Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison), visual clarity is vital because Changli’s animations are fast and flashy, potentially obscuring enemy telegraphs on lower-quality monitors. The [Alienware AW2725DF](https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df) provides the near-instant response time needed to see through the "Fusion" visual effects and react to enemy AI.
 
 ## Comparison summary
 

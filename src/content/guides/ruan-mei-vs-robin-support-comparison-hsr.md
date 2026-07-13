@@ -114,7 +114,7 @@ Robin is slightly more demanding. She requires a very high ATK stat (usually 400
 ![Recommendation](/img/ruan-mei-vs-robin-support-comparison-hsr/inline-4.webp)
 
 
-Both Ruan Mei and Robin are "must-pull" tier characters, but the priority depends on your current roster needs.
+Both [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) and Robin are "must-pull" tier characters, but the priority depends on your current roster needs.
 
 ### Who Should You Pull First?
 

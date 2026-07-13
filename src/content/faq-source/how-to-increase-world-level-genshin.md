@@ -118,7 +118,7 @@ The main reason to push for a higher World Level is the efficiency of your Origi
 
 ### Managing Difficulty: How to Lower Your World Level
 
-If you find that an automatic increase or a recent Ascension Quest has made the game too difficult, Genshin Impact provides a "Lower World Level" feature. This becomes available once you reach World Level 5.
+If you find that an automatic increase or a recent Ascension Quest has made the game too difficult, [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions) provides a "Lower World Level" feature. This becomes available once you reach World Level 5.
 
 To lower your World Level:
 1.  Open the Paimon Menu.
