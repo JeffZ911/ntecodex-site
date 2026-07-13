@@ -114,7 +114,7 @@ With the Trailblazer’s Ultimate active, a character with 300% Break Effect can
 Bronya (Wind) has fallen slightly due to the existence of Sunday and Sparkle, but she remains a top-tier "Standard" character. Her 100% Action Advance is still a "delete button" for MoC cycles when paired with a high-investment hypercarry. Her main drawback in 2026 is her extreme SP consumption, which requires E1S1 or a very specific team rotation to manage.
 
 ### Cerydra: The Wind Specialist
-Cerydra (Wind) is a newer addition that provides massive SPD and Energy buffs. She excels in "Action Gauge" teams that rely on hitting specific SPD breakpoints (like 160 or 200) to trigger relic set bonuses. While her buffs are numerically higher than Ruan Mei's in some scenarios, her single-target focus makes her less versatile in the current AoE-heavy Pure Fiction meta.
+Cerydra (Wind) is a newer addition that provides massive SPD and Energy buffs. She excels in "Action Gauge" teams that rely on hitting specific SPD breakpoints (like 160 or 200) to trigger relic set bonuses. While her buffs are numerically higher than [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713)'s in some scenarios, her single-target focus makes her less versatile in the current AoE-heavy Pure Fiction meta.
 
 ## B Tier
 

@@ -99,7 +99,7 @@ Robin’s SP economy is more complex. While her Skill also lasts 3 turns, she en
 
 ### Energy Management
 
-Ruan Mei’s Energy needs are predictable. With a 3-turn rotation and the "Meshing Cogs" Light Cone or her Signature, she can almost always keep her Ultimate up with high consistency.
+[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713)’s Energy needs are predictable. With a 3-turn rotation and the "Meshing Cogs" Light Cone or her Signature, she can almost always keep her Ultimate up with high consistency.
 
 Robin’s Energy management is highly variable. If she is in a team that attacks slowly, she will struggle to get her Ultimate back. She relies on the "frequency of hits" from her teammates. This is why she is often considered "married" to Follow-Up Attackers. Without the 2 Energy per hit from her Talent, her 160 Energy cost is a significant hurdle that requires specific Light Cones or Energy Regeneration Link Ropes to overcome.
 

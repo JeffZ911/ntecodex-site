@@ -150,7 +150,7 @@ Understanding how to spend your Primogems is just as important as knowing how to
 
 ### Understanding Pity and Guarantee
 
-The Genshin Impact Pity System ensures you eventually receive a five-star item. 
+The [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Pity System ensures you eventually receive a five-star item. 
 *   **Soft Pity:** Starts at the 74th pull, where the chance of getting a five-star increases significantly.
 *   **Hard Pity:** At the 90th pull, you are guaranteed a five-star character.
 *   **The 55/45 Rule:** When you pull a five-star on the limited banner, you have a 55% chance of getting the featured character and a 45% chance of getting a standard character (like Diluc, Jean, or Dehya). If you lose this "55/45," your next five-star is guaranteed to be the featured character.

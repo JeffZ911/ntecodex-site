@@ -171,7 +171,7 @@ As of May 16, 2026, the current version 3.3 update has introduced new ways to ea
 
 ## Sources
 
-- Wuthering Waves Official Site — https://wutheringwaves.kurogames.com/
+- [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) Official Site — https://wutheringwaves.kurogames.com/
 - Prydwen Wuthering Waves Guide — https://www.prydwen.gg/wuthering-waves/
 - Game8 Wuthering Waves Banner Guide — https://game8.co/games/Wuthering-Waves/archives/454158
 - PC Gamer Wuthering Waves Banner Schedule — https://www.pcgamer.com/games/rpg/wuthering-waves-banner-next-current/

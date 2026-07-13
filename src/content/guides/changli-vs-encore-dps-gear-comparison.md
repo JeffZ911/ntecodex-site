@@ -112,7 +112,7 @@ Competitive action-RPG and gacha players performing high-frame-rate rotations du
 *Related: [Best Under-Desk LED Lighting Kits for Long-Session MMO and Gacha Grind](/guides/best-under-desk-led-lighting-kits-for-immersive-setups) · [Best Desk Mounted LED Lights for WFH Gacha Grinders](/guides/best-desk-mounted-led-lights-for-wfh-gacha-grinders) · [Best mechanical low-profile keyboards for rapid MMO combat and long-se](/guides/best-mechanical-low-profile-keyboards-for-mmo-combat)*
 
 
-To provide a comprehensive Changli vs Encore DPS comparison, we looked beyond in-game statistics and analyzed the physical requirements of their respective playstyles. The following criteria guided our selection:
+To provide a comprehensive Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison), we looked beyond in-game statistics and analyzed the physical requirements of their respective playstyles. The following criteria guided our selection:
 
 *   **Input Latency Analysis:** We analyzed input latency data from RTINGS to identify keyboards with the fastest actuation and reset points. For a character like Changli, whose True Sight mechanics require rapid, successive inputs to maintain a Fusion DMG Bonus, a keyboard with "Rapid Trigger" technology is a measurable advantage.
 *   **Macro and Button Mapping:** We prioritized mice with high programmable button counts to accommodate the complex macro needs of high-DPS character rotations. Encore's Dissonance management often requires precise heavy attack timing that can be streamlined with multi-button mice like the Razer Naga V2 Pro.

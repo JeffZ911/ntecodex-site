@@ -110,7 +110,7 @@ The [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-
 2.  **Requirement 2: Login Event:** Once the level requirement is met, players must log in for a specific number of days during the Gifts of Dreamchasers event.
 3.  **The Reward:** After completing the login requirements, Rebecca is added permanently to the player's roster. She is a Havoc-element character who uses dual pistols and specializes in chaotic, high-speed burst damage.
 
-While the "Endstate Matrix" is a prominent feature in Wuthering Waves, it is a recurring endgame combat mode and not the primary source for the [free Rebecca](https://ntecodex.com/faq) claim.
+While the "Endstate Matrix" is a prominent feature in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard), it is a recurring endgame combat mode and not the primary source for the [free Rebecca](https://ntecodex.com/faq) claim.
 
 ### Free Characters in Neverness to Everness (NTE)
 

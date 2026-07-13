@@ -86,7 +86,7 @@ The weekly reward structures of [HSR 4](https://ntecodex.com/guides/best-gaming-
 To understand which game offers better value, we must break down the specific tiers and mechanics of their respective weekly systems.
 
 ### HSR 4.3: Cyclical Extrapolation Reward Tiers
-In Honkai: Star Rail 4.3, the Cyclical Extrapolation is a weekly-resetting challenge within the Divergent Universe. Each week, a new set of Equations, Weighted Curios, and Blessings is curated to provide a unique gameplay experience.
+In Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 4.3, the Cyclical Extrapolation is a weekly-resetting challenge within the Divergent Universe. Each week, a new set of Equations, Weighted Curios, and Blessings is curated to provide a unique gameplay experience.
 
 **Weekly Reward Breakdown:**
 *   **Stellar Jades:** 225 Jades are awarded for the first clearance of the week at any difficulty.
