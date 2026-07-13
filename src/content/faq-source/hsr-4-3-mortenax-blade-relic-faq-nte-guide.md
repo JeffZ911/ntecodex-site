@@ -22,7 +22,7 @@ inline_image_sections:
   - "Related"
 ---
 
-Optimizing high-end damage dealers requires a deep understanding of how set bonuses interact with a character's unique scaling, whether you are building for the turn-based combat of Honkai: Star Rail or the urban supernatural action of Neverness to Everness.
+Optimizing high-end damage dealers requires a deep understanding of how set bonuses interact with a character's unique scaling, whether you are building for the turn-based combat of Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) or the urban supernatural action of Neverness to Everness.
 
 # HSR 4.3 Mortenax Blade Relic FAQ: Best Builds & NTE Gear Equivalents
 

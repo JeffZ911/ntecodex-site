@@ -53,7 +53,7 @@ When players ask how to get Primogems fast, they are usually looking for three s
 ![Direct Answer](/img/how-to-get-more-primogems-fast-genshin-impact/inline-2.webp)
 
 
-The fastest way to get Primogems in Genshin Impact is a combination of Daily Commissions (60 per day), Limited-Time Events (averaging 1,200+ per patch), and clearing the Spiral Abyss and [Imaginarium Theater](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) (up to 1,800 combined per month). For immediate "burst" income, players should focus on Archon Quests, which now offer a 500-Primogem time-limited bonus, and high-density exploration in regions like Natlan and Nod-Krai using Treasure Compasses.
+The fastest way to get Primogems in [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) is a combination of Daily Commissions (60 per day), Limited-Time Events (averaging 1,200+ per patch), and clearing the Spiral Abyss and [Imaginarium Theater](https://ntecodex.com/guides/how-to-unlock-visionary-mode-imaginarium-theater-gear-guide) (up to 1,800 combined per month). For immediate "burst" income, players should focus on Archon Quests, which now offer a 500-Primogem time-limited bonus, and high-density exploration in regions like Natlan and Nod-Krai using Treasure Compasses.
 
 Additionally, always redeem active promo codes from version livestreams and participate in HoYoLAB web events, which contribute an extra 300–500 Primogems to your monthly total.
 

@@ -68,7 +68,7 @@ Neverness to Everness has carved out a significant niche by blending high-octane
 
 The weekly reward structures of [HSR 4](https://ntecodex.com/guides/best-gaming-gear-for-long-session-gacha-grinders).3 and NTE are designed to keep players engaged through different psychological hooks. HSR focuses on the "perfect gear" chase via Planar Ornaments, while NTE focuses on "guaranteed progression" through its non-50/50 gacha board.
 
-| Feature | Honkai: Star Rail 4.3 (Weekly) | Neverness to Everness (Weekly) |
+| Feature | Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) 4.3 (Weekly) | Neverness to Everness (Weekly) |
 | :--- | :--- | :--- |
 | **Main Pull Currency** | 225 Stellar Jades | ~800–1,200 Anulith |
 | **Gacha Tickets** | None (Direct Jade usage) | Fabricated Dice (Standard/Limited) |

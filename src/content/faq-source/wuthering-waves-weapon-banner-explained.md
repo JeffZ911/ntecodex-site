@@ -144,7 +144,7 @@ Understanding how to spend your pulls is just as important as understanding the 
 
 For most players, especially Free-to-Play (F2P) or low spenders, **Character Banners should take priority**. A new character provides a new gameplay style, elemental coverage, and team synergies. 
 
-However, because Wuthering Waves guarantees the weapon at 80 pulls with no 50/50, the weapon banner is a much safer investment than in other games. If you have a "Main DPS" character that you love (like Hiyuki or Jiyan), getting their signature weapon is the single largest damage increase you can provide for them.
+However, because [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) guarantees the weapon at 80 pulls with no 50/50, the weapon banner is a much safer investment than in other games. If you have a "Main DPS" character that you love (like Hiyuki or Jiyan), getting their signature weapon is the single largest damage increase you can provide for them.
 
 **Strategic Advice:**
 1.  Secure the character first.

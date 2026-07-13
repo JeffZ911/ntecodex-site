@@ -165,6 +165,6 @@ For F2P players, the most efficient way to use the pity system is to always assu
 ## Sources
 - [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Official Site — https://genshin.hoyoverse.com/en/news/detail/125501
 - Game8 Genshin Pity Guide — https://game8.co/games/Genshin-Impact/archives/297443
-- Genshin Impact Fandom Wiki: Wish — https://genshin-impact.fandom.com/wiki/Wish
+- [Genshin Impact](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Fandom Wiki: Wish — https://genshin-impact.fandom.com/wiki/Wish
 - Hoyolab: Capturing Radiance Explained — https://www.hoyolab.com/article/32338545
 - Reddit: Weapon Banner 5.0 Changes — https://www.reddit.com/r/Genshin_Impact/comments/1f1ax5s/version_50_weapon_banner_change_summary/

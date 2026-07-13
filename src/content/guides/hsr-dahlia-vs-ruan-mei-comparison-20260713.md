@@ -212,7 +212,7 @@ Not every new piece of hardware is a necessary investment. You should skip these
 To maintain a focus on high-fidelity JRPG and urban RPG gaming, several popular products were excluded:
 
 *   **DXRacer Formula Series:** These "racing-style" chairs feature side-bolsters that push the shoulders forward. This geometry is designed for lateral support in a car, but in a gaming environment, it promotes poor posture during long sessions.
-*   **Zowie XL-Series Monitors:** While legendary in the competitive FPS scene for their motion clarity, their TN panels have poor color reproduction. They fail to do justice to the artistic detail in games like Neverness to Everness or Honkai Star Rail.
+*   **Zowie XL-Series Monitors:** While legendary in the competitive FPS scene for their motion clarity, their TN panels have poor color reproduction. They fail to do justice to the artistic detail in games like Neverness to Everness or [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear).
 *   **Logitech G Pro X Superlight:** This is an elite mouse for shooters, but it lacks the extra programmable buttons that are highly useful for mapping shortcuts to menus, maps, and character screens in RPGs.
 
 ## Frequently Asked Questions

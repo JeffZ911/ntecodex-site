@@ -104,7 +104,7 @@ Understanding the differences between these two titles is essential for maximizi
 
 ### Wuthering Waves x Cyberpunk: Edgerunners Collab Details
 
-The Wuthering Waves 3.4 update introduced the highly anticipated *Cyberpunk: Edgerunners* collaboration. Rebecca was chosen as the free 5-star giveaway to encourage new players to join the game.
+The [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) 3.4 update introduced the highly anticipated *Cyberpunk: Edgerunners* collaboration. Rebecca was chosen as the free 5-star giveaway to encourage new players to join the game.
 
 1.  **Requirement 1: Union Level 10:** New players must progress through the initial story of Solaris-3 until they reach Union Level 10. This typically takes a few hours of active play.
 2.  **Requirement 2: Login Event:** Once the level requirement is met, players must log in for a specific number of days during the Gifts of Dreamchasers event.

@@ -26,7 +26,7 @@ inline_image_sections:
   - "What we didn't include and why"
 ---
 
-Executing high-frame-rate rotations in urban action RPGs requires more than just skill; it requires hardware that can keep up with the millisecond-perfect inputs of top-tier units. This Changli vs Encore DPS comparison explores how the right peripherals can optimize the output of these Fusion powerhouses.
+Executing high-frame-rate rotations in urban action RPGs requires more than just skill; it requires hardware that can keep up with the millisecond-perfect inputs of top-tier units. This Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison) explores how the right peripherals can optimize the output of these Fusion powerhouses.
 
 # Changli vs Encore DPS Comparison: Best Gaming Gear for High-APM Combat
 

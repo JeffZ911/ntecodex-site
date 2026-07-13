@@ -93,7 +93,7 @@ Robin is more specialized but achieves higher peaks in her niche. She is the "mi
 
 ### SP Economy and Rotation Comfort
 
-Ruan Mei is one of the most comfortable units to play because she is **SP Positive**. You use her Skill once every three turns. The rest of the time, she uses Basic Attacks to generate Skill Points for your hungry DPS units. This makes her ideal for teams with Firefly or Imbibitor Lunae, who consume SP rapidly.
+[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) is one of the most comfortable units to play because she is **SP Positive**. You use her Skill once every three turns. The rest of the time, she uses Basic Attacks to generate Skill Points for your hungry DPS units. This makes her ideal for teams with Firefly or Imbibitor Lunae, who consume SP rapidly.
 
 Robin’s SP economy is more complex. While her Skill also lasts 3 turns, she enters the Concerto state upon using her Ultimate. During this state, she does not take turns and therefore cannot use Basic Attacks to generate SP. If your team is already SP-hungry, Robin can sometimes cause the rotation to stall. To play Robin effectively, you must often pair her with SP-positive sustains like Aventurine or Luocha.
 
