@@ -109,7 +109,7 @@ Once you select a weapon, the 80-pull pity applies specifically to that item. If
 
 ### Pity Carry-Over and Cumulative Pulls
 
-Pity in Wuthering Waves is persistent within the same banner type. If you pull 40 times on a limited weapon banner but do not get a 5-star before the banner expires, those 40 pulls carry over to the next limited weapon banner.
+Pity in [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) is persistent within the same banner type. If you pull 40 times on a limited weapon banner but do not get a 5-star before the banner expires, those 40 pulls carry over to the next limited weapon banner.
 
 However, pity **does not** share between different banner types. Pulling on the Standard Weapon Banner does not increase your pity on the Limited Weapon Banner.
 

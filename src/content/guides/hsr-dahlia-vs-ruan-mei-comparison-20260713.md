@@ -41,7 +41,7 @@ With the launch of the supernatural urban open-world RPG **Neverness to Everness
 > 📝 **Editorial Note:** This guide is AI-assisted and game data evolves rapidly. Please cross-reference with in-game information. _Updated: 2026-07-13._
 
 
-For players balancing the strategic turn-based combat of Honkai Star Rail (HSR) with the fast-paced anomaly hunting in the city of Hethereau, the choice of hardware is no longer just about frames per second—it is about visual health and physical endurance. Whether you are optimizing your monitor to capture the dark, gothic aesthetic of the newly released Constance (The Dahlia) or the vibrant, teal-heavy palette of Ruan Mei, your gear determines how long you can stay in the game without fatigue.
+For players balancing the strategic turn-based combat of [Honkai Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) (HSR) with the fast-paced anomaly hunting in the city of Hethereau, the choice of hardware is no longer just about frames per second—it is about visual health and physical endurance. Whether you are optimizing your monitor to capture the dark, gothic aesthetic of the newly released Constance (The Dahlia) or the vibrant, teal-heavy palette of Ruan Mei, your gear determines how long you can stay in the game without fatigue.
 
 For the best overall experience, the LG 27GP850-B is our top pick for its color accuracy. The ASUS ROG Swift OLED is the premium choice for high-contrast visuals, while the Secretlab TITAN Evo is essential for ergonomic support.
 
@@ -181,7 +181,7 @@ The 2026 gaming ecosystem is cross-platform. Players often farm daily missions o
 ![Comparison summary](/img/hsr-dahlia-vs-ruan-mei-comparison-20260713/inline-3.webp)
 
 
-The choice between gear often mirrors the choice between the "Dahlia" and "Ruan Mei" aesthetics in Honkai Star Rail.
+The choice between gear often mirrors the choice between the "Dahlia" and "Ruan Mei" aesthetics in [Honkai Star](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) Rail.
 
 | Feature | Dahlia Aesthetic (OLED Focus) | Ruan Mei Aesthetic (IPS Focus) |
 | :--- | :--- | :--- |

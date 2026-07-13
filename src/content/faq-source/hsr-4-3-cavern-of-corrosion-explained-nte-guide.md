@@ -57,7 +57,7 @@ Farming a single run of the Rabbit Hole costs 40 Character Pixels, which is the 
 
 ### HSR 4.3 vs. NTE Gear Terminology Comparison
 
-| Feature | Honkai: Star Rail (HSR) | Neverness to Everness (NTE) |
+| Feature | Honkai: [Star Rail](https://ntecodex.com/guides/genshin-impact-vs-honkai-star-rail-battery-drain-gear) (HSR) | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
 | **Gear Domain** | [Cavern of Corrosion](https://ntecodex.com/faq) | Rabbit Hole |
 | **Main Gear Type** | Relics | Cartridges |

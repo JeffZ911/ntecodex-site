@@ -87,7 +87,7 @@ To get Rebecca for free in WuWa, you must reach Union Level 10 and participate i
 
 In Neverness to Everness, the primary [free character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711) provided to all players is the A-rank Esper Haniel. She is distributed via the in-game mail system to all accounts created during the launch window. Additionally, the game provides several other guaranteed characters through story progression and the City Tycoon management system.
 
-| Feature | Wuthering Waves (WuWa) 3.4 | Neverness to Everness (NTE) |
+| Feature | [Wuthering Waves](https://ntecodex.com/guides/wuthering-waves-controller-vs-mouse-and-keyboard) (WuWa) 3.4 | Neverness to Everness (NTE) |
 | :--- | :--- | :--- |
 | **[Free Character](https://ntecodex.com/guides/gilgamesh-vs-archer-free-character-choice-guide-20260711)** | Rebecca (5-star Resonator) | Haniel (A-rank Esper) |
 | **Claim Method** | Login Event / Union Level 10 | In-game Mailbox (Pre-reg Reward) |

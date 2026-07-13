@@ -82,7 +82,7 @@ Robin, conversely, operates on the **Action Economy**. Her Ultimate, "Vox Harmon
 
 ### Team Synergies: Who Plays Better with Whom?
 
-Ruan Mei is the ultimate "plug-and-play" support. Because she provides All-Type RES PEN and a permanent SPD boost through her Talent, there is no team in the game that doesn't benefit from her presence. She is particularly vital for:
+[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) is the ultimate "plug-and-play" support. Because she provides All-Type RES PEN and a permanent SPD boost through her Talent, there is no team in the game that doesn't benefit from her presence. She is particularly vital for:
 *   **Break Teams:** Firefly, Boothill, and Harmony Trailblazer.
 *   **Damage over Time (DoT):** Kafka and Black Swan benefit immensely from the RES PEN and the Break extension, which allows DoT procs to tick more frequently.
 *   **Dual DPS:** Her buffs are team-wide and require no specific targeting.
