@@ -175,7 +175,7 @@ While top-tier gear improves the Changli vs Encore [DPS comparison](https://ntec
 Several popular products were excluded from this guide because they fail to meet the specific needs of high-APM gacha grinding.
 
 *   **DXRacer Racing Series:** The bucket-seat geometry pushes shoulders forward, which can lead to poor posture and neck strain during long action-RPG sessions. We preferred the Secretlab TITAN Evo for its flatter, more ergonomic wing design.
-*   **Logitech G Pro X Superlight 2:** While excellent for FPS, its lack of side buttons makes it less efficient for players who need to map multiple skills and items for complex rotations. In a Changli vs Encore DPS comparison, having access to Ultimate abilities and health consumables on the mouse thumb-grid is a major advantage.
+*   **Logitech G Pro X Superlight 2:** While excellent for FPS, its lack of side buttons makes it less efficient for players who need to map multiple skills and items for complex rotations. In a Changli vs Encore [DPS comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison), having access to Ultimate abilities and health consumables on the mouse thumb-grid is a major advantage.
 *   **Custom Open-Back Headphones:** While the soundstage is superior, the lack of a dedicated hot-swap battery system makes them less practical for 10-hour wireless grinds compared to the Arctis Nova Pro. The ability to stay wireless indefinitely is more valuable for marathon sessions in Hethereau than absolute audiophile-grade fidelity.
 
 ## Frequently Asked Questions

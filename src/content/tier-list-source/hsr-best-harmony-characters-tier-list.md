@@ -66,7 +66,7 @@ The following criteria are used to determine rankings:
 | Character | Rotation Type | SP Economy Score |
 | :--- | :--- | :--- |
 | **Sparkle** | Skill every turn | Highly Positive (via Ultimate) |
-| **Ruan Mei** | Skill -> Basic -> Basic | Positive (+1 SP per 3 turns) |
+| **[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713)** | Skill -> Basic -> Basic | Positive (+1 SP per 3 turns) |
 | **Tingyun** | Skill -> Basic -> Basic | Positive (+1 SP per 3 turns) |
 | **Hanya** | Skill (recovers SP) | Positive |
 | **Asta** | Skill or Basic (situational) | Neutral / Positive |

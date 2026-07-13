@@ -172,5 +172,5 @@ Another mistake is neglecting Character Level on Bloom or Swirl triggers. Becaus
 - KeqingMains: Elemental Gauge Theory
 - KeqingMains: Internal Cooldown (ICD) Guide
 - HoYoLAB: A Beginner's Guide to Elemental Reactions — https://www.hoyolab.com/article/514434
-- IGN: Genshin Impact Elemental Reactions Guide
+- IGN: [Genshin Impact](https://ntecodex.com/guides/wuthering-waves-vs-genshin-impact-storage-solutions) Elemental Reactions Guide
 - Rock Paper Shotgun: Genshin Impact Elements Guide
