@@ -141,7 +141,7 @@ She also provides a stacking ATK% buff through her "Charging" talent. Against Fi
 
 Hanya bridges the gap between 4-star supports and high-end SP management. Her Skill applies the "Burden" state to an enemy; when allies attack that enemy a certain number of times, the team recovers a Skill Point. This makes her an excellent partner for SP-hungry DPS characters if you do not own Sparkle.
 
-Hanya also provides a significant SPD and ATK% buff to a single ally based on her own stats. While she lacks the team-wide impact of Robin or Ruan Mei, her ability to keep the SP economy flowing while boosting a carry makes her a very strong A-tier contender.
+Hanya also provides a significant SPD and ATK% buff to a single ally based on her own stats. While she lacks the team-wide impact of Robin or [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713), her ability to keep the SP economy flowing while boosting a carry makes her a very strong A-tier contender.
 
 ## B Tier
 

@@ -140,7 +140,7 @@ To get S-Rank Agents, you need Polychromes. Each pull costs 160 Polychromes. To 
 
 As of mid-2026, the roster has expanded significantly since launch. However, the roles remain consistent. When pulling for an S-Rank, you should consider what your team lacks. A balanced team typically consists of:
 
-1.  **An Attack Agent:** Your primary damage dealer (e.g., Ellen, Zhu Yuan, or Soldier 11).
+1.  **An Attack Agent:** Your primary damage dealer (e.g., Ellen, [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions), or Soldier 11).
 2.  **A Stun Agent:** Responsible for filling the Daze bar to immobilize enemies (e.g., Lycaon, Koleda, or Qingyi).
 3.  **A Support or Anomaly Agent:** Provides buffs to the team or applies elemental debuffs (e.g., Rina, Caesar, or Grace).
 

@@ -90,7 +90,7 @@ This team’s dominance in [Hollow Zero](https://ntecodex.com/faq) is rooted in 
 As of the 2.7 update, **Nangong Yu** has replaced Qingyi as the premier stunner for Ether-focused compositions.
 *   **Nangong Yu:** She converts a portion of her Anomaly Mastery directly into Impact, allowing her to stun enemies significantly faster than standard stunners.
 *   **Nicole:** Her "black hole" EX Special Attack is essential for grouping the small, fast-moving "Ethereal" mobs that can otherwise waste your time and increase your Pressure.
-*   **Zhu Yuan:** She is a burst-window specialist. When an enemy is stunned, her "Enhanced Shotshells" deal massive Ether damage. This team thrives on the **Ether Resonia** path, which adds additional corruption damage to Ether-affected targets.
+*   **[Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions):** She is a burst-window specialist. When an enemy is stunned, her "Enhanced Shotshells" deal massive Ether damage. This team thrives on the **Ether Resonia** path, which adds additional corruption damage to Ether-affected targets.
 
 #### 3. The Anomaly/Disorder Team (Jane Doe, Burnice, Caesar)
 Anomaly teams have seen a massive resurgence with the release of **Burnice White** and **[Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison)**.
