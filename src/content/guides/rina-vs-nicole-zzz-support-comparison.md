@@ -82,7 +82,7 @@ To understand how these two compare at a glance, we can look at their rarity, el
 | **[Core Passive](https://ntecodex.com/faq)** | Mini-Destructive Partner | Mechanical Case |
 | **Anomaly Synergy** | Shock Extension (+3s) | Corruption / Ether DMG (+25%) |
 | **Best W-Engine** | Weeping Cradle (S) | The Vault (A) |
-| **Best Team** | Ellen, Lycaon, Rina | Zhu Yuan, Anby, Nicole |
+| **Best Team** | Ellen, Lycaon, Rina | [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions), Anby, Nicole |
 
 ## Detailed Comparison
 

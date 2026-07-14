@@ -160,7 +160,7 @@ Bangboos are free units obtained through "Boopons" earned via gameplay. They pro
 
 While F2P teams can clear most content, S-rank agents provide a "quality of life" improvement. As an F2P player, you should save your Encrypted Master Tapes for agents that fill a gap in your roster.
 *   **The 300-Pull Selector:** After 300 pulls on the Standard Banner, you can choose any S-rank agent. **Lycaon** (Stun) or **Rina** (Support) are the best choices for F2P players, as they significantly upgrade Ice or Electric teams, respectively.
-*   **Targeting Synergy:** If you have built a strong Soukaku, pulling for an Ice Attacker like **Ellen Joe** is a wise investment. If you prefer the Cunning Hares playstyle, **Zhu Yuan** (Ether/Attack) is the perfect upgrade for Billy, as she shares a faction with Nicole.
+*   **Targeting Synergy:** If you have built a strong Soukaku, pulling for an Ice Attacker like **Ellen Joe** is a wise investment. If you prefer the Cunning Hares playstyle, **[Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions)** (Ether/Attack) is the perfect upgrade for Billy, as she shares a faction with Nicole.
 
 ## Sources
 - zenless-zone-zero.fandom.com — https://zenless-zone-zero.fandom.com/wiki/Zenless_Zone_Zero_Wiki

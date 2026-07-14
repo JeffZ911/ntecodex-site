@@ -147,7 +147,7 @@ As of May 2026, the Harmony meta is defined by specialization. While earlier sup
 ## Sources
 
 - Prydwen Institute - Star Rail Character Rankings — https://www.prydwen.gg/star-rail/characters/
-- Honkai: Star Rail Fandom Wiki - Ruan Mei — https://honkai-star-rail.fandom.com/wiki/Ruan_Mei
+- Honkai: Star Rail Fandom Wiki - [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) — https://honkai-star-rail.fandom.com/wiki/Ruan_Mei
 - Honkai: Star Rail Fandom Wiki - Robin — https://honkai-star-rail.fandom.com/wiki/Robin
 - Game8 - Honkai: Star Rail Best Team Comps — https://game8.co/games/Honkai-Star-Rail/archives/410631
 - Official Honkai: Star Rail HoYoLAB Community — https://www.hoyolab.com/home
