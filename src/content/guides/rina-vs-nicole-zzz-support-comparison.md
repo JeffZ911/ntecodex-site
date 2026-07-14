@@ -56,7 +56,7 @@ If you are looking for a quick answer on which support to prioritize, the choice
 *   **Rina (Alexandrina Sebastiane)** is the premium S-Rank support specializing in PEN Ratio buffs and Electric team synergy. She is best for players who have invested in Victoria Housekeeping units or high-frequency Electric attackers.
 *   **Nicole Demara** is the F2P-friendly A-Rank queen of DEF Shred and crowd control. She is essential for Ether-based compositions and remains the most versatile support for burst-heavy rotations.
 *   **Choose Rina** if you are running Victoria Housekeeping (Ellen Joe, Von Lycaon) or Mono-Electric (Anton, Grace) teams.
-*   **Choose Nicole** for Cunning Hares (Billy, Anby, Nekomata) or high-burst Ether teams featuring Zhu Yuan.
+*   **Choose Nicole** for Cunning Hares (Billy, Anby, Nekomata) or high-burst Ether teams featuring [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions).
 *   **In the current meta**, Nicole's 40% DEF Shred often provides more immediate value for most players, but Rina's PEN Ratio scales better into the late game against enemies with massive defense pools.
 
 ### The Case for Rina

@@ -32,7 +32,7 @@ Mastering the urban combat of New Eridu does not require a massive investment of
 ![Question Restated](/img/zzz-best-f2p-team-comps-20260513/inline-1.webp)
 
 
-What are the most effective team compositions in Zenless Zone Zero for players who do not want to spend money (F2P)? This is a common concern for newcomers who want to ensure their resources are spent wisely on characters that remain viable in the late game. While S-rank agents like Ellen Joe or Zhu Yuan often dominate the spotlight, the fundamental question is how free-to-play characters like Anby, Billy, and Nicole stack up against these premium units in the current meta.
+What are the most effective team compositions in Zenless Zone Zero for players who do not want to spend money (F2P)? This is a common concern for newcomers who want to ensure their resources are spent wisely on characters that remain viable in the late game. While S-rank agents like Ellen Joe or [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions) often dominate the spotlight, the fundamental question is how free-to-play characters like Anby, Billy, and Nicole stack up against these premium units in the current meta.
 
 In Zenless Zone Zero, "F2P" typically refers to the "Starter Trio" provided at the beginning of the game, along with characters earned through the "Road to Proxy Greatness" milestones, the "[Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison)" rewards, and permanent story unlocks. Players often wonder which A-rank characters provide the best synergy for clearing endgame content like Shiyu Defense, where high Daze application and elemental weaknesses become mandatory for achieving an S-rank clear.
 

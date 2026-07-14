@@ -176,7 +176,7 @@ The introduction of Robin in Version 2.2 has fundamentally changed how players a
 
 ### The Super Break Revolution
 
-The arrival of the Harmony Trailblazer has shifted the focus toward Break Effect. Before Version 2.2, breaking an enemy's weakness was often seen as a defensive utility or a minor damage bonus. With Super Break, breaking is now a primary source of damage. This has increased the value of Ruan Mei even further, as her Weakness Break Efficiency directly boosts the damage output of Super Break compositions.
+The arrival of the Harmony Trailblazer has shifted the focus toward Break Effect. Before Version 2.2, breaking an enemy's weakness was often seen as a defensive utility or a minor damage bonus. With Super Break, breaking is now a primary source of damage. This has increased the value of [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) even further, as her Weakness Break Efficiency directly boosts the damage output of Super Break compositions.
 
 ## Sources
 
