@@ -172,7 +172,7 @@ Every Harmony character released so far provides a unique utility that cannot be
 
 ### The Impact of Robin
 
-The introduction of Robin in Version 2.2 has fundamentally changed how players approach team building for Follow-up Attackers. Previously, Ruan Mei was the default support for these teams. However, Robin’s ability to provide a full team Action Advance and additional damage on every hit has made her the definitive choice for the "IPC" team (Topaz, Dr. Ratio, Aventurine). Her presence has also improved the performance of Herta and Himeko in Pure Fiction, where team-wide buffs are more valuable than single-target ones.
+The introduction of Robin in Version 2.2 has fundamentally changed how players approach team building for Follow-up Attackers. Previously, [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) was the default support for these teams. However, Robin’s ability to provide a full team Action Advance and additional damage on every hit has made her the definitive choice for the "IPC" team (Topaz, Dr. Ratio, Aventurine). Her presence has also improved the performance of Herta and Himeko in Pure Fiction, where team-wide buffs are more valuable than single-target ones.
 
 ### The Super Break Revolution
 

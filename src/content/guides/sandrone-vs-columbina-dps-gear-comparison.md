@@ -164,7 +164,7 @@ To identify the best hardware for high-DPS rotations, we prioritized components 
 ![What a high-DPS player actually needs](/img/sandrone-vs-columbina-dps-gear-comparison/inline-2.webp)
 
 
-Optimizing your DPS output is as much about your physical interface as it is about your in-game stats. When comparing high-end characters or executing a complex **sandrone vs columbina dps comparison**, the following hardware features become essential:
+Optimizing your DPS output is as much about your physical interface as it is about your in-game stats. When comparing high-end characters or executing a complex **sandrone vs columbina [dps comparison](https://ntecodex.com/guides/best-gaming-setup-for-yunli-vs-clara-dps-comparison)**, the following hardware features become essential:
 
 ### Low Actuation Force
 Repetitive rotations require switches that trigger with minimal effort. Optical switches, like those found in the Logitech G502 X PLUS, use a beam of light to register a click. This removes the need for physical debounce delay and reduces the force required for rapid-fire inputs, which is critical for preventing Repetitive Strain Injury (RSI) during 6+ hour sessions.

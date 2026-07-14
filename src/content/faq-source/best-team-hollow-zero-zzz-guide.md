@@ -145,7 +145,7 @@ Farming [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-b
 ### Character Build Guides
 For maximum efficiency in [Hollow Zero](https://ntecodex.com/guides/zzz-3-0-hollow-zero-tactical-buff-comparison), ensure your main DPS is properly geared.
 *   **Ellen Joe:** Focus on the **"Polar Metal"** Drive Disc set and her signature W-Engine, **"Deep Sea Visitor."**
-*   **Zhu Yuan:** Requires high CRIT Rate and Ether DMG bonus. The **"Chaos Jazz"** or **"Chaotic Metal"** sets are her best-in-slot choices.
+*   **[Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions):** Requires high CRIT Rate and Ether DMG bonus. The **"Chaos Jazz"** or **"Chaotic Metal"** sets are her best-in-slot choices.
 *   **Nangong Yu:** Prioritize Impact and Anomaly Mastery to maximize her Daze conversion passive.
 
 ## Sources

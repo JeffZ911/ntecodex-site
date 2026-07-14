@@ -143,7 +143,7 @@ Optimizing gear is non-negotiable for high-level Shiyu Defense.
 Understanding how Anomaly teams compare to other styles is vital for long-term account planning.
 
 ### Anomaly vs. Attack: Which is Better for Endgame?
-In the current Shiyu Defense Tier List, Anomaly teams often outperform traditional Attack teams in stages with "damage sponges"—bosses with massive HP pools but low mobility. Because Disorder damage is a percentage-based conversion of Anomaly duration, it scales naturally with the game's difficulty. However, traditional Attack teams (like those led by Ellen Joe or Zhu Yuan) still hold the edge in "burst windows" where an enemy is stunned for a short duration.
+In the current Shiyu Defense Tier List, Anomaly teams often outperform traditional Attack teams in stages with "damage sponges"—bosses with massive HP pools but low mobility. Because Disorder damage is a percentage-based conversion of Anomaly duration, it scales naturally with the game's difficulty. However, traditional Attack teams (like those led by Ellen Joe or [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions)) still hold the edge in "burst windows" where an enemy is stunned for a short duration.
 
 ### Best Bangboo for Anomaly Synergy
 Your choice of Bangboo can significantly speed up your Anomaly Buildup.

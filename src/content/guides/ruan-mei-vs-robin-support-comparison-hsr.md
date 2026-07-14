@@ -140,7 +140,7 @@ If you have extra Stellar Jades and are wondering where to invest:
 
 ### Final Thoughts on the Harmony Meta
 
-As of May 2026, the Harmony meta is defined by specialization. While earlier supports like Bronya and Tingyun focused on single-target hyperbuffing, Ruan Mei and Robin have shifted the game toward team-wide excellence. 
+As of May 2026, the Harmony meta is defined by specialization. While earlier supports like Bronya and Tingyun focused on single-target hyperbuffing, [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) and Robin have shifted the game toward team-wide excellence. 
 
 Ruan Mei remains the "safe" pick. Her ability to shred Toughness and delay enemies ensures she will remain relevant as long as the Break mechanic exists. Robin is the "peak performance" pick. Her Action Advance is a mechanic that historically never falls out of favor in turn-based strategy games. Ideally, a well-rounded account should aim to eventually own both, as they rarely compete for the same teammates and allow you to tackle both sides of Memory of Chaos with the best possible support.
 
