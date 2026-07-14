@@ -73,7 +73,7 @@ While Woodpecker Electro is a great generalist set, specific elemental sets ofte
 *   **Polar Metal (Ice):** Increases Ice DMG by 10% (2-pc). The 4-piece bonus increases Basic Attack and Dash Attack DMG by 20%. If an enemy is Frozen or Shattered, this bonus increases by an additional 20% for 12 seconds. This is essential for Ellen Joe and Hoshimi Miyabi.
 *   **Inferno Metal (Fire):** Increases Fire DMG by 10% (2-pc). The 4-piece bonus increases Crit Rate by 28% for 8 seconds when hitting a Burning enemy. This allows characters like Soldier 11 to focus their substats entirely on Crit DMG.
 *   **Thunder Metal (Electric):** Increases Electric DMG by 10% (2-pc). The 4-piece bonus increases ATK by 28% as long as an enemy is Shocked. This is the preferred set for Anton and Harumasa.
-*   **Chaotic Metal (Ether):** Increases Ether DMG by 10% (2-pc). The 4-piece bonus increases Crit DMG by 20%, with an additional 5.5% stackable buff (up to 6 stacks) whenever a squad member triggers Corruption. This is the definitive set for Zhu Yuan.
+*   **Chaotic Metal (Ether):** Increases Ether DMG by 10% (2-pc). The 4-piece bonus increases Crit DMG by 20%, with an additional 5.5% stackable buff (up to 6 stacks) whenever a squad member triggers Corruption. This is the definitive set for [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions).
 
 ### Support & Utility: Swing Jazz and Proto Punk
 

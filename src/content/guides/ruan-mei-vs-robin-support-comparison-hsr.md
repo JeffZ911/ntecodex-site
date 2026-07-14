@@ -134,7 +134,7 @@ Both [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20
 
 If you have extra Stellar Jades and are wondering where to invest:
 
-*   **Ruan Mei E1:** This is one of the strongest Eidolons in the game. It allows the team to ignore 20% of the enemy's DEF while her Ultimate is active. This is a massive, multiplicative damage increase.
+*   **[Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) E1:** This is one of the strongest Eidolons in the game. It allows the team to ignore 20% of the enemy's DEF while her Ultimate is active. This is a massive, multiplicative damage increase.
 *   **Robin E1:** This provides 24% All-Type RES PEN during the Concerto state. Similar to Ruan Mei's E1, this is a top-tier investment that significantly boosts team damage.
 *   **Signature Light Cones:** Ruan Mei's *Past Self in Mirror* provides SP restoration and team DMG, which is great for comfort. Robin's *Flowing Nightglow* is more critical for her own Energy needs and ATK scaling.
 

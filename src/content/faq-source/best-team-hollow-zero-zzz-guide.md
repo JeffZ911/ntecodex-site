@@ -61,7 +61,7 @@ The current meta for [Hollow Zero](https://ntecodex.com/faq) favors teams that c
 | Team Archetype | Character 1 (DPS) | Character 2 (Stun) | Character 3 (Support/Utility) | Recommended Bangboo |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ice Mono (Classic)** | Ellen Joe | Von Lycaon | Soukaku | Sharkboo |
-| **Ether Burst** | Zhu Yuan | Nangong Yu | Nicole Demara | Resonaboo |
+| **Ether Burst** | [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions) | Nangong Yu | Nicole Demara | Resonaboo |
 | **Anomaly Disorder** | [Jane Doe](https://ntecodex.com/guides/yanagi-vs-jane-doe-anomaly-comparison) | Burnice White | Caesar King | Officer Cui |
 | **Elite 2026 Meta** | [Ye Shunguang](https://ntecodex.com/guides/velina-airgid-vs-ye-shunguang-comparison-gear) | Dialyn | Astra Yao | Gulliver |
 
