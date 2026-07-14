@@ -94,7 +94,7 @@ Version 2.2 marks a turning point for the Harmony Path. The introduction of Robi
 
 [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) remains the most versatile Harmony character in Honkai: Star Rail. Her kit revolves around her "Overtone" buff, which provides a 50% increase to Weakness Break Efficiency. This is a unique multiplier that allows your team to deplete enemy Toughness bars significantly faster, leading to more frequent breaks and delayed enemy actions.
 
-Her Ultimate, "Petals to Stream, Repose in Dream," deploys a field that increases all allies' All-Type RES PEN by 25%. This is one of the rarest and most powerful offensive buffs in the game because it directly ignores [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide). Whether you are running a DoT team with Kafka and Black Swan or a Break team with Boothill, Ruan Mei is the gold standard for support.
+Her Ultimate, "Petals to Stream, Repose in Dream," deploys a field that increases all allies' All-Type RES PEN by 25%. This is one of the rarest and most powerful offensive buffs in the game because it directly ignores [enemy resistances](https://ntecodex.com/guides/zzz-3-0-disputed-node-enemy-resistances-gear-guide). Whether you are running a DoT team with Kafka and Black Swan or a Break team with Boothill, [Ruan Mei](https://ntecodex.com/guides/hsr-dahlia-vs-ruan-mei-comparison-20260713) is the gold standard for support.
 
 ### Robin: The Follow-up Specialist
 

@@ -168,6 +168,6 @@ By combining these external sources with your character's internal ERR, you can 
 - Prydwen Institute - HSR Guides — https://www.prydwen.gg/star-rail/guides/
 - Game8 HSR Wiki — https://game8.co/games/Honkai-Star-Rail/archives/405905
 - Mobalytics HSR Robin Guide
-- Mobalytics HSR Firefly Guide
+- Mobalytics [HSR Firefly](https://ntecodex.com/guides/hsr-firefly-novaflare-vs-e2-comparison-20260714) Guide
 - HoYoLAB Acheron Mechanics — https://www.hoyolab.com/article/26425971
 - Reddit Theorycrafting: Energy Optimization — https://www.reddit.com/r/HonkaiStarRail/comments/14hqn87/an_optimization_guide_on_energy_recharge/

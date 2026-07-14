@@ -46,7 +46,7 @@ While you can technically start farming as soon as these unlock (roughly around 
 
 ### The Difference Between Routine Cleanup and Bardic Needle
 
-Understanding the distinction between these two systems is vital for resource management. Routine Cleanup is your primary "active" farming method. It requires 60 Battery Charge per attempt and pits you against specific bosses or enemy waves. Each stage is tied to two specific Disk Drive sets, making it the best way to target a particular set bonus for a character like Ellen Joe or Zhu Yuan.
+Understanding the distinction between these two systems is vital for resource management. Routine Cleanup is your primary "active" farming method. It requires 60 Battery Charge per attempt and pits you against specific bosses or enemy waves. Each stage is tied to two specific Disk Drive sets, making it the best way to target a particular set bonus for a character like Ellen Joe or [Zhu Yuan](https://ntecodex.com/guides/best-gaming-gear-for-long-arpg-grinding-sessions).
 
 Bardic Needle, on the other hand, is a "passive" or "crafting" system. You do not spend Battery Charge here. Instead, you spend Master Copies—a currency gained by dismantling unwanted Disk Drives or completing specific tasks. Bardic Needle allows for high-precision farming, especially at higher store levels where you can eventually choose the specific slot (Partition) or even the main stat of the disk you are creating.
 
